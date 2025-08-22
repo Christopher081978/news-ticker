@@ -1,92 +1,22 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum's All-Time High Momentum: Is the Bullish Case Still Intact? - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZk83S3pKcloyaXktQ0pJbHNDdFFWNWVZNXk3Zjlfay1PX2NqX1R2UXJNcjRwQXQ5Y2VweDJoNkJwaWZhTDZfeUVpZzRBRzlQUGJGbzFLS0xWaVc5dE84STBlVHZETlNLVUEtbEw1dnBZMUFRQlJ4V1RPamI3eEliMlNCMmpDbHd0a2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:24:34Z",
-    "hash": "9d10257e332b5aa9a41a41bf94083debcb0ae9871f274a29428071270790efa1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets (NASDAQ:HOOD) Trading Down 4.5% After Insider Selling - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2tSRTRlTlUwU2NjNHNCZGhPT0NOMzBHczJLRFpPcVVWd2NvMlFWZ1c4OExBMXEtR3R0Um5XcUNfb0VOZjZoUWpaTk9oTGo5S3RndFAtLTZHaGJ2SmtTbVpGaHhHME1UNVEyV0M5UVNOdnNtbzJERnZHdHRZS3cxSjAxUkZobjZQNkppbndpbjZlakItaW5hVU5wSU5RazdldXRadk9mTjRaVk9iU3hmTXV5U3lpZDg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:22:05Z",
-    "hash": "ecc95498efe38aa446055a2cfc6a60f096ab7a5c6b8710edd719740f392cdc4b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "'Very good sign': Grayscale, Bitwise, and more file amendments for spot XRP ETF proposals - The Block",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzZyUlVQNmNiZ2FWbXZPVFRrMVVfSVN5LW9fLWp4STZJMXoxOHdFYWlYbzNqSFpGSHB5Y1UzeE1XQlIwcW1UN3dERW9FNDNYQWs1eEhHcDYzN2lKVlJGaXBXVTVLOEpWMk5GMXRIcU0yNkcyMXl5RkVGT3ltZTJRZjhrbXhicWpuVzlpOU5KNjBqb0RGTEQ0RmxnSWN2a3I5Vm45VFdRR0hKSHZhUVR4d2l4OVdxbXR6TVlQN9IBwgFBVV95cUxNdl92MHdGdG1XTFRaOUhxc3B5UDB0OW4xcUxLUEV6b3ZoS194VXcxZnN3R2NacGRFVmdHX0ZnV0RyLXdtbTUyNHJrWDFBaDVMSHcyYy1SYWNURVRJNF81OWo5a2JWOS01bjQ1UXlDVldFWi1Fb3N0X21qUlJIZW1QdW5WVEhOWDAzRENxNFZ3a3FvUVVmYU81S1BJbWowTnZ4VTVSOHkzOU5iSGY1V1h5WmRfY1V1OVpndDlOY1pyTDRDZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:15:16Z",
-    "hash": "268512dcf7170a5d93b6d621bf1dc15307be84b71c1ab5b0c2e8df8ffc2d28e1",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Options market implying 6% move when Nvidia reports earnings, says Mike Khouw - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVpzZFJ0dDh0ZWVOYllBa1VvcHVrUVNCbmptZUQ5MDZkV0c0ZXd2b1NySE0zNVI1clVKQUxzMzR4bGwwSGRHal8tdkFodl9fTkJGY2YxSmZsWVh3bVpiTG9Ta0lWTkR5dEhNcnhvOVh0eWJJdzI3LXdJVEJtdVJBWUlpeWdkV0Z3bmUtbDlfQmpYaHFlRkZ5blM0MVA3N2ozcnkwZmRIb1BzTy1ZRXRqSzRhTzNpQ2tP?oc=5",
+    "title": "Nvidia earnings, Treasury auctions to be in focus next week, says Vital Knowledge's Crisafulli - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWGVwUW9DbnFoYkE4QVRnV29RWllUbkRQMC16Q3BwVjVMOGpMWkNKM0JmQ3R6VFhVZ3hFOGdqUFZnR1Jrc2FBV29vVGxkVlZSXy1NdVhTWjJKeXFRTGoxTjJCb3VQWHdoOW9XMzlTaHZUMTJsSkJZTmJzbHhrV3h5OGlKdmlYakhYd3lqNXczNVFxQVN6TVhNTl9vc1dqQ2FJRG1xSWl1Nnc2YWJuR0hwaHhRcmJZWlpycjhFT054RG8yVWVSUTBYOElUdUV1bnQwV05XZUg0WXhDRTRvZF9KTExNS3ZCOTBXemgxLXBHX0FWOGlFSmNmZGJDdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T22:12:43Z",
-    "hash": "65ebb77a62ae3775f82e13b12fdd7ffa9f6d01be83e678dffb89b385a6e79102",
+    "published_at_utc": "2025-08-22T22:41:05Z",
+    "hash": "2b71b16fbf45429a72923ff86c670a691815628340d47ba8e48b4ffeb92f3903",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "BNB Joins USDe’s Backing, XRP and HYPE Next in Line - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTBDd2JWZTU0dGU2cGNyUUt4TndtYXZwN0hab0tlV0tpc25GMUtVZUh4MGpjbGhmb3NfQkZNaXNJQ244eDdvMm9nNm1ibm1ZUUtIb1RNSjhVeXQzQWNibXBPWUZsZFlHTG8yTEhpbEpEN1FTdUJQZmI3X2dsZFFXbw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "VanEck Files to Launch ETF With Jito's Liquid-Staked Solana Tokens - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTFZaHJRdm1oM3lmRFd0WFlTXzVwWDh4WlJ1S1BQb1psMS1PUW9WZ0ppamszYldJZTRrbUlBQ1J1MVlaVTREaklCbGFyMk82MWlLOU90WE9OWEV2NnZxMFBkLVVVUnV2a3RvMlZFT2Q4YnkwUnRpelJhNE9mRFZsY2JjT3dVbE1SeEHSAZIBQVVfeXFMTllVR2pjZjhydzhTRTdDZk50cUk5Y2M0UUFzMDFHbHJGYkpBYUE4MEVTaGJ2TFdfWGs3SHAwYUpabThtekphM21DLTJvakhXWW5SRGpSbkpScWRGZkFZbWxNdjAzWUEwSXNiX0REQzhrWmRRaGY4a0N0V0NmeHlMTXpqUWE3Znd4RjZoWG5jVnRMZ3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T22:12:05Z",
-    "hash": "978e7b378e7a881a738160f97281de630dbfca6f7b912d742385dff8233a09f7",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Six asset managers file amendments for spot XRP ETFs as Grayscale adds new S-1 - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZkNRTlhna1ZaS1ZtbEdIcFJPTjlCRWU1REhRMXNpS3M0bF9keVNNYldOX0NQWk1yYk96dm45ZVQ0SlVYNFlrdFRSZWNRNTNzcTB5UEFSeEtybVI2SXROcDJGbjlsaEpVRVA3UGJn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:06:44Z",
-    "hash": "563c33b5094a1428d15665f4493d9671f11ec5f0690343b73cd17763c91c8f9e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Rises 15% and Hits First New All-Time High Since 2021 - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXhKTU5OR3o0UWozaTNxYkhvbGVxSGtsSjRNVG1IUXM4OGpwa1M3NGhEWEw4RC1KUjl3WmdNMmw5YU5JWEFPdzNFUGM2Tk9JaTFaMHZHUVptOHpNdFp1cldlQjFjcjJWcEcwZFJWWk9NaDRpZDNJenpBNHNDeDBCbVoxN3VCN3V1Um1FZkZMYUpnVkxDVDNPS2JyVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:02:19Z",
-    "hash": "649c7cf7841e23e2cddeb049b74f23b6243fad5663fccf1deefcfd3867b6037d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's Momentum Builds Ahead Of Q2 Results - uk.finance.yahoo.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUE5WQm1rQ2FHTHVWV0RwZlA5RF9zWlpMbm8xUlJ0dDdYRjludGpINk84STVrSnVZS2M4aWxKRjBWVDhpWi1zLVBNbW82cmdiMHlPNklxTEVmS2dEOXZWTDVwdmpuTFBuak9fNldwdDhIWFl3bUMzYWFPMklHcGhkTy1XUExOVTAy?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T21:59:07Z",
-    "hash": "034377dca2d19caca33ad1b570be0b5007570b2ca29e8c34f7189483abc37e40",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Trump's Stablecoin Gets Major Boost With Coinbase Listing - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3F4eGYwRkRPYU11NFJaN0dkR0paYmZ4bTFNWmtYRG12TWYybzlQRk1jaXJiSXJHbU53RUhzYlV1Q0tsUnNDRTVaM3VIWm5MUmpsYkJPQ1dVTHJlM25rMHBUbDZDZDZPTmVQcGJxS0RZaHowbWU3Wm0xSEVLTGQxa3o2NXNrSUU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T21:48:17Z",
-    "hash": "0794e784987a98529d1c9161f4805e739d1b6a09b8c5954e128de4251a622f8f",
+    "published_at_utc": "2025-08-22T22:37:09Z",
+    "hash": "1051b6bee8a709e5cab96e35325b3d4cbf6c992346c6899dd04ae647eacb5d82",
     "source": "gnews"
   }
 ]
