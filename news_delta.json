@@ -1,102 +1,12 @@
 [
   {
-    "asset": "XRP",
-    "query": "Ripple XRP",
-    "title": "XRP Price Forecast: Ripple (XRP-USD) Faces $2.70 Test Before Bullish Breakout Toward $4.85 - tradingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTBUTjMwcFdIR0F0ako1azFVUHM4RVBRdTZkWjV1Z2xiR2NUbTBCSnRjalJIYzhNeU1icmE0WlBYOGVRN0gtVGstZVdwREJSMlFZZVhZU3luN1dtSm8wR2o2SUV4V1JXRmFNSGZqX3cyYTMyVUtWWFRyYXBLU3hTeUZocjdkZzFwUnJTdHlSLWlqUkRFZVVLTWlaWHhtaFRIMDQxdnpKMkhPR3B5QVZRZ2dhTjJoV1p3ZC14Rw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T23:17:40Z",
-    "hash": "462a9106caefe35f94cff20b678d4f8d096e09d86df1102db3ee906ea2218efe",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia's Earnings and AI-Driven Market Dynamics: Navigating Inflation and Infrastructure Demand - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXotRjlwN3QyNkRTZlZEblBPMFYwdVE4MFBBeVV6LXBPdlE0VnN0d2otREc4V3g0ZjZyc1JjWVdRRzllN3lTMWpnUmc3bFJITEVydjRvblBDUlFXNEhOaUtfNVYzcV9vOEx2U2E3U1FHZm5GZDN4ckFkT2V4UFJQcG96N0FDTzN1WHI4S1Mwb2ZkTTVNdlo3ZmF2VTV3ZmVya3Mya0dXcnBPY2RXT1VGZmNOZVBSc3lGazYw?oc=5",
+    "title": "If You Invested $1,000 in Nvidia When ChatGPT Was Launched, This Is How Much You Would Have Today - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zVHVWNEgtYlppTjRFQUJhY3ZyZjJpZjZTbjZPd2hZdDBBamJYUTVPWmRZbTBuaTZCT05xNVZHT3JQRjZDcnRRNHktYU1SQ253N2R6bTFTNUQyOURuYjJTLVZNOURnaE1Xd2N5UVlITGM4QQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T23:15:42Z",
-    "hash": "993a17f07f495e418ae224a33c925fec791614ff0fe4058e38dea28440f90f58",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Why Ethereum Could Outperform Bitcoin in the Next Bull Cycle - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6QXVIVkVXSzY4RjVQei1VQkt6WTBUWTh4MHRYc1MzVU9ITGJZV3labVNNYmVZZ21hNnlHZDA1c2xXOEhsRy1Yeks0R2o4NE5wMkNJZXdNWWpRSlJYamM5LTREUF9SRlpjeWJ6d2ZRbndoY0s0Y1dTbWNRbjR4UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T23:01:35Z",
-    "hash": "741db26ce6342d16f9c2a152d76f31c4621f612b9d814a022f4c0c884d2096e7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana, Chainlink and Remittix: Analysts Name These the Best Cryptos To Buy Before the Next Surge - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVGY4STNfekpPNXg0NlNsemFfSW1QNm83SFowX2pqWERSUlFaUnhQQnN0ajhtOUpXd3Y1Ylc0Zl9ianBKNnBIbzI0dmJLT1pzVGk5OXo4WnFfbTlXWTNsenlHVi1uU3o5aHd6cXZLS0Exc0h2b1B2MVN4aTN5QldfXzNMd0tMa1dVTGs5UF9xcUxjRFBScUotWl8tLTdHdnl1NzJpYi1EbnRkMFI5VUJoTTczWmZpVU9Bd2xSOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T23:00:21Z",
-    "hash": "dcffb465d671d73d7d0c3e906301a69cfff95634ff5d5910633879513074a1ed",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia earnings, new home sales data, July PCE: What to Watch - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWUZERXRXMF9NS04tRVRreWs3RTRNQTFPaWpTenI5dVowUEEwTE1OaGl2Y2F5YXlMaVpfMzdhU28xamlnTHd0eGtvMVNuOXhYNmoxMjl1aDJVaEhnbl9xUVFGOTRKbk1zWmlKdEpqcVpZbGlZWHNsNXlQTk5Wb09mQTJnSHk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T23:00:00Z",
-    "hash": "52a42d11877269af02964d43549ecdaf6d81eeb95fd5e0e14de40bb87fa3a661",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "If You Invested $1,000 in Nvidia When ChatGPT Was Launched, This Is How Much You Would Have Today - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVXNQNGE3UnB0dW9mN2pBeWdleDJLTEFicGk1aTNMRGJPZnlhaHIyNVFkVHltM0FsUFFmUlAwTm1SaTQ1SGV3RjEwd0VTTHQxeDQyTHYwbHQwN0ptXzBFNFpxSC05OF94cFgxNjBCbTlWSUJiamZWQWI3NDhNd0F1MUV3N0JhWmFvS3M4OXIxMGJPeGR3Z2l5aw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T23:00:00Z",
-    "hash": "1661b7cbe4f74ae6da2414049c31db012ba7eeb9e771418f95a3e2da23138a6a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Wall Street Has Chosen Ethereum, Leaving Bitcoin in the Background - Mitrade",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XVEhaNVVhY1RYZW8zZlo1bEVCV09XUHRqRkQ5MzBhdlphZFBlU0VNTEQwU2hqM3dZNms4bEREMzh3VThYcklkUERLVXdxUVZHYXBGN19wQlFXZWY1QUdxdVZmbHVZRy1WNmY2UG42WHBtV2xuNFdWNkRjYnduZTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:52:32Z",
-    "hash": "5ebf94a346b38623928067c69c3fa13d29867d61e16679316bbeb753d6fde9dc",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "Freestone Capital Holdings LLC Acquires New Position in JD.com, Inc. $JD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0ZmS1gyb3RaTjZRcVB4OEZsRXlKU1BST3RxMzhVSFJpSjFoOE5vbzVURW1rYWhoUHg0cGs4dGRJME81SmpzUVlDVTNLYlNTMHh5YmlNWXMwRXdUa3ZYMXg5bm53NmRpQW45dlQzNGRWVFVhSkp5MXZ6LVVISGFHM0lBQzM0Wk01SUxNZ3pXTlFTamgwOU9odzFVWWY2UkVfTUpEVXFKa0RaTW4tQjhEWUhacmJQU1dlbFYwNVlEVGo0YUt0aVk1bVRB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:52:21Z",
-    "hash": "3673597f93bb10a7b824bc34a3ceaaf0d15f9e22e686e17d5830a5dfea29be7d",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "JD.com, Inc. $JD Shares Acquired by Qtron Investments LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHlUaUl5S0Z5Q2Fpd3V4aGxKemcwMDdpbmRDYkVCUUJEOEFsa2VTdzlGVk5WYlVJQlNrSGZfSDdFR2xKMVNvMnY2Q2ZxbFRLNnpDaHVwWk84SElQMEpyRFBsUTZRMEJmTDFUN2Z3WWc5Z3VGRHVvaE1Fb05YSk1OZGFWeldrUWNoQkVwMmNaSVdKQTQ1cGh3aC1FTVcyUTVxTlpJZ18zS3FqVUZYYU5hMkRLcjI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:52:20Z",
-    "hash": "9ba1b1d31ed900d8848860924e1028c1b47d8ac75fe1111efba50242a22d34c8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab's Strategic Expansion in U.S. Semiconductor Manufacturing and National Security Tech: A Cornerstone of Space Supply Chain Security and High-Growth Potential - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdC15V3d6VVVQN1VDdmdmNGttMmpmN0RkOGxPSFdwUUlkX21RaGJUZ2VvdlI5UXh5VGFnYktJMDRYamJKWlJGbTVweXJCejJBX0NPVU9BZGI5d2YzVTkwS2s2b0pQaDZIN296bUx2Nzg1UC1OOGhON3dqQUhzX3hfMjlsOUhBWGluZWdrWW5uS19ydEFndlZXTWVkWEN4ZHE0QmVGTjRFXzdHTmNjWEdBY3pzdWJlQ2JhN0tSSEh2bnlXWmtjUWZkdHJyOVJXRFVCX2ZYUHZvTl9wR1pUcFBjOEUzVnItZ2tERGlpczFDZWpaVExjSWp1Z3AyZ1M4RWpDX1YwQ3BJN2Y4UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T22:51:27Z",
-    "hash": "34ee809346f74d9682ed388d7512d96f65600b883c4697d86daed328855eda4b",
+    "published_at_utc": "2025-08-22T23:35:27Z",
+    "hash": "97069ec8053e7b23ab4e9f5766101a326e687b7a9d305f9c80df4a09a595dcb7",
     "source": "gnews"
   }
 ]
