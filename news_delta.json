@@ -1,52 +1,162 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "BTC Price News: Bitcoin May Hit $1.3M by 2035, Says Crypto Asset Manager Bitwise - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTh5RUhmUmw4NnpicmxpcVVvcm9iWktXU2xwUC1fVWFXZXRMdmk1aUxId2FZa3UxQTh4T2stQTFBM2N3dkxXeVRiUE1iZFpSbTdKZVF6UGZfWVl6SGxxbzJvaWZucjlIaW1TYldtcDdUNjBobEM2ZHdVNGtvQnVtMVhud1NvQkJvbG4xSjdfRWNkY2VzUGVmNVE2SU1TZWNsNGlxSG9rVXBxS05mN0VfbV9GZzE?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Restricts Sensitive Roles to U.S. Citizens Amid Cyber Threats - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREFFX1l0TDhmS1NIWFkxSXBnNUFoVDcyeXNsTEdBeEZ2Zkp3a3BrUHBOOW9iSjNKNk5aR3UySlktSXBubmNSNEhWSkI5ZzloQmxYZVRuS3g1bzFlU3c0OHhrNVYyeEJ0V2k1RmE0Q3lCTkMwZDBubFBfcEJaRUZha0dnQVlla0Q0Ul9BT0Uza2wtOXoxdG9N?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T16:50:46Z",
-    "hash": "afbe67328761a86c807c9ef9fe6b67471e4d31712a044b5c688b8cfaca06dd58",
+    "published_at_utc": "2025-08-22T17:22:11Z",
+    "hash": "090f88f204c548e43c9bf6df2d7b54f675a49f4b48963366f1b64f13a041b86c",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow Soars 900 Points As Fed's Powell Sparks Rally; Nvidia, Palantir Jump (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3gxNGR5b2QzRVNMcDlwYzFxazNld29KOWU2dmUtZUxVMVNjek1qeWwxRlJMTDU0Z2lQdS1MYWNiX042U3F4bTZJSjBTMkNfS01IYzJERHdtRWN2UVFHWlhLR1VSZWRSWll2VkZhOTVRU3ZEdkFpbnVzcXZnazA0Nlhra2VqTS00TmRmbW4ybDQ2WGhtaDFWdk5oZ0U0Y0NPSXBnNE50NjhWUVJSTXd3QUF2aw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Ethereum, Solana lead crypto market surge after Fed Chair Powell hints rate cut could come soon - The Block",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXczOXZ5amtqYUY3Sll0UGhBYXlIdWlzMXFzdnRqT0E4Y3dJRHdvRkxZeThoenFUUjFTS19TbzFGaVM4b2Nrc2pVVVh2dEIwTm11dTFLQlRseTBlZTAxNHNpdjlXTEFmUGxyTHU3UWdGcDJrUXB0WW83SDV6b0VpdmdkcDdycU1aYWY3Qk5SbmJhWHp6SV82aTdGc3NDdzN2b3JnNjF0bzQ0bDMzVk1LVU83SXM5QW90a2JZcFZnb2VfM25mLUJZUUNn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T16:46:00Z",
-    "hash": "0bd9a10d8ff90c86cd7e96ef2f95091f409fe83171e61aaaaa31e1245bfc5369",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Pharmaceutical Sector Resilience: Novo Nordisk's Strategic Positioning in the Obesity Drug Market Amid Cost-Cutting and Competition - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbTV0MElmUVB2VUozOFBucVZJV1NTY21NcHN1dUlndTRfSVdndzVTSTUzZnIyeU5EOUxEV25CQWQweTBlcEdvdnpPbGRQYjlOUDlQN0M4aUFDLXhsOTlqM2FEQWhhOE05bGNPUzhhZjlTc3hBVUVjQllpOWZkUC1rYjZEVkMydlR5M3dHOTZucXlfWnZIZG5zdlFQMU9iSmpwbEtGOS10WTlJNVdrYjNjbk9ZcXRtTXV5cHJzM2dUU3R3Tjhack56ME5QVzZQS3BrLW45NlhBWlk4Mmc3WnBhdA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T16:39:49Z",
-    "hash": "0b4dccd74f14f7af3cc3686080ca90796dc58eeaa560388e809f16020a4f1379",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "A Crypto Whale Just Woke Up After 7 Years… And Goes All-In on Ethereum - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR18tYWJxQVRmUEhkOFZINXh2XzVDNEg4ZjJWUmFSeDZfUmxpLTVoekZxeDZSak8wOTVyVW1SMW1ZQkZ3NVpiQ1FNNmZ2RmNOdlpudzdyMzZHRlM3WXdnekpqTmZUb2d5VlZpUXJ5Z3VZaXNfTEU1UVIyZW5YeldCZlMwTElJV091d01PZTF6bDlSeEVieU9tWTBaNldjZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T16:38:52Z",
-    "hash": "88eb132e9eaa5c53d49a9411cb60603ccf5473d0334699b4efbdb8fe3f6c9fcf",
+    "published_at_utc": "2025-08-22T17:17:15Z",
+    "hash": "dd68e323dfff7d57fb1488a88169690e2ec0bae1b8930d2925db7c6c217b907d",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Anthropic’s Claude AI Predicts the Price of XRP, SOL, and DOGE By End of 2025 - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjFaYUFYMUZMNlA0RUJBUUw4OFg2VjB3cWRTLVhpSG1kWlhYRERZeldIUVExMGtUMU5FbHVpTE9sSjZxTjMxanAzSWZTbnU3d2xlYjZ4VXNneDdqU2FaVzBQT2RkQ3FDSnVFTUVfQ0J2am4wRzFmNDhvU0l5Z2UzVjBkZWNqZngtUGo4ZG10Z3pMeXBRTDM2c2NidEgweER0eVRfX193?oc=5",
+    "title": "Earn 1,053 XRP Daily with SIX MINING Cloud Mining — Ride the 2025 XRP Boom! - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTzFXUFBycExBR3NQZE5uVDRPeG8xRmZRd2NzZHFXcEtiX3BwdmtsY3lmSjh3MkUybTg4ZW93bVI4dl9sakFuMXN2SkRRVVBDMFV4X2ZwZGdackc2WlNVZWFJLXlPbU5ma3E1S3ljMDMtY09meFpQVERmdklBa21qY3RrRFJpT0tTOC1UTnRuQjE4WG96WEoyb215TFY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T16:37:13Z",
-    "hash": "70f218b3184a6b23026b31a720c49604a43e1c82bf7329cb86f2c5052dce558c",
+    "published_at_utc": "2025-08-22T17:15:47Z",
+    "hash": "c31114871e66a659857ef71625392c591620bb82f83f5a0283e5a519fe93d6ba",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum pumps 10% today — Peter Thiel leads investors into Ether; could ETH become Wall Street’s platform - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNTWpudFp6dExaREpQQWVBbjJON2QzVHNvZzNkV0N0a0lqSGsteU5nUTBJamdqXzhOYksxdUhvRzVxMG91OWpjRDktX0pzcFB2dXowMnlDTURTMFRrSlBzMVBfUXZ2WGNOYTJRSmlUQTRHQ0NGRHI3RUNoT2tJRGFZbjFwUHFXTUdpaExfRF9QNmdyZXdHTkZ3U1k4TlZNdDNyYzA2dHk3WnhicWtKMnk1RVNZaUtQcWhUVmlXQUlMOUZXZTFZenk2dEZIMnZvTXQwNVZYemJReE5wbklkNWgtSl9jeEFzRWUyVVRqVmZZMFpnbzlTb0ZHalF5QkFMb3BXYVMxZG1nX0tGTzFQTHZ0elBUakp5Z9IBmwJBVV95cUxOb0sxbU1Ham9oZ2x0blp6V2QwdFR1ak9MRG9PYlRBd1d5THlQUVFLaExuZXA4VlVDQ3lRdHJKck5ObEp5UUdMOUVSOE95dVFCQmVsSHVLTG83dkl2U1hJOTQxTXBHcWxQZHJoU3g4blpIbVFaRDQ4LU5kMTdUSkc1ZExQWENDNC1RMEhqY3pkRE1HRjBIUnJDS0xrQ2R3T2JwTnhqNTh5N2RxVkUwS0c5NzVYc21YZ0hyZ3RvQVZsQWZaUjhQTkNJSGNIZEZUWVZMQkg4ak5SdWR1bzAyc0pvSU0wb2NZbnFONGdzN1FHSGZXN1JqcE1keUJURTJhOTlqR1J4MlhwQUQ4M1hFMXppemkzVDg1eFJoNDQ0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:13:24Z",
+    "hash": "333d983e9d686482dc39486a6f8fcdcfb97f0e0af4592ef6a139fee7f129a486",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Bitcoin and Crypto Stocks Surge as Powell's Rate-Cut Hint Revives Risk Appetite - Investopedia",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMk1WVk5tNDBsdDhNU2tEZXhLVG55ZWstU2lJZklGWlJXWk90dmtkSWZUb3lEZlZQNnFYN1ZieGNEV0t2aC1qTlNBYlJhWGFCcGExWUZ2d2o4TzVWM1NQZ3plSms0Skd2MWRkZVZKWi1XUGdWalZmNndiXzZtQUo2M0IwbnVvdC1UTUtYbENWUlR1Nm1tRG1FSFdhNlpFSkhKcWhfbHVjbjl1Qm5yRVJDWmpDWEdhZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:10:53Z",
+    "hash": "a736290770332448a069894342e4242297aaf98010457534a6156b42dec5261d",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Brian Madden's Top Picks: Taiwan Semiconductor, Alamos Gold & TFI International - BNN Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNG9NVDFnQU14anNOc0ZlQUZGcmxpejhfZ2xNajduOGgwTUdHWFlQRTdidGhVYlpYTlduNFEtRXpQRnZyQm9lX21MZTgzUTU5ZjVkSmxPMlpod0VBNXgxR3R1ZWtfSk1JSVItck9XbGhDcTVyLTQ4NGR1QTR5RGxTMWJTcVdEMmxFLU9pdEQ3NTU4QWdDNFpiUkdDSTFRUkZaOFo1d0dpMDZsdGJUdExJRzN2Tm5KNi1ZNllsa0xvTUxmaEF0bkV1aXRWYUlDNUtuTnBHRg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:09:18Z",
+    "hash": "91830221770ef61b8fda9b0fe36efca6df1fbc1a34292d1462ef6295fdd305df",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "SharpLink Gaming Launches $1.5B Stock Buyback Tied to Ethereum Holdings - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFN3X0pHeFJjNFVPMThuN3ZSSFo2bGQybk4tTVB3aWdEY3g1ZVptR2hhNHdKN1V3QU5QZ3labWw4WFpINk91SExPZ1lYcnBIUkRKS3hMNFVCWnJPb0VneUZkVmtTcm1MLVNFdDIyVHotUkZPdFFvVWJaWXRsYTZ2QlBJRGM1bE1zN1dxOUxoZjhjSHVzZlN3dGZPcUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:07:34Z",
+    "hash": "aaa6d615af069752a166c69c0802d49b32ca3ad9ad6f46457548f96bfc840a82",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Price Prediction: XRP Price Faces Heavy Sell Pressure as Analysts Shift Spotlight to Rival With 5,800% Forecast - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDFOVFhaSXRIdHR6TlFGbmcwUjRmVFRzbkZMQUlOY0V3Vm1rOVFfUzdIM2doOGx1T0dqU1JZc3NxTW0wbkVrWTZtMGVXbnZubnh0YWVBbl8wRFNlZEpsSVZNQnFDVzBNMml6RVNnRFdVcEhGT0VmRGdObU1TMVBhbkY3OU9Jb01Bc0ExTlc2YlNqako5Vk5fMlN1MXpVTVZBWlZsOUZELTc5UzNwVS1GV25VUmNkbTF2MXpWekQwVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:06:00Z",
+    "hash": "d64c22a07d537671522047652690920f515dc18acf1faab43927cf2c6260b426",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "SharpLink board authorizes $1.5 billion stock repurchase against Ethereum - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yS3pWcEM5elZQNkVvUVBwM0ZvR0pmUU5fb3pTaUJyZHY4VE1uOXYyRy1LUS1HUzF3cTh2SVA5RjRpWGJWTmtiVnRPcm9PVjZvTmpyQWRNUFBJSWNzNF9xdkk1c3Z1Z3pUc2ZwVHBMdXZoMkNHN1MzQkYyaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:06:00Z",
+    "hash": "04102af0643d7179ac2940695d23e2f14bf7e237fa146fd62aa27783f060bab2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Top Crypto Coins Right Now: BlockDAG Presale At $0.0276 Could Deliver 35x Gains - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV3hUWWJfZWpXZm4yMGwxdmluS3hYMThycmVaODUyb2tfZFlXaDFXYk9fVk1Cd2VTNkQ2eHZnWHVuUkRGbDg3cE9Jc1lXdE1kQnRiTHNBWWgzTXNpQzN6NGVoMkxVeFE4bU9XQk8tcm4tOHc5MmZ0MmNLY1JBVC1mQ2VTb0RnSGQyTUxqOVBSYXBhdTBPLUNYWkN1NDBiOUpRWWlMM2xKaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:03:37Z",
+    "hash": "f2ef922c858ea2d3c5715eff405fdb2d7e2872dc2c87c78957bc4f68b0f064af",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Treasury Companies Curb Their Enthusiasm as BTC Price Slips - The Defiant",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGhvSVpYTTRmSEQyUVZyeXNPbEFaWmZYMVNXdTYyZHJMUmFmeHY1Q0tVejVLTVptQzh6SjhxUENXSEZEZWU2VXlFU3h5RVpyaV9NdTdEVWdxdVIyajRuNlVCV0lZMDBwTVN0b01STDNWc3g4SE5wVXlCaVNkSno4Ny1RTldoWHVERGJ0QTlkdFY2Y0xvNGZHeFFrU253aVcwV0h5NmxOOG10Y18yMHQ0Zm1CZzRLQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:03:13Z",
+    "hash": "3c4cf8e9e603cee268fec00143848c7e6d5cfb04be36030efcef8bca4d6d2c82",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction 2025: Will Ripple Rebound, or Will Layer Brett Continue To Take the Spotlight? - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNi1BWWZxOXR0Y1haaDVHb0FSNXhsSTJPR0JYaV9mVXlRVjE4TnktbTg5LXFjQ0ptYTZFU0dudFdvMkNpUHpodnVoSGZqS1IwM09YeDVXM1FQc3RxS0lDa3JyTmx2VFBTU2p3MEU4Y3M4OTgzVGRTbEZBd1RXb0YxZ3AzWE1FUXBxME04bkpqdEZMbmpHUW45X0F2OEMxYzJVaVJwMEZNaFFUbTdEN193aVlrQ3NXMHB0RmNwaUFNNmk1Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:03:11Z",
+    "hash": "b8947e34bed94980bd3fbbf1e5287d5a319dc6128422d6f87d9b73d742c638f5",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "SEC and Ripple officially settle appeals, XRP case moves to final enforcement - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82Q2s0WWR6UUtEN1k5QXJxN3I5RVB2X2ZPcHdGeFdVZ1pkS2VFMVF2cWNDUWlfZmNwNzdpTUF3emVtX1ZndkRXbExWS1lWU0JiZ3pHeTMxZHNTck1FVHg4VDMzS2plc0lWTDlUSlBsX01GVzQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T17:02:20Z",
+    "hash": "933840b98b8cf05290d917c4782815a9ada41493c81d21d429cdf41bdce8dd7e",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "China’s BYD to open EV plant in Tanjong Malim, production kicks off in 2026, says Perak exco - Malay Mail",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTlpvazdENUFVV3N1cnlxYkhXWGpiRUlBUV85RWtSeFlxYUJfdDJZOFNjd1VtRjUxV2Exei1zcUN3cUJUMGF4dHJla0wwdGpadENQdnhEa0dncVJqdzQ3VldZOTIxMzFweFRKbWdYcmUzcUF0Y3hOLXJVcjRjZGNoa19SSmtDa2NOcUdZeUlTZC1uYTNuUFFvRjJuLTRFS0kxdWZPbGkxb0JFNzl1Z2FBcDR5ckIzeThyOEdOYWtsOUZXWklMYzhLTngxY1g1MWVwaUUwQkY0VkkzcnB30gHiAUFVX3lxTE1sTHpmLThGUUxmZnIxY2hpVzNVNVpJcjJYalg2OFdmQkdWQmtNYnBfM2tBa2R0SXJJQ2EwXzluSlI3RU9OWldhSmoxckFTZVdxa2t5cmRidDBWM2dpYjdveXk0eWgxMU44cDRWQk81cGRQY3pzQklXUjZ3NEF3V0ppNHBxLXY1aEN6Y2tjSnd5RVpITDhnaE5sY0gwYy1zWGpyV1pGWVFTTTZyaTNtSEhhb1pHbWxNSmJ5NVVwc2VTTER0dThXc0NYbFZyMjZxVFNpXzVoY1lkVS1nVGF6cjR2SHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T16:59:45Z",
+    "hash": "2b5bf2f37d31532d690c6848cefd13a1098ccc87180ffe31ba819428959a0314",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood's Strategic Momentum and Crypto Integration: A 53% EPS Growth Story? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkQzQ3F3TEp5bjBVTllaZm9uQWpMTUdvalo2NEppaEpOQlQ2SGF2WmlhWTZPWkRsYm9vMVlPSlFWZ1hHSmpoMXNTREJfcy1NV0NEMnBnU09FOGZxRUdNTVNrenZLY28tT2p2YlZfbGZlOUJxcGVfR0ExWDB3d3BMdkNNNGZvTnQtRFlXYkRfMmlwWnMxcWIzWVlFaDhqODB6SlgyVg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T16:57:43Z",
+    "hash": "b65626ae3f434927fcc2478f412c11d6618490d08ce6744b2be9d1ababf74f35",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "EU Accelerates Digital Euro Plans, Considers Ethereum and Solana for Settlement - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2RTWWRSU09hcjVMMXFOaXl1U2E5YkprMUlhVmN6SVZVX1J0eWJMVENfalRhMnNVUWNLWU9MOFFqekpBZUIzMWtMVUltV0xXVS1MRzEwMy1Nek1yS3N5dnFTUEtaVk5KWTRLYXQ1eXVrWjB0Mktibk5LYzd5eDFLckRqaTF2OHFMUnVfWXlVZERTZ1lUZEQxWVZhU0dDWHdFeHpUYjB1bw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T16:54:59Z",
+    "hash": "b363b2428a75eca52d998c0997d6ccd47b2211319c492e50befa5e4f34bed81d",
     "source": "gnews"
   }
 ]
