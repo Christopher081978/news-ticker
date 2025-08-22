@@ -1,102 +1,172 @@
 [
   {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "The Chopping Block: Robinhood’s Vlad Tenev on Tokenized Privates, 24/7 Stocks & AI-Verified Code - unchainedcrypto.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNFlMQnZCQnRnWHdiRGVJV0x4clgyM0tDR1Jxdk1tdHBxV0ZzR3BFS0pRR3NMRUJuMFEzZWFsS2RWV1V1MEFPMW55MmpUUy1NZnUxYTRnYmdoVE82M3dwRWdjb05fY2dVcktnYlJxT21oVkpqN0Nvb25ZQTJaMHdXRzE0YTBacEFqaGJEZWNhSVZDdXM0WG13d3VyekNkNnZwX19janA0VjFzcEwyOF9vUlYtM2xWV3Rxa1pHbQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:27:46Z",
+    "hash": "a3413f2139324b708a983b16e630480fcad5ada899890fcfbbd377c2ef5de9ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Dow Leaps 800 Points As Powell Bolsters Rate-Cut Hopes; Nvidia Earnings Loom (Live Coverage) - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ3gxNGR5b2QzRVNMcDlwYzFxazNld29KOWU2dmUtZUxVMVNjek1qeWwxRlJMTDU0Z2lQdS1MYWNiX042U3F4bTZJSjBTMkNfS01IYzJERHdtRWN2UVFHWlhLR1VSZWRSWll2VkZhOTVRU3ZEdkFpbnVzcXZnazA0Nlhra2VqTS00TmRmbW4ybDQ2WGhtaDFWdk5oZ0U0Y0NPSXBnNE50NjhWUVJSTXd3QUF2aw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:22:00Z",
+    "hash": "feeb98934b70de5100a663ac1a8f4b04e3702529f717104290b90f7d9177e14c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO Praises TSMC, Says Buying Stock Is 'Very Smart' - ca.finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0sxTVpzV25wdlpYcXF4NE5Pai00NU1ZRVFTSDg0UHo2Y05OajlCTC1BQjFHU2dGWmhNVV96RkZHd1ZmMHdZVV96RVByVXljM1BrOThNbWpNZDdIbWVVTlJackgzbE83ZUMxODhGNTdJNUpsd2l6ZzByeXZCYW4zTkxmWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:17:57Z",
+    "hash": "1d41d4f3dc3ef3347e54f4b3c9fe9d5f973cf81223af6bb00fbfe3c90675ebae",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ethena Labs approves BNB, XRP, HYPE into asset basket backing USDe stablecoin - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xcTRUSUtkN0g4d3pFdlo1YzRHN0ZwWEFvV3NBZGRMQ05tazUtYVVVN2hQNTRyQm4zWFFWNWx6VUJOZExqeERvWTFLbURwQUg0dm5Id295ZzlMQWlUSDVjbW95bm1Xd3NBVVhpT3RKUmt1MmVMZWhCcFFQdzA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:14:00Z",
+    "hash": "c1b0b6ba04838c566d02d468d28102c4becce29f4f60279094ad1d04de53b528",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana's Wyckoff Accumulation Base and Institutional Bull Case: A Path to $260–$280 - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUG9TOXVsX01BZUFNalpOUVdBTUlyd2RaWFM3WGprOXRPM1hSVkNFS09qX0c1LWxzSjhDbG83ekxsRmZ0dlZHZ0VIeE5ZQzR5SGVqREFzTlpab1ZxckdfX1FMWnRTVUx0QU9HU185ODJGMDlQQVFLdWNuZkR1cVZIM3JEVTZ0eHcxMUIxSUFaQjd3Vnp0MFdMSjdJQkxNNWd2TXBqUzJXWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:07:53Z",
+    "hash": "ecd99eb86ba8324eede1809d20dbc461d3dc5a2ff763e31b0add3013be31e89a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Options Corner: Embattled Drug Maker Novo Nordisk May Offer Speculators A Quick Profit-Scalping Opportunity - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1NNdXhoQkNpd19TTjRlcjJoNEJ0ZW80SGd0VHpkWktheXZFd1RyOFNqdC14SXZFQXk3dEs1b0JpQ2tCZTFUM0Z6NlVneS1zSmpoQlRKNV9sRUkza2VzX05kV0NRZGdlbnlia0g2TWFhWE5XZEVIUWpFWF9QSXJsZk0zazF4NVpqX2c4ZTZBRGpMa2l3akhqMzZucHFUeUxCTE1MUUdITFQ3YmJjZk5Kaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:07:22Z",
+    "hash": "bd15f38c054a41135e333b1912fc2a9e6d8b67532cffe7269420cc6934d42ee4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: Ethena’s Data-Driven Collateral Expansion Aims to Secure USDe’s Future - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGxVU0NwSUdmN09LeHhMbXBQY2hRLWdjb1BNTERWNWt5SWdIcjhfNXhpck84bmdadTl1Y3BaNGJtYmEtRnRoT2JmaHg0bmRqM01ZdmNPOU5VWlhseTVKb003S0RHRm5sWFpqS3l1X0dUNGgwOHowblFaOTFTRmNSbDFwdDlWMXlKYTBLMEY5WWY5Y3dtQjVxY2tzbU02SFc4Q0N4R0dtYTM4eVUxOXhWMFV3RQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:06:44Z",
+    "hash": "1b7cab3be37e5a6ffad39f3ddb1e00ed1768c5fc3a19184fb467cc154adc5112",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "Quantum Showdown: D-Wave Pops, IonQ Delivers (NYSE:QBTS) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmEwNVZOUmx4cVUxVTNVZEo4Ry10VkdnZXl0OFR1cm54SlJSZTd3Sy1zVExZX3BQT3Z2NHh3WDBabjBqNVh4MjYzR21LSm54ZWJVcTQwak40QWxKYmIxMllhTlhaY1Iyc3dpbjJCWFIyM09vdWxhM29aNXFKZWk1dE1pZ1dlT3pGdXRN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:06:42Z",
+    "hash": "cfdb3ad8a997ce3675000c70f3dce9e5aa2567f0d56a745009beccaebf3fd87b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin News Today: Bitcoin Slides 7.2% as Crypto Market Shifts Bearish, Ethereum Surges 70% Since June - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkx4RnluZHEzMk5CR3JKWGpKQjhBdkVPdEVDZnY3Rm5uU0hNR2d2T0NKSmU4WmE1Y1hNSURPMUtlNTZBcTFPcW83N190ZTZ5QXdtOC1MWDB4dm1haWk2X0psWWV3STdUVjF0N1pKRkd6enI3SVBZa0VUOWlKRXdGNTJ5ZXZkWEpuT2VVN1FKdzctNUpGUlR5elU5ZmdGT3JjRkRwQ2hLeDVyX2YzNnJGUlJEd3BNb3d4eUgta3Vubl90RXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:06:13Z",
+    "hash": "466bc708c7ae43ea8e1be11179a2ddab37e3e8b83a7e692277a46c0be4b6d6fe",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Ethereum's Ascend and the Meme Coin Renaissance: Institutional Adoption and Tokenization as Catalysts for a New Era in Crypto - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONWVUOTJqNUI0Zi1rZEdHcnhJS0t2RC1xUnNhZ1FsNnZUbHRxeHpLdDBJLVQweXlfbmc4WmNLZFEtcm9QaXIzejRFX1lxWjNEeWE5dDBVYkVsOGp4cEtfSHpjY3E5MnNHbVVkNkFoNzVUUHpZMnNzUjd3eGtUZml5b1dZQ2NfWFZrd0tCc1VvZjBGdl9tM2JSblRBUllNMkR1U0hqS0RNS0VhYTBPWU9wNFhfb0NMeEJhWEQ0S2JWOGtVTDd6OWNPOQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:05:20Z",
+    "hash": "eae850caeb7d73dac52c5559506777f8693312796c6131978151e9d36194f525",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Unlocking 25x Gains in 2025: Strategic Altcoin Opportunities in MagaCoin Finance, Ethereum, and Avalanche - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDVOMkVINnMtOGNZVUVpeUpLZWRWU0ZxX0hTSTNIYUFWSXNMWW1XTHZEdExSS2dCSTR0N1ZtQ2xOT3Bra1VrcmFnYUhLUmVYT2k5em9wSXplUzl2YjQ0U0FocGQ5ajByamZoV0JnQ3pCSHJMSENFUkdydG54OHAxRGJHclJEY1p3amtVOC1VR0JORFdlZDEwcENaWkZBSVQybWV4UWhjZG1BdE1uMFh0VllHaU1lNzNRd0NnYXEyYU9laXJfSnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:05:10Z",
+    "hash": "dd7f159a221f9df60e70cdb233728b8c0a1a7e7f4a6632ba0af931661fa2c45c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Crashes Over 10% After $4700 Milestone, Investors Gravitating Toward a Viral DeFi Crypto - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSG5oM1ZGajNNODduQzRDUWRoeVlGOUVTQ2VPeGhQeTJSYnVSUkYtZThBRngwcjlpQ1BUSEFXTnhxWkFrdVZJZ09NVkl4djBmeWFTTjA2SE04YmlkVXhjU3Q4dGJhYlpNVkxmNHlXb2lRbmRTZGo4d0VjZS00VmdtOVBncFkzMXlVVThWdlBwME93SlBLZXhqNUtYNFlEbXZ2SEhIek1nVzA0enlEUm8zMW9pOVJoZlNyMGYzZDc0TGh3cE85WmpYZA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:04:00Z",
+    "hash": "9c138257d7da0bde584f8c08396bac8e4d1fefdf2dbc9a8e3855c5a92d6b7fe1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Could Double by 2026, While Layer Brett Aims for Shiba Inu-Level Returns - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV1U1RmtjdVFDVFZRRXlzZW13aWROeFp4Uko1dndPUi1TOWdkSXI0OFJyZlhGVUlfYzN0Mi1GeE1fa2hTTUlYZEFWXzZidnlQUnNGdXNYWVdiN0xfZGtlWFdseTJiMF9BVDQ5bGF2ZV9GbV8yX0Z2d1dsNnB3SVBUTExGTGRLZ0NFbWhoZnVXN3FQVTB0Y29USkF1dkxlWWJYbDlQS082Znd5VjdLYnBpWjRLQ1FwMEkxY0xXNjdZVWJVa3BxOVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:03:45Z",
+    "hash": "68f1a2104beaba3a022330b0f48dfbac181aed6df4587e572347b971e12980d5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto Biz: Bitcoin miners face tariff hit, blockchain courts Wall Street - Cointelegraph",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0hSMkREekdNeElITnlYa2g4dUYxZlpNMEdMTHMyLU15SnhYUDgzT0pKN2prSnNVdmRhRm52ajBsVFRjeGcwZzFjQU1wU1p2SW9lS0VTbmpZZzMwM2lUbGVOQS1YY2daeU1tYlYyaUR0WlZGRS1UTnNOYkF2Rl82cGJ5WDYwQ0df?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T20:00:00Z",
+    "hash": "4961338d147ee8560282d4d2e35f31834e6f7a37e065b5260c7435948fd49afb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Investors Reallocate as Fed Easing Fuels Crypto Renaissance - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMG43UUFSZHlXUDhFUEtvU3RKQXhHT3ZqQXRJNS1vMHp6X2ZWWGhOcldvVjJITXUwWFg4REdPZUQtVXp5WTFyaVNhZGpsVmJkVVM0NW9ZbXJncE1acXBHSWhpMW9mMUZZQm1KZmhzSzJXVnpFd29FTXlvZXpIOVdfNVdJdFZBay0tQnNDcEVQZW9jV25NRURJZHFEYUxhcG00U1RMZzVqVFM3TjdqaExKOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-22T19:59:26Z",
+    "hash": "b05bce593566eb226e07b389dbe59e4c564a153d29148faf1cf1a84dfa93ac70",
+    "source": "gnews"
+  },
+  {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Bullish (BLSH) “Is Considered To Be The Institutional Coinbase,” Says Jim Cramer - uk.finance.yahoo.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWhWbm81aURnV0JxMTkwUXQ5SkY3a2lmTFc1dldnbGxja3c4QUFuSThNNXFpaW5sd0d4VEh3MXR6eXVIMThGdUJ0Qm81aUlsMUxHQlRxc1UydWFiUWtFRU1zTmxrS01oM0Z0RzUzYlpxU21HZldpdUNOYWtxRXI4aDJaMFBFM1RDMUJMclZtdXF3QWhxbl8yYW8xaw?oc=5",
+    "title": "Bullish (BLSH): The Institutional Coinbase in a Tokenizing World - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNk9kZmNPa0NNR2haWkVfYm0xVk14czR4OU5KSEdDZDFYcnF2MDdMdFdNUHVxVGNEUHcybGlqb2dlLTRDLW5UcWU5eG5MS0N4YTRwX25DQlRNUUxtQ2ViVjRQN0E4dHNxSVZBaE5keGZtLWJST285YUQ4RVBHa3U1QTJoOXVqckdGYk1ldllRQTQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T19:36:56Z",
-    "hash": "39a1fa444b15f91d00b3e075951d5111510d1f3d255f53af6a05ab98e0b4a661",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "As Crypto Gains Momentum, Solana and XRP Shine - CME Group",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVFua2J2MmJ2Y0wzWE1ka05hempfbkZNa0NyTmQzV3JVeUFGWEdPcDMxNm12b0prbFZEalVmdUFObmJOM2h1Vl9NaUUzUWxldUhFSU5BZ2FmTW5EcTJqQUdhZWVteHlSZlB1bGNUS1dTUGxlZERRZWc1d1IzdnNCSlFiOWR2LTM5Y0J6OVczOXhvMllDNjlMYV9NdFFad0lKSVFTZWFCek1nSERCbXFnY3NNVWJ6N00zRHFOYXR3Tm1RNWt1ZkRTN2VCX2NqZlhuNk5MR2oybWdOMXBYZV9EUGZDLU4zWUlRVlFwVW1hOHNyR2t5YUdvTmRB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:31:16Z",
-    "hash": "5ab55248fb609ecb9a9221cf8c5299b85d46fddd18e1da902d9944efc410e897",
+    "published_at_utc": "2025-08-22T19:50:53Z",
+    "hash": "e304f1badd719b009bbe228743a2a2e7f807f33ddc123f2e0c916607a9ae164e",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "As Crypto Gains Momentum, Solana and XRP Shine - CME Group",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaVFua2J2MmJ2Y0wzWE1ka05hempfbkZNa0NyTmQzV3JVeUFGWEdPcDMxNm12b0prbFZEalVmdUFObmJOM2h1Vl9NaUUzUWxldUhFSU5BZ2FmTW5EcTJqQUdhZWVteHlSZlB1bGNUS1dTUGxlZERRZWc1d1IzdnNCSlFiOWR2LTM5Y0J6OVczOXhvMllDNjlMYV9NdFFad0lKSVFTZWFCek1nSERCbXFnY3NNVWJ6N00zRHFOYXR3Tm1RNWt1ZkRTN2VCX2NqZlhuNk5MR2oybWdOMXBYZV9EUGZDLU4zWUlRVlFwVW1hOHNyR2t5YUdvTmRB?oc=5",
+    "title": "VanEck files for JitoSOL ETF, opening pathway to Solana staking rewards - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXhoRERlaVczMjNqQ0JwNzRmZVZaZmxRdDFrREd5c25JUGF5MmlJRW5JeDU5aTVJMUdqUm92UlI0bHZHekIzT3BEM1U1YWw2VjJxMTdDd2ZDMW53M0hNaDNrLThsS1pBYV9iaVFxNGlEOHNlOGhTVmJyZXpqc0hfRmhJYzVQUjFuMmJ2Ulp0VVNvYmdDaDRxVFJLMnhHaHRtQXhnaUZpWGVWM05ZQlY4WVB5Y2tzSlZOYnJqODlieVRrdmNzM2xQZWMxQWJ2NEE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-22T19:31:16Z",
-    "hash": "5ab55248fb609ecb9a9221cf8c5299b85d46fddd18e1da902d9944efc410e897",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum News Today: Institutional Bet On Ethereum Sparks Debate Over Value and Decentralization - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRzdNMC1fclhuTUlmMFB6QzBZcWxpNWR4VjUxZFNQTUk4bFl0QlFFYVRiVnhtMHZWaFBZN005WnoyRUxFVjl0Y3VoN1JDNkZHZjhaWTY2Z1EwWGRMNnhTdnZPVk5jcUlrYkZScnJhMEZaZHdYTURqWlhVNWJrZV9YUW1HYTNHUThHT1dzbWx2aHZySElKYUwxOWtLRHhOZXBnXzBtTWp6V1BkelZGWU5QZFNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:30:37Z",
-    "hash": "be1fe92a8afd27a251fcc6b6d2b485288c85799b9d762d97996e23e96c830dd0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Crypto Booms as Fed Goes Dovish: Here’s What It Means for Ethereum, Solana and Dogecoin - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM1NsMFlMSGlhaEZOOEpxVFdkQmJlYXFTYXpfRFdMTVNBUnRxWFdJY0lhWlp1Q3hjUDNFeTF1bWhWQjZtTjV1d2V6M3lJd1pTVktjdzNkLUJ2XzNxcThvRlQ5U2ZaMlU0WmZCTEdEWlFadmQ2SG9JUUgxUU13QmtNSjVscENFSEnSAY8BQVVfeXFMT1lJc3FwUkRIUk8zZ19wQmJsMTNaOXk5QzJQZ2N4X3ptMWNvcGZRRkVyZ081TG9BNDNQZm11dzdWQzA2RHR2RXluU1hnYzZMdEEtdVJhUmYwUXlQMmdBa0YxWkVtaXVpNE9GdDVBbVVLZkFINmNvZy0tSDJPd1VtY0ctaHAtZUlXcGVHNEMwVFk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:29:14Z",
-    "hash": "82a99410301ead08ffa3fa0ac53687c2eceac88f9e7ad65fb78dbfcdb0acd86b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum News Today: Institutional Buyers Drive Ethereum's Quiet Takeover of Crypto Sentiment - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORTlaOWt5TlRENW9McmlkRF9nQW5YYWcxM29KaFVLb3QyWlpDQW1aRVEwaVg4NE1TUXNNSHh0Y0RaNVRBWXpocGwtVHB1ZzNXMUtzNTFJWjJMTEtKQUNvaU02bV95d3NhbW9nUURZRlJIb09VRVBXWVhSVVJXaG5PWWhBQ3FUaEdOTUtwb2xoUzFtRUNXZkhRSmhwUFF4djFtN21kLUlNQWFjektlOVgwZnVxbmluZXdZaElrc2sxdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:28:52Z",
-    "hash": "05b36cfef4714de50eb31b49b3646b1eec8e954de7af068f1124fcf523a7cd7e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Russell Investments Group Ltd. Lowers Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXBnRDJHZ1ByOEprc3VmZ3VrMWZocmNrY0FxTWVzT2syTFJWSC1uNVhuV3hIdXhxUWJkZEJDZ0tZNGYwenFfdE13X0J3UDl4cTF6eE9JM1RNVjh0M3BSazhCaTg0cC1kRWEyck1sMUkydHRnajdfRUkwc0puMTdyUUZfd1oxaFc3VER1RGo5NDFQN25rM3B1aHE5bzI1a2V1VzV3Tzl1NGRRYUtXY3kwZTZ2UTJMUFBFd0pReFNzakx5SVVuRTRyclNxWW5ZUW1hUzRYR1F3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:26:53Z",
-    "hash": "8e496f9bec6c0168c44e13fb21d93e40328ef7db8c47b18324d36b1e85b419c5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Kovitz Investment Group Partners LLC Has $989,000 Stake in Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUEZFSEI3M1l0QUlYT0haTkdOVzRNazl5TEdETklzbkhLdTJlQnM4cVE4eTR6eE5ZTjBLM0Y4NTRzalJPblhzREpEMWFOYnpjcENGTl9aOVVONi1qVjd1NEZjVENUckN3Q0M5c3p0QTg1eDJadFMwUDFSeW85SFZncnJtNDFTMUpDZXVlcmFoVWpXSHpvN09IQXlwSHpuTFRqTnl1dWtyamY4Z3J0MHhOZ1V2Wm41bl9JTlFKOGpvZGVnZ3BzVWNIczlmSUNTcFhfT1N3MWIyZ3k4YldpZ2JwaGFFdE4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:26:52Z",
-    "hash": "15598e619f10e608fdd6d12e122ecac2ee6d2e141eafb79923778372ca594a6e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum News Today: Ethereum Surpasses Bitcoin as Stablecoin Backbone and Institutional Favorite - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcnRrd21sWDVDWTdlYUkweG9ONlpKYXgzQnhXdFN2aHl6WDU3ZzdGT0dhSXFsQ2l0amc2UHJkeGZJeEJJZVV3VVlOU1l3VVB6bS12azN1dUptb1MyVnlXMHBPbWR4M2F1bjBuUEtsa2NScVMydjZVU3Y4RWw3Z0NIQjNIOVFtLUNWOXkxM0dHek5vQktjdmNqWURjcHRTX281clNtaXc0QVVSeWFpZHFPM3JVYXJ0M29HYy1zeVFBMmVPQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:26:47Z",
-    "hash": "6f817a31c21c8f6cb6a7cad6ca65d0465b48dcd8f07e2578aa5814c7c5be9981",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple XRP Price Prediction: Ripple vs SEC Case Officially Closed - The Tradable",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUxLcm5tQXdiVFh1dEdKc3lHLVNXeXZuQ3VINUtYNTNMbU51azhWWDBLS0J3enlDOUtXSWdIRkUxWFk3V2p3VThBM2E4Wl8xUWJzMUJDYzFsNktqbzRjSTFmcjNQMGNXUzI1cFpaVm1Ody1BOVVUWDJwV1FOc25zc2NqYTZsRTNIb3R0YW9rT21LUjBqTFRRYkQzbDZ6RTB3UDk0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-22T19:26:14Z",
-    "hash": "5eb1339daa3fd681bfdfe23e447e67f2df8fbf8ed4b6781ba74100717d7fb628",
+    "published_at_utc": "2025-08-22T19:50:52Z",
+    "hash": "8570f7f857c275e0871a83b1e9126428a8f2cbc2fb2de01f8d9c27bc5e40656d",
     "source": "gnews"
   }
 ]
