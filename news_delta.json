@@ -1,12 +1,102 @@
 [
   {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Google Pixel : Mit neuen Geräten und Funktionen: Wie Google seine KI-Offensive gegen Apple vorantreibt",
+    "url": "https://www.handelsblatt.com/unternehmen/google-pixel-wie-google-seine-neuen-ki-phones-auf-das-naechste-level-hebt/100149458.html",
+    "summary": "Das Unternehmen hat die nächste Reihe seiner Pixel-Geräte vorgestellt. Die größte Aufmerksamkeit lag auf neuen KI-Funktionen. Dem Konzern gelingt, woran Rivale Apple scheitert.",
+    "published_at_utc": "2025-08-23T08:26:00Z",
+    "hash": "5ab65a96272cec4882d88dbf156968f31ceb8e0fefa3af157a6d14225e3a4017",
+    "source": "rss:handelsblatt.com"
+  },
+  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "‘Cluster’ of amended XRP ETF filings roll in as Ripple seals SEC case dismissal - dlnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa09TRUlIbjJGOHhLQURpa1lwcVk3REVIbEwtT3NRckxWVVZ0Rm9renV5RkJ4TnhjUjNvSlpqYTVDbHNLUkZWUGRiVWkzelMwZmxSZzhGRzk2VDR0cFNaa3dBNXctQkRmbjQ4SnA5dURFd1NoOEJlb2xfWmpzd2xmelNJUFVYN09VQjdLNEpETG9aSGhZRVBHQXNWS3FyYkR2Z1RV?oc=5",
+    "title": "XRP's Concentrated Wealth and the Illusion of Mass Prosperity: A Structural Analysis - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVkh2LXJBRjBldWh3UGxVbHUxQ2pJUjMyLW5EaHE1cE5hWXEtYkc2ekNYa2N2WFdEbHN2QXIzUE0zRm5ENEFybTB3dW9YV3hzenFLd1JBWlZhekE4OHA0ME53MUZUb3hERzA2aTN5QmMzNTQtSkRxRmQwSXA0dkZudkRXczNlOHBucjNjcG04OUo2WG1aeFFSNG4xMVVJZGt5TjFpV3VR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-23T07:27:37Z",
-    "hash": "96b84c0c261c9325f349ca0600be70f244de7677933163ae2947ca6cb811de00",
+    "published_at_utc": "2025-08-23T08:23:26Z",
+    "hash": "85e696bb1a7cb7c219c1492f4965434838abc6ef9a15b05a714ccce09394140f",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Lowered to Hold Rating by Wall Street Zen - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeXB6Z1pESXVDTF9zYnhzMzZxOHZrM0RmdGpBc2ctZ3ljT1ZPUjZXWERWRFdrVWplNk9tR3liVGVlczBySDUzLUNJc0lUbERCalRsYS1DMnJpdXg5WWxJYk9feVBxTDFCRFg1cGRtekU5UXYzUEVibUNHQ0hHb2l1UjhMNGNraXNfSVNvcVBQbjJqYVdtYVJweEJWMF9fT3F0NHVOOGZvTzFYUHNUQTE4MFRYdkJZcnJPMGhpaW55cW0tZ1NHTkxaUFhZS2RTdDFFd011TQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T08:22:24Z",
+    "hash": "62074546ef96b15ffe4cf4c54260a274c66fca9b6711d5a762c29f409866f1a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: This Quantum Computing Stock Will Be the Nvidia of the 2030s - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEprelBjWHBNRUJqemhRQTlTTlo3TFRsVE1OdjdtRUp2N19sZG5NYzl5aXpZa19hOUVLaWVIZS1aTFFKRHc3ZzBfZ1lVTm13U0NTR1JfX0dSdUQxTmI4WVE2LTFTZFBHMGVNamF2aUVlc1FMRTJUMk5sLVZaM0lZMUhUNUpJUG9HRXJSN1BjcEo?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T08:10:00Z",
+    "hash": "81828d77ee0437c4137a7dcb6bf0b525c59b92f4414337cebc2d72199090f0e6",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: XRP Holders Mine Profits Without Risk or Hardware - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOalNSSFM4SDZzWHY0WEFWWUpvRjFlUzdkRkxTOTh1ZGVHR2lNVHV2S2ZIMUVPQ0czYllEQnl0Z1JmdTVHVkFNOW9tWWY3cE5ISUN0OEpMTVowdjBROTZvYkp4eDVzWGg3bmZTa2dQMHZCeS12bHlyRzJkdkk3M1dfQXZ0LW96em1sX2ZZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T08:08:09Z",
+    "hash": "32569e272b447d3f0b72f8dc7493e6cc01d084ac198e52831a7763fb5112010e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Connor Clark & Lunn Investment Management Ltd. Sells 199,702 Shares of Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVGxUd2QwaC1YZnNLd013c1VJMGxyWXpjU3RLRjlRTFNxVmFNbkFQcnBwdVFxbmRCVUQ0aGNJaTktZklyNUlPY2VCbEczbG4ybEdKNUdJc0s5UFMxQnZNNlhERUdkQXQ1c3dYVDdhblV1LXQtNS0wQVd4T3huYlZuMjdBUFFyMF9waUdUeWlVTHFVLVNWZWlueFh5WExCTFdlREwxRm1wOTlsX3ZVZmdVT1VHMHVNeDZNOTVOcW02WnBUalBFSkhpQTFBa1pvemtFc3prbmxfWnV1UkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T08:06:31Z",
+    "hash": "ce345592fc5940c3f66ce63e3cf8842250374b968698d8161171487b9830dba0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Geldanlage  : Angst vor Verlusten? Mit diesen ETF-Depots profitieren Sie dennoch von der Börse",
+    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-diese-aktienquote-wird-risikoaversen-anlegern-empfohlen/100125251.html",
+    "summary": "Auch risikoaverse Anleger können ein ETF-Portfolio finden, mit dem sie trotz in Krisen gut aufgestellt sind. Dabei sind je nach Altersklasse unterschiedliche Gewichtungen zu beachten.",
+    "published_at_utc": "2025-08-23T08:00:00Z",
+    "hash": "be592608373cd9786415a32a312070305c8673c5329e5c44f6ca36a1d4c93003",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP, Cardano & MAGACOIN FINANCE Forecast for 40x Gains in Latest Altcoin Rankings - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWp0bllhUzQ2RldNX0tSYmVBU3liRE1XN1dNVHdXZk5WRzNtNVlyakxXMWI1SkZXRElUbTY1ZVcyNlFmV09wdW5LelNna0tuZUNkd29JVDU5RXBmNEg3eXpGdng0Ql8wS3N3WFRiZFoxUnQ5azRxVlRtOGpObjExSGhfMGtFcmlsOTZ0MnNWVUdmSHlaUXRtT2h6MlZoc3lfX0JMcEQ5U1JiZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T07:58:37Z",
+    "hash": "dbaa1443f91ae9d33ff5745317182cfdae3010becb7ff26cbb3719af98232b2b",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Should investors consider following Warren Buffett into UnitedHealth stock? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLUdFcERoRW5jOHJ3R3dPWXpYSG02Y0JPS2hrUHdqTXJGTUEzU0RJMkhTTXd5am5sRnl2czNFS3F4MHMzbk9obTBBYTc2cTZ3Qy1nNGpJZGtJSlNjRkdRS19FVmpxUWZyT21lb2xKTXVERmhneGMxVjF5dVV3NHJWY3NnV2RHWVdwUGNVUlhsWnFfaXNobkVlVEswbURJZzdGTkRReS12NnZoLXVvd1A0TlZfN0NMUUsycWJMeVFMZHV3UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T07:54:55Z",
+    "hash": "c45dbaacc21d2f144b90275ddc3a4fb7c4a0bcb5ad9631f168116f89e63973b8",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Latest News: Price Could Soar if Elon Musk Mentions It — Traders Eye Breakout - The Tradable",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmhkVzFLdl9yMzZTenloM2xualZZOGctOUNKdDBpUGhrRkU3UmVhRkpseWZ4NXQycnFzNElkNDloWk1wQkhCWWRyaFZRUHNKamJVQjVLQ3ZCSXZPUlp4MGFIY2JhWGpNTnZsRUlXazQ3WEh5YVZYcF91a3hBMFQzSjJsUlItZDBqNFlfYjN2c2lRdk5FYUdTWXE2TnFWRjM1RlRMSzlRRzZmaUFCZkxKQlRCbl9pdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T07:44:10Z",
+    "hash": "be9e3a8c270b89d13ea8ecd8a9feef822e20b680affc749297515305f4ae6ecb",
     "source": "gnews"
   }
 ]
