@@ -1,12 +1,82 @@
 [
   {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "JD.COM, INC. (JD) - MSN",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kWGp5X1NDVnhaRzlzb3F5ZjVKUEl4cU1uRy16ZXdRUU5mcHItZG9WdkNTZUNBS0xIUEhqRVg1UTA3WWhKUnpNTUtSYkxHNDZad0pDbUFkZk9SRFpwNEpxSDhySDlGQTlodndKSXk4MzU0WnIy?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP's Impending Surge: What Startups Need to Know About Crypto Payroll - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KUFB5VUs3R2Y1dm1GOWhJS0l4SGJORHhjV2hYOXczcno5bEdkWS1GVmNuOGhLVHA1X1dyVzVoNHZmWkwtWjZ4ZWJ2U1Y4NGxpZzViTGxpQ0FncmJoVFRHY3dvT2t3VENCSkZVM1gyR2xQY3pSeHVTa2RKNA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-23T08:46:17Z",
-    "hash": "24eef49ea44aaa3aada899b2393e8acd9c6ef043d8c9bcfcdd3b1d9b825ce48a",
+    "published_at_utc": "2025-08-23T09:19:58Z",
+    "hash": "dcad8381354199cc56916185744d5af242961bec6d1389dee9b82d9fc439ce7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Alphabet's (GOOGL) Recent Rally: A Confluence of AI Breakthroughs and Reinvigorated Growth Narratives - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeEFWLXdIQVhmSndZeDZlel9sZHdOQ21EUnh0dUVmYW9sSDBjOVFlZTl5VjY5VzRlc0htSnY3eDFOQVhaVDd6Ukd2dFkyNmkyaDNnWXBVcFp1S2dPUldoalpCZDBoN2xyWkxIZVJfN0ZEaldEQ016bDJyUGxfQkM0LVJpNkhJN0dIYm53MkhEV25CeW5EY25TZmlWblF3bll2VVM2UHZULS1WVms4dVBlenRYUGNXdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T09:19:38Z",
+    "hash": "f8357e9b0aa6f4485eefef940d5b03eff3dea4ede2836c879230184fdda6ff8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Analysts Say BTC May Test $200K Levels While Remittix Builds On Growing Hype - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNzhLZFdiSzczdHBzVXJ6M1RxQlRuQUpSVnZxMFY3VlN3UkpJb1pmRW5KcHFKY3FHZnN6V01aWVBRZ0E1S0pvN0FPTEc5Q1FyYWF5ZjJ5NEpieHFHeW1aYmdlWDE1QXBCMkN1WlREZVpDQVFCVTJjdU1TdjFLUW9lYk9DbFJRMzRFMDBSX01mOHBZN2QwaTFCUHZNczFNd3p0RDBodm50T3IzTnF1Qk8yNjlvV2dPQi1hbmpnZUFZR19fa1lURUNUX2t0UnA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T09:13:17Z",
+    "hash": "d23369229ec49037d6afc48a49fac06f7b4c442e34285ae877c0c7d9a6b3f793",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "ChatGPT-5 Predicts the Price of XRP, Solana, Cardano by End of 2025 - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajlLenhoMFNVVm1VVV9xenMyUTJjVUVIVG1DQnM0eW9PUHRlUXp4Z1g0NVhGX2l6Rk5aM1JNRWZKbXIzRXhmeWFvTE8xUG9oVFNQWHVtTXhhenN6OXc1a2k3UTk2SHpwb1Qwd1lKSWJ0cTB6bm4zTHZXU1pKSWF4RnE2VUh5TkdQUkw3NFUwcjBza1owdGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T09:10:56Z",
+    "hash": "42e8216e5e7124ff81c38934c31207f97389387908a23ea1ed1916b601c598fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "ChatGPT-5 Predicts the Price of XRP, Solana, Cardano by End of 2025 - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajlLenhoMFNVVm1VVV9xenMyUTJjVUVIVG1DQnM0eW9PUHRlUXp4Z1g0NVhGX2l6Rk5aM1JNRWZKbXIzRXhmeWFvTE8xUG9oVFNQWHVtTXhhenN6OXc1a2k3UTk2SHpwb1Qwd1lKSWJ0cTB6bm4zTHZXU1pKSWF4RnE2VUh5TkdQUkw3NFUwcjBza1owdGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T09:10:56Z",
+    "hash": "42e8216e5e7124ff81c38934c31207f97389387908a23ea1ed1916b601c598fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Northern Trust Corp Buys 163,823 Shares of Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT0J6WGlpRnlwN0Y2d3Ztb0FONzRFT3hyMldSWTBKcUFiMUF4QXpDd1BMUDRZMWRqWXRFU3pPSERZS2FyMHBZcHlWdjdmYjhSZWJka2h1dV91QnR0YkRjZElEdEVMZGhoNnhBT2xORHNial9reVMzUWNybjZ2OU91RkZReEJTYVRsdlN6RTFPU3dXdUVNZVF0dTlUSWJBRjB6b3pidG5vajJ2ZVFDVlRLOXBNWWxLX2MwQXJhTUhqZDdlYThPb1Q1VQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T09:04:32Z",
+    "hash": "4166f2b8018df2eb146bf989ec52eda7ed8a422811dfe4ab68f74bc7bf45a7d5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Digitalwirtschaft-Podcast: Warum Googles neue Handys eine echte Gefahr für Apple sind",
+    "url": "https://www.faz.net/podcasts/f-a-z-digitalwirtschaft/warum-das-pixel-10-von-google-eine-echte-gefahr-fuer-apple-ist-110649462.html",
+    "summary": "Das Pixel 10 ist da, befeuert von viel Künstlicher Intelligenz. Dem gegenwärtigen iPhone ist es in dieser Hinsicht deutlich überlegen.",
+    "published_at_utc": "2025-08-23T08:58:45Z",
+    "hash": "29dbd020b6f59cd4fc61abc5fbe200b47067eddfa03147793f21a21b828cad1e",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Altcoins With 12,000% ROI — MAGACOIN FINANCE, Solana & LINK Highlighted by Analysts - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0RPbWVmRWtyTnZHWHY5U0c2Q3VxTnAwZXFmNzcxWXVSa2owYkRKUnI0bTNWM1cwS2NqSGpQbUp2bzd4VWtTajNrRGJYa3ZST2lKdm5DSFA0WXNNd3YwbTFBV3FtUHFoVmcwVVktY3FTa2RtUzBpY3l5d0lxZkVlT0F2Zk5PcHZqc0VVX3lDZVAwX1RoUG5VZEpTNXpFUkR0TF9paUdtS3hJd19tUmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-23T08:53:51Z",
+    "hash": "4d1bb23fc5f47f1889bc4631c2967908956ff672aae34c8461bd56e417085915",
     "source": "gnews"
   }
 ]
