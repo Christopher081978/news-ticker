@@ -1,32 +1,112 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Saylor signals third consecutive Strategy Bitcoin buy in August - Cointelegraph",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81X2kzUGRQMG5rMVZrSlpGYVNvNlAxRmhiSFBZZ21Qa2NsUlhGTkJhdURjSlJGaGFZWHd2UUZyNnRjWmNLdzBjSDY5b3hRT2JjVTkyc0FzTTBZSElqVGxFbDNTOGVERFk3bVJkUUtHbk5EY1VkbFExbnNYUQ?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: Analysts See Push To $4, But Cardano and Remittix Could Be Better Plays In The Interim - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnBURXhmMy1VZGpBTlBhMG9Sc0NoOWZScTZodlFVbnpmc1RVWkpWd0JjYkZoOUZqaWtUSnQ3Znowc1A4VF94cHdkMFQza0RjNkNmdWJJUnNKUS1PYnktQTZQZTBRTHUwb0g2TXpGUk1Kd01oRExrYVlMWFJJTEhiOXdaN3FDY1JhVHp2bXJGM2Jrby1kZzFSYkhaVk5WTk5ndHBNd3ZlQTNKQVdTZTBsWVRLZ1ZrZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-24T16:46:24Z",
-    "hash": "9ab8906d1cb621f29247658d5874d63561413923f465edb3e90358d1d332e2f3",
+    "published_at_utc": "2025-08-24T17:14:00Z",
+    "hash": "8342e84279f4d46456c759dc7b8b7daac7dcc1503fb7352fa32185b4700947d5",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "One Solana Scholarship: Bridging AI's Disruption with Blockchain-Driven Reskilling - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFdmMlJZemJSYUd5WlJ4X0xtTTFHYzBfXzdHNDRBRmZxRThWNHlqNUVoXzdnaDBvVkJ6MlNSb0hmX21nSzB0azhlNnVBcjQ4Q3owQXdnTFp0anlpTjdZWEQyWFdLX3FJX05jUjRRX3ctX1hlbXdER1lHZW54WFp5QU5FSWVxRE9oQlZTeTRSNVJtbVlCRW1JT0RqRGVrRnVOdW44NHdET3ExNm9N?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia Stock Price Forecast: NASDAQ:NVDA Eyes $204 as Blackwell Demand, AI Spend Drive 2026 Upside - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjQzRDZnb0JHUUR4NGdWVHllaENHamR4VEZIREFVUVNmYXU3OEpCYnRXVDJoZU5qS3pLMmdJRm0yb2x3VXNvb24xVFBFbmVRa2QzNjZURE15N04yY0M5SlBMemhqRWpDMVNPQWpNWGphWmxCQk1pLXlmejFoSXU5T1JucXpMOXpEZHc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-24T16:39:18Z",
-    "hash": "12e10abd8a8b018db40c888801a12d3b175026257408a3983671f8a2ce0e63ab",
+    "published_at_utc": "2025-08-24T17:02:46Z",
+    "hash": "433232ef6b2e873cd1b4380535f8776d7258c712bade06345608fb7f3c8b2faf",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price and AI-Driven Industrial Automation: A New Era of Investment and Labor Transformation - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ21sZ3dGd2xzSnU4RzVxSWxZSGFid0NQSVFWZmQtUV9rU1B2dXpWU09fQnVkdWE2b2hGLTg5QkNRRDdTQlAtazhsWk5wTzVEdXVhQ2wxbi1lYzFudUU5Nk8ybThTX2ZZUzJGaUY0c3RDV0UyeDEzUFVHMzBuLTFnOW5vLTJ0R05FaURIRXdzdEFKY1BoaHUtN01xanlNam5NS1VUaWF4RnRWYWlaOG93UFBOQTVpV2pURUE?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum (ETH-USD) Price Forecast $7,000: Can ETH Break Past $5K Resistance? - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVNwSFlCMnNSdWpBcVg1VllxdTU4WF91YmNRSHFONDVqQUJ2SzZIRlM3bndMNlM0WEZQMW9Sa0IyMDFxMEdCanVuZDdJT1c0Q2hPMWs2cksxbFF0bXMwYVJ5VTZrZ3VhWC0tVHhzc1JNQ0JvLVAwNDJ0UEpXVVBxUXVNcXFGSEw3eVNHcllYY0dITUdvc3pXWWdhR3UtM0xXNXc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-24T16:37:48Z",
-    "hash": "6b03599217fae495b310ab5e0e016c31b3c240f9327354394e7c5d3a86b71248",
+    "published_at_utc": "2025-08-24T17:02:45Z",
+    "hash": "05fe25a883201090094f03677a8197d81d9117731a58d20a8f630f4b9c6c35eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "The Rise of the Financial Super-App: Robinhood's Strategic Gambit in the Post-Trading Era - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNajJVUExvSXBQb2t0VmlkVUdYVWJNUENVMU5zZm14cE9nRTJnb3NNS0hoZmNsSDZmdU9HNDYzWU5BVlZPeEpsNXg1dHNZRWhySUNmR2pZVmZ4ZnNvdzN5VEYwblFiaVdobFYwQm9XYkUxejVLRlg3aXdQdjZrMWtXbEdSV0pEYmI5Q2U3TG9veEFmekY0emZSUjh0MmZ4ejhSSHdpeG9B?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T17:02:19Z",
+    "hash": "9cd53d3c3ed2f98a7c276d86788a5aa1fedd59069c156f7ebaebd991765fa659",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "3 Best Cryptos to Buy 2025 — Bitcoin, Ethereum & XRP Plus Hidden 25,000% ROI Coin - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2o5U29SREVvbzRkdEdHSTJoSzFkaEc1ZTB4OVp3ZWxNQWZ6VUl5RlQ5NXJNQ3Y0NTNsV0RHNEdsYjh2dEREZFNWOEpxZjBBVi1fRDlXUjZyZHpoaFZzQXdDWV9ZNGZ4UTFDUWt5cC03TkZjMVZfV21PVlRFNERDTkpEMHhPOC1nbzZaOFpIeVBjQjNVM3dTY2hXZDJHakNU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T17:00:51Z",
+    "hash": "c9d833d8d6fe2f287f980e78b6ef18518a6d122f19ee4ba21c26838f007894ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto News: Whales Offloading Bitcoin And Ethereum As Newcover L2 Meme Layer Brett Rallies For 150x Gains - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ1N6a1BCeU9WeVNPZXhqSF9xSHlrTnBWRGhORFZwM19LV3JWSk0wRE4tbi1aeXEtVDZzbzFGWm5Uc2RJZTFlR01HNzJWUWZnd0NpLWlzMExSLUZkcHgyRXdDc1NNMUlEeXhlTXEwdm50c2t6dF9tS0RNNUl3WllKTjVIWmYxMkxodHkwVENoeEpSMDNvQ1NOeEE5VFpPdzZEckNteExlaUV4VkhyZlVJUktfYnppOXdUUmNKYzR6N3VyLTZncHlOZGJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T17:00:03Z",
+    "hash": "56a7b530779f638659f6c1810ff0f8a486a1823b63a5f9a6dba0dc169946835c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVDA Earnings, PCE And Other Key Things To Watch This Week - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3piaERlOXZRU05zM2xTem5iNHNVc0M3RXQ0R0FrdUhySUJucXZoejVQeXB5SFlFOEdESmwyU2lDU1Q5VVdNdXdiZFdYX1I4Z1dJRWhzbzB3bzByRlJJbS0xNEQtQThmRGxDMXRzNFZrbVV1cWFrSW1uVkhRcmVkbWliX2Npdmc2Q2NzMHVBbTY5SlR1TDh5TXZPNE9RQ0cxb2RkaA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T17:00:02Z",
+    "hash": "ccbdd8bbb5451555eb677ab1dd7bec235dd97314f76c3cf4393eae0b812cc4f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood: The Financial Super-App Is Flexing Its Success (NASDAQ:HOOD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajg5YzRNQmhYQ3M4Rm5jb0dNZnNHclBqdHV1U2dKNnR4enlQTUVFR3BLaTN2bE4tbV9QejI1SDVBb2Jndk15NzR3Q25iSzZRVTRwSEgyZXdLUWZKVTlxOGFGSEpVa0NPMm5hWmZNekIxU3VtUkUtYThrdGxkcVJHeUNxYy1WdjRkQ1l1NFZLTlI4eEhrSk5Scm9xbHM2dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T16:59:13Z",
+    "hash": "147437b1825b7188e51849c948fe821637a5835481387073c42219018344169b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Powell Hints at Fed Rate Cuts — XRP and SOL Holders Earn $9,700 Daily, Fueling a Crypto Bull Run - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSE9RR1JLMHdjZ2N1TVBOX0phclhTVVNJUzM4YU0ySlNXY1VQQlhhNlN1M2xmT3I5V20xVXpZN2FIeXdVNUEycFJmbHJyaEVaRXZaemRRVm5RcXFTOC10cGktOUEyckY1NlFpX216MHRaRm5mUFN4QWRkcS11MzVGdHYyYjRBQ2xNcGtxM2oyaXVtT0NwYXVHVlVxdHBxNEpjY0lZamJ2U3FZbHNQeWRTMHNrVUJOTzA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T16:55:02Z",
+    "hash": "4a3ace6de8e8f5358b4efc7bb2d1e9e581fd5bd09a33da8f3481c0c11577a965",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum's Institutional Surge: A New Era in Crypto Market Leadership? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMW00MmQ1ZFpReC10RnhScnpBRVc1NTRiMkJ3ZjhzS2dBOUtJcElGdzBjbTR5bWNiUDVnLUloZERxdG1pTjB5V2lpR09HZ3lGTV95eGFCaVAzRGRqNEFXMmJjeGpYbmRaV0ViTTJ4eEJUX2g5MHR1ajBZR25Zc1FZV3gwTDFieklSQWxLemJtbXhSYkJFUkdj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T16:53:00Z",
+    "hash": "64fa8a15c7ec4aa154016e8276ca785e8f84933b60bea3782f7ad3bac876b755",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Investors Withdraw 200,000 ETH From Exchanges in Just 48 Hours: Here’s What Next for Ethereum - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3pjNFYwVXFEbjVZdlFYN0VwbTNGY1RHQ3ZDME5WS3E0ZzdWZy1laDR4ek1QWUhGT01XRzA4Tnp6LTBkVVZ6QTkyWXF0c1VfWm1mci0xYTR4V1lZd1BkY2ZWOE9iWkJwWXpTeDQzQkoxOEtjVllPN19FNE9hT3hUTTE1SlltWG1UdExsVy1jZS1aVnF2V3VHUG5zRHdhVmtucXpVVE1JQ183dGNXTnZwQ0VpR3oyQnFlZnF2X2JtYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-24T16:51:36Z",
+    "hash": "974fb8c2a4dc69ee92de1d9ca30a2bd80172b9f0a60586ef59a838b4b208219a",
     "source": "gnews"
   }
 ]
