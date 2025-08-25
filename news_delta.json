@@ -1,82 +1,332 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "$1B Solana Buy: Galaxy Digital, Multicoin Capital, and Jump Crypto’s New Collaboration - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HU21IbnBSblpvTnlxb0l2Zk1RMTRmZERHQTM2em81LUUwWjBvQmtCdzJMb1ZCUml4eDFtbDFodXBiVy1MZkJGcktRdXlnOTd2ZXRTcWdsa2FTc25SZTlTUG1RXzd1bXRxRzhJV1B6aUF6eFRqTmdXUdIBfkFVX3lxTFBkaGQzcVlkWWVJWENZci1qeG5yWlpFd0RBTU01Ym9OekRtQ1J6OG11WlY1Y3RHYVR1ZzYya19lTFpwTS04aC1hR2tGN0RrMFlpTDFoampwM2pLT01kbUlkYmVKTEZDQlNQLVV0Zmk5RW92MGZWcUxvNkZtSGhmZw?oc=5",
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Stock Movers: Keurig, Intel, COIN - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTThxY1Vnbmc3dTFtUDdSS3Z5TGdWTzU1dWJDRDRWOTJTWjdQcnJJRGlPQ25UaktmRVBUZHdzQWptYVJfc3k3YjBjS09zSU5jaUtxaFhnYmdoblh6cHJycndZTV9uRlNiNGpsMTZJaG9ob0dFVjdQOEdWcG40ZFdVY2M0WG5nT1pobGd6RW1UUE1YUzEwamo3RXkyV2FjQmN1YTZKQ0VB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-25T10:46:27Z",
-    "hash": "5c06d5e4ee57269f285c45539b813d7bb4fce169fd553ff527da5b2c44bd2da5",
+    "published_at_utc": "2025-08-25T11:20:59Z",
+    "hash": "3637a3c6e65d9eb590bf539ca3d696a6178ac3ad84e8e916cd6901cac50c56c8",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia’s Stock ‘Attractively Valued’ as Price Targets Rise Ahead of Earnings - AskTraders.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHFmSThrMUp1NXRLeHJQTUFhWGd3N2sweTBwejRhUWd0MDFkYXRWd0dRS1JxVkhiaE9JQ1RrYm9TQnNhM2tFbmdIVW5UYVJsRDY3QndUNFZPcHdIQ2dQTmRVQkFFdTNKNW5UVXVIbDRQZ0VOMlZoazRSQjFJbnZBd1FtYV9lUHNTc2hOb0dYWm04SUJpYTdPWGk2ZC1FTmZFVGVKeVI0T0daUjM3X1E?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin late longs wiped out as sub-$110K BTC price calls grow louder - Cointelegraph",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdXJMRjVOZG1XNHBRSHZSZ054RERqR2lyQW9PaG9ocjJNNGE4dTJiODFXX3A5Q29CbmdpbHRTRkhEdXBweFRlMEwxVTVqSFRHSGhJUng3WmJQNVFkUVZWZXF3OWd5WExmTUpUbnhiOEFudlF4THpNd2RxcDJ0cHNpOGhPOU04ZjV2ZjNHVE91MThWb3AzZkE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-25T10:46:21Z",
-    "hash": "bcb4a84f787763b8dff5bd500e9b71ce240f592775a37626f9ee0d36f0d4cba1",
+    "published_at_utc": "2025-08-25T11:20:00Z",
+    "hash": "7a6ea51adc253bd3ca2ce9156db19083b9bea9bfaa276f029530a573ca4b9123",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Best Crypto To Buy Now: Analysts Hint Remittix Might Take Gold Over Ethereum And XRP In 2026 - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR1QtWFBCNC11ZDFlQmh1N1EzMU9fQVNxZklDOGRYU1F6aFNzMXBJRk9xZmM0T0VLOWZaU2NnQkhiRlF0TEpYLVdqYWsxVzY3M3N0Z0gwTkE1eG5lMHpNQUxyYjgwOWppUzAtQ3lhbkhoVHRiUDhZdllmbVI1MjdGZVpCV1UtdVU1SjJWeHVPMWZZRU9nNm9DYVcydTgyNkF4SVlNakxmbWpnZzV2ekNvLUVEMEU2WXVtZTBCZW96RGQ?oc=5",
+    "title": "Cardano News: XRP & ADA Price Trade Sideways as Insiders Shift to Unilabs (UNIL) – The Viral Sensation in August - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1ppWU5xamg5clZYaTE5ZWdCbTRHUTBQUDNlNXFEbE1fREZ5emNrbUczVHdjVjczN0k1b0l1MUFNZWUza29MRlRfeGhuaEFVNDNGSzVQaHhhdXgyYVdaTWoxa3RDNkV4d1dSLW1HSWtoZ19kUnpWY05pdnprbXV6QXFoZm5NbmhxejBOZUNoRkJSZzdWV2l3dlVSVWF4VWhXenBfODRuWGJIeWxMeTVLUHhrR0k3Y1k0QVY3bDVXMGxUT3I4QXhBd1ZaTTd1UQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-25T10:41:35Z",
-    "hash": "0014b9ac185da9846a78d30bf133d078182225fff39932e9fb15a72f5990a789",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Rallies on Fed, Nvidia Hopes. A Big Risk Remains. - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUXkwZFhZblg2NkZVbEswMHBHMTVtX0ItZU1LMm1RRmxXS2t1LWtpTmZRMWxjR1JnNnBHNnR2WDJqTGxLOVZ3dk5xdmtHSzUxUzVDTV8tWFE2dENHRnlnbVh2eEJrUFYzOWZjRV9Id3JJYTVQZTBIVVRKV3J3QnRtTGR4cFpKNVdHR29SY00zZXNwWnlRcTAtbGRqN2xBdXJpNXNBRDdEdjRSTmxqQ0c0ek1ELTE5TDdZRFJkbmNmTHZoYkpiOWZ2N1dDbmJLY3F6LW5F?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-25T10:40:47Z",
-    "hash": "96353fb9ccaec45d6b2079cabf3e478f2ad2fd936ad021ab26a2e1a5c6b59e8f",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "Can JD.com’s (JD) Buyback Offset Investor Concerns About Earnings Quality and Cash Flow? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUViUzJiclpCa1VOMW5BTVBfODhFZ09TYU4tNG1Nd2g4aFMxLXVCTE54VjlXeExNU2ZMel9hWk5WMU15OURGWEI2eENSNFdtdm54SU5OTS1TMkh3WkRGNmpReGR3NUZZbWloMGJtcUttVEc5ZXk3UUx3dTZkdXdpcldXSG9BTTBJNk5DYTd4WnBpb3U0Z0p5NDVON2p0VUdQc2E1LVkyWVBRVXl2Wm5zT1o0eTVmb08zVThicdIBwgFBVV95cUxNMWxmYU5GZDk0UTVhU0g1QjU1LUVfV2ljLUY5ZDJuYWdrb1VLamZ3ZkduZ0hMc2lHMEotNmt1WjFuWWFra1RjXzVLa2pQZC1ZcGRXTUdHcm1YUER5am9fR2txRGVxUzI3Q2xoVVlpSTFuRkRQcEhXZXlHcWNzN0tldl84QUVxR25MUmstNFNCNGw3VTNBcmdyNU1wbl9JeWpNbFI2QVhlZHhpRHFVZUVWNWdxSFFISmtsRjFzcGVQMUtBQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-25T10:40:15Z",
-    "hash": "3ecf9d5512c72658ab5012820d2b1c5d2305676220274f58685ca484c2f864d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Are sports prediction markets betting or investing? Two new Robinhood lawsuits could define how they are regulated going forward - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNV9URlNYZk1ScllFV3VWVmtqTTgtTVhuNDRhMlY4bjhOYUsyeGlHSFo5c3d2UVpLQnA1QzhqVlQzT0ZjOHVBOXQtdkhSZ0czZDd6RGJSdUlwMlRXbjZxZ1ltaHZKUVlyOHZfVVZEZEJWMmcxQTR2WTdsd29aeHluVTB5VmdCSFBvSkphRU4xcXUzeVRzcEYyb1lya2gyX1dub3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-25T10:39:00Z",
-    "hash": "74ef8ceaa081e4614af95fada835cc74edc1bbed5b5882ea177904221b15245f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia stock price target raised to $225 from $195 at Baird on GB200 momentum - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcmZndlZaWFVCellSZXhpSVJmT0FKWjYyTGd4STFEZTloWGdjNVhJZEU3RHVMWFFqQTY1THEwZ1R5aVBIaVVCeHlIbGF0TGh2czA0Y0hpYjF0cTJyNE1ETGlobjZpamZ2dnJiZDJJdFoyRTkyZUF4ajE4OG05NDg1dWZ5X290aEh6NTZ4d2hFeEIwc2FqMFFQTVVLX21ldjZZNkdUMl9raFFoaW8xNmNWMHhJZ2luZkdnQ0x4elI4ajNTcGRNODMySU91TExHMGZJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-25T10:36:53Z",
-    "hash": "a4d7a01bb4672f0266ba91fb091974115ecb4ee84dc8030950293b7fe4342880",
+    "published_at_utc": "2025-08-25T11:18:31Z",
+    "hash": "81ee9aed60bd3b8df4fcd393baf385cb436b388f68260db00d74ec6019714160",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Galaxy Digital, Multicoin, Jump Crypto reportedly eye $1B Solana fund - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFJqclBwMmZTQnNta1hjMjV3b0dCT05QTVI3cVZ3QjRTRTB0NlYyUG9xbWJlenRGNy1LU0xLdjJiZFBWNVJEdThqcTJ1MUo5VnZGWm1KemNhWnk2QzZlSG9MVXFhQUpsTTFZODJtQW5ENEk0S1ZHMzFHUlNaUGdHTWhDTHdwZmdEakFfTWpSRDlQZXQ0c2hLemlXY01GVUo4VkNyRkdBeW9mWE43WW5PYXlHREJDWnk0WnZLN01HQXN3TU9fYldXYm11UjJEQUd5b3Q0dWZJZTl6dw?oc=5",
+    "title": "Galaxy Digital, Multicoin, and Jump Crypto in talks to raise $1 billion for Solana purchases - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaOE44UzliMFhsOXF4Q2REeEgtZ2QzZ2V3Mk1GMU5IT09jU2l1eGkxX1BSck45c2xsa3l0Vy1jTTFkVXpXNndoemlaMW9YOGF3aUJkZlNfeGRwRU5VVEhXcnVqWDVMRUZGZVNr?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-25T10:34:41Z",
-    "hash": "0a39c0e9fb96abd4bbe1e089fca3403a00ee29546846da45766cc78f8fa9a2b7",
+    "published_at_utc": "2025-08-25T11:18:25Z",
+    "hash": "f36699fe408ae537e085346ac6ad45513f0076739bd4bc7d366a4e6bdfb5ee43",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: XRP at Crossroads: History Warns, Innovation Challenges Fate - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeUwzajFObkpOOFpiVEdjd3R5ZDJVT3hLdks5U2FCUkZtTFZUZWVYN2MtSGFTb3pXOU13N2E0MmZLa201cF9ialI0eTYtM1FlaklPZTZYd19SM1JuS0Uxbk5mYy0wWWhPSEdhZE93VWh6TjdvTV9RaWZ2azdMWjVQZGNDekdMRnRpSTRxb0VlZzFjcHJOWlRmTEV2VGU5TVNsUXJwRTM4VHg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:16:34Z",
+    "hash": "c10e4dcfb2cb26676e1eec0cb85d5a1ee5cc12afe2050805f9a8cf61844fac1d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP ETF Race Heats Up as Seven Firms File Amendments - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTYwWUNhVHdsZDZZODlGMjhlZE9ZeFFhUHNMN0ZMMDl3dFh0UkE5N05vVTNYaXlxNVhCclhMZVF3cVR1TG5zaGRRNWxyS1dobzlQMXpSaGE5SkxKWm5SUjVuZXZhM3c0cFFQWFgyT1lWWTIwT01NRlVwTFZjWGt1Y0Y0M3BmdjZBTEl6T1lNR3NmcGdEdWFFN093?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:15:51Z",
+    "hash": "9e7ae98104591cd02487d03aa40ab960742b51fbcca6a239a526cf3f4fefd2aa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Technical signs of recovery in Themes Etf Trust Leverage Shares 2x Long HOOD Daily Etf - Portfolio Value Report & Free Safe Entry Trade Signal Reports - Newser",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2phRkVpcEdYZ2cxcXZmbW5UdEJsNnZGVl8zWjFWaVZlV0tFbjFVTEdmd2JEY3pPTG5VN2dEYlpTeERobnhtNXNYOHRiUDhDTE5RSHhJTi1fMlZpOGJUM2w4MW9fbDFCMkY4aVNEQkxYdF81RWJmUS10cGh2LXN5dTI0NW1LblZBUG9HMVpXUFNHbnRDdXEzN0MtLS14THVTNm9zYVR4dnVsMkVVSEFQYUhmT3F0dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:15:27Z",
+    "hash": "2a13ddca582df04687e9dd52618108fa5dab37be1ba17748bef8713e3808dab0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin News Today: Philippines Proposes 10,000 BTC Reserve to Hedge National Debt - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlRfZGlxX2dkSWJoRTQta0Zhbjd2NUxqMmI0MURvNG1OQTR3QUdiOVJuQVh2V1VGSDRKY01qejRxR0dqRzlCUjlMNlVERGNEbzY3amt6Q2wtUjZDZnB2V05lMXFCS29hSGVMbXpwcTd4Z1ZKZFk5UWJFcENnYzlNVXBjWHZsTTBEYXlBVm9NZ2pFYXlmMkJmM0V6MHBWelBZb19SZ2dSOGVNN3pQRkczUEdXOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:13:52Z",
+    "hash": "1866adf7062f281428a00ca13a8d17de71982ae636cd43d0e318cee3a6eca968",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nasdaq Composite Live: All Eyes are on Nvidia Earnings this Week - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTJ6ZDJiRkVCaTRqX0Q3cXoyNTJZZnktV19fTzlvZkptaGVRMVU3eG9SMF9hSnlreC1KVldPNXhkbGo4Wk9EancwS0RUS0t1TUVtV093TWZPSW5QbVlCZzF5MGppSXo4alllZ2RkU2lZQkhCMEFmWXhyZEdTX3Z6TzVRVW9NM1lmQnlUbndBY24zcGt1b2dNOVlOcFNwenF0R3Z3UE1uVEI0VWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:11:52Z",
+    "hash": "f61fa9ab7bd3e29f0da7e7238175b49e6c50f4159840f466b0959882683a4aac",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "RI Mining Launches Mobile Cloud Mining App, Empowering Global Users to Attain BTC and XRP with Ease. - Digital Journal",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZDl6VEhHT2N1SEcyOVFzU2xvNFo4eXB5QndUYk9OcEtod3p3cmtMcUlramNhZ2IySmtSRDZqc0ZLb2lKZC1GM0hWbEwzNVYyZ3d2ZkFUaUdwNmN3ZXh4RmJmTUVHeTAzRExQTWFzeW15NUlhTEpSTHRsbFctYjl0eEtYM0pMekJaTGVpaUkxZGVzTUc3X3NoWjdZR3JiYTRuV0ZOTEhBdEo?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:10:39Z",
+    "hash": "2c8bff6141ed93c4f3c760af5102eb8723704a61cdb01fab2d8b7f2e871bfb50",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Southeast Asset Advisors LLC Acquires 18,010 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcUd1XzBhNFRMbnFpTE5VbjR2ZzU2TTdJS3dBdTdVNWZBdjNRa0I2T2l2d2JHTjdURmR1TzBoOWtaaWZsQnd6RVE0eWpSUV9rd3M2TjVjM0p0TXg0QzZid3h0X2lJcmRhdUxyNzlhQ0std1JnYUlVQmluTjA4N2djUjgxRTY2ZDdQMWtBN3ZkeDVaYnVDaWY1Q29hSG9UZXp2TDRZb044dnNmbzhHMkhhMWktb1NoYm5iQmRDekRTaTRxT0RDZlpQRXBzcUp6QkQ2N0hHa0lKT19DeENRMHdTVng5RlNVVEJIWjZKNVd4VDR6M0psUkZndA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:10:36Z",
+    "hash": "b8957a1f7942229b17365da189194fc9cc0a30551d5e0370a315bf2db28a30f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Quantitative Investment Management LLC Invests $2.40 Million in Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeC0xT3FnRE1HNWRDVnRIQTloVWFjQnI0OVE1cldwM3dXWlFOWXlVT3pDOG45a0tuSDBIMVBPUWJVODNkWFk3dkw4OG5QYnY0VTJkTk5SaWhzWmNSQ2hyMDV4QlprT3Y0blBWdUxydUY5RGdJcUhYUGJQalMzbVZaMWR3Ul9yX3FUX0VBRkV5WGdUSzdwRjBValplX016THhFdGxLUTVWNFdGdHJWTE5sS1Yyc3FHVHhab0JxZzgwTXQ5bW91N25kVWxNeHpMbDRqY3JQQk1ZV0Rxem85MGFuZlRQQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:10:20Z",
+    "hash": "efcf2acf1d7fcff0a85c18080dab09cf2c944094df6a41131ea95555323edb2b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Institutional Bets Fuel ETH Surge—But Can Ethereum Outpace Its Leverage? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTFfbUVwcUszRl9mWkxtV3BzV3o3cnA5MFFrNFBNalMybmtRRU12WHRtQWQ3bWZPQUIzTUZteE4wODk1UEhYdWJ0UXNQa2oxSFJUcVl5NnBhWTJGa0ZQRUlZc3U5dkN1TUFrLVhDam5TdDR6cURWY21VcDNDZTZORjFmTVNQMWtJTUlBSGU1aEVTY21xbUtYZ0ZTLTA2SEpUZ1FOcUw5N0k0cTdGanRwSGxzU1g?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:10:01Z",
+    "hash": "ee4d4e1a44e6c49a3fd95f50569fff84532742be3d6c4971ad64c5da69984916",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Breaks ATH After Four Years, What’s Next? - icobench.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUNTZFc0bTJsOEtuQW1RcU04bFNQVDViV3g0Qkh0NlN2N3RQYXFUSzRWSzFXT3ZybmZidHphQmpQcDlqemdyUjY1M0pOcTl6OWJ5NHVqUnlxYVN0ejhOTlZnZlpiN1hDUzZmM3VvQkZFMTlacUhxX1VkdzZGcnh2bXJPS1Qxc211QXZfS0dUN09WcjRtbU5XenJKNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:08:30Z",
+    "hash": "195610cbef8b9087b7f5dc39d2ad67bd4df948baa5199dfbb2550763ef788576",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Why Stifel’s Top Analyst Says ‘Buy Nvidia Stock’ Ahead of Q2 Earnings - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWh1WHM3OFN1dlhfTUJnalkwQW53VUtRT0RicktDVVlCdFNONjMtY1hNcG1zMnNMNDJDUzNDR29QQkFqWnBsUVlTSkdkcjRVbnY4TUg0RlhPLVh6Wnp5QUxacHQ4aHM1UWtxSzVqODdVSGFsdjV1LVFFRFRqRHIyN0F0clo5ZkVYSHNwazBfM0Q1SzRkTTBneGJySWY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:07:13Z",
+    "hash": "0a04b272a3f1b5e7a8cfb79d42000a6ef302fcdfc7a736fdcdad0129637b6a33",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Why Coinbase and Robinhood Shares Dipped in Premarket Today - Tokenist",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTVvZzVBQllUSElXNG5TTkRIbVdNSTRvd250MktkMjQyQXBrRVBHY29sakk0ZE4zeE5qRFBCbWZDNmpTcUoya0hGU0xhNEx5bFdrSmJPRVIyMDlta0JHVnRHczZLcmtTbHA2YVN4RU9yVWJnTWd5N0ZTUWhXVTNPMFlEMEdOQzQ5?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:05:31Z",
+    "hash": "028ca23811674ec050e3ba2804b7cd8a5221132f8e4040dc4adc0cdbbe3386f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Why Coinbase and Robinhood Shares Dipped in Premarket Today - Tokenist",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTVvZzVBQllUSElXNG5TTkRIbVdNSTRvd250MktkMjQyQXBrRVBHY29sakk0ZE4zeE5qRFBCbWZDNmpTcUoya0hGU0xhNEx5bFdrSmJPRVIyMDlta0JHVnRHczZLcmtTbHA2YVN4RU9yVWJnTWd5N0ZTUWhXVTNPMFlEMEdOQzQ5?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:05:31Z",
+    "hash": "028ca23811674ec050e3ba2804b7cd8a5221132f8e4040dc4adc0cdbbe3386f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab (RKLB) Valuation in Focus as U.S. Expansion and Tech Milestones Signal Next Phase of Growth - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONEtHVWVzcGdYdEJ1Y1IySnFkOWJBTWREaDljZXJmVHN5LXdVVm8tSXU1V1RhX09WejlESE5Gam9YOUxhZDkyZkt6WHFHbEl0a0U2QWd6bjBudnptZ3lOQm4wRmJaMU44RWowUU1vQ29pdXVTVkc2d0dkYVZhWHhOUy1hdlY4WkhQb1NvWjlRTzJDMjRHN0NfR2xBU2I2SVpzbUs4NHh0VkxWWUp1d0Rob1JLdy0zWmlOdW1URF9MaVBBdDdJTDJMNXIySnpGQdIB0wFBVV95cUxQVWZTRHN2cDVyU0dFalN5dWI1SEREcHJDYndSaFVYT3JFMWtBNUh5aEplRHFweWhwSlBkTHFSWWVhb1JRd0ZMOG15Z2w0NWNBdlV1Z1B2YmFFbE9Yb3NwSXFPczFVT1ZqS2cxQ0RtdTZ5aExydVdIcVFOWGNnRjJTaWYwZTVNWnFBbnNZX21rMlZlRnRGMk1NR0VqVVlDSnBRbW9yeEJDT1RIaDlTNzB0bG9NdWY4QlQ1dW5RRExkSWhCS29WQ2hXdktpZUd6b1hEYkxR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:04:17Z",
+    "hash": "25c086c0b4ad96d14fb541c1a676ec2eb4a0547068c525249c7f49b95a0bb7a9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum's Institutional Adoption: A Wall Street-Backed Inflection Point for Institutional Treasuries - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR2ZuLUtFZE1EMXRGc181anpGZkRVWjIweHpHVm1EeXRjRXA4c3F6TU1tQTBwcTBWUk91SW43RWpZMFNtY0pMdEtYVS16MTdJYlBEWEdCR0M0TURfR25VaGpxQ0REekRjV3BLMllNQzA3WXJQTHNZS0s5UDVBZm5ER1FFeUMybTdMTjc4Rml4ZnBsSF9IUktfOVRtUF9YM0pBV0dnZkFzYkRfUF9tb3Y3Nlh5OWVHTmxEUGhaN2JtWjJaSWY3VEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:03:44Z",
+    "hash": "c5249be1e5e3b60ee0331a9377488eb49da088e2feb59cf9ea7042ff60ff0254",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: Will ETH Hit $5,200 or Sink Before September? - icobench.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblFndGMxTmZTLXJXcUdESjNwZmFKSTlJM2pWbGwxTXFQN1FZRHhNSGtvckFWS2dLc2pEZjZuYmpHTGdmUDh1T3dPWV9veUJjSXBJRmF0OEpPcGRNQWIzRGFyR2FGRE8tdW94VUM2MFFqY2Q3WG5Sd2xhdkswd252Nmdva0wxWXhBZTlWSGhrLTJyRzVEMGRvOXlicw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:03:30Z",
+    "hash": "81f4e9ea0ef8aab90452902a7acc3742db399c5fb7acbc016396ac9ea90ccc5b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Eyes $10K Before Q4, Which Could Lead Layer Brett To Deliver 15,000% Gains - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUE9KbFVIbER5VFcwU2xHdTZfc1Z2cE9kM2JkZFYwZGZXZk1iX2pfQUtYXzRJXzJqY0FQNUJMMXg4a2h0ZEFIYUVzSGRPcUJFODBhRU0zT2hDeVhwUTJTOUtSODgtU3BUcHpFWVgweVVNbTBHQVpaM20zeV9vS1AxTk9fOVRRdDE3WTVySE1pQkd3REhjckluTEp6YU9OZ29vRjd1SUZqQ25vVDB1Rl9QZHhLVTFKRl9Fa3YxSmtMN3dxTG0wN1FN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:03:27Z",
+    "hash": "82c0fe79241a647e3a302f6205ea9f641f2c7583f8908672193a57d767526a6f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Institutional Shift and Staking Surge Propel Ethereum Past All-Time High - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkppQm81RGppUWE1UmcxVXN0SnRCMFI3THExUThrbDB6VWNsLUVBTm1XX0RqTjBTeEdVdFVZeV9mb1c3TDBaOHE0cXlDU04zWkk5RmlIMlZyeXE5VkViUTQycEVHSFdkV3lLVzF2Nlh0OVc2Z3pRMUpFeVZSRFFoXzRhaURyYVZONndOTUw2NVVTd1BseGVwZzdXaDZGNzFvZ2RuX3FQT1lWOXBxYlhYNTNTMU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:03:24Z",
+    "hash": "790132b8eabc28c70a59da0e59ba94038dfc62940b5cf7d24efd79de466fe693",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "AWS, Azure and Google Cloud Lead Q2 2025 Cloud Market Earnings Bolstered by AI Development - Cloudwards",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlJLT1hzZmRCS2l2RHIxVjJ2eTNLRmhVLWU4Qi1Sby1Xa0RVT0NMMENyM2xmUmZrX2tlbU1LOXhBcThJWlY0Y2JyX21HSkFDVEI2dVFfRDh0X3phR1FkRHQwZVdMT3Nhc1dsUWl1d1gtWUYweENIX3dZMkhEbm5jZkp3OXYxN3pwRXhjeFp3Q1RocWdXV0lpMTFR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:02:12Z",
+    "hash": "de5431873aa6cb3aaaf9e5707cf0a2bacc2303856b173dcc7edc3f4daa3aa847",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dow Jones, Nasdaq, S&P 500 weekly preview: Nvidia report to test AI trade strength - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWx5S0JLNUhyazhRaGE1eWQ3QlAtRDlVejF2WmRIMXduRmFUbWlJenFMZHVxaVluMkxna2pVQktpOTJVYWVfVFRRTDF3SVdHS3hKamJJbkNUb0t3TVFpQS1sUnNUVFNzSXdzeXM2Z19iTXlqY0xlOTVUbHVsa2ZvYXBKS2hrSFg1R0N0c3dwdXFKbTBSdUJ4bWFIY1c5ZUFjNVdsYk9FV0RvZjl3eU10d1g0d0JIZ2V3SzlISXhuTThiVmdfbHhDMzhTSl9TZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:01:52Z",
+    "hash": "5d38e65828c3aa79d93877136820afca77a6dfd0ca01f85b93e70409688c9547",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip after record-setting surge with Nvidia earnings in focus - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYWJsdFJ6Z0pDWVFtZDlPZU9fdnpMaEdoajBvREVBcDkxUUFXdl9WNXl1ZmxsU2RWRkZvam1ZeUxXeW1ZU2JpMm0zYW9qSmJRQ0lEY0xRSGRVUDBHMG95MFFHMXdlT0hseFZGRXBtV0ZTZHBMOVlTNk82RDRPVmw3TkpHR3RiTlJCVHZGNHk2VENNWmYzTVpieDA5SExjcGFKY3lHOVZVd05FZUlQU3JvQUNLZmVFVE1rX0FiMG85WG9OUDd1cUIwUWY2VzI2aEV5WkZIcnZjOGRfbHlnYmpVdGlvZm5lNjBBNExIQXpB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:01:51Z",
+    "hash": "7e7b492c9bafd334717bda92539a860d11eb18b38cb64f36a8280bc3002dd0d2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is An XRP Price Rally Incoming? New PayFi Altcoin Remittix Hits Over $21 Million Raised In Record Time - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQURFVjhselpjbHB4T0tTN3V2NHRMNy12d2RoVWg4Y0lfTHNRUGlrX1lqU0lzaXVteXBTaU9HRkdPNU1DUWRpOW9RMFhEN1VTOFJ5SDVSY3l3RVE0VnR1T2owT0xTczVTOGxZS1FUSktiQy1aaHJwWUhvUHNjbW1GRGlkS2lodXF3S0JFRzZFT0wwelctd3VjZzNJM1ZmZ1M4c2IzMWgyUzBUS09nb0tIUmhoem1PS292MlItQlRUYnlQTHM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:00:15Z",
+    "hash": "e2cd36c5c582cd3f5f567c2e559142c8eba60d657b72dc3ae1ef835e3157f685",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "$400M Crypto Treasury Play: Sharps Technology Plans Largest-Ever Corporate Solana Position with 7% Yield - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVTNzbDZ6WGpQNVh4eHMxNk1DRW9mUHo1X0hTM3hCTS0tNXdVeXdXMUp1Qk5WNGVsMVoxQ3ZJYjFqam5seWw4YThpazhzS0FIQ3hYcXRwU21rdHQzWXhHV0dOUGVkb29NMmtMcjFlX2xGSWZhZ3ZjMmlkWlhpajVmandGeHpCaHlKX0V6N1pDTXlZRE4tZnVpeEhTcW12NW1sVGl2YWoxMFpDZU1TRVA4QkVDU0dfMk5Jdkh3Yk5R?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T11:00:00Z",
+    "hash": "f86d928fa563103eeee575f5097072c4e75197671c40827d0724e69bac41fbd4",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Enterprise Financial Services Corp Sells 1,609 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxON25TOUl0bU9IV3luc2dxSS1ELXpfTFUwOXdzQ3lCZWhpdHdvYzYzZ3RoVGR5VWhmcjg0UHpyU013cnZsWDVmMU9wUGpJVnRvTV82dGRJQlo2N08wd3RLRHVsQklHcTBfZEdaUkhTYWQxalBnT085NzcwUl9xb1NhWXB4V3h2LXhHZHRhVnpHSlhMVU1wWWlpV2MzM1hfaFhlam1wLVRvZFc1aTdWM3lqcF9LalVkNVMteHJVRkgzMjVYX25RUjZxU3NBdllkV1BKWm50ejNxQ0hBVElCS0RMRG1fLU5HSlpaQ2FzVmJ5TXVITW1jQjd1TG42OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T10:59:58Z",
+    "hash": "e6bb6d91e66f14a8d4e90b78b2ff37e21e2545b3ce094ef990c1c5ad25354291",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price 25/08: Hits New All-Time Highs (Chart) - DailyForex",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa0FiWVQ4bl8tUWllVHZrNm5vY0FkcThpZENBU284OGo5NHlTc0M1VTVLd29FWXlvQ0FIdlhES2FLdVY4Q1l4X2NYSXNhU1BkbXJjdnJkSVZFaGltSDlUcGl1Xzh3TmlwRjJlUXN5X0JBUFRPNHg3R01xN0Z6OUVyeDdMaG9CcFU2RXVCeDBUeC1vamY4YUJHMWxlbFIzZkJ1UDVWekpXZ2Y?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T10:59:41Z",
+    "hash": "b8038b51d53b53403ed95946c560c69fe162b41c051e5fd26b91d73e5ffdb2e1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is XRP a Millionaire-Maker Cryptocurrency? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzEtU2I0NFVQOWJoWTJ1bzI2YW01cXpZdzhIckplcGx2bnl6VGhVQWo0NHhoRXEwY05GelJfZkV1bVkyVE01U3F6aV9ESEtRdC1wWHp6SmY1d2dYcWlZbjMtN29LeE1DSkJkb2J4bC15RnpXTHB5MHo4TTdsQ2IwXy10azhHTHRXdVczNQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T10:58:00Z",
+    "hash": "47aee9cdc9b3f858fb11bfdc2db7e4bc8abb77d6c77f44b8176537eedc9a07f2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Whales and Institutions Fuel ETH's Quiet Takeover of the Crypto World - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcW81alBzVFhjdV9ncUdSNDFQR3pXdC11MGZ1OUdqYW41OHhvajl4MXM2cDBlOFpiSVoxLXg5N0ZKZjE4WXBBZWJBUjl6TDNjZ1NQSHNSZEs2YWtuQkFrMnY0SzZGV3hROEZaUzVUeGRXaXV5T3VFTmp4YWpwOGU5ZndIYUdfSDRXOFBzci1LWkpJNUxxbnJhSlUzMWszOTJ3SExWVXNQaGw5Y2oyaFJQQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T10:55:31Z",
+    "hash": "6e2cb7467625db53584cc17c8e49e69c12326b3942ec2fa39ca38fef80a2d4f5",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Dip Creates Altcoin Discounts — XRP, AVAX, and MAGACOIN FINANCE Highlighted as Top Buys - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYjNwamtaWGdTdjBZeDh2SkNXbE5NeFhjcVpMN1k0Qi11Q3F4ZTZHeVRjM1czY0txcFNNNi1MS2pVdVRIc0NwVHp6bHgwc2lCRFRtWnNURzdQTmlob0N3Qm1xeXcyZ2ZncFhfMElLX29rSHozcEtsMDU2STctY194TXBUN2I3WDQ5OEpYN0RNbkZsVWF2VFBHTThtWmNJczctVTRKRTA0bDRGTWhnUjVV?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T10:54:44Z",
+    "hash": "90ceda2e3913a5624720ef8f4ec67f95bfe45513985b2faed146eea2b3db3d57",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "TROLL Crypto to Hit $0.50, Doge Maxi Meme Coin Raises $1.5M - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmJON1lHVnlMcVJFZHRKLUxZMThjQmptZ1V1Q09ZNFRKM3l6Q3JqQTNsbHVWMVRaVnRuNDFYWl82cUZMQTNaanhLT3g0TUx4QkY3MEVNT1haUzk5alJBLW9CZ2dDMENnVmxXbVlUUVNyYURGZDNiRVNDbm82Q3NsY21kVHlQeDF5bWg4YmYtRWdBTGhTOTR2RGVZcWY5RFYxeVJCVjB1RTZIV1pmRXUtY3NvRm9iOG5FMW1PNGtaWlhQcGNq?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-25T10:52:02Z",
+    "hash": "a0acb55f75d3ffe9928aab2d292e3aa02bf466104053068d3a861e25f193f735",
     "source": "gnews"
   }
 ]
