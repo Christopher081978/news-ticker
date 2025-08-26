@@ -1,192 +1,32 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum News Today: Institutional Bets Clash as Ethereum Teeters at Critical Threshold - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemtGZ3NseTctb0ZHbVFBU3pVbnBrTTZVcmNHRDhITk9wVWh1X2Mwd3hZaVAtS21tREloc1gwMDc0ZXUxNzM1YmdsdHJsNGo4dWdJU0k5ck9lLWw2enVYU0dRcWdySDRpR0x3bkdQT3lwUGtkUjNDVU9RamhGT2VHMVJPT3dHMTZpWmtDRU0wa3N6VkdjRDFqV3d4TS1yNk5XQnJ1VHBuMGtva01kcHFBbnJKbTNqZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:26:50Z",
-    "hash": "3d0323391a303f1e9a7185295877f104d2fb0f403dfcc19b8d71cc29a61c3b3d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Price Prediction for August 25: A Critical Juncture for Institutional-Driven Bull Run - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdTFEOGhjTU8yM1JXXzRONi1Hb3paR2gyYVFuWlc4U2JpSENUcjFQM0FOYU9KTVBmYnNIUzdWNDVPbUozd3NHaDdFbHJPZzIwSDZ3cklUNll5cXRCb19kWUJXQ25OMkY5NUdxY0hSbFNHalB4TTNVRjcxdEVUODcxUUwzQlRSMFd1SjJtTlhNWDBLVWtuS1ZqeHFjLVVoMmg1Vms0ZzhSdGZydTlJYU9rdFEwQjJ1VGhVbWhocGFUTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:25:53Z",
-    "hash": "bc4bf36154bda17ef87e647df2c58f781974938b0221e15b172de71148c69f0b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Gemini Launches XRP Credit Card With Instant Crypto Rewards - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHFYUFoxVWh3TERhSEUtWGp0dEtEUlQtdWpqQ1pMOXdlV3ZYbXQ1V3NnUVU2OXlkR1dTMVNrSFhMSHpweW5yVlhGNGxBODJYZWVnNlROV2hnYmpjWG9LMzdOaUpFTXZSNnR2eTVyc0R3OTJLSDB1TWJKb19NWWZIb3U3czdYUDlDMlNOcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:24:35Z",
-    "hash": "f959864db186f5df61a08270b3c4d64be3b23f227a957ad0d3df65cda7c7d095",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Integration: Navigating Consumer Privacy and Regulatory Challenges in 2025 - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORm9ZR1N0Xy1KQy1YNW5WNmw3YlA0enRkcGFUT0kwTGppQWZ5cUlqMTJNUnhESnhGcFI2bmtENVNNYmJ1Wm91TjM3NkJCWG9zWGVFNHg4T3Q4UVJ0YVdQNHpFa0RoLUsxTkoyWGk1Um5NSTlrN2xZUWFjV05YejhRUFZ0TnVZODlwU0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:21:28Z",
-    "hash": "a8b6b4df504ca50b56ec13de836dd14833bac93646d4401ac9e74bb793e58fe1",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Crypto Market Update: Regulators Target Tokenized Stocks, $1B Solana Fund Planned, Bitcoin Falls on Whale Sell-Off - Kursiv Media",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT3FCdGpHTzk4OHd0TmlNRDBKUUltN1VvY1NhUVdVeVZ2QkRBNEtCSnZ4M2tpazNMeE5mQW1VdWxBNjQtSTZWMmU0RHA0X01wYWFZY2EtTE1PQUxFSGpHYzFsM1pTTF9JRFh1ZUxvaEszcDFoT3AwRVJqWnRmcTFFUHNZT2RtdV9KejZpM2tpZ2FPcUVyTmlwWVhfZWZvNk9aSWcxVWNvVGRnamo5OEcySWhaT1g5TG9pcGVRUDhrd2QtdHdCMTJTMk93eEFLMWp4TjRPeGVrS2M5MnU2SklBX0R3d9IB6AFBVV95cUxNQmd0T2huaGFlamFENTV5d2Vna09XdkMwZXQ1bWdiYjB1MUktTnFBZk1Rd2NWZXUzbkp5eUVJdy1jaHU3Z2RmZk41bHhReVBnLTJUbFB3TnJxd1NEeGYtSGtWd3J3WV83ZEVaQmNfQWFpbmd2YkpwN24yc3VUcS1YeFprM08zUFFqYTlmdXpZLXBFZHhsa0VGb3dJU1lKWG1UM1o0SlRmZThCemlLamtHV1JMSU1SQnY4Umg1ZTVVNXpDZlg4RXcxMl9QSDVYUEx4ZmJmcHgxTlRWTXFrTHY1VUd0WnhFZHFj?oc=5",
+    "title": "XRP, BNB, Solana & NEAR — Top 4 Best Cryptos to Buy Now for September 2025 Gains - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTV93UFhEZzZPQlZxVEdTM3Q5RjJZRE90SVQtVGdvUWozbXJ0MEdXQmpGSzBFZ25TNmRhVkhsckVIMVljeFlGSUxxVUh2b0JwLWIzX1ptMGc2NHUwZHF3S19Mb3YwU3otd0lnRHdRMkdENlJlQkxrT2NIQTVUN0hIc3g3Q0FhWmlLUk5BbElzWl9WRzllS0dkcC1xV2Vfdzg5azFfSA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-26T05:20:41Z",
-    "hash": "328e457d05e9064602848b019b5d5032b7e3503ccee85595a30f484b6eeac3ff",
+    "published_at_utc": "2025-08-26T05:43:38Z",
+    "hash": "7ae202abceca9543340062dd67cad028630fb68ad95e5a1ddd83c4023ebe54f3",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP's Strategic Ecosystem Expansion: How Gemini's Credit Card and RLUSD Integration Signal a Catalyst for Retail Adoption and XRP Value Growth - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOG5QaVdrSHhDeGM1RzVhVWtmc0tETXN2TkJ2bVBONEY1aHdrZWo4bS1sRG9jeXd6d1ZaYWtoTDB5dk5Uc3puVlczdktNTU5rbUtJZUYxemRxek90ZTVwdVZnc3h1ZHhHUmVkQ0I0NnJaTmI2Rk9tQmpqdjNHcE1HVC1RTzcxNVdHYzV4NHNzWVBFN2tOV25HZUJOcmJNU2RFT05HbXl5MDF2T3QzNTJ0QWxsOXJtSllZNHBjSnFJLWtqS0RteWpadmhxOGpGWXV4ZWdwd3JXWmxjdTVUd3R2Y0pB?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum's Resilience in a Downturn: A Strategic Case for Accumulation Amid Market Volatility - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGhYc2p3NG5GNzFFM3hHVEowTnhrT1FBUmpzT3hfS1NRcHZJcG9iRklqZ0hpVUIyUTB5cnRSS2JuNm9hajhmMTJDS2prQUpTOTZDYVFzWGF3MXRwVHlESWxwcUlsbFRFRW5WZHNBOVAyOTZZMkdhdlRMbkVpTmEwVV9KVGV0RGNoTHgyT0xocXJ2MVYydW5OQ0hwUDN4WVctc1BIeG9FNkR6dDdiWHc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-26T05:20:34Z",
-    "hash": "e850920b1ca7d2526ad9824202b393df6c4bef23a5044ec4a4613f88643c9ae4",
+    "published_at_utc": "2025-08-26T05:39:43Z",
+    "hash": "28ec59b30f5c556eef149913c909976e1731d4ae0610e12e4b1e35a50f86c38d",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: XRP Poised for 6 Billion Device Integration via OS Update - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeDl3TmV6SmF2VHdScE9WV0NpUmJRdmkzMjhBRGFkSm1MUG11b2g0VHBLWncwNUxRRmtSWXZyZXZOb21GWHRhNy1Cc1plX1hFTjRMdkR0WVR2LUhaTEJ4clhBaTVFQVZFZE5RZ1pXcUNzTnFVaG5EQzY5SERRTG9kNGt1M215OWw2elZTTVNFcmpVWlRaa3dYOG5DUE4xX2pE?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: BitMine Vaults Into ETH Era: A New Gold Standard for Finance - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ28xVTV5aXBGbWVnQXJpVUdIMGRlb29ncXVkZWJWSm5JN1p5STFYYVNIb1RUX04zbmhadEQyeklZQWh6aEx3NjBOMXRuWDRuTHpRUVdPVkpOUzdxWWxfc2VtcnIzd1A2aEphSU43cjhPbEZDSXQxNkV3LWdYSlRhUXlIb1NLX1FtWnJDRU1BM0w1dFZVbW9ZaE5FdzdLUC1k?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-26T05:18:13Z",
-    "hash": "2f7fde7663e553c18809b3218c5b42ccfdb2757c850c7f2f49079d4894c27981",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab Expands U.S. Investments in Chipmaking, Space - Bisinfotech",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0w0Ml94V2xHV3FSbjYyNzdKRGtaR2ZMOG56NzBUSlhwcXpnTUZwc2dWMHNjYkFWb0g1UkQxaFQzZWp2Q0NZS2w4SERESWczMlpyd2VMZ1NCWFZ0LUhtekhqMldWeWF0YjVialFYRDNyNUJMd0hVS01YbUk0S3hDd0RTWTB2c3hHajVJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:17:23Z",
-    "hash": "70eabf77b69dc0f32b62541b1b286e52c6caea9523e830ac1dc2aa64c571a645",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP's Strategic Rise Through Consumer Adoption and Institutional Utility: A New Era for Digital Finance - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR2FZTk9RR3BHeDRjVUZ0VmZ6OHBCaUQ0V1RmZmVsT2o5ZTdpYXpid2t2b2xFOXJ4aFR6OUFqakY4cnBBY09veGZlbUlLMHk5d2dYY0d4VW9iU3JsVHRVVjdGdUU5dVM3MzJTUTF4cUZHTzBkZDJrcF8yV2dEdmNuRXFlN1kyR2RwTlZKZUlBZmI2Y0dYenRDcDRRSWJIX0YwNXkxUjQyd0tnSEVrUDRxR1hsVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:12:11Z",
-    "hash": "ade276b13e1d1942a7530ec4c9c4cfc7a353c001a0a2772382c74450247ec15e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Is About to Report Its Q2 Earnings Tomorrow. Here Is What to Expect - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTNZaFdqT1lFVExJRkt2RFRzalYzVFVvWG5WOHVxZFFGaUtFcjdEWFVlUVdJMDhmVmFjMEFCdWNlcy1jak9CZzIzUnhGeWkxTVVQY08zbnpPd3BZVFJjSkFHSjB1N1FhNGdtbEw2UGxuX3JGallBYVJPYVJISE9vTjJjbG11RS1GSklpcnFUN05JU0ZxRGl6c0pIaXA3MGx1NGl5RnBkblRGajlo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:09:59Z",
-    "hash": "c08abb6f54bd843d866bbbaf2bd676715c27c9d75920bb072797e91f5ee093d7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Why Novo Nordisk's Recent Setbacks Create a Strategic Buy Opportunity - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0p4N1Axb2pBYk41Z1lDYkhid0dPY0NSblFvcFYwU29JSmVRaWZOVE1MejFzd1FfUnEtT1hrNTRWd3U5cGNTZG5BR2lkNGpKNmo5SENRazUyRUJua2o5YlFzVWZyWUN4a0p5XzRzN3hISnR0Z2hodTlITmxHVW9OWWVUamxOS1NzTEh5eUkydDlySkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:09:36Z",
-    "hash": "f1b3639b61513944ba5c7eee302e84f55094db161ac6ef4ea5fa80bce790801c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP's Resurgence: How Gemini's Credit Card is Catalyzing Real-World Adoption and Institutional Momentum in 2025 - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlZHNnE4RnlNMVBwVnFRU2M4Z3ZKTjdnNF9XSUhENWhmTDRRNFpkUHpOdllpREwzclowLVc1VkRJYnFVb3FJOHkweG9CbmYtS0NZcTYyU1lGMndTRVl4OXRLN0VrdmNReF9yY1E2Mm9Ud1p2TlItaTB3UzZQeDk2UFpId252WmdQb0plWEt4a0JtVEhsZ3hpTzZEY210TFRVcnFBZ3NvczVfZTdMV1VMNDRFNnpWRWwyNnRIQzVkMGVnTUFmRXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:08:14Z",
-    "hash": "e3d8f7f36485c48022c947dd0d88f818abbc7127fd918cbe7ec731838f56355f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens Ltd. Faces Continued Decline Amid Broader Market Challenges and Long-Term Resilience - MarketsMojo",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTlrbU9jTTZHbFh3NDVJcDJwcnp4M0tvWjc0UTVsbUFLR2c4a295aTFyTEVhNDI4Y3lndUR2TEdhaHR1aVJFZHRYcVBLV0ZWcTJ5dWlIdi0ycUZFa3VJSk1wNlN5eE5JOU5xQWstTDVqVVF2b0xiM25ZZ2xaYnJqcU1Qb0tDb0E2U1M5VHA0VW9jRjhJV3lFTFV2bUd1MGdoMEpqSy1zS0lYWHQyY25ETG1CY2RrZU1s?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:07:13Z",
-    "hash": "3c33e0dfa00b3e9a27d99e78a3b4d096fdd6061268e734542fcd451a6f290c58",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana News Today: BlockDAG's DAG-PoW Hybrid Challenges Crypto Norms With 2,660% Returns - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ0plSGlodzFiSncwWkJRaXlBdU5yYmkyXzkyMExaX2dPdmQyOWIxeGZmcTRTRWEyNkVxcm1OdTZTTEU0SERDV0t3U2RrRENvNy1MS0RFSUVhYTBPX1o5SzJJUjY5ekpsSHVLaHJwd0tXTVF6WlpyMXhiVWx2OF9Icld2TGlmbTg1WXkyVEN2dWUtOUdDaE0tNXRHeUNpWWJHcmpLcnVUeXR6dDBncF9NUDRaUzY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:07:03Z",
-    "hash": "9fe80576bb2c3bd60c8dae646d0a5da281583f34c4c902d9534679bb9aa3e0e9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin News Today: HTX Whale Suffers $39.24M BTC/USDT Liquidation Amid Market Downturn - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWFsZ19md2s2RnM2c1dlWEJra2VyS0QtSThtbllVT1U1R2RZanhjV01ub0M4YllzbEtyS1VHNmVPQW5Pa0EybEJxNGFxQjFqb2xTTlVZbHF0cVZYYlotVUpCU1RWWk9sVllCdkhVT2RtR1JFdGEyVnV1MWRlQzN2Sk5fWDBjN1J0c0hyblVYRS1BMmZCWWlyUy1mdnRnTFEydTNRVWs5V01YM3RiR3ZidGdIV1M3dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:05:58Z",
-    "hash": "3c27f62ae02087e343baf8d51934175ed5fee6f173031deb0cfd441aba57205d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Securities Class Action Risks and Market Volatility: A Deep Dive into Lockheed Martin and Novo Nordisk - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1pVUEVuNDIxb3JsV0tPZ0VwQUhaeDZJTGlpbUlEQ3V6SEplNjhuNnBtUF93RGJFZUs1ZGQyZC1GNVZKRlJnRjV6ZlZBeDcwZmIwdkpmSUFjdjJFYTVlQi1GVUZma016eVIzRFVKSl83U3Q0NUpBdy03VUU5TEtRZXY0a2dzZ0txbmQ4NUE5WWVjazNNLWpQUEhMVzBmMHJmV3p3U2lfM05RYXI1VVVzN0c3b2szRHA1WlZpeFhR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T05:01:03Z",
-    "hash": "12725fa3bb02ad0f6d0b7da9c5b4959b5e1c0110994bbbd3f36dc8db2c9b4551",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP's Path to $3.70 and Beyond: A Confluence of Technical Breakouts, Regulatory Clarity, and ETF Momentum - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUFFZTJTbXNSRnhrRUM4UEQxSnB0Qng5TklTMzJnQWpIZG4wVDhhVFg0a1plbklwOHJIbVc1VkJhb0RqbFI2Ql9iSXdRV3F2Q2VVakdUcExOemtwZXBCbjljMmRBQ2s2dTJpa25IOWFBVzRtcVY0eUIxTXZJTUkxWGltTmw2V2NoNTBhTlpwVkRsMC1rZnRlOE12UFVLcHBlVDVLQVFFazJwZzRfUXV1aA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T04:57:05Z",
-    "hash": "521b3a258f88f377e3721323c97ba053d5af768645d3dfa11800900d5e1ca5e9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever shares gain 0.97%; stock among top gainers on Nifty 50 - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYjZMemJ5SlJoMHd5SzZEbEJWSWV6TGVaYjVSbENNd3A5amVfNk1CVlh4empoWnFjSngwTm4yVnkyMUgtVG51cEpuYy0zQzJ3U2hLVWhNc29rZE1ZRmlUTzFKcGRpVVpfM0pFZ1Y1a2pFTlNzQmIzWE1GUktscHNIQ2lWOGJyeEh3V1lfVzR2VFg5OTZnQmpCLVplaUx4UlNFNW9QT3NETGlLMEFKODBkYjBmS0NJNjBmeTlJcVE5bVFtQzhmRFhrYl9ON2NsUUk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T04:56:00Z",
-    "hash": "ad45de26ca086ae34918b8777381339740ac28a3f75b4d0c4a0e48db391c5d59",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia earnings on tap Simple portfolio strategies for all investors - home.saxo",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaVQzYlkyeGY3TmNydzh5QWoyZ01yV0RKT0FJN1UzMTJQTnR6TXdvbmszZUdOR3Z1Z0txY1BMQU5hQmpINDYzT2xjcmRZLTcxREY2bkUxd0ttZENIdkN1OW9ZU21yR2ljYUZINWJVQ3g4dXI2TnAxTXRNUlVOUGYtNGVWRnF1Wm1seEd0TkZ5ZWhGTXN6Q1BydFlyc1phakRXZ3htWDBxcEZDdFd3T2xGLWFqaXNORlFPLS1mOU1Ka3E2R2M?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-26T04:52:21Z",
-    "hash": "b81b1f4cb8ee205e5f5496bb6384ce2999c5e9b8422927729ff5fc269aad4a5f",
+    "published_at_utc": "2025-08-26T05:32:57Z",
+    "hash": "77b19d392b5b068cbcd0545ecacb20fd096a6aee760c74f045626f5b3b4e04b2",
     "source": "gnews"
   }
 ]
