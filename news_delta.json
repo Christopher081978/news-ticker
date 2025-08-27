@@ -1,62 +1,192 @@
 [
   {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "Trending tickers: Nvidia, Okta, MongoDB, Rio Tinto and JD Sports - uk.finance.yahoo.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTlUZW8zZjdhaTQtNjUzMlQwcGdzMjhIYTAzVzhaLXJMNTNBM3V2TUx6TFpSUldmYkd4akNWUmZXWkhzdXhvQzY4cDNNRzRQNHRzbDRhSlIxTXBOQ3F1dGE1OEdtRnhMQk9HSklqZ1lQU1ljN1NwUWV2cmlyY2tqTGdmbHJSSEx5ZXMxa2I3ZVdXQmFTQW54TUxBNzhPY2Y0XzdsWWhVcnI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T08:47:03Z",
-    "hash": "edb7677ed654465786fa9c378af1f31ac5dba8a7b6bdf702b11009ce92faff8d",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "The Institutionalization of Solana: Pantera's $1.25B Play and the Emergence of a New Treasury Paradigm - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT1J1aU1KWi1tbTExRGZ1VFlFaEdBb3FJSlM4MzhQRXROV1JtcmRHV1BnbUotMm5qYUQ2S0hJSllPRFhZcUUzMVA4ckgwcGNfaXA2LWFVWFlJTW5wWHhGODd5RHAyU212a2UzTjhyVng0NzZ2cGVnZWVuQ21QQ3JBamtFTTU2YmJiNzQxMXVTMXZqMXdKNmdBM1FaY1NtaHNIRkI3LVFiOE0xNXNCSmc?oc=5",
+    "title": "Remittix Hits Gold For Best Crypto To Buy Right Now As Solana And XRP Holders See Further Price Declines - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUM2ZXpBaGxubmJ5Qnl6NXlEZUJTMFN4T2o2anBJWDM4X1FFZG5kd0RPYkp4anFVclYwdVpuTXY5QVdnc3NkUEZqbGh5cnA4a2x0NjQzMFZCZXN2T0hHSnIwaDlMcmJUcElkUTU2cHhiRFl1ZDBJNmtLOUpTMU8xZUtsZnRLWGRzMW1IWlE1S1RmS0tpaFJyMUloeGNfaUc5WkNaMVVURXd6bnlrVUwtSTNxMDBWbXFDUmpsNEUxd1RRTXhGeTB4QVNYa1M5QmJqOWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-27T08:45:08Z",
-    "hash": "cadfc0440974c788a523ecf7113711e41bd3d7b85ff3c41e7de83eabeca2fcf5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana (SOL) Price: Ascending Triangle and $1 Billion Inflows Signal Potential Rally - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXZGWjlHWGFBX2NWZy1Gd0hWNEJFUmtFNWpUNHVvRUlmQS1TYnVXTkVQSG5ldEM3TGZzU0p4RVFCTW81cWhYb3o2ekx5azdmRmJkSHFPdEhWNVhmMFRNN2Zlekx0eFZUYzJ6T0FCeHhLc0xBS2hMaElhS1hqRmQtczVaSWl0ZWQ0aUY0ZlFRM1VtYVRIUHFwY2RudHhjSy1jME5DM0k4YXI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T08:41:18Z",
-    "hash": "c8a8d36bb9f380e88c2ca4e9be9dd4034308cf259e37c6d72bd1deba12162c69",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana's Institutionalization: A Catalyst for $300+ Price Breakouts in 2025 - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3hFWl8zck1Gay1Na0Q0bGpoOC0wLTNEaXczd2poRXF1M0NsUlQ3aTRLS3dFTTkzSUVNaHF4QnJUNEY3cjRKOWdqYlBENHFFN19PZ0I3cDNabVY1OG01azlhN1VSRGo1NmVRZHhRSlFXdVZrU1VvRUVMV2ZubXVIWkJ6MVZBcS1RZHJMM0hIeVpsRFRNOUJVRjlRd2s?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T08:40:26Z",
-    "hash": "a662b8bf8b51ac2729f703cc62fc612fb4117d5118b97a3b565e3170ec128054",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "The Political Meme Coin ETF: A New Frontier in Speculative Investing - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS1lnRE0zSkZKaF9veEhZV1VuZExfdFZqbkpBWVRfLVlXeDNaOE5hS210eVd3eWQ2UGE2NzBJbHE1Z09HY09XNXRZTVF4U1B2aW1IWnh2ZWtqMFJYaEw1S3VYczhIWmw2ZmRUcENlMWlpYjIxU0xsT0owY2dkMktzR1htZDNIVFNBYkpWZmVrV3c2b0U?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T08:39:55Z",
-    "hash": "36efda456060fba8e8fe9da1d56e2fc37dbd72a5e3aa873407b655d59301860a",
+    "published_at_utc": "2025-08-27T09:22:20Z",
+    "hash": "850767e4da8ae64a15df2c981ab07a7012a2b8a200b89c73a2ef2e97448460f2",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Global Markets Mixed Ahead of Nvidia Earnings - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWhTbUxGajdmaDQxQjljd1d5OGNya3NpaU80S3FxM1laZmtWX3RtdDBlQjRLSzFadnc2TW4zZ2hIenlUOWZRbEkxRWt3NFRDcXFuUGVtSEY4QTN4Yy1feEZ0aDd1QWJtNTg3T2ROcF9yUFRUSUFjU0ZXeG1tU3Z6OVFFYkR5UlN3Tmx1cnZsZVM1WTBVYnRWLW1ZYjdIcnFVRUlXTmNhOHgwTW9oeC05VV9CRlVxNEN3X2N6bDR1NkI?oc=5",
+    "title": "Nvidia Earnings: Beat or Miss, Stick With the Stock - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX3I3SThVV3FRcFlHSHkyZHptajJwcjdXM1RoT2llc042RmFMS29Ybk92WFpwZ0xuYjNqX25fdmhkS2FBTUdCNzNpRlBZcUhsdUhKSFBkNzVvdVp3ZkhkaHJXaXJlUHZfSGZtQzRhcjRzSVloVEx6SWw5M3pkRTFsc0ZYaw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-27T08:39:28Z",
-    "hash": "1bc65d35f19453cdb4f56c790194e44fe81cf024e21acb89808a078a63d94b33",
+    "published_at_utc": "2025-08-27T09:20:00Z",
+    "hash": "6f4b285356e91f2fde4bb47943470b5e53aa1842d3d6fed44a2782213fe287d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Crypto News Shows Resilience Above $3.00 - The Tradable",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ2dpaDAxM1BFekxpczlZQURKZ0JmbXJLaC1NVnNDU1R3NW50cGhJUTJJTnJvRFlIdGQyVU9MZ1dRSFJwLVBUeE0xMVZUSzEySURpRFFXTmNFc3h5Vkx0c0xmVVR4XzJydm5HalhJTEg1el9lbkF4dlpMYUN1WmdIV09Wb1JmUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:15:34Z",
+    "hash": "3a51d5cd12c898259f2e48dc1efdcbe623905d40537413808e7b3b0c60f2c37e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Why Remittix Is A Better Investment Than Dogecoin And Pepe Coin In August As Meme Trading Volume Slows - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZm03U2lhcnk4SmRNVlR5RHR3VjZ5TnBFWHREMms5U1Z3enNLbVVCWFZJR0dQWjMtX0RoWGhPeWRWUjFISng1M2x5eDBKMnhnQlBaeElEaXdKMlY5YzJud0ItWktLMHlsM3p6T01uTjVyWnZmdHpENjdfemdpR2tDMXZCNVF2Q0NQZkFST3lHOVp2bTlFXzVSZnlibk5vT3MxdnN0bVNjcU9WWVlUazRpNzFQcDNVR3Z2amlNYjNfTTJGMnY5SkkxbExIUEYyNTg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:11:58Z",
+    "hash": "dca78a642452d86d6e97a8b0bfea8fcf2c392d1bba07e5130f80798444054d13",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana News Today: Regulators Back Staking ETFs—Canary Seeks Yield-Driven Future - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFJyOEhxX0V6Qjg4TEJLc3Y2RTEtUXZRc19XRGVJWGZGenYxM1Zjd0xDdlYwMTYtMWdwZHlYaHlfWUNHSU51aXc1RjlERzI5OWR3QWd6Znd6dDY5Zkg4OUNyTHladVpHYkxrblp3NFZBVU85V2hpZG5zT0R6Tlh2SThocXhNbDk0VmJmbWg4X2dNRF83YTlwU3Q2emtLSU41T3dRRjVENndrcFVaaXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:09:00Z",
+    "hash": "65dc552816be95af77af9c563128d1f0efbfda5e5031d9328c8bbb2ae44d8915",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Bitcoin And Crypto Advocates Warn Congress: Protect Developers Or Lose Industry Support - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0tKVzlNakpZU1RybVJyVlBQc1pYbnI2Q09nS0pENGtiYXUzRjZXZllzMkFUc2Rxdy13WmpaRHRjNlFyZkdWRUdzS3JQVlBsbVZDVEpGb0dCZ0x3N0R6ZnN3bGFKRjZlNHJ4N2xJWHlFSWZ5X05oU2MyaldJOFVaUUJEeDk3TDc4UVpBcFhzeTdsVkhGZlA4MFZsTVUwWm9PMGVDc0pjRnA1a1JvLVJ3dy0yT2RJOGl0Z1NLNGJIbmk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:08:22Z",
+    "hash": "92f6e5f1fad22efdfeb69d9bff9c1673c5bd155a65d70e684e88afac202ead5c",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "JD",
+    "title": "JD Sports shares climb as retail giant expects to meet profit guidance - The Times",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQmpGZFdzcUw1alRualctZmNOLUFXY2FYb2RWUU82THIyVzFhdUJtU1lnZGZEZFgzMWRJUlQwRERiVW01ai0wSS03TVJHWFVsOGNKbGpYb0tMVDI3V2NiWUctbmNSdmlrS1JQMmotZE05U2VLbkczN2tzVGU2YklHeGVXaFJYdGxDblM5YU1uNzg5bENfWVlDaC1UZkV5aGdGTWdJR0JZTzVRQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:07:33Z",
+    "hash": "94dc763f9bd2d563219deb024f1a1d46792ff65f6072ad3a3cc37f1f608e7538",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Staking Surge: Ethereum Validators Stake 50,000 ETH as Network Evolves - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenRnamJEQzBJSVJxS0p6RWkwT2d5MkY1UXZaS0NfUmVPdkQxVVVNazlJc2p1eVV6WDJxQWNYbFpLZ3lTdWJOVmxjNUNaQjBjbnZFWGllM0NxNzNwSmNnTU9NaTVxNnh5QTd1T0NqWGItaUdObDNINkdtWndTU0RZWjVtZGRRNVNySlpGTl9weVlxWktnM3hTVUUxM25kNkc5SVBIYlVaVjFGQ2J0Zl9XbXdoNC1OSi04V2x6VDBR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:06:53Z",
+    "hash": "a9003980719b1cf0c977230c8a67c7561fc7bcea2546f2dbf8022222eb8977d0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana News Today: Regulators and Traders Navigate the Next Crypto Frontier - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmNZTWt3ejhTV2ZRRzNXdmtUUU5ZX3FkaEdpTm5Camxrb2VqNzVsbEEtTlJtTGp2eTFNTVdKaE5pQzFyOWVnRk1nTjVxVVN1VDZVcGYtVzZLTnVRaXBiU20xdjBOTmw4WDVKanVOLWp2Yi1NaDJoc2ZBVy1IYmt0aVB0ZGc0X3pRSnc2UnMzaWIyMGZZWkJla293ZTA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:06:49Z",
+    "hash": "e1c3b4dcf9aada58f756bd40b19c6230950fd33785c93110aed660dc63c2e5ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Hut 8 (HUT) Stock: Bitcoin Miner Rallies 10% on Major U.S. Expansion Plans - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0RUd2xGVVEzNXlXWFR6SUZiV2ZfRlZGczZ5U1hxN01XOWRadFJFWVpXU1BacFVsTUZPTW02Tmd1RGVoSE1RYldOd3puMDYyV1BpSmxSVzZJNXNHMk1GZms0OWRTWnZvMmpyOW5RQ3Y0NE56bi1sdkFQbGMxTWwwU3hpeHFlV05zRzVrN2F2MEwtaDl6SXZEYlZ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:04:13Z",
+    "hash": "b41ad48810dda1e5473448eacc9cd4be5ac3b9ea8f725f1d2a8c6bbb5c78cd99",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq futures in holding pattern with Nvidia earnings on deck - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdHVGcHpWNnc2NlZJdWJQLWtFcE9ZdE5NMy1sREVJX25wVHBJRDlGb1pBZEhIbEVlU1lYVTFRUzZQTm5OejFvcWY5UEhYeVdqV1g1LXVkV1VXLVN3V29VckpfSVBXRl9CYjRJUk9xeXpUYlZCbC16X3Y1VEY0cEhqNkJNRTM5aFd3aXdueFBiVnpuekdVc0ZGZi1xZU5aZmEwblQ0aFAzY0s1UDlRdVVnd0hRN21vLWF6RFBDWlZPaWpiN0p0VHl0QzlDMWNVRTJSaFIyVzhreXQyQm8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:02:59Z",
+    "hash": "8f0c060a7de5a9d45d103f1ca3354c7b5199238ffe5d679f8ac4bba845ef9947",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Ledger (XRPL) Q2 Report Shows Institutional Drive as Market Metrics Soar - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcEk3ODY3Mjh3QnYzUWNNX3FaNmhqSlJSZWxUVEhfTFUyNFhJYk4tbm5mRHFIY05Lc2JYU3ZzYm8xWUoyb0dfUlZvVFoya3B5NW1wM3FxRlNrQnV6MFJ6TkZDTFdFc3FMR0dlWG01bUF2VGRvek9aZW1QN0Ywcm5SZndXVnd6MjA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:02:17Z",
+    "hash": "b01b5519a235d428b42e099ed0e9ec9defb7a11b8b43adb8ba68b6b0f2fae1a1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Dow, S&P 500 and Nasdaq to open near record highs as traders await Nvidia earnings; Treasury yields steady amid Fed independence battle. - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPS2J3RVFiTWJ1bjNHZFE4QWRlN1Y2SFlHVm04dmxlREhhZ0Z5NV9lYkRMd2hBelNKQ09mWlkyTm9NcGo4QkdDRnY4SmY3M3p4eWF4d1VVTTBhZXpJUWRHY2h3aTdvcDlaYVRGLUx2UmJsWmI2M09WZWc4LXBnNWE3LTlwdHNWOW9aZTFLWHlZbF9zZGRXT3hxd2FjWUE4cU1QTzlJcjdlOEZOMEFOUzlYYTB6ZEhJSnZydDdkX3V4eVF3MXdZelBubVhDamhZMWJTOWNrTnJvMkw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:01:00Z",
+    "hash": "40465e446e947791f8ac9de5681a342bd8ed9035182a205d7e138726940d6b7d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Falls Below $200 Again, Whilst New Altcoins Like Remittix Continue To Surge - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1Vzd2VWY2VvZEhzckFsVVZhdGNRNWx1VWEtdUdCUC1aS1l1ZWREdnZYa1NUQjdRZnFNcXV1UWVvQ3dscXM3MGl0R0NpVEN1MmcwbTZZbzFYRGtKNndmYVNyTUpSSDhYelNuXzh4cWtTTGlEQ250cjkwT09QQ0tCaXktZy1pbm40dXNqT1VLOHA3M1hEOFdPcUFCNUpITXBmUVRZRVF2QllaSTBLT0toTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T09:00:38Z",
+    "hash": "c68152551950f16645a0f40abec059f69aaecd02d41d7e7af3c99397a403bbe7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Stock: Earnings Day, This Metric That Could Make or Break Earnings - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZHpOM1NEOVh0MjJMUmJGNVdZSjdteFNVU2FLeXJkaGNDbU1QU3oyWU85WTdCeVVnbnUyOEowbVNhNkRnSDJVay1mbWFrMG1QdXRHYXpybmh2Vjd1MHZ4N285ZDFpM2hyWDlyaHJ5allKRGV0LUdCdy1GeTB3ZHFmcW95TE5JZmxjRGZ4bTNrVlRLSEtKTG56Q3JRVU1IZU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T08:59:03Z",
+    "hash": "08152adeb815133f58f916041994bc262316508e0c5cf8b967af2c64540e26ae",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Asian markets diverge with eyes on Nvidia earnings - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXVyZUd6OE5fSTFERmFWSWhrc1JyNnpBTnlSMzd4QXNMRzkyclZlMVZNWlFGLVpnazNmb1dMc1YyVzVXM2pzTFNidUtEMklXNkdERXpYYk5LVHNXNlhRTmJBWTZFcHNBaXRoaFgyekFNeW8zc24zbWFOcjVKOFh1eWZVd3hDZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T08:58:50Z",
+    "hash": "8c190a382c35aa7b7f7e682c124b1a7cdb4155ab2b8ce9abf9dec01f63a6d235",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Secret Google Crypto Plan? MetaMask Logins, TradFi Google Coin - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkdaNnlOM1lwX0JZRE5QMm5vTFZKOGhrRU9FMGE0b0xuejFvTkJtUHFpUW55bXNTTmZjd0JjS0VvRGVFa2pHVXZnbEx4dElYdjR0V21Udk5XQngxb0h0OXdJdGVWeWRnQUV3RnhGai13U1oxbjRyOFZ5OHpIYUw0ei1xT0MwQjVNYWZlek5fTVg5OGh6d2VuVnA5N3U0QTg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T08:56:13Z",
+    "hash": "e94839d3f1cc7848af92ab5c753625a627e0efafe85212bf41847a94ceecbc62",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Secret Google Crypto Plan? MetaMask Logins, TradFi Google Coin - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkdaNnlOM1lwX0JZRE5QMm5vTFZKOGhrRU9FMGE0b0xuejFvTkJtUHFpUW55bXNTTmZjd0JjS0VvRGVFa2pHVXZnbEx4dElYdjR0V21Udk5XQngxb0h0OXdJdGVWeWRnQUV3RnhGai13U1oxbjRyOFZ5OHpIYUw0ei1xT0MwQjVNYWZlek5fTVg5OGh6d2VuVnA5N3U0QTg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T08:56:13Z",
+    "hash": "e94839d3f1cc7848af92ab5c753625a627e0efafe85212bf41847a94ceecbc62",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Morning Business Report: Cracker Barrel scraps logo after backlash, Nvidia earnings in focus - 41NBC News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOEpzYUZNTHNwNGQ2X2hXdFhucnlsRmgtRDFoUmZzTUpGT1A3Nzc4MnpaSmFiODl4bnZQTDM0QVdiTFRaRl9lV1RXMjdzQmtZcUZBVmcyaEV3YUVWSTZIcVJRampRamVrTi1sdG1wR3djandaeGNoU1dsYVc5UFdxb25vYTlKa2M5bHVHMWdXRWFJS0NxLThZZlpIQS1kRE50S1l5YVhkTngtUlJENUJBTjd2RQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-27T08:54:40Z",
+    "hash": "d220abd0635f5794eef42ee89a0d2ba793aab968afdc2a13bacb4ca015539b67",
     "source": "gnews"
   }
 ]
