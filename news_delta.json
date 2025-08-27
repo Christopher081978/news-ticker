@@ -1,182 +1,22 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia-Backed (NVDA) Field AI Raises $405M, Valued at $2B - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZmQzBNT1Boemw1MHhJVnRUeWMxNE1ING16XzFOVG5UN0ZIS3hqZGhtSFEzNjhTQUphX2R2WDMtUVFVZ1NlLURVYUZHaTFpRlNWQVpnWUNsOF9tN1FTSWJaSWlwRnVVLWwwME5uelNPNVplbE1mLXNEQjNlUkhPSUdDbGI1LUpQLWhNdXNTdzJuWjhsRTA5a1RVRUzSAaQBQVVfeXFMTXJSOTRIYWl4U3dLTWxRbXRUWGwwR0x4UDVqeEdrQmpNWVhkRUtRUFBFTFhXcE0zb190Ni1IR2FxLU1NNFBKR1pGODBIRm5ET0RmMi16SXFSTDRxQUctV1kyYkZGeVp5NkRqM0FCUko3LU1nV0VCeFZaRkt4Vl9BYkUyS3dPWVVFVmU1VUdQd2ZMWnU5UmQ0UnZzQjQ5aVVGWXVrV18?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:30:58Z",
-    "hash": "7549850948f0ca9ea440cf88ab0672247963c38f428dc75ef03385b1f30dea40",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Asian Shares Post Modest Drop With Focus on Nvidia: Markets Wrap - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONmplRXdPd0VsQ3ZmYUJfNUhYME1nd2hXZnJ3NWMtZGVtQjQ0UTAxM19sUXRBcGl0SnZYekRSQ0Q0NWFTY2ZTN3NZa2NTMDNQZmFaMEJiYU9rekNLLWVYaVBsay1lWHhmTm5zY0dIRF93OVd2a3l1YzRKaHlFZDI2LVlQeU9QVHFtVEtfUjZzaktoZlI2?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:27:00Z",
-    "hash": "7e7c891ff157f28b2cee07e3c7ea92e04de09d9d0bdc27e90a44d328a2bcc76e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "US Stock Futures Edge Higher Ahead of Nvidia Earnings: Nasdaq, S&P 500, & Dow in Focus - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNmZXdi1lWVY3emZkdlFRRGllcDk4TXFTZkdDelZUbzh4cjQtd2hLdi1DZmxSZEduc29EUUFqWERySkl4WTVIX25kY2RWanhwaUFwcmtHNG95dEdDWmRkMFhHXzdaTVZsMWpSOUFUcXE1dzVBNWlJS2xYZk92aFR2blJpTWZTaFByTHJfSkNaSWZkc2x6MDAxdG5KbDBmeHhneVJoaE10YnhiMlVUX1dXc3lqZ2FKT1pUdHZ0UmZPdVd3V3hWM3ZmaWJUOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:26:00Z",
-    "hash": "94399080f8ad5b6804560e73b83129f3b16d7417e4003637549989c2a74b09a5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Trump Media's Crypto Treasury Bet Sends This Token Soaring 30% — Bitcoin, Ethereum Left In Dust - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWVgyNEVvN1hRRWlPcTdUZXJsOXE5bkpnbW1IUElSWHR2MlljUEFKejNSbXNmU0tha1VkNVpBbEhMMkhIeTl3RzhqZ3h6Y2tGUEZYUUZ5ZExTOVVWbkw5WW02d1RnZzNKZkRQdklDMlJXSjBfMzRtLUhsaGtndGJnX21XM2JFS0Nac0RnZ1RzUnhWeGthRU1xSmM0Tm1kR3pEN2M4WVJwaHNqQ3ROZjBhUmRVYWp6TENNdkQ1UUZnMXdUSTZHRWVPa1dFYWQ1M2thVnd4cUlKQXBQeDMyZGtnOTV0SHlnSGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:20:23Z",
-    "hash": "2f2b85f63e7ce5a914adb69707c2771efc3afe454fbe87c44a2a78729785c3e4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Trump Media's Crypto Treasury Bet Sends This Token Soaring 30% — Bitcoin, Ethereum Left In Dust - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWVgyNEVvN1hRRWlPcTdUZXJsOXE5bkpnbW1IUElSWHR2MlljUEFKejNSbXNmU0tha1VkNVpBbEhMMkhIeTl3RzhqZ3h6Y2tGUEZYUUZ5ZExTOVVWbkw5WW02d1RnZzNKZkRQdklDMlJXSjBfMzRtLUhsaGtndGJnX21XM2JFS0Nac0RnZ1RzUnhWeGthRU1xSmM0Tm1kR3pEN2M4WVJwaHNqQ3ROZjBhUmRVYWp6TENNdkQ1UUZnMXdUSTZHRWVPa1dFYWQ1M2thVnd4cUlKQXBQeDMyZGtnOTV0SHlnSGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:20:23Z",
-    "hash": "2f2b85f63e7ce5a914adb69707c2771efc3afe454fbe87c44a2a78729785c3e4",
-    "source": "gnews"
-  },
-  {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum News Today: Institutional Bet Signals Ethereum's Quiet Takeover of Crypto - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQzJSeVBab0Z6cFhQbDgxeVo2YllNTE9ZUUVsb0lET3hURm92OUVoS2t4c0VZcnY4TEVDSlFBVTZtWEtyVlFyUFhiN3FkczQ2blRzOHJHU0RfZVV4ZC1IcGJ5Zy1lc0FVRlZWamZrUkVpY2RGb1NUUjdfdHlib3l4QVdIa3Zpc2VGTERXRGZoVnpkZ01fTDF6VmtmZWpRb1kxQUkxb3VqeWhUdUFZM3VnQw?oc=5",
+    "title": "Ethereum's Structural Takeover: Why Institutional Conviction Makes ETH a Must-Hold in 2025 - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX1dWc1BJamtsbWE0OUNqZUJNWExvTl9hc1l3MThuQTdCSzlIQVdQdVE5N3BPOE4xTGxOb0x2SXY2LTlVNGNoaWZfX1BiaTB5bW9aejNtZDNpd1NZTGFMa0N5Yy1zSzhTZ2R6c1JvYkM5emFNUzlsU3pPQWhCQWZYR20wX3VrS09IX3FGTzlIUnZfN3R3WkpoNVQ2MFdXM2ljSm1pNw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-27T04:16:50Z",
-    "hash": "7d0ece6a748c1e25c316a0d5cf124dbbff2f95ca54bef4219fc51633e863d462",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA's Earnings Report Expected to Drive 6.5% Stock Swing, 50% Revenue Growth - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXgxdEtHTzlZNzg0bUFLQ3d6QlI4blNPWTUtUjRXX2pUYkdrM0t3ckRKcUJfbzhWaWhKSFJBUWhoOFFMM3BiVWptRDdNSnBvTWlHVFhRVjRnNW92bm9aek0yVnJyM3NpUm9XSzRqV245V29hN1RoOHdlVUFZdEZMYTBNUTJkcnBfdjJHZzRjSVpUWk42RTNLbzZvQXNSdFNlSnNGeHFiN2Npdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:14:12Z",
-    "hash": "47a9c937be4a77eed5f330ef25fa41da3c52eabf55b419adb515e4213df6829b",
+    "published_at_utc": "2025-08-27T04:38:30Z",
+    "hash": "1720c8493c59ad0bea636d4b5811a92fae4830eda9f68b347a0714d52bfefbec",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Futures Break $1B Open Interest Mark on CME Platform - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzhHX1d1NE40TzJJRzJ0dG0wakZQOUd2c2k0N2tIVWc4LWU0YV92aEhFYmVSeG5IdkdwVVZvMHQ3UzhRTXZhUUFYR3BZT0ZPNlJOOFRSZ2EzWHR0LTJSOVp4b2FUOFY1aGYtb0plZ1N4UkpLUFVCVng2LXdiMk5IdDRERW9abjJK?oc=5",
+    "title": "XRP's Strategic Shift to On-Chain Yield: A New Era of Institutional-Grade DeFi Utility - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFZ1S2lmWk5pRG0yOFJEZGoxQVBBSFEzbkxwTndhVHBKMC1wSHVzRDNtU0ZhSXlmdjBYRnJtZDdnbUY3UTVYS1FOa1gxUzdwUXpvNnF5N1IxYUFQaTVpZWo0N1lqTGJ4WGMzMVdKd1BhUGotM0d5aFNsLXVBMmNIVWJYRlhURTl0cV9SWjFBald5TGtCUjNaeVpOWFNVRHpiVEZ2UVRR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-27T04:13:49Z",
-    "hash": "e155942d69d08d7e20a82f66b7c4d1476f0672a2fc347b8fca3d5d320ca9f986",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum News Today: Institutional Whales and ETFs Fuel Ethereum’s $7,500 Bull Case as BlockDAG and Hedera Challenge for 2025 Glory - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZndyaUhlWHFUSUxNM3pKNnlVdDBrcktsNnBKd3RNMlBfSTIzandkU2wxLXI5cXFLNVA1dmszLUp2ZFNDT3lOUkJpU3BxZ1hqT041eG9ERkZvd0JZSkl3QUJBWmFxcXExZTc3T2JvdEtweXN5V3NwSGN1LThFRlpkQko3WlRrME50Y25zRXEzOExWX01Hc2ZjYVF6SWx5elhiS3pIQTBvSmZkNmkxVldKbG5nLUZCM0FtVXVQYlBMR2RVN1BNZVRNUHVTRXloUFpfR0RHMnh2cGh2ckNVcW1tYQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:13:02Z",
-    "hash": "29822eaa1d399608cdfcd3b48b136195b0a534ac4caaa7da687c5381b5b2c348",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: CME XRP Futures Hit $1B Open Interest Fastest Ever - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmp0VFplM3lRY0NPekVEd3VGSm5DV2pUb3haMHlYa0lCUXNYNGtRUnhUZlZWOGNSc1dqX2FZQlhoTTNBcVRsZlpaYmo3WkY3cFlFNjh3anhGekwzSU1sakw4UHF4TXNiVGRMSDhJVGU3VmlpM3JLUXQybHB4TXl6ZnNsRG5QeWNWa1pEODhYZTNQZWlZV3NQR1hB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:11:46Z",
-    "hash": "1daaf3b7822e22632334d6279da4f7883fe959280ad6f659e6163bd2bf1c839c",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Stock (UNH) Slips as DOJ Broadens Criminal Probe - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmVkSHZWaUtBaWhodlFJdXVONVp6bGJkUTJZbC1yTno5YVlRZzhzNDF2dC1VNEx5WnRxSGlPUVZ6d21pc3pSVjEweEo2dmdBODRpRU42WnI3aEI5a2ZBTml5MkNBM29PMl9rcWhPTWR5elN3ZnpPR3VnQ1BxOHVDOG44VF9SN0VUbHpYUlc5cXRZOGM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:06:01Z",
-    "hash": "82550edb5ccdf0bededebc5dca7bc83f6078d4bd8a289dac97a9f4941eb5a875",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP's Emerging Role in DeFi: A Strategic Opportunity for Yield-Seeking Investors - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQnhCek9ubUxQU3BkY0plNk50LVNhb3ROcTI3TjRxS3RvX3hBbmdBRWtwUXF5NEU3QXpPczF4YTdtZmdERGRzRlF5bTNjaUxkN2NoUHBEZ2F3RjIyYTItNExMeWJVWUZIaEdZd2FXNlFXdU9jWE1nRmxJYUw3ZHYzTTJfRHRmZDFPb2ozd3AwRzNZZ3VaNmtLRXdyNXVURGNSUDZBMzJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:04:10Z",
-    "hash": "371f3d12cb7746cdff37338168cf8add54795469a1fb2703bbb36427ec184819",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Recieves an Upgrade From DBS, Price Cut From TD Cowen - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVnNnaFJFVHEyMGlqdXRkcDMyY24yMlBjaXRxRXRGYXhMQktNZVlVY0p2OTRnTnJKaVp5ODhCOHZYdFJzaUZCNm9TYVNZTklwUnJLN1FBWnA1SzVMUWZVRDFXQ0gxSzI5WnVleW04a3BfemxWOUFuUzJiVmZiaFBRUVdldXdjSTNDNWVOVkdyVXZQVHA4OWZXNFVqTGV2eERvTVZ0Sl9PWTc5WTBvZlHSAbYBQVVfeXFMT0p6OVdpbnlpYk9WQ3AyWHBrNVZiZDFLY3RPbUppdXpiRTJVTTNzZWVqZkRBVFNKTnZuWnZ4OEY4aFlRV3BHNVJzRUN4YmQ2NERTT24wSUl4SUlRblBUY2xXQmxvcnNULTgtazYyVFRHT0FLemhUOUowT3hwN29yMmJqbG5mYnlIeTI4OTZ2azQ1eG5YS3F0UkV1MVJQOExpZE9IdGdldlhyZDY5enBoVXNGeTJCbFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:04:07Z",
-    "hash": "87a821671c2cac0d8d2ea23676a65939ed6633ed8016b19fabd186b2cd4b8bf8",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Bernstein Remains Bullish on Taiwan Semiconductor (TSMC) Amid Subsidy Debate - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN015ZnRjSVBhdTI4ZlZOTlRqQkc0aWFHOE5zeEtVMFdya3h3bkhJN1hicVZnNHNiSWNST25iQXMzY1JNY0R5X3BXemRHLVZoN3RxRUZEV2FsNzgxUDYtd3Q0VEdzMWJoZ3NZNjVyaFQzdWJrMGpiQ05fZl9kMU5uT1hvT2hWbjUzYkpTR2FBN0doVzZoRDFadjdHU0F5dkdhb3RJZjJuTG1BTVZnN28zdkxsejU4WVUxenfSAcIBQVVfeXFMTnJDaW5IY3hPMF9wYVFzRVJjN1djWmktaFM4VVRvZ1BONS1VcVpISVBOSVBZRC1hVEx2dE82cFRMeFVvV21TbUxQd08tRDRxakdaLXIxbE1RZldQMnVXUUY0UEw2VFJpNEEtY284cTd3TTFGR2dXbzVOM0VxWWYwLV9IZncwcm91Tndtd0ZjXzFTUmMyMm8xR2o1MUVTd1psRUN0WUVDb3diQkhvRHBlakJZTjdoYS1sOVNyS19ZQmpvV3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:04:07Z",
-    "hash": "48ffe3144176fc32f3316c173fd2f9e595194bf10a8f5e8be5fc1745b122251b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "KeyBanc Expects Nvidia (NVDA) to Post Strong Q2, Raises PT to $215 - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXlDa01HdVNwQkJGUG9XWkdTWE1wZlN6ajNOeV9qUjBqd0tMeWJvU3V4WEFlSnVMa2w1a1dlNWJMSFVpai02YnA2czlIeGJHd2MtcFNLcEdnYVNRNWxWWk9TMzE2UVBVMHYwRWJVZ1hsR2xkR1ZWbGVSQVktYW9XVlN2T3A1cUM0THFuTGFZOWZVZEhzMWE4c0QwRHI4d1V0aWtFQTZmMy1QQdIBsgFBVV95cUxPZXJyZE5vSzh0YXpmWlctZUhLcTdOU1o0bml3aGlyLXZaWWh3V2c4bkFCS2Fkek9UeWhGb2k0U2dldElxd0ROdDJIZERKODVIVEVFb2VpX212NlNCek1USXJtdWFiU3FGX2lQQ09FMWIzSXJGMzc4cWpXdmVnaGNWOUdKVkxPYUtBM1ItRW5IYk9fanFXZ0tGSl9Qc2dwV2M5MUt3U0RXeTFTekRxSHVUZFZn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:04:07Z",
-    "hash": "d7230803a80accfbe1214e0bef44369139f61de7f893f0e3bb55e9336f9a2c2c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Sharps Technology's $400M Solana Treasury: A Strategic Move to Capture Blockchain's Next Big Wave - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjMzeDhLdV9Edlh4SU13bzFHTW9GendKZ2Z2bDhENW1kQTVZWG1BRnVySjVUdy1Gend5VTR5UUUwQWpyLVRMMkhVMXBZVnBHZTBCZmtDWk1RdXF3bzhqaUtMTDAzZkpwSm5KWVlISFFlOEpFZUNEb2RyYUV1ZW5qVW9jU3dFNWY3TGZBZU9fNTdOSDAyLXhFUi1EallJdVpzblJJcTU4UUVrYzQwR09zU2QtTU92RDQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:03:16Z",
-    "hash": "3543c1d9da8640603cfab9e296cee7355a6b34e29b367cfebd1f23e7862e397f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "DeFi Summer 2.0: How Coinbase Integration Sparked Aerodrome's 30% Volume Surge and AERO's 80% Price Rally - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTltSjFHOGcwSXdrSmF0ZTFyWmsyM0NFcEk1YTJpMjA2NkZYNTZkZXZaNzhJS0xDaHhiTVAxMGhLN3BTNnV5SW1WMVlyVU92aVBjaVdQVUZYcmY5Uk1vTTBLbFlFS0RFSTZCNjB3cTh4eFpwUWg3bmQ4VHVJdHVaRlIzTjIzT1Q3Z1VVaHd5M2NJRmtRbGVvR2NqNFg3TUx0TmZtUEMzWUY3Tnp2RnBtbVFVYzB1bC1Va0htVFhIN1hlZkU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:02:49Z",
-    "hash": "80e71fbf473804d7ec015dbcce84e6cfd1cdc8aac288eab23b964f6b07f5e1d1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Top 6 Trusted Bitcoin & Dogecoin Mining Platforms Turning Crypto Mining Into $10,000+ in Daily Passive Income - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR050SWhralYyZGdMZjQ3N3M5XzY3VlF0TW16LVh6N0tISExRTXp3STJYdU5jV3lIUzlHMDA2aTREd2VMV0FLaVpaanR2Y0pBUEpkNkxzeEstX2pzRlRPOWQ2MTB4VGFlOTlFR29oMWY4eGs1bThfUGxnZUpGZXBSYWRMV1hGWlViU1FBdWV1WnQzTldzclpvWlBPRU5TMnFrOGtZLXY1ZlNEZGVtZ2NnRUtBeHlYa2QxN29UdlhjTW1Nam1idXRPeQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-08-27T04:00:24Z",
-    "hash": "d9d6078246848ef41e3b639d587c78ca49be9abbeb4952ec5a7b3246362f8f71",
+    "published_at_utc": "2025-08-27T04:35:25Z",
+    "hash": "3230014505ab7d64c70544535774b579f7673a240700a7abb1c067f984dabdb7",
     "source": "gnews"
   }
 ]
