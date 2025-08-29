@@ -1,32 +1,102 @@
 [
   {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "DeSoc vs. XRP and Cardano: Is DeSoc the Next Big Shift in Crypto Utility? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWNpaEhzTlc2MVFNalhhalFaWTVQR1drd3kyOEJ4QlI1eXJrR3M3a2lzRXRyQUpsME5UWWI3T0ZfaEtlN2FweWUxTDBMM2Z4WlVqS3J0MFpzbFNiX2t5QlBQN3hBT1c0SG5GUkpHMGpQeF9GWWpJSXlLbi00dzVwZmZ6WkpHekg5Tnh3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-29T22:20:42Z",
+    "hash": "24373054f9a502dab6ba4baf8ecb958da250a77ffbd921ab17ef34a8786c3d66",
+    "source": "gnews"
+  },
+  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Eric Balchunas reports Solana ETF conversion to registered investment company - Traders Union",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUpya1pvNThMS2JoMWhRSjVrY1piS3o0M1E2RFpJSHc1dkVtOUx5VHJ3Mm8xU2xiVmlxTDlBb1JXMldKaV85QnJ6Q3A0Nnh5X0cxQkhtN1FNN3ZBUEZGZ0k5M2o0Z2pkdTNySk5wNkp3SjBjdmZkTnJDbU5qbXZrcUROUmk?oc=5",
+    "title": "Solana News Today: Institutional Money Flows as Solana's Big Bet - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkpfU3NqMWlURHU4YlFPY2cwRW1Lall4MzNfVk1YeEk0Xy1iNDQ1eHd2N1R0X0hrQXhLdmhXT2oxRnRTMHp3VnR0RTFUM1dqWnFYRG12bnlIZ1NkQzF0Rk5xTnFJXzk4eHVBOVpJNTRBWFVnUFJNaFg2U0Itb2ZfQkpLSFJYQ3BaUGpmamFDVm5PUjIyaU1lRw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-29T21:30:20Z",
-    "hash": "ddc228e012b4fd9d76c474c617b05933b201f222f4d24e596e68b174e60d0f61",
+    "published_at_utc": "2025-08-29T22:07:40Z",
+    "hash": "bb5a807117f78d9d6a548be5fe2f84faf29993428682f74638a06bed0271aaf7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "How Google (GOOGL) Is Preparing for a Possible Split of Its Google Ad Manager - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUnF0UEc2emdFQldvZkdQZEEtZk9rbHluRndudzlmd2RObE83N0ZwVGwxdlVjRHZJcVVtcUlOV2tEaUMxM2ZGU1pyMmlUS0FYUE9jWl9KeG1yUkdtdHZhbGpOdHRnSlp3b2xjU2VLNFVIWnJTdGk2Z3FaX2hwNTJuRzNwZUtLb2pLRE1mUC15bmFLeFlvZENyVGx5MUVIR1UzSHFmZEw2QkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-29T22:07:30Z",
+    "hash": "066faef84dbad953102a33f95aa2f86fc3378ecff2aa6d9bb6a444fa49f41627",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum's August Onchain Surge: A Catalyst for Institutional Adoption and Network Dominance - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGloUGxDemNNR0NTZEczR2dCdktWMWtjQnphZTZLVjBEeVhoT1lwLWFKcGxiUDFoamVoREVaNEp1LThyQzBYR0laREp1TUJwT19sNGZDa0pGS3hWZFZQd1diTExKQnpLRlNRbjZtZmRPbkxxcDROQzZZT2dndml1Y0tURUxHX0NfQWFtakJRVWNKSGd2ZDhVcUZZQ0EtSHY1b3RmYzRzUjgtRG9oVWtjcmxuX1k?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-29T21:58:35Z",
+    "hash": "adb233844572aeb8ac57731804f63b66d2da7f334087bf0846aa3cfa3ae08062",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP Price Holds $2.80 as Whale Transfers and Shorts Pressure on XRP-USD Price - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yUTlkc0VuMmlsRl9wU2xWcXhuM2pGTWZHTnFKSXlWRjRFSzRiMTJ1S2dfU0VaVkNDRjZIRFNpdGl1NVdnTmFNNEtlbHEtRGdXRVlZWmhOa1dWRmw4c0t4dnZNTlBFX2FON2Z2Wnh0Wjhta0U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-29T21:55:17Z",
+    "hash": "0c164e59f1866f4cb8a940daf76c09b315d3b4869b19e82becee5c2a551e019f",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dow Jones Futures: Alibaba News Hits Nvidia, AI Stocks. Why This Isn't DeepSeek 2.0. - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkl6cUExaVhta2Q1c1Utek1UUlo4WlFJYjZMdWZ0bUNOUjVBcVpyY2d6bkVoQndFamtaN1dOYVBqdkJWTU9mdmRfX3JQWDh2NzFEUk1rcEo1SURmOEpXT2FRNEVOSjB5ai0yS3FzVGttSjRzemJJRTI2WXpOU1o1NjJLaVZNYUNKRV9MTTRlVnNNZHBodEVYeGVNTldCdThteFMxX1FVMHA5ckxtZ2c3VTR4QkZ5Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-29T21:50:00Z",
+    "hash": "edf71c7e15d0cd3dcfd4cc69ec63208ad65b0d729b4b8bbe6b1ea18eb24f150a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Top Altcoins for 3–5x Gains Before October: Solana, Cardano And Layer Brett Lead the Way - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOelRIbThfdzJQa1VzT1pXd3pzMUZ2NUdiZExUOXVpeVhZV1JFWEJSWWJkaExfNERQbTJybmladkZaUGMzWnVXYXhpY3VGaGF0eEpPUzBRaWl3NHR6bWtrdkRoSmRTalplOEVzWFNuUDBsTkc3LUJDRk1RbmwyR00ydzJmTWpmRUp1cjJVbm1WRHJMZjBkS29VcGZSN1JoWVBUczhxUDNsbW9icTAybnV6TVZDQnM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-29T21:49:15Z",
+    "hash": "2280b2c97e4b3600b7f6edb1102106df14102d050ee198553af234dcc001042e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana News Today: BlockDAG Emerges as Underdog Challenger in 2025 Altcoin Race - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW9sQjhIOEhGSGEwd3MwbTFJYms1WHVVSzF3dXd1UWVGbHk0OHBSNFJFbWlKdEdmSzVoZ2hMSnBfS0x1ZVhMQVRUQWxHaE03MmVBaXd5eXJXRnVERmJ0SDVMTGhsY2VjVFBYbW54VzJQZUdEbDVicEhUdlBvZnFyUVNkWTlSS3FaeGdrTy0tcmhRaDVBOWtyYkdKR1U3YjVjV2Q3N0VCS1plRzA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-08-29T21:47:25Z",
+    "hash": "71c6d323b541b2e5965cdb820d07f9d48a1355d89c89a9c28aa878a0e8f2910c",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "CRO and XRP: High-Conviction Altcoin Plays Amid a Volatile Crypto Market - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXR0VU84STRYZDl5SEpyb1EwalpmLVRHZy1KS3B1Y180SzExbF9pLVF0SGlld2dodXdCVE1iZDVkQ2xseUsySFRsSjNsbm41VjhseFAwU2x6ZmFVVHFGYUlaSFQxcVNVOUd2OG1ySVgzYmVoTFY3VXNTNWRUQUxFY0lJbUFiZWFWQUM5ak55RlZPQTJfRTVSbDc5SQ?oc=5",
+    "title": "The Imminent ETF Approval Catalyst for XRP, Solana, and Litecoin in October 2025: Strategic Positioning for Institutional-Grade Altcoin Exposure - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUs4Sm9iVEx1bTdqMGxsTnBFN2hsOHFSaVowMEtKM29iQ3ZnYXlKQlRCeWJvdFI4YXY0b0NIci04NkllV2c3ZXR5ZEFZbWFEQ3EzMXhpMmhudExOcmgtV21KZXpJQ1FBSmUyMHQyUGVaMkxlOHBfV0JKNGV5NTI5UExpQkJfWU9mSjVYaW42T3FhNGZLdTNMUmNSXzhkOGZGOEgwWEhTUzJDWEtrYzFoc0FZRDNvN0t3TzNGcHFtT0RTWUFaOUpWSFR1VVpUd2VCRktNQWg4dzFyTmxIam1GbUEzVHBsVU1Ld0l1Y193?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-29T21:28:05Z",
-    "hash": "9de8b72095ba309fcfd064aa4a39de55cf536f9d61b7acb4865395a43d5dbb75",
+    "published_at_utc": "2025-08-29T21:44:02Z",
+    "hash": "c6e6739f8a0998439f71c9243adaf0962d480705e067b925ab3f50cb8c88d6a9",
     "source": "gnews"
   },
   {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Toncoin's Institutional Adoption and Robinhood Listing: A Catalyst for Long-Term Growth? - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3BJY3ZzUnJkWGJFb3J5UldYMGJ1MzJVZi1WaFFKMUpUUVBMd2EtMWJ4djJwYnE5Uk9uV0JPWUVxa0N3QzFRQTlZSHYwaWU0S3BzVUxqODBXY2hHX0lRZ1d0eERXQWZvblBTZ3Y2azkyMTJjZnk1UXA0VFQtM1o5bTZHUXZheHlXNEVtQWo1U2tRdmloUUkwRk83Ql9MVzNUSzVGaUJORzFwNW5rbXc?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "The Imminent ETF Approval Catalyst for XRP, Solana, and Litecoin in October 2025: Strategic Positioning for Institutional-Grade Altcoin Exposure - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeUs4Sm9iVEx1bTdqMGxsTnBFN2hsOHFSaVowMEtKM29iQ3ZnYXlKQlRCeWJvdFI4YXY0b0NIci04NkllV2c3ZXR5ZEFZbWFEQ3EzMXhpMmhudExOcmgtV21KZXpJQ1FBSmUyMHQyUGVaMkxlOHBfV0JKNGV5NTI5UExpQkJfWU9mSjVYaW42T3FhNGZLdTNMUmNSXzhkOGZGOEgwWEhTUzJDWEtrYzFoc0FZRDNvN0t3TzNGcHFtT0RTWUFaOUpWSFR1VVpUd2VCRktNQWg4dzFyTmxIam1GbUEzVHBsVU1Ld0l1Y193?oc=5",
     "summary": "",
-    "published_at_utc": "2025-08-29T21:26:26Z",
-    "hash": "55c78d323a6a007ef600eaf0f79db4565a3d453cc082f9789b399f110e5bba05",
+    "published_at_utc": "2025-08-29T21:44:02Z",
+    "hash": "c6e6739f8a0998439f71c9243adaf0962d480705e067b925ab3f50cb8c88d6a9",
     "source": "gnews"
   }
 ]
