@@ -1,12 +1,102 @@
 [
   {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Gabelli Funds LLC Reduces Stock Holdings in Boyd Gaming Corporation $BYD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORjNUZWs3bWJZQ2ZmV0pXbVFrZ2NwT2RTVHpESFhYZjU1MFA2aWd5UlF2MkZQc01yT1R3Rlk1QVZ5VWxRX1pLR21ZMWJNNTVHSlZ6Z014Zy1jc1NtNGpQMXZuOGxnSzdJR3piZjlaMDJLSFJjMGRkTE5kX2RpTHpEVmpEcm0zcm0ybXB6cDhvRlplazJiUnJsdHNicXI1LUpWZmR2REVfY0RyRWpveDlQWlZELUFaamtDUUFCVUVR?oc=5",
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Stock Defies AI Chip Slump as Earnings and Blockchain Boost Sentiment - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlYxbVdIeU12WkhDX0VaSUlNZzd0MTgtdlBSLWwtWnVQaWhfN2FIUFRvYjhjcXl1N0w4cklHcWNwV3czcVZsZjRFSkxpTGxuLWRPM2Z5T3VLMk91WkZjbXRoenVyZVAyRXFIODZweW5wb0I3WmJ6bXU1OWNYdVBpcGt4ODBTOGpwS3FJak5EcTJ6amxpSzlMSXUxWEFsMC13YlEzX3ctN0NIaHZMSklwc1lGQ3p4d3NpbWR3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-01T20:39:37Z",
-    "hash": "995f7a9ab8942d58224ca930edf14efe3b70257f94e60a980824834f3c7f5c4e",
+    "published_at_utc": "2025-09-01T21:16:45Z",
+    "hash": "7a93714fc0916d69208c9c35f6006f1133637561c3dec4cc17a7c432f0053294",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Börsenindex: Deutsche Bank und Siemens Energy steigen in Euro Stoxx 50 auf",
+    "url": "https://www.faz.net/aktuell/finanzen/euro-stoxx-50-deutsche-bank-und-siemens-energy-steigen-auf-110665864.html",
+    "summary": "Die Deutsche Bank kehrt zurück in den Index der 50 größten Konzerne der Euro-Zone. Auch Siemens Energy steigt auf.",
+    "published_at_utc": "2025-09-01T21:16:45Z",
+    "hash": "dcc1d1b0fc6963e0e806c42a350b9bde23d59291dbb95a7faee737741939ce28",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Chainlink Latest News & How This Altcoin Could Go From $0.10 to $5 in 2025 - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDVhZ0NBdUhLQTl5Sm9WQUlDSGxXRVdBcUFjNFhkUGV1YVlFbVlLdmRuSGJqVXRabUt5V2RsYTA0QmJyZVhMSzRYZUczYXE1Y2NTcWI4Vlh6SW9rWGhMbFpBaDE4R2RwZXAwamNOc3B0TGt0NmhSTEFELXpSbWt4c1M1Z2d5SHRYV092TVZEeWVPQkRXSVlwSFpwRTAtWnZjR2pJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T21:16:00Z",
+    "hash": "f3037b9aa4b13704a76107d324cecd0fbe66adbf19d40595f63373212661bcba",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "MemeCore Soars 85% in a Week as It Nears $1: Best Meme Coin to Buy? - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeXJkSGdsQTI0YWg4U0JqaVBnWTFaTk5oQzRnNnVRRDhRR2pGenpGRjZhQU8zckh1QXBQZ19WdFJTUHU4eV8wT3lZQnNQc3VtbkFpUWRxTXlERWJWN1VrdGFJVHUyVEFySFZoWG4tX0F1RnI5SU1XdUlGVjAwdU8yejlGck9lQ21lcTR2S3RkSzhZaEU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T21:13:03Z",
+    "hash": "181e94c6e3e9cc2353a1aab341a9c736a046d42c71a4fe092d9be9497c5c0dfb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Whales Shift $8B to Ethereum, Outpacing Corporate Holders in Bullish Bet - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVm11UEtueVZYX21sOVprVkJYV3dncmhNOWMxUUdaX1l6TDVDWUswTHpEVng1LWtnOVVKaktFWTYyVC1yT1V0S3kzYlBJN3NHa0FXRnEwYlBPYjh0ZG03Y2FvN0sxNzN5RUNPeDQ3SnFoQVlOa1UxZDZuX2xHdjBTUzFKbFRsNzJWeVJ0SE42S21Sb09vZV9aUDl2OV9UNll3VjFWeUV0OHptU01oOEw0UTctbzF2VHAwLTg0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T21:08:56Z",
+    "hash": "073bfc99ea68b61d67cc1f462e28269c76ef775ec992e7e5cd5a3545dc3f0019",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "How to read the order book for Pfizer Inc. - July 2025 Weekly Recap & Weekly High Potential Alerts - Newser",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qOWVkeHdOMkZhNHI0b21KZVlzajRTdWNtSUhLaFRQeU9ydkR6Z1BDOVl5SkFETWdDSzZBZnVOdHhDTlJ2cFlNM1VaUnVLcGZvYW14RFBoSUxDNlNTcVhjT2hJZ1VrQjdTQmFqZmMzdlB2c0ZOT1k5VmtDbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T21:01:25Z",
+    "hash": "7599a910368c0a5aaad1909a292ffa43c4ec8ad9aebe578d601e21114b704589",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Bonk Price Prediction: From Meme Coin to Wall Street – BONK is About to Become the First Institutional Meme Coin - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZi0yWnpWaE9iQlpfSVNuWW9DODNXZlFtQ3ZTQkR6ZGJMY1lxT1JQZk1sUnZwNzQ2VUpMMDF0MmE2cTZTQ3RpWHE5MkJ5Yjl5WHgzN01ZR3k0eGlBY29nZGwyX1g3X182R2EzaWNxWHFJNl9FdDJRWjQzejVCUjNVcW0ydzJHVFIzUTVuQW8yekVpcXIya1R3MDZnX3RMOUM3eVFsTldLVnpoSVJZeHJNV2R3NmhFR05fQ25LQW1zMkktYUg1VFVqcno4R0prTmhROEl3Sw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T20:56:00Z",
+    "hash": "58a84c1ed8f7023e2fa09c0fce4db1bbc2908732dedee938a06a54c2dffc780d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Deutsche Bank and Siemens Energy's Inclusion in the Euro Stoxx 50: Market Dynamics and Portfolio Implications - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzBMUE9kbUFKYnZYYXRKdk5EZllOMF93ZDd6NG9jdlljREE0Y0xvbG9wV3ZsT08wREZhN1FkSlBXY2k3ZTYtWkxpVmJMaE9IZDB2S0Y3M2lUZVZLZUlvb0tMaFZDbWI3YUl4Zm50dzhIaXNjaFdoVDFDbEs3UnlxRTJSZm91XzlBYTc5MUdIT2lEMEpna2F2bkFHR25uUElNX0V6ZFVSNEYtTU5BUGx0S2I3Ni12eUpUeUtwd19ERlpwZEM4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T20:53:32Z",
+    "hash": "d21eae2bbe4181f60bfb2bc0ddd35daae93be2a50b78bf153244249ef6c8bc16",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "Ripple Price Forecast – XRP-USD at $2.77 Tests $2.70 Support With $5 Breakout in Sight - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1dEaGwxV3M3c3JlX1g3ZGxDY3RjLUwtY2VEZ1VjUVlVZkYwcUNkS1Ezb01rQXFqQWItM2QwU2phMllzNzNueTk1Nld3bVYwaEU1YUhqcndzMjgwb2NOdUdtSnN6N2FaMkNIVW1ZbmhRc01ZNlR5V2pta2pHblRfN3o0Rk8xa2NFQTlXcVZ3UkVJS2s?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T20:48:48Z",
+    "hash": "82ca98c83fe43444247f46f7884df9b26092a81ae35f68c492fc4ff083d7243f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Meme Coins as a Political Weapon: Analyzing the Newsom-Trump Crypto Showdown - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0J5dEpJS21xdTF1QWJZUGlVazMtc05Kc0syVUg1TVVIdU9iY0lybTRqVFpkOXVsZkthbWRuMXM0cGFhUEpaWVhyVFF2a0V2MFpSMWw0T3NIcXJIelp3U0hwa01oZTl2M2hKYlpHZ0Ntek9CeUs3M3Q5OEZTbFd1dWRnejlwc01sSFFpdzVqdFk3YmpDX214d18zZzZ1bVhlbkdJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T20:46:56Z",
+    "hash": "d18ca9e7536c48b8a735205f640d9412abac38d2adf15d060d4ad1c68bd3e2a8",
     "source": "gnews"
   }
 ]
