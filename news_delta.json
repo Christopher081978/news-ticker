@@ -1,132 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "CIMG Closes $55 Million Stock Sale for 500 Bitcoins - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmUySVMtb3hiSTk4b1lpS3Q4bEgwa1VwaFc4TEJHR09MV05ZMnlnVENBZHVZNzJWNmpuTDZUTEFVdVJfbzRuX2ZBQ21ZYm45UkRwV3o4WXNjMVFuYm5DVFM5M1VaMHdPMEc5SWhmNzVkeTlaa0JORDZmeUt0Y21VOF9TMklGWHQ5TDdkSFpPbF9heXpROUZ2RFVBdnAwclVuVnFLT0dRZ2pMY1FhNTVqQTlENEhQanFBb254alFsV041MENmbm4zX2hR?oc=5",
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Coinbase to Launch Mag7 + Crypto Equity Index Futures on Sept 22, Featuring Apple, Tesla, and Bitcoin Exposure - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNDNUTFdIdGtoaDFEemdldFYyNE0ybVJ6Z3VXaWpNS2ZVZ2g4RF9ialJ3bzA0NkdUZGtzMENuZ1hYQXE5N19PdTJ4SGw3WEJlWXBDUHYzX1VfOGJqaVRxZVY3OWtySjhTMEV4Yk9DQXMtb0pVS3JWdnNJazVnWUhrX0lZQm1mSnFrTE9sUjJ0azd5V082enMyNUhHYzBEZ1ExazA1VlZUb19nWEpneE9HT0l3V3hCd0xUOXhyTmpUYVJqQ01rUktNUlk0VGxLNFRsRHd3b1BYdE4?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-02T19:17:36Z",
-    "hash": "7b9e631f5b4501e7e460653e6a3ea684936ca9144bbc8aad3723dc2bc4e6a773",
+    "published_at_utc": "2025-09-02T19:30:30Z",
+    "hash": "24a2b8abee50b394c7fff5f25ae295d2c64304d6e32be58a79e718d204a542aa",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase launches futures trading for index that includes Nvidia and BlackRock's Bitcoin ETF - The Block",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3hXUFNET1FzdHdXMGFCcXljZVlrclZxYUFIa1ZOcERTd09WMjVuMkJrQk1MMXh4Ty1SdnA2SkVza200NktLQWprSm4zWkRndUVhZGFkbGV4UDV2cm5zSlg2NzMwSFhTN0NSOW8wNVE0VVoxQndIbGRWUVdKQlg4Z2RUQVkzZjNkR2M1REx6UVVqZEdndnhwTnRSOHZqOWoxS3hlQnJ5VFdkZDRLSHp5LWsxbFVPby1WWVotSTR0bHBOUHRldmfSAcsBQVVfeXFMTWs0WjdDZlloZlFPYUpVQVRZQVkxcDdtRU5SVktxenhDeTU4ekVWRkdCaWF0X2tUMDZkUWJ2cTExMlhJZlRJYlJ1c0JBSU16eXgyX2M3S0NtSkdwdjYyRW1uTzA3QTY5VjYwODZMLS11Ykt2aW1wTFJkRGwxeHB1ZlAtYmNVSWVFc0VzUWFLVHRtMXVreXJXN0VuZ1RZM0g3YkVJTUhZTElKSHdJZkthWlRZVDhWWEZuM2VGNURQSkphdDhyTXhJZFFhbVk?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin, XRP Steady While Ethereum, Dogecoin Slip - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXJRaXhibnNsR01tcmo3NDBJUWhKOW1KcjU1MDVsU2RzSWVSV01VTmoydVp4MFp4UFdBNlIxRVpSamZielJqcERBRDVEQzZFVDNuMXF3dUZfU1lkZDVDODJwa0Q5cUZVd0V5MW5rZkxMNkkxMG5FWjMwam5fb21vMzhHejFMWFJOREYxd0k3ZlpLUkN1Tm1SUlYtcks3WHh0aXlhc2swM0p2amlQeFE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-02T19:15:00Z",
-    "hash": "3e63da0a80afaa1e147ca90c1756e9b21d07ab00c7e9ea230e06583f5c6889fd",
+    "published_at_utc": "2025-09-02T19:30:08Z",
+    "hash": "34a11ed713a63a89d3ff57107bdbde92f7eb54d91bb151f5ceec109be0647df0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BTC, SOL, XRP: Crypto Prices Soar as Stocks Plunge to Start September - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZktUOTdvRnVTdnB4VDVXaEFmbEhNczFRaUlqOG9DTW1WNU9SMEdpa29uVEpiY3M4UzVhUUF5aS1mWHl0OVRJeEwtQjdSbWRXZmxxY0JmaHRNLUpqRUJOZ0RqWU0wTE1IQy15WnBWZ0hYaHJ4Ri04VmJrOXdRRmNJcmVmaHNfTXh3MGNnS1BaNXBBRGtQc1U3WEdNc2g?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T19:28:34Z",
+    "hash": "cae1c0b819b3fdf91346479eb4a9c4685e2e7ea00a74b625693a214f0e70c675",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Coming September 22: Mag7 + Crypto Equity Index Futures - Coinbase",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUlQSWs5VEJJMFFPOUVJOEgtWDN5RGJ4ZzlqSzRqR0Q4bF9ZeV9yQXYyTTd0VENFY1Q1ZHAyejFLZThjUDc4M3NKdTN6QjNOejlkUEZKaVEwY3NwNlNTYXhkd0pnU3k2eEJub3dXVHhtejdBa2lhZXNmX1E3TXI1Vm1NUXh1c3dxLVE?oc=5",
+    "title": "Decoupling: Crypto Goes Up While US Stock Market Goes Down - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNU9yOHBlUUpWNWhHYnpGZ3JvQUlWRVJ2WlQ0TjVDN2hldVdxWlJ0QWI2eXU4X2RDRWR1NEZfTFZLc0Z6bGFOdWotaFI2SmR3OXBKeFJUVnNvMFNpZXN3WEVrOEZTTlRmVWJXOHFWQjM1SGtRWFBLSHc2cmlwZ3U3ejU0andBMUxmck1WZzk0Y9IBlAFBVV95cUxPaEVnUjZ1eVdQWnZvVjE5LTh3dE9SMHJPbnNnTTFjcjZWOUhtWTlsRDdvU1VBUU1hTmFGa1pjZm5VSUV3RDdjNjZJMWtGYVFXODE4MTNnSHFDVm9ZLTgwd3BzcEprQWYyS0RfYnFjeW1uSG9PbmhYYkFzaWZyZE1kNDdGeE5wbjJqOW4tQ29DUzM4UGpp?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-02T19:12:29Z",
-    "hash": "00e835629a1f53fc8ede76e3ebf4e91a50f34ca86f7366c674776c7ec6738752",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Apple, Nvidia, Amazon Among Mag 7 Exposure Coming to Coinbase - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0tzYk92a1FYMk16VGpSdFU3dW1KaUJGNUliaWZGNUZUQTdMc0Vob1phU3N6THNwdjVnU0FUUXpIUFdqZHhvR0hubXY3VmRDck12anJCS2l1S2JKN1doZWJwTC1qaURhbXMzY1RjZEJmR1FyNzNuVFVXMTJ0aFVyQW9DY0JPZ0R4UDlMWmd1eUlYSVpTaEExWEtQaEczMTJ5dU1pM1VPcUM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:11:13Z",
-    "hash": "00eef1999f22066624ead03805d5e0ef1adb926d9bebdc80cc11923be42c964d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "BAY Miner Cloud Mining App Goes Live As XRP Investors Turn To The Platform For Income - Grit Daily News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS0hCWUR0eE5BNEVyTE11Mkp1VHY1VzdWSGZtSEswVU9BMDN0a0Y5X0d2QXp3RUJGOFNRVC1NRmtsTk5Ia1lTNlJZYWp2dFk2VEc2ck9VaWwwRVdQUVZMWUpJNnhxYWtzNjhxY1RfSExKY1NXSS1JVUwxa0RCUk9VOXVDVHliSnc2Rl9JcEdUckF4cTJYcVBFX3Voc1Z5SkVpbDF1Mm5nS3BZUWQyYXlFR01VVDhodjd0YTVsSWoyaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:07:52Z",
-    "hash": "70c15bd37ebae44f3c703838f91c095c0c8608412069314631f93b40e7ddfe87",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Gabelli Funds LLC Grows Stake in BP p.l.c. $BP - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGxqeUFpaHhKVEdmYU5XcUNYTFI4MDl4eW11a2syclNVbTlsUzdVc2lFVE9DUWZTNHJiRllDWG92SjZkTjJYVnAtM2o5MjJQalB5VGNydTNIN0pOZVA2NV9Sb0MtWFdYOTA2MEFnbUNQN0l5NXQ5SURCTy15XzY1azJ2ZVdCa0M3U0VScGx5TXJCZjVuNUEyVEd1bW5RU3ViX2twdzJWQVRtVUJfR25lbTNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:07:39Z",
-    "hash": "dd0008bc5471c7ab33dd8f910cd6eca6571aa4e60f5fe3d5e3ab12ebe85bdf66",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Outlook, Dogecoin Updates, and a 2025 Crypto Presale Highlight - Tribune India",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV3NOazlqajdGQm0wNjhwMWlFR3VXREkya0ZVM1Y5NlkyOFBReHJqTG1wQmNwQlo2eXYwaC1qaVJXSzRCWmhvRF83QnQ3UENsaFVYUzNRdWhNWHpHZTVhaDRyQUFxaUY3T3JILUFwMXNVbGxKcHhUeElud0VPRUo3bmFoOHFiUlg2MV9JclVCaU02Q0JZUEtMWndGc1B4N3M4bTlEdmxMWFBqUnFFcFY1MzZ5bWhaZkNrb3RZSHItaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:07:00Z",
-    "hash": "c924facfad1f69b91d185692a7554c312dbbf79c6ba44f63f7ec23b6d3d32d48",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase CEO teases ‘everything exchange’ to bring stocks on-chain - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHp3MmQtanY5TEJPcmg3T0ZNV1JDMVVDY2ZqUEpXUVU3a1hUemtpRjFkcktUUGtocXYzc3VoelpkSEVodW00bHVJdVd1REM3cV92dklxeS1wOUM3V1VuLWtKdGFTU3ZJenJIa0xCclNfWlN0b1BvazYzdU5takFqcmdRRmZpazgzUTNCVkJ4MnNrX1R5SFVncWYyRm01cG40RW5xeUhNdEEwd2t4MXQ2dktrcW8tY185M2VXZnl3OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:04:22Z",
-    "hash": "e5fa7e8c993ec7e0684bc858bac3c181c01e9121608313d96a2bd3cf9a8e4940",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Earn $7,500 Daily: Analyzing XRP's huge future potential. Investors choose OurCryptoMiner. - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSUlBWlpFY0VxWEpuMjJ5cnd2NEFjbUNNR3I1UVR4WlZLLW0zWDlnV1J4UnFZYkVya0ZkdFc1THhmSzBYREx6WnhIejUxRTNwSGFNWGRJOU4zcWM4bUZCVzl4TzAzVkhSU2gwd3VZN1c0T0IxaXVMLXQtMVlwQVZOa09jVXUwS2hoSGlWZEVFUW5scnE2UlhEUEV0c3k2RXluU1RWOFFqZ2JubE56NWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:00:28Z",
-    "hash": "979650e168b5a03504f4ece2fdda99e55799d31fca6e6e5aa51760d163e418b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase to launch traditional equities futures with first Mag7 and crypto equities index - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hTlljZV9fVFFweTJTdWtxQWd1d0kyaFhkdHJ0TWM3Y1JOdXFMRjhWWnMwaDMzQU1qWEFvd09oRldjV2l0Mkh2azVTZDBKaV9oRlRVRXk2QTU3dkFsYWdPeEdtS2lLSDRSZ0hVUw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:00:21Z",
-    "hash": "03646d4c26aae308637820056502ce3d4d48b2ae0e605a8f97fc810b65d66520",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "What to expect from XRP Price in September - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvOUR2czQtM2stRVdqZHhHSEFlcm5tMFVJeUpBLXlQekVrVXFzNFljVnZ4d0diQWszR3hRUURELTFxa1NubDgtbW93X0hUY0F4cVZsUHBxRFZiZmViRkxxZGpOSzlzVWVId213SENR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T19:00:00Z",
-    "hash": "ab0f979a6a42538007b1874ac043704210159f250272179a27cb2e176c6f41b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum's Decline and the Rise of Alternative Crypto Platforms: A Strategic Case for Diversification - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTNNR050alVRRjdYaEdXYzY4RENOTFM1SGpSYlBId29icGl4OXNBTTMwWjl0Vk9TVy14OU1Id2drNnlQY0xRZE1zXzE1ejllTmw3N2tkUy1kNTBCeERZMUpfQnRwTGtGMV9PaFVMZmZsaldJa1A2MGlfM2diZVpUenVHM0NDV1owWGhFNm9KY2U0LUtMUXoyclBwSXkxdkQzMEdZX0hORVg3SklFRm5adHF6a25wZ2M?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T18:59:37Z",
-    "hash": "3df474aaff2736a755fc988507c245094d58bd0356084b67e13ad555174075cc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Eight Issuers Update SEC Filings as Interest in a Potential Solana ETF Grows - Tribune India",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlhIY1lydVRZYlpPZFZwVnZnRk9wbk5hOXBJUENqY0l6M0g4ZDQzeGFyX0g1RTVhZnpzNFNpWi03WVcwa0liZ0tiRFIxTW10NjFYQkEySWhFOGstM1NsdlhZd3U5UnZ2SmxrTTVQaHlfU0xkOG9DTUM1UV8zU0ZBNjZqQmRtWXctcndIb0dFT0x2TW1fcFpzYUxxUUZZdzlOTktNdFY2Y3ZBNTNDOHhSN3RJMGJDRWgwaU5WU005NnlHN00?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T18:56:00Z",
-    "hash": "31963f80099b93ef4d5460c28b1eed4c0fdd187bd63da6343d2258dc4d6b71b4",
+    "published_at_utc": "2025-09-02T19:23:31Z",
+    "hash": "e01bb06bc7e562136cafcc0ca9c45f36931efc1e8ed8d1a84708b66d9719a3e3",
     "source": "gnews"
   }
 ]
