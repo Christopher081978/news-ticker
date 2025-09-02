@@ -1,52 +1,522 @@
 [
   {
+    "asset": "JD.com",
+    "query": "JD.com",
+    "title": "Beck Bode LLC Makes New Investment in JD.com, Inc. $JD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkhaczI2XzBaQWR5TXlha2tSMnBXeE4xdGM0anM2VmkzNFp4MzJ4VzdLblJkWTFMeXFIUGVNbDhpdk1qSUVjckI2LWI4V19XX00wWDBERUJCdGZXc1FYRS02MzRUVFZQUkRjdWtzYXRTd2h1cEpEQkNSdWswS1ExRkVNeFgzNVpqVVhmZWZ2SUNuODdVRjZlWUpTWUV3a2czcHVpdGx3UTRyZkMwaXdjXw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T02:00:07Z",
+    "hash": "3c9a94e8b3d44d18fff6b2034bf9a8f784038fa8732344635163869b3c190e90",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Meme Wars: Assessing the Impact on XRP and Litecoin’s Investment Viability - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFgzVzFyWFdqRGVfNnVhWFpZRFpnY001SW1hUXZLQUlhWUhwNlVBWUlLejc4bmd4WGVOSU50ek05TnFPekMtYVpsVWRpdjRVQWZCdC0yZkdhbDF3bktYY0tLVmRGbURZenFVcHBlQXpKdkNiLWpFNzNvNjRad01MWlhRSUZNellVWnZJNl9Dd04yalE0OTNPeTRYeHFSTkNhOHZyMg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:51:07Z",
+    "hash": "02be6b44ae8777106f51d03a99e3c9a3c1d7b3bc90021eeb31edcfa21826917c",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "What machine learning models say about QBTS - Weekly Stock Report & Consistent Profit Trade Alerts - Newser",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcE9VNldrdDhNc3JCRE51TjZrVWhmU0FYbnJGRGF3dHRKazVLdDNwQmtldzhiUVFXWFdLMENJdEFSY0psWEt3VlJ6MGM4V1B2dXJGTEl6X2ZaUFZmTW9yWHoyMFV2NHhsZUVqT0xSeUNJcllLQjZaaEdUQ3hUZy1ZcnVzVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:49:29Z",
+    "hash": "a8bf258875c5b942402faee280a9b4b5c9119c14cca00ee5920103486025f4aa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Using fundamentals and technicals on Novo Nordisk A S Depositary Receipt - Trade Analysis Report & Daily Oversold Bounce Ideas - Newser",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYmtBMExORGwxckkydHNHcVZZc0ZRYk1BS1RDcmI0XzhXclJOZ19CeEVROUZuLVRoWFF5YUp1LVRaX1NHYXJtSEpMcG81SjJHZXFsODF0aTU1a0kyamRvaWREdWxtXy1pOGFGZ0R4YnZpSmdCQ0MzaFFlcUF5emc4YklKbFZuV1pxQkNZakhuZXYzUDdBbHM2ZnJOZmhSSmVTNGJjbElNX1ZtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:49:26Z",
+    "hash": "5d13bc507fcb12da93bf5a750440d819cd4fcc2b4b39fb1c648cc932216465c7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Will Unilever PLC Depositary Receipt bounce back from current support - Market Trend Report & Capital Protection Trade Alerts - Newser",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOE01VVR5eXI3RTR2UHAwbHVUNTZTOHNQYlJTdXN5eWNfeF9ld3d3MFJGdkE2c1NNb0t0OFFCUmJ5UmJqRnczcGw5YkRSZUk5ek5ZRFZHN2FwRm1jVVNBaGFaOWpVb3hPY1hwQ2pkRkZLclRsU28tUVhlTjhUYmxLaVVMUXZSTkE1dEpBdjhrTDZ6eFQ5cWVjV29zcDBaM0N0blE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:47:19Z",
+    "hash": "b393aed55c12efe2a3640e2b4a9de8396d8fdf2f11cd8d326ff0e37c0994fbd0",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "HighTower Advisors LLC Lowers Stake in Boyd Gaming Corporation $BYD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjljV1psejVHWEVfbHQxemZIdl84dVBJb2lsZVU2YVk5MTF1cU1WN0Nzc0E0YlBYT1JBVENPcW9aS1ZscWw5OF9UXzVXUnh3aUNnYkdtWlFIMHFMZUdxS2NjUmFOUTdFbFItMnVwekF2aGZ0T2FJUTRHNFpyS0d4SmpxUFNMa0pqVi1aWjRMU3pmNUhndEZOX0xzMUFaQ3NJOVQ3ZmpkNkpCTThpTWhTR1lPTHBheU5DNzd3RG9XWlk5Sm1lbTViR1BmVTBEZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:38:17Z",
+    "hash": "18fc9469123220dc815183ffa4d11412ed712b894a16e22ec0ffb4846c4d912c",
+    "source": "gnews"
+  },
+  {
     "asset": "TSMC",
     "query": "Taiwan Semiconductor",
-    "title": "Tema Etfs LLC Buys 5,655 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPb1V2ZW1VMlBENy1ycUdZbFdYMWJTWExxWUt6UTZta1hTYkxFS1h3eTBOS1gyZVdWdXU0OXpZNEQyUGppYld5REFyWlNVcDYwQnhGTmdWYk5aUE1NUkFIYVB2b3FqcXFKV1FHQmhtYk5ZQzIxRXlJcWZzU3dabllZSFVBcjBWQ2FxUEZzeVRpVFNlY0lTSVE1YWxEX1JPU0FzYXVjNVhSTTRLb2M0a2JoUllqMjVFdlJ2ci1DYk03UDV1SnpZWlpiZEdwX2ZCWUFjOTZQczVLSzBmT3JId294b3ZWNA?oc=5",
+    "title": "Grafton Street Partners Fund LP Makes New $6.72 Million Investment in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRUhxTE1aSllhVFFQaE9YSzNvZmZpUFItbkx6WDRBV2ZHaWgzYXhrNGw1Q283ckFLUTNERjRrcTRtNEs5VVRmQkF5WmpTbHkwNWduZFdLcGNLYW01SEM4SFZWVFdzMHZOb0l1XzgxNklWSE94NG54ZTJhRndhRHJCdkN0anIwSV9Camt1T3dnZXhtbnF0MEVhVm9uNTU5alZYb0h3ZW8zRVcwYXBLTzFDWFNvbl9hUU90eEg5b2xnWnpaLTBCR245Q3ZjTHZmMkhCVmdVdnRYYlNYRy1qbzUyblNLZ2QzclZDaldUd1dmZ3cwZUNMRjg0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-01T23:39:46Z",
-    "hash": "e43ab5082c23005c73c6452b4561586310fea8915f5971a8ad4ac9ec73d0515b",
+    "published_at_utc": "2025-09-02T01:36:18Z",
+    "hash": "dd633f1df6bb866c56a0f258502686cd3435b861ce32d3edb12e190b420e4262",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Parnassus Investments LLC Acquires 1,183 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMDRRU0JnM0kwcEs0NnVQYi0zTG92YVYxRFpjUmFWSXNaNEM0TndjMVFVNVViZEI4SVFHanl1aGpfbFJ2M3BJTTVIZ0ZpTXVJQUZtOW1IVXZLc0VwTy1OS25vTmsxdk1NZnh2Slp1QUxqVVdxVWVBSVFod1h1ZnlVR2x6Nm4xU0tCQWhTc0MwUWZHWTBUU2htc25SMjhOcVRTT215QzV5Y2ZrMm1Va1FrTDFlY0pYRkpUaDRodGJiN1VJWW4wbXZpZ3dOQTNuU0F5RTg4VmgyXzQ2UUd0MTNtVklhUzdoZU5GT2c3bXpjY2FMWjNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:36:17Z",
+    "hash": "4b7c6673bb3c05cd678f4de06905a8d2d84b325351c891e24b40b2cb1e7b27ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Gordian Capital Singapore Pte Ltd Decreases Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMldTV2pxMGtHT3VWb0NWZHE1UTR4R2IxM1NGWEZpRFdZWEk5dkh5emo1dnlkdVZJMm5FX3V2aThCVmRtUEhCSFI5ODBCek55d3BWWmNPc0hsYmJFeVM4WDlVQTlLWFZCV3JyQjV2TWJObmlUeVBWc3E3R20wdXktbXFzZnZodlJUSVZla0JVRkhucURVQzIxMS16amctcEZOZHpGcXJLMTQ5cVVwOE93Z0F5TWV6SnJsYnpfMWpldFR2OG5QVnQyT0ZJMFRDdGVvNTcwdGtqZWxONnBiSktheVFtVXRhVjlKWG52eVNSNzFUOXhjZEdrQXhqZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:36:15Z",
+    "hash": "7c0d7c5b0b9d3911491766d819c4ee28ffe3418cafaa5bdf6225022c08791579",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Clough Capital Partners L P Makes New $714,000 Investment in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb0lZVUt5SEVyYVloUW5xZnR3S0lLeE5RVkJRU2dBM0ZEbFNBY3BjWDNIVlYxU1drQU9WVW9iaFJVVWRwSkJ6Uk5TZk14TXNjeTRHUW10X1pJMDVueXdULThlZ0FzWm9ENGgySTAtdWtuZTl3UWp4d2VVbnRWUk9RT1lvRkZSYm9fdHVSdjA1NFFpNEdRWmk2Z05fWmJpaG96cmNHTkpFcFlnOGFvQWszNHdjM0h4LWE5T0t2YjJyd3pjQ193MzBqSlVhLW1WQzY2U1lmQ1dTbGpxcjlRWVAxTUdUSnY2cjJDMTRVY1RPNGd4dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:28Z",
+    "hash": "7af14857680c81f76f50bef82e87b008e83a615c1eabde756eb68f290d5dd055",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Evergreen Capital Management LLC Has $10.33 Million Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVEVoVTlKOUMwT09GZ3VRb19OOVJKQ2RZR0U4ZjVYTU56YVI3N2dIYXNiTGl3bDFlTlF5enFTSmFPMEFZek1mdy1VMjk4NmZ4bmo2UHdPTm5fMDJzdkhVU3VkU2l1NFF2ZXZCelFYazhQcUJBemQ2RlR1RlVqLTVSYUJkRXhjSnZVcHBISnVvbk83ajY3bG1VRlMzLTFhS2lfVUYtVnNKQ1k3alRfUmFzNGQyOGd2ajFQX2tWSTlmNlh0NWlaSkVabTNyVDZMTnRZb1RudzF5R1ctM19BbDMyS1I1OFdUak1tTmd2ay01NHVTLVIwNTZwcnBR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:28Z",
+    "hash": "dc6975add5f84ef38b876081a484f6968db5ff5bcac61730c7002885a35ed6b6",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "The Manufacturers Life Insurance Company Has $263.03 Million Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM1g4TFRjS054TGdUcVo5eVVTc2R0dE5qd1dCTHNzSE1QV2hxLVp4dnVKaW9NcUNMb3NSaVIxcGFFNmtpaExzRXJzZV9jSVkwQ0xpNG5UN0UzMmhPdlVZRk43cHV2dHdPOFRNQnVWaEgwVFRlWGVjZlY5SnpBQnJ3N1VQUTQyUFRUaEZsYVVvR2FPbVFYZXY4U1dHQXNHNklYRktXaEpVcGl1Q2tFdVhvR0YyYk9oRkhGcXgzZi1iTHRiRUx5MVg1Q1JGOHVDU2lXcFZ5VTJPNkdoX2hmdnFJTWFBR3NNRVlMNXUydDRNX1Q3dkxfdUFSamxaelp6NkJn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:27Z",
+    "hash": "1b66c9516f5290f1d053e31b69ac4e2ed39593d132aedede3c0525133d95497b",
     "source": "gnews"
   },
   {
     "asset": "TSMC",
     "query": "TSM",
-    "title": "Gerber Kawasaki Wealth & Investment Management Raises Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZ1duTUdlVXgwS1dSTy1XeDk1SWJGczhOMkFVaEZjMF8xZEtjWWdZcWwtR19tRHpTVlZiaFducVp5MGNudDg1LWNzcjlvODQyQkVIWVJLYXY4M2RoV25RNUJCajQ1cnZwNUxEc215WHFWVnQ2STVRWlNWV25Ec1RpUXN2UHBJVWVXRF9nQlk2ZXNXbHoxVHpGNGFyeGQ4SDBOMmZ3UWdPeDZ0QjJSM251STk3Ukpqa0pPLUhGc2xyeGNaaTM3ZFBHQndQdHNjd1hBb0plUlhBRUxHZV9NTzJydDMxb0ZCWDIyQ085SVZ6WXdTdHNENjRqWXV1ak5ISEhQOHhTZHZxektGZ19lZnc?oc=5",
+    "title": "Aperture Investors LLC Trims Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSERIeW1UUHdDcDk2cmdrYjlRbFMyRVNvcWp6U2JWRklXcGduYmdvbE1nNEhHLTBIUC1wMEJfWW1oYXowR1Z4dS16cXZ4bTRHZUc1eFBPOEw4SGl0bFRFMXh3TWFUM0k1SkFxZlR1dFd6dF8wZTRkZG9hVTdqVlpfblRuMEpUREtsUzUyaVVtcnVLSGdpdW93aU5KemJGQWxDZG5VTngzR211U2stYmRVR0tta0Y4TFBHTGR0eEhNeDB5em5iUTlVdVJwTVctcGI5ZTVsUzlwcnZyeWE2Z01HNURtNTloVzhkUkRJUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-01T23:37:56Z",
-    "hash": "6ff7e06ee0d033443ed19e41f190f8612054bcc0454c69c1176989b247baabb8",
+    "published_at_utc": "2025-09-02T01:34:26Z",
+    "hash": "a1d77cd85fe253af5ff9191892961a5665fc119d14462337d6a61a631f89f28e",
     "source": "gnews"
   },
   {
     "asset": "TSMC",
     "query": "Taiwan Semiconductor",
-    "title": "Ieq Capital LLC Grows Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYkZJdl92Z2NjLTF5Q0w2M1psRUhqVDFnd1JhWmVTNUZrOWVHQXhhTEhSSEdjWGFVMHllQklpSFZ4Y3JEaTcyYV9pVEFJNm1vZHIyU1pRODFYSUdmb052YVJhMTR2Ml9mZ2NQLTNIMVFDYmVhX3BSQW5LVnFXQ2dZRkdRZTY2ZWlhQS1UZVVwYWQ5WmxzUmdDM1NzbjR0M0VHUEhrMzRzcDZhV1NzM1lTekE0dUhtSy1mZHpHc2w3aFZZdjFnLUtrLU1WQUIyOWpaeTZNWGZpVHhEeHZrWDNfVlBn?oc=5",
+    "title": "Analog Century Management LP Increases Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLS11N19VUmdMUERUWG9xQWZXclp6MlE0X2w5N1RTMkUtUlRsV003S1BVajBrWWFYdlBfMF92T2gyTHpKRU8wVFZqVTRVeUFuQTl5dEJYME9KNkVmZDl4RXc5X2FHblZXLTVNZlR4MVlsLWhYMVpVcDVfR0NZR2RzeTZoWWJEczlyUkJHQXB0SjVvNWdSTGJXMUVJaHRuSF9WVW9TMEVGWC1uMDU0eG1LaC10TFM2N3ZWYWE5c0NtbzU4S2ZieFhvU1JSdjVQV29CYUJMZ193RkstTVZQd2FoVkNhRWFvREZIcDZvaGZB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-01T23:37:54Z",
-    "hash": "c20e5890623e754e234b7040b6e3e8c62f02c2e440fa0f83eeceb077a021a4a9",
+    "published_at_utc": "2025-09-02T01:34:26Z",
+    "hash": "c15c363b2f513e81a99b4a805b6caa1dc3313c3b74097ed46d194a515a553de6",
     "source": "gnews"
   },
   {
     "asset": "TSMC",
     "query": "Taiwan Semiconductor",
-    "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Upgraded to \"Buy\" at Wall Street Zen - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON2lLcFRHdF9FWmhoODRUdkdidEd5VGJmejZ6X083SC01R09FSmFOQkFOTF91Mm00dVZnNFduUl9hejQzc2dzQzBDTWdCWTVaU0Y2LXhvUEVhOGlLVjltd1dOMFVFSmFCUmktR1VDOVFDaE1LNko5ZmR3LUdRYkdwQTVhdERaZUFaNE9CQTNBWE5COUhnaDNuMDlNVnJtM3lyQ3VhbDVCM1NWSlhWd1BHVVlpRnRDcm5xUGpiMFYyUks4TDNqMjE3eVRacw?oc=5",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM is Driehaus Capital Management LLC's Largest Position - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeVVTMEpxakVBWmU5OW9ob2JCVlB1UkRQWnZpV25SamE2cTF6ZUN4UzBPWDhWVm04RVgzc1lyc3NYV0FxN1p3cmFFNmRZOUxrajF3ZU00RE8wQ09nMXRjSkJkQ1VFX29veHJrMWVIRnc2Nndyc0N6RmM3N3JQTTRUM2EyMkk1Yllvb0lzc0VyZnpKVEdMSTVPZ2d4SWplaXhPSXJpM2I1OUdmMWdZdHF4SXFiRXc4TzB0T3NrbU91VHhOY2NnSUlpWS1BU3k4WGhYbm5QRENZZ3UtUktzOTNBazR0NE9uNENEeG04OVJUWQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-01T23:37:51Z",
-    "hash": "f13cdb3df213274e25c007141f6ab46831fb2d9daafaf796e25652c7c77f32b3",
+    "published_at_utc": "2025-09-02T01:34:24Z",
+    "hash": "9b8ae93b42ec68fff2d2b050bac4c0ffb85b31720b9c48e6deb187519ab3db49",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Gabelli Funds LLC Buys 3,300 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUHgza0FsQ1ROX1ZWSHZraGdpRnNUdW8xS3BrWXpZY0RDSmw2d28tNHN6QzE2RnVWYW1kZUg0ekJQZ3FTQUY0NDZzZ1ZEWDhvT0VDVUtKNWlKQUdCYTB1Y2hZRDdsdDllMFRlMHprdDN2b0dvSDZPYzRIcXJhTEJxVk1sXzJaX0syM2IzVldUVGcyX25JaUpLT2thc1J3anVIZ3EyOGxmTEFmaWdjbjNVdE0xU1NIVlFFNDFjYnBBTi01TEN2U2F2STFQcnRfS1cwVkRBdS1FWkZuQy1LWDJSV25EeGJ3M3VXRWpoaFVMN3VvSUNKcGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:23Z",
+    "hash": "998bf52e8770643628d8c0b6eefa71bb2aefeb28a05412933eca23e7eda44aed",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Albar Capital Partners LLP - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQlEtbEgtWVB3U0gzajNYYXVxcUNmNnNta3RhLU9ybHM0cUVHaVQxNUlFdEQ0N1lVMkV3V0F2RFFsbFhhQmNkdXBGS0Jsd2VTQjY4WVVBak9UY2pjNFVlaVhWOEdLbEotOXppQUpMSVREMzlRdnRrN3RCaURyclJnMmdyOEhDT1hhY0R1eXBCTW9XVmYyMTU3UHNMTDJTeExCZjFHN1daNzM5NkgyTlBUUk5HNFktbjVHSmNBMXBUMXVpSkE0UDlBNkMyNEFTX3ZBekJzZGt1SktXdmtEU1JIdVNodjZoYVNHLWptLW1MR3hIVWJqZHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:23Z",
+    "hash": "73a91cc4274741ab40f90e363700a16f64f9d644665b42acb7d14ace9df0eab8",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Totem Point Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaHh4bUFvd3N6Mll4Q2VQWTJKRjVvTzRIMkctQ3FxeXFVQTBWd1RBdlFnSV9OM2I1ZXM4VExMcjIwOFg1bmdtd3dOZko1TzFFTFhWb2lyNzFMTTdUM01WdlFZSG5XVTlFRjZSYUFTM0ZKckZhS2x1eC1WWTI5dWQwczdIQzMydlBoSE40dVVfSjllZ1cyT1o4c2s2RWRydDhCVFpHSWFDODNEUl85a0FJTkY2OVFRcHNPWk41VTB2c0ZvZDF1aG96QUlpRm1vT21oZEhKR0p3QVBBdG12eDBTT2JpRzN6MGliMUprNnNueVNHUUZ3aDVUVWV3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:23Z",
+    "hash": "5d650d492f4ca67bb791da782c8262f58a5e2f638f7e1ac822eafa9165bd70a7",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Lansforsakringar Fondforvaltning AB publ Grows Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRW1vQnhMWUthMkNGdVB2NWl6N0owQkpKd3oxQ2M2Y19oYnVkTlgtR2l6SmdCWnlWYlFwSm5vcWExcTJPTjFpY1lqWlpZTFQ0T0doMW9pODlhdk84bjdTQ1BkSDRlOHN5U0JYMWpGWmhTd1g5Qi02MjJnRFIxbDdORXd6XzNkUXMxSDcxeUoyMWVic1hpU0NLS00waVE5WU1wMXIxTWtVMnRXZ3JaZHlxMS1odzdjMXJIZlNxZVR0MHdEOTlycl9rQUJoWC13WVZTRmtTN0E2S2liYmJ6WGVScTdlVk1fcVM5Sk5yN3JlRkttZURSa1hXeU04dXVrem51dkNBYjRTcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:23Z",
+    "hash": "f6cedf954489c23bd408cfcfbcfaf5a5d3643acfc56cdde11fa43b2518a95beb",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Siren L.L.C. Raises Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVTA5UUpPSktQUm5fMHhza1d3eHg1VjQyZUdaeldNVWZRRGVoUWt2YXFSQUFkMDdHa1FWeGo0cy11cHFDN09YQzVSTmt0aTdTeTQ5aFgwX1JVV1ltXzcxR3VmWHRPZE5PNndYMUJwMGt1VG5QVWNqdDNuX2Rldm5za2xmMGV5WUt2Vm13aGVlZG1XZklWbHo1eEFzc3ltU0QyNDVyM0l5QXI1ZkdlWlRHcDNSUEk1bUszdndmMU54WkZ3aWNsWkdPdVpoZHFOZmpUWDVBOFViMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:22Z",
+    "hash": "fe40ee2d24b9dc0ed9a255b926d599d02f9076c70fc7e2e29395414983d4efde",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "WPG Advisers LLC Makes New $498,000 Investment in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc0FtNVRXU19mU2hMZnp6UEZKWFVyek1odTM2TUxNSDV6MXZaTzhsV2VSTm9TZFRfNHJEQjhMaVMwM2tWX2tLdUowUmRXQk91clV0Mzk1MGZqVk5RRnRHSDd2Ty1KLVRCWmwycXhDdlhwYzh0SXc2VkJkNjJUaFo2WTZiRXhjZFNhUktFaHdYdkNzQW5HQnBJZnoxOHQzbGVWNjktOVpKZi1CcndtZFZfT2JxcDdodjc4VlU0U2pXbmgxR1pONXdEVXhwMXI4X201Uko3V2xGQ2dGdl8yTTVWZg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:21Z",
+    "hash": "140042bf6bb77983fe9405967499c43004d11558af53761c46faed015d875329",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "OLD Mission Capital LLC Purchases New Shares in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOTY4R3cxZk1zMG04cDB2aWMwWFJ5Y0V4OWh1QWpCTlUxa09qZnA3bThYcWFQa1dxR3N5M3gxXzFYcEV0cUo2NEtXQ2dwOWNYcWJqcWNTS1BId0RWa0I2NE9qS0pXd2RkM3UwUjRVMF93UG0wVlpaa2FXNE4tSjhiYXlpRDdIY2p6S0xyUkhhNWRld1RJVEcxbjhtcGIwNTk3ZnJEeUJvMUk0bFVNeHUzdnRENkJpSGZLeHFRLTB2MnRrYkFieXNDd2VZcHo0emJvZm56dGZud05JQy1MUENITll0c0JveG5qR0lOOF9xeEh6WTA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:34:21Z",
+    "hash": "72b261a9e5ed6b1b56df3053a9ca5b5736ca803a32dfc65a96ff32f874c45d2c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Whales Dive Into ETH as UK Borrowing Costs Hit 27-Year Ceiling - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcktEY0FjWllfZlBEYThmdG1YMVFJd195RF9GSWFVOURoRVBnVFZmeEhvNDdKX3hJTmtyejFHTmRpMlEyUmxOREI0N1NfQkE3aVdIMEozeUpaVEZ3MkdVaVRuOHFMU3czR2x6b2FJNl9heG1oeVV3aWlvZkJXNllMR2JYd2ZmcGd5SUpWN1B3aVM3WWJRSmMycFFWUWpDZGFka0w4VEd6dDdITmFyRHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:33:36Z",
+    "hash": "32afefbad8e57982276405e211beb1dd04212a93aa52a9aa907a7a3cb6e3c443",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Outflows vs. Bitcoin: Why Investors Are Shifting Toward ETH Despite Price Drops - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckJBYlFjRnc4MlEzSm5sQldaUi1nY00xMlZBZFF2RnpzT0gxbDBZRVJqNHFxZkNmeE55dUpVQmtIVmhPVFRsZ0x5cC1KeGxQNXo1cmdfckVTQW01SVJ6b2xEOWNDa0t1TElKMDlHb0ZVLUo5LWpBV05NdlNESTY1NzNuc3hyQUp3MFpiVFZiUlpDTi1jUEY4bmxrTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:30:43Z",
+    "hash": "d51edb93237c198790a4e81ca4f7ec3cda9ecd4f30f61a8efdd8cf27c9290b26",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Stock Analysis | UnitedHealth Group Outlook - Technical Weakness and Mixed Analyst Sentiment - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbDczdjRVSDFjZFNoMlFBQnJ0YV9sdFF4WjdhVWFNTXk1R0NSQkVUdFc2WkllWWZCQ3RtdWx1b3dOY0lLblE2X2NEU0ZsN05hNWFQMHpiYk9iSUlXaXhFekdpMElkc3hfZXF5dDVPckprMWM2VnZVY1FkVWw2clF2Y1RvRi0tek5xdHlySENJRktVTV90bV9VSUR1bENsNnpGakVvbzQ4WFFXMm93NjlsMHVVMUQ1OGp4aEhR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:21:24Z",
+    "hash": "75210395beeb381eb2fa4ac694bf8f5cac7db04234c7f35964352d62abbc67d1",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP PLC",
+    "title": "Has BP P.L.C. ADRhedged formed a bullish divergence - July 2025 Selloffs & Safe Entry Momentum Tips - Newser",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2NORG1JdzRRdDZjaWpuamlJd2lQYlQ5N3FyLTVtOWRnR2F3YktWWFRodUdDek1nM05sOE92Nnc5eV9lazM0ZDM2MDQyUTVucmhaQTdaUV9Bd2pINDN3QXYyaEF5VE5JMUJIQm5fWVktZVAwWTJpZjEtWVVBcjRmRVJMckhHYnZ3Unc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:19:25Z",
+    "hash": "f0fb6801f98ea3b2ce5a32b1f88011ac34a1c813c041ca0f4dce800721f0b57c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Bitcoin Delta Cap And Coinbase Premium Gap Signal Resilient Market Structure – Details - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEtUMWVKUVQtWGhvU1czSjVSWXdmUVBKVEVkXzZheHdDbzY2RWJzb3JWYWlUUl96VUNTeHlJaGxZU0FyTTl3SWpwVFh4RUhvT0RRekVTeVVoeGdnNXNkRXN5V1FKbXkyR1BBMzVBdS1QUkpiQUk2R0t5dTdYVGYzWklKcGdPSkt3bUI0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:16:31Z",
+    "hash": "b4fbaa9a5367da00f53dd83d00f45a240f81082c6ccab4506a2ca47f35bd4260",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Aragon Global Management LP Has $9.45 Million Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMVo3bXZKN25DNm5Ga0NhVWZERDFaVWg5clNfSmVJNlR4Qzk4VGRYdFhteFpfanVjS2JCM1F5NjcyRFRqaHotTVdWOE4xUHRrSTVERHhhN0Rkak9KOVlwV0JDYTZ3bDlMTVUzMm54dGJmTmtrR3M5cFBzUEhRV2ZlWjlRcVVsbzRNdC1KM21ncjNVXy1CR21FaWN2YmF6by15emF6QkQwbDRyWnROeDIxSzRBWldJcmRmTGFmbzFHcjBNWHV6N3V6YWU2bjVSSEc2U0J4OC1KajBpZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:16:12Z",
+    "hash": "375e221133a9b18cec68686df2d0d85460d65942a8ec40580c82cd05508fe19c",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Trexquant Investment LP Purchases 86,447 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd19SdHVlbE5aM1hMRFJKNnFzU2FsSERScFZPX2dtWC1XXzZkblZ4ZHJpdVBXYm9Gd2ZtRmIwM3djdXlWUkg0ZnZDZXM3M0NPcTE2cUxKRm0zN0FJOTN3UXZ5c3B3T0ZBakNxWlM4b184anlKRnpGdDEzTEJxVjBIWWpOYWZQSzU2T2hPSzNRM1F3X1FYSHlLaVdFMXdyMW1NdTM3dURxdlJpanJaby0tTTZVNmpKcUthbjV0dTJSQ0w2Slh0b2RIUHNRb2NqMGVkSlRtRnVwNmVJWXo4VFJtREtQbVdLZmdtbVdvVmtPNTdRUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:12:19Z",
+    "hash": "86d9b107b29784a850fd633dc797c30f7d43284452f7a42a387a0ed493d2525e",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction: BTC May Hit $150K, But Can This Altcoin Do A 200x Beforehand? Analysts Say Yes - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORmJrV3VTRWc4N0k4VFdrTzE5U1hZYW1PVTJUbWhESEltdkNLRnNCWmVIWnVud0FZd2FvbXM5WldXTnRPYm9neFBLMGdNbWw5VU5hN0N2RmY1b0VGRl9BSnZvRVBUV01jSjRDTDNFaGN5elZjODVxb1BKNnZwOHF1RmVlbXJCdEgxTEJhRlg3SW90dzJYVDdldHFwNC0xSFYzb011WmwwN25lT1NyZElWVzNTZk9wNVU4X3JKOHBGcG5Qc1JNTm9R?oc=5",
+    "title": "Bitcoin Long-Term Holders Move 97K BTC In Biggest One-Day Spend Of 2025 - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeUVwNXdmOUhRTUJUdGVONHptVS1ldkF3Zm52MzFldXZETDlkRkdLbDA3QWtMSUdIWTVSelZJQ18wdHNMMlZ1TUlQVGhZNlpkQzZtcDBlY2dMQ1lCTmJwWFBETTdQY21FTVZSNzZPeS1vaFlLT21tRHA3MmhfbTZPSlFJdkdzNmw0N2FaT2R6cXRraTNIZ2J5THRKX1hUc1JBNHk4N2Jn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-01T23:31:35Z",
-    "hash": "bc74ebe28233aff927f6abfc2ff66eb787d6414f24651450edd1516f6f21b1e1",
+    "published_at_utc": "2025-09-02T01:04:07Z",
+    "hash": "7536b32fd945f725cf484b554c504391126f2097adca24d832c6e025569aaa15",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Treasuries: The Institutional Shift to Yield-Optimized Digital Reserves - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaEtjem1oTUUtek5rSGZiYkJtZlozUVNfNW9FUTM0cUNFV3AxQnJtZDZvZHNHc3A5VUtIMlJpRk9GSXZXbGxKOU5SYTY3VDJWWHBCQV9xY192YVRoa1R6S25yTE5RTUt2ZDB1bmhRREJyNmxNcFgyaGNGdXpZU1FLV1p4YXk2MHNxNXVqY1AzWTRNT3A0LVd1dXY1a0JfcllSTmZIdDRoc0tmRXhzOW1V?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T01:01:40Z",
+    "hash": "8324cbb21b8b7332fca878188ef9d3451c0816ae8d77961dce2eea417a185c4f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "El Salvador to host world’s first government-backed Bitcoin conference - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE85RGJSQWg5SWQwU3BBSVBCVkhvOHF1RUt4OTZjUVlQY2l5Qy1XMlF5QmxhY09sN1BPRVZhZVBIb2VZWmNPaE8wTXJuXzJXX0NHeFBhdDZFVEpaLWw1NHBBbU9ENXFGV0lJa3NoR0pROWhOU3NrTlVnb0lKM3g?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:58:00Z",
+    "hash": "b323ceab8bd8b280ab9279444de34cac51fe9d7ad60d7aa5278e033362fbdaaf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "How Behavioral Biases Are Reshaping Ethereum's Institutional Adoption: The BMNR Case Study - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGl5TlZlQUlHZzBZNTIyV1NMUVlhS3JHS0l2VDFNU1F6NVdhbl93QUNReDNtNmhTRkx0MnlQbTRPMnF6RTVjd0lHQ1cyRmpxTVlnQ1oyaWVGSkQtWXMwZDgxOEo2VTFhOVZ0X3VheHNjV0NiMXRub2Vsd2EteERlYjFldUVOczMtS09CdTNJNGlBcVdUNGZab002QXc1cnUxNy1iQVFoYUN4T0gtM0s0UlJrMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:51:22Z",
+    "hash": "f1adfd87cfc616268c8caf7db744e9706048aaea6b0646b782b873c277b4cd5c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Sprott Physical Silver Trust",
+    "query": "Sprott Physical Silver Trust",
+    "title": "Sprott Physical Silver Trust’s volatility index tracking explained - Quarterly Trade Summary & Step-by-Step Trade Execution Guides - Newser",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmJ1LVZHLUdnTzM1MWRPOGd2REQ3SjZyNEVxUVdtZHBvLWhnMFFpcVJ1X1pzaXFBY1dtN2kxeDV1VUFEMWZyVFhRY2c2MDRJT0NpTEhROG5FM3F3SjFWUEZwcHVsRW5zZlVmdGwtcmJ0cGR3MGNVcGJIY1hTVmRiR1BtUl9CaklTUGNMTi1VaklkT1ZnUEQtOGZwNHpDX21OOF9CZTZB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:49:06Z",
+    "hash": "dc2572601aa4c34440e38f13620890758af4e97293b76eee6fee021db3c3673e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "How Behavioral Economics and the Reflection Effect Are Reshaping Education and Innovation Investments: The One Solana Scholarship Model - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZFJPVWVYdG9GN2kwSGlWRmFaRG94ZFc0ckdicFBwQ0cwcmctTDNqLU9IOXVzQWVNWFBlOVNmU3F6and1NmNlbDJFb1Jyd2JtQk9kd0ZJb0MweFVNQnNjdWFEOWtIWGtyekE5WGlXX01wY20tTTRmdEtpZ0lLVkhNdjg3TE1qSkJVZnZNMTByZmlLNUpKSlNEeTRGS1ZDT0Y5bDlBOFJFM3N6M0ROYXloeFBEMS05eWYyb1hxdjhsMUpmQlRZLTJtTEtScXNJc2FSbjZrak1adTR1SnJN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:47:01Z",
+    "hash": "d9d8c749ca2ea21a010fbc70b09cfdf0d2dc132ba57317020a13fb82b55ae500",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Explore BullZilla the best crypto presale to buy and 8 other meme coin rivals that could define 2025 - Latest news from Azerbaijan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaXBndHQzUjN6aTBiM1hBUS1LOWRLSHA1a0ZaSW9FLU1QeU5jc3pOeE1oQzlhQnpRcHZMTjBUblJHRzZnOWQ0RWg0WWg3ZnZXdGFWS1BjSkdxMmtzYmtYWThCZ2JodlU3akl1cUJZQjd3UU95ZVI3T1pCNFhyNlpoclpwSzE5dXJpekZYelp3Nm1kTmZvOVM4VVh2RDJXcXN6d3JGc1lsWGJ5VHJXN3h5ZFdfM0E3UVZ1bnBnZ3NR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:45:57Z",
+    "hash": "6a3a2da3ce5c4efe633b9f3f747e540c696d92d6deb2b1b92d02d442b9cf45fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Investment Chief Sees Bitcoin Experiencing 'South Sea Bubble-Type Move' - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTJIVy1Ub2FSWjlpTEl0dWdXczN4SWxuLWJGb2ctaEc1WnRqcTB6Qm50SGdVMmltZ0M0TFhOWDJPVDZjR0JOT0dXc3BKSDlpTWg5TFlNbVhZLXJzWXZwYXJwSWp3MVlkYmtaS19uZy1JYUxNTVB2U3lqR3IxTnVPSkcyVENCck1xRDlOag?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:44:19Z",
+    "hash": "45d6b88ededf081ad51288868adf387c99667b8952cf6f6b05f65507ec00f71f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin News Today: Metaplanet's 20,000 BTC Bet Signals Institutional Confidence in Bitcoin's Future - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUk5TU3VxMktfUHBKU1kyNEdWdElzNzl1YzliSVFGSm8wOFM0d182cklkeGk5Z0lTZm9rVW9INWZnV1FEV1FmLWVfejd5QmswNmkzd3RnYVlEVzc4MlI3NmI2TkZMVnJOMEhKXzdXWXlIbWxzOFRLNXdhem1WYlAyX1lIejRabHJQb1ZsU3B1OGgwR3BpNldiMmI2TjZUSGpQTm9kc3k2dlNGOG5nZll4UHpsWFJYaGhEdGJSY3BkM0pMemNveXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:43:24Z",
+    "hash": "fca47a3407527c8a04634661fb0413d12a7ac5e16da76ab549e4f7a8f5c44568",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana's Strategic Alliances and Price Momentum: A Sustainable Investment or Speculative Surge? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWGpnQU1PWTJzMkpKWnMzSGpLaWt1aUJ0UGVLYVF5Vy1XRUw0NWRPdDRoRjI1blVwT3E4WlFVLXR1ZW9FR1FtM2N3TmdRZzVsTGhhV24xb0NFQTFXclNHY0hjdkUxNVRXUmY1WXRBZFhRUGNEc2dsSFJIUkhYUkRrVTlRN2k1ZnE1dGc5SUZEQ2x5Mnc0czNnN21BeE1qc3VCXzRMZ2FxUDR1aUVvR0t5eXNSekc5d1UzOXc4dQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:42:42Z",
+    "hash": "28e2a9bb067d7261ba9234b2d69d6d9ef1eafa74dc591096f3f53b6b1010db6b",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP Prudhoe Bay Royalty Trust Stock Approaches Key Moving Average getLinesFromResByArray error: size == 0 - thegnnews.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZU5WUE54TlkwVjd4Z3VGV1c3ZHgxb0JNeW1iZ2JYX3FncEdFTTZlOVNUV3BDMGs3MUZxVms4U2syQ0otY3BFQVRUdGhjR0M0Nl9RMmZHMnJfWkJjdUxORldNOEUwLTFnNFAtUU4xNWJEVE5yV2duNllscm5idkZ2ZXUxLXVIQ1lyY0RHbHJVY0k5a1h2S3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:36:43Z",
+    "hash": "eae2b455c81547b5c5c2f34a9f7cca8756242eb2603ada441f99ac314ca7eae3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Metaplanet Hits 20,000 BTC Milestone With Latest $112 Million Purchase - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3NGeHY0LWkxZUg0U3NrS0V4b1F0V1JzazljZ1I4UGxpX2pvTnFZRE16d1Y4MUxDVWRkLW5mN0I2ODRxZDFmLV9CWTVyM3N3eDRSYURtczhRV3BMLUV1Um5qSHo5MUc2Q0lQbFZSUFo5NG9Ia3pnZVJhT2xtTl8ydkx1QWk5SVZHblRiZDFJZUdqbnF2NFN5aWZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:32:52Z",
+    "hash": "a2148f386ccf5beb225292197506733be13ef5f7f2f766a1f1808858ac488d1a",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Why Top Investors Are Buying UnitedHealth Group Inc (UNH) - The Acquirer's Multiple",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQnFoN05zemxjR0xvMTZ1S0gxNUVXWVFfblVwUkQ3My0wYUE5OXRpOVdwMTBQZnpJczluTmVQaElvVUJiUlhRWmlpalF4MUNNeDU1N3ZJVU9fZjkxQXdKbF9GeGlRVVk5cVpCbU1vUFNVVUw4QWN5cTZhZFRHN21IcC1qcURtTzYwdmdsNDdidEV5a0hGUnZuTWNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:32:19Z",
+    "hash": "4cc66a718a9d4da618b136f9910730c65436161ee4b1ec13e1f8770f79547c01",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google Rolls Out Quick Share Redesign - channelnews.com.au",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTTmNXZ2R2UU8yNkdwWjJIb1BJVV9ORVBOVXZLVUpHVXJKbUpmSmYwQlBaREZDRUhhU0dSTnB2RTQ5M1BOUmliR3ZYbXp5cV9lOUNuT0ZCWldmNjItTFQ0ZVF3QjAzS3FGQlZfM0IwQnV3TDBZTDJjeQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:30:41Z",
+    "hash": "87b87ba648ff118308a1a1463b4b8d38e791cd7675bdbdc638d23d77e9696534",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "Earnest Partners LLC Trims Stock Holdings in Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEFNLXVUR2o1QS1uajdtUUxuaUlneFVVeUhWU3hKYTVUVk1ncU03azF1cGx0dlN2T25JSERFd0NiN3pBS3NuQlBEcXRmTHRIdlVjYjNFTkNYRHpGWTJ3UUVWbDZ5N3dRRU9SQXdiQS1CVlZ3YlF5WEJ1ZTQzQ19tS0RSZUszdjFwYnRaUXhLbkY1Szh1Y0hNYlExQmpabkJRMl9kYkZqSnFyeUNoNlpZTHZtUmtiamkzY2c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:22:05Z",
+    "hash": "9bcf548158436a727f5266f52acebb662f0ca9ed1fbe6b93de8c884ff6c7c0b5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin HODLers Spend 97,000 BTC—Biggest Move This Year - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPencxdmtLMmkxcmRkRmJUQS03QzdWNkRfVEtNWDR6U2oyMFY3UVVaUE1lVUx6ZmRHdkN4eGFUTlU5RTN1akZaaU9FcjcwdlRXTm90RHF0YXVheDRBVTl3bzJtRDNzSURMMm9nMjhtbHlyUWZuVGlHNXhHanR1RTk3bm5ielhtc1ZBZFBLcVp1N0M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:16:53Z",
+    "hash": "fb230698cc9b7ab8c85912afee885e10f34c8257867eb2ad7c55907ce7340483",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "The Shifting Crypto Power Dynamics: Why Ethereum and Altcoins May Outperform Bitcoin in 2025-2026 - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDNqSFFEXzR5QVNSNXd2NmNZTVNnWHlBUFE3UXpLR2piUGVrU2ZCRUhSVE9fSEplcm1LdFFBSjhLcDk4SXVEcmZuNlVkTXNxS29wTnZTUnJ1Yml3VUczZzZ0SnJnd1ZFN3pxT082R0UxM0xZb3VDM3hDZ1ZEMWJGQnlfeTlHVkVEcTNpaEptR0R1THhfWjhJV2llRkJ0c1BuM2ZFUXRUcWJaX3RwX3FJS3VB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:06:13Z",
+    "hash": "a1801bf0fdb29533de52fbcf4747a33e3e377020172af0d1102026061cfe2885",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Experts Pick 3 Cryptos To Hold Instead Of Ripple (XRP) For Big 2025 Gains: Chainlink, VeChain And Layer Brett - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmVrNHlnQVNHQlJqWWltYnd3TUZxMU5WeHBjNDdvRnNqVHJ1N0EtLXEzYzU0SjR4eFlHa3dmenR5QldLc3BNUjYxSEVyd2RuN1lwajJQbEszaDUtQWVzQU1CMmptZUItR2I3Uk9rNmFYTXdjRGZOUVJucTkyMVJoRGhHeEpJeXVJblJGOXF1OU02d1NJRGlHaEtaLXZUdTYxU2Nuc2RWX3ZIZHdNNXJ2Y2JEckNmb3Z1dFpmaWhyWXF3T2QwZWdmTlc2YTZMNVhfcWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:02:00Z",
+    "hash": "61aff1369f286720f8140f0604c581c96df7a0945d773bbdf1cc3c91cbd0602f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Investors Braced for ETH Liquidation Tsunami at $3,800 - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUE1iV3B2eU15N0xtbDZuRnFBSnRhTE9rLU9fM1BjOUM0S1Q0cDFoNTdVZjVsZHVja2d0N0tSYTNWZXhkb0E4U0h0Nmk1cXNscFVVWVB1ZnhGZW4wdTFuUjhJajYxbjlwTGw5TDV0Zm1FNm96VE5aaHZSbmNMTFV3LXJIYWJyWWlQR0pXVDRNajJ4bkQ3YThEX3RJZFRzc0h1a1lv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:01:30Z",
+    "hash": "cf01ccf1341e91091f589d46c2c74d367ea076d4d07f89d03a480505bcb2d4ba",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: Is ETH Repeating 2021 Chart Pattern? These ETH Tokens Could Be Set For 10,000% Gains - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckprRGUyc2RQLXczaU5pSnV0R1FjUVpBdjVqaUh6RmF4RUJWMG1FM0RmSlVuZ25KWjhybTVDWW1jdHdxcUJxZjdtSElGbHBrZ29SYlVUc3RydnRBQVl5UDdqMWN0UE9XVW1JMGYxaFdaMzZQVzhnVkdabnRkbG1YUURGb09MN3Z4RkpEaEFxQUNoNk92cEJPMHgtQ01uS0w1Wl92alVpcHJRMDYyd2RVZVhWTjBMWms1cDJMOFgwbTY1Wmx1OURuRWVDYzI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:00:48Z",
+    "hash": "f35dd2e54a56d0eab4a06a8ac64e71aa71c994ce1c6f13c5a07a69d2847f3ea7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Major Bitcoin Whale Offloads $3.4 Billion | Weekly Whale Watch - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kQXRsSExyR0NGYjEwTkc1YVNiVnRfUjdDNmp4SUR1MzNJNUV6WnFmNVJZSEYtME1ZMHIwNmhCVTNDMFBzcnNWUUhjWTVVbmV2MUtFdVlOZjAzOGJOZ2ExaW5BcWRRS0Rhak9KTG5sVXlleGxJY2c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T00:00:00Z",
+    "hash": "aee3bbef86ebb5197e812c9628bc33435b070060362cb146de1ab84a3ce1b396",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "South Korea's XRP Revolution: How Regulatory Clarity and Institutional Infrastructure Are Fueling 2025's Bull Run - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN0NtWW9fRmxheGtFcTBBMkRKcXZGTzF4dnI4QzJKN1hubTZ4MEY1QzZhLTNCR2hFR3Bwb1VSTHdwZklwWno0WEhXcVNQMm1CTGFFbE1yYktQRjJZRVJwdFdOenU5Y3Zjc3VpRVVNZUhFNmNDVWdMcGt6LXJWQzVNX2xXMmFOQTlxaU9IZXZaTkhsTmc1Vm9BUE9SU3JNMERmcFVDX0h3T3JsMUlkQUtoZHBJcXQ0VnlXeWIyTmNyUVY1N3E4MDRFalViQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T23:54:40Z",
+    "hash": "4b756bf6b4868ba129f484b56a9cb72d70208d1c86a7f1565b3caf33c34b910a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana, Remittix Or Avalanche (AVAX) Which One Is Set To 15x Your Money This Month - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS1N2T01jLXZaLXdtTUJzY1hjOVBOaUk0bE5EMC1IWU56b3BxTEVpbGtERHZacFNzZ0EzaUdrUzFtcF84dHNUcDlWUHRyQlJ6MC14d0VaMnY0MmY4RHlxcHN6QldXakZZMHlzZkVTNUJSXzlWVjdvRVcyZ3oydHBkTTRaTEhWNnhvNG5VTldrc240bWEzTDBCV1BzMFpseWtkbmhKMGJnVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-01T23:45:10Z",
+    "hash": "a1e2acafabbfc2c66a94c301ec801f83acfb90f62790916a220d625681924bb2",
     "source": "gnews"
   }
 ]
