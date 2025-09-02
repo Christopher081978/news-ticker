@@ -1,302 +1,52 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ETF Updates, Dogecoin Price Predictions, and How Remittix Is Preparing for Its 3rd Major CEX - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHFoM1d0TDUwdlpMYmJPV3RkTjNiZ1MxZDVLVmZYeFlYNzVMYzhSY0hGTHJIRFlRMU0tZEU1U1NuT090Z2Vja3BzVnUxY2xuc0t1NktEa2dZSTljbVVyUEwtYUFLWlVva091N3RRMFlNaUtCcjYwd1F1Z3dLYkxaZnNFaUlraWNLMUsxanRmaDBiWTc1Slc4UVo1UXViN2hNSjEzVEE2Mkhodm94OHZRSjFaMnRxcWNNaks4V0dKUUE?oc=5",
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "Sector ETF performance correlation with QBTS - Dividend Hike & Accurate Entry/Exit Alerts - Newser",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWhMMGhhejVEclFqSjBoY1lTR2hiZHhsdnpQbXRSVlZ6dmh6aTkxUDZmcTBUTHlBc2lpS3V0Y2E0QlB1Z2M4Zm5Qbm0ybHhMelpzSFZETm41NTdoVV91Zjg5dlhnSXRCdGwwMFdNR3ZSOWdvRW9kaGdydVhLdmdJUFVLMA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-02T11:21:32Z",
-    "hash": "15331040da474d344bb426d5df258300e34b3e04bd35d27ef9ab598be6502f93",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Ameriflex Group Inc. Has $901,000 Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVlZ3bWNCR19ZQnBGVXBOMTFOYU8xTmpiMWFseW9DMG9sdEF6MFowcElPeFBkeHFuZzI5eGJvQll5ZDJXbm1UNGQ2VW1IeEJ6UVhtVGREdzE1WkhvY1BubkdzR0RHbXVISWdzX2hfRUlZdkpvNFNrNlV6MWVBS2o4Q3h6Yko5aWd2SVRTVWxUOHFkNzZpdmc3NUN2RTQyOWwzMXhwallOMlF0djRUX29Bc1gxNS0tRjNURkdmVjRsNVY2N1FyZzRhaDJRVFZ3Z3duekdiQzhNTzI3eWdTSmJMcHBUWldpZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:17:48Z",
-    "hash": "49f1679e75f32ea10c26a61dd0000130e0dae77cafe3d9e9757871c8a7658076",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Faces Major Shakedown as Holesky Testnet Ends, Can Q4 Deliver? - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjEyTFJmZVZ0UmxyRFViMnE5Nk1wcTVfdW9vR01PX3NjeVZZdVQtTWdmbFVfY0pxT1B4bk51S1RTUFRBRVk3SVg3VW5wWFk0Q2ZpODAzTmZyZkRwbVJDRUhFelJNY2VCUllXcmp1djJ0RmhkSmRwTzE0cjNPdDhGZ3kyaDBZeTlJR0NNYXIwQThOa1RnZkNIN3JFZGppa2loLWZEd2pjaUQybVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:17:39Z",
-    "hash": "65174f8bff90354c6fd9aef3c6eb3fdc4c4391f7de4ca9245dcb4c5f3ac8ac26",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer, Moderna, and the Political-Economic Fallout from Trump's Data Demands on COVID Vaccines - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ1VTNmpjQmtnVGQxVm9tb3Y2Mm9uczN5NjRvSllPZXAyNzdfVVZWeHRmbi1YMjlwR3FtcVdQVkFXbEV5VlJrVHpwUDh4cDFjNUdvMWlobGFKdVl0bHpiejZQMVNoWjgyNk5ONWNJaUl4NVhEbXUzaG1sc0RuVFFlNVh4Zkx0TXZEaWYtSExRSXFNLTBLRkVPQmJsSVRZM1BreVU1NHhmUGVLVHJoSGRV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:16:23Z",
-    "hash": "783482f756d98b8fe141fa4a09db7d2fe4aa149260f5dc0117eee71d85df8814",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Options Through Volatility: BAY Miner Turns BTC, ETH, and XRP Swings into Novel Opportunities - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQjEzQUVWVS1PQ0dicTViczAzZzdPcUFtS0ZReXdZRHhLRnRlNGdUQ3F4bnptdmdXMm9wV0dxY24yYnFhUGZPVkJyc2NwNTVSaURYS1ZaZmZ6Sy1hdVc3a1ktaXBjUlMyTXgtNlM1U1JxbzZ6QUJuTUhYZFFKYlpicTBaazlROTBTM28tYm1Ed1lXbzZycXpfOXYxR2xUTlduTWtORDA4eHBUSmk0MFJXSm9jWUswMW1rVGhJenpGQ0l3S2RxRjcxZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:15:00Z",
-    "hash": "ca096a4b26743a0a881e96f00de34f1285a65d68db1ca1d384b7e5abe3d117b6",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "How institutional ownership impacts CRWD stock - Weekly Trading Summary & Pattern Based Trade Signal System - Newser",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUU03UUJKY0VfekhoWmVIOWFNcUFsUFZuOWFXUG1fODVGREYwTzF6S2xwOVpPNHF3dUhwSHktN3F1V3dYeGdobzZ2NllaeXF6ZzJEbTBUa1o0WmNGV1Z5UHZOcko3ZEZkYm95aXBRSl85MXR4c0RQWUwzZ0h0Y2lqeUNB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:12:51Z",
-    "hash": "c1a9ae442a6da7a2634763a2f47de9da71800ab51353237d7f27213cbf7cfb1e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Market reaction to Grayscale Bitcoin Trust (BTC)’s recent news - 2025 Investor Takeaways & Weekly Chart Analysis and Guides - Newser",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkFFMEdiYjBDUktoczdPVXVJQ05Edk5Kbm5mVkRaNHE0dUJjTFZRWktHdXFDSzA1VWYtWXk5UHFJdURFTnhvUXU0SFg1T0cxYjFmTWRXaTFLZ2ZaVFo0ZGRFc09YQlo0T1JDVEdCREZpWS11czFsbm9PNm0tVHBjTHVzUWNicjM0NU4yQW1ZY3VEZ3J3ZWdEQTNOMnQ5U2p2OWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:11:44Z",
-    "hash": "9476363c1ecd87bef9dafa4033b654940c4834872e4b43490d1e738d909bf09e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple’s XRP Escrow Strategy: A Blueprint for Market Stability and Investor Confidence - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0NHNlBNaUM1SFRwdjIxTGVFa1MwdGo4MUVFYVZtQnZxam5yaHJXZ2ptXzJyaUt1X3J6bkhjVEVlcXhTZExWYVZyZEhwTDlMaTFKMGQ0dTRKbDBLOXJTODBOc1dkVnJmc0tldk9jYTlZRmpZeE00S0ZuZTJ1bjZ1UFNTZW9mT0hYUk9lTklQeVFibHJnWlY3cy1mMUZvMkN3aEh3QzkzOXZkcXBZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:10:01Z",
-    "hash": "b8b553cfafaaa276c7b67608b906e9b00e83fff298e9a64dfa83a886db957daa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Evaluating Themes Etf Trust Leverage Shares 2x Long HOOD Daily Etf with trendline analysis - July 2025 Patterns & Technical Entry and Exit Alerts - Newser",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmM5VTZjbXlGLVZ1RGhwTGRMcDEtOWU4OHpzNjRPcXU3V2JwRjdFOE1KU05jRGg5UVZ2ZkJkU3NYU2JpZlV2clR5S1I5czhuTEp4ZHNKYS1MMlBfRlhvOHFxZkhfMWczUEMxU1hwcDNMTXZIQWd1ZkpST053VndEamVMdHNHWVFabWhtZmk3TWoyRGhHbUFoUFZZMFhyc1JDLUh4NTZMX1p6Y3lRcFFIcVNNSV9YOVJSTGFTMzdR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:09:27Z",
-    "hash": "6bcebde988af0ea5fdaf97d9284d8af4679a3c0f61d03f37a7afaba5f7ccda15",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "PumpFun's Explosive Growth vs. Rising Losses: Is Solana's Launchpad War a High-Risk, High-Reward Play? - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzVJMzFMMVptbmxfRDRPeW0zaDJTNkNjWFU2MDY1T3d2eTZnWF94WnZvNFJhbm8ybmExX0lsWmI0Um92TEpkZW1GZk1SVXhicnk5bkFrNnB5V1pmSnpUZ25uV3J0cDJ3M2tnYnNkQ1NOWkxSbUZ4RDV2Zm1lS0pJNDdqTzlBcGl0a0EzVjgtclFkMXJTTkoyT2dJTi1JaTNPRUFSdTNzenRJVmhOd1QwVWI3Q0ZRQm9lUWVQY3hB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:07:17Z",
-    "hash": "a0da55e4167f7b58de7371043644600ac062c4b14201349a1d363d1cc0ec3502",
+    "published_at_utc": "2025-09-02T11:37:12Z",
+    "hash": "ede400c523f0f84944340e912f80be22df628a1a59fc43d62c88fb89f15f79f6",
     "source": "gnews"
   },
   {
     "asset": "Sprott Physical Silver Trust",
     "query": "PSLV",
-    "title": "PSLV stock daily chart insights - 2025 Sector Review & Growth Focused Stock Pick Reports - Newser",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52RjZvM1A5eklTZFJrLWRCeWEtQkJkS1lBdWNVX2EydEhsMjFmUHppM1pMVGhmN1YtSjJQaF9aMF9FOVJ6X1c5MklwdWMtbVhVdUdBZ29idU9wSno2SjV6RldhZFJXVFpYMW53blJFNA?oc=5",
+    "title": "Is it time to cut losses on PSLV - July 2025 Movers & Low Drawdown Momentum Ideas - Newser",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tV3U5ekhmODhLeVlRSHh1R3FKQnJBd21oSDBBR1dUa1pwMkZSTW1lMzNNWXg4YlExTjFkNlF1WDByTGUwMy1jWVozVFAweG5FaWlrWkVJaTNXMHRyakcwMEktN1lKV1JjU0FwQg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-02T11:06:59Z",
-    "hash": "83ff5060ca9cac2af7472572ce4bcc39c9352f15b130553986c7a79af002d9ba",
+    "published_at_utc": "2025-09-02T11:31:01Z",
+    "hash": "7692f6e384f6a1faf0b7270f960496f1502410ddd9c6c3c07dacde310ec5dc1d",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dow Jones Futures Fall As Nvidia, AI Stocks Keep Sliding; Trump Tariff News In Focus - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTVZZVJlczRDbHR6aDFXNlYxeG9pUDItY2dMTWJ0UUJOZk9VZXFwRkFtbWQ2ZnhLanFxMWhEeVZZZ3VPN3ZYcTl4ZEs3QnlxS2lUX1VhbTYxUmplWE1ZUHVpRmRtQm9fWXotcXdpOG9IWHVVWTRZMTl4SGxnYjBBN3NQZ2VxY3drWGVEMjRsN0Nib0xXTHA3amFiRzlheGNnUDVqOTdBZURCRkhOOE1KOFpxWXYtWVlPWkhwdUxvR3lWSXg2?oc=5",
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Is RKLB forming a reversal pattern - Trade Volume Summary & Verified Swing Trading Watchlist - Newser",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82WkNvOEN6OC1vS2lzdzBpdUhFV0lUaEVSSVk1cTY3WE9jQ3M4My1UMWJCdF9EYkM2ZElmV0dnbF9GajB5VHQtUmtyRDZxWXd6QnJEdHh3SDVTekpJdGJPUWpBZDFKSGlTZ2JQa2NPZGk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-02T11:05:00Z",
-    "hash": "897a564202070a705f7dd9c3ed523878ae1fb49729c8610b62d4e42d2bb51795",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer, Moderna in focus as Trump wants proof of COVID success - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWUN0MXd0WDlpTUpXc2lVMGhOMHpZU0tfWUcxRlFtS2tTQVN4Q1BaNG5MZFQ5UzJxaThNdXlnSm5LaHhLRmhCOEpFeTI3UHFMY08zMUlZOTRXcURJUzQ3VG1PR2Q5ZHZsWFU0a2dEa3YxZ2VYOGk1eG9OeUdDUU9KRGo5SXdjTXY4YzJwNkZnQ2JVQ1lt?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:04:53Z",
-    "hash": "fa853496105f4126a498c1856923b5fa0ea3acde499e725748073276ac81e9a1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Analyzing drawdowns of Unilever PLC Depositary Receipt with statistical tools - Weekly Gains Summary & Verified Entry Point Signals - Newser",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWtoTjZZaU0ydVg3cGJBSFZiMk9ndTJzNWxoQnd5bWVEa0VGU19tOEJpM00yYWgwSVRhRnU0dTVFQThuZTQyOGRJNkdOWFlUc2Q0eFFSNWxPVXRtdDFqNkd6T3RqSDRyb2tHQl9DVVRSdV9IdFF0MUQ5bUY0TGxnemd1RF9JRXhLRFFKYWRVeXNOLUZUS0dXRGJsZlhHV0FtS2hxOVhGU1g?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:04:38Z",
-    "hash": "9b7e16c666715ee178404de1cbbd69ea9c67db91a6655424dca995578b0c1e29",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Heatmap analysis for Alphabet Inc. and competitors - Market Activity Summary & Breakout Confirmation Alerts - Newser",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcHRiS1dBdTUzVUFLMlRQQ3dLVVI1YUlxeGk4Qm5FZkFtU3dnZThkcVZuWjUteWlIaS1nWDQ4RElEdVBrbzhiTEVOZk1FakZPcWtqdHN2dW5EOVFrX01uNnpxa0ozbXUyOFVub2NycWVqeEN1VklLSjFaMEhSUmZKZ1dmZDdDaGM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:03:43Z",
-    "hash": "a650ab51d0d01f851e8ac126a7daad0ffc13134f3d0138ad361ea0d0dbedfe10",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "Using data filters to optimize entry into QBTS - July 2025 Selloffs & Free AI Powered Buy and Sell Recommendations - Newser",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSXV1ejk3bXpwbzBPODZhcTZ1SG14WThlMzc5dnVmaWlRWE1hMF9zNkIySXg0ejc1czN5c3pnUUxTbW9NUm51dmN1YzYydW9YdmQ2LTJkejBTejlpZDlxQ2hvX190QkRQNFgxRXJGOVYxMG1reW1CMnpSVUNseDFuRlJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:02:54Z",
-    "hash": "b36e6c0feba900e9b77edbdd52e8859f86d33074f58248eed3f8ea8dfa7a81e9",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple's Escrow Strategy Shift: Implications for XRP Liquidity and Institutional Adoption - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2N3eGZPblVwNVQ0ZlR0TFQtWUtVdGpkZTBNYk9IYmZVcllRaWRlcWlZZWZGR0VzU1FQOWZSOWZXUHVMMzZoNndiQzlIeDUwWUxTVWJMUEluTjlMOExaSHhVdzBJZkdVcVBUTEEzTVpyTEg2N0Rkb0JaTmlweHo1ZzYyNHY4UXhoMXUzeExuemQ2YnRPNFJlOF9jY21rdmpYZENoWjFPaDZKd3RGbWlrRGV1MA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:01:54Z",
-    "hash": "b8774dcffd16fb3d3ed45bb1354d7e21d78e0c0bab9a702c57d2b49dfa38ea91",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Flputnam Investment Management Co. Raises Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPeHZiZzQwMHU5dGFfQXZTcV9NZDJlLUpoRGw1NzJIZXIwMTdKbHpHWjdXVnFIUUYxRGpQNDZ6aVE1QjBTZnI0TnU5ZjF1a0U3ZWd2SkVSVDZfbTVPUFE4M0ZpdWZ0SkxrM1hsUVpGT1VJamxucGc5c01SaXpCeHVYOHNraUVmTGRxMHFCT2UyakxEZkVHdDFFaVc3NGRid09LNDF2ZFNNUXAtcmg2NWNDTVp0M0R6ZWhFeWpZV1BHNkZGTXpYMzRFS3F2VG0zZW1pTnVRdGswaFlPU3ZRemQ5ck9McDFoTngycGYzVWNFYlA0dFQxQ2VlTzBMb0NWY00?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:01:45Z",
-    "hash": "b085416b29e5b44e0c52b1d057779eb2980f755a1f317e9ddc957e9f33c40209",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Hovers at $2.75 Amid Conflicting Forecasts - Fingerlakes1.com",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hOF9lWFFWa3BOakZkdGVpZm9KQTQxYkhaZl9WNFAwUnpRYnM1SnFiYkI5NjdNX084cHBva1dXZU95NTdmM0dQQ2pZNDVlZHVGZnhFZ24tN2ZyOWZjVlJCQkpuYmhNUnBkbmlFTHA3bTg3aUZyOUQ4QmNvVzVFZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:01:20Z",
-    "hash": "d775d45eef7dda60f29be4678bbbcab87c6d00fe5e8f3f09585bb5de15aafc66",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "Safety Science Leader UL Solutions Announces Participation in Key September Investor Conferences - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDFtTk9DcWdDaUt0UUVsWnp6YWt4VXBrZW5UYnlST0s1ZlRzVlZRME9EQnJJLTVFSHI1RGhfMG9fMnJGSFB2bjRTWG15d2E4ZDJzZTFyZkZkUVd2T2dsV3hTYlFhUkR5bWJaZTJhaXIwX2ZjdzBBRzA3ajh5bzJ2dlEwNUJiLXBacXFRUGhHVFpJRmJsR0dxRUxn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:00:00Z",
-    "hash": "8ec8297c40987619e548f5e1433cefb8cd6f8703a9b670cdbca658b1177d24ab",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Novel Breast Cancer Treatment: Olema and Pfizer Join Forces on Promising Drug Combination Study - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlFCNGdrdzVqLW4yX2NDYUp2VXltX0c2UVcycXNJTnA5VHB4OW9UMmhHWkVkalBROVJpZ0xrNzB0Q3BiSGkwTDJXWDhoMGFnVE5lUHNHUTJySGk5NGduZDZ5Sm9Mdmg4bEoxc2dTSVdPOG5yS2VUMnVTLXQzNk1PYUpjRHBPZW42U1MzcXE4MjdmU1BvNnpBczd6X0F1LWtPUTNSaDZSNlIxTXloVmhkN1JDYWhHbGlNOGtTTE9MZTE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:00:00Z",
-    "hash": "e8e03405ee7591cdfa074539a34ff4597d4fd01ee560d151e1c8ccbd3008cea6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "$400M Crypto Move: Nasdaq-Listed Sharps Technology Acquires 2 Million Solana Tokens for Treasury Strategy - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGRZOWR0THJXUi0xaWpsX2gzd0NWbW5GMGcwWmhRT0s4U1hELVM1bGhrX0NvdmViM19RVExNVWZIenVRTFJreDNlUnMzekhPSlZiaUc2cTVpeTR0RzBReXEyekJVamNDS29sTVRvaXBrQTJOLWFDT3RlcUIzakgxOUhDYVAyQmFCeGVVbk9YNExTcWwwbE5jcnR0cnJCQ2s3RUVGc2lvemcyNFZyckM2LWtTY3dHX084SElWa3N3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T11:00:00Z",
-    "hash": "2e7e532fdac00e6e204de82b2f803d60fd7a05eafbb9ef30fca6dae94491fcef",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Unisphere Establishment Trims Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVWhNaWw5bW5MSXBCcC1HSFEySFd3Wnl2WkFaX3JWMk9FV1FNNk5uQlkxNkRDbTUxSVVNOE9iQVVGMTVYaHNvZDNQa1djbXZTZFk0VWJueWl1RWxubmNRaTRMLXN1dFpJSHRNVTF3TTJzMUx4c0NfVVZGUWdESi1oWi1qdWF4SURqVGFlU2oxdGl3cE9QS3M5SjBWM1JhQVhsSE9YZGJDYnBmbVdlNFcybEE4MHBiNVlTU0JwVUs4WG9OMWwyRnAxdmZ5TEZSanJaMkx5clo0aXFFZWxxRUZVakRaQUU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T10:59:51Z",
-    "hash": "7febd2c89cdcc9c74eceaebe4b1bcf7f55ea2a05ab74d26233882bde0da5ba0f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "G2 Solana: Shocking Developments That Everyone in Crypto Must Know Now - Vocal",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMVR1ZmU2TGZoQUFVT2F1SE54WENValkzaWQxMWNma0txZkdybVNVYTI5NHllWlNWOXNhZ0xoMUkxRWpmUTZXaTcwcTJtSS15NlNPdHhzc08yNnd5b3k2ZGJwcU1NbDRMRTlNRndIMWtzQ1cxdEV0MnNDcGJPdHp2b2Nnd083TVlRMkFTUE5LU2xKdEY4Y281dUZPWTY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T10:57:20Z",
-    "hash": "85f91251017f175bdea1fbde3bf10cdc98d2b2edfa6059fa10bdd8ce3d7a9f09",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "Risk adjusted return profile for QBTS analyzed - Gap Down & Free Real-Time Volume Trigger Notifications - Newser",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rRGVSYWhLR3g1NFZrMmwyRW9MVHcwdndneXZMeHRUanlvbHdkMFoweUlsNC1yMUxxc0Jra21RZHRHSzhiUG8ySVd5S1FWS1VWS0RUZmJVODR4Sjg1WFMwb1Jxb0JZMmR6ZE9oby1mbG16T19nWXNxWWhjaUExamc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T10:57:03Z",
-    "hash": "64d747adf8a83a4b79afaaa065bd4e80dcb5b1378371379ccf476d73144ad7bd",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Now That XRP is Dead, What’s Next? Swift Executive Calls Ripple a Dead Chain Walking - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXhreElsUHJNRmRWQzVGc2g5aFpNeVdDMWVaRDZ2dEd6WWxMWkttckdUenNmX1lRSTljUkw1RjdFMWI4UWZ5dFJCUlg0Z25ieGNjU1BWSlNxNXM2T0VPM3B2SEhhc2xNNUlDTGE4V0RTN3ZwMmFYMk1Ia2NLUzZ0bFBUSkxjM0g5SkpoWHhXcWhGVFh6SGRNc3NOcG9QV2lGaWJCLVdfcFdtcUhtWTV2V3VlQjNJbXVzcmN3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T10:56:50Z",
-    "hash": "2c5de7ae343197828dcb8ee059483a776a95c15577f9b54787cd0589ba0cb6c7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "What moving averages say about Coinbase Global Inc. - Rate Cut & Long-Term Capital Growth Strategies - Newser",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2ZBcm9IMnlhVm5UYXJFVTI2TWZleG56QmlFVTRjR1dSakhXQzYyZGZmWk80Ym5QUFNJUXFYbzRyT2FWMDVwSnZjMWo4WnRsa3VYUnZadWVCRFljM19mVFZ5VzNOejBnWm82SWZIWEh5NkdSdFIwUlFOcHFzOGhuWlNINm5QeFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T10:56:50Z",
-    "hash": "8f30ecafe372837d05ccef3a061125820052016ae6def62862d0dcbca26dbdb9",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Ledger: A Catalyst for Real-World Asset Tokenization and Institutional DeFi - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYlNMSWt6YU5IZm95VTIxNURPdnExQURfMXNidmR5aVdORS1ya2NFNGVVM1VkeXdXQlVTT2piOW9LS0xJRS03MDhhMVFvN1FnUU54ZkxFTVM5cGpycHA2X3ZVQjQwQ2RoQnpCc0ZQUkhUbmtGaGtUMEoyeFpzczlYbFZMTG81NUpNM0ZPNkVJdXpUa3I3cW9PcDl5Q05EVnU0YlNuR1ln?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T10:55:18Z",
-    "hash": "9d3b71fe4864bec6a5963215c35002c0dc9ec96ac997d6edbb441e82b9b7cbee",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP’s Big Moment Arrives by October 18 -- Should You Buy Now? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa2lmdUVOX0RPMno5NEQ3blF3Y3RpM2tDeWVrUDlnQkFNZmpEaDJvdnBFanNSdFR2TXNzWl9HeGg2ZFM5MjhSYkRXRlBRZWtMQ0pjck81WnNySjBadjczQjNUZGpackQ0cnl2NTFMOWw2ODktaXp1MG1UYURLRGJ5cTcxcl9rRVlQbVFqaUdIUEVQXzJVb1FJa3hzMzdMOHRUR0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-02T10:55:03Z",
-    "hash": "57b035ab64c1b2561c9303e7a0327a2733587e78457f071882365ca762d80890",
+    "published_at_utc": "2025-09-02T11:27:05Z",
+    "hash": "4bf26003bc49ac62de59e9b3bb7793a61519c7fcb78bb31e84995cf60eafac86",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Dogecoin Vs Pepe Coin Vs Remittix: One of These Crypto Titans Is Eyeing Up 5,000% Gains in 2025 - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXNJY0swbVBYSmtYVWJCQVBya3Npb1BPSDRvSk9jRWN5eVZFLUhBWXRjbF96aF85dXFsV0VmZE1TQi1xTjEyWlkwWF9idDB5VWVrWGRJSHV2Njl1UzhxOVMwWVgyT1ZFdUhxZlp5YVVYNzdpXzdFRWVvY251WTNLZnBpRDVOQUw0OTR0QklmazF1OVdQUHFVUEo0ZUloOHI0dXFwZHFmMm5oSDhuNU9rVTBJV3dOemxpSnlVSkNrOTZiZw?oc=5",
+    "title": "What’s the Best Trump Family Crypto to Buy? - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0tjQURpTDhiWEdPX214NVBUYkcwTzY5dDRQRjd1TXlXU0RpYUxEeHV4OUJ3eTRXcjVuUWpKc2lraTBEZkkwNnZfdVA5dHR0Y05CX3Q4QU5XYjRqaVBVaVZ6X3ZPVkc4M1NNM3NOM2JwbWhkenU0LWxpaEF0Wi1YV0hHMXVqdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-02T10:52:30Z",
-    "hash": "f2c7243a7c0366f53102b02a2d0f22806b9f92b12d4e1629504fcaf6fdd6de7b",
+    "published_at_utc": "2025-09-02T11:26:57Z",
+    "hash": "557a901d148021976a8f29e2c4802b739b9e875f7ea66f1c41f8d55616b36936",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: What Analysts Expect in the Coming Years From PayFi, Cryptos Ripple & Remittix - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNemZXdjVxcnFlTmhiWGVEWkhvdVZZSThkeEpXM2EwQzVnOG8wUFNZZC1yWFNUZ3NvRkNXT2psdk90aTRfdHNFQm1TYldQRm5nemU5T0U3TjdTUkxMY3JkNFlUNGJRUmZMekpnRXZlS2gxUk8tU25tWjVYUy1ieUR4Sl9jbDdscTd2cUhLZ281M2JNMUdOWmxVTjVqU0ZteXlpdk95d2MyaGdyelRsWUtxU1Z0ZlZFTnJxVDRlUS1CaG52Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-02T11:26:15Z",
+    "hash": "80701caf6d7bc60d94fb880e7650f3d412c1132ef2a448464068ac3bb3589e08",
     "source": "gnews"
   }
 ]
