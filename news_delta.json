@@ -1,62 +1,112 @@
 [
   {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google dodges Chrome, Android split but must share data with rivals - Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2RPenNNdmVHYjBleVhhbXlPMnFOMVVUcUstVkVnT2g4ankxNzhVa0VTUjE0M1R4U0VTaDlPOGlvWE1rWW9OdDNlTXljX21RMThoWnNuSkpzV0w4bDVEeVhTZFFueDNRcmg3dGtlTjg1czBSZW9kV1FPVWZ2cHJFaE1EOEt3eld5eUxhNDQ2SnNjcUt5NklVZEtmMkTSAaIBQVVfeXFMT183Z1FNQi14bDdRb0VYREZJb2R0UzdmeW9yTnZ3SXhrc3h5RXVjZ1NuUm9fTXk4TXhObFVxOVRkSE13VVF4YVp2cVdOZ1VDMllybnZlcVc3OUZKbjI3QVBHOEVuOHZ6SS1CNUdyd0ZWR1Y5TzhKc2hTSThHc0pJWWVkWDFPa1dLS2s5ZUY5MTNkR1VvYV9rUVp6OFl1dzNOeTJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T05:15:00Z",
+    "hash": "0ea45fb811477373516bac4da920a2ed92dd7c86ad83d976aeb8dbed896c619d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Bulls Ready to Soar with Q4 XRP ETF Approval - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQndXUzV0R1hRMFZ2V0Mtc1drLTRhcDhRb0dGRE5DbkpTaVZ2ZXNJbkQ0U0xjRXRTck9oX29QXzdiak1ROE9IdHp5SzBTV0xHUS1wajd1WlNFcE5Gakd0c3Rlb0NxZ3hmdDR5VmQ2YVMxeXFWZTZVYTdaUFloTDJ2Q1BDcllTMVQ4WWduYUdrbjRSWWtKWTBiaGJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T05:14:51Z",
+    "hash": "8a2c6d3418fa7d04b375b7adf4fc6296471f3e3cdad2d3434025a564d043fac0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google will not have to split from Chrome but must share data, US judge rules - thenationalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFMyMm1YWjNTNTB2VTNxVl82bU4tTjBlQ2ktaHhremY1WUQzVG5yb3pQbElGdnNFX2ZBc0plUFBYOWxkTTVFRXNEU1pybVpXeFhQblJzS1VxUWc1LUMzeHNwZEpITXpwY0dETmd0Tkc2ckNOR2VHcVNsVmRjbUJ4cTFRV2pNMGNFSE04d1dGOG8wOGpfTUJz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T05:03:45Z",
+    "hash": "c23c7463e0a43c41fe0c5277d8cd74c0e7b0e58d698a03ae5385a9a4b93b7494",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "IR/Press",
+    "title": "Panasonic’s New Remote Camera Controller Expected to Revolutionize Operator Workflow",
+    "url": "https://news.panasonic.com/global/press/en250903-2",
+    "summary": "",
+    "published_at_utc": "2025-09-03T05:00:00Z",
+    "hash": "129e03271ecd73ed089a36967370ddafd4d5367594d58408e0f86cf5ceeb1aeb",
+    "source": "rss:news.panasonic.com"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Stock futures edge higher after Google avoids harsh antitrust penalty: Live updates - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNbm8tSlc5bzNLS0h0UUVsRGpVMmZncF9ORF9qZUpPaV9oM1FuX2tTZkhvanR4eS1lSVZ1em5YUnc1Q1pZR2l2SUZZVmptT3YwVmgtT3lzbUtMWWV5b1JMYV9jMHh5WF92WVFINXdwRko1N1B6X19F0gF8QVVfeXFMTnUwSi1jUllGLXlMc0RKZ0J2bjRDS2ZNLThLc0FnVGJnWk5jb3FVN2djQTJnaWJCY1NzeHY0QXB2R3Z5V3h6Z3hnWlZOWFpPcmZhM3JyQUw2Y0dyRFFkZzQ1THh5WWlUbXFydjQ1d3JjenJIWDlpT29YQmhWXw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T05:00:00Z",
+    "hash": "b0538a94331689ab49c03aaf2bcc185deb1e1a9c85baa3d460c675834a169ba9",
+    "source": "gnews"
+  },
+  {
     "asset": "Robinhood",
     "query": "HOOD",
-    "title": "Analyzing recovery setups for Themes Etf Trust Leverage Shares 2x Long HOOD Daily Etf investors - July 2025 Levels & Verified Swing Trading Watchlist - Newser",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkJOR25rX0lnMDBvdVpHSWx5RUVvQ1NkT0I5UTFRakktak4tVlJ3dVBKSmJ3bFNEdzlmT29MVmpocU5xOVlMUXI3cnBGVzJhZlRlYm1NWnBiZm54YkZFd0o5SlptdkxvNzhQZ2hjcE5xV2tWeGp3ZEZJYkM3eXRNZHlIbjBmLWljVVRwN1BJUTBUVDFKYXZCWlF1RTFZMGk3R3NCbkJ1V1NfakszTkM4YW1rU0ZXdGs4am9xZHV1ZUZvYk0?oc=5",
+    "title": "Insider Selling: Robinhood Markets (NASDAQ:HOOD) Director Sells 80,520 Shares of Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS05uQU1Eb3dSYXcwVXl5d2FMWWZDbUNTeTh0aldLZHhyMmFBRXhOcmF2OFAyekhTaFFwZXF4VGhfRXhyMzFWTmQzd1N1LTlJcDVISEtMVVBwekZzYjJxTmQ3NXNsMkRTLWxsQmQyUFRrbnIyWnNrRlZKV3I3ZTd3a2dFQXU1WDRDM1ItZEhZeXFZaFNzU1NsVUtpMDdfMzgwUU1PVmRvcldQb0NrcTE1YUw0MFRnQWN1RVJ3MXZMYw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-03T04:45:16Z",
-    "hash": "7aa4ba22a93696cd32cb7a605830fa146394519db772c7677faced72c526b928",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "Trexquant Investment LP Invests $8.92 Million in JD.com, Inc. $JD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdVlLS19EOHFQM0U5WjVxd0h6aGhTNDd1c2h2TzdpcXMxRDFMWlhmdnRWTkxpSDFSZjhQbEcyWHlreGp0aGJSQ3FGcHpKUkJmaUxaM0RhRzJBQUotUW5KUlFlQmNhSmxjWGctdXhQNzQ4dy11YkJCZFAzN3NBYnlXT2pQOElYaHY0WDFSZ242eUg4Z3pHeDJpYkE1cGpkWUY2ZExyeTBxV1NVN2Z2QTVZci1DSlJTUFRvMjZlS3ZVS0RUQWp6V1FBLWgxZTNydw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T04:41:26Z",
-    "hash": "eacaef2f49cc29ee0fe93fe30c677cce1fa42ec8c30d15ad0ce479768b67e377",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase (COIN) Unveils Trading for Apple, Microsoft, Alphabet, Amazon, Nvidia - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaElwelM0QnBGZlk4TG1SU2hPT2NpS09iblBQRTlzX0c1Y2hqZ1MwRHNQN2dUcElaQ29DYS13SnlUQzJsRE1UZzlMM21VbTV2TjVhY1g2VUd6b3RoSHlsbnBhaWx0Zno2Z2hIdExGMVFmRnpyMXpqNS02T29kcmZlalRDWkxyS0tseVhJVVpqVk9sQWJnc1RIdGZRQWxCVXFlczFTQ3FzTm4tMU9JUkxmdGpENTJjUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T04:38:58Z",
-    "hash": "9a67fb245ffd47b43c26d015483d35799cf5b4f0cbe09227ed6e7e81505c6107",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "Sector ETF performance correlation with JD.com Inc. Depositary Receipt - July 2025 Analyst Calls & Verified Momentum Stock Ideas - Newser",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSTRQelp2emsxX29jVTZVUGZVb0dnTy1oQW83Zm5Gek9WaWVDU1cyRG8xT2F1UWJWcW9NWnpnYW5XZjdtZGFCeTFjODlMbDhKOFJyb2YtU2s3Y2dmMEd3MU8yeUhxcFdfTExMd01LcGtTLThOLTduT0o4dFhuRzhTUVd4Y2ZRbUpDM3NhaGJ0NkFCSmNlWjJ5XzhadFI1MVlSXzI1Z1NJWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T04:38:06Z",
-    "hash": "94483270b62e5a6cda12ffbf072fd20a5106cfa0a770f3e6581dc75570bd851c",
+    "published_at_utc": "2025-09-03T04:59:49Z",
+    "hash": "0543c306e8ef2b4303e6a46ae03df6fbea742329013b598124b9e4b4b9d83ad1",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana News Today: Solana's Speed and Scale Power NFTs' New Golden Child: CARDS - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3VLWUNZaXNuM0dFNl9Bcmxja3poMGlDSGVYSEdfWkdIbTl5TTA2bVQ5eFBybzI1OURUM2FSY2Fob1JQV1BNVmZvTVVsbVpvcUVXT2hvX0xxX3VHVE10UjFGRkpGZldLNk45SHhZcWp2NHN0bXgzM2VBSl9FOS1nWGpmMkRWLXMxZnR5TzZUR01kYXB3eE0tdFBlWENHNDA5Tkpv?oc=5",
+    "title": "Solana News Today: How a Dog Meme Became a Digital Currency Powerhouse - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWZJZXRhRlZidFpiQk5JN040MU9UMy1paWhFSGhzSkJXQzZ6d1BqM211elpidHpyUk5nYWs0bjR1dVJ6TlpBZ3BPNHlxSDE0RzlkYk1fYzZaNzh6R2dWeGR0WFZxbm94YTdaS2o0WVVGSk9UWTNaUUlRYlBzaDkzeTNIYVVKOXQ4UHZyOURScEhGdVU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-03T04:37:57Z",
-    "hash": "ccd780c12a86b36d23f3ccc63a9075e797f9c2d8d755526127edcf92b115f1c0",
+    "published_at_utc": "2025-09-03T04:56:05Z",
+    "hash": "ecf7c63c0394c8ef4839f82ae48d77b694df35723def30369779beee72e73cb5",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Reversal indicators forming on Grayscale Bitcoin Trust (BTC) stock - July 2025 EndofMonth & Fast Exit and Entry Strategy Plans - Newser",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkFxbUtwMDRTQktWNHV4YXVqQndBYXpDc0Zua0hQazlqRGhUVDNDbk4wRm14eWUzWFFpUTNDSEc4V095b1Q3ZDFaYTd6SVRuN09BbzJfTEhHTEFRcDFPaVZJM3FBWThOa0JkZFJfVlpjVFo3MVNxSHg0TWx0VjVUdF81ZVpfODlVdXZRYnJuOC1TTi14OVdTOWJJLVpyYnJx?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana (SOL) Price Predictions for This Week - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1USjBQRnFEelVDNjhjdjhkc2otQVdHQnYzd3ZlTDA4bk43MndqVTBNWkl0TU9yeUoteVpnT080RGtjYy1IU0VZd0dtOHBKWkNEa0YySUJSVDdJMXJkT21QSDVKWFUxUkRkV3lXN1RodlJENzVLOC1r0gF8QVVfeXFMT3BDYXYySXlINmN0NDh6TjNUZTJoZXJGZ29USEpNVndBUlMwUU9rcEh0Mk9LOHU3RnBMeXgxdEpLUmlxZ3l6RE5UcWJlX0RWVGgwc0s0M1BJUkdfZ0R2ZUxBcVZlM0xwZ1RuWEpxOHJmRFVDcVA1UUszQnpKNA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-03T04:35:21Z",
-    "hash": "864978377eb8f799012211abd5f43f2fc82cc03742ced4bc7e274c398b5ca1a0",
+    "published_at_utc": "2025-09-03T04:52:51Z",
+    "hash": "20a3328888e139010d47dcdde5d189173460a85370586c6ba2552ef5965064c2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Cardano and XRP: A New Era for Crypto Payroll and Fintech - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YTFZhUkJ4YUVybkhRTTFycHk3Y25MRjJEbTRZazYwQ25CRlpiZTJwcUx4eXB5bDRVRFZ5dWlJNGNlNzZqNlJLTUc3ZUs4RVEtNkkyTUowTGVlYnM5RzJBWndJV3JCcVlYVHU3UVlrUVBnanQtMmJ4ZDcyNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T04:52:27Z",
+    "hash": "8d5e8d492904abae94c99e359ae00b34bec8a50d050695ff15aa45a51f184aa6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood and the SEC Session that Could Change Everything - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzhzU1FfTGlBOVZwcEk1RlpBRk9qUXNZNTRDSnZOMTJJNkJvMDJYcHZxQmFiS3VtUXVpc3ZabUNMME9udXB3MXFCU29sYVNYSVh6MDdDZl9tSGhSN1Y2OGx2RGZ1ZjJ2aTVGbDU5UVBtQXV2emYzVTdpSHFkZzcya3hENE9xdkU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T04:52:27Z",
+    "hash": "fb06643ad0825d5565fae292213e61d15d9c98b1327b8a657d2576fbe55af9b8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana’s ‘Alpenglow’ Upgrade Is Official - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdGI3cWFkOTBKVmtaYkU4NjJQbkl4OEVvNUpHa0xiR2V1Mkd0Vjd0SHppVnpOSXRMdXMxT2I5LWw1bzlyd3FVbkRoVFR1Q1h3MEg5WWdacDFBczdTanI0MHRzR0NEMnp6RERzTjRaZWRZOGs?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T04:51:36Z",
+    "hash": "d6ffa68384fd95a0173e3deaa887802d2b0ecb4c46a545a37b54aa9f9646e190",
     "source": "gnews"
   }
 ]
