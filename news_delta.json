@@ -1,212 +1,62 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP analyst targets $20 as XRP ETF odds climb to 87% - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHA5ZGxJVkw2V3N6c1JXc2FMRHhfTGZ4RkJ5YWZSSXFMVjNPZVhEa0hiaFNfY0ptQU1pXzJZTVZnWUJackQ4dEhqdURHeWJZbFJOaHNwbjRaNUw1Y1gxSkxEUDgxd2tFUmdnVGxMTy1QV1RFMVN5U2tycHpvNVpqQTFGbnNzRjAtN0Z0WUNINEE?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum's Path to Outperformance: Can ETH/BTC Ratio Signal a New Bull Cycle? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZE1rWmZKc2xUXzRNbEpxRTVDa1F2WUxXbDB0enZvLUJNQXJYZmlnZ3VxOUplMHN6NWZISTdfZFZkU3ROeHVCMnVEU2ZKcnFmWVlwS2tXa3VyLXN2aDFyUTJhNkFsNFFfTktlOUE2b1dUT19qWUZtbUtiZ0lDMUVuM0UtYldDa256Snl1MTh2QnZzTDVFN00xVGtCZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-03T20:24:38Z",
-    "hash": "97ebdf0224af7512759fdde53d71fcac6a370d9a761065d524921cc21495f38f",
+    "published_at_utc": "2025-09-03T20:34:14Z",
+    "hash": "8ee4672c69058d00bba2cc2f20dd440c822e1aaa8673e031832502f15e1ac47e",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "BTC Climbs Above $112K as Trump-Backed American Bitcoin Debuts on Nasdaq - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM2xIekwwbmJqdUpUb2JpTFZqdjFPb3ludE9sZk1iNFdtcGc4U2ZHeFhITnJVa01pVi1xamkydjBWWlBKNzBwcUZlZHFITmRJb045OEloUzFlaGwwaDN1ZjJ4WTFFU2Jxc1BNSE9kZUptSVVzSXZsYkJUNEcyYmdnNXUzUDRPSmd1UXVLUVdJVlVrLUhoWFBpYXZnR2RYQQ?oc=5",
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSMC Stock Price Forecast - NYSE:TSM at $231 With AI Demand, Export Curbs, and $31.6B Quarter - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3dHRGRvamhZaVQ4ei1scnlGWUNIbWlkX2tqejREM0tRWEJ4cDFNTnVTUU1vSE5hdzZKUWc4aG1BNzE1TEg3b3dmNVdtYTFnTllvRGZWZ3dvVXVVMkk2SDZqdGlaaUlNeFV5Qk1KWDQxaUVVaXB6YmZvYno2Q240S092a3prMlN2UlZlNzhLeFJCdGJRR2c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-03T20:22:15Z",
-    "hash": "52c05dbba1e1be4e9a3652858f8ffd1c21e5fdc722b6b6ceeae8f410f21d5d3b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Hood Industries bringing $245M operation expansion to Waynesboro - WDAM-TV",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbGtHYzQtbVVOVlhISXcwSlNDa3BQSTlNWW9sYnlJal9kWGZIQWpUcWg1bXhNRHJXdjAxQTZ6WElVYU91U0wwblZOZE00SHo2Zk9LdGdYOVBpVEF6Z2NIR3JQNkc4R3RQOGF5V1lydHhNMUM2eWxpWlcwQ296ZTExcnBhYndnY1RnYnhHbEdVWGJFWGpBNFcyaQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T20:08:00Z",
-    "hash": "bd7adb6af31aebcd646fb96c202fe9f7285af7961c68eec5628916d6a9cfb2b2",
+    "published_at_utc": "2025-09-03T20:33:43Z",
+    "hash": "8fee99076e4bc7f9c1f2affcc3421331231156deb288c8c834260177f7691c55",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Litecoin News, Solana Price Forecasts & Why Remittix Is Backed As The Best Crypto Investment Of 2025 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnJfamZpMTluOElnX3lUdGgzN1FIVGdfNGJadkN4X1BuLXpyVlNxUzV5cnh6Mzhjd0FWZmhXUGkyUWhHNnpmR3ZUcDdReEJVenRpYlJiQkJNY2M1QjVqWm5GM2Q5LUpsaklLeXNkRG5GNGZJVk5Yc2ZVWlFnSmU3MVE4RVFfUDdNR3FoOXp6Z1BjVTk1ZlhfNnQtek55Szc3QUZCTVI5bWpOb1JjNzJmNWFfSGs3LXh4X0Vwa0RHQXVaVFBYNEZN?oc=5",
+    "title": "Solana, Chainlink & Litecoin Holders Turn Focus To This New Altcoin Targeting 3,500% Growth In September - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNTc0MnN4Tl9vd0xLVVkweWZsb3dvb29jMUJ5MmRPMGMta042cWwxWnpDSFRZMGpmM3RoSjVwWVUxRzUybUtPWWl3eXNMbmRQS1ludk5SRndCbE5nVWtSTC1wXzZ0VVMtTDZsenVBMml3dDFzZy1oS3dXc3ViNVVyNG13WjdUTktGX1BMNnJDcjBpQmp5dExhcGJTOW9ETzVzb2hGWF94VEFXa3VYcWtEdEdDeVNLTEFQbE9PNV85UmhnNGNmMFE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-03T20:06:00Z",
-    "hash": "a6b6a0c747d93bbb55a08c97da55b9ce02b1bfec69c17551891c8a31bd1386e4",
+    "published_at_utc": "2025-09-03T20:33:18Z",
+    "hash": "602d9b17568ceb8b2a54791c5b797195f6653ea7224a45792722096b2a7aba2e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Three Titans Mask Broader Weakness; Apple, Rocket Lab, ELF Beauty In Focus - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbWZSb1VndXF1V01yVWhIalUtc3RQNFhoc0UzdkZhak00dXNvcFpDd2JFaE1TRmNRdWdFV3FzZ0wtaU5SM29hbEJKZkc3Q3prc0tjbXFOZTc0UVlXWUtSeGxBVGhmdV9OM1k1SVA0LUFiVkFiY0JTdkFuak9ubzFLT3NURnk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T20:33:00Z",
+    "hash": "0aec8cb8afd2850436061afd944106cfffecaa5db938180ab07f5407923c7d01",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana News Today: Solana's Race to $250 Hinges on ETF Approval and Whale Bet - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY2tiZHRnMkNhczUtVWtxYXg3NGRrcHM5bmxyMWlDemgyUnZYMWpYZXFZNzBvUVhTY19EdVdmck43UC00V2dfN1V4MkhpQ1dFMFV2R3JYVzBtTHVDdmIyLUJydXdIRnZoc0tkMUw0dERWU2hVOVZHcnV5cW9RdENSRUI5b0FfWFEyaXdYaVJGQTE2anZjU0JkbTNNdEQ2Njg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-03T20:32:32Z",
+    "hash": "e25ea5fa383b6337fb4153cc95abddfda87e4ba0b800ab3383db703897bc00d3",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Crypto Exchange Leader Coinbase's CEO and CFO to Join Goldman Sachs Tech Conference Fireside Chat - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXlNdDFKTUJUSmZpWnlWMk1rdVBhcElscVJLSExva1gyOFZaZWlHZWhoUmxtWjluNXJERXNILXFSTjJyVG5hMlFFZF9Na1cwUnJRbTZ2ZzJ2UHRYeVRnTV84SmVqSGQ0X1pSS3hjbExaN3o2dHdESXVldkVlVmttZTA0MVhYOHdWYkpNMUF2YU5kd29ZS1lRRl85ZUFQQUEyS05BdWpGMmVucjJwWnNhR1lYbXgwXzFHdVgtWjBuU3A?oc=5",
+    "title": "Elon Musk’s Lawyer Launches $175M Dogecoin Treasury - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0U0X25VbDlQd0FCQTJFV3dCdXhqRndhekR5T2hsVEpvOEEtQzRGYnZ6bGpCRFU4MzJza1IybndzZWtob0F4VXdVZzIxR0hhTUZUdzRxMk90VWF5SWxOYXpZWDA1TFp4OVZjTUtLblBuMEVrQ0dPelpMX1RPUGR6aQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-03T20:05:00Z",
-    "hash": "b51779b01277560122dcff511ca37b256f2d479eb707ca82f07f7fcb52be7737",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase to Participate in the Goldman Sachs Communacopia + Technology Conference - Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzRNVzZHUnlKNlFOa05zVFNJRV9jOFpfalZwcXJrOVFVQUxkaXhFRUNiOUJoN0t2OWpmcmNEdUxzYk1HcTFVZG9LbUhpMVpFMEZoVFlwUV81OEliMW5HQ1hWaVZkTTlsSWtXeEFtX2ExNGF6QWxUVmx6SXFIc2U2Rnd1eVBLQ0JvUkZMMlJVaWVOZ2xOcTczbjNoRzZ5WGNiZkZHV0xzUDVWOGhYSjdqT2ZROU03aDg5NTlDV3JhMEhKZ0ZrVHIyN0xkX1VGYkRXc2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T20:05:00Z",
-    "hash": "bf2847855f131c29f9bfd1454c3ee9726850560ca9ea615082167be4e0895b37",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "What’s Next for Google Stock? - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55a2tqWDB2SmxzaUdZUmd5SkpjT29TSzBSaElpTFpWbFU2Slc1eWlhc1drNEFqRXNlZUswZGVEX3VOLW41aVF6UHBEeFNUWi04YW1QSXptWVdBM2h3dlBtc0NBT2M3aDNENUoyUzVfYk1iNGdQVXlJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T20:04:00Z",
-    "hash": "382c4a87e9235abc18d57bb3147c76ee98fa24850cb3493d32dd9adb83c975b2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Google Pushes Forward with New Deals - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xVDROQXhjWlVfWHg0LTFUYmZyOHZBZUZFNm1ybjBRODZzdzJnRVV3Z01UNzlqMHg2QUZqOGl3RFdWOExEYWl6NU5VWkZfU0NjSUVuTlRhVUV3S3Vsa1FkQ3R3ODE1UHY1TklBRmNQSGFLR2tUd0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T20:04:00Z",
-    "hash": "fc4e8d8d4372d6af77c2e9e1a00d9b93e2c704cc5741fe693802a9b0664664ee",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Struggles: Stock Risks Ahead? - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sWnFrVF9pYkp0N3QyQzdDWWV3elBQWjR1aENQZkNBOTV6bXYxTi1pX0ZoQUtCM2ozNmt0RkhrX1BSZnNaSUZFSWZxVW9OdkNIVDFNRExOLXh2V040VDQyR29Qbld5MTNEUlc0VjBIUUdyQ1pVSFhwR2Nsaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T20:03:00Z",
-    "hash": "54d22dfbe05947da1acb3be6446ec88dd10a3a83a91faaa992040b9626df348a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Beyond Hardware: How XRP Mining’s Mobile App Delivers Seamless Crypto Earnings - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNjRPQ2FkXzA2N1MyektURU9VZHAxUTNtc05JWnJsWHVrNmFXaU9yblpYRS0tTm81THlyNXA4TFAycFhES294QnVYYnh0MHpyWEdEQTFIYnMzaF90RklWMlJqODJ1bTVFQmFvZ05Qckw4bVdPU01FRGg4VDQ2RFJXNFdLRjRYcGh5TVNRdXdZZTl2VGFEN0puc2g4cENKOXFqU3ZXRmNldEV5MkVJU3lGZ1puVEM5bzFUbDZISG5SLUJmYUs0aVk2Z1VvTDZDNG12eU1mdjFVZE0xem9oMnNRNUNSOG1DcHd5M2IydGF0Z1dQNm1yODVuaQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T20:00:13Z",
-    "hash": "9bef4d729d4cca94992f9c66184ec985e234bc45b4ec397d0b4d10383005456e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Analysts Eye $3.33 and Beyond as Market Momentum Builds - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVWtzeEFHLWIwMFFTZWZ6QnZDSWNrV19VaVkwNWhpRlQyUVpqcEhXRVQySFVMbWlkYmZyNUhxU0ZvVHBhWkZSSGtzZ005X0JxQVVxYWtqNDVIbzFuZmxjUkxlTzBPSkdLTUV1RkJZVWwwNDZzU2JGdU9TUkpFakVjNUFENFJoQ0JscnE4dUxDRmlzOFBrOC0tSTlKOGhMaTBnM3JZSnd3OW5zQUdfelE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:58:40Z",
-    "hash": "5ec74254f496517bbc6e6fe5bf1eabb2e34d1e427b0cabaf4fa15c95d4b27ee3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever PLC (NYSE:UL) Receives $73.00 Average PT from Analysts - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkxmSG9YUy14SWt2WGhVN21rWGozZFh6RUhoRm1uaHZJMVhEVjlQcHctamQtMXY1U0hrUzEyRWNzMHRvVXZtYVQxRWNoNE9tTUxqZDNnczdZOXZxeWlrRTlhbG9TY0ZKbmdmZ0pkdkt3a3dFaUJlY3BIYjd2QjlQYmg1dXF5ZElXNENtakZ1LXlhVDVxVWJzck9JT1lyaGtFUFZnVXd6WXN5Mm1zMVpWeTZjNlJFX1J3SV9TcDdYZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:58:38Z",
-    "hash": "477ebbc344e7f10d601e4165a5e1d3bfbb1efea854471fead81ee7116e6af397",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Magnetar Financial LLC Takes Position in Rocket Lab Corporation $RKLB - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYzRiVFB3T3diYjhlUzlpdnlnMmMtMWFldU90cGV3ZW04aHNJMkxTcVhYVE5xWGRDR3AzVkFwc3ZudmczejZtUGlLeklXYnU2bFpQX3lvVHVmS1c2WkNqVDh3ZnRNS2ZraFdLcjZmLXVEX2Q1Uk9DWEtSRjNpNGhCd0NsZlFVc2c3ZExNVWZ6UHdYQVhzSGNhckRycE9WTVB3R0tmQUw3RVk1dGhFQ1Vjd1VGQVlZZ3RwY191Uk15cmJnOFJCMk9UMmpQRHlYckk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:58:35Z",
-    "hash": "9a962726d7a3d6373b0fe6b87b62c7dff453e9458ed709545f0b6b4e44df219f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab Corporation $RKLB Shares Bought by Vident Advisory LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWEpPdEcwb0pLeDJtYnBVNXd3VVVHNUtXNFNwaFVxQ2RMWUI4bFlmRnJidTFOaHpkVG1uX1VwLXhqaldMZHpiNmw1d0ZfSDZkc29OTEJwWUNvM1hqQVVrQl83WW53ZVZZN1ZIWmFNZU14eXZYTGdlQ3l5YUxQVkQ3aUtXWTFvaWVEdnlKOUJkYlRxYUU5RnVjZDM0Zk5rNnVCbmZPQktGT1E4eFlVTm5kNWo5a2ViX3hGN1hERUdpVnhmaWhWaVpGQnR3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:56:40Z",
-    "hash": "2253018b7e8bf511e0fb4a6f0aebb716b325cd2507656be21f1b479e9129ab8d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum’s Yield Opportunities in a Post-ETF Era: Strategic Entry Points and Compounding Value for Long-Term Investors - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVkpFVENKemhLT01kbmxRUU1YRkFEbzc3dE5lRTNOY3c3M2RVci1iWkN2VTVrMkRqUXM4ak01cTAtVnU4SFI4OF9zdm1ZX2dOSGdtYTc3ekh5bE1iQm5fVUFuYlZLUDNBYUxQSXJVQmtFZGhyYmxMaTdPN2tSTDVZUTZTcXNFRWljN1JrMVhOMUNwb01vOElqWGstc0VkR21PQm5XUk8tczZPR3hGcTFwcE9CaTF1RkJlTnBzQm5YYzN1QmZGanpQVDl1NA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:50:33Z",
-    "hash": "2f99ea8311bfe226659a869ef2412bfc03d84f7144f5f7b40c5a38eb46b9330b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Why Rocket Lab Stock Is Plummeting Today - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcE1ZaUhvaHdNSl9aUmF1alJ0WDhpeDJpdWxqTTJlY0FCZWFjTWN4REItRk5TalFBYll0MHVYR2pnWVR6bXd3c3FYT2x4VUpRVDRZN1pCZy1LNmFzeHZnUzVXeC00VXJOR3RldklkNTNZRHNGNHpvazgzQmRCZlVpSGZhelV4N0FndlN6TUtTZmJ6UkZuQXM5X2IxRDVDZnFEY3R0eVFrQW53X25oRXJHcGxEVHNaM2p5enVEWl8zTGpqOUNX?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:48:46Z",
-    "hash": "7aaed8f71048c37dbf35fbe8b90783cd1b3f85b8faa053db69e7436ce8eb5f52",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Alpenglow Upgrade and Its Implications for Solana's Future Growth - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYmdlRFJMUUFSWmpfYjFra3R0ZVFnUXlGZHQtbzVTcTJSbTdwbV9oUlJTY0FDY3Z6VHNmVWFidURBWlJVVkFxbUVxcXNPeVZfSXA3ZnBmSjNCX00yOFphZ1hNbFVnQ3ozNTlXcDhIQ2RIMzVLRHJ5ZFpfemtmdVRYeVNEWW0zcDRqRGY4eEw1SDFLSUU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:46:06Z",
-    "hash": "265f763c61196e9b2588962f5044c480d8b550e706b56f44e3ca0627745df867",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google Stock Up After Judge’s Muted Penalty. No Need To Buy $GOOG - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnAyaGJGd25yYTFuTnpzaExqWXZPUmtOUzBxSXg5V1ZQTTZ4QmxBVWdBNTZfVGtVSkFHX0V0WTJlQ3JFZk9peTNEajdVa084dnh2MmZnY1pyNTd4NmlSSVlBX0ZEaDh3bEFZclBOSHlXSlJjZlZ1TUtNbzBaVmZHWGtPWW1aQzFUMk1vQXF6ZWI2NFI4cmFNTXRpUWd5WmdldEVhQnU5NmRpYm90NWFVMUhqa0w?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:45:21Z",
-    "hash": "c18c2e1a21e26b3380631d08c428f7bcbcd2676410dd546f9fd599be46f4058d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Hires Cash App's CMO to Fuel 1 Billion-User Dream - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnhlQUtxMnlqZUhVajF1R0hxNTcxT3A3b0owZVFodFNtek8wdTJoeU9kSExvRG9wSlJUak1uVTM1TWFxaUhUaDhKUGxBV25zYjJjR0NKM3RSMVkxYndDS0Y2RGVQWTc3R1J5Mzl2UXM1ZTdDcWlnTlVMRkwzQ3VHQk91NW5EY1Vta1I0N2tkSVVqQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:44:25Z",
-    "hash": "a66f1902d6706ca0716dc884580a947605dee86207ac80c3c8c43d64b15ff50e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google's Stock Surge: A Catalyst for Tech Sector Dynamics in 2025 - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFk0b0RIcWJSckt2UXFmNDJwX3dvZDM3c2ZuWUZyVjBDaU9TNjROZXdON3E0MFFjaXVIYkdVMWRvcnZKdXo0MFdGajl5OUdGVkFmQk11VEhhejlPNGNJT19ZcnhCYUs5T211NGxENGNCd0lBd0N0cUNfRjJVdUhKaWJJanBaeGZMcWltX2xrNU5GUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:43:50Z",
-    "hash": "492d6def3b481e21eabbca29b5ecdf9b0fe196cd1143b8a31f46ce4d6e37a9e5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer responds to Trump’s criticism on COVID success; to share data for new COVID shot - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNDFiUDZ0NjF1Z3M3cmx1YVZxa2pkaVpzdUlJQkhuTHBEaGV6Q3NGb0kyQmJXX3FtampUX2NocV91X3M1STNseXNlWmd0czQ3dGlRX3Z2blhRUVdrMlpETHo3QnlrTWo3YWhtWG5XWXI0TDdWR3hjc19ia2xpWWZBWTF1MzBiZDd4OTRnZmFzTHAxbTdmT2NXYWRrZkFMSGpFYUJZMGg1RVV1aklyRnY1bzVtUEN3NVJ0QkpQdXJBNVoxQlZhVlVWeHNvc3c4bnV5dmxVUA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-03T19:43:17Z",
-    "hash": "0ebbbd377699dbf95564689073f9786f406fed026087ed98445e5961c4fc414b",
+    "published_at_utc": "2025-09-03T20:31:16Z",
+    "hash": "efa7485864bb0f9b7b86794d19ccd6a595e8c0563fdf3f3e77dd4420ec6231f0",
     "source": "gnews"
   }
 ]
