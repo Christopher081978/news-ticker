@@ -1,32 +1,92 @@
 [
   {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet (GOOGL) Reports Strong Year-Over-Year Gains in Q2 Earnings - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ0NUN0lPUXd3UEFmNExYQllUU2k2dHFCVUwzbXE1eGVhRTRUaTUzODg3bVdheU9UTnZsQzlKelNyRmd5YWtxM3hzWjEycExpSFV2NG5zcklMMUVKaU9xZzVuVk5Wb21nVmgzY2dQekVwZm14WTlaTnU5Rk9OZDkyRUtIUEUxZVVZakptT3gwaWlhTWxXSDA3VElIQzZ2NE15c3FLVTlrV01oOHYwQXUxZ3pMVzZfV19tQU1ScVl6aEl0dEXSAcgBQVVfeXFMTjRaQWdXdnJNd1hEeUtnSC0tckpwRXRTclAyTkR0NkF1T21lc3UyQVpiSUJBbFJPMDVjYmg4Zl9VZTZKb2ktSmRXNzZEeGFud05WX1c3eVNjSVB0cVY2eUdlREdWS0JZMnk2cTJWNFlMNEt6a01yb3RMbDlrOWtJYWpZVWllbEJyY1hIYWJKTU45R0ljTDBhc3NJZmd0MkFPdFJKX1QtOUw2Y3hNVjVhUk5tOTNYLXg3Y294TkJHWkw5eWpkNFBVTTk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-04T17:21:36Z",
+    "hash": "e9d34848a6140af395e6d72bbc240b9f88a0a997b2930e8188af82fdffc4b4f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA (NVDA) Partners With Black Tech Street to Empower AI Innovation in Tulsa - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXZFOWx0MzNnYngtNHZ4Y0Y4dGZvS2lhZUM5Z3hsOFl5eWJHUXFTZXJ3MUdDNWh3dUhIeHFyLW9Hb0NlemZxNWRzbklKMV9VcmlqU3o4NDdxMzlxbEtmNERaQkV1WmxhdnpKMUs3dXZZcm9WR2tuZ2J1VDRJZkVjOEg2dVRxVDIwR2tCUDhkVGNHdTB0MVJIWEpOR3VidDBlQks0bUpFRTFaVG5QNEZFc0FmcDVJWjF2WE4zVktkcjNpUDVySk1TSTVmUdIB0AFBVV95cUxQVERQMXpLd3lMNjEtSDZPb2VIR1lPX2MxM0taakR1MmtleGk1ZnFaVnAxYXVxNElidTlXWG9nN0Q3TUxpMHYxUmRad211bUJaZ2t4SmZ4M3BhYUlLbC1kNkEwRTVVaks0d3g5c0VlcUMzMTFMTkR6b01uQi1TV1JZZmJoWXFhUkExZUJWMWlxY2VFb3E2OEl5Ynh0d1RaTVUtdFYtX2h5WXN0N1d4cElKS0JFX2xuQXExRFNaNVh0cHJkMV9BTTlnWkEwSThTMHlY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-04T17:21:32Z",
+    "hash": "8976f8ecbd57e7d414c385f43b9e90f1d2ea459db00bd41a90e314e7710dcc13",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "US-Gericht und EU machtlos: Google bleibt unantastbar",
+    "url": "https://www.faz.net/aktuell/feuilleton/berlusconi-waechst-in-europa-doch-google-beherrscht-die-welt-110670784.html",
+    "summary": "Pier Silvio Berlusconi schwingt sich mit Pro Sieben Sat.1 zum europäischen Medienkonzernchef auf. Die digitale Welt aber beherrschen US-Konzerne wie Google. Deren Macht schränkt kein Gericht und auch nicht die EU ein.",
+    "published_at_utc": "2025-09-04T17:14:09Z",
+    "hash": "a71daead5f09f6ad6687fad97b8852af9c7a4ac5ac0023267f9c769402f7317c",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Holdings Part of Broader Treasury Stategy: Figma - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRk12NmNQOGNMTTBoaDBGbE52NU5fNWRkT3NGWkMtOWxGX0t1SVBMVmxkNmNPTmtWTkxXRE1MMXVsTDBObUtfcXRSVVVncV9CQnRoUFZTVThCSDZoTFU2SXF0cEJ2NUJvanctTXJOUmdPZjBJV2lTUFg0Z1NacGlLTGJKZE5TWVI1U2tHMEY1OWFPLV9IWUI2SkpJSTh2VmRuZ1R0RGZhLXhFMEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-04T17:03:45Z",
+    "hash": "5040401a3f3812a72c854a26d78f91dfb60e090f6a9f2751d041ff46073342c3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Meme Coins: The Risks and Rewards of This Crypto Investment Trend - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4dVNTUU0wb3lZQTlWY0NfeVV6cnR1bW52SWNsRVM1bFNtZEt0anI5VDF4YkhNbTBZTTdhS0hUdlh6RWJhc1NfaEl6dFVaSEtLaXN0djZfZkVneUR4cFNVdHhLa1cyR0wxX1piYmJ6Tzh5NndHamw1M0pPckU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-04T17:01:35Z",
+    "hash": "2183e46bd5623e212035f2bbb6631e192bcb9979120c55f22c4d9bc43974205e",
+    "source": "gnews"
+  },
+  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Key Reasons Why XRP Price Is Struggling to Find Momentum - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkxhRncwTFgwUmduWVl5NHlfUC1LRWdiWnBiT1VROW1FN0U1ODEtMUpodERGMUNsb0trYk9lVkNZeWxsS2lxckk4MEkzTWNDdl9JdVVnRlp6NURlY3NOOFlGZlhLTGo5RXJkVFJQZWhxYldOVzh6V0hHdHZEN0lpdFR0ODRYWnZH?oc=5",
+    "title": "Next Crypto to Explode in 2025: BlockDAG’s 25.9B Coins Sold, XRP’s Bank Ties, SHIB’s New Listings & LINK’s Staking Growth - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTg4a1pfREowZzhsVHRFal9UeVBDR3JRUWhnT25oLWtyZlQ4aEhTaFprYzdUZVpzNzd3dy1YN3BWUDV0VldMcTdXcUltc1llaUdmeVFEMFdzdE91V2x5aExGQVlxSXEtdGVxNDQ5SlRkNXhRSTVKYldPMUpQS2MtNWJIOC0ycXlCWnN3VFlDTWF0Yzh0M2ttMnFnWU1nSXJFSVBNYkFFdDd2UVpKbVpkY0hwYTRMNTJQNlpUZ25fXzREM1hTVGcxMVhRY1RCNTQtanFBTkV5Y0RKUXlva0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-04T16:48:26Z",
-    "hash": "975980e5982c7310d288e49aba85ef7b416cb22c674f67a29d3fade8950e019b",
+    "published_at_utc": "2025-09-04T17:00:44Z",
+    "hash": "f6cc6e25edcdd7a529fe70ae1cae6bdccd60198cdc6f340a3a26ccf72755c1ae",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price Near $110K as Hash Rate Hits Record, ETFs Surge - tradingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMW9WdWJpX2xlc1dtY2VoekZrU2xjRDFKZU52bzZVOXBaaVd6eHNGcDNwYlFKR3Z4OW9GcDU4dXV2cjZIZ0VpbDZSUVp5X0hFUkNhR25aZHA1dmw2ZC1oMFc5cnZYN2JoZk1QQ3BSMVdXM3hHcUdkWjQ0VGJSeWRTZ0E0QkY?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Strategy Now Owns Over $46 Billion Worth Of BTC After The Latest Buy - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS19FMWJPZzAteEdCTTdUU3JwdlZ1REhPZC15aVIyTUpWUDNwLVRoUjZObUY0bWxtSVFCLXlsdjFxbFBQcExXWTRKUFZpRkQzTEs1eFh0cndna3dFYmxQYk1XYmtsV0c2MVYzY01OREh4TWFRT2FBNlpOTGVVNTZsRXpiOTk0NmVUNjhnTG5zbUV2bktxRzVFUFBST25NaUJzdzFMakxwVXlvd25wYkdXTXBjYzR1XzJa?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-04T16:44:18Z",
-    "hash": "a824aff54b6f148d73f1b965288150ebed2692aec60f44380cbfa043b930366d",
+    "published_at_utc": "2025-09-04T17:00:01Z",
+    "hash": "41a2c52c8886adf63e48b413c875848cdd9a39ed15ba3debbd80f2b04798e28a",
     "source": "gnews"
   },
   {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "Jim Cramer Highlights CrowdStrike’s Earnings the Following Market Reaction - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbDVrNVJ4ckIzWVpEMTRJempESFBrZDJoUktSOXFBX0dKRVlkekVBN1daamZmTWJ3b0VfMmpfNUh2NEdRMlVVX2U1akYxTUhnTHVjS3FWNGd2eHVBUHZEdHRiRGprZXV6czBZWUp0M2ZkVWpZWkhxNW9kS3dDbGs5SDhmTGtmVk9tZVByanlIYjExRXJFUnhXeE9pNHdFaTlnSHdjVUhtUU90NEdkY19yQV9CNVMzQ3FDOUpXWFk2VEY2Q1lnUnFVREt0WFBTZkhWdXRJNUVWTGh5UUVPUVVtOThjVUlOQ00?oc=5",
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet (GOOG) Escapes Major Regulatory Blow: Is This a Catalyst for Sustained Growth? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdHhuWHoya0tRb2RsbjIydFcya1lESjBiVWFaWUg1OEFSUXloS3lLbDM5TnhYNVc4LXhhNzNzTWREWHUwUEVfLVpUSzJKR1FNVGZ4V1U4RGNPeWpNelNGeHFucEU3TTdIdEprOXBjTEhOMllLc1I0WHdKOEFFcW00djhiR1RIZDFYSF9iWHR5YldNN3VIVXpLNEZWN2MwaXdrQVAwejBDSQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-04T16:42:44Z",
-    "hash": "c0bfe67c082dadb02f160d66dbf3feeb76cb38a8bf1dcc17d949eb934e18641e",
+    "published_at_utc": "2025-09-04T16:57:11Z",
+    "hash": "9c8d62e43eeebed66baf7b0e3757ebdca8afbf4674b1b0389e55580c8df59990",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Trade Bitcoin, Solana, and More: the Best Mobile Suite of 2025? - Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRDQ3YW9TRHM0MDBpYjNPbkxsLUc4dkNIOTBPTkhxRnFJNFQ1SWZ2dXBXY2FpeGN4RGszeDhJQXc5YkRzMVBWdDNUcWxDdE1WSFNic2FVS0dlU3BKZlJjUUhEU2hmNzk1NjlXT3dYd1Y4RTROOTNPejlXd0dYcUdySlJsQllnSEhZTFJ0eHdZenN4T3JSMU5JY2pqb0o0Qkd2YTBETC1vU2dVdGRO?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-04T16:56:24Z",
+    "hash": "c71ff49f4c65f981039989e29325bad6a85010c8443d61c6d6cacf4b49d8859f",
     "source": "gnews"
   }
 ]
