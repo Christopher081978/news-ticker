@@ -1,32 +1,242 @@
 [
   {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP shares are having their time in the sun — can the company make it last? - Upstream Online",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObm9SSHlLc0YycTdFODlMU0wtc0VQdGprSkg4Q1dTVW0xc2pHSXFOTWhGUmJXb3VuS0ZqSkd0SEVMTHlMWng5MkUta3d5bTRnamhKLW1WUUNlSjJ0NXR1c3RFUHFQX3g5Nl9PdUFpZWxNQzVJTnBLRXI2b0w0dUlEVzdXRElhUE5TRUJaLWx0N3NhVjctRUxhNGpBZWFENmhaWmNhNU8tQzdSazFvbU1jbnRNZDhaY2JjWktYbmpMS2I?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:31:51Z",
+    "hash": "56be77604188705a126f699fb58bd7bb5de960df9d6411809c63a59983f876bc",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "Is BP P.L.C. ADRhedged stock technically oversold - July 2025 WrapUp & Weekly Stock Breakout Alerts - 더경남뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSERsbFUtc3VvR1RScWlCRXViQzBBTk5Yby1TUlFDVjhSUU41LUVMSnVrekJjNFBLWkM4N0lMTlQ3ZEh6TEp3QzAyWmdLMWVCZGRHenNQLVRKRWh5V2Q5dzdHRzYxUDZWZ0M1V2hpX2lKc213eEE1YVprWFpvZExuZzBNRF9STzZn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:28:09Z",
+    "hash": "4699e4b2f4d51bae341a681c25ec04409847e2fd967ef1e9a75b49d831efec53",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "1 Nvidia-Backed AI Stock to Buy Before It Soars 122%, According to a Wall Street Analyst - Mitrade",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0NjdTRRRE1KNzd5UHV5S0VMeEw5RkgtSDZEYTlNZjlZM2dNRWZ1MERmT1ZOZTNzYXNnM2pGaUN6Wi1ib3VqSDkybFJkNlhrNzJDWlpTSHk4RHkzZWlmd1JrMHhaemYyeW1fV0tnTnMzUlFyZUYxR291NDd3bGwtdnluSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:24:08Z",
+    "hash": "ed6133aa1fdd8d6cf6c4cbac68cb159ea4f6e0588456db4c941af0c0aa04432d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: 2025's New PayFi Disruptor: Can Remittix Outpace XRP and XLM? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZVRJbVBGTWRYNkttQk9BRzN1b1ZFM3BNNTVNaEhZa0g0QmZnTVlRbUdSWFVSMFY5V3MtVHNOeFUxdFNIZ01Nd0pOR0hRdEp3d1F4VE4ySERtdDJwR3p1Z3lOcUpYRktxaE9BdUw2SG5Fek9kVTN6UTRxcDYtek5RNnlyTmh1cDVWaXVSYnBUdU1pV1oyNEN4M2hUdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:22:56Z",
+    "hash": "e4d6ab775e7d59aea0159fdd0edc716ee4d234a56b41952ecd864105b5e7e302",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Ethereum Gains Corporate Clout as Yunfeng Buys $44M in ETH - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUplNF9zUldrVGRYZy1ENTM0NS1tVU9mRTVWRGhya1U1QVM5bzR6YmVHbGxZYzhlQlRWeUVzY3BSSHUzcmFjSThyLWtlTkU0MVo0cXBMN2ZKOEtYamxjcTctMW9JUTZBYWxrdmlPWGlBdkZVZ1FNWll1dnlDdVBUR0FFNkllSHpvRUx0Mm9DdHE0NUlIU3EtZjFyY2Z5UFloVUZFRUlnUzR2dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:22:42Z",
+    "hash": "742d84e5527ebb1dc481729b420efe455dcc277ece60eee217cfa0cecc05dd0e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News Today: Institutional Confidence in Ethereum Surpasses $8.69 Billion Mark - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlVWQmhJNTdPUG9DZTZlSzlBOVVxM205OHlJNVM1a3dfMGhvUkVEM09iWHpVMEVMLU1YcE8yMEI2VXRFOHBlbGk2OG1ZZlBnR2RwRUNsSVZxcURZUExRNkNXZUs0THpuc1lZNmV3YTM5MGRQeVY2M2dlMG5tUzBvcEhwQ0pQLTdaVmRXNmNUZVpkYnA3UE1idzNhS3ZBUV9LaHRFVk9aVEJJYzMtR3djXzVUZ3dsTE0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:22:39Z",
+    "hash": "e0560861cd3a0fef38fb104fd016593674c00f458337f972432d4ba8a1f7e094",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever to disproportionately invest in India, says CEO Fernandez - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlpiZFQzOWRUNTc3S2s0QURBX2hXTXh3bzUta2lzZ0k5RXpCamtMbDAzM0tIVjY4TVpnbmVJX0l6QS04TE5xdFQ2ZUhjX2g2bXpLYkVPTzlwOUtGVndJNDRtWG9UT1NMajJCRDI0aTlEZ0NXM3J1UGY5UFRnSjJfc3NvUjJ4ZFliY1VTQ1d4eWoxNmdxWERHOEpLd2h5djNHcWJOWXdaOThFZEpaeGlXSHJrREliYXR0aWZsdnpsQUNlbVZLb0UyNEVmN0FEYzDSAdQBQVVfeXFMTjVEYmdfX19XMTlPUmp6LXQxWDgwbm9Zai1LQ1BaQzdGVDFIeGl2TWJqYk5VbXVpcFZvUXVGUy1RRmFlaWdDajAyenJHNHBIMUFHUjNYOS0wSEN1cGF0QTBhUXhrNXVZcURvZjRpYkhqU0ZrOTNBTmY0dXJOOF9JblJNdklrUXl0N0NCSUIzZmtPajc4czlHVnJNRFJ2TXpURnZjeVlrSlY3YjNyRU1fbWY1dllsUGtITTFyX2hCVk5BZUtOREQtTDZrVGFSODNxbDhDSVA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:21:39Z",
+    "hash": "b0e7ec86f864f4d0c5f5d1d3c8686387fc437007325bb2953561411cb82115e0",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "JD.com",
+    "title": "Malaysian Prime Minister, Anwar Ibrahim, Welcomes JD.com Logistics Investment During Visit to Beijing - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa25fYkRiX2F0YXViRVNmVDR5Z3JQMkRCV2hEekloTFE3OHVlaVlNdmJXenJJcVp5czBUcG95cnJiZl8wTVFNVUlPa0NEaDhuRGh0c3J0ajYzeldsSVI1WDZ2WjZCVWE3dDZYV2VzQTAwbVN5TlI0SklMMS1PUmJBOTJrbG9ydVNHbDBIbTJITHFmTU9QZEhWcUd3NGNIMXdiSGJGNGVTaTdKcm56eklDWWxXUVgwNVMzZlRXVUpBTmhzMGhLdDN3R1JqV0NJR1U5Um04aDNxc1JyWjBINjM0dnh1OHpBdFJ5UnFMcFdlazh2LXpqSGtmUlVpYkVZbE3SAYQCQVVfeXFMTkVoWldZY1QtOGJIRlNGWjgxMXc0T2lwV0RyZnlzZXZ3UGlORlR2cUhpeUFCbEF6Sm5CNXlvVkVoUTdWYTlOUWx6a2M3QXVVSkIteDNZN2JIY29aVFh1RjhWVjllSFFHdWtGZFpzN1FrT0c5NXRSVVhHZkJ0VVpram1Xd1ZUc21UMWRxVDdxQkZtMTVSR25ZSVZWYTBIemc1OUJ1Ymh6ZGdObUxHdmlHNUxRQklQTUk1ZlZLc1JIc1FOOTFNbFBMWWc5b2RLWHYyRVItVjdSc0dkZ3R5WldtVVlpTUN4cldzZmgwS1hPNmdkaENaZFU5QkJxM21oSU9vdVA4Yjg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:19:52Z",
+    "hash": "58a7d4e8b7a2fb350aa38bb9ddfc626a612d57e2e1c9d79e6224bc3872f3ade4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "AMD, Nvidia, and Broadcom Could Help This Unstoppable ETF Turn $250,000 Into $1 Million - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcU9kU3hQcEs3X2FUcl9mSmRUakI0YnR5a2dibTAwZENIUVlHYXk2VFRtb1VudGdnbkhOd045a1ZpekRBZEpVTE9QUkhvbDJxZG1ra2YyNEpiUlJseDBtbWlBeDVPVXo0Z2x0dkZaQm01SkxIUDRlTnpHUkFWOXRuSFA3QTVYMGlEbVNpZ1pReEVRNnFlb1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:19:00Z",
+    "hash": "2a885b62d70700f1ceee1ae9d71cc889de3665cbf086b1ee29cfcfa01a7747e2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Holds $2.80 Intraday; FLAMGP Advances Fleet Miner Cloud Mining, Turning “Holding” into“Operating” - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmROaDZQWVBFOXVGWFFDMEJqYWwwTFVaT1NZMG50dDdDM2d2MFpMbDczWHZqU1lPQXB1ZU5oWFNvcjBvYjBCUjZuSHFvNjR6U3RybUpVZmxSVDdZMjBzVmlKakRPQ1l5N09GemsxUkR6cGJmRFhTczQ4NTE4SkpFOFRscndRa2xtYXBaRkFlbVk0U2ZITFcxQ2M5QlN5NDZJYlBkOGV5VkJpcHB5OTVNcUFHWFZNTW1YcnVv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:16:54Z",
+    "hash": "e75135e062cbea11f20c1442d021488e4d882b901d907edc22f36b116a7fc48e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Breaks 7-Year Trend, Surpasses Bitcoin’s Monthly Trading Volume — ETH Price Impact - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNUc2bEJjamdCWWExQVNjN2JYYTJwUlp2VUhHb3Z2dWdxZUpKdHVfRnZhRjVPd0VjRjUtcGlLUklJemZXMEZHakRhNHdaNE9DS05JYlZqeUQxZnBRdWE2T3hhVlp3XzBpYlhwbXBUMW40OUREV1Nrdk0wcFpsVDJnVTdtNEVmRzduVGtMQ2FKVUx2WWh6NUlvZW1iUU02SkdhazBtOElGbmY5QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:16:02Z",
+    "hash": "a3efa6abf59f14b7fc96783a90c4234c55509ade5d9a64616cb5ae5a32bdfa3b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Whale Moves | Solana Transactions Surge 500% as $1B Flows Into DeFi - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSlFBZmJTN1diRTdid3VjUG56SS1yTXVuTnBVVGN6OUoyV29HMGNrSThWZGJ4Sy1KUFFLQngzYXlqcXRlNzJJaWZWOWZSeVBjbkQ3dkpUbGRlUm1KLUJqaWNQLS1tMHBFOThoUlhjX2lLUmhjYkFucnF6cDVyU2pmd0F2SHdkOFRETEtmdVNQc18tQVNZbjZLNQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:15:49Z",
+    "hash": "a10f5e393a5b6aee7f68dfc3da3b05294367961e0c73c6b19989e2c202b68931",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "4 Hot Meme Coins: Crypto Whales Storm Arctic Pablo’s 300% Bonus Stage as It Dominates Top New Meme Coins to Invest in Today - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObV9jTEJHcXRpTmhWVTAySFZVVVdtdUQzX3pWVG1ob09fVVFDMmNUdi1uRUJyakFZTll2VDVVVy1HeFpjN3JuR0ZkeDJycFhmQUVjZ2dDeFpxWTVyQUlnWDliNjhtd0dMcmU2akNZajMwRnI0NDVTaVRsdE5fQnduSWRiWVByZGR0RFhNUEwtcmZ6NW9iWndKMjN2VFdNcDVydWpLZHVXX29sbVRSR2k3YWNXc3QyTU5WUjJudjR4SFdQa3JPOVB2c2dkeEM1RUppQ3BweU1QS1E5N1dJUFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:15:35Z",
+    "hash": "2c5c246cf2fc9f26be468693bcd5fbdb2c4b1e22d5cbaff66c7512c3fe909290",
+    "source": "gnews"
+  },
+  {
     "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Waymo receives permit to operate at San Jose airport (GOOGL:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMFdveERGa25tZC1IMnp1V1V3QUh5V1NGa2tLbjZVV0VzQ0hlSkRObVd4NG9HemdJbnZhbHVRM3RWemdfR2I1Wm9aT2VaNm1SQkpiOTN4VWFIS0FQOXhyT01nOEFvYmtYcC1JYWxfSVRfNmZkUU00bmtOU1RseFAzZHV1V1R5OHpkNTE2SDFobk0ydV9p?oc=5",
+    "query": "Alphabet Google",
+    "title": "Why Apple Stock Jumped on Alphabet's Big Day -- and Why Investors Should Care - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbTRzaklHRWFjZ19nYzkxTUVLcG9XM0d6X1Y0azJ1dnFVWWozcjh3ZkpNaW8yRTQ2Y1duY0lNR3k5WVNfU1RnaTFOc19vcnVkbWE4aXlVTzl2Z1NGdFBxdXNaQlp0NjY2OGhSc2tHZTVhMVo0aFhoZzd4Rjh0SHJOaS1hMlVQRDhSNU1tRmZZLWtoenZBRXdleVk1SUhUZ0RFb1VFbm5vbTNxb0tqaW9YQ2dibUxadVFyVWRBcXRIaXRZTTJidGs2UG5JM3pCSW5VN1RYMDE0MzFEdzd1ZXZnSWo0WGVTbDlMZUFhbmRGdy1oRmVOYWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-05T07:39:48Z",
-    "hash": "003f648e6c935010f0820fed15b43c83a2a15e7cb55f36ce57acef59c5b808a6",
+    "published_at_utc": "2025-09-05T08:14:57Z",
+    "hash": "1e4fb9a0576791ab914cf7e2189f3569f1988313a03d2e354b7b4bf7ae2ea460",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "SunnyMining introduces free XRP cloud mining app amid market turbulence - Nation Thailand",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JN3N5Ti00MTV1MU5BZ0YwTDM0ZTdKVzFqZWV3a3FxVkIwTVB4RG00X21oZWRWZzlWbndBS1pENFk0bmc4bmJOMDNkS0VWLWNMXzVqR1F6WFJhbTBGVVZnSG0tdXU5dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:09:00Z",
+    "hash": "b22210024679ec575aa5d629cbc1b86a2ea10b5ecb74e1c0eb468b65273be4ba",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple CEO Brad Garlinghouse Celebrates XRP’s Latest Big Achievement: Details - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDRUN3VCWHFHV0xxMk1NaUc0RTdLdUxOQkVfZ1RUVzhxTF9FZWQzejJ4TENDM2lNbWE2RTRwWXRXdlB0RVRTaXNUX29LQ3YzZS0wMjN0V1VENXp5SWpsU2djcnpoa0FIVjBCMWJKNlRhYlhtc3FvMFZZc1BkamZSNmItLVM4TEJRUjB0MHh1eERTWjVNSEJCMEc3bFpaTlhRRDk1dDQ4REtNWnBsSHB2MlJVZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:08:41Z",
+    "hash": "1ad58f9557c8cbe115d5d504d85ec7036e925b888202af37afaefaa7452bdb22",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase listed Toshi and Fartcoin; Here's 3 reasons Based Eggman $GGs Could List on Coinbase Exchange - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTVsZGExazRRMC1QMHp0ZFZxZk1aV0pSZ0lpYzFSeFd0VzVIcTZDRFdZMTY3YnFGNVNpWXl3TnhyZ2RmUkY5U2tSN1l6SUlxMlNMM3M4aHhCeGVrcEVvWS1ReENSenBqZGdyVWhqdm91Y0RtVWJleVVzenAyR0JQbmlmVnp5aVBnOC1DNVZfc1NId2FGRTFSNWU4azdnTFFCRFo5SU5jUGJuTTNNa1ZXRnM2anZCNC1Qb2xRNy1oYkxqUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T08:00:15Z",
+    "hash": "0f66e955d3a13bb2405e72b5e097e824299469da529d1bc69421b6058f9672ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "American Bitcoin (ABTC) Stock: Trump-Linked Bitcoin Miner Crashes Below IPO Price One Day After Nasdaq Debut - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZm9ZbEdZMDZJeFVQTGZxVmQxMkthVXZjcTU5U2JkUnNsWmhRd0kyRFRjYmVPaUUzX19aOHVVcUQxandJSVNzb2plc3hnZzJmWmRiS2NPNkJkbHZoTkpPb1RxMmk2cWt6a1l0bWFPTDVNZlNaZDRtNE4tRUZUNW93OXcza2Y3QTJ2WlFoWThZWmZIYW9JMEdEbHdHWi0yLUNhOThPS1N2bUYtWVB4NEQ3TmdEV1ZpWmxrVnI0XzltZVdmYkd3MURoWnJ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T07:59:58Z",
+    "hash": "5357908d9eb6bdcc12b53a83124283253b4fd45a27f0c5d372f184bf5351b021",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "1 Nvidia-Backed AI Stock to Buy Before It Soars 122%, According to a Wall Street Analyst - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd01uTzFfRHRMVU5jc00yWC1qaTdKNklzQS1RTkNkaUxjTVNnaUkyVlc3N0pnTHZhdTZHVmo0UlVuMnN5UmZ1NTFwSEw3QlI1NWpVWC03UGlxSnUxT1pXdkc1T3dsSkVRV3JIM28xWjFTTHc1M211c2ZsclU4Z2VGeVEwbXl2NDUwTndpNnBjZWgzRXFzcHBV?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T07:55:00Z",
+    "hash": "42d4fe11e2c3007e6ecb4f49b825518c99be1b55c769382154fcefd50e8d8e3b",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Ethereum, Solana, and MAGACOIN FINANCE: Navigating ROI in a Diversified Crypto Portfolio - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2JmMWw5YXBDWEJ0V0cyRnRTNmU5M3FoMEdLczBUdnpNRWhCUEk0NnRMakh2emt5UlJnRVBYT19DMUIzMnNEd1p5dnlHT0lQRkJCZFZJYVJaOWs4a0Nyb1FpZXpmUDJxUFdjREFkNU0xRHRDZ1BEdHRvRlc3emJCckF4ODUxSlNoQWh4aHpaWFN1NVpOR3dnYVdFdGs3MjR6dkxoYnNpV1ZTTkVfRnBOVA?oc=5",
+    "title": "DeFi Development Corp. (DFDV) Stock: Dips 7.6% Amid $427M Solana Treasury Boost Pushing Total SOL Holding to 2M+ Tokens - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUpfQkQ0bHF0TElLUmFzd1UzS2htMU9hRWR2N1lfRGY4MkhST2o3cDZaOWI1MEJSZ0lvcWhyZGhsaEpUNkRBMmF6OG5CUVdIcEE2Mkw2YS1RMFg5VjFGNlppYjdKYjhENHZsTGdqX0lSRFdBb28ycl96X0J0eThFWm5SWWJ2ekdrdlBYaktEajV0aExOUnpDQVhXWFBDazR6NjJJN0Y5V2UxTHRJcVlDRmJmRTRNUE41ZW5vMjJoSHc2N1F3T1dtVjVPUktfOVlsYXh3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-05T07:32:18Z",
-    "hash": "894a0de33d64c2cb9d88acc5654d57b0cdf9f32b1a4635eb1b3a9b87841d9772",
+    "published_at_utc": "2025-09-05T07:54:06Z",
+    "hash": "47df2319a015c18c0236cdea3eafdc9cbcc03368f47e7d1a412b032ca73b38ec",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple CEO Brad Garlinghouse Celebrates XRP’s Latest Big Achievement: Details - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdS1GdElmZlFHNzU1NEY2QVFCa3NQcVRucVJWcXNrejlDZnV3OWJuU0hxM1dOVmhJMmVjZ0hndkoyam5CbDdZckpIb0dTYWVkVWFjeDNPelNUTk13S3FaTEQ1aHpjMENQZmcyZzJuZi12YTNLZnlCM242a28zTDZ2TEVmcmJITEJCOG9wclA5WXdQYUNWM0RGVHBpRnpiOXdWbWVj0gGoAUFVX3lxTE43S3hsTnBTT3RMbTYxRzkxUDU0czZmQkFycWpwMENId0l0RGxEX3pvVXFoeXRKZk05bjRlS2N3cVNteGNzR1hWVUZsVWRiUHFXSHRQdGgzZ1NId29jcEtLTlA1Vzc1aWxpLTFNMDkyckEwVzAzOERVb2l6bTFEaXg1X0NhQklkNUgzMHIxejhYODd1RjM4aXY0a2lKdF9hZThjZDlibzZ4ZA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T07:52:37Z",
+    "hash": "7bf7e2c48cb5e1b390924d718c7049ba73fa0aebcca8ae0f48afddefb6fd5b4e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia tightens grip on GPU market with 94 per cent share - Fudzilla.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ0JRVTJhWUNKcXkwbk1jUjJZVmhOWFI4NFB1UkpoNFQ4RWdsUTgydm44Yng2RnZTRHZIRWRvUk9HeFJ4Vkg4dEtaRmZ6czhyOUZiRzlnNkVhYUVEM2NJRXgwZnVrcW5lYnJIbjk5M2FGMERET2lzcmNjSWNWWElrbWRmUUd1SV8yUlVaS1Y0TE5KbE1vVVNjcQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T07:46:55Z",
+    "hash": "cf263df854e8c3f6aea28b769f4ac9b191823709eb206a79271ab35b6b83714a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: XRP's Historic Patterns Hint at Impending Breakout—Patience Rewarded? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZWhSeXA4eWxFeFZHNzBlLWdBeTUxejFlV0l2SkwzMl92QXh6dkc1TElySk1TelJtTTNmMFdYbVk1ZkI3RE1JRW9lcDU4NC1nTHVCZXMySUdUTUE2Mm9QbEN0aG9ucEZFLWtrcnpFRDBWMHpLMnpqSE9reFk5RGszcXYwSmlOVW9mMXByX19nZ1ktWHQxaHB5OXQzUFpaXzRGMnk4M3hMOWV4M05CdXBJenhXOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T07:46:41Z",
+    "hash": "2bb61befe2766fd63fa3f78f8729fab430980e9c6d9ecbff354491e893ac4113",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana News Today: Investors Chase Real-World Utility as Litecoin Slows and Remittix Rises - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDZlTENzOU1aV1JkUUVfbWY0bVRoWDN2cVhLM0NUdnlDT1QtdnlwdTB4RXI1TkJQWW1RR3NCOFVJa3JkT1VISUpRUG1mRjlYUTVaRnROQlp6VnBKTEZ6bTA5SmtGeGNteEVyRjlNZGdBNWFLTHVpdFRqSVZma05iZFB6VUZNNmswRUc2Mm1zSTZBXzlwUW9CdVpBQ0N2VkNYRDNYY1ZEVWc5aC1Lalc3aWJKTnZ1N1cz?oc=5",
+    "title": "Solana Price Prediction Eyes $300 While XRP ETF Rumors Spread & Layer Brett Could Be A Strong Winner - Outlook India",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSy10b3dnQjVxUFFlU1VSYXRHR1NEWThOX2FTYWVXWkVEWDh0U1EyTlBLOG9feVZGZFhZUUw0ZV9xNVlLSTVoY1NqTXh6RzA1VVdWQjdpU0hKMjFMX282a2puSmdRREVSUjNhVjhOVW1rNUxPQ0FhcmVPMmlJSDRfdjl3V2dKM05pOG9QaEdpZXMxb2FEcGwyRm9WZDlsOGZGYVppN0c1b3RmRF9OQ3lNaENoUGgzRHZtZ1JYMF93b3FONnFLUmRPLXI5RjlPRlk3OEEwb0QtUXJsYkFDNE82czBkVkdtZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-05T07:29:14Z",
-    "hash": "6808281fff6b52f3c05fae92b00d3492dfa7e97ab698578ce47724b51d71b2ea",
+    "published_at_utc": "2025-09-05T07:45:58Z",
+    "hash": "4e31224bf9dd8751db6ad2c26d069e9bb20befc9219d16102c706a5bf5ae7752",
     "source": "gnews"
   }
 ]
