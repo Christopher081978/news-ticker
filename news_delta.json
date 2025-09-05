@@ -1,132 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price Forecast Near $112K as BTC-USD Faces Crash vs Rally - tradingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEwRUM4WU9RN1BLYjhOcXJ0R21oY3JQN0I3XzVCdGZQc1VOdVY4VUtVZWtESFI0N2JTYVgyM0l4LUF2QmNNRnZLT1ZtcjNySlNBT2xBN3NuUjRpX1ZlaThkZ20wV1c3ZjVHTmkwYUR6bGJ4TzFtVC16Zmo5cnRZUm1hNWhMcU1hQjlhanM1dXo1c0k1TkprN0VDQ3pHaTAzZndj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:18:06Z",
-    "hash": "fe2b8efe67ca926240b55c8421f0c3624394a9b749c57305f9fd68bd57677520",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: Institutions Eye XRP as Fed Easing Shifts Capital Toward Risk - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2cxbml6ZEtOamN3UjAyTEJNdDd5cGdqaS1TZ2l6bHY1bGh3VTNrTFEtTWJWQlpTQ3FyMEVoQlNEMGxqb2JDYzZWLUVnRzZNNXdxOXctcjc0Qkd3QUdhUGJITWUwMjVWTkxVYXdtV1ZJQkFwbU1OZW5ka3hqaVp1RFBuVEZGTXNYdVY3TENhY0o2akdnTkZ0VWE4dzJmV2xKdmNv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:16:38Z",
-    "hash": "96d052dd1febaf6ee48be1e4345c487f1282985aa62866d106976a916c939d5c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Solana Strengthens As XRP ETF Talks Spread, Yet Traders Say This Meme Coin Could Deliver 50x Soon - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXNsUktJT28wMkdJcE51VVdtdE5KbUtWVktVSlotTVNQN0VDT1FTVU1DOFlZZzNZOGxxYmFHQWFyQjZjTWFlT3RacUstUmFXbG1VaGlwSnMzdGVwVk45dkpNLWtpUHVudl9uNE0zbmJSVnpkY2Z4bHRhN2lsWjNBeFFzQU03UEpqWldTX2pScnVoOXJEUXFaTVUtMDJLZDVwVV9Ga2lPam9pekJMSEgtdU5ackNtM0hscEszR2JB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:15:41Z",
-    "hash": "b8260c7aa28f0c6818a4a3f03dfd11d40f35fd5bb25eab6d7fd9c18fa87d865f",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Solana Strengthens As XRP ETF Talks Spread, Yet Traders Say This Meme Coin Could Deliver 50x Soon - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXNsUktJT28wMkdJcE51VVdtdE5KbUtWVktVSlotTVNQN0VDT1FTVU1DOFlZZzNZOGxxYmFHQWFyQjZjTWFlT3RacUstUmFXbG1VaGlwSnMzdGVwVk45dkpNLWtpUHVudl9uNE0zbmJSVnpkY2Z4bHRhN2lsWjNBeFFzQU03UEpqWldTX2pScnVoOXJEUXFaTVUtMDJLZDVwVV9Ga2lPam9pekJMSEgtdU5ackNtM0hscEszR2JB?oc=5",
+    "title": "Missed MemeCore? This Meme Coin Might Be the Next Crypto to Explode - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV2xRUk83SUoyOEtzblFxMGRrNHVoeFVVMy1taExyRW5mODJLc05pZnVuV3BIcmYxUktyT2laVE5vemt2OW1EQ0hmX2Myb3dRSW02M2ZnYm5NOC05RFZ6TzhKQmw3WkxINlBQRlY5aHdxUnB0V2V5N29LZmpEVDA0VjdpcHlGQ0VMTDZUcFZrUzR3aG9tdEE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-05T16:15:41Z",
-    "hash": "b8260c7aa28f0c6818a4a3f03dfd11d40f35fd5bb25eab6d7fd9c18fa87d865f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Strengthens As XRP ETF Talks Spread, Yet Traders Say This Meme Coin Could Deliver 50x Soon - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXNsUktJT28wMkdJcE51VVdtdE5KbUtWVktVSlotTVNQN0VDT1FTVU1DOFlZZzNZOGxxYmFHQWFyQjZjTWFlT3RacUstUmFXbG1VaGlwSnMzdGVwVk45dkpNLWtpUHVudl9uNE0zbmJSVnpkY2Z4bHRhN2lsWjNBeFFzQU03UEpqWldTX2pScnVoOXJEUXFaTVUtMDJLZDVwVV9Ga2lPam9pekJMSEgtdU5ackNtM0hscEszR2JB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:15:41Z",
-    "hash": "b8260c7aa28f0c6818a4a3f03dfd11d40f35fd5bb25eab6d7fd9c18fa87d865f",
+    "published_at_utc": "2025-09-05T16:45:36Z",
+    "hash": "8bb179a793fda3a918b76d97a40b8f6d44457218e64bdd8c1321f1974fc25ab0",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Next-Gen Blockchain Scalability: Why XRP’s Regulatory Clarity Isn’t Enough to Outpace BlockDAG’s ROI Potential - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWtoeDk4UHZmUVdjUi04WWlZcExPdktYQmZoMkt4aXR5SDNFMWZnZFNvMFlQWi1faEIzLUJMRjExNWlOSnFaVnQ2TFVUYnEtRDloeVRvdTh1NWcwekNBSkt2azJkNDJ2b1NnNWo1WnFiRVl1M21XWEctTGZ4SEktUF9kbDdQYWZ1UzAyRTM2UlRFTVZhaHJ5RnRyTWFlS21QTzNNSF8zQ3dSRDVhSnAzU1YySlVKbk5lR1hN?oc=5",
+    "title": "XRP News Today: Regulators, Investors, and XRP: A $5 Breakout or Regulatory Hurdles? - AInvest",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1FWUzQtekVjMEFpX3gzdnlld0d5VjBzRFJBMy1YR0htSXg0MGFaZzRQWW12UmV4LVZScnpuRFFqOEd3WE04Nm00SFcyZ2tpblFTZmpkeDBieUI4V1hLNUM1c2VYdzNXTjViWkZvb3pDd2Jld3FzS3VDcmRCTWVvdkEyNXpPVWMzVDBPWVBmeFBmLXVLb0FDZjZQWTkzQi04d0lzeW1Jaw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-05T16:14:58Z",
-    "hash": "97412b7dd99b7fdd53916838d785dde05baecfed402f31c88f2dfcdfd772b7b4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Better Artificial Intelligence Stock: Nvidia vs. Intel - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXZkRGhvSTB1NF9GNFBwZzJiZlVwSGV5a3FleUxWc0NsX1hEWF9fQXpScDBub19ieS1mUGd5QlFFLW5rUjdYNUdOMkVtQkNNRDl1aE52dlNhVlJmSjJHRVhmeHhiMnNPT0xWY1dSd0lQNXl0bVotZ21oUDlGSzlHa0dyeTN4RUcwWGdRbmo1WmVuRDhyS2xUSw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:14:00Z",
-    "hash": "fc986ce9fd26a6c2d48b5beb330644c837525f6dfffaeadddd059b0f867769cb",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: Regulators Edge Closer to XRP ETF Green Light as Odds Hit 87% - AInvest",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeS01LXBvNDA5cHIyd2ZEakRPR0MxSUxteTd4V3RZcWlwTW1wR3FldUVYdTZ6M2xmU2VrNFNnRnBLcU01WjU2RVJzRnlDWnpiQUs1ekJLdXBXbXNHT2xBTnFKZjZjZkszM2sxSTNsZTFuQ1RqME05Ukt2b3loVDIzajZMZE1INjFTLUxBNk5GcVB2cnA0eWhxdkFTVG96Ni1Jd3NXU05yTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:12:03Z",
-    "hash": "c2f5a0bbe80b8a56fdb152fa68fb486afb9f43ff173325b1ea2518d6d6800dc5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ETH News: Ethereum Staking Queue Overtakes Exits as Fears of a Sell-off Subside - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDlOdGdWOEM4djhxZzQyRnUtZk5sN2ZSaEpoZUVna2tSbmwtcEpQYXQzYURfdFhia2c1YUt2c1Frb1NwcFdjS25jQWtDNHA0aElZbE84enZKN2ZZUDViX1preC1EVW5VemtOWGlRc0ZYb0dUY0d4NXZLdW1RNnAxckVZUEdQNHh1WVhYUW5BVW1idDEwX0JBQ2xfV1B1UFZiX3QxQnFVYjlKaEp3TFpJSS1iUWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:11:10Z",
-    "hash": "60d8c9815c31f1d518b8d5b5add9b9b32af8a2520944630004a60caff1f872db",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Forget Nvidia: Broadcom Is The New Face Of AI (NASDAQ:AVGO) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGRPOXRYcUt0V2k5d0cyYVBkSFVoRXJxd3RoZzZtLURmTERGODJZR1o3Wk1zcC12V1ZLSFJxUHZRU0gxcnkyeVA2clcyX29QcUhESUZNTExLeFVGa0czSFRGTFI3eHczV25PQTlGWldoeXhvUldKN05Nc3o0Q3R1OHE3NmZZVlBDcERCaERR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:04:13Z",
-    "hash": "31cca8ae818725db00821169bc33c7b7996a73d7e01cb0b6ea3940a1c6dafc7f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Fed’s September 17 Rate Cut Could Ignite Ripple’s XRP Biggest Price Rocket Yet - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQk5BamdOcHN4UTNMTGlRRjZlOVQxNjEtTnZjQ2otSVhEeW0yTHJ3bFk1Q1Vha2FOb3RibWIyamdpc3oxTjkzTWhMeGV0dEk3ZmkwemxVOFFHMnM2ckZyUFpVYTBvRmZhU25vRDhNTkI2YWZLTnJXc1pVSmkxSXp1WkxrUEMyMmt1eEpKc2FaZU1OYzdQS2taX3BUcWFOclJ1VUZ3TnVsb0YzcklUNTl0OW42UWdXN1JZOVpOaFNvbFg0djdpbGtqaFZWZnRsb0J4eDA4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T16:03:05Z",
-    "hash": "1c205db219cd9afff137b100d3c0f95606169e4bca43604f1dc01aaeaa4415f5",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Slide on Broadcom-OpenAI Pact Threatens $4 Trillion Value - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0dxWU5fUTlreGhEVXlnY19USGZtbVVuOHctb3V5S2s3ZkRkZ09pMTNTZElXTUgzcDZHT1V2UU5tWmhYREtacHRGbEVVSVpzdVhOLWV4YUxfRkppcmhmeWhHS3NRZ2tCaUM3ZHRhbjU0X3N4eTNLXy00bE1GVEJpVnRqSHBORGNndzYxR3E2cXBCM2RVbGFIYzRWaElTcXJIejlRNFhqcVBxY3p5b294ZjN3NG8?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-05T15:59:08Z",
-    "hash": "8b5242a69995c3576df60349048e89680c36bfa02581e07ec480885edb48f71a",
+    "published_at_utc": "2025-09-05T16:41:45Z",
+    "hash": "291d010b5301ddb3f413c3f7742070ddd4644bfb06fe4844f1dccf880a92bb11",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Inc",
-    "title": "Alphabet within striking range of $3 trillion as key risk clears - The Mercury News",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHVXbG1DVG05Nm5DaWsxN2lfRnVvaDZxc2tnOXh4WXExcTgzbmItc1VicC1fdTBKNU05U3JtQ2IwN2U1RXRsX0hqdTdKdjVKV29VOGtRRk1DMnNMbWV0ODdjN2tCU0ZmbXhablJmZFpjZnZsem8wQ2cxUHdZdDhFLVg5emprN2ZuVUpGWFlhNzNweVoxbks3ZmZmbGpNeUdXZjVkU2p3?oc=5",
+    "title": "EU hits Google with $3.5B fine over ad-tech practices - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1JsWktka0IzNmJEU1d6REY2cFdiMGV4YkpZNjZpcHFrRmlWZjRnUDFHamU3cDFoM3Z4SzFmcUFVX1haSW56Q0hFRkdqQXRuZDdiUGpVM3JVTFRhcU41dEdNSEdiVjNUM2oyNHRyUVBMdTRKM254ejAwcTBVRFdaQmR4bHYzREpaY1hJNDJrOVV3NTAt?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-05T15:51:27Z",
-    "hash": "11d8460d63b0b144f39fd2e2a7409c00c1a48645c55ec4e071e565472074f938",
+    "published_at_utc": "2025-09-05T16:39:32Z",
+    "hash": "963fdc0eeefe85909fbe8fcfe7c1f9d70190e5a94987384497b98ee7963e2433",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Slide on Broadcom-OpenAI Pact Threatens $4 Trillion Value - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPenlLSlJxbTVNVHhDZnN3SWlxcHNiNjRGT2FkRTlZWkx0eVB5M1RzZDQtWEctTlEwOFczZ3B0VExucTlyUFFBemZ2ekxQaUdfOEpaWlp4clVqSF9xZWxaOGhKbzhJLUhDYi1URU9BYWkyRXlKMGlfRW5BejZ3SnN2czJYYmlGUE42RDJDTVpxU0VXZEdFU3NWcEdDX0s4cUNMWkdEZEpJVF90NDJySDRraVVpOE01aDZyOC1JdkUwZk45Y2FOWFlRVEVXTFdkV0hYLWdNVFFBb0w?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-05T16:34:40Z",
+    "hash": "9030fea3dc58ead7c3507ceb841d1569e3e19d178b34f1ccbaf36c638eec215c",
     "source": "gnews"
   }
 ]
