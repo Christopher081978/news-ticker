@@ -1,12 +1,22 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Jim Cramer on Selling Alphabet Stock for the Charitable Trust: “I Was a Fool” - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNb3JMUTc2c1d5M1RJYTB6RFJxR0VhaWlGUUZ1Tms1NlFfdnhxOFhsQjlDT045T1k5cWg5d0RHc3IyZVR2SlFLREtwNTluUVlYd0ZSTWFMRlFONXE2Uy1BNjhzX1NkRV9WZUFmMnJPOHUwNk9odko0cW5KRDVOR2xsNjl2RkhyanpNYnFmMEFHOEZqUzNub1REQVQzalVHaTRKOGNwYTlDN3dzMTVoRFMyUWlxU2MybTNSNDhiR05rb29xSzFhaHVPMlUxUWJpSGhKa3J2OTdTT3ZlM3VlNVV1QTdZUmtfYmNrenFNYjg2ZmpzaFE2RWc?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BlackRock at Ripple Fuels XRP ETF Buzz - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWGhHQjR4YzRVNGVRT2lDMmNacVVfT1JZSEwwYnROeEVpaDdhVzBCajJRR3kyZ3M1cnRuZHlfTWpqelNUM0sxYjNJZE1vQ1B3bUlPUkJfYnlKdkN0d3JsM3Njby1CMnhlVHAzUnRlM3BtQkhGMHdQUUhvT3h5VVlEd3gxSnZ6R2M1M2tma3o4d2FqUGQ1cmFj?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-06T05:30:45Z",
-    "hash": "f5997a5e6267a10cbe013168ebb10924b67313db0aa002fcbc29abde426dd360",
+    "published_at_utc": "2025-09-06T06:24:37Z",
+    "hash": "1465c97edea84d92feabc3f5076da4a956ac3b8e28a86caf17ea61ff03f9b4f4",
     "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Bedienung im Auto: Sprechen bald alle Autos so wie K.I.T.T. aus „Knight Rider“?",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cerence-warum-autos-bald-so-wie-k-i-t-t-aus-knight-rider-reden-accg-110670533.html",
+    "summary": "Der Software-Spezialist Cerence und der Chip-Hersteller Sima stellen auf der IAA eine cloudunabhängige KI-Sprachsteuerung für Autos vor. Alle namhaften Hersteller wollen das System testen.",
+    "published_at_utc": "2025-09-06T06:20:36Z",
+    "hash": "3dd7560fd3d8f4c357dcb70bef0dae1b30bf70aabdbf13e8c644a9e869949590",
+    "source": "rss:faz.net"
   }
 ]
