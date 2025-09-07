@@ -1,22 +1,42 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: Analysts Target $7,500 ETH by Year-End if ETF Inflows Continue - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdWpYWTVEa2hwbkJtYUl5NlNjN2xPR3M2SFVvZnU3OFdsMzhmQjJvM0NLUGNySWctWXpvcTJKZmYtR3JyODBybFBYM3ZWTko5a0NDSmVNazRjV3ZfRE1xUHZfWWFxcnFyb1ZOWk1MOHZkNGswb29lbDVBY0ZKNkJoRTdYbWdWQU00S1docm1Tc1NfdC1XeVREWWx2UDM2NDRrWUJxY3A3ODdjYndkWFBuTg?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction And Bitcoin Outlook: Analysts Eye Ripple At $5 While This Trending Altcoin Is Backed For 20x - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMFd4MUxWdHJDelpJRjJPS1VYNUtlNExrOGJ5eC1YWVh4SHBoVXpNYUFGN0t2VF9FZUhOQjlVaE1zVDlHZUwtamEzVlBkdExibHhaVUcxTzNlLUk5bXkzNVhjX1EwZTJnNEZsTWdLZGpNTE9RQkpoRVRXNUVsLUdNX0V1LXdtNi05RnZrbERpYVRYTmZsRTQzekEwc2M0ZnIzMk5OLXd3YzhIRjJVQTNobmlBbFFqcUcyZWlhZjJ1WW1INnU4UGpucmhIeU4wSUItVWFSa053?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-07T10:38:46Z",
-    "hash": "560b2b0f8e79e9c61dfe1c5bf0758deaa72198c5ac13b2c9a5bbd1ab298f8bdd",
+    "published_at_utc": "2025-09-07T11:14:40Z",
+    "hash": "bb121138dd92d414bd9b255c49dad315a4d4101d8b0eb9d846ca37c2d9902f5b",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Drops 0.32% After Recent Upward Trajectory - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXhaNHd5Si1UUkZ6dDNWaGJES1JpT2U2b0ZyWTRCUGVOaFNqQ09ZTF9QbjQ1SHJlZXVBSFlRMGxzbXVOd3dya0FmWkZCalJWMTFKeWJ5d2lnR0VfSkFrclhTbWgyS3ZvRFhLR3oxMmlubWw4NGYzc05Bc2RsbXZUZF9GRnhfdzg?oc=5",
+    "title": "Solana Price Could Touch $400 In 2026: What Are The Odds Of A SOL ETF? - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmlTckdHbTBpMXgwRTQtXzdhd1g2ekotQ2VreVFBRFZIZVlXbEwwU202em5NQWowYlNWZmdBTmpIbmpkZUtkRVI5S3ZaN1RIU1BPM3k5cEpaN1BoUDByejlaS2h4bEtKTVI2djVvLWdISkpoVjYtQ0l4bWNZNEJQQjVGanF0MHJidGRzcE9JaUhnSndsT2k0LUNxbHJBN19J?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-07T10:34:48Z",
-    "hash": "303a4bd0e0011b14aa3f38e273aa80223bc64dc3d6185299095f2dadaeff8592",
+    "published_at_utc": "2025-09-07T11:10:21Z",
+    "hash": "db2dae8464516efa87f68463ee1465b0fe672e5df7b8c88488039c3ad768a42d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "GlobalFeed",
+    "title": "Anbieter von Eiscreme: Mit Magnum an die Börse",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mit-magnum-an-die-boerse-unilever-spaltet-sein-speiseeisgeschaeft-ab-accg-110674447.html",
+    "summary": "Unilever spaltet sein milliardenschweres Speiseeisgeschäft ab. Die Niederlande sollen so einen Teil des Weltkonzerns zurückbekommen. Was dahintersteckt.",
+    "published_at_utc": "2025-09-07T10:46:01Z",
+    "hash": "a1d96e1c606c50d7a6203c7f39aebd2a1df6c76eb1e4b3580a6f7e5c0164ac8d",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Update: BTC Holds Range Between Yet Analysts Back Remittix To Outperform With 20x Potential - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZURzekNOZXJIellOdlpiUkRTUkJuZFZleG9fWXpMMXJxZU1uTlNGU2VZYU1vMXFjYXp1TTZnZ1RvZHlVSWxwVTl5X3JTWnFYTmlSTDFkRFRjbFh3Tk1TbXJWUkgtNDgyWldTZWdFM0pxY0VKZTRPTWplOUxXMHN6SnhKbk16UmtZZUNLbWZ4dTR3WXVIbnUzYmcwcFBfaW5CY2ZUaXNvV28tZmFZZHdyNjBlSkxYQTZYZlhlRWtwaXp6OWI0S2lvTUFzOXJ1Y0w3VGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-07T10:45:16Z",
+    "hash": "dede6b6795c17eb739625f68a6dd281319411089c3ec4385accd210dec39d45c",
     "source": "gnews"
   }
 ]
