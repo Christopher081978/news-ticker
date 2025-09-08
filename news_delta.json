@@ -1,12 +1,62 @@
 [
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "BTC/USD Forex Signal 08/09: Bitcoin Pressured (Chart) - DailyForex",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDRvZ2FPeldzZ296WU52b0R0djZEdkd2S1J3UGpNdkhCT01xUGpNdlhUZGh1UW52bEF0OU5jLU5sLTA2THA3M0dzNWg0clhTdjA5VjdIb1Z2TFJ2bGl6RnpRX0RicTlSVS14MXJJVlFZX0UzTldOLUQyT0NEeEs1ZjVSeENOM0V2c29Nbm5OaXl4US1Kd1VsRl9fU3NCYmIzT25id19n?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin vs Gold in 2025: BTC, Chainlink, Arbitrum & RTX Outlook - Bitcoinsensus",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVh0QXVXMFotUzB2OGo4NWtyckwwVUhHMjdlQUl2ZVRHMjlyd2lyQUdjbnBCMllzVUJTVGRwQ2FEYWt3V1ZTZFIxb282ZUFxVHg0QlNEQlhpb1BWYXFEa0dZSlI1NkM1OERzVjh1TVNaUzluemhzMTdLODMzeGJZR1c2LS10bXhXR1pfX2hTWUF5cFJ1ZUlLc3ZFRG5mLUJfT1UtV0I1bjk5bkRja0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-08T05:39:06Z",
-    "hash": "3a7c410816fb820ec709f5c848a25b9c4761a8ac4b529911a62c6770129b46ed",
+    "published_at_utc": "2025-09-08T06:22:43Z",
+    "hash": "cf60a6b3a7492bdb5acb820b53eb7212d5d440b303cf8f6cab2f062371b73d98",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Solana, XRP, and Cardano May Lead First Altcoin ETF Approvals - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUxRaG9ab20tcHFXOGkwMXJwQkJMMlg0S1pFQlpsZjhXZi1KLUQzSE5NWUQ2dVR0a0hUX29mbUlNeWJWOFhGbFRiSkVPTkFNS2h6dl9sTFkycE9VbnhRMVg3cUJQSnZLa1BJaS1DOUM1bzA2WUZYWlpwT2s1X0JMVW42R21VcHBrOTVobTJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-08T06:10:22Z",
+    "hash": "4a8b0da94025b94b18b5b588e8c7b48d1e986058c5ec28f864eda23d70bb0e95",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana, XRP, and Cardano May Lead First Altcoin ETF Approvals - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUxRaG9ab20tcHFXOGkwMXJwQkJMMlg0S1pFQlpsZjhXZi1KLUQzSE5NWUQ2dVR0a0hUX29mbUlNeWJWOFhGbFRiSkVPTkFNS2h6dl9sTFkycE9VbnhRMVg3cUJQSnZLa1BJaS1DOUM1bzA2WUZYWlpwT2s1X0JMVW42R21VcHBrOTVobTJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-08T06:10:22Z",
+    "hash": "4a8b0da94025b94b18b5b588e8c7b48d1e986058c5ec28f864eda23d70bb0e95",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Will Disrupt SWIFT, Says Morgan Stanley - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQall4Z1N0UDFHWlBrN2dMLTdqdTN5c3VUMjlIcGVGTzROY21KWGxZY2ZBNVV1UTBENnVuR3I0alpTRng2RkR1UFZoVUw4UGVpY2otT1p1S0NsMTNKbk5ESHhyT29wa2thdFd5T0FZeFBJcl9EaWlQcTd5S0dhSEVpTGRueUJvYndrc1VCQ19n?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-08T06:06:33Z",
+    "hash": "17ab10c2b3c1f65262b2e1ce4fc9887e685b6f3bd98f4768fbbb6d89b32db558",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Best Crypto to Buy Now in September 2025: Little Pepe (LILPEPE) vs Ripple (XRP) - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYlhxcEFNX2VqT1prZUpZSkgwMHNOcDhRR0hEaV9DVy1pZEYwZG1zZldRbjM1Rk5wZUZQOG5QamZEVEN0RXF4X01RZDlvYURFUG10cnRISzZLTTVmUUtvaTVJSlA2SXVpVjkxWm1CMnpjV0stTmFiM3h0aVJNaTBaUE1GODZUMWVIa0Y3YVVnVnZMM051bWR6Wjd2QXNQcjRUeG9SRjNMeDM2OF9yRVczV05zNTJUbzl4QWtnbFJLOW91S1FDYTRET1lOd1pSZTF2ZGowZmFkYkNPR3VfNTA5UVIzVzY0VUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-08T05:59:53Z",
+    "hash": "0f54842190b429488500fdabd043d9d5b84e5f24523b2daedb303376ae4e8f2f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP and Solana (SOL) Signal Bullish Strength While Traders Hedge For Downside in Bitcoin (BTC) and Ether (ETH) - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ0dJOUt3eWpUczhxMzZFdm1fLUs5YjFHdmxiVUprdW5KLUpyVUlMM3hjcWlqTkNFdFAtY1FRTTRzXzJNakxDRVpKbC1qQTNzR3hsbnNWTHVSaEtuMjRVNU9ZRlRSYVk0OXJxRDFXU190alRQZ2dhcWVlSWJXUTBUeW5XZjlrR1VZRjBHdm40Y00wanlkYkRJVEQ3cHNZMlVmMlFkZkRKR2w0WklZYzJKdC0tRWo2bENlVXZOVEtSX2U4MmliX29KM3BGbHJEdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-08T05:50:54Z",
+    "hash": "cf53825addcd2dbcd0895e359f2754d1dea0ab8717ccad89442723c59d5ea3ca",
     "source": "gnews"
   }
 ]
