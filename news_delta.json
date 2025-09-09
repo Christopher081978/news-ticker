@@ -1,22 +1,252 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Inside the S&P 500’s HOOD inclusion, MSTR rebuff - Blockworks",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YZkhhQzRUUHFKMXhLVzRwbDlDR0p3TkZqNm54ZXA1eUdZZDJvdjRBdG1FSGp4QUZyQjhKZUlIajN4b3FfZ3J3dmIzSHdWLXRvUW5rdExn?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Stock Is Rallying. What the Charts Say Comes Next. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQWdOWlVCSUVlQ1lPdkxzWmRYWk9MUEMwLXAtZ3g4R21ib3gzRlljWUlnOGtGQ3BBeE9PYUlnYlRTeWtjOUR0amQtY2VvNG9mQ05YdDUwLWhYNzFWSDcwT1ZpRXItbm42Z2FCbzNUTjJrUXMzZkJHb0Mzc2cwam5ITEx2Y1hVZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-09T19:37:54Z",
-    "hash": "941be4d23d2cbfd98490afa175671746ca468b5663baef713165a2bcd31808b5",
+    "published_at_utc": "2025-09-09T20:25:00Z",
+    "hash": "88b81b8cce5454b3edbae9d7e2f896e3eb6ec639e5a898a471fa051064df2a21",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "JD",
+    "title": "Clark Capital Management Group Inc. Lowers Stock Position in JD.com, Inc. $JD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUNaYlhRdWhDSkE4NUhkcG1RN3p2cXJJQ1Nmd2dWX3l4RXJ3Szhvek9Uc2k1RzJTSmpGYnlSc3RZVC1FSFNrX3dNTU9SWXVnY2ZGcnhRMEdIS2JrYXlJRHY5RXBRRmI5RFh3dmdBLU84M20xT1RtaVVmSG1URUFHVWdYME81MmtwaHVoNWxBNlJWa1dvYnV3bFpkdTZ1WjRla2Z6eXREdzk4WVN0ZWRQV0ZKdjBiOEZNaDNfbi1jeFZnSzdRek94dFAzWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:19:51Z",
+    "hash": "a0613e64cd924d875e0b6ce0e9bf8583954f72d3339de49b5dd7c7f142bd6e5a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Dogecoin Price Action Points to 77% Rally as DOGE ETF Deadline Nears, But This Alternative Coin Could Soar 13455% - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYW1JdDZfMTY3elFpMWV4amx0bUZYSE8wV0RSd19NbWFNLVNlTFc3VXVsOHYzNFJGdUN3b0c2MDRRYmtPX2FXN2thTW9qcnZVYl9EVUd1VjJqYUx4Zk1zTDg1MVJPZFJ5QzRxVWpTM3otTUJiVVVfdmllOEJSRHgta2REQVBoMjR0RGtsdFFZaFNRVEJHdk84Ul9ra1lzUlRuQWlwTlF5MFIySnN1RzNEMElfaFlxenhoR0QzV09jY09QT1lDNW1VeUdtRWNyRV9QenJZVHVQbUdEdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:19:30Z",
+    "hash": "d442fa7f4ab0136c810700dd8463225b90366536fdb2f32d6a65a2bd34b63050",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast $4,280: ETH Risks $3,800 Pullback Amid Geopolitical Shock - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzA5dEtNeTc2SlJoVjRiVG45NVh0SFpOVmdEMXRRa2t1d0ZXMVFSWURXelp3TUFnYVJhUTF3UXpqeXc2MnBpRFlmX2JrZ19ZVmhiRkRqa1BTRXRGRXliaTNNYUlOdFI3aVA5dS1Qb0xGN0J2WUgtU1ZiYld1Sk1Vc2F4N3AzdGcyMjVNYUMzZ084bmNUQUcwdlRyOWs2ckVrVHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:11:51Z",
+    "hash": "64064a451c89e62ba318cc0a71cacac8971ef736911969476b8b97e021c1176e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Breakout Above $210 Fuels Bullish Push Towards $240 - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDNLWEkzT1haTFBkVjNydDhTZnQxQ2JuUUF6Q1pVY2hiT1pnR3RfQi1FQnBqWUhCd20xTnZqZWJlYkl6dGsydEFYRjZ0VDQyOEtlZFBsZVhuVHBLZWkxbFlpdGtQb3lzNEkzUW1mNWhFcDFITHdFOTJwZWJsdkRjcnAzT0RhU3M0R3gtdk9idHFnX0ZDa2ZrRVBJYVVEZThoM29QT3pub1ZsSGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:10:53Z",
+    "hash": "77f64fcc40a113ed0a46af89e348a5f2ca5c88cb36bce4600d9fc497dbf7440b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Staking's Double-Edged Sword: Explosive Growth Meets Decentralization Dilemma - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYy1qZHRxWGppN2FBUFVKdm91ZlB2bUNaWWN6MmJlektIQUZvemNPNnVXQzhYYzh2dFpkS1dLWFhuQmZpeWZIWTJjeFZxSUx6SWtDc3paOTBJX2pnZnpyRHQ5b1lCYWJadFhubzlhb2Y3Zk5hRzNobGxYcTFWZ1JGMjJMQXdxc01qNVBpZXplc2Z1R29CaTB1MktrZnNZblN4NGZMTHpCUmVYY2xHTDEyZzRzUmtXckJwYlZpYUY3RlpER0FfcDJsYzUtMU9OUWloYlRrU3JNT09nTk96LS1GWWZ4V1lqb3NBQjNLdA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:09:00Z",
+    "hash": "772268a63ea94cafc15e64ccd387b70b46a392b078f5c6aaaf32139f16ab76f6",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Is Meta the Next Nvidia? A Deep Dive into Its AI Potential - techi.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HbDBpSFc0a2ViTjdCVTdLbWVoZHpKUFdjRGhzeUpuQWtDOGNYVUNIYUdkdWt1UDZXZkNGNlQtR0dnblQ3RUp1WjFXLWZ1dXBmNUgyX1V6Y24wbjY0ZTZjdENvVHJGTGo2T1k3bi1ySUF5R1U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:04:32Z",
+    "hash": "58ffcb9aea5d7401d0db7c780aa42b86d46b6a79f015678ab1977e2ab2ad3d1b",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Bitcoin, Ethereum, XRP Slip While Dogecoin Holds Steady During 'Classic Correction' - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOTZVMDJKWF92a19rQkgzSUJXYnFuNnlISm1EMXhkUE9FUFNSa2FpdzZlZmxkYy10TFMtZjdtSnBwTmV4bmVwYVI4Smh0VGpSNU5VdDRtcmxJazFNY0VLa1BBWEFSdUNLc1ZSVWRvcGd4ZDRGQmR5VXZjUDRBVDBtajFtU25PYTRfb0gtVmJjd3JBd1paMXdycjdWeGdnQnZGYzFTWUJVOVJNc3VtSDJCMEc5X3FtRFZHV043TVRnd0xQbWU1dFpXcjYwYzlubC1RUWZiSkJRWFk?oc=5",
+    "title": "Ripple (XRP) Price Prediction: Experts Believe This New Cryptocurrency Can Recreate 2017 XRP Rally - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2NGRlUxUVBXTzVyNXZYanhHSm1iQ2dVY2pMSGx3RXVYbzFlY3RrWTlYX3R0M25jTnRYelNTY0MwNUhoamprV2ZXUjBQNkhXNUNncFNpdlM4eFlVT2tsRnpjUFBlU1NUY3NRbG5QdXA3LWNjNGVtUTc3a0J4ZFE0R0Rua3l2d1l0Q2pCeVZacUlYaC1JUm5Ia29nTU0zeTA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-09T19:27:22Z",
-    "hash": "bbb5feb784c6ff4df578e4b03fdd393636e1cff6c219c0f4e4f0933b80e0ca20",
+    "published_at_utc": "2025-09-09T20:04:00Z",
+    "hash": "761c2c1afb8f87a1e8baa83daedf73bcef72b344e58b1fd3c2ba607fc25f0995",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Dow, S&P 500, Nasdaq Records; Apple, Nvidia, Nebius, Eightco, More Movers; Jobs Data Revision - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ib2NVXzVPYWlqc1ppQ1VKcDB0blQxTHFkMXlpRmtsd0FkcXNVNV85SHhydHFFQXI1RXhFbTdHYm5vQUxieXN0WW01RHYtX0pxMjMyd01OWE9pVE45WWUwYnl4U3lQOHhING5NOWVHTzNjckNjQ1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:04:00Z",
+    "hash": "c77e3ab9892e4c19f6287274f0ea99024077732a811bd290f35286baf9772979",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Why The Market Is Dangerously Wrong About Pfizer Stock (NYSE:PFE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaU51bTRtSWJVYUkzMXBmZzd5bTEyZElFd2ZUU3BOMURPZTNYWEdkS2Fid0M1bmY3QlZlLTNtZEE5SDNBUzJuQkVhSVVadzZsX0dpZTBxcXRfcG5lcTAzSzN3SDNrNFRXWHdZVlBMeDZIOEpyWllEbWlXYjMzZmF6YzVxRDVWODBUVnhrXzhEZU5NOTFYQi10dDRWQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:03:01Z",
+    "hash": "d38d5386d10f3db0c14496ae46168c2a8c842d0dc48d11aac594cad37f0e7794",
+    "source": "gnews"
+  },
+  {
+    "asset": "VanEck MOAT UCITS",
+    "query": "MOAT",
+    "title": "What is the Moat Score of ZimVie Inc. - Weekly Trading Summary & Long-Term Growth Stock Strategies - Lancaster City Council",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODQ3c1Bfd0ZPSF9UWlprY3h1RFBkTnBNNjlDNHlObWI4bVNHOE1xcWJSS2RncXRYMEFaMFhZdkhsanFnVjJHVzNnNmw4bWxrTTI4cU1wRkkxbDNEX2l4RUJ5bERPR084ck8yRlUwSWNYdTU2bGFRcTNCb3JSOE5FMjJfWFhIcXUt?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:02:46Z",
+    "hash": "9a8613849169e3d2caa012e45867e413f80f153a0ce0d7362d7e1fef57df2a5b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price Prediction: Ethereum Battles Resistance at $4,300 Amid BlackRock Sell-Off and BitMine Buy-In - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMEloRFFsRFc1N0lfMnJWa3U2bkJ5TFEzNVprNXpuRWZKTkFtZk9KX0RIa0R4WVM0UHpTc00wTFVjdWE5TFlhRGVOVWlwWm5YZjMxTlpuZ3RhRnJNRDk2SG1wa21OTGJyTjViZzlZZWRucDl3TnptUlFlYjN0elU2UnY4U3ZTX3N1eGxEbW9aOHN0Vm5WVFpTWElOZlFHVEc0MWVSTF9EdnF4cWJqTTEzRkV5SV8xTGF2RGY0WHJTTDk4NVRNVFpZQUhUaXhXOWJTQ1hPRjAtUVlvZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:02:33Z",
+    "hash": "349d73b3c4f1596b2aa56d9e54c0723f6bec2e859766943c177bfc3f69f8fdda",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Aug Swings: Can Alphabet Inc. expand its profit margins - July 2025 EndofMonth & Weekly Top Stock Performers List - Lancaster City Council",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGE4TEs0em16TnJuT283cl8zLWE5OWE1VjFFYXhmRURTY3RCMnloWGZSeTdoX0ZzQ1F4V2hCSEg4Smhmanh1RXQzeVZERzd0bUZDWUdHOHlhV0tEVUF1OU90ZXBDSlNTWXhZZUtLNUhwNFRYYWdCSWhqVUlNRmxOZUhUXzA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:01:40Z",
+    "hash": "9a1f513b65953042d9df586a2c9de8a2c4b36a75118abc7dd7644840177d68c4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Updates, Avalanche Price Surge, BlockDAG $600M Target in Focus - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmU3S19XbWh2REFFY0dQVjRlVnQ1LVMwQXhLanBFNWZQXzZvV1Z1cHBwakhmX2pGNXpISkV0TmpIU09ublV5Y0NKRE9LanZwU3BsMW1BeFE4ZGFia2NoVENoME5JSVRyWmV0clJjeDFkOXNCaWpxdE1MUlZzSlZlOTc1THBZTzhic3loa1NZWkJRbFZXRkM0QmllMnpBcHVJbFVUV185aG5DbHFRMjltNUktNEw3S1RJSnFCZ0x4bUNiZVJjbEdxVkFVMkJWaHM1eUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:01:33Z",
+    "hash": "ed342c284cf7a77ea88b37ffd324c85be8f569f5a5c146d3a187346e55fa3099",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin wobbles after shocking US jobs revision: What’s next for BTC? - Cointelegraph",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU2Rhc1lldDBSOHhIbVhESXFZMEhqOHN6ZTRvYXIzdURCU3hTUUZMNXh4MVhWUDV4ZURNNURyM1ppRGhfMFVaci1sTjZIUU5yMldnalJtWlg5YnpINktKVEZ3T3lyV0RGMWVnWnlST2Y4SWMtWEhra0tDX3hQSnBzSHVLWC1UNG5mMllwelhJbkhOam9QR2dvUUVpZnBxRGM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:00:39Z",
+    "hash": "aeaa15fb83e5cac7bba5a611e7f4c1a658335bfb7eb74a6c749460646ccb925c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: How High Could Ripple Price Go if Apple Announces $1.5 Billion XRP Purchase? - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjZ3SDJSMFl5LXMxWFdmMzZWZW5YOWpLSktsdElVSnhzbWsxVzFoNGdial92MC1xa1lhUFdnX001TElFWU5Edy04TGVyWDVBQVkwT2h6ZVZsR3FuTElvWXZ2OVdoWG1HX25pWDE2QVpDQ0Zidzdrb0FiMUp3N0xXQUlmbUJlZ0JReG1aWFlLN0RpZEJnRjVkSHhIQmg1YzFacEJIQmM4TGZ4WDZET3dXS0FMV2JRMnhsV2dmS3loVWoyRmY5d2Izag?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T20:00:37Z",
+    "hash": "faa6c1eaadd5287dbf3358012553e39eb4c52d2bf89c79f857cd9ba2610e5154",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia-backed startup, Reflection AI, pursues $5.5B valuation: report (NVDA:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTnd6ZDR3U3I2cGFKbHJJVnlHeGhfV1VreGh6eE1oZ3o5cXN0UGZkNndZZVVqZlZKNjJ2cDltU1J5WUFpelo5WjlvRjZvWTZSa2I5c2o5M2NnZG1hMmVxWFM4TlJRMEtZZExPZHVmNEk2ZmtTMFRER2JwNHVHbGtZMFNkM1N6Yl9LbUZLOUFyMWRFV2xpdXUwU19ZUUg5RGRYdVQ4U2tB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:58:46Z",
+    "hash": "7daab20dcb69e0d7986d523c1e9c278949450356b77503c166719e23d40ccf72",
+    "source": "gnews"
+  },
+  {
+    "asset": "VanEck MOAT UCITS",
+    "query": "MOAT",
+    "title": "Trading Recap: What is the Moat Score of SCE Trust VI Preferred Security - July 2025 Momentum & AI Enhanced Market Trend Forecasts - Lancaster City Council",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk9wV3l1TDdVcmljSXlVMDNhWmVtY1FOelhqejFreEhpb09MMVNDMll6UDdzZlRqT3lPeGctaF9seUZpMTF3OGFJWE9FX2FJQUFxLW90VVotOTVJNXlOazJzS18wYlZJeGJJVjlyY1JKVVFJTm5aRHFiMVpYcG4zVTdxWGNDZmlkbVBncHI3QVQ4dnIxLWpv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:57:48Z",
+    "hash": "18abfa45aecf00dabb0c677f158ca765650974db4ce896fd2098dd8be83a724f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Trading Up 14% - Still a Buy? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWG5PNnVfeUNJdWticWRFdk5tYmlCZWJfSk05V0o2VU0xTmlpY3pIZmVUQ1ZMajFJTGRPNzFWZFNPR1JtVlE4UTR3cV93VWxvSXRxaDRBVk44TkFyeE5jSGVTZTg1VzBhd1lwY2dwQlFIX0FsSVM5WFRQMnNTcDJSbTRSYVV6Y2k5V0d0T2wyR0tyS1VVMWRTa1FhRWtoRy1nZURkdWEwcnBERUky?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:57:17Z",
+    "hash": "eea67cc92636dd267dda96a1814058032c6582be6cc371e3261d103810d39a55",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Google Cloud Forecasts $58 Billion Revenue Boost by 2027 - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXRvYnBYbmV5dEdxTlUwUTd6OTdjb3N4aUFhcWhEeC16WHZUdHdUci1yQ25VaHJ2SDl1aVJUeFJBUmF2Q2RMY01QWWJEODRYMS1aTFVGc3czZHRBbDNlVEpaRWs2NDE0X09QcjZDSnRlMVowRXYtdkhOWjlGalptMGV5NGpjX3lyTzdzZDYwSXZlZW9kVFE4azZfN29Rb2ZvU1dWaXdsaWRwZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:52:01Z",
+    "hash": "90955c356a435197586b6b16ccc607676923ff9e314701dc069e206cf81af6f6",
+    "source": "gnews"
+  },
+  {
+    "asset": "VanEck MOAT UCITS",
+    "query": "MOAT",
+    "title": "What is the Moat Score of PepsiCo Inc. - Dollar Strength & Risk Controlled Daily Plans - Lancaster City Council",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fSGpScnBGaFVILWhuS3NVMkxBY1ZwV3N3VVFlbFhGNTQtTVhzamxaczNXNVZCblMzRHdVekVFRjVTZTN5SlZsYzNUWWdVdk9VaDNXLWZnX2ZnQ1B6RlZ3RE5Rb281NkNQMkJEcXdMNjc4UzhJM2liNWdUbFlIZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:49:15Z",
+    "hash": "58bc0efd7fb6fd7c3bb54f1519a2c0046655a455d2feae3f92c8688c474cfbd0",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth jumps on Star Ratings, Humana drops (UNH:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWGZrNHV5emRYc2RDWjY1MWlVbVJqUk9ibVFhaVk5SGpNXy14ZmdrWHI1VVVKeWN1dWZ4OTJUenJjdlVjNTk0cm5FbjN2dG1vekpLUXN6eW9SRnp2ZkVkX3FfVXRxMXlJeUxFcEliUkJZY3FZX19RcUZTSVk0N2t1VTRNanJuQy1HaFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:48:06Z",
+    "hash": "d9856bf91226ed22f2cde7eac012e53c9f061d1c7e903dbbfbe1758e57f25b0c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia’s Rally Is Facing a Reality Check: Should You Buy NVDA Stock Despite Citi’s Target Price Cut? - techi.com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SS1QzVVVTZktYVmFIT0RoWUNseG1kNDBDNUtUTWxjTTVlcWpqd3JfNUpVbHpNY1IwSmxkN0dWeFFjUU9hV2VQck4wbl8zbFk3aEg4d2VLQ05JSFNRSGVhcW5FWnctdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:47:37Z",
+    "hash": "566875e094a2ad678e342f3c360a91b870b5fcfea2d8aa3aaa64f5a30509a4f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana whales are pumping small new meme tokens, creating fake traffic and volumes - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVpRWnNhQkxpcE1oYkYwSnVUM3hHRjdsV2hMdnY0Yk1Kc0R5Wlp4SFl2LW1xM1gwTXJwOW5sdjgzbGp2aHlza2t5ZURGZDNZU2E3LTBfTWh2S2dVNmU2S2szMzV4Nm1jUlhFcjc0ak5zdTdud1NsTDAzdENmdG52MHJiRU1Gc2dnSWF4QUE1TDY2QnVMNEJ5ei0wa1hoczRUSFctanUtYkFMNVdC?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:44:41Z",
+    "hash": "86048bde6e9a75d12608b907b8aadce0c93fec2db8bf6fc4aeb48349fc9ad623",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "‘Broadcom’s Gain Is Nvidia Stock’s Pain,’ Says Citi’s Top Analyst - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdElhMF9abF9FZ1ZwQUVlaVZNcDNJcGRQNWhxbmhnb29nR2hHVWk4WFp0ZjRVdWp4Q0JCZGl3TUZXUjZPNVloRm5ZQ2s3MjR2YTNQV3h5LTZ5Z0NkZll2LVZJN2ltUmg3Ry1obkdRRzBTUDdSblBkMFREVU1jZ1ZLcURtUGt5ZFYxR2hURHNwWmVlaGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-09T19:44:20Z",
+    "hash": "7e6448b150cc2993346a4af8ff9cb8c3f9331ce6caf2891e2ca21632efb9ec92",
     "source": "gnews"
   }
 ]
