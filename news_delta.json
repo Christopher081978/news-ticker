@@ -1,272 +1,82 @@
 [
   {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "State of Wyoming Cuts Holdings in Pfizer Inc. $PFE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRUJlc1FkZG5nVlBNUU9MUGpxUklQV1pHXzNVM3pVQ0lVTGpzTjE4UFBfTkF2N0FyRl9vdWRMLXphX25VdHFCUFh0djBBRUJ2NEo5UXVWVzFaOFpuZ1RwMHF3T2lyb3lUUXI1N3FUT2x1dmlrNndBQnlRaDE3OEJhYncwOU9BZlNnS2tZVjhDUmZDNXN4TUktSjJ1QkhaQVk4Sy1QU1pGNFFyWk0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T01:50:41Z",
-    "hash": "bd6770e2893edceabbd27caecafbb90b4db0d22631d1fade4653b4bb087aff66",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google’s AI Strategy Powers $10.3B Cloud Revenue in Q2 2025 - WebProNews",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGk3WVptb2pPTEl5Vmx3TU51cGczM0U2SHZPTGg5UEdPekdvTzR0M3RTSy1QVzdBcFNhRTBHWFlUX19pTm9KQkZVOVVvaGcxanJJRGF5VHdkbF9weVJRdlFSZExXSXM2ZTgyZWtNSm52bU1DbGFDelNlUDVsWmpzNUZKOENsTjk3NGI0UTBB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T01:49:52Z",
-    "hash": "5a8a3567bbf2e477d736aaefa1abf71763919725cf8493ada11f1dc3e797c21a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood to Launch Verified Copy Trading in 2026 for Safer Investing - WebProNews",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHp5TGNzdWZhbzF0UnlPMVgxVl94c3h4eGJ6UEdSWVNsMXZDNjdxeExwS3B3dHFFX1E3Q205aUtxcW40WU9SNWJfenktM0FxcWhLLWMzNVBiMEcwUXVTRkI4bkt0WFBMaDhYZVhjVThDM0tFSVBUUW13Mk4wU19rT29DY2hlaUthaG52cGE2eUFwemN4UWQ2eVFvMmZFUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T01:47:24Z",
-    "hash": "eb44a41c26c6f2e9f0566b142d14f43af7159dd41a4cb5c596d93aa3a62b2220",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Pepe Coin Price Struggles For Momentum While Crypto Experts Call Layer Brett The New PEPE - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHZyUTRyQnFPeFlJcDJFdlh5VHhNamN1QUxZUC1XT0FXaHJvalhfRWZXVGdGMXVwX2lGTWh1aHh4aUx2dUt2cTcyOEdkZUJmdmo1ZVhSanVFVTlXQWV4MFlZTlB2UHM3dHNMaDlReXo0Rm5iLWNDWXhRaDNlMlhnbVNoQmRiZDdvUWJBVEltaS1GeEdZaV94Y2ZEb09lckV2Z3FtR0pJa2Z2d2lwcEJzTWk3RVMzOW5T?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T01:46:30Z",
-    "hash": "c959e86a9370ac06dc2b4771f55e9b529135a4d1a53ee74f3cc0ce03abf1c974",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet’s Google Cloud locks in $58B revenue pipeline - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tMzJTWnRHcnliUl8yUDZneUFXTTZNQ1YxYmt5V3pKVjcwNFFGaTM2emdUTFE2OVQyMzVDWC1kV3o3WXdxMjRIV0FXOWpnS01jZ1FUOU1nZEhzWFBOdzJJWW9WN1hveUwtREtqOEdhY3FJeGJWNjJaZmxEYUxYQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T01:17:00Z",
-    "hash": "6a9b757bfe68895d27040854854ef926717100b675930746843ae6f150db4726",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "285 Million Dogecoin: CleanCore Solutions Makes Historic Treasury Move with Robinhood Partnership - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVHYzS1hYUG5PY21kVkdYQTRZN1RKTXZRcG9OZFRQTVY1OVVDMGJmTlJuaWFjUUdETlFlR2ZHZGd0LVF4bHY1X1JvanEyRmVpRVBUNGl5TTNkeG9ycUhqbU1hdkpDOHBXTFNxeEZDQjl5UFJGdXJVZnQwRzdtcUhZa3BUX1c5czk2ZEE3bklVYmVUUVdfYzhYVldhS1dXMER0X0JTOVdWUEx3a01ESWtQazEybWd3THhBeEllLWxmUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T01:10:06Z",
-    "hash": "cdff910de621eb2b86305a9edb3ff955fcb332ed299f90a97c9f051e4761fc61",
-    "source": "gnews"
-  },
-  {
     "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "Why UnitedHealth Stock (UNH) Bulls Are Preparing to Charge - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHMxeUpzTXRJZG9JXzQtelM2LW81ZG9jUzlPQzBWU2RaWU1Vd2pacm9UanFtcVNfbVBuNWRPVmw3dzA3cW9zUVFWeFJEVkVLS2VMS0oyandZbHNoa0lOTW1GeldVYXpPWlJoc2RhUDV6ODVGQ1ByQTgwYlUzQnFWSk11Zkw2Sk5FMGowUHl3cw?oc=5",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Stock Soars, Presenting Potential Value Opportunity for Patient Investors - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ3ZzNDM2X1kwRWpkeHF1cG4wcC1SZElvTm5ZMjlNRU1JWEdqX0otel9RQkdmZXBfVzVMUkdWY3VOaVJsb3NhNFV2SGJDd0UyOU9lb0F5TWNEajhOREMtRXp3OW5vWWNOcndoZC1hY0dZNlNfWWNLSGsxRFFEZGktVVFBMFZKV3lDYkcyTUZiVVlEdTdEeTc2eW54STJfdmI2OEV4TkxYWTB3QXNxb0hEYTY2SkZrazUzc3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-10T01:05:30Z",
-    "hash": "d95109cd06e1d10fd497276d84eec8b70b27a6a36be190b74aa9a112cbaaefec",
+    "published_at_utc": "2025-09-10T02:50:40Z",
+    "hash": "0f541a3d1a0dee6d4e216f8038c1ece9b8347431848504ec7b88f6e3391d50a7",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "BlockDAG Hits 3M Users Pre-Mainnet, Solana Took Years! What’s Behind This Rise? - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdVg4Z0ZOYTVvZmR6MkRCOHRMS2NPSVNYS2llQXNGOUxfbVlIZFBSZUdWZF92cXFWU2ZyU3lqQU1WMHpXOFBMZ3A5dk5zeXlabUVlQ1B0V1V4NTVFS2RLcjNrSHE4OGZRUDVWazVpU1N0Z0NLV2p2NDJlZnJKa1ZNT3dVQWNaMm45R085bV9JN1ZORkpONzN6VTZXWm05TDUtUTBpNzZsQWgxT2Z2c1cxSjJ5VVN0TXNxUDlsN0NR?oc=5",
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab Pitches Mars Satellite As First Step To Keep Astronauts Mission-Ready Before They Set Foot On The Red Planet: 'Talk First, Land Later' - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQXA2UmZna0pMWjUxRFZGdVhucFJfVDRwak83T2pjcXZySnh4TmlKNUJhSGZKRlZsTHN0alMtS015T3pYQUh4dXJTSEtIX0NCd1pMZ002ckQ1S1ZYUFpjQk1ncWxSYVNZeWVMREEwaFV3OHkyVXFoZkduMlY2TmJ2U3NiZ3RINXlXUTdkZnNWR2RhUk5ENDd6QlJ5eFYyUXo3RWlqcm9LeENibkRvSjNhLW5MYVhPemJKcmNtS2Z2WWJIYWp6aVU2Qk9ORlFsSGVEMHlvd3ZoR2JOU05qU0ZDMVI2V1Y3X2QtLVpjYWVXRXp0U1UzazkxaDFyT0o1OUY5V3p0ZlkyaTJuQlk1YUZTUUJocHI0eTIyWW5FNXYtcw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-10T01:01:30Z",
-    "hash": "96cdc7cb5ebc4c48bf835e391edcd54f51ef9b5bdcced424396608951ab88fc4",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ethereum, XRP, BTC, and DOGE Cloud Mining: Earn $21,200 Daily with ETHRANSACTION Contract Mining - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWHl4NlJiV2JLQ1YyVDU5T20tdjdTZTZLTnRNeUJMa25kekRscURpM3o2U3pzLW5keU1tNHBFSHQwVU85Z1JOby1rVHhfMkoyZXpfX1BLbVFuZTZqdy1fcGw3djFRdVc2NXlrVFVBdFBsU0cyVGc0WW43cEotdkR0U09oZHUta01pNmh6LUFpazVlWElpY3lEUEtnbGZvdFRVa0lMeHc4MVhBeXBpYV9RN2NuWnpHUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T01:00:03Z",
-    "hash": "c4a707c979648d983452ed3a22bbbb2622bb85be966d7f66babe57088c7b2a53",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "IR/Press",
-    "title": "Robinhood Unveils Powerful New Tools for Active Traders at HOOD Summit 2025",
-    "url": "https://newsroom.aboutrobinhood.com/hood-summit-2025-news/",
-    "summary": "Introducing Robinhood Social, AI-powered custom indicators and scans, futures on Robinhood Legend, and more Tonight, live from the F1 Grand The post Robinhood Unveils Powerful New Tools for Active Traders at HOOD Summit 2025 appeared first on Robinhood Newsroom .",
-    "published_at_utc": "2025-09-10T00:51:27Z",
-    "hash": "4d229831f8b9817ba8dbfa1d776f1999c0e92e92a6289494161ece0555f597fe",
-    "source": "rss:newsroom.aboutrobinhood.com"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP's Role in the Future of Crypto Banking and Treasury Management - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzZktDREs3MHlyLTN1WllpNG5JZEFwaXJsNTNsOVdEdkowVERKZWlBNHVYeFNFSVpKZlJtSEg4bFRuY05yRFJPbHVBNUJDR1NrWnU1MnhNSlNkRnNINENma29DdDU2UjZLd25FYWFUZ3htRUFKLWZoXw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:45:00Z",
-    "hash": "67c13d30d42fd24a1c2b5ffd5c6bd393cfdc712e44d3a0d85210fbd19a92eff1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood takes on Reddit and X with new social media platform - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ3NhdS04WllEYmRtZzlZelExR25XWW1mdDlkcXByZE9yemJkc2JzVVpkajR3Y2ZIdVpZZlpKQXp1N2NYWTltaEp6UVo2bV9GVkFuMVNBS2s3QmlQbmtqclRTZVp5Z3NOMS1mVUc0UmM0YjROSHV4bGN0dEJqNThTd2M1aTVSMDdFZF9rX1piaHUteURUNXh0VWc3eUFFWnN4TEt0RmQtMGJ4Zmlzc0Z4cmNDWDcwbjNaczhRZE9iUnZnR0xUZXVKc2dZLXBtNjhiVjdSMjhpcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:41:41Z",
-    "hash": "b4ae9a249aeab3cd89c8bbf36f7b40c0ea0749a2b0e8d26d10174eb9f1c3aa80",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA (NASDAQ:NVDA) CEO Jen Hsun Huang Sells 75,000 Shares - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlUyOGxqOFZEWURydm40UWg5RkNaM0luODJlU2xXY2xsQm1ac1VwcVVmTjdKdVVNSENaQzhxTktTRTZQcjdiYnlFN0tsT0c4cEZrWTFRMFVZcDlEckM3X2dGQkxzeEZWZGYzcDA0eE1LanBSTVJYTEl0U0FhaVo2dUpuaVJvR3B1M05IWkI0VlVpcEdGYUJpZ2txZjhKb2JVMWM1eFBLV1hJakdrN3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:39:09Z",
-    "hash": "cfdaed133263d94da99d47102dd3b2c75c003540100f779000dd1adf2517acf7",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Stock (UNH) Leads Health Insurer Rally, Humana (HUM) Drops - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFNOOFlFazNsM0x5aW85UlVRU1ZtVXBkcmltSWdDdE4wWXVxSGN2dHRkdlVmWFcxNnpxczE1SFhyeE43dl84VGk3OWhsdGJwVWcwQV91ZmhkSEU4NkJLNHpFQnJCZldnSWV5TDdaTDFrWG9YM0VicjR4eVMzX2FwdUo2ZWY1NWJ1bDZPTENGT2haN0d2V19peEUwd2I?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:35:11Z",
-    "hash": "0ec3dcda72f4811a53bd7f59a34a881cfc99715560f182f299e7ff6a201f39fb",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Jen Hsun Huang Sells 75,000 Shares of NVIDIA (NASDAQ:NVDA) Stock - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0NlTldUM0dDVnVmekpyMGFjRmNhRzBUTVZfZHVYWkxrNmt4UFV3Y0pjUkpMc0F1Z3I4RWtTdUFTTmNNUUlCT1o5TFhpM0ZMYkxDTlNyRGxsOUFBbmVvSXRIalNwT2k4RUc1a0EtTFhhdUxaaXpySGJHU05iNXFUZFJHWVhkSDRxVUx6UUdIZW1TeXlJSm1Dd2QtOURQWV9LNzZPUE9qRjJMLUNPNUVVRUFkdnY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:34:41Z",
-    "hash": "b3c30125a5acc1083a142cf00eecd793569a33d70d7537d154e52d6d34aacc5a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "The Crypto Landscape: Official Trump Coin vs. Arctic Pablo Coin - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNy1nWkczMGt6V1NxZndTS0NnTU8yekQxaHhIUEhaVzdPWkV0TDh2eFFEQW1SM29TY1lRZExxc1hScjN3Snk3b3hLZ2hRaFo2SXhsMUt0UmZZdmwtSWs3cDVzaWJISFhacUtxNEYzOTVXU1JDckRXLU5FMXBDSVREX05uTVBPYmJpVy1kcGI5NFVBbjQx?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:33:45Z",
-    "hash": "58614d874db9af64f363a0aebb7f9debf5ca82c720409f432cc71f303b126fca",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood takes on Reddit and X with new social media platform - Axios",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5dHhfVzB2Tk1nVUdibGdfM1E3OG5TRl9fQnNpZVYwR0FMX05TVTBmbnhLbG81aVVJVWdwMnA4MGNiMkZDaHd3WDZ3dGNuZDhjX3RteHRVcnR3Q1k0OThsNk9PcjVoX25mSE9UV1pYRUEydjNPMVoxTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:31:50Z",
-    "hash": "60c7e83faa775cff4cd2542dc75f54fef06ecbbb60307a5e6772b0df83eae18f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood says its latest product will fix social media trading - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeUJuOV96OS1yYWZreVVZSzFMNVJkdk4tQUNfQW9vRVdTVjFUMF9CaklRZkFsTWZ5SUx2MV82MzNLdHhIc3ZHeXZ6X18xM3g4ZEJwVkhxU3lKTUZTclNGNS1sU0pCVmY1QndtSjRzX1FYOC1qeDdhRXkxTDdsVGVMSExYY196SnBqLW4wR1RIaHQyVHpiTUpLTkFWWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:31:39Z",
-    "hash": "8daf1ca6c263ef0177e1912e89a7d8a17a325c9c9676638a5716d29237c8bbc1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Launches Social Media Network for Investors - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFBUX3g3UXpwTXkxNXRTc1Mwcm9TbUxDZjlHdEhZWmFWSXEtaC1ySkZRczFuck5OMlVUUVVQMzMyTDVveVQzVG9HRncyTWRsZmtFd2lSUGFRNGNyanBNWktWUU9nc3dzLUVZTHg2eUgtOWVEdGRqdFVVVFlqQU1mbFJreFRKWms?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:30:00Z",
-    "hash": "26376727bbc10b485aac4cff02e67027018c474871f746f2ef0b730ba7ffb977",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood, a Broker Built for Social-Media Age, Will Launch Its Own Social Network - The Wall Street Journal",
-    "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQdUlBSE1NN3llTmZTbVNnWDZyNzMwQXJaRlFERWNVZlF1ZnhrQVczQVd4VEc5M01CbGpNb055X2QzU3VweGNjNHpySzdFTnBHdl9HTFMxcjBXLWtoLTZwNnB4aU5fQkdxR2o4b1h0clVueDR4aVpjM3N1NG85VEZOenlHSTdtdTVjcE1kUWtCeXFGdEs1US1IX3dSTFVsOXl6TFZWeFRoZTUyX3czaXlvMFdyNnFQeTUydmkzV3JTQlhSdUF1Yk5GNGxZRG5RTVd4dlVYUzFHeFFXMTdjcy1DNEo3OWJkTzZZSllPX2hDNG9lSHVaWHlDTC1QZEVLNGRsd2pFWUFFYktwZWdOSWlmcUY3Q2NqUnI3aXUwQmJGV1JuaGRsUUJ6SW96ODktRHVjMVN1eU96d2dmbG5GenBwUDBYZngyUkk4QUVoZHVsbXdFQlhpRFk5bzFQdFNBbnhjQmZINDNLRnFXbWt0SllNN2tCd0lJa0tCVFZEenJyRGZTTjRzd0NpQ29MMzYwMVZ5aWlxd1Z0MEZ6aWQ1STVrLW8wLWJKcTB2anBEdk1VNHVFNFBfYm5IbU5pS0ExQW8wT05RTHRjOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:30:00Z",
-    "hash": "a9e38f97cb397b023e1d0f497b9d0de416b7b7bae08ec8698038bc864472dc26",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price News: XRP Holds $2.9, ETF Hype Faces $3.00 Resistance - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZzBrNmFlYjduQmR4UEZrZW1seGRIOXMwTWxmTklJcFFTZ1VHMy1aOTJLdWJ0RDF0emh1QUk1ZTNaQnAxbVZnVFU4MGZtbWM5ejc3cEtQSjFXV2ZTNHZHd0tkSFkzOFBrSkp0NEhUOVJZdzUyRlZrZ0pjLUJCdGJpQk5EeEFVd3NBanl5dVJPNmFFSnhkTDhSaGVzU2NMeXlGSW9FdUZLeWZEN2Z1Znhj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:27:00Z",
-    "hash": "3d14f6666c67de1ad6f97bc1689dfbe4740f0ee5ecb0bb9adfed73d6dc737d56",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Four Crypto Assets You Should Own Today; Dogecoin, Solana, Chainlink & Trending Altcoin Remittix - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUczdW5vLXd2bEd2X3poc2d3WGNRRm5qVVpMX0VSaHctSEFrUlg5U0VTUXJHLW1Gc2RKclpwRG82d3hPNXVtZ3U5SmstRFQxb1I0ako1V0pjUWc3UnJxRG4xUC1kblp1R0JIQS1sd1BKbm5IY293ZURrekdhNngwNVdkckNHV1lwYXFhUjFhOS1kdmlWWWs1aGlYVkVPQjE0NzNxN3c2cGoyNGVaOGszdHJmWjEyQy1zUjQ4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:17:23Z",
-    "hash": "e89d24b94a8e63438eaf7b621689529b9761c2a9ea0b63632aad9b8a8ad01af8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "QMMM Holdings skyrocket 1700% following plans to hold Bitcoin, Ethereum and Solana in treasury - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT2pJQ3Exemgta3Juc2JqazVYNEEyZlkyd2Z3d2ZzREQzSGZpRHNaR3NvT25vajkxSjB0elBraDRFX3oyMmJjS3BqekFqem9hRWlXeDJIVlFjRGQtTElQQWlBN3lfUkpIaWhWWDkzb2ZBNmRackxscHhzMVZBNXZ2Y3k3VHN2ZGJQRFFuVF92dXZFaUk3TXRCWW9wYnMzeDN5aDZJVUd2VDRWdnA4QmkyeEJJV0I0elBLaWtVVURvV2g1aWVRVGpiMm1IY25BbXl2ZTJndldpTW9nZmFvcEdDWnNMYlRyWkRhUk50d0syYzbSAfYBQVVfeXFMUFZlZnJOeE1zRG9ZcHdXUGs2bUl0dXhxc1JwZVFwN2o5d3R4aWtzQ1h2YlpkdjJWbmhuOU1odmhxRnVIaWhLd1ptNlBYMHNMa2cwZlEtRHF1c3E4TndSNkJ4UHoyYm9iZkh3ZjVWV3lZRlJVbmh2RUJ5SEJUMHB4TFo5ZU95elF4X2o0bko5MmlUdWRENDUyYXNGMHN4b2ZJdVRVMnVoSmctQXFuNUx6alRBSmlfcWVpUVFvY3RFTkVJV2Y2MS1ZUmxMdlB2R3Y1Mms5VlBKVGxlUEdCcC15eXI0Vnk0SGhHQ1FKamp0clNSVGxhV0pR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:13:15Z",
-    "hash": "fd134f58d167a1b1534fa3639434073fa38dedaaad979c309a2f2776b44e6fe3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "The Green Zone’s rebranding results in 2,885% return on Google Ads investment with Cape Marketing Agency - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQjlyME1YQnlkS18yM0lmLXd1N2xWcHZiOUdvNk81UkEtclF0NWZIRTRqR0VTOVM1dm1oelhoZ3R3MkFRSTNWWWhsbWNWNVJicUJfTE1hVHBBUzJuUFk4S09aMDIzUmRDMTJMTmxHMktCQ2hFMGgwblpLeTQ1eGJZakZBaDJPQkQwYi02M0NVcFQ0M2tQOTdxckRRUDVHUFFRTUhSTU91NXhkWlRDTkx6Sm1tbXJxSUJ0Y19ya2NDRGdaZkg0cVJxN2tBekhNblpPRnVxSTZCalJzUXpzM0FCRDYzVlllWlk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:11:54Z",
-    "hash": "afbd5759d2d9ab2086062b0c2f6f30019ad539d8ab58bd74bf97392b33735955",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Could SOL Price Reach $400 in 2025 as Pepeto Presale Skyrockets? - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUZNY1BwX29tTWpVOWx4ZTZjQzI4eHdpblV2aExTLWJtdnFSNDFRVXFSZVJDY1BuckxhTUNKLUhxQUI2ZlQ3ZGpXTktWa2tlNWRCRTI5eUkxaG5keGdCM0ZTWUFhdzZMM3hTeXA4ZVdYVFI3ZTFrVC03NC05MzZDTHI0bll3TjZkT0FnVmtnY09FWFRhdEFETWZweVU4YlVleEdWZHhKb2o2YldoTUwtUGVXUW8?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T00:01:30Z",
-    "hash": "cb29d7a7e4b0c38741c9cfacf923d099d22490623d929f11546f7fb920d035e9",
+    "published_at_utc": "2025-09-10T02:47:16Z",
+    "hash": "c4de464fb6d65dcb5f36dd012dfd8c81743ef70e791106265ae62a7adcbafe1c",
     "source": "gnews"
   },
   {
     "asset": "BYD",
     "query": "BYD",
-    "title": "China’s car wars take their toll on BYD - Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PYjJZbVVFRVFBM1pVWFJJa2hTQVVrOTF4REROdU1uWnBIdVduRG81REhBRFdpVjV6VW5uTEk5R2hWc210aGdFUjlFbnV4TVg1Yld3d2xabEJjNFQ1c05VSm5GZE15RE0yME5ib1pEalE?oc=5",
+    "title": "Automakers' share in China NEV market in Aug: BYD leads with 27.8%, Tesla 5th with 5.1% - CnEVPost",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHJRZFR4RWR4Y05iNktJaU5vZkFRcGlNNTR5c2ZBSTF2VGRZNjcwY19xQmNUNTVVWDc1ekJWN1E1ZWROVlc2QkNLQ0NVeFk5NUdaWUhKUS1WT2hINHllLVNrRDAyaGY2dEZaRU9GUi01V3RFRGlrT3hSTG9MTU45LQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-10T00:00:00Z",
-    "hash": "ab47dcaeddff5c2bc5588831de961956eb859bfdc527953c677f25e23cbe7d8e",
+    "published_at_utc": "2025-09-10T02:30:00Z",
+    "hash": "dfefaa5455c22f33a47d9d1f0b93a86dcd463809be2ac1d6f4a98887288b5ef2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "No Chain Comes Close: Solana Leads With 2.5x Ethereum’s Revenue - Mitrade",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04WlBuTkFaaTBxZ0EwMTNONFJyMkNRcXg2RTVtcEpkRFJfeEhxaWw4cGNFZWhiNkdFTW54WWt0WURpdXppMU1UWlN1UEpNN3laLUE4MTQxXzZiRnNLbnlWZ3VUa3JxU0MtcUV3ejQ3Sm1QWlZLdGlweS0xU3Z0SzQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T02:26:39Z",
+    "hash": "932d8cd70f28d9ee88f38140a78e80ebf95448f6bd8ca908c1ddd30a7ead1427",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Short Interest in Unilever PLC (NYSE:UL) Expands By 56.0% - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmFLODhWa2ktVlZuUUMyQ1hHQkNfOHV6NlZ4clBIV1M1aEpMbW5iTmw0QXV4X3lFV3NiY3lDdW10d0daTWtWSGJZZ2VrVkVTckNaZW40Y19xYmpZSHlwZGhzaS1BaGE1X0puQktzY1NjeWhVaUtjSE9Rd0s3RnBzbWd6N00tdWtzWDYxLXpaSFdVU2NUeUJVbVZMTEVRZUxlQUQ4Mmt6cldXQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T02:22:42Z",
+    "hash": "458975d3ab4ae4d8b72b225708a57329b4e4adb77acfb8a5ba2d24544ecf999e",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Holds Around $2.80 As Traders Snap Up A Meme Contender Poised For Explosive Growth - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS01MeGJqcDJpeWdFOFN1ZjdLQUhvVEpuTW5Ub0tYTC1PZEVSczgtenpENWI4TG9SRk5HcmxhRzJ0WHpxcmFCYUl2Skt6ZlpLa0ExS2Jkb2N6YzNuV2hheExUbnNPMVh6bVNLX191b3daMjRfdjNJNmtMc3VVd2h4UWtadnpLUENJWHNzWDdWS1p0eTgzQzdtMDZKeWMySlkzRElWNUlGTnJkelk2d2wxMEx1YnpRSkJxUEtV?oc=5",
+    "title": "Bitcoin, Ethereum, XRP Flat; Solana Rises: BTC Is On 'Knife's Edge,' Says Analytics Firm — Future Depends On This Level - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONFlnQWNSR0dQSDRtYmZzRHFKX0Y0eG1sR2Z4SlZiTTQtaWlLelprQWhRd0wwOUpIOFA2N2xYeFFwZjJHQ3ZCUWtyMlk1Tmp4YzJVN2s1a0Y0akV3TnllZVpaY3dUWWN2Vy1KdVZRc3drQmxiTzRHLXFkV3pGbEh5MDBTY3hORHN1d25jdU9QZVhWWElPN2JmY21xQUg0RHE1TTBNbkJLM3RXdEdsQ09xNDBzblNpRGpYb1M1Y1VuV2RUbkc2VDRfU2hQS09rU3RZY2JTWV81NkVXRk9yUHE5UFFtSmowbHlNZ3JuZjZEMlBQa3NHejhSRHRyWWwwY2tG?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-09T23:46:36Z",
-    "hash": "7b79e14778f3fbb871788498354dbe717e03a2e6ae6ba1c65313297da907344c",
+    "published_at_utc": "2025-09-10T02:18:54Z",
+    "hash": "2ba99cfca0a26d0f6b9daf2e1f536bb7ab7a1805d60e171f922210e7089b497d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin, Ethereum, XRP Flat; Solana Rises: BTC Is On 'Knife's Edge,' Says Analytics Firm — Future Depends On This Level - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONFlnQWNSR0dQSDRtYmZzRHFKX0Y0eG1sR2Z4SlZiTTQtaWlLelprQWhRd0wwOUpIOFA2N2xYeFFwZjJHQ3ZCUWtyMlk1Tmp4YzJVN2s1a0Y0akV3TnllZVpaY3dUWWN2Vy1KdVZRc3drQmxiTzRHLXFkV3pGbEh5MDBTY3hORHN1d25jdU9QZVhWWElPN2JmY21xQUg0RHE1TTBNbkJLM3RXdEdsQ09xNDBzblNpRGpYb1M1Y1VuV2RUbkc2VDRfU2hQS09rU3RZY2JTWV81NkVXRk9yUHE5UFFtSmowbHlNZ3JuZjZEMlBQa3NHejhSRHRyWWwwY2tG?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T02:18:54Z",
+    "hash": "2ba99cfca0a26d0f6b9daf2e1f536bb7ab7a1805d60e171f922210e7089b497d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood just announced these big new features for traders - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWl6OXdhMWFHT1JNMXlvT1VmTTE5YnBkSnl5WGZOY1RXRUQ4Wk9SS3NMVjlVc0JjWVV0aHVLLUdaNlZzWElVMnhZdWc0U2Q3bjR6dVhyN0lRTUVMRjNhbHJUdGtkQjBPX0VmSWJFLVBuQ0RrNkR5UWxvc2pTcGU4eUVpMGhQVms0MUdiNElyMHQ1MVl3M2RQeEtfOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T02:03:17Z",
+    "hash": "aead6a133f723576639075b7edfd9e0472832fe190d1dcf79d9eb9ca8ef5fe0a",
     "source": "gnews"
   }
 ]
