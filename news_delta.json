@@ -1,82 +1,102 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Becomes The ‘Financial Superapp’ With AI Tools, Futures & Social All In One! - blockchainmagazine.net",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NWEoyNzFTVUltdUhLV0s2Y2ZwbENta0VnYkF0bFdnaVdZT0JzSHp2eldXTFBocWhOTE1WU0tVTmJVRjRiTGVfUHBFME5oVHRFelRrMnVGX3JERmJaOHRmZmdKWG96S1Y1YUplOUdCcDl4alllckJtLXJaYVI?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Crypto update: Here's how Bitcoin, ETH, other altcoins are faring today - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTzRRdF9mSlo0bG5LOWh2RzZsUUlYMk9zRUZKcjk1a3VOUlN4N3Y5OTZMWGhGNkRmTnZjQ0VUVkU3MmNFMm5xaktfSXluV1c4S2k2V1ZMUHVocFN1V2JDXzdfbXBhQUdxTmdDdU50eEpNN0hLalZzRkpEa2pnREVWcnNZMHdFLUpBU3lzallUNFFyYWRYdkd3SlZ5VlBqRU9KTTBXODhiUkppbGlwR21vS0JYWExFRVdPbG9wSTllOUxtLVg0enBYNXBWUDl6bVQyVi0tVzAtU2NTdWtyS1HSAeMBQVVfeXFMUG9Tam9KZHJfcENvaDg0RldjMFhpd0l5S2pGaWswQVF0bUdIRVpPSVdyUF9DbWxhUEpoY0lndU9hd0NKUl9Ddjk4VDdQVFd0SXE2cjBHQ05vNVJ6ZU00aFF0NHNOeWZobDRyR3QtSy1KQlN6b3J0YXJVNklRYXNCRWtDbXJhcTd4N0oxbEx4MmN0OEZMS0d5ejZ5SEViN2JaVUtaQVVaYXhkeFlzNEZ1cEM5Y1p5eXhoY2tpenJHd0xhU3JVV1lvSWRXZVVSVUhjUlkyUXJEUW9UTF9iYVl5UHNFTVk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-10T05:18:52Z",
-    "hash": "2105ea6632aca2fddeb00a2318ee193054c22496e3e3e21b3686b2699f55c76c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk to cut 9,000 jobs in restructuring - ca.finance.yahoo.com",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91OUlzQ2xQNE1TUGNsTHV6NGFZMWo3c2JFekJieWwyRHRyZS1Oc0lLSDdXTENHRkprWXZFVDBkWFlBcUYxVElUdEJTWVJNODhPWE9uSmhPN2hTckFqYjAtWW90NHV3WjM3aXJ4cHpJenh6eTZWakc3ZWR4MA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T05:07:00Z",
-    "hash": "85ab9c4de3e602a7ca120d90069cefa289c8a88d276d34cc4daf9072276e2d76",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk to streamline operations and reinvest for growth - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmJrclIycXZqQ2xDbXlwa05PSkM4OE40U0lYa3lMZ3YtbUxuTTU0aTdaRFMySEVkWlM4YW1NVnJPQTBISHRNVC01UlkxRmxKUHoydnduWWRDVTMwOEVnQ3l3R05ZXzdJTGpmemo1em1XMmxTSzV3NjRuMnctN3ExanZBVE1ielBPZXpwaGVWLVNFNExDTlJ3N2tMLTRPZjItUUtfcjExdWR5R0JsX1JFR0VjR3Z2X2Nwb0xIWjhseUF3bHRYSlNUMUVkYjBidw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T05:03:32Z",
-    "hash": "8ddf6a0612c34e73c1c39b53bed721a3023ff5169ac896a42d8082cd15f28fe8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever shares fall 0.36%; stock among top losers on Nifty 50 - Moneycontrol",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWS1xaFFXcXcxN1NqdW43cWlDZ2ZKUGpqTTZIY2VkcjZkWTIzQUYtLU9teUhsU1dWOTBfNVpLa25YLUJkajk2WTF1cnFqazd3TGdGQXNrNDJWWjY3MXFKUTFLajRsNHljVW15Yzh4UXU3WkNHblIyLTVQWVo3Zk5FZkc3bTA1elUtRWhFVU42LWZRc09jY1lSNEtjQU9BMFZqc3hia0xWUGxKbGE2eGJHdjV4SF9YVWVJaGhtdmt5M1FyY0JNUnZfWGI1ZXVHdVdMbHp0TnR5VUtWbkNGSzNHLTFB0gHnAUFVX3lxTE5BMFZMM28xd0xYRjE3cm0wbkxvZDRfNkJJQlZJWkQ5c2g3dEQ3QWRyUlk4ZFQ4ZG1PeC1ERmVrcHowSjdIVEJyeDlyNFgwcnFQSm5XV0RIc1ltVFNoZWRYdUt1SktGcU9DWkMtZ1UwUmo4YjJhUFlyX3p6cE5IZmdGa0dVZWZHVFVsT3VUNHhuc2l1aFUtMHBZd0tLUTFRcVZ1OVZRYVQ3RU8xLTdTRmIxWEhrWENOU05fSTBXSUNOaHdDTS1fejhOM0g2alVWN1VMUVV1d1ppNnVGT3NwYTBrOExqbzVqVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T05:01:43Z",
-    "hash": "ded7dc70c8e43720970f6c3560b547922cc84660da9929972f6413c6d1982cdb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Platinum outpaces gold, silver amid huge 660% platinum bar, coin investment surge - Mining Weekly",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzJPaE9nZWRydFJuY0hUeER3RmhyTXdTN2RWR2hiTThpMTU5Z3NXMXpJMzJXVVM3OHVmTS1qU1hOSmViN1cxLTJkRlhUd0xja0g0emgwdm5hcERTUGVpWTdzZ1psblNiXzc0N3JqeDZOUjBPY1VJMktiZUdaRUdxbFBSMDhnRHVETFFQeS05Wnd5YVVOWWRtNnVsM0YySWNxWGJjcVpIeUxiX0hoRlliR2pMSkxJdWRSRWxwSzFTdTgxNjlH?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T05:00:00Z",
-    "hash": "05bce3943dbcf5065a0b829117e7f25c3648897f36d62bdc8c7dafe19301b853",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google Cloud anticipates at least US$58b revenue boost over next two years - The Edge Malaysia",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85emZNTnBjNXlxd1R0cDN6ZlNoWXh2bVEyVXplRXhsUDVxeGxOTnJOLVdxRXBtNHZoMXVDcmRiOWRKOV9hNi1Cb3lMVlprQXlt?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-10T04:57:46Z",
-    "hash": "27c129a4cc18ff9692faade528db2e7c32b22e77ace41ce3f8a672f3dc81d056",
+    "published_at_utc": "2025-09-10T06:28:42Z",
+    "hash": "c8ca2576319572d8de84f634cd96b9c45bd449d64300d8c85b2bb0f5b04322c9",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price News: RSI Turns Bullish, Price Turns After Failed Breakout Above $3 - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEJGQWkybk1YeVk3SmJUUVF2NWpseUFOaVN0Z3Y3dVVZQUFzVzROVnJ4LVJfYjJ3aHFvTkdJV215N2NlaVp3RmlpVGVpYzBOZUNOXzVEYU1CcWhCalFrSUZrRGhac3dVRDVWdUFOZlQ1U01ybTMxdWZfR2EwT2w4OVBJMk0wYzRFdDlLVEFmb21PMmNZV3lDWnZSU3BqTVhEdVE?oc=5",
+    "title": "Morgan Stanley Backs XRP as SWIFT Alternative - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUh4dzlXMktjOG4zel9RLXdpc3Q4eF9yYVRsMktCM1RUOEotSUVFQnI3NEQ4a2tDWjJ3bUtDek1JSW9sVkN6MUtiM3RjRjkzcEkzQWpVaGwwejg3WHgtWWtnUFpzd2NUVEdDZXZzQTQ2akF3M2MtLWNDV1FQWXlJRnZpTFhTSXRMc2t1OERjRHd4Zw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-10T04:54:20Z",
-    "hash": "888d55a71620be45cd220de1123bd38ff8219b19ce3fcac0e8c80af0f261bb25",
+    "published_at_utc": "2025-09-10T06:14:17Z",
+    "hash": "7b8acee11230b4929aff0c1c9227210aa4487bad4ccf000a3e3b2e5178fb9d06",
     "source": "gnews"
   },
   {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth Fuels Bullish Mood With 4-Month High Close As Medicare Star Ratings, Reaffirmed 2025 Outlook Ease Investor Fears - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNN180RTZjcFJIU19TUlJnT2Y4Q0t5XzBfWFNJdFR5Z0YyOWEzUk9nb2VDYlRMaC1zM1ROclZDdzZVN1VVQUFqZFAzcVJRRmRGcVJkNDRjUDhSZEY4VFJocjRfUFlEakI2SmZKMXM2UEc5Sk1MUk1LYk5hOGt3RHhoQlUxTXVsVy1CN2ZuQ3Z3Y2szX1JNSjVQb01CWGFtRmRUMVRjOVBLV2ZIR0ctVkdTMzBUVkJaT1EzY2YzYzNvd29CMWJfSEp2SGkwSVl4SjN0eDk2T3hJbGRKd1pSeU8weklqbjNJeElRc2JWb0hSWHFiMHhDRUV0VnlvaXFFekxKOGJuU0l0a3BtU2lRVnNUNkF6b2k0a2lL?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "GlobalFeed",
+    "title": "Pharma: Novo Nordisk streicht 9000 Stellen weltweit – und senkt Gewinnprognose deutlich",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/pharma-novo-nordisk-streicht-9000-stellen-weltweit/100154239.html",
+    "summary": "Novo Nordisk kämpft derzeit mit erheblichen Herausforderungen. Nun will Pharmakonzern elf Prozent seiner Belegschaft abbauen – als Teil einer größeren Umstrukturierung.",
+    "published_at_utc": "2025-09-10T06:11:15Z",
+    "hash": "0b1e4b23a37a0d706f05cf734a998e12f6a78c2959ad9c500cd0cf67ba08abda",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Wegovy-maker Novo Nordisk to cut 9,000 jobs in restructuring - The Business Times",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSzNvMGN2ZDlWLWlObUQ5QjNnTjg2T3o3ZVRCbVE3LXpYS3k0WDhkYy1HSndKUlpFeTFtVTFPb1RhT2g0dTlhNmJEVFNUcVUyTlctREdoVUJhZ1RqUFl1U1JyS3Y5S0lfaTgyUjZNdEp6c2plQWNFY2NVZzUwVzJXdTVadXAzWFFlbFFscC1IT2NoaGg3Mk0xalZROHYwb3UzbVVlcmxURkdKMDg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-10T04:48:00Z",
-    "hash": "40815210f05d3c005259085ab9f8673e14311a19f1942fdecd16b80ad69396a0",
+    "published_at_utc": "2025-09-10T06:05:00Z",
+    "hash": "05d20abac7aa32c52b613fc85e37e3d6d05ac8a957e16f2b5578072f21b53d5a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood Launches Social Trading Platform to Compete with Reddit Communities - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLU51OFZ6eE42YmVYRXBMRC1WdEFvcGtxYUZOV3JoMTdZX1JWcGJWWHpRM0pFcWxPaFVNM3lIajFWSVh2WEVJYnRlZ1FfLWhKZUt3QTlHemRwZXg1ZXRzVGE0dHktU3o0N0d4UFhWcmxVc0ZNMVozaTNQR1dudHlrTGtZRXpkdTlYZmJfVEV0SmdTbUxfVnRySGs3TUFOamFqVUJCTDZKc3hZNGdHc19EZ3dxS0paU0dJdlV5alRYU29OZ9IBxwFBVV95cUxObHJnV3BwUlFhU2h0d2tFMVd6V1RZQ1VoUWhFNm9lVk5mMWo4c2pDb1pnSmVrcUNfZ0V1VTc3eVZnT2JsS3R1STY0Y3VJVUhjV1NzUlRXU1Rja0UxRUl2a3RfM00zNmRMY2xRMzJGR29HN3F2Q1pGX3F6RklGUmd5a0tPV1VuN2Y4MU03NlZZTXZlcHdHdVgzd0tjdUZuM2J3cjB6ajR6WlFhZVpGdVBYOU9rVUlpYUtYU2MyQ2lseFFqN0FQd0tZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T06:03:31Z",
+    "hash": "7cb525e52d2a68a2d3703703f6784fdce6a4bf7f87dcb824d3ffb823f3cb824c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "BlockDAG $4.4M & $3.6M Whale Buys Beat Solana & Ondo - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjl0eUFwalFBYkdtZDNKeGFsNW1wZDlpb0FoMnVmX2x1MVJHd3gtZWlhLTZNZFVQOWNiMzZaNzVtTGc1TFNQLUE0d3B1RkNJWGUtdHRYTS1KR1VpcVJNV2J1TUI4QU9FblVYZkZoQjliWE1GNGdWaTZkMTAza3dLLW9nREhKbGFUb0tnREI1UEM3U0NLeE5xczVQTlktLWplMDlRcnpBTlU1cWJ6bjNXOVFJVU1xVzZH?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T06:01:30Z",
+    "hash": "00a2fb07e47bc2a9f0a7cfff468239889b359991a675d099f43ec4bf67ce699f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Why Rising Exchange Reserves May Not Be Bearish for XRP Price - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBU25VdXZUUFpVY0dkWlpULUY1OXlDRVRVRHRxNmFoUlRaazhPTU8xcW9BRUpfZ0lFSHpBQjZodmpfdlhFcUdOQmIyN0ZIUzNnbkF2b3pZSlVVZ1FJX2dnRGJ0cUY2WmdLeno3WQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T05:59:00Z",
+    "hash": "2d2627adc8fc947b8d7d77449e95a977832b344502de23fb70b5473c234d1663",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "QMMM Stock Popped 1736% On Crypto Treasury Bet Involving Bitcoin, Ethereum And Solana, But Rally Cools After Hours - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYWNOV3loSWMxejM3V3c3eHJLVHMzSG1xb1RNR3h3WHR6SDhRcHhraVNBS0ZjZWlXRGtEM0QyckZ0MmdiWUJTYlJmMFhudmJDNDVlbTNKSWRMVWZ3R2Iza2NpTzhYdHdmeS14cXFpWS1BUWJmdTNYZndJcFd5cjhxM3JSNThCWE5ZVkhUSjk5ZDJkc29LZ1B6cmZ3TWRnekpLNldxcTNVa0NkR1lFSjBoYl8wbGJrSjlXYW9tekluOHlQLUFPdjMxTTVkMkIxWHpKU2xfRUNZbjBFU0lnR1hjNTZOMWZQRnJhaGRtRA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T05:57:38Z",
+    "hash": "b641800c395684e15eb0de0d658398bd2b2db1137b076f9bc52bb66190802e45",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Slips; XRP, Ether Gain As Investors Await Inflation Data - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWhQSUg5LXNEbEw5T1NJelE5b0xoNEg5VXFLc3dpNkZGLVpYcFRqbUZVTFJjaUVYVWxOVndWdUNNMzVyRllSajJkd1B1VDhtN2hsUTFyazJhV28xN3ZRSU9CYzE0LUxrQmd2bkdXZjNsYjVtVmo1N3Y5Z2YyRTdkM1FMTUVMSUZyZjZhcGNkajJUX2RDUUdPRzJxdmZMaXM5elpKeUVKbTdtc0tuM1dCeGZIWm9uX3V5akNaMEQ1UkNfQ2Y4R2ZDVFF0ZUNkTjBEaDRmenRRRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T05:51:41Z",
+    "hash": "a335d07ba7c482e0f5867b8b28882ba81e16cb1665d5fe3e183e155c648661e2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Wegovy-maker Novo Nordisk to cut 9,000 jobs in restructuring - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnZYVVhwVncwNTFUNXgzRm85QTNGY1dkQTRoZEw4dnV0MGMzdjJvdXBjNjQ3ekFHREh1Tk9WeGJLYWpZUEdoN0czOXc1SUZlbVN3TUlsOFEzYmVUb3djRlh5U3JyMXpsb3U3ejRmeHYzVmVpaWZETG1MT0VTZG9fdWpkNzk0bkJ3R3F4WlgxVHo0SE12aFZOV2V6U19JYzQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-10T05:51:00Z",
+    "hash": "282d616c766107e3b3560246887d5e98f9cff22d7d2f15b91415b531ffb01d78",
     "source": "gnews"
   }
 ]
