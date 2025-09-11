@@ -1,22 +1,172 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction: Can BTC Hit $150,000 In 2025 As Rollblock Attracts Smart Money Early - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcy1DN01wNklZSjI3NEs2SV9xUkoyM0FkTzJSMGcxMzVXa0Zsb1lrQmxGbjlJMXl5UzBsTjFkNWo4aVp4X2FialRpUE05WTI0WFF5bmw3aHNqc1JlU2xCQU8wVHNMRElnRGQ4RFlVNXV6LTlFMmp1Y0xOSjNvZmthd0VDc3dwZnZvNmJCcTVwdEFCV0pXT3g1YmFISl9TTTZEZDN2aFhTblZsSnFQRUVJQzBPcDR6dE1BOHhTd2NDNjg?oc=5",
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood reports August funded customers 26.7M - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObGRBanJIdDA4N3Awakw3Z09ETFpGejVSUkR0VVBYX21oVnoyOHA2Z3hQWV8tTnc2TWRQZkFvTmR6TlBTSEk2Ui0yU3E4M0MwX1hHcjlNcWRUUDRQejNGQ2N6N0tidEpnYzExZE40SmtqNmtZRnhzOUk5NFdoSWFSbjd5elQ4ZGQxUkpLQ1NIV0JrS1FUS2Jn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-11T19:30:00Z",
-    "hash": "e59be6d80ca7686abd4972658da6aef636fa92a94af23163b378186a6b534ba5",
+    "published_at_utc": "2025-09-11T20:20:51Z",
+    "hash": "b1b4bb4800a92e4a51f6ddfb46318eb1bea42e0e367b9c4e3b28ff559b650996",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Dormant Bitcoin Wallet Transfers $15M as BTC Reaches $114K Mark - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHVIT01lQnctM0xmbFZfT0RZcWQ1MlcwZ1RiYkZCaHpwbHNLdkx3TlVCbFYyVFo4Vl9wbENmWnJOTUs3cG1hRmFnaHpELXJZYTFHbHpsWFdVaEhZM3Y4MUk4d1YwQ0JkZDdMWGQ2OUJXU0pVT1FQdEE2Q3BXekNiRExWTWt2M2xUWkwwNEJFdw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bit Mining Acquires More Solana, Lifts SOL Treasury to 44,412 Tokens - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ1pGUmhpazVVWHNuQWFDdEhqZXZOalA3ejk1MUpaX3R5ZXRpaVF5WDJ5dmNIWWc1czk4U2lIeENvR0Z1S1BNd05BbTlidHhUNFRIam1MWmp2TGtkekh0bXlDZmxZbkQ1RUpTckpCTmp2MmwwbWVZMzloY1pSeWNnUW43TWxRQlFWS3RmR3JkYmhTeDN3RWk4?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-11T19:29:30Z",
-    "hash": "655ec4f3790fff49a59ac14f858bbdaca7736fe959d2481332509286af6cfa84",
+    "published_at_utc": "2025-09-11T20:17:13Z",
+    "hash": "d92406fe306b1201b26414883db01fd09ade416e03918aa2957a42560f5e0922",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "SEC Postpones Franklin Solana ETF 60 Days to Nov. 14 - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORG1qZjQ2VjVNRHNRVEl2SDVmSmpZUDZpRWtSaDNhR2U2MVBFSzdJclFBMmpDMGJ1aXJTQVpaN05MQnU4aE9FTE1FeTRzWHZRVVFCMnVOdjNBS255YmtYa1VoRVdXeEdhdDVoZDBSZzJuUjY2Y3I1MHpsMzlRMFpsbWxNOHdRWFNlR2VWUnJZTUQ3bEJ4MUlyNHZqVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:16:00Z",
+    "hash": "7c14df276fbd48c18746b0063cc8872a4ca888f9f31e00fda67d477b5822aa0f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Yield School – Invest in the Primary Crypto Asset Markets - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjczOEp6TXlRT3NobEpqNTYzRkEzNEd5aFRPMndPMnNSNFJjRWVLLUdzVFNLUjdsWld5M21KWXk3WlBrQS12a1NJNnB1R1JEeHR2S0RtYTlKdEtJMV9saWtha194TElZX0YteDFFSzhuSnlIQXZXOV9SWXhDdzNCUndBbXhCeXFUdk1XRkpmRUVfbk0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:15:55Z",
+    "hash": "ab7535b28f3b98324a531ca79041aee8072ccd81260ad7c51f8c264237537d80",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction In September & Why ETH Holders Are Betting Big On This New Viral Altcoin - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3FzZ3dZcVdVRjBWXy1vanV2cVNFNURDN1M5UWxnMEhQUV9aTk9IS0ljTzRaREo2WFY0VWJPOEZYN205a2tSRXlNbnBkZVYzV3dzRG5iWFFhVG5ZQnJiWGRqeS1YbXd1bHo3aThrNUxoS04xM05fYlk1QUVIa2pYdjEyanBrX053ZWdUdTkwQVA4NTg1MW5OWmdPaEFEMWZtN3p6cTNyNW5aYlRGTUtxMk1ub2ZTb05XeG9N?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:15:09Z",
+    "hash": "a5361210453bb7a821ac349c0d366639caa0be51f4127525c3ecff2116e5f548",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction From Top Experts In 2025, 2026 & 2027: Where Is SOL Price Heading? - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeTNxdlBSMmEzbGZZemZDajRPQllvbE1zcUZkeWc1dGtvRktOVUc0d2VPV0s1dkRPM0xLNF9OOWl1VEZzM0E0WEJnMXdEclJnVVFZcWotUDFFTElYc3p3Q0FyQ2lNOEJOb1ZHc0tkSWo0LWZMbC02SEdMOVlwcWtwbzZDdlh5aXJyUDNDWFJPdlB4MlZVX2tB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:12:00Z",
+    "hash": "a1da3f777ee80ec2f581fa7c3a37629aa2272b19fd2fcc77f45aead336cb6b7f",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSMC Stock Price Surges on 34% Sales Growth, Analysts Target $306 - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbHAtWlNsUWh6NkYtVTcyZjN0RmptMUNjeHByMHBYLTgxTVFWRUJkbjNLOEp5NnVuRFF2M20xMDh0b2FpdG1iM1ZrRGExNDZsOEkwRklvVC0wYTdBaF9OY3dDbUZ1ZThqMlZvSHd4eTlVNkZrbWpGY1lVOFBpaGRBakZCNGs?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:11:54Z",
+    "hash": "99c4e42fbc8d9d1e99022a1ea8343b778845735515f5f711cfc118a377588edd",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "NASDAQ:ASML vs TSMC NYSE:TSM Stock Analysis – AI Growth & $1,100 Target - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWwyaXJvZDlJcUp3emFZdW1id202Ni1ZTExfc2s5dkotdXpmZkVnekpSeTI5am9xLU1nSlpwOE9tdndXeDBRWEVRZC1EaEJ5ajFCejlOeXFKOV9xMjM2QWE3Yno5MDJkcl9KZTlrRV9QSEdMMGxtdGE1TVBmOGt2SkJWRGdXd01OYVFVcE8zVmNSYm1uVGdId0J0dEI1Y3k0ZUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:11:48Z",
+    "hash": "a315d981aa1f43b4de775b5bf2a6877387556e2f87d0f265a335d91f31e6cb03",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "1.1 ExaFLOPS: Supermicro's NVIDIA Blackwell Ultra Systems Deliver Record-Breaking AI Performance - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVpVc25BWXh0dW1FcWdZLUx6M1NoeElwZDRyTC1lOW15U1hpMkJRQS11VkM1QTZ2alRDNVoxVWcxS0NQQVZOQnZwaEVOV1VfVGtyWmgzMzdaTE4yc0dCaW1KbmtPNjNCUGdnSVhXa2dQOGZzeHRGdWVjZkpTdGp0U3dZOHFINE9CcjFxZjQ1U0JQZFhFUV96bHFqVHVWeXI1M1VrZmhQTlB0ZlZLTDNvLXVVRUNITEk0UmZhT3BVaTk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:05:00Z",
+    "hash": "32c44c78ed1cfe8146d7da2fbca1feef1d61806e17f3a4bded928042cc23f97e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto Wallet for 2025: Best Wallet Launches v2.11 with Advanced Gas Controls and Expanded Solana Support - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1pCVHNnbjVGZjZwNVlaTmlGcXBXZUJQN0xpeDROOVlDRGdvODM5bzJnRGhjUHhjMm93cFZPY3JXcndwY0RaTVozM3phUG5CR2I1THlvSE1oN3RLdlRjMVRWQm1GeTZKZkdTemw4OGw0eUtxRTktaXdaOThBT003cllyOUVNcmNlWFVYbDF6NU0tSzdZdmZ5Q3VqLUtISTFOVDVfU1oxbEZPUUJxVkstNDRMMzROdGhtenRPR1hzR09ySU5rWF9NckhaT3hLTHM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T20:00:48Z",
+    "hash": "643b68369fa1a81a637c0015c9c5e74de2600d5b46e62e54aaf23b6c19a7d185",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Honeywell secures $600M for Quantinuum with backing from NVIDIA, others - Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FTDM2VWs1WWRWcDlubk1MSkJJSnY0SFdpMUkwWFk4YmVJQURKRTRpbWtoWGdKb2pTOUQwV1hsdHNuWEwzcUZsUXhEZlo5SUc2REpibFZCbkJFS1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T19:59:00Z",
+    "hash": "4510beeb42fe8f05275d4f11cc06c487dbf354513e953f92ae64fa4904f3a0de",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "As Nvidia Unveils New AI Video Chips, Should You Buy, Sell, or Hold NVDA Stock? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZXJwTkEyTDNCZi03RXNjWDdwOTNoQVA3VFAxOHFWZU42NThSQk1XbmlESFU2RDhyRm84TDE4WW44T0VLMXI5dW50all1UXBBbHZGZVlIUGJCVFZFdjkyd3o4Ym5mcjBLUTNPUXdMNW14WDcxa2pYUnRkWUdfZ0pPdGp0Q1dfQmNGTEM2eF9MbVVMUUYwWGpfOVJOODdhN0dFVFMwWk04ZzBWeWxwLUVGb28tODZkMUlOMkVVcGgyc2NNTnZncVFnN3Jjb0x2NldtcTdjaGJSem9ySXhjd2lwTnBWVWlzRDBoZV9R?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T19:49:41Z",
+    "hash": "e2388469197a3568b5fcec0aa6731d0e7ec5634ad3b0c5b9f6ca0cdf1f9d3aab",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast - ETH-USD Holds $4,430 as ETFs Drive Breakout Toward $6K–$8K - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc19vR2piTjZPM2dmZlBPSnJRclRkTmdhMGpzbHdpWjFHREstNDlOV2lfaERWNHo4UUZPLTJMYnJkRTgxQ2xhcnhIMHBLM3hmanB5TzI0dVZZN21TNnRzYl9rNGY2WWZ3NEpXWUlyTkIyVTZCNWlQcGU1V2E0S2xpSzhiUHBjUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T19:49:39Z",
+    "hash": "dc0474b48e93636d07e59688b5f630a68c4791d0acdd14830ade1a288a746d5c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Galaxy's Novogratz calls it the 'season of SOL', says Solana is tailor made for financial markets - The Block",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVRKdWdVU0c2MlI4dmJycS14U1cwWTRWaTk1WjJTcjBQaDdIODB0d1ZWb3dXc0wzZUMxaU80blN1VG4ydFMyUm1oZ192R1VQY0lCQnppS29rM2ZyeERVVHRmR0dCRWtGUUlkTDlWc2JoUk5McmNFMkluSWZ4bjV3V0ExeTRjVzRlYzFidTMzNk9nZHozNTRNMGVXb0lXbnkyVG1OaDBRTElUN3NucUHSAYQBQVVfeXFMT25mN0FTV1llZHRKOVBweG96WnZMYm5jZjJuMWdmUG5LVURxaUp4czRqNEVmOV9BSng4S2Zaa0VjaUlFaGtnYVFVZWFsYkNVd29yWkZvbmdoNjhZME1YMVNlVy1RVjkycTJxUTgtLVVHTmV2ZktzWlhoYklPUFUxc1BmSzRO?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T19:48:58Z",
+    "hash": "7fb6417b6dd07302ddd0cceff82201faae008e152f6c970c20febf5a6af2f330",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: Where Is Ripple Price Heading In 2026 As PayFi Altcoins Take Centre Stage - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNODRxaVFwdlhHOEtjWGtucnN0OXlXcXdGLV9nbDV3RUFmM1ZpZ3NRbzN4MS1PZGlTSE1oMGhfbHo3X2lMM3lWQmxSUDNiNTBlTzI3LTY3bEZrVHl4VUxtUjE2Wjc4N18yek1HVU5nQi15SWpRaVppTERTNm1QZVFuNDBIZWxtalE3RVd2NC1FSVJnUVNBQy1nbkdMRzJVaFZ5RHllUmRxNUJMV1VnVmg2NEhEbW44Z2M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T19:47:22Z",
+    "hash": "fcfbed9467e66653c733e7025dc07f285f5871b370f053cc5edad30ef09dfb71",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Hugs $114,000 Ethereum, XRP, Dogecoin Hold Strong - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1BUQk1hRHowc3NLVXZpOEN2R25PNWxiRVNjVnY3VnVMaThzRF9EX0lDd1ZXcXRJNm9rZHNZbHllcTVDbFZYZk14WnNtVDk0T1hNS3dXWEFuRGp4MzY1MXRNUzZlSlBlV1RpYjlEUHZ2dXZjZ0kwV2lyZmREWkc3MUl5N0pLR0pENmEyYUhRVW42UG1mWEhMOUFOTVV1TDRRdjB6dWhsMjNoZzhSeW1kelFIUnNZZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T19:47:14Z",
+    "hash": "6a5996b923d8a2f0640e977d85679161c8f055f5dd8ea437259fde7ca432e117",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto to Buy Now: Project Crypto Framework Boosts Dogecoin, Pepe, DeepSnitch AI Presale - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTE5sN0swNTN6RHBId2hPVEtHbHJSUnNLX2pHdnM4VElRbHhWNUQ5QmoxTlFBbkEtd3FTN2o4Vl9nMElpeFFmNndDTkczbWxCLWVvd3NMXzloVS1DeFh6WTZtaDBnZF9VZ0RUUWxubUI2STVXakdhV25nMFFSUDhnU1oybzhKMFlpREhIRHhBNjVvU0hTVm8zX00tSkp1QUxHOFQ0ZzhVX0lmalNYc2Ztb1R0NWwtQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T19:45:31Z",
+    "hash": "74e39c56acd23b3e18c0d97e0f247b312e981fe65b4daa8beb892512993f78f3",
     "source": "gnews"
   }
 ]
