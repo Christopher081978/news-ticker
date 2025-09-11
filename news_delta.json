@@ -1,32 +1,52 @@
 [
   {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price Prediction: Fed Rate Cut Hopes Build as Triangle Breakout Setup Targets $150K - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEo2UDEzUEJpWFRCM3hDNi02QVl2cS1GNWdpNUxndGRaazVBWU0tS2hsZHk3Q0lSX0JjcU5UdVR3ZXc2NFgzRDRkc0pnZ3R4R2ZpMUlPNVluZDcxbEpwMERsV0hHa1I0eTBmRVlDSE5QdFhLU1c5dFJwbmNZSDRiRmtENnpMenNSamswb1hBbFhLOVR6cURrSFAxMk5BVTlxZ1QyR25RaEpYZUR4SDZXT0NLN2VfdEs0WHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-11T05:19:39Z",
+    "hash": "59b755e15a4a5de9c0111aecc1f2bec6def07cd8e2757a94a2f927046f118c22",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Geldanlage  : Angst vor Verlusten? Mit diesen ETF-Depots profitieren Sie dennoch von der Börse",
+    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-mit-dieser-aktienquote-sichern-sie-sich-risikoarm-rendite-01/100125251.html",
+    "summary": "Auch risikoaverse Anleger können ein ETF-Portfolio finden, mit dem sie trotz in Krisen gut aufgestellt sind. Dabei sind je nach Altersklasse unterschiedliche Gewichtungen zu beachten.",
+    "published_at_utc": "2025-09-11T05:10:00Z",
+    "hash": "839d0e614ab6f976363d8bf0bc80e1e3476c9f42139cfd391e9ade1f03b99910",
+    "source": "rss:handelsblatt.com"
+  },
+  {
     "asset": "BYD",
     "query": "BYD",
-    "title": "BYD Execs Scoop Up $7.3M In Stock This Month, Marking Big Vote Of Confidence As Chinese EV Maker’s Shares Dip - MSN",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOaXJVUU9SWnFtVUdyTWhGOFBKazIzOXBVVGVUbUItMS1qRFpVUk9BS2hHVk1HUmx3N21UOGFHbHVLNVJDWURGZXlZYW5OUVM2aDBRajNtcWc3VXo5Nlp6RUZUQnB5ZC14eTZ5N0prOFZJM1B0TWtVZ3g0T0FrZnpVcUhvZnBmUlR5VFJWNFZOTzlESndEcnB2dUtBQUZBUldEclpNaTdzUHpCemhVQlR3YVFoWWw5QzJCd2JFMF94RTU3c01yQVMwYmpZTUJtTkV4b3dfdUgzLXVseHM5NE1ETXpCdnRncEs0MEFjeXRncVJOM1RHRVZXaENYbWJLSjF4cERvWGxMR2owd1NBbnlUUmhrSnVsdw?oc=5",
+    "title": "BYD executives buy shares in the EV maker a show of confidence - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR1Y0cGdsbDZ2d3dURHlGdWxXdWNCMjBBOVBMSTJCRC1HTTdFM09odUtBTndPWkhacWN4SXU5R3RGekNVSHJzZmJ5cUZpV1YyYlJodHBEZVBjcjV3TGtLYWZlaDg2LUlfUFlxR2FFWGZPMHcxVU1YVzRCXzFuYkZlNS1YZ2dURGxIZWZ3eHJjUDVQY0pEZWRxWHdOeGpxc0tWT2FkSktMV0J0UzlQZjB4U2ZaaHJGbnMtbkZ3YXdyNXhJMHk2NlYzZFBn0gHKAUFVX3lxTFBFQS1GUjNaRkdUWVJmVjl6ODRmS2prSkVzRWV3b3FoNW9aaEM4OUJUVFJ0WjVLUm9jTDBTQnlISHVmRi13LWhiejF3Rjd6TFVXUjdIVFdhMmh0dnNTRFBmMFhDOW44ak01Wk4zb25QVTlULUgwdzNsbDJZYWhfZEhOdUNSMmxlUWVfLTRaazZyX2owcnc3ajdZZGlFMDFoNVVKMHNhTUctTXJmOEFOY3hma2FSckFYQTZmdm02UU5VbS1RRUNaVHZJLVE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-11T03:49:22Z",
-    "hash": "70ed4773d05ab4183b200f035874084ba114fc1b679b9d9e6eb65b12cd61141f",
+    "published_at_utc": "2025-09-11T05:07:05Z",
+    "hash": "d110e5ee50791fb21ec0ce6e1b86e7d971c1a55cd70e301228b1e27855913735",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase investigating issue with crypto sends, receives - breakingthenews.net",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRDFCOTlMSFVkQklCOWJHY1l1RTlBdnlKR2NFUG5TQU5VNXFOQ3dFeEd3RmlSNVhVYVpSVkhpUnFxWHpKeE1JNVgxSnUwOUVIaHlkdThMZGVZTS1wdl9rRjNzel92RzVpWWpGeFlLN3M5dGRaVzB1eXNsdWNYQWhUNVRxQ0pVTnZwS0pvVXFDVWVtaGgzZXItYWV1b0ZrV2piZ3c?oc=5",
+    "query": "COIN",
+    "title": "Solana Leaves Bitcoin, Ethereum Behind As Coin Hits 7-Month High — Crypto Analyst Forecasts 'Epic' Year-End Rally - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT1Z5Z2FOcGNpanYtcHpEdy15Z3dleEdxd2FWODZwSzhZdGV1Z29nS2w3WnBiWWppVW9LcGlMTXBqT0ZuSzQ2cF9wVTRFS0Nrb05fVkFVcVlGTTA3cENCTUFHdkFQd2gxUTJJV1ZKd3dYTjJNTU5NaU5GcjBPbENya3dfREZZSTZOY193NHBUZVZOM3hKd2pQU1kzU0phMDB5Q09HR2NuWFh1RGtzdWVTdldZQi1zalc0X1lQdzZrTl92aG5BM2ZwenlnVVVNd3RJdGw5b2kzWVdFcTRodThvWWo5TmpuaXVEbHlPb2tEYlpKdDl4Q0ZHNTFoVk8yVkU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-11T03:44:00Z",
-    "hash": "b29f69eca04a8d8f481416f628d2b7ee0512afc9fa854b2205ccd0c59d21f055",
+    "published_at_utc": "2025-09-11T05:04:38Z",
+    "hash": "95ee0fa8124790b288bd88551efedf60ec0b3baab067bb2a560d15ec92bc60a8",
     "source": "gnews"
   },
   {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer Vietnam, Long Chau to train pharmacy and vaccination professionals - Vietnam Investment Review - VIR",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0JES2RxcjViQlkzUDhmRnd5OFdnb0JjYm1BR0lEZktibTRtOVBVcFptSU1XbUEwLThXODZ5U2JzU2lzdVFrOFVxbFdiTmZtd0VEU0VET1RlWFhUc25uMzZlckFTZXZWUDc1ZXZmcTlqY21CdEZQNG5VSE1iOXZKSlF4akIxZWF2SGRWRnlRSE5EVWVJeGZsaTBJQkJXemFjeXdWVzd3?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Leaves Bitcoin, Ethereum Behind As Coin Hits 7-Month High — Crypto Analyst Forecasts 'Epic' Year-End Rally - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT1Z5Z2FOcGNpanYtcHpEdy15Z3dleEdxd2FWODZwSzhZdGV1Z29nS2w3WnBiWWppVW9LcGlMTXBqT0ZuSzQ2cF9wVTRFS0Nrb05fVkFVcVlGTTA3cENCTUFHdkFQd2gxUTJJV1ZKd3dYTjJNTU5NaU5GcjBPbENya3dfREZZSTZOY193NHBUZVZOM3hKd2pQU1kzU0phMDB5Q09HR2NuWFh1RGtzdWVTdldZQi1zalc0X1lQdzZrTl92aG5BM2ZwenlnVVVNd3RJdGw5b2kzWVdFcTRodThvWWo5TmpuaXVEbHlPb2tEYlpKdDl4Q0ZHNTFoVk8yVkU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-11T03:42:30Z",
-    "hash": "6a02dd4a6acf93e0efec91c1443f6c3463d32c9cf2de25e3a97eeac7605bb5d4",
+    "published_at_utc": "2025-09-11T05:04:38Z",
+    "hash": "95ee0fa8124790b288bd88551efedf60ec0b3baab067bb2a560d15ec92bc60a8",
     "source": "gnews"
   }
 ]
