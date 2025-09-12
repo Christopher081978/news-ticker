@@ -1,92 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Hash Rate Hits Record 1.12B TH/s as Network Difficulty Surges – Will BTC Break $117K? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1pRbUNvS09JbXFQc05LNmo5Rm96N09BWGJBUDJTSEd5V1hUdi1kYzV0QUZXU2xwY0lfV3IyNkk3TzdHMURhcDkyVXQ5VTdPSzFoTmFtX2pvelh6RzN2eDdLbzNXSndSTEZRLWNqVklHbE5hMzEtTUwzY1NTUWlzOFh3SVlrbEFreFp3WGZoY1V1NGJ6aU1ZYVlFN3RuQlB2b0FWVEJtZWF5dnhNdTd0WlZNZVkzY2h2SFE?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Shine On Friday As Traders Fancy Weekend Altcoin Surge - uk.finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT1NNX2taSDc4SHB1ZC1SS1ZWb0VseDdhNzBjV3ZaOVZ4NndieVo5Q0tCanlLc3BiZEpUZGJkcmNfTkFOanJsSlVVeTFIUzF1OGdCLXA0MTVUZ2I5bFV3dS02NkJsNXYtaERQSXJ5R2d4b1lzREdRdUJjVEYxeWs3YjRLbEpVcGhTam9NOQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-12T19:19:00Z",
-    "hash": "8638cc7611c9646093a7ca97593d02324b67efe743f3bbe2762fb8b3804afce7",
+    "published_at_utc": "2025-09-12T19:37:03Z",
+    "hash": "3f94871d2548622629ab82e0bf7aea4053991ea16fd8d76e10b92ae36128b246",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab USA stock reaches all-time high at 53.44 USD - Investing.com India",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQjQzWUR2V1d5RnZwbEZCRV9YSm5Rd1d0SGlERjF2VmZoeGFpSFREVUVqNDBhQl9wTFB1NXBLY3Q1UXo4Y21RbnhpX200bWNiOFJmTldZTy1YR3FEajlIdWlQVExwbnY2OWlaNmxDMjlwSk5JRXZHYjl5U0V4Ml9nbUY0V3FGMU9ISnlvay1kRUdDcUdHRG1NTTczb3lBTXBmMFM5Q01fQjZyQ0dRYUE?oc=5",
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer, Moderna, BioNTech Stocks Tumble After Report Of Plan To Link COVID Vaccines To Child Deaths - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzkwSjQ3ODE2bThjaERsZVROSUVYZVlLT0ZOZTJWMV9YWjNodkcyTmt1ckExUU9fb3JLbVNLVk1OQmdiX1YzdWc4YkljeDNOQTUtd3hKVWtPbS0xY1Z4Q1czMUVvT2ZYQUpDdzgzakt6b0p0dE04UTRFcUg2ZTBqRXlUMGVlZHcwR3dxZmRwLXByQ2JqQ2pMaUJYbTVJTFFHNjRVR1Bhb29TS1BEcHktbXRyaTdwWExWQnVwX2psVWl6bXBsMi1UaHNiU2tpUVNKb0U1NkJuZ2hWc09QaENteDQ5a2NLT0hta0RjY2RUUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-12T19:17:59Z",
-    "hash": "ec184ae6f3ec7bf22634b7f87ba6835f0625e94560725651a8d6e9edd0ed9627",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Pushes Back as SEC Loses a Year of Gensler’s Texts - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDFvWmVWbmNFRE5EZG9PV180Zlo4eFpta3VXSkFMN0J4SmRRb014NUdsbFBZY2IxN2FXR0EwbzVjUmdKeGh3eWRTdW1RSWM2UHVubm9ZR1Bqc2xiVS16SV9pV3BZTFh4X3NuTzFRNUlXbkZsaGxUNE02YVk3Z0dEU2I4SndYZlVPdGtEZHhjOVZFZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T19:16:51Z",
-    "hash": "8d701d0264e7d342f47dad498c5fcbd629de004f175b923391d730210dd049e3",
+    "published_at_utc": "2025-09-12T19:33:54Z",
+    "hash": "85257e55106585d323ea0c6304324deb036f4b9570bddbfb94507b32278f61a4",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Jen Hsun Huang Sells 75,000 Shares of NVIDIA (NASDAQ:NVDA) Stock - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlUyOGxqOFZEWURydm40UWg5RkNaM0luODJlU2xXY2xsQm1ac1VwcVVmTjdKdVVNSENaQzhxTktTRTZQcjdiYnlFN0tsT0c4cEZrWTFRMFVZcDlEckM3X2dGQkxzeEZWZGYzcDA0eE1LanBSTVJYTEl0U0FhaVo2dUpuaVJvR3B1M05IWkI0VlVpcEdGYUJpZ2txZjhKb2JVMWM1eFBLV1hJakdrN3c?oc=5",
+    "query": "NVIDIA",
+    "title": "These companies could follow Nvidia’s lead with AI driving rapid sales growth - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTXBBYmpmWmhjUGw3T2NFMDFXTXBmSnhkM0o4OU56TjFWVW8yRVB4TGlsc0xqeVZkS1pjbFh2UzZPWFlRWXgtbVRKWEpTYUFiY2h6clZNZUxRa2o3THVBMktJa1BLcVRWWHRxMHVpTFhNQ1VwVUpWbjJxS1dvRlRqUEZGaDk2VXRSUEZmRTR3cTZmOHZhZnJoRlBzbkVxWmkwWm1QYXhMTTNOdjFkcVo2OVBfMDBKQnRNRFY0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-12T19:15:29Z",
-    "hash": "b464688ca42876555d5a68a3e5634653534701d79f9149499b02e2968e9cbfc0",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Price predictions 9/12: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, HYPE, SUI - Cointelegraph",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaE5MSlFibnFDdHNsX2hmY1ZESU1INTJjdVJDX1E5QnE3NGF0WkZaQW5OZHhXQ1VOWFhlWEdyT0F6a1BDS1RqS0JMR0pKUFFEUlVmZWhWcjRNazFXZ0kxanFwZTdDUTlSN3NKaUptc0ItdUtEODlCMWoyVGFYX201REV1U0lCY1pETEhld0kybDhwaTM5bkVSZVNUWHI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T19:03:12Z",
-    "hash": "14aeecc922a7601685741d025028e1b54fbffe9462b894a47dcdbf0fa7c747bb",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Best Crypto to Buy Now: Analysts Rank PEPENODE Over XRP and Solana Due to These Key Factors - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYjRyWmE2bnQ0NnpUU2I3MHRIM3J1N19sMHNGRERpa01UaUotMzZ3R2EyMUlKeHk1RndrMG4tb3hHa3VnVDJ3dlo5RTFHeEVHMzI2Z0VTMExSVEx1ODRzVjRPRjdIQ3pWWDdvNGk2VnVFeFluNEJ6U2s4LTJGeUJwcXk1eE16OHNVa0UyUWlpZ3dhcGVqbk9NeXpnV0VQNUpxNFdKSnFQdW9xVWFZMV9SWnhZZ2UwSHJCSFZSV0tyaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T19:00:00Z",
-    "hash": "08b85b9082c359023d73c58d25348d1e9d7ccc4e02f8e0dcb39e3484714d86b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Best Crypto to Buy Now: Analysts Rank PEPENODE Over XRP and Solana Due to These Key Factors - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYjRyWmE2bnQ0NnpUU2I3MHRIM3J1N19sMHNGRERpa01UaUotMzZ3R2EyMUlKeHk1RndrMG4tb3hHa3VnVDJ3dlo5RTFHeEVHMzI2Z0VTMExSVEx1ODRzVjRPRjdIQ3pWWDdvNGk2VnVFeFluNEJ6U2s4LTJGeUJwcXk1eE16OHNVa0UyUWlpZ3dhcGVqbk9NeXpnV0VQNUpxNFdKSnFQdW9xVWFZMV9SWnhZZ2UwSHJCSFZSV0tyaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T19:00:00Z",
-    "hash": "08b85b9082c359023d73c58d25348d1e9d7ccc4e02f8e0dcb39e3484714d86b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Microsoft’s $80B AI Investment: Massive Clusters to Rival Google, Meta - WebProNews",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU92MzgydEIzNHlVRlpGTzhfSUtHa0l3RWtFaFpCZ0txcDFqSDRqcUhiVmRKcHgzd1NrSDNxNFJoVFdqaHhtMGNJdnBRR2hZbjBQOHNZWVowR1d0WGhoZ0ZBMUlRQzh1MV9ONTJnOV9MdjdvbkFiZEk2RHNyVFh1SjFlYm1oUWY3R3ZSQVNPajNyMWJvU2psb3Fn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T18:58:39Z",
-    "hash": "6b73aafc8fd273a50f034e9bd4d56288ef2f20e33a15ba1443da32cab5beb7af",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Has Room to Climb into the ‘$8 to $9 Range,’ Says TradingView Analyst - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTXllYnZOZnFqcEdfSlcxSzJaWFVULVZIX1E0MUFUQlg4X0RkOF9VRGtDbWRGREFCYU9OVC1zOUtlN3plTFU0eFV0N3JvS29QdjI1VXF4VUtHMUV4S0xZNTlDQWRYRW80a2VPMWFKZEFvaTdBbDkwMElwRHN2M0tNZUs4eEY1WjBlRGg4Uno3WEN1ODV1VDBYNEFqX0JpLVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T18:57:26Z",
-    "hash": "01e280909a872839253fd33c50b312620fc99798e871b994c37c4388360a37b5",
+    "published_at_utc": "2025-09-12T19:26:00Z",
+    "hash": "6108d00ea6a03f2c26821e79f67aca2a43888dc310ed28431ee60cac4e7496d1",
     "source": "gnews"
   }
 ]
