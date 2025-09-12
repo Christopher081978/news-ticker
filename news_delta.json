@@ -1,72 +1,32 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "BAMBITZ Successfully Graduates on Solana, Championing a New Era of Music-Fueled Utility - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1hsWEVSQmdub1doUjFobjdrVWludXl0TTcxeXozSksxY0ZuQ09JUlNqS0JkQzJVWU0wN1E3c2F1TzUydkRLVWsxcEZVX1FJcEpLRzRDbzJVajVRRTh6emMxZmNWeUprU3FRaFZ1Mmtnal9leG9famdVRnBLV0dtTFVXMnVlUEs4VVdwVzdGTnJMYXBuSjRNVzR6cmMyM1NtMk0tZVRCZ3NzR25mYXJwOVhn?oc=5",
+    "asset": "Rheinmetall",
+    "query": "GlobalFeed",
+    "title": "Rüstungsindustrie : Raketen, Panzer und Jets: Rheinmetall erweitert Kooperation mit US-Rüstungskonzern Lockheed Martin",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestung-rheinmetall-baut-zusammenarbeit-mit-us-konzern-lockheed-martin-aus-01/100154012.html",
+    "summary": "Auf der Rüstungsmesse DSEI in London präsentieren die Rüstungsunternehmen einen neuartigen Raketenpanzer. Rheinmetall kündigt zudem die Lieferung von Flugabwehrsystemen an die Ukraine an.",
+    "published_at_utc": "2025-09-12T07:36:00Z",
+    "hash": "2685b795f352f30e5b933a5b9f5c41bd1f8a80fdf1a1ff9c531b4661eb6a7170",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Te Ahumairangi Investment Management Ltd Invests $2.83 Million in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVEFFc2xPdk43QjIzSXhyWEVQOHR4aEltdkFLOW5FYTRlaGwtejhaX3JKZk5pYV9HbE9zVzNTZnlQVHJOZ1E5OG40TmNwQmNTUlNLRnJzdUdRM0JSODVUMFVxUHVXeWQ4WTlaX29RVXN1SHJtU001OXVvSXNCa0ZnWFBUVTJBQzNjNklwTU01SDlfYzFPYlFGTE5fZHJId2NJa3hfWlhkMnExdnpqaG9jdUgyWjVjSUplTTZqZU11Sl9iOWY2T01MMUM0eExzR19UVTlNRDVRZWRFUFFUb0pZQ0xR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-12T07:18:32Z",
-    "hash": "d10bb830d2398a820b4840d5b89b3f27ee87caae09174021bedf30f935339b30",
+    "published_at_utc": "2025-09-12T07:29:00Z",
+    "hash": "d36ef0c83983e84fc5cfe09639a3a79fe6924a0b2b9e276e229235551e448f5b",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Seeks Court Action Over Missing Gensler Texts - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbFZlVzZ3M05hTkt0MjVrZDNLdW50SDBFRHB4WUtxSGsyV3U2ZGVJT1h4NVAtbGhMLTZfdEtaQXlpVGZ2YlF6aGRMSjRLNy1BUWVGQVp5SFo4VjZUazBkdW5WZXRpaEx6WWdwVmNma3R5djZyUnZBcU1RdG1OaXVxVEVVR25PR2lGZ050ZUhlRzlrQQ?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Corporation $NVDA Shares Sold by Parnassus Investments LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFhJWXI2Sm5GNUxHS1ZZRmlhTnczTlVBeThKUTN1a3c1Y3dqRFV0T0xXM1ZWS0xBcmd4UmtBc1RpclQ4dm1RSG9sWElrZXE1SW1rZnJnUGY0b3poX0JGUnJtOGU5UGFlekZWaVRsVVQwd285c1NJdGVEX3BfTTBNU2xucXMyTkNzQm9vdVZkamU3QXllQ0YzbDZzc0FNTklqRE8zVlZmVE5ONEJReV83NkVhZUphZ0FYbm5NMnVYeExvbUk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-12T07:16:06Z",
-    "hash": "863195b708506503aa442438d23d1b337e28c579ea43e62843c37f2a2885a463",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana (SOL) Price: Galaxy Digital’s $536 Million Buying Spree Fuels Eight-Month High - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVpjTHUwRkNnbWxvS1MtY2pFSzJEeDRJNy1JQnZzY2xpdl9KaTF6MEV5dGlaS0xRUlNpcGk4ekN2YkE5cUdUeG03WUVyR0k3TWVvV3JBTkpZa0N5ZkNSN2hQNzU3Smg0SVdyY0VYbVBtNm9nb2dyWVUyX3JCaTNxaFhwWDNfN29QWXVlV05GQXBZbENDT0hRVllwcEhWaEk4ZmpocTBfdUs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T07:08:10Z",
-    "hash": "cda408a50a5b3ec7f8937253888f1210b519d27441115dc509190b9dc4dedb8d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer Is Getting More Reliant on Vaccines as Controversies Swirl - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3F1UlB0QnFWb2t1eWlERzltZ3Z5cXRMS1lpUnVfNV9ycHp6SmVaOTJreml0UTFmWTBXSzRqcXkyakk2YzBUOHVVa21tWmNFemZMRDUxMGVmRDZ6cVlYOWpocUZaT3N0Z1ZYeW1EWGs5eHFkcjN6dXRnNUlrYkF6OExWREVkMWpCMlYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T07:00:00Z",
-    "hash": "820cd241e31fea93eee56b0b27112e3598ee88c77579d996831104d091c4a271",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "New technology aids BYD expansion - China Daily",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxRnc5QkxfNV8tNzRqVmxFVGZIdkt3MUJzZktIbnhBdDVVdkFUWWNuc3hQbGY3cmtfMXo4SVZfVUJuVVhYVW52YllRcnBKSGhROFljZDlWc05wdFNjc21pVmNuY2xIMzNqR21qbU85aVprSWJnd18wWmFHTXpqUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T06:55:00Z",
-    "hash": "6eadab29d87e36624ce4b714f8d2eec41c6186cdcf26904f0fc462642bd242b8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Galaxy Digital Buys 2.31 Million Solana Tokens Worth Nearly $536 Million - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmt1MG5pYkg1aHV4UzlPOTR2WEViaFkzUEo1QVJUbUhXSHI2MVE0b2dyUFFHeFRnTkNZVVpWeG03YmVoUHFYMlh6Z2VfMktFSXNtZnVqOEQ0WkRKaHROb0NPd05TenNlZmZFSjIxNDhiNGxROUpZMlk4ejFmNXMtZzV6UnRfemRXWWREblhNZ1RRVEVhMWZ6RGpqak9YcXVGbEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T06:51:15Z",
-    "hash": "6756e983b4d02a2d64912beed1f17943db99f11f63f8b2c4bb50405bec330c1b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Surges Above $235 as Nasdaq Listing, ETF Hopes, and Upgrades Drive Momentum - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcFVrMlRRbFZVR2NYbklsQ3lMWlNZYTVwUG5nY2hnWnhQNXlWbC1ZbmxnQnBLWllyS04wSGdhbzhwQ1dQYUtWdS1sNVJ0bWpCZWx4VHhUVk1jRlJBNEYzMUlTNWppbTJVVUlEQ1lCU1BNb01NVkR2Nmd1b1dOTFhpVFdXRElxeUhFS2VNOV9wUWZibEVQcUNMaTZTejlXRlBjUEdVWFY0N2NWN1RT?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-12T06:47:57Z",
-    "hash": "ff892569ef4ae181ae530f314dc6bbc439138da2e610cb349942a2f1895191ae",
+    "published_at_utc": "2025-09-12T07:28:16Z",
+    "hash": "0832340d97157734160e9cd4d032c784a3483ce4241c6d3bbbeb6c45504df195",
     "source": "gnews"
   }
 ]
