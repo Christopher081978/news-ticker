@@ -1,12 +1,32 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Forms Tight $3.00–$3.07 Range as Triangle Pattern Nears Resolution - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHZ0UDI1TFRmUFREYkFiUUpwTGliT2ZPUWFtX0JRZUZTM1NaS2l5a1ZHSW9Pd28teTI4WDZXVEoyalFIaVVhRWF3aUFNNDZWYmttVWpxNFlwYmx4NWY4QU42X3l1UVdjSnFjN0hHUmZsemRsWDhCazUyRjVTdk5uWGxuS1l4MlhORldoUVRBM0F6MEF5al9OQjZTd2g0djVqZnZLSE1qbFFmOG9Cd2w3SWtIMW80dExmLVE?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin ETFs Lead Institutional Flows as Ethereum Funds Face Heavy Outflows - blockchainmagazine.net",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ub2NkZzFXb3U0MHFVOEFBNnJ3djNYZEt3UUx1YkZrcndISHlNSFVKQlV3LXIyaTFkYkpYcjFtSi1rLURwYzZ4R2ZmMzNQckVwYlhaVW9rV2d2VnR1S191TDlRbnpERzE3UU1uZnhiaTFMVjVwWnVVYg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-12T03:44:22Z",
-    "hash": "fd0ac52a22fa0b7614c96815f5cea555f253c9312059f446f0e17e72d000ef3f",
+    "published_at_utc": "2025-09-12T04:11:26Z",
+    "hash": "0bb1c8fea468d0063dcde48b6a13560c0eb6231fb83b1573fc3ebdd40b187f4f",
     "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "Rheinmetall chief calls for more investment in low-cost anti-drone capabilities - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40R19hRmNHNVBzN20tdFFJWXk4RTZLYlh0R3ZoMDU4dk9NRGNDYjRvMEVtcWwzYWhhUTFLWExMdERtemxTWlVWNjBsalhIVDdqTnY0UnJDZkt0SUlBdTlBRE5sVFlncXo5R2hHNnAza1c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-12T04:00:20Z",
+    "hash": "b9e06b2bcb84a6e2871b2a0a29e800a45d5218eea93e85b86ecae0bc384405bc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "IR/Press",
+    "title": "Panasonic Industry will Double the Production Capacity of MEGTRON Multi-layer Circuit Board Materials Over the Next Five Years",
+    "url": "https://news.panasonic.com/global/press/en250912-3",
+    "summary": "",
+    "published_at_utc": "2025-09-12T04:00:00Z",
+    "hash": "0052d5da19256dff8c92f50b759fbd106b0ed6889f6523d3912655a4d1acc4f3",
+    "source": "rss:news.panasonic.com"
   }
 ]
