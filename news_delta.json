@@ -1,252 +1,92 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Position Boosted by First Long Island Investors LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONUpPZHM3dTFXSDdlT19RLThrdHF4eHV4cURQT1VlUlZsVmR5ZWl5eFJ0clh6Ul9HZ0VWV05Tdks3aXVnOWVkVkFpSXJPRmptdjYwckRDLTNoamxhS3NRTndJZkFPd2dmUzhvX2N1U2FGNUJibk8tZk0yaHcwTkRtWE43SFYzLWNIbTJEOFo5dk1QcTZzcng4TGNkNzFtUk1nenlaRkVkbGNjMS1SNzg4VzNpeHNYVXA4blZNQTR3VlVmMEdtb3U2UkMwWlRST2toOHdENzY2RHdmOEJlbTZVZGh3VjRBU19maVhmSGxOakNQSnFJMmc?oc=5",
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer Inc. $PFE Shares Acquired by Lynx Investment Advisory - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOalNaSnRad292Q3lGOUxOQWNTYUdMUjFTS0Y5NjRJZHA4WmxkWThUX0JqdWZBSUxacnBSekZtQlZja0ktSWpGOGxtbVFMNDNPbWN2RjFoVThGMzhfYjdmV0prV0NTWDlCdHpHZDlfbjN0YXVYbEhSSlIzcmNQUFQtYWNzc0x3aDRNTGNGd25NZ3RKMEx5S2stS3pYeE9MbjFMNnhoanVXemY5NGQ1RUctWDVDTlRqN0RubGs4?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-13T10:18:21Z",
-    "hash": "6d236021a37aa4101bf1d8cb45527889d4ec55a98abcf4b5d4e1011ea7f3dbca",
+    "published_at_utc": "2025-09-13T10:38:17Z",
+    "hash": "3eebe5aa7032840d9960d85b0830b7de7d158a36836c6652d9dd4510742e63a7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "Advisors Capital Management LLC Sells 106,334 Shares of Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSUo5RHljNk1XY2dybXpyNXYtcDNCT3FMcFgyakxkbkRJVXVyZ3A4UHVmYmUxYjMxS0ZUWU1yS1lnRDdFQXhBZS1ZLXFmdlRIbzZsR0JFbmgtVHNZbnQ0V1BENEt3RkwxcjFHeVNFYndJclA4NkcyZ2M5RGpzakhVTktUSkpIaGtDZUJleXd5cXphM2dRVS1oU0tycG5SdTY1ZFdoY1JLSWdmZ2JfUDR2dnc2ZFhZYkR5NjNVUVpnMlNHT3pJbjdSaHUySQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T10:36:21Z",
+    "hash": "e18e0098769777680d52091758d60033c2e13058ca404e23467dc1b5d3de84cf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Jumps 2.53% Amid Growing Institutional Buzz - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDJNX25MLV9TMU4tbko4ZnJ4d3d4dFRtTEt1cnpuTE1idGZKYXJybUttWE4xZl9lSlViTWc4bklHMzY3VFE4bkwxZlF1RXlSYndfM256cTBEOFBOc0RHVHBhS280YzFOSWprVkZuSXZlSVlJSUxhMm9RRnZMM1J6cC1aZUFhc3Ji?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T10:35:04Z",
+    "hash": "8473a3bdbdfa3d8df869d2241e627284d2e0d3aba1764bd25d1d700454565478",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Forecast: ETH Could Touch $10,000 In 2026 & This Altcoin At $0.10 Could Achieve $8 - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2VKNjJUeTl1U2RaZmlPYXZnQlhkQU9PVFlFV0VLc0NfS1BhNW1zN3BydG90UUhDdmljcWlzMmJBTDlyZTBJeU9nazkyZzJJc2xRTFFyY0I4ejgzTGFrS0gwZWxMMjJwR1RUZ2pma1kxQ1dfVE5Zc0NxRFp5ZktwU2tOcHpYYTJWdnRuUzFCcXJuT0VhT0dHMFpBcWc5Z2x3VWFLRFVkUjBMR1p6WndsY1dkanRkN0tweEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T10:34:00Z",
+    "hash": "73419ef6388b8b391a135413937420ef8c85aa0f78bd89869f653e583924e8f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Here's Why October Will Be Critical for XRP - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZV9tZVlQQXRXQXpqbl95WVR4QmF4bWFZZ2JyZ0RmMnBNb0JJNzhHMExvbHFHYTAwYWpYZzN1Q01NQTdXamp1QjRoNFdTWHBFSzBwSmVSMWpfM1pSeUNjUkgzeDlRZENWS0RIVEVGV3hLMkk5RlNaQkptSzE5TUhURzJoN0R6ZVVGTUR5SUNB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T10:30:00Z",
+    "hash": "60880fb4100a29d2b4c0332cd709505daf47058205002bed1cecabdef38a7702",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "The GLP-1 Oral Frontier: Novo Nordisk And Eli Lilly's 100-Year Duel Enters Its Next Chapter - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUXZKZVZFTUx0amJoOVRBeHFmNHFGeHdTdkR1b3EwZFJmcFl3ZWdoNVpqYkJKcUNEWEpzWUNHM25vT1d6V2V0REFDdFdkeXRLbXRHSTVpX19ESkY2c21CXzQwMEMwSXRPWkdFeVA5X1VwSXQ5cUFYdVNWMTBUZUJTZEpnVnRNVFlpbWh0ZHlDcDQtbHBzRnN5X2N0LVdNeGNieDYyQjlTbkZseWZGekdLWkZZa1hUT1dnX0JZeEY3Y3NmSnItM3RNSGFR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T10:30:00Z",
+    "hash": "7b18e26d0e4c798322cff54256a3542e00900fee03be626c946625e896271efd",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "1248 Management LLC Takes Position in CrowdStrike $CRWD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ21vWmVJUUh2ZWNJRlMzN0EtS25wb0lzQ3JyZ3Fsenp4X0dvQTROSHFjMWFwNlZsQ2w2NEV4bXVSeEZ6UUxoQlFUVHV2RWhYa1l1Y0pLLWdKNjFQRk5sS1BVNUVJRF9NQVhRa1RvYVZwbDhvd3oyMmRhSjhYUWY1WXpVMkVRTDduTVdrNHAyXzFRUXBkMGFHYlVucmVvanNVWE9TTG43aVZDenlNdFJtVjZSdEV0dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T10:28:15Z",
+    "hash": "a5171529da1c61580ab5ef533d2babfaf39fc389a1d2245560919a7061de2b99",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
     "query": "UNH",
-    "title": "UnitedHealth Group Incorporated $UNH Stake Raised by Nicola Wealth Management LTD. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaGdhMTlSdHQzbGhSMFpuVVduSFB0V184dTlKUFB3emdqUUNLSXp5NkJtVERmLXpaVDBndGdlMHduQXRzTFBraDZvbWdBTEp2YnMzOGozV05aVFdSUEoxbXZTZ1VIcWR2SXpYTGMxWHFMOTFPTnpJZk51RUZud2VNWmlzbjRJT3pueUtueHJBYVZsTmhwa2dCNDBJcE5VeVN3Y2RvOW44OGxja3FwSDBFdzZmS19SQzZOdDFMV2VxLUhRMWx2Y0pGSnh2M2M0NnlSOTNnMURnelU?oc=5",
+    "title": "1248 Management LLC Lowers Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWFYU1RIM3AxRWVSbVRCUHFfMXNtbmJEU2JVNF9HejNicUVYN0N4SXlPX01fU19PZzI0NzdaMVZKT1o0bHM4SXFKRG44WENZS3lMS0w4dkN5bW9HbjdOa3N4ZTJfR3JUTGNYUHBnR1FQVmN3RHVzN2dXUDFfT1hRRVF6LXpnX3FHOS1oc0lWZWhKSW5VV0FISlp5OTVVZTYxZGFEeEZacUtWMUt6UTFxa250LVk2WW9JYVl6TVY0TzhzaW1xZkpHQjJzYkFzcWty?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-13T10:18:16Z",
-    "hash": "381ff65a7a70b3143001a9e6bc00c49b1c2e31e58712d427930f319d0d5a5f93",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Alphabet Inc. $GOOGL Position Trimmed by First Long Island Investors LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbm5XbVBhMFp2RVRwLU1YMEwwcHRtMHdQSFBNTFgwZkhCRnJvS3lPZVVjRV9TS2ZwLWhyTmlNbmpQZWpRVzdEX0d0a1pqZFNUbkVQUGJJQlhnUE44VjZwWHo2VVFXeVVIWFV3dC1PdWd0MzJ0V3l6b1VmUHZic1FSRE9UZ0w2VzdXaUF0bXdjMEVaQUg3bXZvdXdKMWwzbVNDZXBuQ3VzLTljeTJCTjVjUGoxOVlwV295VFhEWWxHajRUZC0ya1c3NmtfWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:18:16Z",
-    "hash": "27c75265574d439cc6a8d79f64e1c213fb0b894c15a2b5eaadca4c334b74d031",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "First Long Island Investors LLC Decreases Stock Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaVpFYlcyN2lzakN2X0hmRGlOdWVXUEttQ3VFSThjTXU2aHZUaWw4TnRJcEZUYlotNlp5MXVaOFhlV3hJb2xYR01QdXo2UmF3TjNfUUZXYXl3WTZoYmhETDZXc2xsN3IyaFlZbl9BaGxfTkRTUk1zX3hrNDVMWkxSZ0M5TXN0RldTZC1hRU9ic3gyUlpjTDd1Z0NfT2ZWN2tveDZoWmtNNm84emUyU1VJMjRCajczRWdJV2NUaURGeXVXX0xDVGNacEVCU0tZRWl2bGhMVDE2ZWdFOWZtX2JzcDVVcHBhRk9lSjdLXw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:18:13Z",
-    "hash": "a2ea5001672ce9dd198ca311ebf386a06e0971cdab6626960e53e3eec4818a26",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "eCIO Inc. Buys New Stake in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGg3cWtkT2RCeVhIODMxMUVvOWJPcWpKRFZFczAwM1NfdGFmZ2w3NWhlUVk1eHZTTTJGaUtDSmZ5WlUtNDJTVlZEWWZOTzZ4Ym9TQ2dxOEdjRnFJa0dwX1B6SGJtU2FFMTlZMm5hdlJaSEV2TWtHdUJUdG5KYTlFUi1NcEhjR2ZCd2JlYm1kSTU2YTZsZXR6bnVjczI1anJ3blZhamNCcWE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:18:13Z",
-    "hash": "2118f0ee74fbc99102e059f3ab4f19bc4b2a35a3e1b806dd7bfdaad081a01267",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Nicola Wealth Management LTD. Sells 9,000 Shares of Alphabet Inc. $GOOGL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTRKZVIxRHVyY19LVXB0TjdUVmpxZjFyc3FXUENkZkFfTC1Yeks4SXJTa0VUY2dQVk4tT2dPUGFoV0Q3dldiX2NXZHRXRjZjQVNqcWZMX1FaN1dmaG5KejlyMjRwSG9KemxZZkxncUREaGl1TlI5d3ZIeHJwZjl6aUFodURqdWxfU2JJandGOERKSmZqZjh2QjFQOUUxc1ZfeklhYjA5Y2tJNEJfMXVHY1hOSGh0QWcxckpxUGtkR1BFTDNfaHBnTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:18:13Z",
-    "hash": "87f6ead047e89aead1906f451e30c7f7e731eae724527dd16bd69cdee22a12c2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Cim LLC Buys 27,230 Shares of Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGVCWFRRQ0JwVm9hWGdFTFBCaHM0TmhNZjdSSjRVcWdqMGp1SkI0b0pEQndabFRMYlgxX3RVbVJ5QjhNYU1zRTNpNjlKclp5ODMzcmV4bVpFWkhFazhNRnZrRzFIa01qM2dxSTBVMHhfN0c1TFdhLW5OdGZxMGRENjFkQkZHUGxVb3E1aVZST2FScVBjRFNUTFlOTzByMnV0ZHpoTm4xV29MeHczelZDSUJmaHpaMVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:09:03Z",
-    "hash": "035b15f14582c61738176e091bc36bd0a4219ac7e95f7281e82622043e74203b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk A/S $NVO Shares Bought by Cim LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcW5GNzBmYmNFd3BXSE14R05GZmhKb1E1c1FvX0hDOWFRYlhRQmZLRW11VnNSSzJtU0lBTW8wYXk3OWpsX1F4MEQ0U1JGUEZoR1luMDFGcjNSUDJWak5fMDR6OUgtbXhnZFA3OVhPMV9kNjd5R1hqUjFhWWt3aHZoeGptNndOTEdHQUdRbl8xZTRJMm5maHpDazlUamFhUHhFZHh3eGNPVGE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:09:02Z",
-    "hash": "92454c15b03c80782ef9a3d6140af3ad1dd6059f507408d327bc5c76d77221f0",
+    "published_at_utc": "2025-09-13T10:28:14Z",
+    "hash": "f30880101e9a77c1105f83ff3929de2b8d83ca81f761dde3f9a8a1672a5e6d83",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Google",
-    "title": "Militia Capital Partners LP Purchases 31,500 Shares of Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLWJiUXk4b09tUnVpQmNfVFV3UnpPMktYSjFYM3plWEFOUE1EcHc2c1g4UWZFNTZoRXFBOWNhN3FvY01FS2NIWnY5YTZRR2FJeWkyTS03aHZBSzRXclNGMVVIQkRnRW9wVUNuZmNaZl83S0luUmFNcUpONnpOcUV1OGxMbnptcmR0ZklYZ2ZLSHBHYUl4T0ZiQVZIV1A5UWhZVnA2cVZsa0FWb1IxZXJ0SXdScjBYQnNKb0s5Q0pibTdwNmZVUjFkc3ZRN00?oc=5",
+    "title": "Compass Financial Services Inc Increases Stock Position in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYm5OVGNXV2xPNFRSV2ZpMDhtQmpBMWxQVm12TW9PQ1FYU1JtdWRObVlFdlNaWE9oUkttMC1RaFpQLWh5U2lUdXFXTk9sV1B6ZjZSa1ZZX0dDTjFZd0xhZHF2amIxdFpjRGNWOWZ2UDdHRmtNa0VaOXgzY3RyQWtlQjZMMk5ZclZSSTlRNzFlMVVURmZNZmFUTzVySkFjOHZ2aHRITzRBUWpZZFBwXzdkRmMxRmZNVkdPZk5Oa1VYNDhZV2FZazZpbTFJTXh5ei1sckpxQg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-13T10:09:02Z",
-    "hash": "869c2e187e8f47b5f595da92563834b39266dfe21e242637ab5a04c5771e67da",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Militia Capital Partners LP Decreases Stake in Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazJVd3N2NHpHems4SGNiOWNOdmFOOXpGM1BtRXpzNVFCMDZhRzE4ZkVmazVEVGlHTjg1OGdSVnNCZTlJYTYzemNzWG5aLVZ2UnBIblo2Z3plUW1ERUtZYlEzaGw5Q1ltcDZUbGdLNTJyVlNFam1HMUtxQWM3QUtRUFdwMDgwU05Ra2kyTTZXcGJsZGMyNmZlRDlGQW1MQktLVDhEWjlYODNlTzRjNjRLN0cxdXJIcjVaMlBmQlRZQV9VdmxBazVhSnNUN21KLWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:09:02Z",
-    "hash": "4d70d01afc77092323d30b80600fa6c79cfc4ae1a9f05a9d28b0c8b22ed92b9c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Why the October 18-25 SEC Deadlines Could Trigger a Breakout - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMG5faVZMcGJHcklndnpjaHlPbW5fTk5oVlRUWGoyXzhJMUtmUWpfLUVyN1pfYUxuY3FzelpSb0pvWlh3Yzg3WVlBNFA3TmdZdEN1ZXdmc3JWdmNKRTV1RC1pYnQyU01iLWRpOTRsQnFfQzEzRi1vVW1qeDZyLUN3ZjRTMktiTmEyUElKRDVBN1RJT3pKV3ZtNDljNjlrZ2tyTEZibmg0SXJieEFEVk1n?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:08:00Z",
-    "hash": "81cafd34e565a1e3e3865fd49a00ea1c5b20006bf00d6637c3048a3dbe35ce8b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: SOL Jumps 15% In 7 Days Overtaking BNB But Which Altcoins Could 20x By January - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGpWSkkxdHgxaG1FYk5kM0o5akdqXzlZdzlRcDVFRTVldVAzUGJONXdoMlNQS0dTMHdpNTBjQU11WDMteWhWdjhRYmd5c3I5cjVUcmpMTklISTJuTkFGQzVtZHFVQUNxcGNHZ2NEdmszX1BJc09yVmJyLWRlWjRUR1VOSm1QanV2cVJWQnlQby1wT1FDREppSU91MzQ5azlHb2QtdkxJMzNaS0Zx?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:08:00Z",
-    "hash": "06ba69b2bb2bac12c8a71a3ce119c57b80c155f75b117f9111edde4c52ae8af7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Dogecoin explodes despite a new block of its ETF in the United States - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdzZnOFJ2Yzh5WS1BWmZ0aGZSd2dFWWNHX0xfYWE1RFlKazVEQjNYTkJTVFgxZnpoRkp3aFNqWDZnWU5nbWFsanVZbGc1LXFoQkpTN3l3SzF3RElDSmdHQXpxT3lBOFVaSkdFc19zNHEtRUlNZVE5Q2pOSmdXYjhubFFiOGdEV0dSSGV3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:05:00Z",
-    "hash": "3034b64fd87f734f0a2d01444350e0c69b4c01a2ee064b23c5598ffa9ec379c7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "BNB Blasting Another Crypto All-Time High: Is The Binance Coin Controlled by The Exchange Cabal? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWFxNFZDWmtoX2F4ZXdjNjdnNjRxTnNJakV6cXlvMGZCdmlZZDBUdGR3M05Ebll4TE9pVTJlRWZGQTNranc3TWx1d1B2SF9PU2h5b0hGUnl1SVkyRHpqeXprSUZzU3A4RHZ0czJKbGplQkhoa2lhLUtydWxCMVlnclRWWHdaUmhrdjJXZjRuNlpLTUN0ZnJ0aFJYMXppS1BUbWhEeUxwNHRGT001LWhSSXpqWVFFYTNEWUlQOUFtV1pGUWloYU9VbmowX1Q?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:03:32Z",
-    "hash": "e26649e4e7098e63b7fc2bf32ddbca50f82a7025aa427d691659837859f38401",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "BNB Price News: Ecosystem Surge Fuels ATH Hopes, XRP Bulls Target $5, While Punisher Coin’s Explosive Presale Eyes 226x ROI and 1000x Potential - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbGdOamdobFQteU10cW96d2NsWVZ2aWVjMy00S3BaVTVDdTB0dDdxbEkzLXF4U3R1cUZLSDdPNHhCVDEzaEJFbEpzZEZkQmJlREpleVNTV2VsOFhfSW9qUk9WVEMtTUtNQlJMV2hTa2JHdWxXNmtrQlQxelFnMVdHd2cwWnlsRTJ4WkpGeHF3U0hzWndXWHFYS3Jha2M4NnduaHNkVFRHYzh3Ny1ERjh6LXBza1h4cTJiZVRkT1dSRVRrNS1BYnZfb2tEMzFETDBKYjVnbTY1MlR1TWl4X01HSTNDNGxWbEY5dTBvNHVwYVpSTl9wU1V3QkN3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:02:22Z",
-    "hash": "a68bbf557b422bffe14288ab2846522167e820c98124f106f3ec145d0af76199",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth Group Incorporated $UNH Position Increased by Osterweis Capital Management Inc. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM0ZaaTdkaUhjb3ZYc2hjUC1BdVNUNnFlcDdyOTJYZHhVSFhybGdsdVZvRmdyanoxWE5yZWIxTXl3QmJ3U3Q0dDJkSE8xMTNobjRMWmNoclpHeXJTQW5icUxLQm1MYUFWWDBLSlpueVVTVEgwLXRXcWZKYTNfSE13eXVHbWVERTZGNEIwMVZhcUtTTzh3anl6aE0yR2l1ckNRYlFHeDhyTXNzVmRlZ3lEdmNWQVVtdWRjYWhFZkZKTVd5NWo5SERCZnQxT2Q2MUR2ZmxRMHM2bFlHZ1pYRVRpRFdFSEZ6UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:01:03Z",
-    "hash": "919dc80a0ef9b3c88eac2d229d9751d479c5e13f196122edea7b3f8682961dac",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Osterweis Capital Management Inc. Sells 2,815 Shares of Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTVVNjl4RUlHOGlMMkZHWjNKSnNPYmYxZGJ6MEllb2Z3eWU5Q2IxNXdOemVyQkxUbEIzZEFyZ0YxVktjWDZQVzk3c18wQlU1U2puY1gwQUxvTmNjcXkwN2FOeE14dmY2REl5cFdLZzE4T0JHbC01MF85TzVSQ3VlZVE0Tk04aGgyZ1pyajZCSDVLR2N6dEt1M1ROY08xVmdybWZrUndlcjFUblI2REx5QnYwbXFkVXNIdEc5el9GUkpoQTYwS214dkozT3Q?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:01:03Z",
-    "hash": "adcf1d86a93d3db8fbd28363b0f24ee76d6136c4c8d1c0b1ef1bdb904ad9375d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Cim LLC Decreases Stake in Alphabet Inc. $GOOGL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0dWdzZxSGJ5c1BfWUhReF9IYnRIN0x6am1qMXV1bHhteUZUMkhDYjhEYldyOXdlWS00czdkNDdZZnNKeXFaNnl5dVBrampfNnZTZjk0YzN4YTB6Y2R0V0RJWDEwZkpNTk5adF9VV1RoODNUa1JjSENwZ25zNFFFdlJDMERoWGJHaXE2eTFrMjBQSjY5R3VxX2M3dlVKUEt5TllJelFsUGtIdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:01:03Z",
-    "hash": "98f0662115fbbb01c7b71f674f6bf63b617ada8e39eb627e34a871789f55e41d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Surges 10% as These Holders Boost Accumulation - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBULUlkX04zQVhhUm5SZGZ4OHJkbnA2MzNUQ1RrZzV4UDhIRG1xaDRBNWFHOGJZeU5lUW9odnFvQy0yYmJnM19xREc3aXJLbm5NSEFuekRhdXR6Mnd5cFNLZGNWQnVoM0stS2k0QmxaOTVNMTEwTlhPeUVRVU85bDA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:00:00Z",
-    "hash": "0be618a418477fce5ac06d61a27f22e448e0b1c9d47740429ec68ed0654c6ab5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Could This AI Coin Flip Cardano in Market Cap by 2026? - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGx3b0N5UkVYSGJNUzNtWTlKMGdMQXotLWRQNG04R0F3V3J5TWdvdVZHcC1FMGtTZUdRQV9RR2lYWjBkcWhEZ3NuQWh4Q1B3Z2pOQzZUMjQwQmQ3a1hfVDR1SHNwZkRCQzd4QURCZEg3cjd5czR5RUNHMWJhNmdFSDkwbG1LOUxE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T10:00:00Z",
-    "hash": "a96f6ada8187039276945891873911da5da3d3ca9449ad93cbc1eb208f7264f2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Insider Selling: NVIDIA (NASDAQ:NVDA) CEO Sells 75,000 Shares of Stock - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUlUyOGxqOFZEWURydm40UWg5RkNaM0luODJlU2xXY2xsQm1ac1VwcVVmTjdKdVVNSENaQzhxTktTRTZQcjdiYnlFN0tsT0c4cEZrWTFRMFVZcDlEckM3X2dGQkxzeEZWZGYzcDA0eE1LanBSTVJYTEl0U0FhaVo2dUpuaVJvR3B1M05IWkI0VlVpcEdGYUJpZ2txZjhKb2JVMWM1eFBLV1hJakdrN3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T09:55:03Z",
-    "hash": "189e52161713bc1e0ddf8354103f57deb213a85f7449bc95fdab7324f9370196",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "Invst LLC Purchases 4,102 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWFdLVkljOG9sLXp2T2NGSjNLTVR1c3BNejNpTHNDMlZIWmlfUTB6MGZ6OFREUjI0a3NOeEZESUVsSHktZ3l6ZjJ0RjBmVnlTTzBBckNtUDNDTlVCZjl0UVVIY090XzN3ZzlQRHpPaU03cElCcW9mU0x2QlVCem1adGZNVVk2ZlF5Mk1MOXpXNnNoS2gteUE1XzYxclhKOEJ3aXp4alUwdjg4MlBQX183dkpoV3JxWGlLMzRzaGtKeWoyT0F3WjNPazBMaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T09:50:42Z",
-    "hash": "16ec3ce86eb1d122b9be9225980bc52f0c5d1fd4727ccff65d072426705a3991",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Alphabet Inc. $GOOGL Shares Sold by Invst LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVVEeFlqeVNOZHpEOU1vYWcxVUluc1hlWVBKLXJLV05xejhuZGRCaG5aeW96Sk53OUZMbkphLW1qdlJWdk9xb2xiNnljbVQtQnBiN3ZJeHpJdkRxeTV2Y0l4b1JsMzd4QV84aFhqOERkbHZueDBYdUV5T2tRUm5kOTdxUlpTUnljVzNCZzJkNTR4QVF4S0JyMlNmS25rTUJETGxiMHBFYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T09:50:42Z",
-    "hash": "27708cbf12ac2173dc65f34ddf2d41c222e9a500232ad61d89f90799043d8a6a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Alphabet Inc. $GOOGL Shares Bought by Modern Wealth Management LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjZ5ckxDT0h5YmZrTE40X0E3Wk9GREU5MVFfS0dGd3JLT0tJMDhLbWVub1FDMXc3aVRnQ1d4aFZKTHBadWxKbHhodFVJU2hpNUtZRjRPUW0wNXNzZVNweENxbVZmQ1p5WE44RnpzWDJzSkUzNTVoeENHY0wxY3A0bUg0RF9tT3JCWnE5QXVWamJDNFN0WkNUemNmYjhDbndleWxmUkttOGMybW4zNy02UU5XNk1DZkZ5TkM2ZkpwWUdFN1U?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T09:48:41Z",
-    "hash": "8cc7ca28e9c8d2d152f84435419132df1841c91c9495921b4cd4ff7891ce125a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Targets $360 After Breakout - The Tradable",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZU1pUzAtVVBXT0I3ZGJFVE05RGNtaGVYelBBUUQtTFhaS19Id0ZqRUE1MVB6dkFtZUtPaGFfX0xzOExMWkdMRU1lWDliMy05X3hnODdXeWZKMnAwOGJwajNJV0dJSUF5TFp3SjFST2FpejNUWjRxWHpLT25Yc09CZm1oX0tLY0xhZW0wTnRYR1U?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-13T09:48:15Z",
-    "hash": "2a38c8cee9416d34feb447946941fe494c1bd58d19eb93d7d0acdb3710c4bfc8",
+    "published_at_utc": "2025-09-13T10:28:14Z",
+    "hash": "2b983524ad620ba9c8cc3a860bd5d0b74316edbfaa5409d99074ba1418ab38c5",
     "source": "gnews"
   }
 ]
