@@ -1,12 +1,82 @@
 [
   {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Berkshire Hathaway’s UnitedHealth stake still trailing even as stock rips higher - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEV5ZXpqMFJRNVllZ1pMaGdzUDZCMkhrRks2UUtTTEhEa3pvTXFfVjllN21IekF2TVFTalY2N2YyRE1rU2NrUzA1VlI1U1VQMFpfSjNFcWY5S2VMZ09LbDFjVEhFTGZCUzZ1U0pmaUFoY1E4bXlBMXNGcnB0WklwbQ?oc=5",
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Logan Capital Management Inc. Boosts Stock Holdings in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkpOS0h0Qy1GRndiWDdVWXMwM3pGMGs0NWRrWC10aFgySWpCem90akhtMk9PWE5mUHFucVU0dVJ4NlNJNDZiZ2tCMWtnbmo1Vm5LY0RIelUwUFJOZ1FqejZnZE40SEJ6WDNFa1VCSWEwR29hY3l1Z0t2ekNGVG96eHNlLWduWmoxX29SYV9PTnVpeVMzTmJYV0xaalk5UGtqaHhJanZTTzRUWWJBY0lNQzZOb2gybzVvU0lJR0xCcHMwYjk2T24yZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-13T16:38:00Z",
-    "hash": "adea277070694cded64441a24415f5e03ae9e80f367725a09b4f7d6951d8c04d",
+    "published_at_utc": "2025-09-13T17:16:14Z",
+    "hash": "0558bb2872ae8c1b0804a923b58f8ed96fe59a989e112a142c301a0751a3065e",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group (UNH) Is Up 11.8% After Medicare Advantage Star Rating Confirmation Has the Bull Case Changed? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnljV195amlCa2NzQTJtOXRHVG9ia1h3a3Z0SEZweUprVGxVa0FMdlBxX2pDUVAtdmxNY1pBeXNacVY1NjdzUkxMN0FhYlM4NWtkQjJYdWthdjU0eTU4U0FNQlhEMy1TdTNnekpTV081Mi1teVdmOXNmaVgyRFF3R1Bibnp1a2k4dzdNaHhTV0h3cXFrT1B6MkJVVVJDWHBmdGZPR3lOZmpZa1JPa0Z2a3BDdVZYRmRySFRvbWZJeGU3Z19uSUNkOTBpX2R3ZlVOclHSAdcBQVVfeXFMTzM5ZU5kVmNtaHNRa3lzVzg5d0JJcTVXQkpyZjAxcmUwaXJZYmlDbjJIZ3lRbnh0bHVLVk56eDROSEZUTE9UV2RCY0VyVW1sdkZwSXU5WmZERl9Bc2s2S3V0OS1UZU01RWpRa0hNRl9NaTI3UmxRVVVsbW1pVHBYeDdNLTlxaHF5emtNdDlyblFKNnR3N0tZSThva1R2dFNwZ0p4SGRJenVxeEtuMk5DU3FDeG9tckFJSUdfV0lkb1BiTUtpaE5iZThXbkhNUkZJZmYzV2JYMzA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T17:10:23Z",
+    "hash": "869aeeacf72f1e265bccee1e5367cdf1e85549841bec3c159bae0a8db53bb8d1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "This Altcoin Could 40x Before Solana and XRP ETFs Secure Approval, Say Analysts - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2t3aTE4NU50ZFpoNDN5Y2tIWnZBSFoxT2hVSnMyaDhoRjhSZWU0X1V1T1VTUEpSMENTMFBfVnVHbHVKbURBNWhNX0JrWUdEQml3VzVhRnR5WlpLME1WRUM3cWc2QnUxMW9rSEw0NnZFVVdSakJrYVgtOWhOR2JEV3pPTGFGUFdCbDl5NXFHYmtIZDVSeGI3MlM1aG04TEsxMmpFamZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T17:07:19Z",
+    "hash": "e86e170307977107edcc4fd7a3654d000c5effa78c82e5fbe6547f26f65074b3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "This Altcoin Could 40x Before Solana and XRP ETFs Secure Approval, Say Analysts - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2t3aTE4NU50ZFpoNDN5Y2tIWnZBSFoxT2hVSnMyaDhoRjhSZWU0X1V1T1VTUEpSMENTMFBfVnVHbHVKbURBNWhNX0JrWUdEQml3VzVhRnR5WlpLME1WRUM3cWc2QnUxMW9rSEw0NnZFVVdSakJrYVgtOWhOR2JEV3pPTGFGUFdCbDl5NXFHYmtIZDVSeGI3MlM1aG04TEsxMmpFamZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T17:07:19Z",
+    "hash": "e86e170307977107edcc4fd7a3654d000c5effa78c82e5fbe6547f26f65074b3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Built on Solana, Better Than SOL: How VFX Token 67.7% APY Beats Native Staking - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWXVuN0VRdHE3d1hLUjhfM3J5aW1qMjQ0NzFaY2ZzRW5yV1FaRlJfa0NXMjVFeGxGSnFlNTdzR0tqYXVYYXlVRjZCa0JWV0xxeFRJa3FRbmlMUGg0TU04ZUZXQjdDN0pmcFgyUWRhNFkxbjJWMXhyX2tRTHZzSURIVmc3NXg1LVcwR1h4eWp3MTBnWktlN3hySENKUzY4UVBPX25renpn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T17:02:35Z",
+    "hash": "2db88e8e3d1fd2feec1b4cf2909c8f5f0ac197e6ee3a85aa6517047a5182d3d9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab (NASDAQ:RKLB) Trading 6.1% Higher - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQczl4WTRqUEJKRHd6c29zQWRZWnlhRFNrNU1BcGcyQ2hlMEdpNXhwbnd3eUxJZHRDU1lKQjBLZnFxbG5aVjFIclJhVkZZRDViMUpnSHhqSEY3aUhnUGZLdlZpaDhueTh2QnBaR2FUU0dsM1doMDVjVlpReXRPTnE4bDdYeUN5NnJJSkV6bWExQ0VXT0dwNzVtenVSc21GbmhKNFRXT3RR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T17:01:11Z",
+    "hash": "0843ca03422b97a28de036c4873e7d4addabfd27afb31d890542f29ceda830b3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Price: XRP Could Rally 20% In 2025 But Investors Favour Altcoins Like Remittix To Outperform With 20x Gains - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNc2xNOTdGc1JXdFN5YXZwQzRpWXlDN29KSHMxeWo0ZE9GUDJ1TVNMa3dlYXNDa1RrTXF3TzQ3Vmd0aV93U0ttY2tZdURfQXVpWGVJODdiU1pPa3ExbTlBZVpPS3hHRk1BNlcyS2dFelI4YUNobl9ObHR4bEtxZUV3SGVNbVlqa2tGV29GV25ONVExTlVDUVVrTEw5RG9nN1RScWJpNmpkTVhMSFRwbHFXOEQ3bzJQRWRKQ25FVjljVllWZHlyaGI1djJURE1MMU9QX0NJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T17:00:39Z",
+    "hash": "af0770157dec94bbe521681d28e839f5f0d5e0a693bad1f1b84e8e28116e8fed",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP price prediction: Why analysts are calling this viral Payfi altcoin XRP 2.0 - Latest news from Azerbaijan",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd3VxOG1KRHdQUTM0aG1DUFJhckl3UmZDZWVFOEVob3pER0x4NmpQa3NSLVJQakxVT0V2LXVEeHRvbGIzaHpfOXQyTlhCYzE0NjluQjhFOFpxM3NxU2tSRmVkSGZXTUgxd2R6Q3NUM21MT3NOd05ZVFJuOG4zcmIyb3FlZlFlMEo3SlFrc2hkOVNfMjJjcU5pLVBMaG9NWEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-13T16:52:14Z",
+    "hash": "35202c0e21adcfb98aef0b38af34105bc2c58a9ed4716a54aab21c954a3cb576",
     "source": "gnews"
   }
 ]
