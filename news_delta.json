@@ -1,72 +1,122 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Price Prediction: Can XRP Challenge SWIFT and Trigger $1T Liquidity? - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQl84Tl9mYkg0QWZINGUtUkhCQlpUNDdLSHRYcmg2ek5SZWl5OVVhWDhnbEMxY3N6bzdVMFdpcFVNMVhxOTd1N0M1TzRod3E2RDEtTllCMXRDLXF1ZGtLbGc5N0RMSGJVUFNRNUpBb3JoMDhxZERpalBCRW9jV0pSRGVEU3BoNHlRVUVlMUxCMHJEYTFpRGN1akJqLXhrQ21ZdzU5dzloR2RjMHI4c05fblFQOVltdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T17:38:33Z",
-    "hash": "c8e07171b1226dedfb93ce040d59e8ff2b2c87dbaf89a371ec0cf959ed9e69f7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets (NASDAQ:HOOD) Sets New 52-Week High After Analyst Upgrade - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVlSYi13U09QM3RrdFVoM1Y1MlhxMnJaZVFlR3ZmYjZKS1k4bDN6RDQ2T0VycnI5Y2JKZ2ktdXgwNFp4MmRnOVNBRm5JR1RTZW5pX2lLd3VoNEdPbDBPUlVyM2Q1Z2J0cWgzRm5YeEg3cG42R0tiR2licWgwQmstQ2h4NFl2Y3p6V1o4QW10bzBBNktqTDQzNExuUC1tUThVM3NvZ0NqLV9xWmluZWRwNGNKaW0tN28?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T17:38:27Z",
-    "hash": "09da6e07e31a0cf7b1f72801e1b3bcac6cc7492e38545e441e8b7d432ec59410",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ETH Price Targets New Highs As Millions Buy Into Ethereum; How High Can This Trending Crypto $LBRETT Go - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGVGbGdpTW90N1FkR0JmQ1FqSENUMHVzdjJWUkV3ekhKQ0RGVzlSbE00amprcDJiTGFET2l6eWxNSFRwcGlUcnhHZ19zUGxBUXVSOGFHalRYNjUzeFlyTnB6WWVmQnVyNVhWVHRvSW1wTkdWRGZraV8ySVJvdVc4ei1ydFpKZnI4eVZzSGhoY1IxRlIwVG5JQXZQSjlyNWNoNDVqcWhicHVuemV5ODRBUmI3TGowUXZOTW1QUFhtWVY1eXNS?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T17:30:32Z",
-    "hash": "902cc8133995413d31dfe4f480a9251779ef20e19682f5fa5064c4237b2f9857",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Did Dogecoin ETF Just Change Everything For Meme Coins? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGllZXZxeHhBTjdDN3Fqa0hfVS1wdURzT2RHYzdjYzN0S1JWRlQ4ZkNHcEwzdGtPTlpkNUJYNXBZT3NzcFh0MmhQZkYtb283N0otUUU0UUxMQ183VHUyTWo1eC1vNTJ0VDhlOTdjNFVnOTEwWC1mWkNPOFhjU2ZUenlvX0Y0aUF2S1JJTVJEOWE0cHU4ZUJN?oc=5",
+    "query": "Coinbase",
+    "title": "Coinbase Faces Growing Competition Amid Trump’s Crypto Push - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGs2b29sR2dxVjdqMmVCWFJxbWlyRV9QWWZoWmlpdl9JZVNyZFRobDZ1dVRtRlRPc056UkhsdVZBem9IcjlqYXZsNXZKUE02S2U4S1dxWUhaZnlhczkwWk96XzQ5c2ViM2hsaW0waF9kdnFMQzd3MXZhYjlwVmVyM1lBYVFGNDBWcWZn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-14T17:27:18Z",
-    "hash": "39676e29e1041678b4d5693d22c834209e4fabd152f82b27d919f4641baa442c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Digital Assets Treasury Management : Why Solana Might Outperform Bitcoin In Corporate Treasury Strategies - Crowdfund Insider",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbjBvUDYyYXk4NTF1NS10Tl8xeFZ3Y3JBMXRuLVdEMkVybUc2dHdpZlFpblRpb1d4TnpmVW5wSXlBUS14XzJrUVhJOUZLVWt5NllJcDdYS3doUUtJRDNxN24tSmJndUwxbk8zd2FCSm5GRFJJUzdEakNfd0ZZc0MwQmlrSkR1RkcwdXJXNTNzVHFRUXVXR0dhY1EzdjBWUl94cnVXWGVtbGFieWNjNWJpVkFaWi0yWEZDZ2xVOWUyMVlQdThtT1RjUzZ0TUFMSWpxMWdiNFlaMnN5eVlpUGxHSTNmLWxmanM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T17:24:56Z",
-    "hash": "ab3c71a2ecdbde1133e6738ce99ee5ac43058681cda485a0b29adf286fb392cd",
+    "published_at_utc": "2025-09-14T18:24:05Z",
+    "hash": "bd67420cbbcb010ed6076ab0c57b15fd834742e5682f239889ab6e27a59be966",
     "source": "gnews"
   },
   {
     "asset": "TSMC",
     "query": "Taiwan Semiconductor",
-    "title": "Bluefin Capital Management LLC Purchases New Stake in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNY0NPQUg4YlFrQ04zUGNGY3VtelN1T2liTVNUZm0wQUVhLXExblJJRl96MmIzYU9wdEVlaWhCLUVCcXBMMUoxcG1yek5waE5ZWGpWYUloc2ctMWJTVVA3NVdFYjJhem8xWldEWEhhWmRNclppWHdEMk9TR0V0MmZ2cllDbExraThzOWJ4TGtmTW9kS2x3Nm5MRHV2cEM2Q0NOZEVsa2NkZndhTXM4Z0hmR3VvZnMxNlFrb1JKdWc1LVUyT0g0UnV6VUlUMWhzN2pJb2lfOEM1SURPdkZHcE82ZzUzSkxUanRhLVVKNkp3aFliWGN6UkU1QUpkYw?oc=5",
+    "title": "Zurich Insurance Group Ltd FI Buys New Shares in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTEVuQ21waUZyYjVBSkNZV1F2RWtCVjRNR3dxcnllbElTQjNWeFI4c1hGeGRfZERHcDlCbEp4d29VTFhVOVl5NmdPX0RCS2Qwc0pwQ0g2THBRTVZqZ1RiXzU1eDhRV3NxQUpHUmZYeTVzaXZPbUh4RTlvVXpqTF90UG5mMk1RME5laG55bUo1YzYtRlZtalRiRE45WnIxNkVudkxNVjVWZlhkRU5PM3E5VVA2MkFtRHVMbnhMNGVwTUhPdk1KclR4X3JqR0xKVl9GTWJud1YtTXZYV0RCLXNyLVZOaDdKMk9VbElwck9JX3o?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-14T17:24:05Z",
-    "hash": "41622a2ce4b25c5291d691d65a72c89288ef7d27209538fa8c72deca25060714",
+    "published_at_utc": "2025-09-14T18:23:58Z",
+    "hash": "b91564207e5006893fd65fe4ed9c6da4e56282a42c5ace26d0630b8b5064942e",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "PFE",
-    "title": "Blue Rock Wealth Management LLC Buys New Stake in Pfizer Inc. $PFE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVpvTzJ4Yk9XX2V3aW9yb0I5WXYtWWdiN2xDN2trdUFNV0g3SnM1eEdXdHQ3T2FBTXp2WDUxU3JfS01PZFloa2VacDJxYmotYlJUWUx3YS1JYjVWWkNOMElyUEJJTHRNNmo5d3Y3bTllQWd6bTNaODRUaWNvMWxLWXplMjFYYXpjRGR3T2JDZkFTWGh1Mk96a1hmOVFjWm00TU1tRGtBYmNsRHNOYTV2UXZNR0oycHI3MUdxMGo1VkRYOUF1V0RrRlA4MmFWdw?oc=5",
+    "title": "Belpointe Asset Management LLC Reduces Holdings in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHRDNXlRWlYySVNvQ0RTZU5LT21URHdHNVN0cTdYSm5UVzN0VXcyUTlvMlZ6REQyeDhSLVBhVVBnVHU4QXZncFZYZkRIbzVseFd3aXpOX0lZZktpUHNQcGN6N3o3TVF2UWJ6YmU5dzBCOUZZRUVPRnpvOENnRkpFdFpPY1pKVEQ3QXl6WDhMWld1S2FEdGJ6eGFUd3N2U2NHRDV4OGxoaHd0TTRZMFI1M1JpUUc4VmYxN1pUblJ3aXM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-14T17:24:02Z",
-    "hash": "9e00c5427c9801df06149446f3b87939f01b9d597b733bebfcb32a52a2e9f153",
+    "published_at_utc": "2025-09-14T18:23:51Z",
+    "hash": "1e80a287e03070e64e46aa142ae63671b90675cd460b65956fd3af1d585ef175",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "SCS Capital Management LLC Purchases Shares of 30,716 Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUlPSGxXeUl1bGhrWWtsdkdTVTkwMkxUVmZONlZ2aklhMnpwdFBNQldsUEIyQUZkMThUZGZHdjVQVTc5VHRzYkJ5aWt3TWdSQm44bXk3YVkxVGdLXzdBSUplOXVVaWw4X0xrZS1pYlBQV1VCMDRhZDNRdHdVVjR5djkzZV9sZEpCS3VpbzRKY0pvTHRMNXhWRFNBZW9hYi1TaDEtbnNqdkJFZmtPbHd3MTZPN1hWMXZKeHNwYUM0a2lNaFhzUVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:21:53Z",
+    "hash": "33ed634ec60bb01459477141339b243f0433bcbe609f76acf437fed88963f630",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Maintains Golden Cross at $3 as Rabby Wallet Integration Nullifies CPI Fears - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFRxd1hmeDlQZTJUMUkxcDFWYUtiWTNiT25OemJUTDZmX2RrYVhQZ255YVlsbXpJeDhibGJKQ3JZMER6eElnMXI5aGljMkNfZ2dGaUZWNV9ac3VrWVppYnZibWt3NklQTzBQdDZLZFFkYTFRZzZId0tSQ0ZFdkhscjdLZm0wVVF4eG8tTUhMd0JmbHlha3pVR3NyT2JmdHEtdXhCZFpkM1dGek5oLUtacnQ5bnLSAboBQVVfeXFMT1RXdGMtQzNydHVoX3VaTS1FemhfaF9yWE1xQ0FEZWVZQV85TkNfMGNhbU9XYWRfU0pVTzV2cEkxZUdtY0R5T01LNmJnUWtYc3VvVmcwZUNKLXRoOXQ0MVYxOXlHdXpfN3VDY1lOeGhYT251Qks2WmtLOTJHanZsNkNUaFM5dlluUThqSXFmU29ZcEh1dzJOYVNOTVpBeWNGUkc5M1Atb01TLWhrbkU1dEo0My1CRV9yVkR3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:21:18Z",
+    "hash": "c199d9bf39cdb47d06f8b0561b27c9e40657c346852da2aa86e6cff62eba1300",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "3 Coins to Watch in 2025: Top Crypto Presales to Join Now Arctic Pablo Coin’s $0.0012 Presale Price Could Create the Next Wave of Millionaires - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWHhJYUtHcDNhSXp5dzg4dFdDS1NqT0JQa1FqZHF3bTVOczRuRng5MGQ0NEhHOUVNRE5rVkxUZ2RtUkJjaEVXZGhPTWpFZ0VDa056Q1hVMkNrQVhMZFVFMFRsYVlGeGxabTdfcVR4VkF3NUkyaldaNmRPOHNBYkxuR1FZVFF6Wmx5b0JqZmpoSDYtdm5oUnJDNUNNUzNaVmowZHo2c0x5SWo5VGpvVHFGUms5OFN1aHpUR05GcTM4VWx4cVZPYWtqYkNDX1pUM0NHb0R1RTVKYl9oUnBFREVFSTUtVWtzQ0luWkVUYXpBaHlQdmZjMGJV?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:15:55Z",
+    "hash": "75d0c16d323ed646922b424dccb73703e78c22d2357dc88bd5746a0b173397a8",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Has Nvidia Lost Sight of the Core Consumer? - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVW5MQ0RFdXlqNVVLalpyQ1ZFX1F6ZG1fVERMelhJdkVyVmN0cERuSzZVSl9CME1LTGk4UndVYmhXaXFKVVU4allDcGZETUs0c2VhaldtVGR6YlhTZWYyNVZIUTJFbHhPY0dVbzRKaUxJTnFldlh5WVk3NThHcnI3NUZZc19tU2Ra?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:07:56Z",
+    "hash": "628a7a3f5ca9a733c448e1207d5d07fbf18c125ea1f846e9c7e8d891a422edd2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "First Gen, Unilever Philippines renew 10-MW supply deal - Inquirer.net",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUXZRemwyQzR5emdBdlppVGQtWGFWLW5kUnNHZVplY1NMaGgtNEhmTHEtaXlDR0hKQ3ZXeEZXQUExeXdyYzJrTE5VWTJKREljNWtURW9rbno3YnUyWWt2bDV4RjRBLVJpZ3NmWHNvVWtrNFV2MjZiR1JreWN3dkoxS0MtSjJGRDZ5QkVPbmhWeElGaVFrVmfSAZsBQVVfeXFMUE90T1hUUTlvY2ZVM2l5OThvM21uNTFfY0JxZDAwTXRWWmRrSEQzTWY4Z0diM0hWdjFuZExPTEpLVGlWdzlaWUNyNkRuMGNzMVNpQ1NPNUNlTVJ3VjVYNmktZmhmNkZEbTRzWFZQMnVFVTRpaEVwbFRnekQydUs5Rkh3SmdjWUxzQlcyV1JfVS16MFZUSHFBZ3RsaDg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:04:00Z",
+    "hash": "22b4620572f9278c474822f357d22a1356d9aa2077c427cb40ab6d77a4182268",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana News Today: Could A SOL ETF Be Approved In 2026? SOL Price Targets $300 By January - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUEU3cGk4RTFmTzREN21Qa1R4cEN2WjMwbDlCYjlEY1JfWkg3Q05TWmtVRU9zVFFPcjNYblJKdlZXQXVTQ29LQ2F1SEZ3U2h6bGMwSHVKekIyTzhleWVRaGdKODdOVFF1bWdkNm0wVHRKTnUzR0E2SzBCRzkxSlBaV3c3V3NaWTdjQVFBVHJUWXZzLTh4SzVqeENUbHBRWTlfc3BlbzRMUFl3SHlGY2dJOFdoajc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:02:25Z",
+    "hash": "3e2cbae200929668ba5f4634fb90dadc194598e574f36adac5677a20f151f1e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Best Crypto to Buy Now Is PEPENODE Over Dogecoin and XRP, Say Experts - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVJrMG9aSlZOT3EtLVpSR2pTQl9JMV9ERHV0T3A2bWhacS1YV3FDWmlZdWNid3dUWjAtbnVUNWp2eGxNZGVBSUFXalBTSnZBLVZYQzRlUS1iYUNqNXZqbFVaQ0JZWmluNlZLTC1FcnJBZTdadHgtU3JkZlZWakVud3ZEdWREZ2FOYTFsV0pRVEF2MzlzdXBpZA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:00:26Z",
+    "hash": "b3ac58b6ef2aeecc41ad681f644a6be853e4fb24c5df67394d36f60c435174f1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto to Buy Now Is PEPENODE Over Dogecoin and XRP, Say Experts - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSVJrMG9aSlZOT3EtLVpSR2pTQl9JMV9ERHV0T3A2bWhacS1YV3FDWmlZdWNid3dUWjAtbnVUNWp2eGxNZGVBSUFXalBTSnZBLVZYQzRlUS1iYUNqNXZqbFVaQ0JZWmluNlZLTC1FcnJBZTdadHgtU3JkZlZWakVud3ZEdWREZ2FOYTFsV0pRVEF2MzlzdXBpZA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T18:00:26Z",
+    "hash": "b3ac58b6ef2aeecc41ad681f644a6be853e4fb24c5df67394d36f60c435174f1",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "Stock-Split Watch: Is D-Wave Quantum Next? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2tjZTI4dmJtVXp1anl6WWxHcG9jcmppaWZ1SEJweTRpUTlrc05OVGJlZlVlSzJkOUp1NXpNMmtodUJBY3g0WEFkeWRRMGkwbDBlMDE4emJTazcyZFdlcjk5anA5bDB4NmgwN3VXOGowdlkyUmtCNmpvMEM3Tzhlb0gzX3ZURTEtWVFmOFlGT2lnQnM0R0JoblRxS3h6WkhadGM1TklURm9TMnJ0WnVsaVhhNHlDS1Rfcy16cg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-14T17:44:23Z",
+    "hash": "4519ca57a5014ba0f8f193f06cba1e10784c00ee86b2653d523cbb9de023d055",
     "source": "gnews"
   }
 ]
