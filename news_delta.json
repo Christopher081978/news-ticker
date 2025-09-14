@@ -1,112 +1,42 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Oracle Just Delivered Incredible News for Nvidia, AMD, Broadcom, and Micron Investors - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRERTUklPWFdUejY0eGlUVkxRQkdnVTBCS3pzSFRlOFpSMXVQSW14dFA4Qm15MklsOWVqUXd0Vk9UcmNNRmhtWF9VMFRtdlIwa0xzck5iUnJQc3JwQjRUbFFBMUxrT2tYVGRkUU40TUdiU0VWME9mSDJuOTNwVTM2QU1GZ29mQzQ?oc=5",
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike $CRWD Shares Purchased by Focus Partners Wealth - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbndHN1AzTkVmLW5kQU4wM0lqazJmOWhYZlBoMC0wT0dKaENQZDU4bEhXNjBYWTBFbTJBeDF4bF9zX0o4SG5BS0RLb3RPanZic3JRMjB1djFXWkxkaXB4eVFZNXBtNHUtTGxxQVJkRjd4MmVlU2h1QnRyU0drNkFGOExJWldELWc2S2FQSkgzWXczSFRRR2tmQ1BzeE1IdUpDbVptSVJ5QnhLMGVaTndCbjB3NHN4YmJFVVJn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-14T08:19:47Z",
-    "hash": "19465c73808af8a77b1b4500c82eb2ca3868fa5570295091f565bfc50fd3eaa7",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Where Will TSMC Stock Be in 1 Year? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qRmtUR1VaeUdwSHBYaVVpOEtvR2RoTkJ2TUVCWDVXYmJoeXdJVjJBMm1xV2Z6MWhnRG9vVUh1b0R1Rnp3T0NZa0xIT29lOWxoci1PNUxRV2oxUUU0Zl9vTnA4YW5yblRSYXF6WTBR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T08:19:46Z",
-    "hash": "b62bbb4868085164bc06869f20bf8de8e5bb2c6ea2c4fc8efde78bf626ad52f8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Breaks Past Resistance - Clear Path to Higher Prices? - The Tradable",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0ZuQWVzU2NCLS1SSXdITDBxS1dWNWlyV2VPSnY1TFNNUVRBdmdOU1lONXVMMksya2UtajNrOWlOZlhZd0hScEtJTXF0Y2ZzdEJydXFodTZ5c1hmdTMtZXlMWFVscVdhTk4wZFBIemZ1NUZpeFRDLVdHeURnc0I0Nk55NFRHNlYwd0pmdGtjY0p2ZDBpekNTWmZ3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T08:17:00Z",
-    "hash": "57c69868fb44ecd0e40bec27843a635954787dc866c3bebac925f646e51251e3",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Aristeia Capital L.L.C. Invests $319,000 in Boyd Gaming Corporation $BYD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWENHX2EtVlQ2TGVidm50dENDTHpFUG9FWUFtZi1JR1FwdzQ3ZWFNMmEzaTFNT1VwaGRweUNPcHFZeFFPQldzaWdLd09Ha1cya1pBOXgxak1NWGplaURJN1ZKQlFPZFpkNGZzd3NaYWxkVnBNaEw1Z1dSVlYyVnktdzZoNHlvM0lBM29SblZWMnM3akd4QjZiYXgtbDdjOUFwcXp0Rl9kdGxsd1ZBZmE0NlBRRDV6d1Y5MWVRLXI1VjdfS3RBQ1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T08:07:13Z",
-    "hash": "78bea0391c6a52d131f001eb5ac87323d933443650a69ba41629e157187ec75d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Voya Investment Management LLC Buys 80,646 Shares of Pfizer Inc. $PFE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjlBblFkRmhzV1FXX2J2WmlHTlVQaF84UGVpcmtoMk5oeUZfVWhEUUpsWWFJSXI0V0JzWWJVb0xGOUJGTGRtSGFRcXZPYnlQT1dpUzVMS0NsRFkyZXF2TnRzQlBYQ1NLVXZ2WXJXNzhEeHl4MGMtaWVqUGJUOC1DZUxvX3FEd1VFaC1ucHpqSlc4clg2UWNSM1ZPQ1BHbE40ZGU0RUlYNURGZ0NNcFJ1SjZfWWtHdkRQMk1GdGRuemh5b0lHTkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T08:05:16Z",
-    "hash": "47dd21c42bdf2b4d307aa8232495d1d12a24e4d2daf72c16717b09389bc86175",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto Weekly Recap: HYPE Eyes $100 on 530% Run; XRP Bulls Target $3.60; Linea Token Crashes 93% at Launch (Sept 7-13, 2025) - BanklessTimes",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNTM0bVVjTmJTNEtqNnZLUS1HTDNfcUpWdmdFaF9WeE91N0c1OFZac0NMcWxjaDY1Wk1SWGh5VERqTndOdWx4Vi0yWkpnTWk2NkhsNHJLX242TXdKRjdWb1pQb0tEYXFLWWxvcUl0end6MEwtNkpKSjFER1lRbUpOMFpJTHM1X1MzNkNuNFlrcEhCY3ZTZVp5ejFITER3cElLQllzeU43aUN3RU0xeVNmdEE2MGgzWlBmdEdGS1pXa29jblRLRHBKbmEtelVSTmRWc1o3MlBRSFpueC1WaXpGaVlxT0lMOXhRUE9MU2RqbUIxSERBQ3ZTdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T08:04:10Z",
-    "hash": "cf2b6b6c987501f2e97a12781c924aab7d1c67d8c77c46e58500268631b2910c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Can Ripple’s XRP Smash Through $5 in 2025? We Asked 3 AI Models - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSkp3YllVanRrOG54djY5R0NHZnJxZmpUUVlteHJIeVg3VXZlWno5T3U0WTN5bXNrNmM4VW1sV3d4SkFKdXF4NllWaDAwSHBoWmF4cGltRUZUMkNkWlZRNm9yOVYzU1ZOQW1hdFFNd01US3BFSkFhTW9QdTVtN3ZFYUlNejlndHFSQnRmVkhLMNIBlAFBVV95cUxOM0lMNU5QMnFwQlBzUWlvLWNnWTN4TXFIZFNlMFI3ZnpTYW9yREFaQWlXMnNSZkN4Z0F1NnRtM3F5elpFbGxHYkwzMUsxekdEZ2VoSjU3bjVPYS11dGtyOHhERVAtSzZoMmstcktvTXR5WXp2TzlLakJWVXpQSWVMNnZPTFhKVjBFWHI3eWFETjI3N0hM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T07:59:24Z",
-    "hash": "3c24083cf195214e8d68cff6c7c40e16c1abc5f6d4841ecbd8ae03a9d0690e09",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Holdings Cut by First Hawaiian Bank - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSkxYNVhjSTdLTU5tWDZJeGhzbS1xZi1vLUhGcnZqZUhSMTVyZDZLZm9rM0NFYWFBekZsWWc3UFNNSXJHTXUyWXJYNlpkZXlybF9GaHZ6cVRRTS1UdTRfVVIxaHczSTFtRGJDOE5YT0kwVm5HZEZzakw3RVdsUVJiS3FmelJhZ1IxaGFDQ1YtR2VJSWxPVGp3ekM4SGFIWlg0Yk9IUm9neGcyUmNUc1hEQU9nWWxVcjFEaXNHUmttWUw5YWZSVUQ0RUpjaFFMbkZLWTRMeXlXNFEzN0tVd3AzTA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-14T07:57:10Z",
-    "hash": "b249d385aa5c652b4aa81490108ecc16b1c631b91ebfb7535668174b50226e30",
+    "published_at_utc": "2025-09-14T08:35:29Z",
+    "hash": "7d222f12cb3ae68137c2f76d04c18cc0f5fc05890b984b00308e33993fa48ac5",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Why I Sold Pfizer To Buy Novo Nordisk (NYSE:PFE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkVwRzVBc2NBaWJzRldNUWNTeEg3eWNWRWZ2ek8zRGxFb2lDOVNRTHgtM29IOUdvdkR6Smt6WjZYcUlWeDExY1BjUEtHZGlaSGlKb1czWXhTQURzN05qMWdpdU93N2JSNThkM3pZRzRQOWg0b1I0dFNwZWt1TUhZN04tMlo?oc=5",
+    "title": "Belpointe Asset Management LLC Increases Stock Holdings in Novo Nordisk A/S $NVO - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0JGbmtxV2pHRmtsTFBlRy1kWU5NTHN2RE9pVW8ta3FXamp6aHVQTElfYjA4blhDZmgzeFo3ZVktVl9scExseDhSbnV1NTNfRHZGRlpwbXlrdGNfYXVoVkREd3VmZENGd1NTd01aMFoweWVwZ2lLdFNUWXlkLUVjMWVZVnRJWEwyY1gyblFWR2xVcDg2WnRCNkhwbVVSNjAxaE5ueDU4RTVENWNzUk9GcDFLUGQxV1RrXzZtZUpvZXJ5c2psZ1JCNVJfRjV2OVFVZmVSYUVn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-14T07:57:09Z",
-    "hash": "af2dfe98b8b121adbd11573ae407ee02449b06c749dee6677312b4f72a7d951d",
+    "published_at_utc": "2025-09-14T08:35:27Z",
+    "hash": "9b3a0c112fac479122b002e5285d1edf9da5333bc260e74b5d914cdb098bb149",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "PFE",
-    "title": "Why I Sold Pfizer To Buy Novo Nordisk (NYSE:PFE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNkVwRzVBc2NBaWJzRldNUWNTeEg3eWNWRWZ2ek8zRGxFb2lDOVNRTHgtM29IOUdvdkR6Smt6WjZYcUlWeDExY1BjUEtHZGlaSGlKb1czWXhTQURzN05qMWdpdU93N2JSNThkM3pZRzRQOWg0b1I0dFNwZWt1TUhZN04tMlo?oc=5",
+    "title": "Invst LLC Sells 45,340 Shares of Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0l5TDBSUDBSckVteHQ5RkpMU3QwcjVTa2VFSXRYN2YxNjMxRWFnaG5SOWgyWi1SZGlRNUpTWnF6Z25pTlVrYWV0Qi1fd0xhcU9BbmdRdjJFaXBVc05FdjBFTldzcU9KRW83VjB0UUxyb2g0dDF3NVMydnZTX0FZRkIyUzBGQWsxa2dCcm1Uci12STFsdGlWVWJOUEpkelVRa0hsNndMZnVHeHM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-14T07:57:09Z",
-    "hash": "af2dfe98b8b121adbd11573ae407ee02449b06c749dee6677312b4f72a7d951d",
+    "published_at_utc": "2025-09-14T08:35:21Z",
+    "hash": "6a3ab74650623eb775917fc6aa60f5b256e3ef7154bbd097da64ca99db1a7807",
     "source": "gnews"
   },
   {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer Inc. $PFE Shares Purchased by Modern Wealth Management LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbDVrX0oxdWs0M1RwNlZQRGhiT3BieV9KX0lwOGtJS1hPWF9CZGxOd3pSODNSWldpNmxGbjl0M29NcmdLaDQxMHU4OF9FcDhMQkRwZzR0OVUyWG0xemQzZ21XanBVYkFrVVNSQWNuNFIwU05oMks1YnhkYWVrbE9XNFgxaHhNVXp3LUxSRzNSbFhJSGVRMllSQzhUeTN0aElHMEFGUGJjZ0JEUXR0VG5OTXRrV0xpZXRfejNoQzNWZGZRUQ?oc=5",
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab Corporation $RKLB Shares Purchased by Intech Investment Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYjluYWY4ZGJ5bV9sT3NwYk5VQjFJN3JfY01sZlBwNUFLYlJ2Q2tkNFpCZDFpcWl2a2xyOUVMaDFyY2hHWV8wYloydDdOUHd5V25nczRDNHRfeVZyX0p6Wl9ranIyaHowenctNTFlQm56UEV5aXpwMElwSHN2WGhNUzAzTXB5MFI0VlVHSXNHOUhIMDB6RFNHM0o3WkhTaTB2RGZacmlKdzdEanB1OXcwVy1yX1RNVUQ0OGZIOE1IXy1kaWpESmFfb2E3SFNYZ1FEX0lwTm84ZzE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-14T07:50:23Z",
-    "hash": "6f2fb1583bd4316342077c692f1c68cd96338a59c1aab79aef1f4bf97bd9ae35",
+    "published_at_utc": "2025-09-14T08:33:29Z",
+    "hash": "d9a099fc17581ca8a0332230102f90bd68d08a8fe8d7cf42d985ea6ab773a72b",
     "source": "gnews"
   }
 ]
