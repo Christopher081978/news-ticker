@@ -1,122 +1,42 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase’s Base Blockchain Considers Issuing Network Token to Expand Capabilities - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmtHd3RCenpFUWFPaVFXRWNVZjFYZ1FpRHRXSGpxU0diSFV0Z0lVbDJTUldZMFptb1NDOXI2LVZvZmJodG1Hc0wxNTlFOGRQNkoxYzJxc3hJSkt1ZXlhdHlLZmVvUFJGSGxQclprODBqOTJKZ18wNXZ5eTNBekN1bVRLMDhaUGt4MlRKOTJvcUxTejhkeF9wQVZ4d1FWbGk4clRvaS1TQ3R0V0J3dmJSTXFvNkgzWGNNUEdPbg?oc=5",
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Cim LLC Boosts Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGVCWFRRQ0JwVm9hWGdFTFBCaHM0TmhNZjdSSjRVcWdqMGp1SkI0b0pEQndabFRMYlgxX3RVbVJ5QjhNYU1zRTNpNjlKclp5ODMzcmV4bVpFWkhFazhNRnZrRzFIa01qM2dxSTBVMHhfN0c1TFdhLW5OdGZxMGRENjFkQkZHUGxVb3E1aVZST2FScVBjRFNUTFlOTzByMnV0ZHpoTm4xV29MeHczelZDSUJmaHpaMVE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-15T23:21:44Z",
-    "hash": "2c9b0a61c2e5e8614d8715a79e931a28a79fb0c3e300d51abd2eeb420eba9a57",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase App Store ranking suggests retail still on sidelines despite crypto rally - The Block",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZlRrZHA3SFRjU09ROG1rM0o2d1ZTOGhDNGZ4RlJPSkdseHdGRlFRSkNlNEp0Q3RtZ2lkcmF3R2gwMi1xUXdGRDJuS1lhb2VzR2M3YW5BQ1N5QWhxWUtuUDZpaGppQnRFQUZqUUllV3Z1eW8wNXptT1FKTHZrbnZPLWZ0UGh5Y0F5QVRIdFU5dUhPYVJNNzI2UHA3aFBMN1BGZWdtLTFDLUFVejhUWG5rQlJjTXg2XzAtYVRQRVJRTWU1aDkxaV9wdHJ3NUVDOGJ6OVBqUUUwZ1VJRFdIbUJGSllfVHFHWl8y0gG_AUFVX3lxTE1tU0YwN1NQZl9jSXFJbUlra2syQkctRXpXaml4SF9LQzlqVnR0MDF3Zk1La0VQTzljS091YXFQTGQyMTl1THd0by1DcUN3OTJTa3hqZFJVNWpPb3ViMGJ2WE5hWHJmbEdpV3Z4Z2tqYzlEd2tWRklQNklBWHhpTHdFVDJQQndYMzVqb0ZTdEVWU2NPcDM5RjJ4dkoxMGpnVFlIbTZLU2NwYWZrSWl5THM2S09SUjl2Sl9tSnN5QnVV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T23:21:02Z",
-    "hash": "00992e227119e2517176b539cedcc76ed61234373c0c1f86288bd016e72bbc8b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Voya Investment Management LLC Purchases 80,646 Shares of Pfizer Inc. $PFE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbjlBblFkRmhzV1FXX2J2WmlHTlVQaF84UGVpcmtoMk5oeUZfVWhEUUpsWWFJSXI0V0JzWWJVb0xGOUJGTGRtSGFRcXZPYnlQT1dpUzVMS0NsRFkyZXF2TnRzQlBYQ1NLVXZ2WXJXNzhEeHl4MGMtaWVqUGJUOC1DZUxvX3FEd1VFaC1ucHpqSlc4clg2UWNSM1ZPQ1BHbE40ZGU0RUlYNURGZ0NNcFJ1SjZfWWtHdkRQMk1GdGRuemh5b0lHTkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T23:18:13Z",
-    "hash": "8497ebd818c476f061a03eea5ba07d930775ee70326b6a38bc289cc80aab6ef7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Crypto Jackpot: MoonBull Opens the Vault With $15,000 in Free Crypto While Mog Coin and Peanut the Squirrel Trade Mixed - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNXAtaHVFZmZTUENBeVB5a0kyYW55T2ZHUVZDNXlCdk1Xd21QUkZ2LXVDZkNmMlFZN2FGM3ZOWWpoUlk5ek1TdXhDMmdwdWhzSEMwTjhOM1ZiekpIejZuR2xJb29Ta3hWN0RNYzVjaE5aRFpLU0s4RENiSEVIUFB0bVdmMjJ0cmpyMi14Uk5jejZYaDdiSlA3ZEk5aEhpQkx1WmlOaDRNNnQ2LUR5dm1Ld0xtQWtnY21yNmMwVzhYVWNmT1hlQjN4RGhjdmN2Z19TX3RMZGZqQk13LWVj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T23:17:09Z",
-    "hash": "27e85b92624738d5bbb910ef1adb12ae5f7896250e8907a0832ded49373ce8be",
+    "published_at_utc": "2025-09-15T23:40:02Z",
+    "hash": "b4a901754fa73c7d21a0941cfc50e316d9665f311891136cad0fbc71bcbfe68a",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood files for a private fund for retail investors - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yTldEcXRHUWRCVk1IMDQyRGYwbDlKYlFtQzZCc3g3Q2VvaHpPQVZ2bHY4VUQ5YXF0Wlp0aWRGakdsRlVTUmxFamJpY2VnQnZ2VlY5VU16RHF3dWxSTWFRdFpyZXZmWm9rekc0NVNwb3Ztb0lsNVBCTlppQmdnSTA?oc=5",
+    "query": "HOOD",
+    "title": "Robinhood Markets, Inc. $HOOD Stake Lessened by Militia Capital Partners LP - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQazJVd3N2NHpHems4SGNiOWNOdmFOOXpGM1BtRXpzNVFCMDZhRzE4ZkVmazVEVGlHTjg1OGdSVnNCZTlJYTYzemNzWG5aLVZ2UnBIblo2Z3plUW1ERUtZYlEzaGw5Q1ltcDZUbGdLNTJyVlNFam1HMUtxQWM3QUtRUFdwMDgwU05Ra2kyTTZXcGJsZGMyNmZlRDlGQW1MQktLVDhEWjlYODNlTzRjNjRLN0cxdXJIcjVaMlBmQlRZQV9VdmxBazVhSnNUN21KLWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-15T23:17:00Z",
-    "hash": "7871d0c3ddfbeda1a4c8e1d1dfbdfcbc43832ffd73e8de29c2488867610b8c83",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Consolidates Rises Above $3.10 While Traders Accumulate Rollblock For Stronger ROI In 2025 - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdk9hcjhlVk5ZWWFJZ0d3eGFuRFc0VTVaem1FYVhueDhVMm8tZ2JJbjhMdmhkZnRsYTVhdUprdnF1b2c1RHJ5WDRaWDE3Q0pPZkxldS1KOHJQZFNTZk1MRDcwcjZFbnpiTHZHMG1ybnJ4azd4c0lRUVI0VEljWnZWWTM2SHMtX1ZBeEFjVzF6S3Y1UzNYTnRMVlRJNWxhWDJPUEE1dnNsNE5JWFFDanBOLXA0WEpLblRKTmk4NUl1SGJPcXFXUXlMbEFJQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T23:10:00Z",
-    "hash": "297a3b39546b0bd237b3f2a01284ff2cee1343c007612bc6dce220e3fda2fc74",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "SCS Capital Management LLC Takes Position in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeXVvZ01qUV8xLVhnQjh3VjJIbU5DUnBXV1FxdVZUbDNDUXo5TnhUMl9hMTUwNlp0bUJJTlVQaHlUTVBROVBEZWoycnFsUUZnS2UwQzJhOEtSYV9DTWpVYWJjT3h0YzB5aXdqTlg0eUZlNVowSmlkWmIxeEd2eWpwQVVyTDhneWI0MDVuNF9HRi1kMzgzRGxRMFh5Mm56c1lwVXB5T3RuaU9BZnpyQlY3enBzUjRrSkhTa0Y4RndzRzRQc1JndGhXMkNwSmNlMTBESlZXVUVR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T23:05:50Z",
-    "hash": "b7fa40013355c4b55b55fb9c43565336c3b224b4487d60753af5a97d20332bf0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "8,333 Shares in Unilever PLC $UL Purchased by Ransom Advisory Ltd - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUNiUzdOd2tiTFdNQkxFRzNEOHNwSlZoa09uSkR0c1FpczhualVwSFgxM210ajhmaEVISHdSUl9Yd01TQmxlUkNKYlUyNm5IQkZnOTE2SktqMXN2aDVLaVVEOGVhcW9xUFlITUg3QlBFcU1GLXNsYTc2eGRWbnBYVVplSmEybHRJcFkza3hBazRva0VJelVtT2VrYjh0NXZjNHlDcW1BWDByU19Vb1RrSk12NjRkSm04Z1F5Vw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T23:05:47Z",
-    "hash": "e2de496ff7e6f6fcff7c346b55ffa10626dedc73ffd75b197b127ff83bbaa90f",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth (UNH) Stock Gets a Price Target Boost From Morgan Stanley Ahead of Q3 Earnings - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmRGR2VXMk5WazdHTWxTSXhHTEpTZjdHX21oM0RaT01XQ3ZaYlg4Mlh4MWIxYVo0cDB3ZHBFZFFwbjA5OU0xM21HaVBMRjJEaW5Mbl9uUHRzYzFucnd6RzFpc19NRWpzaXdhaEgzUHdNZmh3N0Qyb05kZl9UN2FjYUtHSkhibS1CWnEzNzFDSl9TM3hhbTlObGhuRW1EYllfWTJZWFdBd2U3eXFDdnpoR05QWi1qek9PNkVB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T23:04:05Z",
-    "hash": "bbd88daa377d8532045a0ed4275aefb4de595d08edc26746a0e274a5b8256ecf",
+    "published_at_utc": "2025-09-15T23:39:55Z",
+    "hash": "da0232c43265a4d74136454e13f265ebea3d0514253f98e10e0102f5795c4bc0",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana vs Ethereum: Price Prediction on Speed, Fees & Growth Heading Into 2025 - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjFNcVdBN3dJU09yam1GMWY1RlNfOWJOUWV5TFJoSEJzSjVlamo4NS13dVBEWWdzOS1TUlhYXzBmNXVLSmNiOGVLbG5JUC1jS05rQ3ZsWlI1ODI3eGtUVXRYdmtOYWE3aXFzamg0eURpcVRZVE16Rmo0c1o0SEUyMWhnVDFVTW1SelZiS18tWnIwejBBY0t1Z1J6UGJ4Q1U?oc=5",
+    "title": "Solana price prediction – How high will SOL go in 2025? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOS11RVNvdDZzT3BEbUk4OXU2QTgwYjNGU28wenVPRUQwOUJBSVFNaE5nak1ua2VtYUJFYU1WdTM2aXU4YmJLODhXMXM2c2tLaHFyVDBqcl9aZzlEWkszNl9VWjRFV1hYQy1zSEE5NEZVNzBBeVVaVkI5SzBEMnc3djRJbDJQZ9IBiwFBVV95cUxQalZtaUtNM3FvZUFfS1MtUUVCaHhHdmhGZ2tyRDB0d2sxRXBfYjBFNzRObUs4Y3h6X2wxcENzRXNyQlZwSGczLVZyLUxJOWFqN2dKOFpuRmlwOTd0cnlyS3Zab2V5QTB6TnBhb3ZfUmVyR0xhakxicEJvLWh1cFpOZHJiSW1iTGhDcUVn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-15T23:02:52Z",
-    "hash": "849f55f2ac256c8d8aeac1d098c7b7653fec161a8aa06b0c9a9070c03d9843cc",
+    "published_at_utc": "2025-09-15T23:33:51Z",
+    "hash": "7fb7afb8ffbc24150708dbd8bec7f7d4bfb603f11c825fbf09b23528c6d87e8f",
     "source": "gnews"
   },
   {
     "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Today; Chainlink Latest News As Remittix Is Picked As The Best Crypto To Buy Now In Q3 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSE10VVZjM0hQN3N4dXNxcWlOaGJIX1dYZmNfd1BJTWRicW11bFBfOGFwZEQ1QWdOenhDeDZyb29UYjVxM0ZvZVFqa3p0YXVJa3ZMNUhGQnl2VzY5dGdMaVloU1NlNENqZGdOZFpXbzR2X1FoMjRIVXpsbzBUMnhYQ3l0NmtOZVlRX3dpTlU4eUFpbDRfdEpBV2NhN3Z1ZnBORXg2T185R3ZQR3RucFh2WGM1cGRoQ2oxSnRlNFlLUENwWGh1OEZYQg?oc=5",
+    "query": "SOL-USD",
+    "title": "Experts Call For $500 SOL USD: Corporate Treasuries Bid as Solana Signals Breakout - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTF6a2FyTjdGQ0NNOXdibWJvZnFEZTRGR1Z0Z2l2dk9MQnEwTFBKVFItZUlpeHpZclc5ZW5Xal8zV3JLX0pxczNQamEtc1cxWG9NcG12dUs4Tzl6NXBNLWRqek9KdzFkZGFxVTAycy1GRloxc0lvVlVGb1REdzZrZTF1NEk1MXVLaXlMRm9CUmszdFRYWFVSWXlSVFhZMU9CRHZZajlYajMwUkRIeG9zTlMyT3Y5cy05Nmc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-15T22:58:00Z",
-    "hash": "a83b2c825b22ef0d24b7068a30e135c01258874f089fa2c05d3e889ed4647318",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Sei Crypto Holds $0.30 Support Amid Pullback - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGV6Z0R4TG1tcmliYUhwWU04Q3FHZ2ZQZTVnQzJ0cUpnT0Zna1p2MHRsN244Vlp5eHhLQ01kWTJqV2ZrdEZjdWlsZlh3eExSZV8wcTZHTDY1NUJGMjFhZEZDLW03Z1Fac3g2czc5Si1yZUZNVDVWcXZNUHZWZmNTeDhfZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-15T22:47:55Z",
-    "hash": "b44eefc11f6f0c778681a1cc3507ecf19b91fde89dd7812e157e1ac4490aa656",
+    "published_at_utc": "2025-09-15T23:27:36Z",
+    "hash": "ab711b10e0c9aa314383e9b71611898896272a2de08d7d0e856bbf2a498bab3b",
     "source": "gnews"
   }
 ]
