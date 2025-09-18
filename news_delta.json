@@ -1,32 +1,152 @@
 [
   {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "UnitedHealth Group (NYSE:UNH) Shares Down 2% - Here's What Happened - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnctY1NBSUlMU3RJTHVPcjR6c2YwWHdpa2Q1SFF5aklOdkdqMzFsa0ltRzdYcUJ6N0htV0RSN3N2STB2VEJCelFwNjRCeVFPQTFqWlB1Wm1mTGl6TXNsRzNoemJBRUZZaFNnbjlzak5SUGNfYTBUN3FaYkdCdUdzeGQzaVFtOWZqR3ZKTmdpQWtPcmx4TllqM2FTRGM5NnNmZndhbTJ4N19GR1BpOUtoSTVzczU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:21:11Z",
+    "hash": "1a1c6d87a973c170394ef8dc3a8ef84690211197874702f2a0fb4ee2836e8a2b",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum (NYSE:QBTS) Trading Up 6.3% - Still a Buy? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGdIRWVjQmt1NWZNOWo1TUJVd3ZIZHlCc0xPNC1YeUUyaVRCRGl3QXYxYThtRHhJS193QjNoV29vb2dxQm8xSlNhOUsteV9sRkMzTkQwUXZmaEFEenlPczh5dG84Y1h6cEF4SVhmUmV1d1FtODdsVmw2SUQ0YXNTekp5SUFESDNCOENyTnAzLV9jbzVETHphTHU0SXBEdFdsODdWVmZB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:21:11Z",
+    "hash": "d7a2accf29f000cbb0649b5f40e075cbc163763b47bc8e66c15540fc014e2e0b",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Trading Up 2.2% - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLWlQVHRXcndJakdlTkJBTTN4Rl9lMENXNzdhWE5MNTlRbm50bjFhZHVFaEUxbWdCcnoyalVnZF92YzhtYThYQkl5aXQ1S0wzQ3RwakVja0htUmtwSWtveFZZSnA5eWczb1UxWjh4WEhZVDhVMklJZDBJMERkVUdoTXBGeU54TWZEUmxvZk9hOW5QVTBTLVdGTHFpMVFVMl9QcDVXZmdYUlpLTEF5Wkdpd1lPQjRxd2Z2YWsyeg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:21:09Z",
+    "hash": "19fe518d14b126fc5ec1a3dceddf15c412ffad44aceebd69c7931c565774ff74",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Trading Up 1.9% - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnFHaWpqT2tGTjJFZTZnZ196RUFrN0FCNVFxdUYzTG41RXdWalBpUVdMRDNXTHRPQk8tNTYtRV9lX0N5X1hZeTF6ZTFGY3B2ZG5mczJKUm9KUDMzMVkzWVdOVVRyaGpER3ljS3VHWVp4dVFYMHl4WEk4WW9YVU00RF8wYXFDT0wzWmk1ZzExazhjOFJ2eEJLTUtoRFl6N0NaeTAyaUR3MzdtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:21:09Z",
+    "hash": "7ea292ac3f0c8ddbd2d2efafb9f6518fc3afb61b527154b6e1897d7c013aba7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "News Explorer — Altcoins Gain as Bitcoin Dominance Falls, but Analysts Predict BTC Reaching New Highs - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdTVTeER0SkkxQ25DTWs3SDdLRHRMRmdOVTdMVmktVUlZZnQwdlNuVTFjSzNkUkN0enVTRkQzRlYtYUx1ZGdQR2oydW1qZ0JnX1JNOHhRMEJxN3R5eGlHa2dxcGNiUDZRdktLOUN0ekU3YUEydTNuckR4NjZldExzSG9GRVhCbWg5dVVDZzMzRGNxeFV4WXN1N3Q1UHRHU1ZucU5hOVBWTnFFV0l4SEdHdVlYeUtwckhBcFlFeXNiRzBkTmtrNXZzNDJpX3RNanczcm5hUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:18:45Z",
+    "hash": "a1506c52ad1af78de6b342867ed5979666269ff6015b4e1a4636311b087712e3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: Institutional On-Ramp Goes Live in October – XRP Can Become the Next Wall Street Darling - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSEo3a0NZZ1J1VE9kV1d0RFJ0N0pfUno3cS1jNEJHUVFIbUp6Mm5WRkZFdm1Jd1RYa2lVVlR1TW5hZEQyQXRlTnB1d1JZdHEzT0dDU3pvMW9VWlFtUXExUzVsSUFkbmRVSU1yeHRKOERpWTVic0NnNkYyNFVkZDBTaFplOGlUTU1WWlhkTnI3SVg0QzNyU1JzdTVyRmJDOEYtWTNIdXJmU0U1aHduZUxUOFJKQ0t0VFlYeXREXzUzSmRzcVE0NjB3YTF1b3IzZE5CUVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:14:00Z",
+    "hash": "9c90d858c59bfe87ba6e68299cc1be25e16b299b6a9c7977c113bbafc2c45c37",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "REX-Osprey XRP ETF sees $37.7M in record debut trading volume - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WVVZDY1ZKNlFIampyaHdhejY1dWJVeDktZGltRkJ0dUxqWHlUWV9wRWxNUUR6eUN1ZFdSVkpHR0kyRGExQjNfVkoyYlhiMHBra2hMSUFLMHNzWUc1T2FtUkJwRENGdm8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:13:16Z",
+    "hash": "0d714e7d0e5b7afd9af6a3e428c7576b55122d8f0ae88ae6a67d74ecf8d905a9",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem - NVIDIA",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQk1CM0lKeWpMMENvbWdUamNIR2Q2cTRnRGRSaGNHLXRvWGgwVWN5MXRwT3p6cHFPWEFVUkVFMHEyUklySDRnNDNXM1EzX09IenIxb0xjdURuZnBSUk1LS2RPYTFaTFdQQTVPVzZhLXMxSmZBRi1KeUstTVpXcmVqc2JaSE9abVJjemsyeFV6aDFKbktpVWRsZ1RXc2N3cDhCRE1oRVFuMUFxT3p4TmxwbzlUY0JHa3Z3R0h4Y0l6YWJUbVBfS3RHbC12X2RNRVFoT0Nld2ozYVFpeVRHOTZFV3pYN3JfUHRK?oc=5",
+    "title": "Nvidia to invest $5 billion in struggling rival Intel - AP News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjFQSFFiQWdJLVZvbXdIVW9oQ2NVNGpVZUFQOXU2cjRLWjFMbzNRRlFxYjRVVXZvSWVxbWZ3aUl0cnJmWGxlTHNMMS1JbDk3MEQ5S0h6b0daeGVkQU1MZkJzUVRuNmQxcThsNUFRS2RET1l1NzhPV2pDZ20taHJQc2tzTk9rSnBhV0JQU3ZwY0VuUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T21:38:51Z",
-    "hash": "b28600481c58f1c8cd43aae9801ccf8a1e95e704f0f6bc5930e9ab97493a60ca",
+    "published_at_utc": "2025-09-18T22:09:00Z",
+    "hash": "a26d1ed8d14a8ab93af337c495d652181faa4550de5e5df5419ec4ca479ca6f5",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Unlocks DeFi Yields with New USDC Lending Powered by Morpho - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGdOZS1FbFlsR0o1LUZYaF9qa0tVRktORXVGVHliMGxmS094WEFJYWt0SEc3NlJuTVZVbDNBSEtreXlocjR6SkZ4Z0JJazFiNmZtdGN3eTAwaE5jQmk4WWJrSVBOTUlETS01RW5pRndkdUJIbk5PRGJUUk9PeFVTZ3M4LWhqdV9VelVrMW5ibE8tcUgy?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Markets News, Sep. 18, 2025: S&P 500, Dow, Nasdaq Hit Record Highs as Tech Stocks Surge; Intel Jumps as Nvidia to Invest $5 Billion - Investopedia",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yeW1faGRMV3hkWldFakpoWmlMellUN1dGMGxsYUdFelNnc0txa3M1RDVPcEZlV3U0UWEwY3JjU3o4Wm05V3draGdGOEtkSUttdWpOUUVjXzFfbHltbERoTFZtZFJyZ3JoaDVuMFZzaw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T21:31:29Z",
-    "hash": "8a3a064b5e47c9b44017ec231b9b00b90e325e0dd786b8c664c26c79a11ec65f",
+    "published_at_utc": "2025-09-18T22:07:21Z",
+    "hash": "be81addcabbf945e7449d207f02e58460453658b6f7266f2840f5e75227cb5f3",
     "source": "gnews"
   },
   {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk A/S (NYSE:NVO) Short Interest Update - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3pKd1JkSXdRUlRYbzBTQnppVlI4Rm1HeGo1dmxZek10YXZTd1BPUklaQVQtejA1OEU5TjJzNUpaMm5mRkxWV3ZxTFV6aFNTS1FieEhuR3Q4N1BIb0o0WXY3eElsWmJqSWpyc3BmWjBLSkNGWjNfTi1DVWRKb1ZiREstRWgxU0pWellLU25GNHlOTHQ1YUVGS2lxRjlIeXdh?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "$60M Bitcoin Gain: ProCap BTC's Strategic Purchase Pays Off as Company Files S-4 for Major Merger - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVEc1Z0NWZGl5djlFVUZKOWJ1SGhmYTE2VmVISG95a1dUdVk3d0oxOXI2b1NrYktkQ3JDS1hWWmE1QnZUejRMdU94Zi1CNkI1RXI0MmtDMUVleVJDUFRlMXdFS1JJc3JPNk41T2tndllTV0tjQXFRR0JPUVQ2Yk0ySHNvWjliU1M5eTdNeENfbU1xTzd6NURzR2VQdk5GRFctM1Y4cGpUV3FYTm9GdDg1OFB4VkpiNy0ySUJyaXRkQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T21:30:03Z",
-    "hash": "b0ab8b63ea30de8e9c9df6c511ecfd8df310f12864d5e39a63c517e3e551e8c0",
+    "published_at_utc": "2025-09-18T22:03:00Z",
+    "hash": "0b9befe31026c68dab62dae1444430b43ef0cdcd60f22023ba8d8dcefc3bd54d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Capital Gaming: XRP Transformation Investment in RMC Mining. Earn $18,500 a Day - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGJaWmU2ZE84VFR4Wk1zMHczNVBYbThmcjRMQ3hoU3F0LTNJTV9rVG1fVU54M3kxcUl4eXBqTmV3eEdPakY2eGFsSHNyZ2xvWHJfdm1LZ3RNUGpkbVNXd04td0lLTTdfUk5adVIwZTlIaFRFSDN1V05EVURoelBrVlNJZW0wRkU0ZUFjM0FNQldHa2c4Um82SlhaU3lLLVhxbEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:00:30Z",
+    "hash": "53ad2a6271d3f0ab922588f02755bcd609d9837edf4a3539d6a197f30fa8169a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin, Solana, Ethereum, Ripple, Cardano, Chainlink & Remittix Become This Years Best Crypto Investments - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaDFaRnZ1bU9aaW5faFRvOWlXWUJPcnBaSnkxS3hUZGM4ZHo2b25INTFuMTV3WXQ4Y1dsU01McTJjZVpmMDBmSzdBYkhjZmJoRHpybU55VTlOZ1NWWUFtWnh0WjBFcEZtaUdVcjZuRHBaejBtTkY4WmtZLS0xWGpiMVA1R1hiMWxHQ0hHVlFlbm9IQzRGZGZxYVRHbjQzWmhHRjM0YV9yYll0V0oxdUFRR2dISEh5eUhZcjFaLVM0UXM1UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T22:00:07Z",
+    "hash": "4dfdd8bf693d4b46dcd5163c1ea0d6cdc947c260361d6703949f284443894b45",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BNP Paribas Upgrades BP (NYSE:BP) to Outperform - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZU9ENHI3Ul9Pd2Y3TmctVWo0ZzlDMFVlZy1lN1FTc1Itb1RXQk5NR2JxNlRmWXNhc3J3c21tQWtUUGVRM0xKM0FnS2oyRzRsWGtCc2N3Y1RLRzBsRVRsakhObzV5QXp5R1BTYWRPbnpOSUZDWGZ0N1ZIUTBwVjU0d1VGSDFld1ZQNlFwUmFXdzNpSk5PemNJNEdBWUF3UUYtYW1wMHlJZUtNVHpFYkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T21:52:52Z",
+    "hash": "904d69898dfe303c5d19cc894f71976773bf48b65c398740fd070f80741c09b6",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: Ripple Price Prediction & The Latest From Trending Presale Layer Brett - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWGo1UTI4X3pFVV80SkFhTlIyNHdVZks0Y2xqZGVMRkRnZEVsbldveHZBRk1JQkZrR0cxQkwxVnZzWWZ6cnFPRlBjbm1KMGZRb2dvMFJtcWZUXzRJYmpEWVBpYjFVbm42elBXWkdZVkRHSkM4VGMwYTNjWWMtTVRlOWNQSGVDUTVXdlN5OGdoVXk1MjhhZnIzc0ZRaEdYb1ljbWUxYjVqNkM1OU5ZdmRaYQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T21:47:46Z",
+    "hash": "fd404bde0ae6fad0d9570659d290aca0ad30cb02143414f99c93011c8be133e6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin ETFs Log $2.3B Inflows as BTC Price Outlook Hinges on Fed Policy and Retail Presales Fueling Crypto Energy - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORHNsX1EzMHVia3Q5OGJuai11NWw1TmNDRkNCZHU0aGlPQVZjOFRpOWFVUmJpbDREZUNrYXN5WXpUYVJFaERGeERlVnREUzdQbzRORjJkcFAxbnBmNkNTMF92WV84Yl83SEg4Z19sdkVuSEh0aDlMZUVZcjZyZjVsbmNZN29jMkg2aUdvWTJsbW84M2NsRnJZNm42VU5Semg3VFhkM3RreUxGaWlMV0U3eFZBVTRvdHB1alNMc0N2akc3MERFWG1NSDF1NlBnS2RvQlNGQw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T21:45:28Z",
+    "hash": "a76eba487a8490c7bba626333f3b52441e1a71f7db42286b9c27bb7978f2d7ca",
     "source": "gnews"
   }
 ]
