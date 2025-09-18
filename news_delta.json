@@ -1,172 +1,32 @@
 [
   {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "Jacobs & Co. CA Lowers Stock Holdings in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVY5d1NVTGgtbkE0c2ZTSFpPQV9DVllJdXVxRVdZNEl4TzluZ1N4dUI4VkxXZW5XVXFsSjV5bTk2UXFkem5oMnJrN1RXdGJtSnVFTGpGWi1fN01iOTc1UnQzZk5MNWdKNlo0YTZpbURtUktCZU91OWg0MVpZc2tvRzNFZnRFdWViQ2lJajFjTXJkTzZTQ283MTNpNE9qVHR4cGdCOVYtak15aGNvRktB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:23:57Z",
-    "hash": "4bb50492c4c2aa598d41497c8337affff01c8f4e3bd88edbc90532b9d758972d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Top Crypto Coins to Invest in September 2025: BullZilla, Bitcoin, and Ethereum’s Big Play - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWRxS2tsdHJLTzZoUk9OSTM1VE43aFc3dktsNW85czRHNWhjekFibVVNeUdXOFFPNWd5dDZ3cTFnNnJ6VWUwaVdrczBpMVFtWUE3S2dLQmxEdENTeUc1OWhodnRPOU9yWl9JbTA2QUdhM1BDZVlQc2tsa0hnb3BkM0JiRVk0cWsyTzgtbkhnTjhfdnlsTFFHTVR1NEZsVUtZTzJ5cXF4eXZSSzZWUUNIZDFmX1k4MS05S3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:15:47Z",
-    "hash": "a294472c816871fb70a81b3d6f55ad0c6e52c7c3a5d9a24f17220688301c7018",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Best Crypto to Buy Now: Dogecoin and Shiba Inu Holders Eyeing New Meme Coin With 142% APY - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3JQWjdWM3F6ek5fTEk1MnZrNXl2MmR4SlJBYTRRNGFGZnBoZkJMTUM3M0gtSGZiZVdDUFlkeUZVVUQyc1FrSDFXc1VEQVBYUk9Tbm5zMU1kWlhFVjRNOTlRa0g0b19lZGlnWkRzSEV3UlFOZ09vXy0yU3I5UDdwRWhodjRFWERFWkN0NjJDeW1IbzNTVHdjN1A3cDMzdmsxa1g4eENNRUhYVWpsbHBlcEU1Ql90OUtBdm5Z?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:15:00Z",
-    "hash": "63fe5de51eade5f327c7c7625465094a9d2d0bbe4e9198502768f3a00320814f",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Is Nvidia Intel’s Savior? Not Quite - The Wall Street Journal",
-    "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNS2NHSVFoOFdGUTVoaW1KWHk3T2JuODI5ZlZPLW1pRG5vbGo2ZWJqYkZVNVpKT1ZoQ2ZxeW45NFFLZGNMSFd3a0o0cncyYXlVZENHVjZibWtTck5tRDZSUTR6YXpob3JTZW4tbGc2cUFhR1Z4U3pZb3FIb2VpZ0JBcFpnT0l4OC1wSFpXRGN1Vk43b0pJVjc4UTN6NGhJQ0lQb0lCRTVhZTBXa3NPTTdObVJPc3J6MnZqTEg1N0FMRFZxVFMza3hHY1pKNVVDSjRGak1TOEZjWE1LMWV5dXloS3dxdEQ3TzVPaThDTTItZXExYTRDOGZGSVo3RFpnN3dYaG1JTGExbzZBWkdQVkRiUl9vRGVBbVFjSmtzeXRHUURPYTN6TWVyYzBiQmt5MU1jY1UxU0o1N3I2SS1UUjFibXZSTE9yRTJIbWd6WmQ2a0xzb3NNM2RySE9YWnhqZUlRRk8wUzZyNDg5YnR1WFhOWUNYci1SMjA0ZHVUbUFSRF9ZM21B?oc=5",
+    "title": "NVIDIA Announces £2 Billion Investment in the United Kingdom AI Startup Ecosystem - NVIDIA",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQk1CM0lKeWpMMENvbWdUamNIR2Q2cTRnRGRSaGNHLXRvWGgwVWN5MXRwT3p6cHFPWEFVUkVFMHEyUklySDRnNDNXM1EzX09IenIxb0xjdURuZnBSUk1LS2RPYTFaTFdQQTVPVzZhLXMxSmZBRi1KeUstTVpXcmVqc2JaSE9abVJjemsyeFV6aDFKbktpVWRsZ1RXc2N3cDhCRE1oRVFuMUFxT3p4TmxwbzlUY0JHa3Z3R0h4Y0l6YWJUbVBfS3RHbC12X2RNRVFoT0Nld2ozYVFpeVRHOTZFV3pYN3JfUHRK?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T21:14:00Z",
-    "hash": "8bd9359487e3b8a9fb4acbf89ffe82abc9d7d4d0feadde44da17fec277662ba0",
+    "published_at_utc": "2025-09-18T21:38:51Z",
+    "hash": "b28600481c58f1c8cd43aae9801ccf8a1e95e704f0f6bc5930e9ab97493a60ca",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "REX Shares debuts first XRP and Dogecoin ETFs in the US - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTG9Ca3c4OTRUMlY2dll0bXhnUUdLWU1LYnlRZ29vNjdlR1QycE01T1dhM0E0UWg3Y3VjblhPNGNJWm5fNVVLak9QRTZvaEpRajdhdEJHN1FQX3kzeGFUY2RDeDRPMnJ1VGFCSXVva0FDbVltRlNCWUsyd05YYUJSVy1OUm9zdlhMU0JZWW9zRjR4cU9tVWFTZ0VGVkJqdGJHWWpVMUVQT2tQNmNsM3JiXzFDVHd6dm9uRjlkSdIBwgFBVV95cUxNb1l0c0xZZ1A0b0NkcWxGWVV0UVdIUGFEZG96WHhxM1Bid0tUd0NRdEJuLXVpTThHd2NSTzBka0dqbDdsMUFrNGVGQS1LOU5GUklyM21XejY2N1lFcTR3eDcwdHYyZ185Y2Fuazd5UkdwQUptRDFNRDFsLUdsMEotbUhNMHJqZ252YlAwUEcybkxuNnJWOU1pc1NSSlEzbnBobHJHcm1BcU5ORjRWOUxLR2hobUFPNUNSeGJfUW50NTItZw?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Unlocks DeFi Yields with New USDC Lending Powered by Morpho - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGdOZS1FbFlsR0o1LUZYaF9qa0tVRktORXVGVHliMGxmS094WEFJYWt0SEc3NlJuTVZVbDNBSEtreXlocjR6SkZ4Z0JJazFiNmZtdGN3eTAwaE5jQmk4WWJrSVBOTUlETS01RW5pRndkdUJIbk5PRGJUUk9PeFVTZ3M4LWhqdV9VelVrMW5ibE8tcUgy?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T21:03:48Z",
-    "hash": "dabd08c80c3686b441f198563858e04c6f53d1595c1719a2cf8cb67daa8d55ba",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "REX-Osprey Pioneers XRP and Dogecoin Spot ETF in U.S - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hQnpFRVl5SEUzYUJmZ3l4NHByM2x2MnZnbUlyMEczMG5VX3JlQnFUWFYtYjdMWW8wRGYzSEROeFRWT2ZvR0tZT3UyMVktakhhQ2RpeHN1TTNDcW1WQmJMb1EyNzNkYXBLLWlscE83eWN2bzVFUnFHNzRqN1ZwQlk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:02:51Z",
-    "hash": "74292c4a30102d22905b5914871827ef41c64bad06d59736f204686fc838e1f1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Nasdaq-Listed Brera Holdings' Stock Surges 280% After Pivot to Solana-Based Crypto Strategy - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTQ1c2lBLXJySkRrODNsV1Zuc3YtWnNKdFlUSnRSTjgyb09mLVRCNGJNRUdUOXd5RmptSUpLSGYyX18yMUc2ZlAtTy1LZWxXLTZiZHpXM0hkVFlUb09IS1lad2NGNUNpMm1VMXpSa01rbF9VRlVVNDE2QnJydGNQanMzZFQ3ZEIyNDBIcV9JODg2SU81cndzSW9KbU5uNDI0V0RFR3B6Y0QwX2tHM0FUQUF4MXBzZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:01:39Z",
-    "hash": "c78ad410357f5f85e956f21a9cb32ec933eae60c61243bc3ffaae6aa9c0b3d3b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab (NASDAQ:RKLB) Shares Down 1.9% on Insider Selling - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORl80TDZEVDJZTXNNV281M3lQT3djeU5rT1d1OTZDLWJSblluSGRnampXZGJWQUpJTU5Sa2Nod09jUlNKb193eVJ2YmFYNVFScEtwUXhaYWgtc2oxOWRWMG1WSzlpQ3VCcjFvQm11YlpXblEwLW5iWHZvaUt2aHNGbEdqdzRxYzN2SEJQa3R2QXo4aDdOR3BhT28xZUxobVdoZEp0el9KVkFobURXdEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:01:22Z",
-    "hash": "44b0868a1145987cf9a44bcc24a97a008739b5d91e59109f6f88085d851c7ad0",
+    "published_at_utc": "2025-09-18T21:31:29Z",
+    "hash": "8a3a064b5e47c9b44017ec231b9b00b90e325e0dd786b8c664c26c79a11ec65f",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Novo Nordisk A/S (NYSE:NVO) Trading Up 6.3% on Analyst Upgrade - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2gwSHI2aXg1c2RJZEUwaTJpVTQxRC1DeFdqQ2ZWa01jQTFod201WlQwNXdIbXNRVnE2RGxfVzlreXdQdVhxRU8teTZ5Y3VOYkNjb05MS3RYUkRHbWliXzZ1dXhXSnNRNzRtWnp5cFVzd0k2NTlDSlRUQ2FwdFV0MWtBaDJMRXF5WlZ5NENTTXU5VGJjY0dCaVNEVy1uby1mU25PSzF5ZjY5T25GSUNJ?oc=5",
+    "title": "Novo Nordisk A/S (NYSE:NVO) Short Interest Update - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3pKd1JkSXdRUlRYbzBTQnppVlI4Rm1HeGo1dmxZek10YXZTd1BPUklaQVQtejA1OEU5TjJzNUpaMm5mRkxWV3ZxTFV6aFNTS1FieEhuR3Q4N1BIb0o0WXY3eElsWmJqSWpyc3BmWjBLSkNGWjNfTi1DVWRKb1ZiREstRWgxU0pWellLU25GNHlOTHQ1YUVGS2lxRjlIeXdh?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T21:01:21Z",
-    "hash": "e00e81fdbd63b72bf2fcb3d735b9ffa2039157ba0d9e12a14833d71731a61f9e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Canada Seizes $56M in Bitcoin, XRP and Other Crypto as It Shutters Exchange TradeOgre - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeUtSeWkzRU5lOUJOZFRfeWw3MUZ2VU5sVS1rbTJoNGlGbkdwNEJTemMtWGdaZjhJTENRclBOSGtiOVAzblk4REVYcE9rVjJOcXJxZUUwVVpQY0dBVGlraXVIcmxCU3kyZk96SDNCbkZSczZGUkdhWS1sdS1pZEs1Sw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:00:48Z",
-    "hash": "44ed8be14f5463b3678d6c71a39a67f06db033987c1a3187aacca897b7fdc079",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Canada Seizes $56M in Bitcoin, XRP and Other Crypto as It Shutters Exchange TradeOgre - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWpaaURGV1VQNWI3SHZhbEJZUnhtQzdhR0pJTnp1c3NlM3ZaTmVINmpiZ2FUQWJTeUg1aHc5cjAybzU5Y0hWVGdmbGk2ZW9HaTJRclZReFhfUFFzRV9jOXFKSjNOYzZYZmhVYjNpV3JjRThmNm5XTmtjMHBLWHR6RjdMRFFza0g2cGhNc2tpVGo4STBaUU5ReXRHUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:00:48Z",
-    "hash": "6a9762170526cd1964409425d579154f59e4513b357e8826164847b53ebfd2c6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ETF Buzz Builds: Galaxy Digital Scoops $306M — Can SOL Deliver 65x ROI? - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjlreFVQR1hTcmxPVkRCbHM2bGN4QXRId25hdm5qNm9DRDAxQkl3UXp5Sm9IaTl0UC12NTcyN2s2ekRvRFhIcUVORUNnVm9iUk5MSzBLS3ItSUVOb3FBZEVCSzhhNWRNXzZwcGNiR1gxazhyRm5wZTZpVU9mZ1I3TVBuT1hLNGk0cUZZcnU5bkphSkc1aFEwX3pLNDlGX3lSMFJ1eGJ3Qno1YU1YNXhsVkllQ3IyWmJWWkRoTmlyZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T21:00:42Z",
-    "hash": "a0e26515a0aa89836ac80c4910e02028e407be96db27e55d4b66b3421cf33378",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana's Surge Unveils a New Era in Cryptocurrency - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vVjRGd1dyY2pxdnVWVi1Pc3FFR0kzd1MyY3F6LXBucExCZEQ2LS1ObE43Q1E4NzBRTDkwMFpiMnZmdXFyWDFiM3QybDlYaS13cER5TEhXb2ZmOWxRM1YwYk4yalFXNXdnSUwwUHdQdjNRUGhs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T20:59:30Z",
-    "hash": "fa6666670cfb824f48f07d6168f72975df95732ba68c8b49e671eb3896c31ab2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Stock Movers: Intel, Novo Nordisk, FedEx - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlhiY1pacGlUNm5oVG1raTAtR0xkR2RXNnZxWVdOUk11OVVlQXRlRXlPS0lYcGRBOXV4Uk1GcWd2dkZMU2IyS3BXOXNxLVlneFllM2RUdy0wb3ZvNmhVX3FiNUJBeng0T1BDRzBDNHZNc1BoaXNRZEgxaWo1NWI0QjIyWXp3RWRQdHVTMkdCLVMxU1o2aXRtRA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T20:58:59Z",
-    "hash": "066f3dee091284ba55cde0edc04051ad8b1f403fe8fd76cf998cfb2f9a1fc47d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana’s (SOL) next stop could be $300: Here’s why - Cointelegraph",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRU9UdUtsZkxLakx0WDFCX1FMMmg0LVNjVUUxVXp1R05ESFZVVW1aWXlncEI1RldWcHhzREduUmtQVUV0Qk1jU0p1MDl2SkhhcGR1WGlrUVhOaDNuWWZqT3dWMVlYLUZaZk9ncTlsUWRBMGtCVHN5a0dHNUUzcVZ1SXI3SQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T20:52:24Z",
-    "hash": "b66efaef24590e56b9630e300cab4959a1a10ce742ee1cacbbb7cc0eab145c95",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "AMD: The Intel-Nvidia Collaboration Is Worth Watching but Not a Death Blow - Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlh2VE8xd2ppYTNBbXFYdmRmcjlUX0RGem1uaDkwQWJCdFAzNzJ5bWRwT1haR1F0SmxGQmpPNEoxNFRhRVExOFUtblZOMnZfSXJKVmNjWElpNWQtRHZPUUJhNkw1d0JTQkszeEV3V1B5Mkw3LUxOaWVzLWJVcnhQSFdRUlU1dnVWSHNYUnFoNUZpUVlVX2Q1cjlsb2d5V3M?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T20:51:06Z",
-    "hash": "5f0a7dc8706a8ef4f185649f767534af72c47304d8d3d9f81690250e3a105c55",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Changes the Equation for Intel. For the Stock, the Big Problem Remains. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT3JpZGZxRExsRGx4bjRmM3lISG9LbEx6eHZ3SjFvMmxJcjBaRWlzV3BMajI5OURNdHNXZnRRejNnSjM2a050UmE0eHJ5ejh4WkVvc3l5ZC16WDVKUXBrLVhRNDVYN0c5T3Nfbng1UDVWUTJmNHhYVHpMUHJVSU9DRE1FbHhkQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-18T20:48:00Z",
-    "hash": "3b64d9617e49f44a69c00d70ccabfcaf7ba21979eb2869c41c302e6acdec02f5",
+    "published_at_utc": "2025-09-18T21:30:03Z",
+    "hash": "b0ab8b63ea30de8e9c9df6c511ecfd8df310f12864d5e39a63c517e3e551e8c0",
     "source": "gnews"
   }
 ]
