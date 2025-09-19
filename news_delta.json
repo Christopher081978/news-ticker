@@ -1,32 +1,112 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "News Explorer — NBA Kevin Durant Regains Access to Bitcoin Held on Coinbase - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWFfUXhrcHlKN3NSd0NTU3Q2eUd1bWdwVi1NcDNJdEM2MEFMNTVVZW9WYzl5ZVQxcnN3cmdmWHZJbE1nQWRpTTdjZUxWbURxOFQzcHlMNG03T3BSVWZnWEY3OGRhOFJBRnJDWDhTMTFFNVRVS2JLLXU5MHNrbUJ5d21yXy0xMWM5Z2pKY2tTVVNOX3hYWWhpN0V5V0RmOGxXeHRKQ2VIZnhPSkRMQnNQMjBHSQ?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana News: Solana Price Targets $300 as Corporate Treasuries and ETF Optimism Drive Demand - Binance",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfcVZESTV1TWx5UWNBLWZZa2ZPaUtYN2Rkb28zU0RMNWNsR19HQ3NsU0ViaXJ3WkctMkxETDE3ZmtSeTJMNlhjTzlHcmE1V2c1SVBMOHVyODRYd2tBanNhSl9Ncw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-19T05:37:20Z",
-    "hash": "8d1e8c12d7be26d4587cfddea2200e58a7a37b4ec40118e6f969c0533ee01a4d",
+    "published_at_utc": "2025-09-19T06:30:40Z",
+    "hash": "a464096ff2c4d62cadfa5daf00d52121720ac1555305fdac852d99614c6ebbb4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "The Mystery of Nvidia’s Underperforming Stock - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFhFNm1GdFEzZFBvTnlRRzFhM1UyZ3FxMHhsbG11SWNzYmgxNmhfZ2x6Ql84Vkw5U1hWUGdqM0JVV0R0STR4N1RWZUJLdHdzZ19DTklHOG8zdjFRTzBhUkVvM1JZOXpycXFTZ1R6Zmh5ZzJVOUdKbk8tWHdwSUZ5N2d5eXR1dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T06:30:00Z",
+    "hash": "f88db6266bd85b2e3676f8e604810d78fc7c04e752bac1c6f5c0286addbd2a66",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News: Ripple CEO Expects ETF Approval Before 2026, Remittix Set To Jump Over 5,000% - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaXJLQUNqZWhFaEx3TEZUcDdMcDRVWFBkeEpscU95bFZZY0dSTjhhQ1M4bUptWnA1X3RiU1ZFeU1wR3J1N3gydTBmcmQwOGRSdjZXblhmV2FEUTZEZE02TVJDVkNkdzdNcDI5dEZUV0F3VFBaeW5mY3RRSUVTQ3J1WnpuWm5tcDM1cFRvX09QTWVhVlZHVkgzUVExT09kWV9JdXpvUVNWZFd2T1pRMmJ4dGlaUEI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T06:26:00Z",
+    "hash": "730f5c2b3870c8493c5e3b26c749a61f3c434584f8a91d8571be296d5f35803a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Czech National Bank Increases Stake in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2VacU9uS3EzWFFnMlE4WGphY01leXRSRlpmTlRHX3Nkc1A1Z3hoM1BXZGpqVnluaDNyeVhtM1dwVnhwUUVMbEhfZnZla0RXcVo0ckFMcGZacy0wWVVUN0M1X0t5MDBQMVNkYTNUSDZmc3Z3c1Z0VWVuNTN0OTZiWHBzUndEQkR3RGx4Nk1JWjNPbEJJRWZoQXF0N3FHay1XTjZJQ19hTU1oUDhubGpLZkNhVGFTd21VYWRwVg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T06:17:12Z",
+    "hash": "7de035cf2bf4ea8e74306798b2e51a4a07c7ee2c1665a0cd552a89773ea0ba66",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News: XRP and Dogecoin ETFs Smash Expectations With $54M First-Day Trading Volume - Binance",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbndhUmF3c2REOEtCekdjSEEtalkxZ29DSXlXZHpYaHZSclhYTTNaUHd6cnNqVGV0R1RFZ0dRQk5qbWthZnFncTRpRW1mTC1XWGhzSVY4N3lyQTVyNHBmQkR2enJvSlhYUWg2UTNYVjExbUVzTDgwWlpzalJRSVlsV2VCakN5TzhjTlFhUXRKN3F4czhxcF9MbmRFeXY4cksweUhaX3JFM3dCcEYyYjhZVHhVSlI5Q2ItYWMzTk9SU0JCUVJ3OS1UZ1JNRFFEU2hqOW1pV3R2dzBRRDNoUEZURGZWTjgyZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T06:10:06Z",
+    "hash": "ce6a80a5728b8085395c0b9a50d1772aa109f10983720f0434ed89a5a76bc205",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Mobility awarded the largest order for BEMUs - rollingstockworld.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2xOTUJBUC1qRGhLcjdRNmZGcmIxU3dMMTlrbVYxcnpQYlVua0F4eWxMOENhc090NjBfOTR5bkN6Q3lnZEpSSWkxeE14ZDdKdnZkU1lVVEdhbEJvdmxxYVZSeXp4bEI4RFBXN0I0enJzaGtzOW02bGRKWS1fcFFYbEF6dzBMdDlQcGJVUEEtTlNKa0tFSGFHeGRZdXBibHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T06:06:37Z",
+    "hash": "6f8972825fde6451a6889eb8cd9107a3273d8b201ed2a2812f1903d36d507b37",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Best Crypto Presale 2025: XRP, Solana & MAGACOIN FINANCE Among 100x Opportunities - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbThjY1dsSU9BMGJjcVh0Q0tCZjBROFA3ejJRR1pZS1h1elJkbFYzTlRrMGtEcHphUHlQaUE5NzdhZy16ajk5dmVhRGJwMV9uZ3FYYTVZZ2N0OHFxbS12U2I3SUdsVHR3c0ZLbXR2RTdHcHBZTDhSLUlRclRWbnlEekNfcHBsbXkxSDdkYXYtNGg0MG9LbG1DZEpySURlYngxVU9ZY04xTDFsVi1RYklfMjhUNWhvaGVBdWZJSmFZYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T06:03:03Z",
+    "hash": "cb3de1df319e162c8a7b99e7dbe1e9d2854487e43882e236bca779063b6f7354",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto Presale 2025: XRP, Solana & MAGACOIN FINANCE Among 100x Opportunities - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbThjY1dsSU9BMGJjcVh0Q0tCZjBROFA3ejJRR1pZS1h1elJkbFYzTlRrMGtEcHphUHlQaUE5NzdhZy16ajk5dmVhRGJwMV9uZ3FYYTVZZ2N0OHFxbS12U2I3SUdsVHR3c0ZLbXR2RTdHcHBZTDhSLUlRclRWbnlEekNfcHBsbXkxSDdkYXYtNGg0MG9LbG1DZEpySURlYngxVU9ZY04xTDFsVi1RYklfMjhUNWhvaGVBdWZJSmFZYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T06:03:03Z",
+    "hash": "cb3de1df319e162c8a7b99e7dbe1e9d2854487e43882e236bca779063b6f7354",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Over $4.3 Billion Bitcoin & Ethereum Options Expire Today – Volatility Ahead for BTC and ETH? - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1td3FQZ3lrLUNmb28xdk5RSFBJbXZzZGg3TFlOSjVacWhOZm5VQVFTa2N0VmdpMnJ0RllsNXZjQUNlZ0g2VkFUWGczMnRIZVMyMUVtV3F6X2NobGhvdWthYjFQYV9YdnBTVjhRRHMtUjFRS1NsMzdiRm55Vk0?oc=5",
+    "title": "Ethereum Crisis? ETH Price Prediction as Vitalik Calms Markets - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTZSTmdrd0FMRnY0QnUtNi1aS00tR0hzYmJNWE5ybUVBRHJSX1ZwWC1PRnpyX2M0QTJEQnlMa1dCM0pkSzZLV25xcVBJODRYN1BEVmZYbGxOZlhTWmUxUThOTDdQSW0xeS1PY3N5eUNVQkZqbTNpQnBHbnR3LXZBM2IwcFFwWWdKa0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-19T05:29:00Z",
-    "hash": "b94a8d5332ecfb79f51bee83e5c6ff84ae8153fa345d873460e954c55c9e3684",
+    "published_at_utc": "2025-09-19T06:01:50Z",
+    "hash": "a9b3407157e3f92d6f0ac285cb5a5a2e717434e550ca9c24e11529435bd1d6ad",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Over $4.3 Billion Bitcoin & Ethereum Options Expire Today – Volatility Ahead for BTC and ETH? - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1td3FQZ3lrLUNmb28xdk5RSFBJbXZzZGg3TFlOSjVacWhOZm5VQVFTa2N0VmdpMnJ0RllsNXZjQUNlZ0g2VkFUWGczMnRIZVMyMUVtV3F6X2NobGhvdWthYjFQYV9YdnBTVjhRRHMtUjFRS1NsMzdiRm55Vk0?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Trump administration clears way for solana, XRP spot crypto ETFs - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFJBY0xySTNYcGdxVFd1Mmx3VXZ4c3U2b0EyRGFZb2dyRmVScjJreUdWYzA5azk5cG9LXzh3TkNEb3FkaVNfSHR3cGdYX1ZhR3ZNMEQxR0pwWm4zZ2UtMnVrY0JaTkpoWUZqTDZROFZyUG9jZzhnaDZjWTk0aXZIekc5UW1jYWN0Nm0wOWdJUDk1Zk9KWkV6bUc4ZW5JWnJwSE9QdlVKY3ZnaklaRnJJcTllY293Qno5d1Nmc21XZ1NlcU95N0pzRzJMeTJPWUFPQnJydA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-19T05:29:00Z",
-    "hash": "b94a8d5332ecfb79f51bee83e5c6ff84ae8153fa345d873460e954c55c9e3684",
+    "published_at_utc": "2025-09-19T05:54:18Z",
+    "hash": "e9da9b40027d3cd0885f338ab80e82a7df2279d190de3455e3b6e17b1b1b2dad",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "Panasonic",
+    "title": "Panasonic India eyeing white goods PLI, new plant to tap market potential - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnUtV25ZRHd6dWV2RWp2ZGxJeFQyVTVRd2Jod0ZtWUF3cC1GZ0o0SE1sUlVSSjJMOWJKcVpORm5wRHVwZnk0cll1NlRlQVRieTJyOXYtbGY5b3Z6ZEcxbjhER3NLX3JVSjNVZXVSTER3OUtJY1ozN19ucjByNkoxVlVreldDYWhqZjk3UkVNV3ZpeHJxQUxxelZsVUdHQVpOQVM4VkZFVTRFQ05QeHNxTzlEQzdINjg1ZEhxcEFJNUpoSWg1eF84MWNtWjVXZURJ0gHWAUFVX3lxTFBrMEtoYko2X09CRzZZV21RTDBNVWtSdkg2LXdhWldTNE84X0dIeDRISzNJWjhaN1BLVzNNZGtRRy11dkpRMGVvYlFFQ3h6OV82WXVFSk9wa3RjZUF3c29ONG5lZmhaV1ZZSGFmZjRpSkkxalZHb0J1Z2hsT21VWmlReTlzSUZGWVdZWW1lVXN0blVaY0JHc2NOZHBMV0tBQTRVdFZLMmFpekdzVnZtbm5ualdZdG5DbG1LOVVLWEhjY2xNN3I0b2NkWFJzRkttQlFMZVhYcXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T05:50:38Z",
+    "hash": "5ba7d34f4838c821f30c836cf17e7a3fa2ee6fe1c80d0088c10e7d094f106008",
     "source": "gnews"
   }
 ]
