@@ -1,32 +1,512 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets, Inc. $HOOD Shares Purchased by Swedbank AB - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX3lHNFI1Rzk0U1hrSU5sZmJNV1dETnBQS2NXRzdtVU16QUVlX1dsa2JqLXBLa0NNX3loSU56UmJHRGswM2NGcldmNVpILXctTFZaYlhteVVjem5yZE1kWUxfSVZ5TzBIMDdsRlE5TFpCRnhIck9xZmxsQjdQWUNyVzA0UDlST2owbEpBTGxTdnY1RUlEMzQzZkUxSGtWWEw2eElsZ09tSHlPZjMyeXotaDBMRlozNElma0dGT2g0clE4QS13MHc?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Current Insights on NVO Stock Performance - Info Petite Nation",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5fVHRBMDR1VEItM0xLdUdFYXRFNk5YVGU4VTJ6Z2RiZjhlZUdMVzUxSUZqOGJSWFUwckxfUnlvM1g3U2JkYS10T0JVbkpUdVJ3QW1LNWhDa0RHUWZtVV84UkNuTjF2UzFwQk1qTWVDQ0VPQ2Vwc3U0U0x3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T23:34:39Z",
-    "hash": "d90ca9c13d7d0b883b0f84dc57f655983afb3ccb5dea281c7c2c17597e1b7cc0",
+    "published_at_utc": "2025-09-19T01:50:22Z",
+    "hash": "23db3faa115e7b8dfad3cbaab43a8419a129f72078a3815fd76f25734dad3a56",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "First US Spot XRP ETF Hits Market With Explosive $24M in 90 Minutes, Crushing Futures - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQzVHa0FBcXp1ZjVDeDNyOUVmYnE4dnNEaGFHbGE2U29QZXliaUJ0RDR5Z0p2cm5uUkFhOUM1TXFDLTM4RXAxNHZHNWhzbXdhbkdMTzAxSm1qUjN0QXBmS1JZY3ZxSWE1ZlZJOWRLdG4xSWE5Y0RJRjI5WW1KbWpITVFtQzJPaUlJRlNqbUZLZjY4UjhLWG9OSE1VcUFKaGo0WnAzTXpoUjFSMnZJaGc?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Toys With New Highs But Layer Brett Set To Explode This Week With 20x ROI - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYVpzUmhpX3QzMTJ2WWtZWk1OZWItUDJvS09hX2hvWnctdXNXOEZKY0NPWDFSNlZaN29OYkI3MURaLUZvaGNmLVQwR1pfRHFWOU5NT0FlY2VnX3REZS1KSDF1RWdnS1cwamFBYTBjX0VwODN1ZVNXVGxCdFpYTHNudW4teU9iTE8yanlmWk55VzV6RmZmMHhaQWRLMHYzNkZCNlFUd0xJNnZhM1NDZ2VCX09iTHhRWUZUOUQ1aWVhTklhbUdOT0ZaSUpHcw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T23:31:45Z",
-    "hash": "0de70414646f3d45c4e28778a688b182c0821b6db04098a736a530479d802607",
+    "published_at_utc": "2025-09-19T01:47:58Z",
+    "hash": "83e432ad2bde3295911864e9f0ecae5a13007bb2db52a517abd0fd6f8628452a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Will SEC’s First Multi-Asset ETP Push BTC Past $120K? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZU1RNld0bGI3d0NqNXJ3MnVLT1JyNE5ETjN4cktkX2JzVTd2SmRQMEI1SzVGdGdUYXg4MW91ZjRObERvUHR1MWo5R1ZCaXM5TFZGZEk2Yy1nS2RvR1ZCTDJfY2ZURTNzSFptOUoyWXlkNTZHVVdzYTFfOTZ4MU9raWowSWxOX3BCeGNkVmxkbnN4NTJjdTl3RHc2ZGFkbG5lbUxxZlhTSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:47:20Z",
+    "hash": "5c366a1376c8ef947b41596cde1506b69e943d94792b4bfcd24292c101d305f1",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "MassMutual Private Wealth & Trust FSB Decreases Stock Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMWhBM1JTb01Jd2U4UEozWDYwM01XZndKeHVlMmsyeUxPQXU1MkRFMHBfdHFObU5PWHEwZGVDUE5Wb1UweXFFU1FQUi1KNFNvQUh6NDQwOW5qaVJnTWQ2MUstRTJKOG5DN0lreXFMNHZ4amNwYk05OWYxdERWTGo2V2I5eFlBeE83VHpyNF9hel9ENkhFbnk5Skw5Qjg0WS0zWGdlTVZwTS1scGlxT3FNZHZTRzRZNTlLc2hhcGdLTm9Hc2ZDSzlVZ29RTEhueUYzQm1RNkp3RUh3Mkh0VXBoT2NGNTAwcmxGQzA4cg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:46:32Z",
+    "hash": "300ec8a775f000b47ddec8170a866e490ab04109f91bba01307d1e06236f90ec",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Goelzer Investment Management Inc. Purchases 8,096 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUTVTWG1JazJIbVF4MFMtNVJ6bUp4Z3FXV0ExMVR3ZWdiREYzdDBweE1mVW5UVnU3UWZUYW9SOHZ0WlBoZE8xcThFYjcxWjJ5amdjSGhWNC00dmI5SVhKQTJtY3lNZlB5aXZoRXJHQ2tDWWZFUzF1em5rLTQtQkNEakpCbW9OSDJHVFZfRW53SmJiS3ZIeUthd2ZuZUs2R2xPRDZVR0EzbkNucXhab2JvV0Vod1EzWEE4aU94aFZ0aTI1U0M0VC04R3R3SzJlSm9nZzBUT2JaQzhlRUkyMmJTbDhvNFFpbU9sZE03Wl8zdDZ5aEw3UmE4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:46:27Z",
+    "hash": "a0f6032600b2a0252ca2ab07dc8382cc542c8504b645e86dde95c198f2f48d62",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Focus Partners Wealth Decreases Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNnFBQk41NUZNR05rTjZ4UGxOamNOZ0kwdklTVWlNQlFHQS1NbFVMUm1iQ2VkNkVnNUk5U296SUh3OFFFblZXQUlLTmw1MUNJQ3k0Ujh6amlUM1JyU2RMVjhBX09lc01XRUEta0NRMzVoMFVtNi01Zm5jT0k2SzV1a3BLTGpyeWJUWUkxLTZtUlMwRUlpZjZfR1QycXpYWEN1ejR6UkdOdE5kZ1dzRnMzeGd1ZGRjR2RrSmN6bGY1UXlIQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:33:39Z",
+    "hash": "8b10ba9251542d9c4ec1097ed5b1c29648b444310ca1a3aff6106e9538df42f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "HBW Advisory Services LLC Acquires Shares of 2,797 Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVkZVVWczcnA0YmpEUDlobEo1ZTNxLURDWXVXOW5lZ0Z3OHVwdlJuYkF3UGgwN1lpYlFlNTVUSTJBd3VhUFJDbWljMG9NZlhQeExRUVJjY3AxcUFtVGJ3MHlZMmN2anVSTXh1N1B0VEFuS3A1WU9SUVlaQzZFWWlXOEhRM3NVUmxJUi1wTVp6YlVvQ3kyeWg2aFZ0Z0xQaHc4YzNvZTNnTnV3T3dxM2toYmF3anVMMnd4VWE0aGVmYUdRRVVYU0lEYklhTjVKanc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:31:35Z",
+    "hash": "e7740a0977753f9e7061796fc0d70a4606e2889bc1f489e38d0a7207b081c883",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Reyes Financial Architecture Inc. Buys 2,219 Shares of Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZi1NQk1iXzZ6RGYwR1Rqa2Y2X3BIWnpXb3ZCUmh5dHZmcXFuOVhZRFhqMnEzTTJZNUhfaHo5bkVRY19obHhtUlZDTUdaQTQzMm90c09yNG5CaDd5T2o1WFFVM2hlemdFU3BUd0tsU2o2V3VsbVkzYl9nWDBIUm04dlZieENJSjh4RzdiNVZYX1d1ZEVmeEpXbXJoMk5YQ3RmcVAwNUVfb0hIZHVoTGxVQ0FJaEtjbm1yc2lnTWV6dnBGMXpoMHBpZ2d2TnJiVzI4enlUOUdLYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:31:34Z",
+    "hash": "65931f9b7a835b7d142cea7f23fdab65e6001d6a42aa50e6d1278a0a7536e8d7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia investing $5 billion in Intel, weeks after U.S. government takes stake - The Washington Post",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTdMaWZrVVdLLVNsaHRaVFc2dlcwWVdEMWRmZkZfc1pQekpHbmRJcTFwSlhfTFpEcm92V19KT1RYakNiMnRFWXBieTFiTGUySFRqbnU5U3d5b2EtS2ktckF6a2V3Yjk0XzVncEFMLTVPMlNvSmd3N0swSnp6dGdnZFZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:31:11Z",
+    "hash": "b97332f9ffdc8d9c7e962a323425c2b2331839fe44f1242b3e81e053ab87804d",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "29,450 Shares in Boyd Gaming Corporation $BYD Purchased by Strs Ohio - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGxZTkdwdnFRXzdNQlEzV2U4dmV4Rm9DZ3JnZV9YT0RLaTVDX294QWZuOU5rcFZwd2ZKMzRMWktOcUR2N1pEUXdkNUFFMTBxZnJFLUg2ODVTbjZvSTFUZkNRUkJuOWp2SXN0Sm00eTFLelVOaHVGQTFRbmpTRDFLMlVBT3BhUnl5VHZkTG5QTDJHbkVQS042Zl9NQ29Nb1RyTC16dTBYLUQ1VUNNY3V4NXRSN0VZNTk1a04wNzA1Q3lRQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:29:33Z",
+    "hash": "dee23938ebcca956666b4163d280e94c7fbb985e2eb1ffd184b277bf9f4f6e6c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Hedges Asset Management LLC Reduces Holdings in Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdDYwX0JmOGZDMlRSWGVNNVVaMmQxdjdpakJqc1h6eFFhMXRZV1lveDN5SDhDZFZWakJHdEl5S3IwV2VaMFA3VkZSd1ZWaHoxUEI4U00xOGdnS3pmYV9mSloyaHdadXhoaUhncWlpaXY2b3ZfdUZYemM1bXczNW9tcVV0bVJBdk1MZkZOUkhLSEQ1OGVKQkJ2NGhaT1h2bWFHRGt1QzhmNlNTazNBQ0NNMk51T1dHdFZhUmRj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:23:48Z",
+    "hash": "38bf5222b9e8df9ecf35e9210fe2149cad57398b06ce650cdeb8e697c130b001",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer Inc. $PFE Stake Increased by Fiduciary Alliance LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2hqMUVQbExjN3NaSTBCTnJnbnRZSW1OY203ejl0NGV4ZkpVSms3OTQzc3VDNC15aUVHUzVHbUQtSG14VmE2cTZuRFFWa1drOVlkLWJnNjRYZUYyZ3lhRU0zNVJ6ZDZ5MEhjdlVzRDRyUUZlYVM3cHlXNFgyTkd4NC1tOWdlVWQtTHp6WlN0VnhtQ29CQXdxaXh0d2hvcFhBTm53d3N6RTg0aEZrbjVKRmpxbUt1Z0F5OVVDbzJYRlg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:22:37Z",
+    "hash": "7d224b86edc29606e32fe133f229c90858148ccea11cd488c36053706255d198",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Inc. $GOOGL Shares Sold by Lifestyle Asset Management Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcngzcHNTZEgzRlNDZEs3WUk3eXFNOTk0dW00YTdyQ3Z5bEVKT1VfSlF2QjhPTnJnMURPZXlsOFlJSGVvVDBDcndWOW80QTZWblh5RnB6UEJ6b3VFNFdXbkdlOENzaFpfbXdNX2llV3Y5VEx6M2ZmNWhTWHc4UDlCMXkyM0JQYTBCQ2xITVdyYkR5V1ByajZkbVpPMlRRN1BRa2dIb1ZkNjk0cGhGQlZuOFF5UXhvQ2tGZktCVVRNVnRycXIwZ19pV0RDYUo1UURZdThoSmxkWlM2YVA2?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:22:29Z",
+    "hash": "c485cb55f3da9a191d08c9210b7ad96521afa58d45f2ba617d9a9b1745ddbce1",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Purchased by Aaron Wealth Advisors LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXlacHh2WTc5ekROajlZaVdxYWV3VmY2S2lIUjBXVWV6VnlsZ25KRGdOVGhxUmdTQVhkRkRxbFRSY3BFaV8tcDZCMnlWazdZenJ2RDE0QjI1WjNDdjFybGsxaU9JQjF5T3YtSzFZVk5VTGc1SmZsRVJ0Z05nYmJWTEFnUnVCNHBNN0lJbG5yRU1tWFpVVVhFOWlrYzRmSHV0WFF3RU1GUXJTMUVSaVJoaWZDMXg3UnpZR3JCekpFN1dlY3JfRDlnQ0Q2ZkhudGRSOXN1ekVVUFZ2dTFMaVV1Z0c1SWxDVHZTbVl6a21vQ3ZVRDV3MjAxSg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:22:26Z",
+    "hash": "dbb13487b1b74247e08330b9fad538dd0c05a8a9cb75b47a0dfb47de3ae0e9fd",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "PFE",
-    "title": "Pfizer Inc. $PFE Shares Bought by OLD Republic International Corp - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2stZ3ZhRS1GN3NzVW5hY3JseENwbmlzN0t1SVFPNTI2Y09xMWZqQm94eW9XbDZhM05ZRFdMRGdiVWRGM1pZZVlWelcxbEZ2WlhZVFFsckRmVFJtMlhnMElISVFIVk0tYjBVQk9LRFFaX29xSmdfRWJBWDhsMXZzbE9rbDdpR3BrUFIwRVBLV216V2g0MEY3MTlhcDNXSmlfQ3h5bUVkMnl5QS1oS0xSVllYSGZvTlI0elhjenRlbktneWI4eEZabHlvN2RkQQ?oc=5",
+    "title": "Pfizer Inc. $PFE Stock Holdings Lowered by Adams Asset Advisors LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVnBua1Rkb0RUZlhIVHRzNjRRc2FqVTZLcHY2Rmx6SzAtRnQ4V2REdmRxcGZWQVZpTlBBbWQwdmVIdTdtZURuaFBlY29kMk56S1pkYkVFY0VvbkdnMFVLYmRtNno0RWc5UVE4V1JhVU9VYWFnLWlDMFFfWTFEMUlPcjg2SUduZ2VWUjJwMWRXZFpTX3hfdTVjSDBDVkRKUUFPMndKNkhHNkxWdml5R2FCOVFmT21YaVMwTF9jNFZreE5Edw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-18T23:26:38Z",
-    "hash": "1e83cbdd9b5a4f2d4cef97fec1510e073407378b01442f76e1bd63e667b22d5e",
+    "published_at_utc": "2025-09-19T01:22:25Z",
+    "hash": "0441e01643b3e235a7e4eb22d2250f45dc850695e42119ca23724cfaf0d5ec36",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Krilogy Financial LLC Has $1.51 Million Position in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPektITnYyZ0J3VGRQcjkzWHN0MVR0cmFzNWFFdG1WVi1kQW1MSVl0TmVzTmVDNUlHU183amE5R0tmOEMxcXp5ako0bkQyREdPanhldHNhTnlyejA5RVZDNWVTM2gwd2hCVmlsLU9QZHdxRVN0XzdPU1FWVFc1OUNzaWcycWxORGFBc1FBTzRlZzNoVmliZExSYTYydmhaaG45cjM1WURpdVpCQTdqeElaczVlYWY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:22:25Z",
+    "hash": "8ac82e3dd6c9682a077a1a4b67ac969eca73284860c1a8a72a1174787eaa7541",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Silverberg Bernstein Capital Management LLC Takes Position in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd2JLVF8wM0tZZjdsWl9pZVZCU3NOWU9oMm9tWkg3ZGVlc3BzOVpGdVRUdUxPc3JuNmdfbDZZSzNUNHVUV0ZpNzdkeHJtbW1JUExnb1JQNlpJZlZlWGxuVEk2Q2tTZVdrd3hxX3BwZjdjT0xjQzlPTmxzZmU1NVJNcHVhSE1jWXRrNGd4Ujk5NHY5cjhRdU9jYzhZRnVrbU5uVXZvd1E3RXBkVHVkZURrVEdvX2EwV1FiZnMxdFh3YXRTTDA5Vm4ySmhxejFOeEtLVGJTS0tRV3lIUW5WaTZ5TloySGZRaXlLR0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:22:24Z",
+    "hash": "94484af53577cae7fda2095520134efd89a34ea747fd20379a1e235c2a4f5647",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "GEM Asset Management LLC Acquires Shares of 5,500 Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQckwya0NkekhTc3d5Wkd5V0J1WjRiOTE3TzQ5M25NZVRMOXNyY0VROGUyN3dEd29ZRUVidHUxYy1TSTJiT1hVM0NYRy1ESm1ydmc0dk5VQkxaT3VCTDYtS3IyeEE4TzYwMFBFOE1TdTFQQ0xGeW84NXdpaUJxV1ZtMm5DSkR5N2VGcGxWM2JRNlFrU3dpZHVuSW9obDRDMlI3WTBFV1JYNlgwN3RqSDlpenBSWlhpZWs0OWhCSWpMdlpJTGdGb2lfV2dRZndGSl9WZjRXcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:22:21Z",
+    "hash": "99a74117229edfebbee7d27d183a5791d480ed846277032ca084f8bba3e1f9fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "First Hawaiian Bank Sells 6,635 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdm8yUUlCZXFFYlpKLXZmZG1zcWo3TDZPSlFMUmhfbXByd29ES3dSVmx1QS1EUktSME9xb0xIaXBTX2RmV2ZNSUFybUhLT2xIYzRNQjN2UmxybnRUb1VtQzJqbXptdHc2QjBsS3d6bU93eWtCVWtZVDNJNjVPZDFyUmpDd240N1lWYjJSUTV1WGZNX01kRVJCbUVJaEVHWmNiY1FoNERBZUxVaDBOX2U0b21fdTB1UmlVUnN3RTM1b29GZkZiTnBjTGxVNEVWQjNId2dISFpucGM4NXl4RWhr?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:20:31Z",
+    "hash": "14825b3840bf68585388bf1fcb1945a4a39fa081ec431c85b0742b3e2ba1528a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "NBC Securities Inc. Sells 16,191 Shares of Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2dIekRnUW1NMXhqU3cwY05sUVRnTW1NWnBPLVZSWnk0WVVkem1UOUh4VlBjYkhDWEI2VncyZUVTU242TlhnamNPYzl2VlBYbG9IVXViYmxjZlg2eEVKQVZoQmtUcWx3alQ4eEdHQVVtMUQ4Wm9paUpTdFhRUW9fSEh3bFNtdzhZUVdqazl2WU42eFlKV1VEcHpZYUdJUjQ1S1FUTmpkT0FwdjFqMi1pbVFWbG5Pbks4MVFxZjJxUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:20:17Z",
+    "hash": "810ad7b6b556d5a59c1f48d8f92507fbfb14ca84b1925ce64184cdd725353504",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Fiduciary Alliance LLC Raises Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV0ZNY0tsMEpZOWJSN0NpTEZXNlduaDdMUXl3dTN0VE54ZGp2d0UyQS1mNVZmUTNrckNhQXdISnJscEtVR1NJOXV2QjhxX09rcjlLclVRZDVJX1FGY3gzVlc2cUFoRHdHOXpKMWMwV2lVVlMzclg0QUpXbmFWM1NiS1BidkJJMTlvNzBEQW9hM2V3ZEEtazRiLXBXLVp0Z3VvRFV5RTV6WXp4eVBIRURUVTJpUmp4ZmtraF9hUGl1eHhzUDlZMW51SmRvTk0ySWdEaUNRVjZ2a0VOamNIZlRncFVWWkp4SU5KZGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:19:28Z",
+    "hash": "00765b0bcd25cb29109587b959b4ca5ed99708b63fb315d7713c1d0698b785b3",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Financiere des Professionnels Fonds d investissement inc. Boosts Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUDI2YmprdHZYamlPbXZlTzE4ZkxDcktzcEI1cFdzcVZJSmN6VHNzVXhQblpiRkJYYVk1YlNDQ0lhZ1JPNkRPTXhzYXdBSEJTYUVJT21XUkcyajI1R1k0NExhMGVuSWdGX0lZOGJxTU8tSE9aNE0wZzVudV81SVhST0tud1NXai1WYkhrNzBlSkpiUzdGUURVak9qZlJ0eEpyVnBTanc4eTVhT3Y1R0lGdWRLX181RWhhSTZoM1Y3cFRIUnM1ZXdjMXg1eWlYY3ZSelc1VnBNUmJOaGtRbGtMc0lfWjZXbVN1amhETUViZGtScEFaMGVOUDZvc3Bhc1ZHS3Bidm5LMzVvOVNrRWVKZ1ZId2tVV2NlVHhhTGtR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:19:28Z",
+    "hash": "f3253a10b3ba680197a70e5636b262ec24e8abcbebab1cee1d1f02a69752cc50",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Solana Eyes New Highs But One Altcoin Is Gaining The Spotlight After Setting New Records - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2luQmNKZDduU1FraERFdlM4Nkh3VXM1TnREZEJQMFdCMW1CMTQ3Nk0yOXJLZUdLN0VIdDlxamkyUHl6RXR5aklGUzJTRkFObGR2QVJfQjV1UnBLLTlPWVBRbGNzTnNEaEVoSW1uMmRQaHVJX25iVU9leUVURG5MY0oyTU5la0c1ZXVSeW83YXo5S1RnNVhmWWxiRUlfZ05UbHZ1bWpPRTd1Y2ljT1dKbVFHSkZiQWQ2SkNjMy1rNDU1YXQwb3owd1JzejN1OXhlYUFaMGk1bw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:17:42Z",
+    "hash": "69a30f83ae35779b15a2913222ad1ed97dd41c5c45c6015e875e7dd2cb50a3c5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC Holds $115K as Analysts Eye $120K Breakout by Month-End - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSUU1anduVHRRZFhVcFVxRjJqSEhDdkdmb2hXS0NIU3VjUUZ5RHJlQ0RIMFB1NUplNG9vTWJxZGNXejhxTWFBYVlMZWtaUV9PNWlteTZvdE9na2wydkZjd2hhbUFUZWFIYmpSbmZ0Q19uNlZMejZhb3dZS05McWFXZlVxVVFsQ09odmNxdjVQc1dYeUZqdXZJUE8xWVpvRDk3aDRGQXpTNXJfM1Aydjlv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:02:49Z",
+    "hash": "0579b894221453e1ff57d23a6a3c01006f1be050c5f92b1c6ee50aab83cb2312",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD hits tariff roadblock after ramping up Mexico sales - thebambooworks.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdEVwZTlGZ1FBV180VGQ4UXNWcmU3SExRNGpIOFdqS1FMVjRKRVp5Mi1UWXJSWHNMMkgxalluazVnWGMyS3p6QTV0QmJKODl5Q05pbmRPYVdBWWw5Q3d6WkFwa29mZWZYVklQVU1rLW01Wlo0cVRFSzFwV0doVGVsbXhrZGZwTmZIOUpj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T01:00:15Z",
+    "hash": "97d7f3db7aabe886279d12bb4e4493e949adbfd986567acdbcee84a78941b3d8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Soars as Oral Wegovy Shows Promise in Weight Loss Trial - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkNKcGJpMVpjWmM2WGRBUmx4MmtmRnRZTXlJSDRrM2h1ZUdGSFJCTWowQm1GTHA4bUw1Q1hRc1lpRHBQMFdLSGJud19wNFZnN1NJYlFCTWlCN0FBell1S2p6ZFVob0k3S2lheENVRS1GRjFPOUEwaTVPRGNUTUtHUkV2Mk1fY0U3cTlWRnFLT0loTEdQdkRYaVJENlFhWEV4WEpv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:59:49Z",
+    "hash": "0d156c118b20dd4cad83cb0edcb967f229726764795578cdd7068948b19ccaaa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Price Edges Closer To $250 As New Crypto Investors Bet Big On $LBRETT - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2ZUbEhMZXhLZk1BSmpNZEpLWGdzQW85NHpRZnhiMUNIRWxlNW5Wek1zUVVETU5xWENtVkNsR0pyZ0Z0ZGI2YndkZHpBUHlwZ05qaDgxbWZlVF8xWnMteW45REwwd3BwLTJFUmJwMzEtT2xHNWwyejNaWTNkb2QxcExDTndFQVpmSU15MExVVnc2dHdHbHRoTjRHR1U4VXNXZFRaeWJzMThCa3lGcnVnX2IzRjU0RDdnZXFIcVczUy0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:47:49Z",
+    "hash": "dbf10db4cd9db3da646798fe381e56eddd5e3efd394ba699eb002d8a6cfe4231",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Kevin Durant Regains Access to Bitcoin Held in Coinbase Account - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFRtMkNaSVMta2h3VS1kX0w4d19JTk1NWVVkSkh2aUxXOXY3b2kzUGZTdTBMeWlVcjAwbF9WZFA2SUdOU1JkYVQtLVZ6MW1oNXFJY19taDFJREZZTDA0N0NFOUtwd1ZYUjRucGtLbm9kZnhZdF9JM1NYNmo2MDk5R2YwdTljaTBn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:44:41Z",
+    "hash": "8a73db3feb01150d2318933cc3f9d01e0ba55a50be81cd980c4a9cc3b41a0f67",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab (NASDAQ:RKLB) SVP Sells $449,143.20 in Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0ZvRUFTOEJzV01xMjNwSk15UGdJcUhTZzBSUnRQVVJ4SW1YcU1ibDBUSFJVMDNXM3hiSEx4QUR1WUFrVlpnUnVvYVpPODM0ZnBlZjhTa1drRlRMY1FlcVltLVZHNUd2UkxVZlhwLUVOa0ZDNDdCUkhBWEF3U3Zjc2lILXNpalVQNmlOdmJVZmh4dDVHRFR4TEFQeUk5X0JsUDc3ckxR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:34:47Z",
+    "hash": "46132c1fbc963ad2ffb8e487750f002a03e391a470b9233db08d251c949ef61a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Insider Selling: Rocket Lab (NASDAQ:RKLB) Insider Sells 4,286 Shares of Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMlZ4TmNaVkFkdEJmMkRDeFJiVkJmVnJ0WnNuZ1FiSGxfaWdqTmNJdGdRLXpnMVBJaWNueXdrWGVlLVNuU0x6NUJzQzFDNWdNR0JBNzhtb3gwTTFXaTBMT2h6ZnEybzZIaHQ2Njl4VEUwRXVnY1RnZF9neEdrQkJyc3BjZkduNUU5MGVrbk50bEN3TmRlR3M1ZUJWcG8za1MyOGsweE5DS2s3M2h0d2t4ZTlGVFVkWkpIWWRGSEtzTFlYeUoy?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:34:45Z",
+    "hash": "34b6501fb8fb8605c19b8f65bcbb836ea85552981ef16ef2d22384ca626bce3c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Kevin Durant Regains Access to Bitcoin Held in Coinbase Account - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03bHRRWVVpLThYNklfZzhodVphV3UybzlPQ09qQzVPNTJ2dEszcjY4R0puajBja1B5ZmVRSjlQUGZNa1BlZ2JiaXQzcDJZQ09wLWJ3amVudmJ4TEwxZndQak41T0J0QkljU2RyRGhOX2x4M1h0VUhFZ09n0gGCAUFVX3lxTE93V19NVFh6VFljOGQ0WjFqOEFHOV9xRHFpUmhfZlF2VW1VR2FIZUQ2NW5ILWJrQmkzWjJjblNSeUxoV20tbkNtazVjTzJjaHg2ckNMZ2s5aU00UE40RFJUalp1UjBqLXFhcFNFZ0g1bW8ySWk3WUUtYmlkbS1pM2dqalE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:33:45Z",
+    "hash": "44dff9a002d2db6da1ee7944d38685dae2d51722a3d5c24e119a1ee7b52d32c8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Frank Klein Sells 45,535 Shares of Rocket Lab (NASDAQ:RKLB) Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkV6d2c2ZVNSMWcxTmhyOFRXcVV0YlRVcVVIdVczcG01eURKNFhEaFVDb0plVkNGZjJ3am4zM3pzbWg2aHc3M3BRSldNZjkwT3M1RGtaWW5EOG1mVzZ2MloteFZFN2FhSU5JeGxhRExHa1B5M19sRGVTSWZKWlZkV1ItWF93czBrR04xMlJKTXpWVlJvT3JjdXFDMXhfbWgwMnNMZ2N4bFJCTEVYMklzajk1UFpkZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:33:00Z",
+    "hash": "beadcd1a61a3b3f547c9cfdbf3224b55afb85db7063a3473b59d7739ce2f928b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab (NASDAQ:RKLB) CFO Sells $3,342,398.38 in Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzRnZHpfNkd1QjF2TldoMC03SFAxSWhQY1RaWS1IZGpkVmdVbS1HODFYUVRJQVdXd1lLNkZmZ2NzRWRXWU05eVJJdnNLdW9IQTBNTTZaOHpYbVVHZWk3b3NBaFd6d09fMjZ3cjhyRER5V1FNdDJFSHdlOE9fbER0SXRyRjQ1YTQ2X2prZE1VOUNPRXJ2UndrS2JQMGR6OWJvMmJleWlEcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:32:59Z",
+    "hash": "4c8b489ff2f14fd06481785f35d5861f34296ceca752a42f927517bf146cfae1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "SEC Approves Grayscale Fund With BTC, ETH, XRP, SOL, ADA in Regulatory Breakthrough - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0s5WmM3QTVPdWpWcmYweEJpajIxWUZ4RjEwLXpjdDlBME82SVl5RkxQSVJfcmVva1BHNmoyNjhwZTdqTkg4amd0WHRiRkMxLXdvMEU2dGFWbTVuc1BxVXZDbUstX0JHWEwzYS1sYWF3QXNqcTlvY2czdHFaaVp5OWpCTkQ0RmtSWVJEVngzYW51R2Y4b3RuNjMxMHdxaEZFb296SEpieHE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:32:02Z",
+    "hash": "22c1e32abef060a0e56895453e5a5511f554f340db98fd7584a4b1fcd21baa67",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "SEC Approves Grayscale Fund With BTC, ETH, XRP, SOL, ADA in Regulatory Breakthrough - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0s5WmM3QTVPdWpWcmYweEJpajIxWUZ4RjEwLXpjdDlBME82SVl5RkxQSVJfcmVva1BHNmoyNjhwZTdqTkg4amd0WHRiRkMxLXdvMEU2dGFWbTVuc1BxVXZDbUstX0JHWEwzYS1sYWF3QXNqcTlvY2czdHFaaVp5OWpCTkQ0RmtSWVJEVngzYW51R2Y4b3RuNjMxMHdxaEZFb296SEpieHE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:32:02Z",
+    "hash": "22c1e32abef060a0e56895453e5a5511f554f340db98fd7584a4b1fcd21baa67",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Insider Selling: Rocket Lab (NASDAQ:RKLB) SVP Sells 31,185 Shares of Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0pjQkczUnZNWVI0X190YlFwRWFjSng1eGVCSXlQZUk4MU9pV3pKS1JNODVwZTZ0cy1penlmY1FFcWNjM1UtMGRCb1pBc1FHbHVhS3BhSE1YbndFLW9MSHpJWEpJX2hFTkJKWlpTVlFjeEkyR1hfWmhZNGdXMDd6RFJXQXh3TUt1aU5KbWZ1dDRDbVN5bU1aNDNvQVBRTkplbThWd19FeWtQNGN6Wnd2WTUtMDduTTVBTVdDTlBIMkU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:31:07Z",
+    "hash": "98231fb0b9e31eab2c2e51a6b4f33d0081f6ea100822ca14d1410089ffc23170",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: ETF Launch Signals Strong Institutional Demand - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclY0WVpIeTd0c0lqNXFTLU5uU2ljM21mazVTSFBIREVOd1RCamJUVUxWUW45Ym0wU3BkUFp6RFBlaFBDWDNOeU9hOXFrSlQ5Y1h4ZXFkMV9FdklDUXd1NENGNGhUVTB1TXRabVlMaXpJbXFBd3FnOEZMWVpqT3VNb09fRTlQNWVDNk5ibGJmYVZGc1NsclFPaFNHUnE4V2lpcGFGRDBBLWRCVEV1amU0cl9B?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:28:00Z",
+    "hash": "714a8b8d52c8832bef62432757074f0fe3dc2b2207a7d8fb70a66caea50ee754",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Westbourne Investments Inc. Cuts Stock Position in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWHp4YjRoSERRYnRyMG5kcTl5YTFaY3NoamxSSFFqTTZJR1RQUm0ySXN4X2o1djFWWVBOTWZVS21IXzkwLWhNY09kWEVROHZaTkUwNkpSX2dRUkJJUE8tRGtkSlRETFhUX0VkWkt5QXFDS2dZTnNxM3F0bHc5YmpOX19yLVU3MUhmRjB5VlM3QnRfRmJLdUVrbmNoQmc3SmZ0R09JWEdaOXRJQnVsRjQyU0k1UEF4Yy10c3hj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:24:56Z",
+    "hash": "ef2c8c3267ef72d4c4221e39bbb0151ddbaab155181eaf12e401756a230f3250",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Little House Capital LLC Increases Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdWFFR0hZNW1ldVN3bFFKUHIwSmRSbkdxNnM3RUZvYW0zS2FJSXVCRGp0ZjhzUGJhdDdSYXh5RU8ydEFVNVlxR3ZUd3VaQUFURWdNelhPbGlEZ3RkRkwxMENWTDdkODJHSjFaNVBadU5SSUZtWmhpSWEzenNxZDRwV1FDOU53b19haGhsTS1CdmprM1NhYmpKVE1LUkNpbWctVjBseUo0QVVtUmdYT3lxVDhVUXdIYV9STXBnbktwY25ITEN0RlFxVVc3WDRacUlNRGVENkZOU2syOTZvd2xPak1JYklKcjRVbTEw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:23:03Z",
+    "hash": "a1267f7ec8c75960e0629ae89116cd313db356466df324b98ce69fcce16d8fc6",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "David J Yvars Group Invests $330,000 in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTnM3MVZzSWk2RGxsYW1fSy1pYTMyNEhjNmcxdjgwcDhlWXRULUtVd1h3N0hQOW45YUhtQW9LYjVPLXNtRFJ1R0wwSllNRUFtbk85N0tfdWd5WDlHX1RpLVlINVB0cXRCNXVuMUdmekRjMHBsZ05XbFNPajBVOUF1SDJsai1OdXJlTXg4OVl1VndBczU2ektrWUY4T1Jha1gzYVg5bmdoSHFjNTZxN0IwZHYyOFJuclZFMEJRT3VONExkcVRGcTRDOWdlVVRMSk94NmpMbTA3Rm5RZHdhNkVzUTlNZzRZM3BoSkVfeQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:22:52Z",
+    "hash": "7460f0125a6ed21f554241b5e340e9c9e0fd71112ed5769b57353dfa2ac937ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Hits New 12-Month High Following Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYldyOHVabE94UXVPQjlfd1dkNmVuTC1OemRRVjRYNFRER3BrMWNueldycjU0OHR3d2swbDBPQTRPVG9OM19WcFJnbXJGQ2xCbDBXb1lxcEg0MlY1emgwMXBDX0tfeWV4eEpzeFlLenpKWVFQZTVOb2I0d3B0cG1FWEo2ZzRZTDRyY09JcFdMd0QtX0I3Y2tHSHNfV3d3ajBqNDZRNTNRUXlXYThSanhGVjE4X1FKZlFfUjBHVGVseUt2TGVUUnBhUUZoLWo0dF9MMWFrMnlPY3U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:20:42Z",
+    "hash": "89f684fb169c2a511f5d3e3879529db86889891c5dd3e5997df766ba596e84fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Intel shares soar on $5 billion investment from Nvidia, plans to collaborate on new tech - bendbulletin.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVG5jenVXREpoS0NLZS1ZTDhsOWJCbTN5M015eGFZNmQtdTdqZ3pHMUVMay1GODhIMTByZnJ4cHE1cWxUNEhOTHF6VDF2QmVvUzN6c0M5R1FVSXlqQ2c2eHFoblBWTHNGN1dnYmtkME9PUXNIelZBZUtjbUx3VGVXOVBSbllvYW12MjRkWVNzZzNQbnR5MU04US1FTk80dlloN1hEdXBqb3pNSjFFN21IQ191X1luUzVnSVVMTnBaSWg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:08:26Z",
+    "hash": "381509752ce3af5d4ceda68cc364de8f7abe7f5e5c3be8d26f69c1eb6a289e90",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BTC, ETH & XRP Face Volatility: FY Energy’s Free Cloud Mining Offers a Unique Alternative Investment Option - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFpzVVoza0xGMzZfLUU0NU9sVnBvdVZHUWM4cFFiUVpDV3RQR3pVUzBrU1MyZXpfaTZBVFdydnl6TDlwMHcwaTRzNWtLOGV1WE1rUUVJWHdMUFVmbmczMTc1OUNjeFlUT0RITzZFUFo2WWhIV25NZDFRYmRiZXU3aHZxX1ZVVXByaXN4TWF4TU5BRGwtdTVDVlhTakhfU0xxYjVuR1RmR0hXUmt2eGZHaElIMHM5T3MyZ01xTlpKWXNzNXhFU0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:00:13Z",
+    "hash": "596c874a15e65b106af88164581ccbd5eab374b948aabb27e385e24192fbfdc1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Can SOL Hit $300? Analysts Pair It With MAGACOIN FINANCE for 100x ROI Potential - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLThMSHVNMlJwaTNwQldxQm5QNXZ2X25aTVlDb0d0TjRvN3JBQ2o1MXFVU1YxUjRhNVdZaXFoTnFNcmRaM1o5OERLdXE0UWo5cnl3OGx0S3hlWm8weVQydlE1WlR3bXE4eXdIaG5xd1RjNVBDZW56UDJRVlZMb04zcWV2ekpadUdrMWNMSkNyRTdBZEZTcFlvVFA0RHNJWE9FbmNfa3YwZkwySTNuaHRTMEQtd3k0Q21rcE5pTDNDQUFNZkh5eFN4Ug?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-19T00:00:10Z",
+    "hash": "281be3bed129aff7c0826afeb1998679c4232e2f7785828b213d50bc355616df",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Could Deliver 2x ROI As MAGACOIN FINANCE Gains Spotlight With TRUMP In Retail Buzz - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX2RoQ1NYQU1VSTR1eGVmYlh6bEZRQjY3MVAtX2ZlWmsta1FPanl5NlVMRW9oeG5vY2l0WWdaTzA0a0NLRUpFRTAxSTRTQlhaU1FBalRoSlp6Mlc4b3E4NlhlRzZNejV4WGY5RkhaY1N3MnRjZVBjdnpmTVFaRlBsdnQyNTdrQ2k2Yk1zLTlKbzJVWHRnb3U1eG1aRzdKZkNTRWM3cDRYeHFYNGg3bDJxMw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T23:59:18Z",
+    "hash": "ec21d2a7b0a8349aefebfd9388c4946f78a9b6537a6543adef01369110d06457",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab SVP, Kampani Arjun, sells $1.97 million in RKLB stock - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDQ5OVBNc1E4N1F3TkRfNUZTeFRxN3dKaHEwYU9tYzRndTdzMGM1OWlRZlBfYm9yM0NPNjhkVl9MNmxjTWZpS0Z5YzJJaEZzeDhubDUwYThNazV1Qk9ESTRobmZiSTRza1NFRmRXRGVvaE9HWDNyYy1yMzNfMjF3d1FyeXhBQnhseFhCbkhwZzhKSm9XSko1ZWJldTAyekxoclpRMzJlQXp5MUVSY0w3dHNkaWFad2tkZVNybFRLTVNkWkk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T23:56:11Z",
+    "hash": "2eaba089b87cdd57741dcca6bb7517ff6c33c19e4b672c495912b59cbf6a05b1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Top Analyst Gil Luria Calls NVIDIA’s (NVDA) $5B Intel Investment a ‘Win-Win’ - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlZmNlM3bVNfQ2hYWElwdElyUXZwLXQwV3ZsbDlud0lJUWd2NHpqdkRpanA1a1lSYXdjck05T3NmT0tCT3lhaXljZ3R6ek9xM2QyLXNxNE1WT21NNTNSZDhaZElGcU52bmdPeHo1MW1KT3V6WmZtRUpqQmxKblJnNG16NWhpekFNNTZlS3BJN3JKSTRMZG1IZ3YwR3k0cjE2eEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T23:53:28Z",
+    "hash": "089d094ecf30f2ff9f548da0991c967c89f8c4f0d4be7db20343331776691360",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Launches USDC Lending: 10.8% Yields, Shares Up 7% - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHRyRmlPR05DcDY2T25hb1JFYm5QNHZyS1NMS21fblZYcG51RERpWlVDelRvdjBGSnNzU1Bwci1TUDY4MXlZaXZpZHFjUy02MFJkTElGNmhlekFyNDMtMFVJM3lIQUcyT3BQU1ZuQ0pKT2J5Y3Rac2M3LVVtcnlZVU96ZzM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T23:48:00Z",
+    "hash": "da05b7b34cd046a1b2074ce43e0c4984c0222451088b29c0df55f84e1afabcd1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: Which Is The Best Crypto To Buy Today For Potential 50x Gains - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFlOOE96QWg4eG5XNUV4T3E4X1JTb2VkTXJtMjU1d2tjbFpDS3g1RktnNGRJTm5kYXhoLXBENE45WFJPSko5dXd6UVR1ekNhY1ZKbEk5ZHVGbS1HMVJ0eHVrZkRLUnc3MHJkQmthTzNJaW5taklIWEFkb3pyLVBNVl9pOHlJMlFmMFhUVjl4YjRaWm8xcTl3ZWljMXM1SjVCTGtNZjFScVJFTTZuekk0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T23:47:50Z",
+    "hash": "4d2d106bca4b47125ec8130aaf52a112412e4198ed0308b03cb804705a481fbe",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP ETF News: How High Would Layer Brett & XRP Price Go Once an Approval Is Confirmed - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjdWLVFnS0JZUU9PQzM5bUV2LU9HdDhSMGUyWFVoMXZ6dnVWSGd4djZab0FINHU1UVIwYy1vNkpsT0NGc2h1WTl2eVYwdzhFS2RhdnJLTkN3al9xU1FkRWdka29vU3JUN0M3cXpSdnZ1UXExb2hDSzl0a0Y0dlRuNTVock1zdDVuMFQ2cDFBdjhSVF9Cai1qNTNRamxiYUN0eGt5OHU5OXM5anhDUnU4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T23:47:50Z",
+    "hash": "81f64d0e27765fd1bfdcb83c069961755f443d70d2ebfd9a9ef83bff6ec9e213",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSMC (TSM) Exceeds Market Returns: Some Facts to Consider - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTNLbnNIMWdEQ3dBRVJuZVBHbnlZTkVXUEdIMUpZTGYtRVdBajVwcllhLVUwY29DNWEwSFNjcENHYzVXd3hFdncxU3poVlMyY1ZoWGlCLXRPSE9rMkRGTVlqVkl3NllEYVI1NERKY3ZOcnBPTXowS2Nwc080VFJJTngtcEpMWWxDdi1uWHdfNDFjNDQ1REMyMGdxbGd6YldtQ2NLWW5qY05wc1RuQmUwaU51RjNIMGFw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-18T23:47:06Z",
+    "hash": "dd7c61dd3bf68df0e77a4eaa30c5a44413d4bf9b292eff1256fb50dca94b24b9",
     "source": "gnews"
   }
 ]
