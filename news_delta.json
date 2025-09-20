@@ -1,12 +1,62 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: Analysts Keep $7K Target in Sight Despite Spot Market Weakness - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWpzaFBBUFdJcHVCQ01IME1xYUtlbFZieTZlWVFqa2VzeFZLQld0RzRITTNuOXV0RElDUEFteHZoalZqUkUzM29aRklnR3FqX2RJZnh6LWVXTVRFT1dlZmpuUElvZnFJMFJiWjQxQkRRaURRSE96R00zUWNIc21NNHRGbDBkWGZybjU2T2o1Q05Ga0NvQzdzcXVocm5kSUdPb1RhMmRB?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Is Intel Stock a Buy Now That It's Backed by Nvidia? - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9USTRESzdxMFJpamVKUjVHQmxRakV3NDdKeC1qOWc4RXBDWTFHTVAwajNGNk5jeUw2UXEwLWFHRDZYT3dibmJrT2xJWElOQmlBOHFXNTg3UkV1bzUzS09CVTRQeTBZX1AyTlp3eW4wZndrT01rd3duSUtR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-20T16:34:49Z",
-    "hash": "462c8b93bdbb0176b5ebdce2d90a5d5b08ce800b4a6f3817e77dfba939481daf",
+    "published_at_utc": "2025-09-20T17:17:50Z",
+    "hash": "72a15a6938776a9895c09a9d31df99ebc064df409ad3c09024f1c04967a7d1c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto to Buy Today: BullZilla, Ripple, and Binance Coin Set the Stage for Explosive Growth - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVkxvQ2RaZmpMNjVQc21QaG5sa1V3eTg4YU42d1g5X2tPenVvLTBVUW9vZkhxTEl2QUdMOXNDdGJiY0J5ejFneVVJdDlOdEg4YWhPQU13VE1hV3ZmLWJHdVljWk9hekxYajdvMlhSZDFJSFg4UDZxbWJQV2VhblpHTjlWa09kYlBiazNrNjBYd2Z3S0VNSEZEQ3FiZDhjU0hNNWRGbnpvOWs1SmFvQ0NzYkRjS04zWUtUaEk4MjJLLTdYYUU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-20T17:17:39Z",
+    "hash": "4c42d86c402ed5f31548e3fa3f2a13e8d649d00935d6bfc10daf7fb3680d2a34",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Shares Up 1.9% - Time to Buy? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnFHaWpqT2tGTjJFZTZnZ196RUFrN0FCNVFxdUYzTG41RXdWalBpUVdMRDNXTHRPQk8tNTYtRV9lX0N5X1hZeTF6ZTFGY3B2ZG5mczJKUm9KUDMzMVkzWVdOVVRyaGpER3ljS3VHWVp4dVFYMHl4WEk4WW9YVU00RF8wYXFDT0wzWmk1ZzExazhjOFJ2eEJLTUtoRFl6N0NaeTAyaUR3MzdtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-20T17:04:24Z",
+    "hash": "eec35e69aa73eacf230e9779617505ee1655fec12e6a6316d1addfc727b3d433",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Top Cryptos to Buy in 2025: Ethereum, Solana, Ripple, and BlockDAG Maintain Edge - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMktUa1hwV3VtODZwa3RqZUppeTlybGFON256Xzk2ZWMtUm5nQ2dmLTMzSnMwd2k5dllFTC13dGR5YnVZeXVQYjVkZmRVZnNXYmdkTExEcFpWcndiTDlSNXZZclRsa0N0Y3BIaDFjTFBoUFZlTlcyb29lcDJNd0V6NG5IQ1NMZFh3ckNrZndMYXE0Y0pxbTcxejNURUwwdXlkYlFuUjhzdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-20T17:03:16Z",
+    "hash": "62c658afc48d5f8a6cf1bdc85ab64e748c5dfe32caca9e0d3ab3e435682c3a3f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Grayscale Crypto Index Fund Sees $22 Million Inflows as SOL and XRP Rise - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZm5abmUyQXFCY0VHbFFQVkFiU0g3bE4tdWhCNC01WkwweVphR2poelhtQWVQamctNkZKRUtJRHJFcjdBeUEtemlkYWd5ekYyS2dZMS1PR0x2d09Bb3dFNTlEV3lhaHczb3Y4ZGFjMUh2My1nRTVqdjc2c1ZaQzNVVGFhM1J2eDZrWGZJUW5sV05RaHdhbS1YTjR4NFU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-20T16:56:50Z",
+    "hash": "afcd35006d957e05e6920120833892c333d3a52557481f23f130185c11e34403",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP is climbing toward $3 — join LTCCloudMining and unlock $6,750 in daily rewards. - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU19MMHhfWE1qazA5VmdqWi1sRUsxeHRxeUptN3kzSTd2b1BEWXdZdC1FSDVhbEdTLVVOT1VjQ0lRX1M2Q3lCcHVxMVpnUktjRzVqOHltZVNNSklpQ2xGMC1ZODlSTHMtSG1iOWxYbnpYN3gxTEZQOHdhWk54Yk1aQUxPS01pSEo5UVdReVNGZXNwOXJ0VnRyNlJpUlRwOEs0XzI2QWEwU0M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-20T16:48:14Z",
+    "hash": "96e477aaaa739e159d53363dc200999c87115bd862da80ad347a684b60933ae5",
     "source": "gnews"
   }
 ]
