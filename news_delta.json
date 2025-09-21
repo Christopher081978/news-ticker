@@ -1,62 +1,152 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets, Inc. $HOOD Stock Holdings Lifted by Toth Financial Advisory Corp - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcG12Y0RfYWxzVlNkMDhPTEMtZUpyd2puV1RtOUwzanp5Nlk4OGs3bjhCQ2M0bW1kdDY2NE91ZFBwX21zWUNZeDNyVmZCaGZmMkt0SlU1dHNJYUxwZFJmVXhCSWxpeFh1N0JwN3ZIYWV6NlZLcDEwaHZtQWhKOVJfSkducmxFLUFuRDlTekRLam5OQTlqUjA4RE5kRVJna1JqTkNtaE9QVWJ2MEtjX1BwY05xSzFLTGhfNXJVUWhrX1Uwdy03VGFsTWo3ZW9jbS1xWVBhdWV2RXg?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Could Hit $5 ATH in 2025 but $10 Seems Impossible, Rival Altcoin at $0.035 Targets 33x Price Rise - MSN",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWVRwWTVIdm9URXk0T2hEUTgzTGRMbzU1YnFvQVBlRHVSdUJoMExwcWhKV1pwMDFYYU56Q1ZpVXlJekhNMjFTVXl0QXFIRTBLWUw4UXRjSXlDZ19BZjVHQkprMUxWTmp6YkdhbktodWtOX25CaFd1NE1EZ240djJMMV9XeGxmc0FOWV9RV2pMRjRiaFhEZ28tVEQ4MmM0djdKRWxsSUJCTWxKY2c5V3dxem5HNTJPV2RxdUl4cHFabDgwWldwellvZXI0UDU4TXNBNlpXdklJRE84VjhFRF9wdF95d2ZvY19tcm5aOTUwOEFBNVVZQ3FzalBnelhuX0IzZlZUZlhNZ19QbU14cERWbnhTNA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-21T11:39:59Z",
-    "hash": "34c199e54f9d38687770301ba9d5eb0d28eb247ca0c0596e0d92487b0fbec963",
+    "published_at_utc": "2025-09-21T12:48:46Z",
+    "hash": "282582ee76e856b69143ae12ac52c74128e7ca01601c0c572698c3bf16138df7",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Darden, Humana, And Rocket Lab Are Among Top 10 Large Cap Losers Last Week (Sep. 15- Sep. 19): Are The Others In Your Portfolio? - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQM1hVbU5pWS1UYWlkUy1xUVhjQ3VHZzRRSmhoRDBJdW5EUzlVRnpmZFNGSVJXSEdiRlV2Qm1BOTEtQ3V3NDFuSlBxYUV0NjBwal9wWURDSG1DMHJxZkxWY0RkSDEyYW1CbDlxMUI2dDRPcE9wc19aeDBycUZIVWhaNzJqcjBNa01QR2RUX1lwdF9meTgxWTlGSzFJbzVjb1ZOemNzbTMtWUt3VTNTcDE5NWtOZWlsZ1RXUHB1US1fUm9aei1FYW1lNVY1MHBHYTdBT2d6M3ZNN0dfN1MtN0NESXVBV25KV21UZGFULVV2WUhISWdmUFp2aE1acXRpVzk5V3VCenN5bw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Growth and ICP Forecasts Meet BlockchainFX Presale Explosion as Three Best Crypto Stories Defining 2025 - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGc1SzR0eERiMUxYRXBET3RWb0JLcFYtUlhSVGF2eHh6d1RzQmh6MU96cXo3YUNtWTg4MlBWckMwMlF4SHhkNlhHeWkxdGQyUjJGZDMxNUE2SDViSzFwQ2V6Mk92QVBGb1pyQkxqNTBxR3lKb2NSX3BHLU1RZ2thWEZ4WFJqQ0U0SG1MM3g0b2VkaVlxNlRXTy0wYjBiNmRFcGhZSkVnbEs2S1B1Z21US2dJU3RBQjlKTkZDdVAtdG5GdGZIRUxQbGlwTlBwc0pITENJLTBoejA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-21T11:31:55Z",
-    "hash": "ef6bafcc96330e95705cff4e75f407c97389204cfdcde06bd55ee3f91e6e46ab",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Tran Capital Management L.P. Decreases Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaFYzcU9sNi1ZZWdybEVLYm96YzhlUFQ4bzVxUlljenRiczBabjdfanhzNy1ROVlwUlNzY3A5dHk1MW1nZkJHUFNYdlg4Wk1CTGYwd0ZVSHNaTklpUThDNlhwTXRCTVd1S3FTdGtFdDBQLWN3WHpQalJndWtFZjJCYjdJcmR1VVlWT2dBbUpOVUphZEQ5a3prM2JnUjhoRXhiS0xqd3lLU1NTN2V3ZzIxa3NlLVl4dnlYeGxaQzlEdXM2VFhDV21yZGUzYzhZQ3NsLTFoNVFUS1NXcnV6NXUwRDU3emtiTFdTNnd4aENBcGNZdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-21T11:31:50Z",
-    "hash": "05a48e95b444db34bcaebc4c33927ed2fa843f4b26434e6fd4472c84a787a445",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Abacus Wealth Partners LLC Decreases Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQS0o1bVN0d3NYZm5wdzMwTU8xeG5IZ05UaHhQM2ZMZ2RvOUFYMmlZMWM5SXdqT2pYS0h3U0lqMjVOT1lSU1ZmcmdWTngtazNSLUpiTHc3OEZGVWxwSFpSVElBcUoycWdVaFU3TnhNNVJPeEFCOWJqOWlNUU4zYkRnMUNfcU9qLVNoampBZDVfZlc0Qkw1NmlldjdJdVZHRl9adlpIclJyUTlTM0dBeWJqTDdkN2Nzc0hBOGF6dmozUW9kenFmR0JpNEF1LXJNM0R4V2l5UG5kaUkzZnVpeldfa2ZjWl8xa0g0YWR0cVF5ZWNBUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-21T11:31:50Z",
-    "hash": "bfda721c1a4d5fe61b5d9629bfd390865f6eae08fea12c767f92a70555422f4a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Dogecoin Price Outlook Ultra Bullish As ETF Volume Smashes Expectations: Is It The Best Memecoin To Buy Now? - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHEwSXRuRmNuOENLUnJFVXd6QjBnNXI0WTBvS2xOU3JHaC1HUEpxd0xDVzZWa2FIUGN4V2lhblA5RXQ3cWFsLXpxWWk5V2l0NXdvS2tLUFNWeHBQdXpreGxhaS0tR2E0Z0U0VVI4dEtEcUhWNGhKb29HT25OX3M5Z01uUUtFZ2FGUEFkaDlmR29SVzdBYy0tTW5VZXA4WmdRWmVhUlBJZUczVlRfZ0pCYW9YNHh3dUpFakJPejkwaEN6YjY4cWUzVTNobw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-21T11:30:23Z",
-    "hash": "b3fd989299fe6572be40db70656a32dc7a2ee7dfa6353277ef11b823e4d8ca7b",
+    "published_at_utc": "2025-09-21T12:38:00Z",
+    "hash": "f6de13d7948ef106288ab32e43992843fd857c1c95fa0fab5b606b6e5dec2a3d",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "SolMining Launches XRP Contracts, Giving Users Fresh XRP Opportunities - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkRmQnpoY3hKYWtmQWI1UFpTUTAyeldTNktVWTc5N2xEZ3pYa2RSUWZldXJiNndrTlViZTJKRGNaV2l3UXF1WWM3MXlXWU50a0RFbkhlSDFTYW9UeUEzbXp2QUdkczNWZElHT0dzdEJTZXVhWVRiZzdCejFoU2V1bzRTZjVKSVUtdlUzNHdQRlJwaEdzRG42R19CdUVBSEltYkxWRFZVZEFpT0ZM?oc=5",
+    "title": "Best Altcoins Right Now: BlockchainFX Adds 30% Bonus With BLOCK30 as TRON (TRX) and XRP Trade Sideways - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXlJR3VfSmlJWVhONG5qeHhRZGpWNnRIbnlNd2xEM0k0Nk1pTm5FYTF5a3BUT0pBU1RjdWUwbFBMTWdvdnEwUHJfNGxRUFF0ZTVaNVVHdG1JeHoxdmo5S2M3X3ZTLVNQMzZmb1lYdW5tcy1KekpTUjNRNXlnejFlQ05BUWs5NEpEVmYzMkFfWG5sMlBLMWs4bGpwZXlhU3JyUHF0eWc1WVp6VkVEdkVOUXAzaEotNFdVRTRfaHBFcTBIN0dz?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-21T11:30:00Z",
-    "hash": "e0e2733f6ce09e65dbd0f5b87d87f0e28103869ff6184d0151ad10df41782f60",
+    "published_at_utc": "2025-09-21T12:33:36Z",
+    "hash": "e42d597f80150d7b95129ffe75d9ec743b38870c153a894fbf73841a43955666",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum price prediction: Is ETH losing momentum? Big investment is moving into this new Layer-2 token! - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUJfTUhLWmhFdU9qRzVhbl9weFdneDJ2LWlKOTlfQXJMZ1dHSEp5c1JYdVp1V3F5RVI5cmdHM0pDa213NnV2VzdvOVFhZldMRy1UVlQwWXNwYTFzQ3lra05vR1JTUW4wYk9vQkFsMVVKbmQ5azVwUDU3UGFraFd6ckpEcWdPMWEza2oxX3VWWnlPaE9SVWN0YmpuQUtGWm1ZLVZBeTdVTTZBVG5oZ01WMUc5X2p6dEtidjd5enllenNlbUl4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T12:30:27Z",
+    "hash": "967d8c11047a65a0ed8882edc3e72620e5a6330e073227406473fa772b9a54a1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction; Chainlink Latest News & Where To Find The Top Cryptos To Buy For The Highest ROI - livebitcoinnews.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjlHU2U5c1lqR2tKVHNlYjVBaG9mSUEzMkJNa2RPWk9wTVRZbndRbXEwNWdTSHNaWDBGQk9GeXJRbkJKN2dZSGJZcWFDMXM0RGxXMWVfSHZyeFZnMGppU0hfcVhUWFpWa1U5aHAtMmxRMU1jZDFzNWRKRFlSeFBoY3BVU3FGU3NoMUJQWGxFdUZHTWdVclllRmdfYmN1RUlhdkdQSjNCVXVwREgweWphb2F6ZVo0RFlDOVRwWkQ5d2J3Vm5JV2tiZThKZXQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T12:30:26Z",
+    "hash": "a4c19f38e7f71407a5e9cf261de9c5a229b21485ecf3ffa28f3328e05b1e8e30",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "This Coin Already Jumped 5,507% and The Presale Only Just Started - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdGxGS1VvYVV3NkZ3Mm9ta05VXzVfZlNCaThrdnVmRUFQOHdJT05zWUVzOWtmSWE1a1hLM3RxWVFnek5SQ0g0Wmx5OWxZdzByOVlUZ1Vic1g4ZFJYa3hTMDl2bEhESGVPanZlRjdzNldaWE9WV0hNWFkwWjhoVE9jVzVOV2N5V3RVNTdrcWdVcGtOaDBKeDlqM0FhcksxS1hfemhodQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T12:15:00Z",
+    "hash": "7a9cc53dabeb69972a83a5f988697f58270ba5bc2ceeeb6b9f29d2248175aad1",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "Butensky & Cohen Financial Security Inc. Acquires 7,776 Shares of BP p.l.c. $BP - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlVmdE5rOG1IQ0ozb21naGVEMHJqUUtMYTdGVFVwQlhXMTNMV1c2cjFGTThvRGhBVVJWNmgwa29GRXZxTkZYZmVHSDZRa25sWEtZWUx5XzZpWkdJWnFNNm5WNTlhTVF4MVBfVV9UWVJCZ2VsT0hzZWZBYkdKTURWMEVKeHMwM3REamRmbUg4V3FDek83Z3dzRGF6OVlFOTNOMEs5SDNsal9wNnByMzBsdnZzdk1kSUZWbjdHOUpGVDU3SmFTM2tnYTVSQk8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T12:10:10Z",
+    "hash": "c113f5663e21d51000e9ce9573ec4dc826dea0a8743b207283ee1e110edcaa18",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Eyes $250: Could Digitap Deliver An Easy 20x Return Instead? - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa3BYb3VIYlpmT2RKYVozQXFYT0c1NGRWUzlrUHZOWlJIQnF2R3JOOUt5cnhYOVBWVlM5Y1ozVWc3cWV6VHQ5dFJBcnU4Nl83QjlXQ0dwdUZ3UVNWVjZXOEgtQjRQa1dqM2pDM3QtcGE1RVlabmZMYlhDVWJFZC02V0I2SUJQa0NZVEtsQzlTaUJBMjI2LVlwQTNsMUFxeXhGQXVBZA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T12:04:16Z",
+    "hash": "140a7502eecddbc0f8ada561a43a81e8c36d6fa6515ed2848d2771a14624c87e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is XRP Ready For Its Most Powerful Rally Yet? Analysts See $20 Ahead - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEdfbGQyQU5HVS04dWxSTF9FNVFUUS02bzg0Nlp4R3JNTVVacDJfcDFuSHRZbS1tcnhwYUd5Rjk3ckJ3VUVoTDJma19oX2U4d25ibzdVN2dtUW1mdkh4WkF2bVIxQkxLZWtuOG5VSW1SWm9fdUlJMjdMTHJtU0ZEQnNOUGhzN0dxY0ZmRi0zYnp2NFlhRzF1dDkzTDBudnhwc1l6Ml9xaWw2aUhLbzQySTJvaWMwS1BJRHQzaHVPb1Jrdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T12:00:36Z",
+    "hash": "6ddc1f284b9bedaa798efad0b09a916737fe2808d9a14270b8966ba7fa0a59e6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet: Post Chrome Decision, Upside Remains (Technical Analysis And Options) (GOOG) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWkNEMGkycU90M3Z6TXRXcTI2U1ZSa2ZGNmxCYzhoU2VpMUo0YldDTGtpZHNVV2hHWUlEUnJxeW1vanZ3emhQejE5U251ZXU1amJVQVVQS1hFT0I3SXN1cmszQk10NGhoaDlqN0RSclQtUGxWVm8waDQ4M0tJZEFBMHppdkxmWGRoTTd3bFl5WDBrOGVSYnEybVN1a1JvZGs4bzg3MGY0dUxjb3NJSDVlZHprXzZnZDA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T12:00:00Z",
+    "hash": "c55b066ca776a5b185ba1e6e8482085c64004ab45ae4ab8952140732ab9690bf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Will TradFi Kill BTC USD Volatility? Lessons on Maturation From Forex? - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTVFMOWw1ZnhNb3I2ejhrMWJpNGJGaVctTFZhVmg5MVpoU3hSeHRHeFJJLUx1NlpYUFpyTC0wODdQMEIxWi1GeE5fczJhLW01V0ljejJ5YXcxY3VQNXROemhOVUhQSlRuOE04Y1dhbEJWVXkwR2xqUUxpclp1Rmt6bTRhdUE4SWJnVDVtSnpIMERzQUd4LS1yREJ1OHNxbkdSYVN6Yy1ETjBQTE1OVkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T11:57:49Z",
+    "hash": "e803af26619c4136d639ea32e622ab2cbca1e1b1b2682799189a08d7be76d441",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price: Bitmine Adds $69 Million While Top Analyst Predicts $10,000 by 2026 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZkhKdldESmRZbFc5Z1RQalBoMzBwUHdNdTM1SUR4dF9Nam4teFJnOURVMnVLbVRJNDJXaXMxc2ZqUDNodldjc3hfNzB5djFNb2Z3YzFYMUUyR0Q0R21nT2pfSVg3c2VGWnAxRFcweGE3WW1wbXp4UUI1ck5abDdEU1dpbXprVEpFYlNURTBaTUhlemJUdUM4ZXNES3YzNzZrVXc0NHNHcFZLbE1i?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T11:57:04Z",
+    "hash": "acf20c152da68c154dafafe06660e3f3555464a4e71c2e006449f07a8894df6f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Ethereum Price Prediction: Coinbase Analysts Say the ETH Pullback is a Buy the Dip Signal - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjZueTlqb1RBektiLU5fdmdBME4tLXl3andNVWxZTEVWZEtGT0k0OGk1YktfMXU5eFFsMzZsYmhJdGU4b3VsRkpXbW91SUNOWWVwdDVkdmllbUFpVGhhUDBzQ2ZRSFJYbXA4aUZMaV9UeExlbUVLeWkyMzdXQXUzUTdGVEtRZkg4UmE3anZGRGx3LVl5dmNMTGFRd09KcW9reTVQN0ltRkFsRGt2QnFBQmJxSEpPZjJM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T11:51:49Z",
+    "hash": "dc7290a764a7c1db4f10b550549f372a62d198adee037a49d05d8eae52241176",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: Coinbase Analysts Say the ETH Pullback is a Buy the Dip Signal - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjZueTlqb1RBektiLU5fdmdBME4tLXl3andNVWxZTEVWZEtGT0k0OGk1YktfMXU5eFFsMzZsYmhJdGU4b3VsRkpXbW91SUNOWWVwdDVkdmllbUFpVGhhUDBzQ2ZRSFJYbXA4aUZMaV9UeExlbUVLeWkyMzdXQXUzUTdGVEtRZkg4UmE3anZGRGx3LVl5dmNMTGFRd09KcW9reTVQN0ltRkFsRGt2QnFBQmJxSEpPZjJM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T11:51:49Z",
+    "hash": "dc7290a764a7c1db4f10b550549f372a62d198adee037a49d05d8eae52241176",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Toth Financial Advisory Corp Acquires 1,780 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWItcm1EM1pYR1l4TGRjUzVBVkI1Umt3bUVsczg0cXlYY29ZVTAwZ1hWcTcyR25waHo2eFBLeFZOb2taTGMwRmx4UjB2MnRadnA4bUl3am5vVU4wRTAwWW1ZaEV3VUdMdnFtWk1oNE1IbmhUSG5sYklYUXNNZEUwd01ScmJmOHhMUkR2ZmxyclVyLWRCU3QzRXUxUkFzUVMyTzdScUpqTzJ0SmtnaGdlZ0xnSGpHOTM4M2hTZk9JUXJtOEc4aHY1dklROGRIa3F6QTBaM1duQkFqem1xSFpTTmtiRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-21T11:47:54Z",
+    "hash": "b097c2cc2cf2978591b4ff1ce6cd5fc01b972ff1d3b78ab885674f3c3fdf0529",
     "source": "gnews"
   }
 ]
