@@ -1,12 +1,162 @@
 [
   {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price: Crashes Below $112,000 as Liquidations Hit $1.7 Billion. What’s Next - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUXVLTjQ1am1fN3V2b3F3SmQzS2V1NGxwM0xQMy0zYTJTRndsZ0ZneFp2clBhNzhIUW5VdmN5amNqa0VEa1hpeEtFTGtucDBueE1fREVPU2JPal9LTmR3NkdWbkYzaVF6TnlMSk56MFYzdnZkLTkyVFZVTnFlRVV5Y0xWLW8xN0R4dk9XcV9RNGNzLTNicm9lS19CRk9pWmVoeFVxLXZ1SVZWdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:36:17Z",
+    "hash": "f576646aece8fdbed3daf9f1e7890969175b82e876879c4ce30228255dc7e62a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BlackRock’s Ripple Swell Debut Signals Morgan Stanley-Backed XRP Boom - FX Leaders",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzRRRWNkOEY1SjZuZi1QbEYwYm5NM2JhWUgyVUV5VXRxV3FSOUhkVmtnclBaeV9XZmp6RjJrNTdoSUswM0RfM2xhRjJNMlFnNlN3bmlhSGpSU3hIWHM4NW1aRG5CTTRCQktiaHl0LURCV29iX2VfZGNGaElEcXdpU21tSlR0dV9nMlhRTHV5LWVfRVREczJQUy03ckc1UlhOSUlzWVVxVDByTGhUaHlfcA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:30:54Z",
+    "hash": "eca594350c9a17348c0ca53da03c639cc714aead89ed7ea405915f6967a7d34a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Why is Crypto Crashing Today? Let’s Dive In - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SUVRnTkJOS1otaDRMZTNEZklPRmhfU2ZBM0otSlpsLWl0SjFVcUtaUEtsUWR6anNaUjVZODBDUzlNLWJNMGFwV0lqc0J0TGI4dHNHUzJNaTgxWHhFUUpHcTlvMjNVQ2pZcjdhakRiNWR6V0tp?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:21:23Z",
+    "hash": "8995649c22d12fd9fa838715e7e8c7ff1ec016c51db4a01cfe484e9b876c5823",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Warren Buffett exits BYD amid China’s cutthroat EV market - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMUZERTNqbUJpZ1g5eE4wNmhIUVVyNjdIVUlodGQ2ckxBTW10czZRYlNqOF9DeEhKQkxVenlKM0pub1dWVFNzR0Foal8yMHlwR25YSldLeVpMRzZheEdFQ3ZDdS1ZSHZYTndaN01uOEI0UnNSblRmVW5KaFM3ZVhpUzNWSFRlS3FwYngxeG5ZVmRiaWFhRk9nZ0VBUzNyOXJhWTU5eTdJN18xVEwwa0NqWklBWW95VUNOX0FfQUFja05wZ19wVXl5TUZYNzdJM1Z4dS1sYVI3UkjSAdgBQVVfeXFMT0YtTzJKNFA5a3MwUi1jdUZ2cFV6d1FuRGZ5Zzg4VEdCbkZybXVvamxOOFNJZnphV21Pb3NNX0ZyM043aEdNMWVaM3UxbWFIc05sZnBUdkJpOTc4WGh3bXZWbWJoTEd5SGJEOHVaRV9OSGhBaF93dy0wWFFQbnJyVkk2blZJdkdnXy1Jd1dMZzVoVVprcjFIUGxXN1VZa1pPNC1sUVJwU0cyVGZNZFlnZUZ5YkxYRnl1Q0l2S1cwUlFjbkt2SUNBeTIybjJUbHJ6UTlWVks4eS0x?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:18:55Z",
+    "hash": "5c094da31add2ae44dff11a317d5e3e2a219cd82c9707571275f99e1175429aa",
+    "source": "gnews"
+  },
+  {
     "asset": "Pfizer",
     "query": "Pfizer",
-    "title": "Pfizer Stock Draws Focus On Report Of $7.3B Deal Plan For Metsera Buyout As Obesity Drug Race With Lilly, Novo Heats Up - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHRReTJkbFk5Q0tYOVRpVTJmSTJuMVkxMS1mdTRLSFp6NE12R0FFblFKbmoyQXVVMVRGSG5IRXRvSlJwdkptRkt1dTA3RUtVT2hkX013aXVPUE5FWE80SDlJdGtVTVhkRDRwUjhmdS0zbkJWdUR6VnMxeVMzbEVRaFNnNHJSY1ZGSWZKUzBxQVREZW9JYVdvcVdmQ0J4VGdaellhVnZGRk5adlVHNV9pbjBxY1piblg5?oc=5",
+    "title": "Pfizer Stock Draws Focus On Report Of $7.3B Deal Plan For Metsera Buyout As Obesity Drug Race With Lilly, Novo Heats Up - MSN",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNZXFyQjA3U1pRcDhOdVJWWExmc1AtdVZRdXhWc3ZIQndmSGNaQnBVZC11MEpWVm42R3RkYllpMTBrOU5oT0gzaFBCYTJDMkRmNm1wZjd5bGFJREM4bUpIczl3Vy1PZ3N1RHFxMnJBRGhEbjVpemtJWERXcjBkSV9IRVIxNS0tZ3pDQXkzRXJrRnVmeWcxWWJOaXdJWHY0YXJaOGM1ZzBmNlhCTkpQdVN6cEFjMnRkM0dBMy1BTXhuX19ycWF6THFRRW42N05rNUxJZnFmSWN4enBOdWhkNlp6aVhWam96U1IyekZvQ19zSFZNN0N0NEh0S0FpSFYtenU2WWVnSkF0Vk5qaV9MbE9ocXNwU2dFcUdUdXlEYlBBVTc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-22T05:33:25Z",
-    "hash": "f7f3ae5b7e8ea76ae7628e905648472aa3cdcbc4beb37cf245bbc439b877ac0f",
+    "published_at_utc": "2025-09-22T06:18:23Z",
+    "hash": "9abea5759558f297a4ca97a56f6d6aa5babddf5c1f0a2f702786a1e76724d943",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana ETF Odds Climb as Market Rotation Favors Layer-1s - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSll3cHJyMFBja2dCTFRjVVF3YW9XdVhtTzFueWNMYXdJUXZqY1I1VEhGTHVjTVV6UWZrMmN1T25LdnpKR2I3cWxmMGJiOUF0eW1wc25pbTNLbXd6NzJRNjROOVVuNkhDT1ZDMm5UZk9DOG9zVnFmeDdHZjZ4STh4SGM3NWU5SFhSUFMyOFdSU2dWZUZJYjhQNFlrZGZZdlNLb3daZzVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:16:20Z",
+    "hash": "19810d6b5c66bb356889bcb82f6caac16e73367bd20a730628054e553f3bdab1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Trading 1.9% Higher - Here's What Happened - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbnFHaWpqT2tGTjJFZTZnZ196RUFrN0FCNVFxdUYzTG41RXdWalBpUVdMRDNXTHRPQk8tNTYtRV9lX0N5X1hZeTF6ZTFGY3B2ZG5mczJKUm9KUDMzMVkzWVdOVVRyaGpER3ljS3VHWVp4dVFYMHl4WEk4WW9YVU00RF8wYXFDT0wzWmk1ZzExazhjOFJ2eEJLTUtoRFl6N0NaeTAyaUR3MzdtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:16:06Z",
+    "hash": "e754ab6ca739950c629f86e9ca8334f5ebe95639027f393ca9d0d4b812fbc88a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Shares Up 3.2% - Still a Buy? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUTdSUDdJZFNUM0hVd3lldF9ILW9jbmlUYVNxUGN0dmpkWHdZZGo5R0lvNGNrb0JVaW93SWtXQnFMZGRmVzB5d2hNYzhIcXFFNWxmR3VIaTUzZEZieUZNMTZmVHVIY2NVQXJlaG1xM3h1LXFqM0l1eEY5TzJHSnVlM0J6Q0NGb1JPVWpZV1oyaW5HVEJpTktvVHhiMGdBNVhVYkhrdlJzSFNNaHIyOE5RdndyaVRPZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:16:00Z",
+    "hash": "403377b4a946503e9a2644f107fe281d52e3eb8647a1f4d20bb05a8ffe4fdd97",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Reaches New 52-Week High - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa2tOamRGWm5McG1YbThieXVTaV94VkNJREVSYkJldWZXNV9BOHh3N3IzZ3d2R3FiN0xrWHZXZWozWHBsQi1Ea2Y0ZER4RllXeTFYd0RlUFF3R21icF9id2V6bTUydEV5UFpzU2UxVEJnaVhpNUlWUmcyNC1WV2RXS0JiRUV2S0hZcmpUcVRZbkNlekFaaW1tMjYzMHA4OWpWOERRWk5rU0s3TFk0eHp6aGtlRUtFbUI3czNN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:15:59Z",
+    "hash": "99a74cc3b7d5ee23cdf1cfa3b1fbee087cbff7208a221fb81b93f99aae299c39",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: $6,000 ETH Still on Track Despite September ETF Flows & Macro Pressure - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWlRPMDFtVEVNQnoyaEJvS1ZlR3RhQ0t4enI2UjVxZG90bmh3RS1pVGtDeUtmUXBESGxKNUtYVWRIZi1YTjlqeE8xSlQzZVpQRFBIWllQQ1NtQ1BoMDRlWkZkTDItcFpVVzB1SHVMajhySVFsaldFRGx5TkVFZHZOb0U4SWF3QllHZksxUTBKdHhIWEZaS05yVGhSUUMwS1JZeFdnNmlGcHBlUGQtUzVLc2JOUC1BMUly?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:15:57Z",
+    "hash": "a1319b2f1d30f2d8ea7b1d6a2d36b6b123ad931ca111483e380873a10967bde0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP ETF Buzz Builds – Best Altcoins to Buy Now as Ripple Consolidates Near $3 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajR2MjJqdDJvRGRZcnNLMXRYS3VJZWVSNjV3RWpseEpxTmRMcVdqMFk1ckVXaXprMm1oZkpQT2dacERGQWRGdHRBMk5UVjN5V2ZWejJzeEJySmJEaWFKUHZCSXRkTlRDcGgxVzFLeFZCdDkweG83MmZKMi1vaTJEbkdraVg4OThxZFZ1MTFNN2hRSGVTdHpaSjhJRzZwOFRw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:15:48Z",
+    "hash": "0185fffcd3dfc871ff7f0269eec864186c8ce6e2893bd38d00728bb5ea7bec2b",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group (NYSE:UNH) Stock Price Down 2% - Should You Sell? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnctY1NBSUlMU3RJTHVPcjR6c2YwWHdpa2Q1SFF5aklOdkdqMzFsa0ltRzdYcUJ6N0htV0RSN3N2STB2VEJCelFwNjRCeVFPQTFqWlB1Wm1mTGl6TXNsRzNoemJBRUZZaFNnbjlzak5SUGNfYTBUN3FaYkdCdUdzeGQzaVFtOWZqR3ZKTmdpQWtPcmx4TllqM2FTRGM5NnNmZndhbTJ4N19GR1BpOUtoSTVzczU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T06:14:18Z",
+    "hash": "76815743dbd4b055781fcdd8fcdfbd7cc47f8878c05e6fd9856cc9fcbc486e12",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "GST 2.0: Impact On Indian Stock Market Today | Hindustan Unilever, ITC, Tata Motors, Bajaj Finance In Focus - Samco",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdUcyUkdCVmRtNG9WNEZERkMzRkJ4TGRDRTVobVFTZFdHQUh6bkFyWDRNUjhkclZqem1MQTJsZlpkR0dIdERFS1pVd2Z4dUZWSnRiMW83TVhzSTJBSzVUUW05dURvMnhuTS1mNEJwOVhYdXNWVlRvNHhNeW0xOFJTZldwaWNvandRcGc3WHMwMDEzUXh0dkM3NXZOU05UVWpDMlIzdWZ5Tm9rN0NUbktGbEprcTB3QlppMDVReUlSdDViLUppZHJyZjBkLVBWMFU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T05:59:12Z",
+    "hash": "d12dcfc554fc551f3e9b28e81a7deb7aadf9623f94d852fa230c23120417a6f3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "GlobalFeed",
+    "title": "Pharmabranche: Pfizer wohl vor Übernahme von Abnehm-Spezialist Metsera",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/pharmabranche-pfizer-wohl-vor-uebernahme-von-abnehm-spezialist-metsera/100157007.html",
+    "summary": "Im Milliardengeschäft um Diätmittel bahnt sich eine große Übernahme an: Pfizer plant laut einem Bericht einen großen Zukauf, der schon am Montag offiziell werden könnte.",
+    "published_at_utc": "2025-09-22T05:52:43Z",
+    "hash": "a3a001537e5b38cb70c9adeea02d957cca2bcc55b96524df31613ebcc396fbd7",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Metaplanet Acquires 5,419 BTC, Re-Enters Top 5 Bitcoin Holders List Surpassing Bullish - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3cwRkI4OWhhOGJ0NUxwLUdtanJLdXZaaUcyeGgxTEVsNWMwRkRtTk1mRGkyQ1JFWG5LX3FTbk1XZE5OWGVjRWFJNVk3MGVVTUEtU1pWUDQwcC1iRUc0b3ZiLVkzWVk5THZTMHRfYmNXZkdTVnNXRzVGcjR3MnhRdThtV2ZkbVBMaWtSak90c2JNODJmMmRWeWlxWHRlM1RYVHZHdDQ1NUpJQTB1NG1CMzdhTU04YU5CcUtkRnpWanMwTjRXWHpLMnQ0eXVBRGQ5al9GNkZKRjlreVM2RTlB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T05:52:00Z",
+    "hash": "7ffe793f70465a4224f76e59d7bb4e10b352c2c48e5bc9e2a21329a3b249d3f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Berkshire Hathaway Sells Entire BYD Stake After 3,890% Stock Surge - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTVhwVUJDMXhLNXdZMXVqVWh2YmtQTHI1VWVuZmlEeEdjNUZOU1RTd2drS2VLaG5RamkxUkZwaEFmbjhUb3JaS3RITDVfRllaR1UxTXgzdm1nLTVfMF9UbVFGYWFZem1GcWZIQzd5d3JZS05VbDVCaFlKZzE4eko3bENEVmZSdUhTYlg4UDln?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T05:48:45Z",
+    "hash": "3001d92dc98997100fa8ab682b43188773d67f3537f7a001b74219a9201a6ab2",
     "source": "gnews"
   }
 ]
