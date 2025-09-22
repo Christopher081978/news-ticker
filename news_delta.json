@@ -1,292 +1,152 @@
 [
   {
-    "asset": "BP",
-    "query": "BP",
-    "title": "By 2026, the BP share price could turn £5,000 into… - Fool UK",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObC1NSHkzS3BSZ09KeHJyU3dzV2MxamgzWGcwQmo4emNyTGdteERSWUpMWUh0bEcyaHlJb0cwQy13UGFpTnozYk1rR0RqdW93bE1EcGQ5RHVIc1JrNTVfakxYa09aRWZUUDNHa0Z2Zl9hUlZEMEdnSUFYeWNFX2YzVk9sbW9TU2UzR3c?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price Crashes to $112,000 — A Breakdown of the Carnage Unfolding - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rU1JGRTJYQ1k1MmhZUXo1Smo5QW1sXzNqU3FGb2ZRZ1FPWkhBcWVSUHF1bmNWQWFFQmJWNTVSc2kyTG44SXBZSXpELUxHOW1HVldVbXdxUmZVUndKYmJxSldBZ3RxZHZIYk1scm4xM1lBdWEyb29J?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-22T07:21:00Z",
-    "hash": "1e88151c8491e5267ef0db1e049c84919c936ed665b68831e3cfba7eebc33367",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA Stock Holdings Increased by Riversedge Advisors LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3dpMkVDTE5GNE5zeHlRQXdWZVhVUDQxNjJDZkhyVGdVcVluZENzeE9QeTNieHBZWGdaRHNPOTllWEh1WmVWQXRER2s0S2dsNm9oY0tuMUU4QXhuQjJPcDRfamtwOXdKVWliTzhXbDU3TXJYcUJOel94cm9qX0RVYUp4OEFNZ2lyWVRVdjV2TzRZbUdtdjk3Xy1ibEpHSzlXNmtieURrMDVEdlpNcHJobEdfWk43YVRxaUd2bkpPek1VQjJpNzF4bW5yU3ZTckltVkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:17Z",
-    "hash": "686e4753a37b3ff365e718048eeafd37ae956a6c1964515c8a18da3631ded450",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Key Client Fiduciary Advisors LLC Grows Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0JVRUFtYlA3dFV4Wi1ZNktIRmFhSVpzeDhodno3YU03ZVhRUmVJR0xIOUx4UnJFQ01zN1doWkppdktDcldLUE53ZjYwUFdCaXdXQThVZjJFb001dS05QndNRk5IZEFpa3I3cE1YQ2hZQ3JNRUlaN0JZX0xDOEpvT3NNVDhuLThPYWN2RlNuV1hwcDhIMkJqTjY0bWt4WUZSTkhIWjIycDFHOWdFdC1OSjRkVVhHN2lJZGxacHpYVkh2NXRhR1hHVkp0S0Q3TFZpdFIzSm1wT0Z0dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:17Z",
-    "hash": "735c9528b84d96e840fd4217e5eaadbdd0445b5d86449e2eeca5f9f2bef5ff76",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA Holdings Lowered by Burr Financial Services LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQamJJcDlFd2c0RGFHblo3QnpvVHM3QWNRVEctenQ2UzVGYzd4eE81cTBXWk1tN3lELUpHRlBuMDZlc2tkY295S0NlMEl6bTVSMHBfbU1jZmpVV3JIZDdNTkZqN0NxNlJYNXYydVNnWThxbVhZQ0dOaVUzdkxlS2ExVFhPcTk1Qjhmc1lWNlU4Q1hCYzNGVUlfTlkyVWJ2VEFzT045YUp0VVVNbERPMWRpZ2sxa2l2OE84aFluWVBjdjFOTFh6SE9VOFJwVXg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:17Z",
-    "hash": "9fe3fc5ddf6a4ddd65b771053416481cea58e229b98902c04b30e9d95af77f0e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Beacon Financial Group Increases Stake in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDYzYjBocGRaY2tMRUNhZEZ5N29ZLU1uVGRRVEV5VEMtSXI1dlpuSVhxQTJrMFVUTDRBak9XamM3ZERWSVZnWU9qV0NYTU5oVkRGUktnZDlWVzZwXzliX3g4WTdoV09LbmNwRUUwQ3FhT3JWREtvaWt4YnhOV0NuYk5uRHp3eGc0V1lValppUl9xb1ctaWhoRzVtOUk2dGRrZVpIamY0bXlhbUdWSnp5eVNXRWFKbzNmVHhkMmhwcjYtV21P?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:17Z",
-    "hash": "3f7f317785c2284e3cfb9e27f7013042310e5182f96be922a2164ee57dad33ac",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Lifestyle Asset Management Inc. Increases Position in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMXFmRXE1VzhYeTFkcW54THdhUVRaMjY2RmVVWl9uWUlrRU1PU0lfRGVHU0N4SzhvZmlybHJTZkw1TE0zR2JFd0J2RXduTUNOZTE1bXZmUnQycjRXbEZ0UkE2M19ocWhMOERiZ3FsbG1XLThOZnFmMHk1R01xM1lNTnAxeFh4cnNMNU9FUVJ0SWNmY1hQODhwUVlSWnREM3l6Uk9uWW9vZ1k5T3dJM2J6c1RJcVhza1h6dzRkY0taUEFjT1ZCdWVwbS1oU241RE5GcmNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:17Z",
-    "hash": "c838f3d78473fbc6e68886334f660302ca0a0f00516699a54f0773e9e2074d04",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA is Connective Portfolio Management LLC's 4th Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMTVGUlBHNzdwUS11R3Q2aWgxR3NQZTJVTjQzazAzanFvb1ZUY2xOR2JIVG12S28xbjZ2YkJYQWNzNE03a0Z4MmdlM3dfUFU0VnpIaWhVR3pnaWJmQWpKSXk3aFQ0TWtfY1lYY3RLUnc1WklsM0JoNWdoV0JSQmZwbHl2X1JaYXNVbW5tdEJaMnV2eXhJVDY2RHJlTnlSTUU3VXlVY3l1R2k0dDI1aFYtckZZMGJ6eno4azVpVTBZLVdJWUwxYUxZUEd1aVZLSndhNm54QUdFX19KQ0JDOWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:17Z",
-    "hash": "51e8dc7caed1c9b66dff2a11f6db936a54b10defed6633279067adcdb8299226",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA Shares Sold by MFG Wealth Management Inc. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWdiY0hFTmd0YTRuWWxHSnpoSEt4T2ROcE9GNm9ZalRLakJDc0hmZ0NqMVZ4TFdnLWJHbVRfQzlnOXVtVWEyQldsallNSWRmWkxpZnprOTBONEkzQ3h4bU12LVFyajlmMjhFNGliUFNsMFQ5aGRNS3NSREFKc0l3OFZiazl1ZEpOSjZITWFxc2RiTURKR0pENUs0M2tFSmlNeFRyVjRBTFNGZ1lHOWV4WlR5NXBZOElJenFYMER0bEdEakE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:15Z",
-    "hash": "6790d3e8351230b85d8afe05fd59fcfda210b1ecc5e6c6b6de65871a7b453d88",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Westmount Partners LLC Trims Position in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUVJ4YzhCd2pFbExaVzhfajBaQlE1SE5QS2tqSTJBVncyTE9VaUJHM2ZkNTQ2N0tqVVE2aTZfc0lqMnJ1b2ZWNTMzajc4M2V6clk0dHd3aGFmWGdpOV9QWlFxaU91dm5jN3lHbm5OSEZNTVVmNEE1TThEWTRIODk0dFZOOF91VkV0bDRvMmM0QXJXNlUxaVA0VTNJTHVGY3BjdVNMc0ExMXNEZTRBenV0ajRRdWVvWXUwRnhhSWZvMU11eUk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:15Z",
-    "hash": "dd89461bd52434ac2c5e44677f3e4c116a110d1870db18320064d4c72c5aefb9",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA Shares Sold by Clarus Wealth Advisors - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeU16NHVDalc3RG5zVGRyeHBTZG40aC1QZkNIc0NhSlhXLUNQNkRJenVfUy1YcnNoN1RLWTRaSGZMTUgyR1NXN3VENXhzUS1OX2dpbUtaOE1TZ2FhS2hEMjF2Nk1NNU92MGNGcjByRUxKVHc4cjdfV01GYnRmeUEySS1rckFJN01tSUFiVlpOSm1EUUZTVUhzTU1iZnBmbHdKRGZmZ3BBY1ppZFpmZVNmbDJxYW02NUkwVnU4amd1VQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:20:12Z",
-    "hash": "e4a2a8a914d135fe2d10caaf1fff13201f84e7d1b2d451d5694fca571113f1ef",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Institutional Pressure Rises: Solana & SUI See Demand Amid Criticism of Altcoin Strategies - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQkhHTmw0ZFMxTUpWQ2dQc1NuTG1kaWtoN3ZtT0k1ZWI3V1AyalJHMGpFbTBxcHZNQlhDdU1ta1JJVGxQWXN5bVVUVDhFNmFIemlEZGpqVHlsQlJRc09HSGZ1VGNPQmpiWWRKMUs3NUdxaVJMdk9XS2w3MWdZaEMtUXhwcTVqa0J3ZzVqdjh0WkZVOVA5WnlyVnYzSXVSTC1OLXNZVlhFLXZoLVUtNDlj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:17:00Z",
-    "hash": "fc8498a90af4abadc2a877791bb60eb5b208938f312718cae6c4d04efe0d3ffa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Analysts See $500 SOL With ETF Momentum Driving Demand - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVBnWS1OM3RrOVdoWWM2N1NjMlFMUHpPWEZJS2szcnBLZEpBLTl5Sm9iMXFvWXJ0eDcwdFBqOFN1dUhIVDdJRnRqYXp0T2xJdk1tRjA1LS1JNnpPMTJld2Z2WmpIZ3V4MlM5RzFoV3dTUGpjZW16SUFGTHc5TmZZZGRrMlF0UUJaS0Z5dGpFanhEb19HMm5wLXdKWW9BRDNsMFdkRw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:15:58Z",
-    "hash": "0f9bbaa4ac515c2aa7961ef4238e2c9e23512abddb15dbee73133cf57adce143",
+    "published_at_utc": "2025-09-22T07:39:08Z",
+    "hash": "7274aa9d380502dca22ce65099005fd85d04764a2aa45ff49e79b8de8a679758",
     "source": "gnews"
   },
   {
     "asset": "BYD",
     "query": "BYD",
-    "title": "Berkshire Hathaway exits BYD, closing out 17-year investment in Chinese EV maker. - investingLive",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbHhBRVpCUkRtMVM2enVORHo2ZXgyZmtQNVNRNkQtUEg0djhJa0xFMEFLenFiQTk1UlZ2YXhSU2llcEFWWlNBajRzV1VZaVU2NUZYcWNqelhzV0hfNG82c2wzZG1NMkVTMHNtWTZ1V2VSWjkwVE5yRm4yUm52c1N3VW1SUHE3S09NYzRHdGlXdk52QXJvVlR0RmRsRWU5czJNTVpuTDBHdnIxd0dhMTE0dkFES0dqNlBMZnpYN1F5Y9IBxAFBVV95cUxOVU5CckVsVGxoQTNJZlVtRm5lQWxvbElsbzhtTXZUMm5KbG9neHpfWExIVnNPRk1iX0VRbHhqWGRmRjdMeFVyZk53UmRQQlktY1NtT2dZaUdjVWM4dVVCOXVnOV9CNW5MOW9EVDVydktiMndKVGh1ZkJIRFBTTnNTdkRrWnlMdmVKMkMteDhuRXBJUUdHMUlaMndCWlBOOEpiQUNKUFZTTW5TZVg5clZCOVg3TUp2UTl6QUZSWXgtTkVBV3BV?oc=5",
+    "title": "Berkshire Hathaway exits China's BYD after 17 years - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SdE95eEdXWmRic1BUaWh6V3pyQ2xubkxKZFU0SGoxd0dsTVZDSkFfWEZ6QzNXb09yU2ZPQWNGc19rUTEzZXRhUkZPbHJoNzNIVFA1TDZYY2U2cmR5clFVOG5vaVRLTDlqYUJJSDllMi1Udm9t?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-22T07:14:55Z",
-    "hash": "8d9de4ee5c6db6b7bacab65bd69581243ec4648db7713e456b66f1949595d386",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD shares fall after Buffett’s Berkshire Hathaway exits stake - Investment Week",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczU0OVpjSm1RWEpaWUpMNmxxY0R1SVkySkhGR1Fqd290VnMwN0pnNkZMdkl4YmdjOHhhTW1YbFNPYWhBZlNhWEtqQ1MxdGtrQnVmMzVMUE5FY0R1UDFJeHpvSWJuMFZpUzdSNEh4N3lYcmpGMHpEUTFrTjBzSGRzYm9pYVR4dWRCUlQ5czM1T3U1YWlsd1FlYVFpeXRveWU4Rkxr?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:14:51Z",
-    "hash": "39883b09b6184163c34a780ed27cd767a59ed1c444efed8ff0119f8e106c12fe",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Updated Nvidia Stock Price Target — AI “Bubble” Narrative Ignores Re-Acceleration in Big Tech Capex - Beth Kindig – Medium",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTmFWMkVaRVlua0VwZWVSMkc1djhSN25La1hRMnRYNmNqYTdnaFE2azdXcWlMdlpycnpLWlJQRW1XQ0x0NHhOOHU1UWFBWGhyaWRMcXc2Q1o3a0c2d2hiSTZXYTdsQ0FaSkhMODFOSFlkUXdiTnJJRnhUYk5GUTREZEctS1c3elF3Tm1tVkh5LWxxNFExQXBzMF84NVQ4VlN6Zy10VWNWN3ZLVlBCX3dkcUZzc0tmUGRfNmdBZlNXUy02UVI3V19qLTViVndNc3JqQUxyTWlR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:14:10Z",
-    "hash": "a6b5032c97f79564e1aa96e6e86da42fd300bacce450998a4aca946023e2c739",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer eyes $7.3bn takeover of weight-loss drug developer Metsera - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDU1bFZCVUc4UGF2NFZDa192eUMwZl9OeXNYcWltNnhzc1ZkTGRSWGhhdFdPRU1CQjAwS3U0bDhlazdiQ0h3Uk5BYkVmU2pKYUxUdnkwQ29hTDdnV1FQOXpBUWZ0em9KX0g2WlIyQ3BsNXhfMmhXVzNzUnhHenhiTjZWLUE0aEZmTkExOHVpX0NLMnNKSm9od0xvS09RY3pyQTZJTnJMRjZZSUw5TUROU25Ma0dZRS1VSWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:12:51Z",
-    "hash": "37048cebe67dac323a1dcd55b183bfc07571697cf7d03642de235d93373faf76",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Samsung Stock Jumps After Memory Chip Clears Tough Nvidia Performance Tests - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQTRvZVZobDcxYXpsRFJkdTBUTFNxdmZiWjFaOGRMZHlPUWZqR09hd3g1eXF3VmJWejM5dEdaS29JOURGZTdpaHJTYkdKeThPSXVsSVpnSXg0cFRiSFBkZU9NQVJMeGtTbUI3a2lPUWpsajFJaWtKNGFkWnc0Z3c3al90MmFNcG8wQUhTSDBaYU9aY3A1YWZ5SUdvY2ozcWpQUHFaWHJBcGhBbzlvbmI1QUdzYmFzWmVSbHhCSmFtZWVFdHdWU3dwbUJkTUxNX2kzTzNqcGJLOWJrQlZtRlh0emZySUNlU1hpNnh1enM3b1NuYXdlT21GM2RoWXA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:07:40Z",
-    "hash": "5d19603029c1e6263ddbd1ba057b050b3ce041beaae6e9ad9490c3fa569c5c9d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP’s ETF Rollercoaster: Record-Breaking Launch Followed By A Price Dip - blockchainmagazine.net",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGLUdIY0x4TzNkQ1JnSUV6a0x1TWpRdkFnYTdTSXBaRVRSR2cya0VNVDhMRl8wR0R1eEp6OUo1a3dodFE3eFlhYllYdTVBc0h2dnRqYVMyaVBEczE0Vlo1LXEwNmxFOVRZNUVRaFAtZDQ3Ukc3QUVGd2d3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:07:24Z",
-    "hash": "94ce66ecb1691f33349001b17d5b20d1a6916d337b06c15910a48e18375cc651",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Price: Holds $4,000 Support as $1.7B Liquidations Sweep Market - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGRyNWFFaExLcS1sR1RkQ3JMQmc1SEVYTURoOENQQUNiTm54bUpiMmpZZ01kazhBSVJJTVBSaldoSHM5cUZ3akNrcGN4RlBMTWhnb0pYZUktbmVMMXVYMnNrZFFtS3Q0eTJicXhzdGlicXhucml2b3V5Z1huaHZrV2dTODJQUHd4azM4N3R5U1Q5Qkl5ajdDaHZlTDM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:05:54Z",
-    "hash": "da3536f95a5eaa3eef2e0f72faf2325cdb42e8ddeadbdcb9fc45cf76e0ea9920",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "DOT Miners Combine XRP and DeFi to Earn $8,700 a Day with a Passive Income Model, Bringing Crypto to a Head - TECHi",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PMzlveVNIQVVVaS1VZjY3OE9QNXhoZDN0YnItX0dlakJZd3IteVkzMFVLNTlQQkpOSzU4MXpGUVVFYjRXNzhzOTlUMmhTd1VHVmJlRnpjX0Y2QzFXOXJxa2t0V2JXTGlC?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:01:18Z",
-    "hash": "d223c4422256211335a0641920d5c95bd2f080081fc778a726f2e9da61d9ad86",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Why Crypto Market Is Down Today (Sept. 23, 2025): Bitcoin Risks $107K, Ethereum Breaks Down, XRP Turns Bearish - Binance",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yOTFpejlqMlg5RGxHNnFZV1cyNldNZVNwQXFCUnBGWkNqMVFuVUt1bl9jYXpmY1Z3dGhuY252dF8yOGpXZ251OXotdlhWbkFzX3NGT0s1VGNiNTFjWlNXQWs2TQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:00:09Z",
-    "hash": "f02de71a3a4df35858b504a3edd2184b89c75264add15181dfd4b853fadd32a0",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Next-Gen NVIDIA B300 GPU Servers: Supermicro Expands AI Portfolio with 40% Power Reduction Technology - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOE5ubm1YeGdwQzJBZG9uM0h5eUl3dnhfQ2p3VGNZTHd6bVZmQUYyZUpWYnpoTG1qanVxNHgxUEc4ZmM3dG5lOWR1dFduSVJiZThmNlBpOWVsVzRoUHNnYWpsUU9TeEZ0anJEVGNTaXJmbU9zcEFPUGlSMnFzS2VBU0J3SUJYSEJOWjVBRVVnQ2VYWFNWd19sZUtrT2ZNNXE3YVg1clNrdWo3ZHBiQ3o1NVRBakY1TUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T07:00:00Z",
-    "hash": "21775dc9c229bcfc232b13f8abffc2cf270ef716fba6b16fdd4432d6a71bd1c7",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Samsung stock hits year’s high following report of Nvidia approval - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFIxc2ZvUEtrMjNFUDg3bzdHNlpzME15SVNaSnJ5Ml8wZXZJVXA2bTR1bWlfNzFaWWlfenRoTElOaTZ2VzNKRXJXOGJvY0tlUmZHc2J6elJHdlVCWl9NYnVYZmJDOE5iNm9BSWFUazkzSjVQRDBReU9RX3NWTDNlM202NEw2WkZ0ZUdfWGp5UXllNndjNnh2WEhJc29WaWZYcnZVMlFESDdLOWlyMUNEb3pfUjgyd1dqSW9Zcjg1RThTczhRX2RXUTRnby1rd202Y29OYjQtYnB6dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T06:59:50Z",
-    "hash": "39b6015504bbb679b58026af1f84e8e70405ad7007a2b4f0d1ac2dc848e10dd2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer nears billion-dollar acquisition of anti-obesity drugmaker Metsera - medwatch.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aX2JZWVVsQzZySC12YnpJRmpXSGJoWndPZmtsSUp5Z2VuTmQ2azVZQXZYbldSNFo3RlVZREFHUk9CZHpQeWtDemJMZUYtVnp0cllXTFg0OGVuT0loV3pKcmgwb3YteTI0SzhSSXYtYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T06:57:00Z",
-    "hash": "08374d7fd98cea50efcb68dce2400b2d9c099065c1a08030480a81346add1cae",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Business live: Warren Buffett exits China’s BYD - The Times",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHpENkVRYzl3ZWg1SnhZZDh2ZVdreWRSbEhyaDBiampzNE11eFhNcXYzMnZGc1Q0RVRCdktFbkNDa1JMSUVEbVppUDFpLTFVeXhZcXRydGNCNjZadFJadXoyYkRHY0dnYlh6am1GY2g0QTYyZDFIQnN1RjZHWjlPTjB6TmxKc0xXZy1FVDYwbGtybm9wbDdqZHhabmVPU3ZjcUtzZEhHNHByUXMwRzlCMzktdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T06:56:47Z",
-    "hash": "656d6c99d764c91228d41aad5b5d9ff84b9cb975e162e01feee476ecd317545f",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD’s Shares Drop After Berkshire Hathaway Fully Divests Chinese Carmaker - Yicai Global",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzNVVzFQNlFYbVJtUkZBZWFmZHRtQ3h0cXdwdnM5RmlhV2NDN0pvM3M2VG5TNG9Ja3FPNnBGdnNkbFptbDgtbGdPcXNxLTdpVG1WRmFXcmNnT3dBSmU1U1ZaSUZoVW43dG12S2U0Z0ljR0lqdGFlaTg0YmJyS2RNR3l5VjN3eHpFcmVVRndKQ3dsT3FqanVST0tjUzc2M2pfcklnZ2cwdmY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T06:53:40Z",
-    "hash": "ee114aea787e3ea1e3ef96cd99e70a9d4579d921a01d7d00445bdbc40bdeaa78",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer nears $7.3b takeover of US drug developer Metsera: report - Tech in Asia",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEVSQ1l2SUk5bV9hMllaYVBONDN3cVF6amdTcEFzemdfdnVjWTRUcjItVDBTWUVPc2N3S3RwemRQejR0dTJod2ZCU0hHMERqb2ZERHd1eWpyR2ptNkpFZi1BUm1CbEhtcGU3dE5PTU5qOTVsVFZ0bE1wRjNhQTlQdTJ5QTRVcUJXWkc3c0NuQ2ZCS1djbXM4S2pR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-22T06:48:00Z",
-    "hash": "195f8a7a4771a936fa1d8fbfddbd8a8428e43c5d002078416fdfc2afe88d965b",
+    "published_at_utc": "2025-09-22T07:38:17Z",
+    "hash": "c9fe735041168640938fec94a75c48c3beccf406a01779406078d42d324204f6",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Michael Saylor Hints at More Bitcoin Buys as MSTR Stock Hits New Low - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlZvN3RCaE5VMnR4SG9fQjZuZ0tUSXRKWExPUF9hQ0lwSDVvb0dlam9oYU92YWlnYjdIbmxVd18wSUtiQXpFWWctZ1I3UDAtbTR3MnRtWUlIenRsM21BeEhBTmpvVnRIMEF3Z2ZqRjdGZ2N1NzNXZmIwRWJwM0JTWENRUWp6MHdGSVJOM2FsX0JTVTdKVkZPSw?oc=5",
+    "title": "Pepe Coin Price Prediction: Why PEPE Investors Are Turning To Remittix After Being Tipped As Best Crypto Of 2025 - TechFinancials",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWHpldUNZRTZabEprcmNpb2dIVEVEcjZIaGpiZ1p2T2cxbWlNLXdTeS1OWThGRTFmYmpHMlYwSDFYSzRaeVc3MXczdWQtWF9UWjJBYmpZWElxTlM3ci02N0JjUG03MjVhMkZhQXY2RmIwUWt5Z0gxVDRRbGZQa21FQ2VZaEZWTEpzREZnb2cwbWo3RnNhRGtMNDgtWXZsZmV4UjVmREhSVFNtVU5FVmNOWVhrWjh0cDVaaG9RSGxMa2YtOTdWeDNidGtibnNBVF9FMEV2Z19VeHhZdFdrVk9UNlExMHJRNUU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-22T06:46:46Z",
-    "hash": "d05590389a1d860cef4c12e91a487e89980f0e3112863734d8e5a3c25dcfc1a2",
+    "published_at_utc": "2025-09-22T07:34:17Z",
+    "hash": "3c022baadcbb2836f1531f5ce29d853117e17c8009eb77af64c7627615f99d30",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "SUI & Solana Expected To Breakout In Q4 But Remittix Targets 5,000% Gains With Its Unique Viral Concept - nerdbot",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVWVwTVdjVnBnaFhheFIxT2FOYVdIVkpDcENsZmJLNjctRDNZalhkMnEtV3hTc1FjajRXVGpsU1hwTmJfZmd3TDdiWXo2eUlUYllJZGRvNlFXbVd3RUFudGpveXZMR0NESTZaQVVnZDNTWElCMERkNDBPRWY3VEJoTVJkSlV6YVFPZ0cxWXJwU1NpaUJwMVhxaUd4T1plRkZOMHJnRHREUXhWTFV0SF9MRjRxOVN4eVY5NDh6RkJhTmozc1dBcWxlUmx2QQ?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price: Token Drops 12% Despite Record ETF Launch Day - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWW55dHlKeDY1VVB4bFBlZ0twbUdXempUTmZQMEROdkFJR19jbTllU2ZYMklXVTUzYXUxUEt6SlQ5MUJLcjNZdHFreXJRVmZRVWkyT0dEY3FCSTc3X05IdjRtdUltYlNUUGpJT2ozcl9hd1JXREc4RGVIOUxaT3J4ZjBhcHU1dw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-22T06:45:55Z",
-    "hash": "ecfdd474b9a594920e3a3c3f15cf00f0606051cd6cf618ddb34d88ea2098668d",
+    "published_at_utc": "2025-09-22T07:33:13Z",
+    "hash": "ec409e5b7cdf8ffad75b6c1c4e4eda45b037d6e5bc08d6fb253a9555e9040695",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "First Bank & Trust Sells 2,177 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVGRyVjlWVkVZRTJILUpTaW1ia1lxUVBhYXNBczZwcjRfQThxbmROblJXVDVFN2xGSUVLMFBKR2phRE15Njh3SjNka3JHOVNINXh3RHozZ1hPZi1qYVI2bXFSR2diWHZfNzBnTnRCNFM1Q2JGSUxObVJYZ0hvR2xjbDF6UURIQ2tITzBzUFgyUVo0U0FsNU8xRlZITlFCeTRCYzNnZjlBTUtLSkNmdnhRZEp0ZTBMTUluTWRUOVlmRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:33:00Z",
+    "hash": "3881a665726bdb9a972eb4da9d74cf57936309efb4d4edc34e1398c5d15f2645",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Shares Sold by Orser Capital Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3pQaWZEeTZDcnpuVTJ1NHlSRFNmSnBvVktHWVhpZUNJaHhIS1RQalItWnVNZzF0SlpjazhXRkdQMFVUUG4wTDJIY1Z1SHc0ZmpKZGFZbVg5RVhvSmhxWnZreFRsZTNyVDVndXZDUkp0cUhJSEg3cVJMVklLMjlld01CTTZ4NU5WeUVqbGtaN1p2R1VkWlA4U0NTY0NGaUFmeUpfNnFPcG16RkcwNkVaWkZVeXZvOWlZWE9CaUFQTmFvc3hNWWVj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:33:00Z",
+    "hash": "a5852f9a7b8ffc6d29712f64d90f882c47b863f61c97caa29df9825a20669de3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Focus Financial Network Inc. Invests $265,000 in Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUFSeHlBcWlIVDBaNXpDTGlubTRwcDY3Rkg5M2c0aGZ0SnBwcDJ0a3Bzb2NzUWUxWjg4NGNWZ3VBX25MNjRuMl9qZmZWOUhmTkF6TF94ek9abGVFWnFWX3RoVDkyZFVabTJzRzFtcG5NcExGbEhSR3k0TVBTQUlOTlpCZGlQRDZENmZXUkdPZjlIVk1MZEZOcVIxcUdQeUZ1ZmZMMkdEWHIwa3NORW02TzZobTN1OEpXSmtKd3dOeEp0UVE3ZTdLUXYwLTFIZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:33:00Z",
+    "hash": "6d29abb4b7da4bd11ea586b9111fe3b590e65517ee256ec5ac337f8f74bde36c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Stake Boosted by Triumph Capital Management - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0FjRzdqQUxWUXJJZ3ZEWEtWMWxYWDVXdnZZVkRXLWhrWnJ3WEFTWVp3ekVWaWltQ1hjU0ZRUGEySkhES2ExZjRTYWtxNlFvRGJJcGJCYllJQzlNVk9Ub2dhUXd0d0xEazJ3TWI4c3VaM0JMeXp5bFFIaHFmZFN0UnFpSXIwVXk1Q09WRF9VOTl3Rnk0LVh1d1hfQU1iR2NMOWE3aWQtaW1DMDd2RHZSdkZmUFhsUzEwbW5PenJpTUNaZ2VsQU5r?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:32:59Z",
+    "hash": "70b6bb9442889b9bd51d592c184ed99d67f104f2d24517c0fa6238a5df201129",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Byrne Asset Management LLC Has $5.48 Million Stake in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUU12c3lBOFhDcXFpTHJzb214bVplZzlITWYyUnJJVHBYNk11VzZtZTVzRDNHN1doWXQ3ZDhscUVlempMdVRsMUJhd1YxaU5zdDNxVGhtTXBFQTlpTExkY0h1QzdrcVljYkVweEt3Mk5nb0JKWHZ5YnBzQ2pTNk55MkIwOUtCWHlJWDJUczdQVnNzMDVPV2lDSThnYTVraVNGNUlZTDNIZklRZnNGNGRSeklZM0lrdFF2NkRqR2wza1BHZ1ZhV052c2ItT2QyVEF3ZFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:32:59Z",
+    "hash": "b391891abd7979d0068bdb1a06c09f463d7cc04f4504548ad9a20a9481c37538",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Central Bank & Trust Co. Sells 183,589 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzZhTlR2bURaQU1HNWhocUVLZFBNRms3XzdCT2ZYWm5KbWtEYmpCNkhKV2RtLXZoX04wVmNjcGdTVnhhQWRRNl9MTXhyOE9FdWZJVGFuajYtUDQwUXN1dlR5djZNV2lpc3dRdHFtMmtRUVRfYzBCMU9mVkpHVHlWbmxySUc0X2FDRnB4bDFZVU1RWTNjX0hLdmlfVndsc1Bka0NiOW1rNGd4cXJEVG9FQmhNZGxOcVFvZFlmWDhORzg3TWtOTjRaNQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:32:59Z",
+    "hash": "9c51ab84965252d379bde95f7ced0d5e98b8aee4a1ea13574bd01e4417e1b158",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Fiduciary Alliance LLC Boosts Position in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGszYmlfbjhqelpFVDJqc1FjZnFVdlhBQVUzSWVrdWVvUVh2X1JxWVRaeEp1YkExNXNfbkVHX1AyUTZZME51dXBrRXVNQktsOFV0T2YyNUxmUWlpSEdXaVdFV1dDbHJkQjNmVUlXUFVmazBzR3BsSlZpSXNjT0dOZzg5cTF0cDRwdFpPOTNiRXhubGdpNVFNTlEtMnl5UVpOVUZ1ZHJwb2FvTWhtWHFPOVVQWTV6RjFqUVNQT1JtdTFERUl5?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:32:59Z",
+    "hash": "e64414c610ce70e26fd398fd4fedcdc36ff2259558f666ea9368c7b09de8d3e9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Corporation $NVDA Holdings Raised by Brand Asset Management Group Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZExxaDZQSnJzSkJwNC0yWGZVR3dLdDREMW05ZU53aF85dF9jQTUzTDBTemVwbUdrbE5rZmpCSmQ5LUxIZWItalFCVXpEdWpDdDVXWUZESzdOMmhPbXVrZ0lvZVVzOU51dGRYY2QwMnd4ZWdqLXlCMWM5LUpsMWVaZ19XRVZkQWhuUDNLZXQ0d1ZXeTBaSVZ6WE80OEI3X3hZZlJZYzlHMnV3MERFTFBzNzFycHJEdGZ0VTMwRWZKdk1GNnFEeFl3VjlFYlRKbzBTaWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:32:58Z",
+    "hash": "ba678c2d3a735768da36e62655eda6e3c7f34a68f1cf9e67f2f0de967f5659bd",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Fragasso Financial Advisors Inc Decreases Position in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGU5d09zRU5xbkFOTFUyYTFnaDh5UUhyZkx4NHhwY0ZKV1UxRllUTG9WbUhBZUk0UGh0bDVsZFprQWZsRlJGenlBczhjbXRRRW11bXp1MzBUai1DOS1nSFFJVjltSlVZWGRsRlM3U3dqNXdxUlltczZjb242bGZ5ejBSWFVySWpWWmFpZlFyTDNkelZuMUZVVV8zU0c5MUpFZEx0dGsxQXdETU5lN0gwMTNvWjc0NVVGbFJRUGh5RnJ2WkwzbUowTEVxVUdlV2oycEQ2ZA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:32:58Z",
+    "hash": "9cdd0b121beb16aba6b26482c41ec6840ef1fbf4bd2424c3026f8cd3c13df989",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Woodstock Corp Trims Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaUlobmlMM2xLWEtsdnBjNFZ4SlRLTUo0WVVBSGUwSHZ6bnVnMXZZdENOSzE2T3JJM1BLSmNIemxLbmt5RC1uMU51VGFOeUg0WUdOWkxtT2JENUREVXFhclBDclJ0d1FvcVRyOTVyVWdOZDRfR3pZaXo4R2xJZ0JRTHFnVV9uSzFjX1FxQUNSVDdoZTR6VUtFR3ZwMlp0dGhaRUVZdGkySXFfbmF0dXNrV3pBUWdtM3lFZXpyMEczMDc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:32:57Z",
+    "hash": "2ad34650ddd31c93795576c6c68818f995f947045e77e86217ec176c48485673",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Crypto News Today: Toyota, Yamaha, and BYD Accept Tether in Bolivia as Dollar Reserves Collapse - Binance",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wYXVhUjdDdDdjRjMyanhBdHMyRVIzVWw2QXM0XzhWaVNKTVB3S2xnUDFpbzEzYUx4V0lwLVpmd3JNSHFUOEl3UkhWUmVSdnBYbWN5TGxUelZmSGtmOW1xcTljYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-22T07:31:39Z",
+    "hash": "4cd4ce8571f684e186313afc19cd41262e304083530fab7d516012af4f3f0006",
     "source": "gnews"
   }
 ]
