@@ -1,232 +1,42 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Hashdex files to add SOL, ADA, XRP to crypto index ETF under new SEC standards - CryptoSlate",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGhkWDFYdWFFenlhMkdZQlNCNEFHbmpSRHpmSERFcHFyak85Wl9kTWtHTnR3REpaY2lQbC1vMzRoMkdNNWFjUGtsZ0ZYNm55WFJSZFRsYkxJbEVXTVBrOWZWeDJCaEc2TnBJM2FLU0xBazNQazRZdkd6STg1ZWFCTFMwc0xfOGwwUmpSQS1EaU9BbDlVb2g1WlN3REZFUXJZT0sw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Nasdaq, S&P 500 End Winning Streaks; Nvidia, Amazon Weigh On Dow (Live Coverage) - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXppQU42R2MzM3djd0VkdHdZZFpSNzZuT21hRE1raWxDendNSnJ5NUpvZ2lBR3NOU1JZd212bUVkS2NPT3hiZzN3OTdJUVhOS29lNTVjVmxqSTNHRnJ5N1Fxa25tVWFCU09KaFVNZmtMV0Z1LTdhSUNzV1ZXX0E5SWFSVnRsdG1Ma01wdV9uaHA5dzZnYnFBS3ZPZm5MdEt1QTRSb3J6SlhRQmdKV2VMZHJkd2hWc1dCTENyWVhrZ0o?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T20:28:14Z",
-    "hash": "090524c3f69389cd337f7429762cc5c8e0b39d0d0bd9f29df4dd80c904608228",
+    "published_at_utc": "2025-09-23T20:40:00Z",
+    "hash": "c6ebed2c89b498f4549efdd0944aec49552caeb4c28ecf62b4e0a0d4823a0426",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Just as Ethereum Staking Queue Drops, $6.68 Billion of ETH Inflows to Begin - unchainedcrypto.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGh5NVV4ZjdEOHp3UUlDLWhkTFUyREo4dndReWJwNmJVcnZXUHBoeFhOY3lLNm41YkphU3NINmFxcWsxaU5QRkY5Y1RyeWdWYmFQcHlUWEZQNGJEWFpTc2tnYjFxZ3FzVjI0dUNiSkZYbDJqZEFqZXNFVThpdkU2OENLakpDZ3BhMm1R?oc=5",
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Stocks Fall On AI Retreat, Powell Comments. Hinge, Rocket Lab, Bloom Energy In Focus. - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeW54Ym5hZF85ZWt0WlR6Zmg1Z2NlRGNEYTJoRUZpazJ2R0VyTzIzbWV2SG5wMFZQSDM5eFN2X3BoT2RmUjVpQ1JvaTdTZHhqdjkwV0thejBGZWlLaWxDSFZLN3N1M3BEQkpOWDJoT0hEbXh6Z3RNTmtoXzJtOHZjMUFoT2R3ckdPaFkwUlBR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T20:26:13Z",
-    "hash": "d42cbfaa6a16891febea61d9f52a344e32977732c3fc7ff67d738a9942ada027",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETH Looks Set for New Highs While Layer Brett Targets 100x Gains - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0lyVGg0Z3h5OE51R2tzbzh5N3ZLTFV1WnFqRk16SDZNQkZubnZCWE0taWtfZmNDMG5WcXNFY3ZjOWRZNEkzckNoSWRFRnRHaHRld3VQR1dkV29mVnpOcXI0bWlGNjhaYzdGSDgzY3drb2dJU2ZPN3NCc3cxZmJRcDlMZWFQd01qVWR4ZmtvSjdndG5BM0o5TXhnc0p2Nl9jMDBsZDRpT3RxV0hqT2cyb0hKMlgxRF8xb0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T20:20:18Z",
-    "hash": "f21bd7815b6640f459659b408234610f083f6825015e2c7c837bb8ced2a21ce2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall (ETR:RHM) Trading 1.6% Higher - Should You Buy? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeVI2b0haaDVFbG1KQ19WM0lEMzd6Tzc2Wmt4QzJ2OEhXajZ6d2tQTWFMenIzLWFnYWJ4X25kNS1kQm9VM2hkU25YSE1kMzREM1pJaDFmeTNzYWEza0Q0SnNmTFlDcGZJMmU1ZEs0RDVkQW4wMG16M3cwNDE0Y2FvcFQyM25mQTRINXVfWFVnem1RWjFpNW5ldEYxV2VRdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T20:10:30Z",
-    "hash": "3d69b0acefe8ee406391787a821e737243b0225cd91bd63bfa1e35739b3889ca",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple (XRP) Price Prediction: Road to $5 Clear While Mutuum Finance (MUTM) Aims for $1 from $0.035 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYktLeTVhZUdraGNxSnMyMkg1MllQaDJ5RTBlejZoQmZmUW5YbzNHUktuQ04teTlSWWNKZUpCdi1nUHozUzNQUjVxRWxIM1haekU0MXRMWW1RbmVxSVQ2NEtQSXhNNm5xdmVHMmJlTHVfUkphSHpESS1QaHJ2MEtuM3M1SHJzOWtYUkN0bjVLSTZPb0NaQkRmcUJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T20:04:00Z",
-    "hash": "abce4dcf497aa6df6281f2607eaaca394b6249a35e62e8f910a4f81cb267a0a1",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Cardano Price Support Lost At $0.85: ADA Talk With XRP Behind The Scenes About Potential Partnership - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFd0aTdlcTVPZ19scGZQcjRnSGRyZXhVM01pc0RBZHA3d2hiaGpKQ2swRnZneUMyeEVvb2NhSE1mYnlGWlpZRzNmbmRTRFEtWW8xSG9OOFJFOVVPRW9INl9FZ25IVlFsVkRSbU1mdWtEYzNkMTFwbm9YNEk0UnNnWkVwWUhLSjFyYjc0eDlkU2VLcnRTdHR0VHlvc05tMks2STZkV255dWxRNjNXSXVnY2ZwaENUUFR5Y1V6TGVlQUg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T20:00:15Z",
-    "hash": "de00b0e434d26f8dd094e616290475f0db77c64060754692a540f64f8947b86d",
+    "published_at_utc": "2025-09-23T20:39:00Z",
+    "hash": "accd11bdf3264b01656ff99d6fb3eca2629aeb1a4ef748a6f740690bebbafc3e",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
     "query": "UnitedHealth",
-    "title": "Toth Financial Advisory Corp Purchases 1,780 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWItcm1EM1pYR1l4TGRjUzVBVkI1Umt3bUVsczg0cXlYY29ZVTAwZ1hWcTcyR25waHo2eFBLeFZOb2taTGMwRmx4UjB2MnRadnA4bUl3am5vVU4wRTAwWW1ZaEV3VUdMdnFtWk1oNE1IbmhUSG5sYklYUXNNZEUwd01ScmJmOHhMUkR2ZmxyclVyLWRCU3QzRXUxUkFzUVMyTzdScUpqTzJ0SmtnaGdlZ0xnSGpHOTM4M2hTZk9JUXJtOEc4aHY1dklROGRIa3F6QTBaM1duQkFqem1xSFpTTmtiRQ?oc=5",
+    "title": "UnitedHealth Group Incorporated $UNH Shares Bought by Wedge Capital Management L L P NC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYXRsbmNIdm5jRnczY3FfYlhGWFdTeGdXM0NtcG9RWW5tdE1DZzVKSGRLUGRnZExwNUZnOWp4ckRhRFVxV0JNSXgwdlRNRUMxb2hvVnN5ZUxWNlp0OC1YY0VPNE9hVnRMa2JhWmZvaDlMQTZsRTdMUHRqc0hjM2drYkdkek9iS3FzRm02NFpEN0p4SHo3RDh4U1UwLUVvYk8zTHZCemxfZHA3TDNfYmF4dFU2RUxDd0dEcEhpbTBTRHBHNnNrb2F4YTRNcUVFWnBXRGFNRXVnWmZCbllDMW9pc005QQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T20:00:03Z",
-    "hash": "d55cb40570ff034b6934fb3ced6e0436f7ae5218f25c2bf4e9185cac3bd37c6d",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "Assenagon Asset Management S.A. Has $61.88 Million Stake in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUk1oX2x2UUtWa0tlMUp6Y0MwX1ZTdm5RdTNpWEtBQUlJTUZvMnNEdnBmLVhua0FONmcxZ1d5cno4bUxiaTVReWExN3ItcjVZc0lVUUgtZ0VaVTJHMFFCMTFZeWpPSGVDVWxVbXRlb2lDUExaZlB6MTFWNWJFVWJYd2haZjhNSEJ0RC1ITHhqSF9RSXhHZG1nYmFBQW5qOHFWa0JWVW9NdmlGaGZjbURJTlFQTHJCblRaX1p6cTNleTlERUVkblVxekpCVFJrM2hISkxuR09GdFZiTUZHX2dz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:59:56Z",
-    "hash": "f6ba1cb7616e97851ad53eabb7e51dc80c78cb3f9e5c121ab906115fa40107df",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Vanguard Capital Wealth Advisors Buys New Shares in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNU0FZQzkxb2NyODRhNHhyTDFCYUoxaUkycUo5R0JRMmZDS2pKcXphOWVXQVc3ekNaWGoybmdUd1VuM3VGSmtnTS1RZXBKOU51R01tbGtNakFXdG5MZVpkb254ZWNoVk44MFp1X1FtVzI2YTRUSU1GbVdqSnNDX0l5QkZZcXF4ZVY1SXJJcTdtY0w1SWhwSVVyTmVNLWFUb0wydWhqQy02dWtFRDE3Yi16eXM5WERYcGkxWm1vLTZfUWk2MzJSa0l3SVowQ1ZsTmpkTUNCOXVyZndHWjB1SkpIQXh2RQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:59:55Z",
-    "hash": "c72d28e1c152f3225da4ea23796ad6154691da7d43fc965798f70426f4a50dac",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "UnitedHealth Group Incorporated $UNH Position Reduced by Annex Advisory Services LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU1ZTUEs3TEZKUGFGSE1qMzlIWjRrRWRaRXhSUnpVX0RKMlBYaEJhQ052ZjRaN244VWxtY0h3MXBGR0xyOVVrVmRPR1M4WDZOeGZWUjVKOWhMTTdQOWdIcU1JZ0JLWEJGZlNTOFZwQmxUdVZCSEt4WXp0Z19JcnFBX0psSUdEYUlZRzdwVDhUWWtoSEZCejFhbF84QWlfa0ZtVkVFSkdXRjJxRVlmSUhwZVFETjRkWWVjbXJ2UjV3UnZDdEJjTnk3a29FYlR4ZXBoVWFQMGozaGlOekc3eTJj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:59:55Z",
-    "hash": "c1ad0c3e460d1d405fbb62b629e8172f0c831b90acfde50127e72634317e9e03",
+    "published_at_utc": "2025-09-23T20:37:09Z",
+    "hash": "c650a97bfd7e3a5d8f8bca36beecc0d14093cdcf598f5a9af4c377114ae79256",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
     "query": "UNH",
-    "title": "Matrix Trust Co Boosts Stock Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczE0NXpmSGNHWDAwc04tUXc3elZwQXQzSkxEV3owZHh6djZMa0dyQkJfMmdTSjV5WHRueEdSUE8tQnpJVUkxQ0ZKNzZrb1FTTVZaQ2dBZWM1bXcwMHhfRnFrWTZoOEhwNWtFX1Y4V1ZkM1pDT2RFX0VEakozNzBGSnUtVENwMzdvWHBsWVJMS29mV3YtMFQ5WFA1RlNyb29UWGE0Zy1FWnVWdFpxazBHWVhxcXJpVWYyVU9XWEpSV0ViS1B2NmRFaFhSRHZHOFludUV3?oc=5",
+    "title": "UnitedHealth Group Incorporated $UNH Stake Increased by Congress Park Capital LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVlBmcWZfbVhvZlBJdHJ5b0VqdDhEM3VCTnh4T29JVl90cmJtX2pBalZ2YklCZlpkc1dfd0k0MmRLWmRqQjJQZEVnYnBGdHRpYjZ6US1iakxmc0FYYXBaMHk2SzJTRm8tcXNBRzNaLUFkeW95NVB6MklIaDV6aXdScS1WQ3JpZkVzclBBdXQxYjBhenZBR043MTRDMHE4WVlJNUNibnhGbnlENHpjWkd1NWZmaDJqMmtVSElBb3RxWTh1WGl4ZzZ2bkpZTXJuaUJnTXhQcFJDbmUwSDh4Y2psTld3RWw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T19:59:52Z",
-    "hash": "d4dadbdf6a8c2264a6e5adcbd075481a2828fadf1cdbd9c7559ccad8ade36c7c",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Group Incorporated $UNH Stock Holdings Increased by Wealth Management Partners LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGlvam1uMTVzZ0NDU2NyX3ZWdGNLdTMwMHlWWFFTZXVfaHdjVWZUcnA1TThMYlpDMHJrOVY3RmszSEF1dGd4bElGVjZqQzJla3pPbF9HSmk5bkZONjhLNHBwdWo0QmYxc3dQT1kwRWlQdjNQenFsU1hSbGlDSFgyTzAwVzZYV3lfS1hfb1dFRkNsTGhsZHlDRHV6dGFFdkVVb3lfWGE5VXFEU1ZqLXY5YW8xZTNkQzMxR2oyemZoU2N2MWxOSlB5OG96X3VtRkN1XzZxRk9QdDJIVllWb0Nr?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:59:51Z",
-    "hash": "07c0e3272416c4ed61d26af9c3687e64a32f810e6d010f5a92c3305cfd0191ba",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Grant Private Wealth Management Inc Raises Stock Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZXdER2cxeFJxN0JxWjAyOFk2Z3hHaWhKRXJ2dFBSTzEtVG13bHc2aXNYeU9LR3BsdWw3ZHRlNTZORFFzSG1WQ1ZoWEt5S2draldRbngya3ZKSHg3YlRHNUpIUHhxWmVsY1hNVkFGYVNxS3NsN0J4Z0lpeVBUb29WbFFTVm90S1h2a2JidXZSSUpqLW5FcnVCTjVhQS13czRLMnd5M0YwSkZFbkRIUkJQTmp2OGFiYjJZTVNXYUV0bFF6U3JHUDQ1ZlpIUEVUX21HYWx5cm9pZ0ZBTEZPaUJMRGxxMnZTRUh1VmRyTVNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:59:50Z",
-    "hash": "3f3bbacc39157e6d2ffe45b8a9420c4f5ff9d91c708f8175f2221d51e0addea7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Form FWP Grayscale Ethereum Mini Filed by: Grayscale Ethereum Mini Trust ETF - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemVsQUhvY3RuT1RmQ0VHdEdxSlB2OXZsNzVhSDBJckUyZzNkY3Y5a2ZEWXhsWlRTbDdiV2cyREVYN2loY2MyN3hVc2RyV0xDaDRNbUxnTVp6TXZuQ0ZURksyR285ZDNXZGxNbW9nUUJtcWplNzhEWWg0QWl1RjNnWFprT09aU3E1NzZDUXUzOGEtQ1JrSTB6T0pDYUVDMGQxNE8wUkxZQjB0dDdHa3JWazlWWmFfTkI5N042VV9sejgwWGU4T3QwSENSblBnNDQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:56:09Z",
-    "hash": "e3ddf3affa08c826a19c68caafdde8be4bfb6b03c86ba3be78e024b0a715230a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Forecast: ETH retests $4,100 as investors buy the dip - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZGhvTEZOdUtBQTRKMUhzbGY4WHZ6UHhNYjNfQUNUQnlscWVfeGZWUFRrSVRmVWthZDJHemNZYTJPYVJpbUdlSVJjRXY2TXk0N1ZxNE5FLWhzamNkMVdnMGlidmFZNlAyN3NDeTlYSVZBZFo3RGZjVW5SM3ZXM0llQ184MGdkMVpPNlVGYmlkandmZWZ5ZHZqY3VUV1ZpMnRRMHI0SjhGejNOZGZELVlsbF9SM29nMkNwdFN0UVdfQWdvdGlYMEVzWFlobDlhREJUOGhqTW96SDRQam5fS0hVZ1ZWekx3MDdfRXJHZzVSaErSAfYBQVVfeXFMTUl3RW9qd0dIWDh0clFEcG1BejItM1FjbkgtWlgzUnNBME5kMS1VRWhuNjJtSFYyUDVaTW15WVJBTFdVcVh2by13S2piTk00TmxlenBzRFNRcUFQLXNpaVVkeUNKU2xYc3BFOTAyWnhPZ2NaZzk2aENFOWsyMGRlZzlDQ21VRExjMEE2UDRHb3Y3cnJ3N0FvaGI0X0RpZWlWMmJnLUFpbXJZT3VJZmdxbkgxSFJVWGdQWFphWHhHVVFDR2tsTlZ1NDVZQVZldUkwalp0UFJjOVBkeXZiMzFIeThiX2p4d0ZzODRHNC0tTzN6WUpiS2h3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:55:29Z",
-    "hash": "dd4da60b05ea6484e2a7146c559374db117312ef5e7253c7bf92c47e9576fec6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "CleanSpark Secured Another $100M in Financing From Coinbase, Fueling Pepenode’s $1.3M Presale - - Disrupt Africa",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbU1rQzM0YkdYQXl3anBva3Nzb3NnS3luYTN6ZEF4NG0xbEtJZk5fZk9BcnlZSmMwYnV2RlRRb2NTNk1QQk5BMEsxUDVqYzNIUlJqdVk3RkMycEpHeExlSnJJUGdRUnFyTDZHRDkxX19mRnQ0NWtLQmpTSFJlUFhycjYyWm1PNnY4R1RhSE9HOWFiYi1WMnVpUWVPLVNvWmJaVUxNYVVlZEhVZkxyZHhZZG1UVGZlc2t4QWs3bkFpNl9DRE9OR1HSAcYBQVVfeXFMT21Na0MzNGJHWEF5d2pwb2tzc29zZ0t5bmEzemRBeDRtMWxLSWZOX2ZPQXJ5WUpjMGJ1dkZUUW9jUzZNUEJOQTBLMVA1amMzSFJSanVZN0ZDMnBKR3hMZUpySVBnUVJxckw2R0Q5MV9fZkZ0NDVrS0JqU0hSZVBYcnI2MlptTzZ2OEdUYUhPRzlhYmItVjJ1aVFlTy1Tb1piWlVMTWFVZWRIVWZMcmR4WWRtVFRmZXNreEFrN25BaTZfQ0RPTkdR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:54:07Z",
-    "hash": "0d35c2e70395bd44f291b5cc168904c711a9d2f323127c96f9830ffd07782430",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "Quantum Leap: D-Wave (QBTS) Stock Skyrockets 2000% Amid Fed Rate Cuts and AI-Fueled Quantum Breakthroughs - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZk1ZamFXZWkzYzFCSl9kTmpRaWNzaHE4cHZJRnJNUEU1MVdUSnpCTjl4eWwwUjJWRl9rSHhlQ2lUSC1oeTcxM2o0Q0ZKSldyN1VpN1Z0RDJQaWJvM05helh0b3V4Q2JvT001aUlEQUQzN1pjMHotV2c0MGpJcUxBWC1LZUZ5R0lPa2ZWTFNxakJLQmtUbjdsN25vQjBWRTJoOXI1eE5fWTRZWWhxako3ekRvSG5qczJ1RU1mS1FrNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:53:49Z",
-    "hash": "5697fc32daa0d68e16523d695b2e0ca232f77cf9559160071354371e6db7d821",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "How Solana is Building a New Stablecoin for Kazakhstan - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSHZVU3hNY3JXYV96c3cyX3JUdGV0dzk3bExwc2pJRXZKZkhLeDJocFc5M1Q5WW9LR2U0b3IxQ0c1T1c5Q3VXQzVtUjdMQnhmQ3pIUXJ6UDFXY1NkaVJ3M0ZQanhjVmdkNVU1UEVIczdnUTdsRnJHSnpWVFQyWTlZQUtR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:51:00Z",
-    "hash": "30ee9aff7bfb322fc190d23cea78186004bd27655a6e802b12d3134fc4dbea1d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Eyes $120,000 Yet Analysts Say Rollblock Could Outrun BTC In ROI - Berawang News",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNG1wM1VlSWtNZzk1dE9XUXdUVmtQZHRtaXpobm4yeDVWQnpHLUs2SnZCR3RLbjMxRVFfLWpKTkxRa2JyNnhqbGlRRFRFQ0NDeU9ieXRHT2RMdTVUbnVQbGtydFpTVjQ5Zk9pS1BzSVZvS0hsbkhYU1IwZHduUGVpdWkwVjlJSDZLWVNUYlB6RXhNR1MxV1k1TnN2UWRvd1JPU3Bab0JwNW13Qjd5dU5rSUM3Z0c0UHFNUFpZVF93?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:50:06Z",
-    "hash": "e5c3216e25a85e828fab1dfd67001a1bea4a31f1ff52136f2f1828b5572bf7ba",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Eyes $120,000 Yet Analysts Say Rollblock Could Outrun BTC In ROI - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQS00akVaQkhJOE9MRVdYVzZsdFF3N2RpeDhVY2Fnck56eERSN0lCb19iT3l4X1FzenZFUjVVRGp2OTB5VlB5T0lEWkNFQ3oxbnY1bHQxVTZLdjQwajNmanhvWVJ2ay1HSkZQbU1leVJPOGoyY19DTTFhZ3RQZlVuM2NOLVM3RHlkUFV5RTZ4RHZhQnFWekN1cno0cWxCSURVempoNTBITWhLN3d6?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:50:06Z",
-    "hash": "4234316eae6702212bce66499320567192c3fa2c37690bd6611b9c50ae22b837",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ETH Price Prediction: Fusaka Upgrades Could See New Highs For Ethereum As Remittix Targets Institutional Investors - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT0VvLTg0SDJUUXhvYWtDVVJuTFFzU0hfNDJyalpmbTlxY3lIVEUzQWZSbmlPRDZpeXB3UndHT041MkZSdEVWMl8yMzFOWU5vT25oMnpIXzQ0dkhXUHQzaEQ3WDcwX2NtOGFsYVpwakg1OHJhTXJKNHN2emJ6Mk5DT0M1NllWUUJoVHJqbGVMbWxicmdrWHByNUdCZkpTLVVtUm9tWlZfclhvY0pXLXl4YTBRcWNiR3NJdHdWc3VmTWlTeHZsbzRTenR4Y3JrcWMwUml3R3FJSTU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:47:03Z",
-    "hash": "1d365a321fcb0f21dfc04fe9f268070ca44efb93a4029879feb05436edb6e597",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "The World’s Most Famous Investor Made An Absolute Killing With BYD - Carscoops",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnJuM1pGWHdvS0ZKc0ctTkFSU0VkQ0RDelN3Nmw3LW1oRmxjamIyMU9YTTNsY3pSY3kyWjNJdVJVQXVXekppWlNoY1FXVHB6aTVVZEdHbG1TeEtsVk1BNkxPMEpVV19ZZmhROUc1eTJISlFoMldBY1lwenVlempLMUk1ZzRvblBHR09kWWd3M1I2UXNVM3NXNW9hOGhwZ2hDRFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:46:12Z",
-    "hash": "376f2abc7ca044c2bbe17e3c1147f69af40dbf378b510ed057f3f1033368ba44",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Is the $10 XRP Price Dream Back in Play? Analyst Explains, Shows Why PDP Will Outperform It - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUtiYW5nUW1UZnNELXdpTTROTUotcnBEQThfeVBOaDJ4emNyLXRkYnJVVFNlMGxnRXA0Q3hBQUhXTFBvS1NzTFVSZ0Q3dkdLeTdOUlY3ajZWR0hhS2o0VDl1UHVHREhyN1VZcW5KY0ctOFVTRXgxSVE4al9fNHlBckJCcC16SldvekZrVzA4Vm5JdXMzM2s4T0hiRGlrZkVrU1p6cHNoSDhmUDV4a0IyNV9NdDRteURqVHJvZlBB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T19:44:56Z",
-    "hash": "c474d9da5a02a83ebc0355eb09af985aa7ab4f18d7325d46afad3eecb0a4445d",
+    "published_at_utc": "2025-09-23T20:34:56Z",
+    "hash": "160cba0682899fdbdf3be8a1e70fae3879327934bd6685a8ccd80fc77232be17",
     "source": "gnews"
   }
 ]
