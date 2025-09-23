@@ -1,92 +1,152 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets, Inc. $HOOD Shares Acquired by U.S. Capital Wealth Advisors LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY1ZwVl9QLUlURC16Z3RPSlo3LWZNb2IyNUNBSWFPYzduVW1PUmx4bTB6ejRrUGhoWUp5Z2hMbnRRaUlSaDgxYWU4MWw2Z0J2N1ktdWMwWGxJaXB5ZkJDLUZfZnNDUVd1TzNESVo0X1NtWTRGQWJ3bk1JWWVPdmZGZVJ6RU9KTUhGZHJocFAzQnhza2x5VUNQNlEwYlZKU1hhbXBNczhaTm1tNmZObFNkbmh6Y0NGNm9PSlV1elY2aWROZC1INXphQndQUXRoU3JtQTZJ?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, XRP, Ethereum Recovering After Selloff. Why Cryptos Are Rising Today. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlpzczkxa2JDemh4anVQUmtxYVhCWFI3U3RCdGhVM3FlRkozQmVIbVp2NU4zVmRSZU9IbXROUFIyVHpHS01TUDRVOFVqQWRicXpfSUVsTkFraEV1ZUlod0EyaXp4NUV5N05xUVJPci1EX1c1R095Z29YVWZBQlJQaGE5cUVPMkRfQ3F2NlJrRmRZVTBWNi00dnZWUzZ4Ym8wbWxuTmlVWGdDNENybV9ZSA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T08:46:27Z",
-    "hash": "62bbc6980e6459470b894320bf707a53829167c967e85893883883024b785063",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Park Avenue Securities LLC Buys New Stake in Novo Nordisk A/S $NVO - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzZmanhPYS0ySHl0OVpMb3A1Ny03TEExOXllZVZMRGQwZ0JnWlRzSGRIUXJMTkplcUlNRmNnY3RxbkRzSFVEblBCQjIyN1EyM3JLWkFRVTdXUTBhR0dCMkRuQkVsaGhuazNmUXV0WmN5NFVyNXg0Y1FfZnExeWhJcC1vcVFOdFNOMkJVTElNVFN1Zl82US1vSGZ2YTVxVzdhV2lGNExWdEV0UG5XT1RsUHAxbHUxRjhQZDdnRVBZUmxlcjA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T08:46:26Z",
-    "hash": "7269c90dde2f619e6fb9070e76bd80339d5277c73f84ce2d44b61b16fea483ee",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Just Dropped $100Bn on OpenAI Deal: What’s the Next 100X Crypto? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFh0MDlNN0EzVDN2N01zbVV0NUxqLXNhNzFtaDhWek5jUElyZnJYb2otMFpkRDVUNVZUak5URnZDX0VfTk43bzhfbTM0ZDNFeUZSaWZxQnpZQWZab2Fpb2FBYi1mUm8yLVVrQXk2M1pUZW1fYXFVNUdaX2hJLXRkdjJMcE9ZVGwyUFNGcExNWFJNb1czSXFNOE9qMzM1SV9jTmoxN1lleGQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T08:46:02Z",
-    "hash": "10eecf95a91b4792cff44d1b8b9ef46fd4e180d7d3cfae24bbae45a6fb3d82e0",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Trending tickers: Nvidia, Better Home & Finance, TUI, Kingfisher and Raspberry Pi - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZmY2dXgteEpJN1lrRkVZNlZzOVRqNmpaaE5LOHNsb0o1MGxYS3Q0SDlGQ0JjS2F2OVdlbzNjdEdmNTRULWpIRHFsczlvdlpoRi11MDBLaGV1X0dPOVU5Yklmejl1QVY5NFg2dHFMRUczaXhFZFk4V2Naal8wUWZ0MUVJN0NjNHBvWnE0dmlmZzVBN283SW1BaVNaN1BoUy1yZWxTNVh4bl9uSkpBd1VSRHRqenNJVndMOEJsNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T08:45:57Z",
-    "hash": "2b8357ce26a42c0a0b42f813595e63c736a17a50351165f952c8c6fd3196563d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price Prediction: Analysts Predict $150K BTC by December. Here’s Why - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZKRm1lOGE0UnQ0VG5UaWNtOWdraWpuZVkzM1pXX0hIcG42M3hGWjFBN3hNNlpqV1IxRmJRcDk5VERJN3ZwQW5mY0FpQ2RrWHl5LUlkd3ZORkdlNnVEMUhjV01vTTBILTFja21wa1ZYZ0dYRWlGanVKOEJQWEFuR3VuRTRRbmo1ZHp6UzVhOFpPMHdjQ2xHaGFnLVZiUkU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T08:45:40Z",
-    "hash": "23950462ca469f79098f9271eb1c49f6226d70e74a735221b0560e6da00f8fe6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Park Avenue Securities LLC Invests $3.81 Million in Pfizer Inc. $PFE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMlVtazJFT1BDSWZjWDhKVElTTW5aUXFPOWkyWkgyc0YyWFNoVW1ZZGtCVFJ3RjhmTTBUWjBpeXpqWWlKeVE2WVlVRzlYUUNMSVByN0FEbkdYZVU5dkhwR1ZhR1gxb3ozQkZBWS1HNVdQYUJHajRaVm9SeW0tSDJsM1g2b2o3QXRpMlg3Y2RESlFzU2VTQW5PYy1OMHNiU2dSdmxrcXV0b01qVENrQkFEVWNseVF6TXVZZUIwYjMxWFFmMTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T08:44:14Z",
-    "hash": "dbeb9d1cbb90cbbb5e6a420810c5bc674248be2a95dafc49dfd17c1f62ea162f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever shares fall 1.30%, hits intraday high of Rs 2,575.30 - Moneycontrol",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMzFGUGJSZjlic0xDWEh0b01QY2wzWFRrVFhtS1JudFJCVHlrUE1VdkItT1VjYzVvSkI5dlg3QkdXVVhzVEMyRk5NTENDYjB4RXJKOW1ILUZFZ3JJZmpmNUtmRXY4V3RnOWxxb2VwYkJiQWxTcGZxZHdBbzdOMDJWSGMzM1lOZVpFM1ZfMVBEaHlkZll1LVNYY3Z4amZZV3RwSjYwQmJKWDAzTVB3Wlotdk93MS1tSl9xR2pDdmROTnM1OGtxSV9WZjRNdjBTRGpldHpmZmh3WTg3aS0xWFlWMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T08:41:32Z",
-    "hash": "3c2ce5ebbe3c46e0453089a89d2b2b55090b22ea57fd5c443099feca1eb104d9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "U.S. Capital Wealth Advisors LLC Acquires 39,215 Shares of Novo Nordisk A/S $NVO - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPakp2ZWZUaWxiQTFFNjJaQ3A0TUp0bjhmY3BUMWVvUmR2VnFYaUZHVVZWanJjOVRfM1E2dFE4Sl9zZzFmeTNvYUNjYWtxb1ZHOV9kNENPMERqX0F2R0k1YW9HSnl2dm9pS1B4elB0YkxBMmRFVTVYVm83RTl3bkl0MnJzUEhncVRxWHNFMmR0RjROMy1tdGgxZUJyM0xGZENkMFZJTE5zZGFNY0Q0c3UyWUVId0dKUmM3NGZUUUlJODJwUmFFb0RvTmZSWUVWMDZUeHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T08:40:16Z",
-    "hash": "5e5c2ddcb923d9ca0e3d0a9dffd930af6636ad01f62348433be3137c89bb44e0",
+    "published_at_utc": "2025-09-23T09:25:00Z",
+    "hash": "bd991d1403d624ccf07538643e0c46e8cf57664d227940679deca1c5a56e5afd",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Vitalik Buterin Backs Coinbase’s Base L2: ‘Doing Things the Right Way’ - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZZW00ZkRqaTMzbkRLSF9MTTcxamZOckQ2MVF2NWdBYWk3bnh5U1NnQkx6ejZEUmFlWmdOTk4wVUdvbEVRLWNrSU95SU5hS1Q2SlBiTWltRzNnb0JfYXJhSlh4SWRya3RXQmM2cXN1eS1oNkQ2MmJPQXFZV3dKQdIBgwFBVV95cUxQTkpVcmVVMjJ4aDFXYnREcGFNTV81c1ViRFhuZTFXNmVhWnd1Y2d6SW9qQVQyNVRULUlHUDdyMUZtMUgxQmxIeUQ5WnF2MFljUGdUaG1Td0g5d3RlSTRNTHlfcmE0a3MwY3F3SWxFWm9SXzhBRkVlNk1GaWJPRTdWMWwxMA?oc=5",
+    "query": "COIN",
+    "title": "9 Top Tokens Fueling the Meme Coin Revolution With the Best Crypto Presale to Buy - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjRBVmNfWlNNZ2d4dDhqOEo2R1gyY1Ric0RxdG95ZWQwVmdnRGhZTGFIblNtVmQwbGRNTzFTVlVOTHBwUUI3VjZYdmdsbVg2YS1xNS1KMTY5X2JBWUtFVG1NaXdZampHVlFrSlpWMVkxcmpiZHY5aUpRQXRmUkhuOEVQNHZKdzRBOVBydGdueEIweWUyRXc1cGwyRjlMcjV4blFiU21YOG1iNFU3Q3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T08:39:25Z",
-    "hash": "197fb5fdeb74f5c6438a58af428a682f406b9724a8f0885ac36ef0d0bb5d2b2a",
+    "published_at_utc": "2025-09-23T09:15:40Z",
+    "hash": "771ffa03a13e06d651dc76cdd48599deaaf2abb45218b6d5b00589468d5ab827",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "ETHZilla’s $350M Ethereum Bet, Smart DeFi Move Or Risky Pivot? - blockchainmagazine.net",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vU1Q5dGROUVh3N1BBeFlSYVNjUjMyX1h0UkVMYnljVm5mTUFicE9taDBDZXUyandqSkVmclNIVDdORk9sYjByTzVpMkRUc1JxcW9EZDZBZGRPNEd2bXN5YzNRUW1DY1FPTXk1Y1pNUGl2b0ZfRHpmVmxB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:15:37Z",
+    "hash": "097661a61f05feba77df44c8011cec3ea3b0f3826f2cb0a713ecba65d05c0517",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Künstliche Intelligenz: Siemens startet Allianz für industrielle KI",
+    "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-siemens-startet-allianz-fuer-industrielle-ki/100157388.html",
+    "summary": "Bei der allgemeinen künstlichen Intelligenz mag Europa abgehängt sein, bei KI für die Industrie stehen die Chancen besser. Siemens verbündet sich nun mit mehreren Maschinenbauern.",
+    "published_at_utc": "2025-09-23T09:13:50Z",
+    "hash": "282e11a08395d89ee8f089227e2821f27e0d0ce59dfbf9c97990a1b2f9f7d9f3",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "TROLL Price Pumps 25% Pre-Coinbase Listing — Breakout to $500M Market Cap Ahead - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY0ZhNjNoUWdaZVA2WW5TZUlUaE56YzBZY2ZCZlpEb04zMXB4R2xOcUw5QjMzNUhPVW83cHlDUU1vX3BLc3lWMVh0OUlLc2c1OWVueHhUNkJ1VFlHb1NHaFUwdG9DTDk1amlhb3RuMVg5SW1CTktsQ1NTS1dOdTA3c3hYVUtKSVVuVUhhd1QzRE9DdTRiOTRWVDFqNlh6RGhwS0JMUmhnYlhTeFVaYUtYVENndW9Qbzg2cGluR3FhTTVWU1N2YmtBeHZXZEFyenN1VmJ5cnZ6ZUNFSlpnUDFmUHBKVERMY0VM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:12:02Z",
+    "hash": "372bce948db5557bb8af76ee638df63a69558d04a8fbed4e37c53f739d1e40ed",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "U.S. Menopause Market Size, Share & Trends Analysis Report 2025-2033: Competitive Analysis of Pfizer, Novo Nordisk, TherapeuticsMD, Bayer, AbbVie, Pure Encapsulations, PADAGIS - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1ZESy10TV9ZR3phRG82ZXdCMmxVYXp5U25lRDVxcEQwNUo3WUx4aHBKcjZsanlsZWU4M3QtaXZldnczRThVR3RjUm9HbWZ3Y21jdmxBdzNpUFR0d3NzR25HUXRZWnVENFRKb05kSmRJelBaR1hkcFVVUDh5ei1GbXFGRzk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:12:00Z",
+    "hash": "a25a95e93966ee9f56282b20fc4bcf19d0214241add6b8eb526ebd61b2c72896",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Golden State Equity Partners Sells 1,215 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdDJvMjgtcTNXNHo5R25qM2d1WG41aWVtWW1QOWI5a3E5Y1lWWlNhWGlUWnF2SloyeHZ2Y3E0YlVJZzZtM1FoZHNSbGxCMkxfc1hxTlR3aks3czRRNVU5Znd3aks1aFN6ZU9TQk80M3V4NVljY2lTbjlBRHBXM2s2RTZEbHZ3YTRDOVF5VkZKd3doTktsV0YxejJIaUljaWsxdWkxS0FQTkpEcExYVlQxdHlvLTVSemRlU3dqZTZTNjBtOVcyZnQ1YUd3NGRhWlg1a2NHTGZvekI2WmJCam5B?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:09:52Z",
+    "hash": "81e1e1bca852e0c7c6cde00b1e78548093688d52c46ab05327482063adfdc039",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia and OpenAI's $100-billion deal sparks global chip stock rally - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVNZVG9kaGtDN0RzWDdzeWo2LUZwVEpkZTg4ZmFSRWd4b2pqd1lJUExlRlFZbDM4a3RjdmZmSTB4RDhFZm9FNTRXdTI4UDNRd3prZnM2VnJmZU5kVXYzQm52SEYwMS0tTzVIX29QOVViV0tVbjllZjNtanZaQ3VWOW5HY2ZlMXR6ZmJ0ci1mNNIBlAFBVV95cUxOZEE2MUxIT1BFamN4VEZjNWtWWjM3TnVtX05OdGxWQ2lSSkVHZFlqYzdfR1hFYXVISmYyWlFiTElLSmY0MjhFV0dsRGpNcG0wWTlDREp1SHB4Xzh1SXJ0RlllaGowcmhjbE1QeFoyYk1Gc1IzUkFFWEdIOFdZM1lwWkdpQjRpaFpMTnRyNklCNnJWMkdM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:09:16Z",
+    "hash": "e91f209dd30f5215ccb48f30c23364d27ad16c0bff49f566332a3d29117ecb9b",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSM Stock Rises Amid 3nm Process Price Surge and Strong Client B - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3ZBLUxTTU03NlpJQlJrdGk5QmQwZm5zTHNEVXoweDBBS1JNNVkyeWV0V0s3MThPTW9uSkVlQTJWNEVWaUgxajIzMmJ5akw5MnJIS0pKeDlMNEVvY3NlM3pkMUdwVnU5dDREbGkxa2RPb0JpVmRfRi0ydVpqajVUdnFIY2R4eXlPOGZRWWZDZk1OMXFpWkVjbWVJVGpiaHJFM1VXX2VoZkJpZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:08:53Z",
+    "hash": "0086202806797b1860998cff9a696e520c4663a445314728b3a9c262c1f8658e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Behind OpenAI and Nvidia’s Landmark 10GW AI Data Centre Deal - Data Centre Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEJVVjlPbjRwdW13WHV2ejlpVy05ZzdYUGF5c3F3blVfdXFfRHFNVFVTcG02X0xXQi1NeUYzVXJiaWhNckdrTkprTWJrV0xkSXhkZjc5X0hwb0hMbDJuVjJLeWdwdmFOcGtqWmIyVmpDNjgtamZNTklkSzdKdU1oZHBtOGJhcF9pLTYyN0RIdmRnbUxhbTF2MkhTZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:08:34Z",
+    "hash": "c1b062ac54a822126e6a8fa5793e5e146e6f29e8e7fd31cfe2052313dc492afa",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "The ‘Sleep Well’ Investment: Why BullZilla Traders Trust XRP Tundra’s Presale-To-Launch Strategy - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbENUUTh6dmJrYmlPLUxoOG8waEFZX1UxT01yMkhWOUtZQmJSWFJkdFliQlBkMk1IVExMeXVpZUtxWEdndGZjekdUaFB1cjhPUU80ZFg5TWZUVzdTd1Q1MXlJdWl2MFA1cW9EcVRMRmxXb3VjS3pqRlRLeVB2dUtpNkNNdV8zSDNPVFIzN1p2eThjOUNpd0o2ZFRTTmdnTU5SYU9xNFBOcHQ1MjNQS3drQk1zZTB6TXRKaGdyTHRzNFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:04:00Z",
+    "hash": "a6c88b85d60016d4c95f9a4a0341b1dd3fbaaa90f5153ca09fc10c01fc2597f2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google’s plan to appease ad tech—share data and open auctions - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVlOYm1TSmlDQ01qdHJmejRKOS0wWGNIYU1FNGVIbnVTbi1Ob0hHUmdyWFVkVG5uYW9kWVBmTWdSaHI2X1RUbGFqaHJwdlA1eG13NHY3YjI1LTRhXzlnTW9BZmFqb3dNRnFnR3AwOE1hZ3l6ZG1DeFowaXFGa1VtVDliUkpMdGhMTEZhSXkzMHZqYTJ6NEtXQThrUkU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:01:24Z",
+    "hash": "33ebace4f573d2dcc6cf2305fd089c64395fe0413a9b3c1f7a99c22f6e6b555c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Whales Are Betting Big On Trending Altcoin After Analysts Tip It As The Next Big Crypto - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcFh0X1MxeWNHckl0TEVqUFFtWkF6NGc0bDR0R2F0SjBZUjc0aTk2UGlNcVpBRDE0a0RLR2Ffbjh4NVVlZlM3WEZhUXU5cHJ1UFdKZTBFdzlRWVpucUFrTlVzM0RwTU02X0ZKbW05SDJLcWo3eWhjS2FBRUxQa0lPVlFQYWxCNzU4OF9CT2RkT2tCWDZIN0lSclpqbEVqWjlWdGpicGR6NWZjeGg0eldDVHdmZlZPX0wzaEJGRmFXUmMwT1lPY2Q3YmFTbUw4dFV0NTY5cnVldw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:00:08Z",
+    "hash": "9122270bb5d12ff25d9de7a2e0b7d06a64fe585465230f2e43f3ae40156d6d2c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "This Top AI Stock Has Clobbered Nvidia Stock Over 1 Year, 3 Years, and 5 Years (It's Also Beaten Palantir in Every Period) - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNME5TUFV1VEdMRmh5UjcwaC15R1RRWmpfV21laC13NEo2SXRSOXlfSkNsVlFJWThSRFN1NjF1RU5paWlVMkNBQUQ0VE9ma19Bb0tIX1lLbDlLcFkydDZXUVQzMmtLR0xBTVk5QjFZRjd4Q2FZd011d3pyc1k3LUxOWUxjWTZtQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:00:00Z",
+    "hash": "76f7a5360f461b2af8ffa7aaef1be740cb1ad59f20c44bc7b2a6fe8097c49142",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "This Top AI Stock Has Clobbered Nvidia Stock Over 1 Year, 3 Years, and 5 Years (It's Also Beaten Palantir in Every Period) - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pRTZIeXpId3ZSbkZWRS1zdE00eldsbWc3NkpBTUY1Z09sT3gxQlladjRtLVVOOEhhZDlTMnFzSnQ1V2I5cjJiajhCWDBVS3dIRm5WTEhjMkpsQ1BFbl9valJRNHZQTUtzX29ScFNzT3ltTXgzczdESFpENHFmUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T09:00:00Z",
+    "hash": "eb0a94e0ef85c6b375e600771a7b9969c95e2dd87452845adcd5197b6af6c3f7",
     "source": "gnews"
   }
 ]
