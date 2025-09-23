@@ -1,112 +1,72 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "CleanSpark secures $100M credit line from Coinbase Prime - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvNTRmWWMyQkxKTU1wZ3ZaeFBoT1VyMlB5TUJUV0Z2NDFjTzkyMmlEcElFdFNZUmRPT2h2czVqMHRQYkZXcGYzbllCV3dyRFdNckFPRHRZVmFVSGZKTGtEQl9mNmFaQ1FUOVdYbXJ2RjZSS1BD?oc=5",
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Metsera Stock Surges 59% Pre-Market After Pfizer Confirms Acquisition – Here Are The Details - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONF9BVXlldXI4b3NSVndERTc0UlFRLVBwX3phenh2U3h0ZWVGbUlaaVNtMlVvTkpTM0k3SXA0X25lTnBqakhDTXFCQThOOFg5RWlTR3hHUHFwb1hFcmFVLVRhbUgtSWlmQ015WHpYTkRaM0NVTVc1SzQzSVp4NTlCRmFDbmNwbTZtemJ0MXhiYjcwcDRiQjdxQmVURW55R1d3d0Z0dEU2b3dYTzRMc09nSDd5UFQ4Rm55dU83WURFYjFkak96V29wdg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T07:20:00Z",
-    "hash": "31ba55a19030d23c6c698325997a02a78e545f74d2ed2e4a158a367ec8f8ca81",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Unveils Institutional-Focused DeFi Upgrades on XRPL With Lending and Compliance Tools - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRldfUVhiYkFpWm5ES1hTZDJIRHJxZGhtUC1JdEh2eHhGUG0xd01XQTFXS0R1SmxLSWRUTGxpWGJXVE8ySGRkQUF0SEF6bnlxZ2EyMDVsaURicE1lS2dEYzBIX1d3U2lPdkk0QTZISWZmZDJ3ZDRTcTFDdHRQamI2eEhPZldCUnVXSFVZRnhEWVROejV4Qlp4T05nSmVPRGxERkZQbFBOdUlNVHR2UFlnbFBwSXNxd0lpc3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T07:11:10Z",
-    "hash": "cff05fda20ae31da1035b0acac721dc2265bea407dd369cff1b6a0c2cc644b62",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "Rockland Trust Co. Has $9.92 Million Holdings in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUEwSTVnV0ZSdEZTLUpBZFJ1b2lIYVIyVnBmdm14S3JHa0w3dWNEODZMYWZiNlY1Z24wZGM3ODU0bkJiRWRadUZ0YWdudlM5ZGktZUlYbE95bGk2bjRUSmZ3ZHA1TVQySEZ6OUlTRmNVa1BnbmJOanFoRTJ4blM2eTdmNnFBMV9hal9aMGxEOVh5ZmRkY1FXNllvN1EwWXFGaGZoY0dwSGVqeGxQdnI5ejNkLWpERTdJb3Mw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T07:03:15Z",
-    "hash": "4071e9dc4814fbd23c22bd630032bc4909574ed441516fe5f03b2faf95adb6be",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Where will the BP share price go next? Let’s ask the experts - Fool UK",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXNlYU1vcVdIdGhLVVExTS1zNHhFMmxDOGNobTh3NW9FcF9NdGl6X2RydFQ0U1NOYTQ2TVc0M0IzU2l3Z3BvelNiczRPUzhrYUZmN0lMZVViM2s4WkVJSEVDSHYwMVJUbFZXdDRSLTFtMDJWcnpVb2pYUWhyLW9MR2F3QUY5emhqc0xfdVhTVHdrdUxYV1hSVw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T07:00:00Z",
-    "hash": "511c861be16d77d291e3e957e5fea62a31b1e348a6b320786d361a7d3280f8d0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Clare Market Investments LLC Has $2.40 Million Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ2JBZ2p6bDhhU0Y5N2hUTUE5cmd1YmsxY1AxRW1IRTVHeUJIX0sxdXFVd3Jzd3BINzJKSFc0VjNMT2ZXLTYwalVudDktN2hSNGZCOTdlQmtRZEZ6MFMycjNDbG4wbFVSRThnakczLVlsZDdsOGJlbUU1YTdFajlVTzVaeWwtR3hkQlhYSTMzUGplZVVsRW43eFlqUXdDZG1vaXZua0k0TDZOT21ES1FMWTN2bnQ2bTBsVG5Rb1g5MVdOVjk1bDRUOFl2ay1JUHVfS3lVcnJkMmw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T06:59:17Z",
-    "hash": "3a2524bc5c0a0013b49f87507572ca5c908b9a12fe81018a922ed93bd09c93eb",
+    "published_at_utc": "2025-09-23T07:39:36Z",
+    "hash": "aba67ae3ed0100827f654aa22b67b41a1083be7f0ad7e0c61d69f3dbca76a60c",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVDA",
-    "title": "NVIDIA Corporation (NVDA) Stock: Soars on $100 Billion AI Deal with OpenAI - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnV3c0M4b09NWVROTURrMTlmdWJUMmsxTDVKMDdtUmJISThsc1prUm9yajVER0VzckNLVmZ1a1l1alZKbmJVMmxReVRyNVpyXzQtZ0VveERaVVRlYTY3VFpXUUd2R3h1UUc5RTgyUnJPY0lsNi1XSGFUdS1Kd2pfQ3dPR1lqWnJIWDhhbkFzeWxERVc4Ukw0SDJqTQ?oc=5",
+    "title": "Thrive Wealth Management LLC Increases Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWk1palZVMU1yOTYyYTZ6UUhtaGFnOUlqbUFwT19UR2hMak14TEdLMW54VTdTUU9CWVVZWW1ka0xBQm82OXZYTWNFU0pCTi1vNzJ4SUN6cXY0TGpNNTg0aXFsYVY2eDlTWjNfX3FJUzlSYW9vZk9lOWhhb2tubmtjNTY3THBMVHZJWDFXREFOd09wT0Nqb21lbmhHanZVRlNMZEFkVlpYZ0VmcVMwRkFEdzlqT09MRGU4SFNKZ3VnTUFUVTY0ZkplbVlINFRsbl9XM1ZtM2NpNkM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T06:53:19Z",
-    "hash": "462dd4b57289047bfd28597824aa8d39a9b06984af8c730472052a4c8ef2edcc",
+    "published_at_utc": "2025-09-23T07:34:21Z",
+    "hash": "dbab277ad39ffd303e5852b5ce72d763e15f5baef5fa52f98cc038c3c71c852b",
     "source": "gnews"
   },
   {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "13,408 Shares in Unilever PLC $UL Purchased by Peoples Bank KS - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdmsxTk9HY3BJS3E4ZXE5Z2NBU21Ca1JXN3l2QWluUjIzVERrbl9LSjJQc3MyUTNlMkxNVWNKNlFYdjA4dWphMEVvZVVTZHh2bW1tOXFkY211Mk5nQi1vX2pjb2QwZTNabEgzWGZJMWJsc2FuQTRWT1phUUEwYzZ4VkNKTW5rc05CX0JJOHlQZmUzNEl3dldOTmM3dGx5Q2pYSGtfQVhVYXpGRHpuWG1IQm92NzFmN1hJc1J2djFR?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Gateway Investment Advisers LLC Cuts Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQmpkSGwwSHVZa3djdjVZX1Atd2dab1dRVExjTldGNXFpZ0hsb1FGWDVKYV9KWi1CX00tckxkYVJRVUtfUGE2SUd5SVZTVUp5QlFEXzBOeGtEWjY5REFlV0RDdndoZVFaYm40TW91WUFVTl9qWnRmTXV2SldkWS1wRzVWLWV5ckFoN3BDeElTVFd3NXFGejZZaXdXVDMteXBBb0J5bjdpUFVWeUZyZ21qTnlzUWU3UmVGcE1zaWFSSkJBMFQ3a3dCdU5nQXdGUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T06:53:15Z",
-    "hash": "182bc9f97d976c488156c8188faeaef2a3d98304be7f943f0a8fbd05dcc9fff5",
+    "published_at_utc": "2025-09-23T07:34:20Z",
+    "hash": "e92ab083af5789ba272f006f5bf6f7bd0c1717eb5bdd7e32893cb95062de0cce",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Corporation $NVDA Shares Sold by Blodgett Wealth Advisors LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2l5VFk5YXZfOTloZmVQZkp3ZFJ2S1o1d0VpdXFRZFM1dll1ZHBQS1F4WHUxNkpNN2o0bVBkR3E4Q3FKaXhBc3NZNDR0SGNwTEdzcDNXWFY0OFBFWkRnU1paQWhfdUZlX053b0xXdlhWZFpvUzlpMm9mNUpacE1VdlpJSTYzbC1saS1xMTVTUUwwTHU3bElkZEJESm1KcHlkVS1sQVdVMGo2N1oyQmFtZDlWVmtJUFlJUFpTX0FxZEsyS0luVFJv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T07:34:20Z",
+    "hash": "9e08e0deaef4c3dbc7221796978a0a1659039576b07a5fd8349ed6a6e51a03c8",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Fermata Advisors LLC Sells 10,608 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYWxrTDBDZkpncGVNeDZqcWN6OE91U2dkR3lDd1JvSjd0clZ1YW9ya0p4dFB6M0hQNVBGdGhsakUwTGpYMWt0WVp6N2RfSnJtT3VLdXoxQWJvcUtMMTdrN2EyUG93Mlp6U2M4QXJKaGYyV1l6Ul9XVDVROHZOdVp5QVV0eUJhV2R6d1Y4ZG1MWmg2LXNYS0NUaDA2N0VocXBRUVVxem5oTnJ6LWtNU3g3Q1FyZGNhdEdBaDhKZWNLLURGWEUyYkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T07:34:20Z",
+    "hash": "4869118ba562e1b7e9555c6181901d10323df85fd903115f5b5653fab3b5260b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Dogecoin (DOGE) Price: Falls 10% After First ETF Launch on Thursday. What’s Next? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHV3OE5KeW5DZmwtTnlOMU1ndDFHT0dhMTlPTWhuSHRGdW5aUklheC1tTHdBN1NiMmp6YXhjMFVvdlpHeTZndERuSlNrSGJvM1duYVBpNGFOSHgwOWtDU0FSeFNUdDlSbFpfRlhPX0s4XzVjSHVBN1JSNGd5ZmRuWmtRM2UyRURza1ZxQXJaSnVRdUxCdWNLY2cyZ0hiNTVh?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-23T07:32:24Z",
+    "hash": "79bb76db42a968d2996c018c10327740b3be79ed1316b94a9e3fb5e2f43f5c40",
     "source": "gnews"
   },
   {
     "asset": "BYD",
     "query": "BYD",
-    "title": "Berkshire Hathaway Completes Exit from BYD, Concluding Highly Profitable 17-Year Bet - kaohoon international",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fSHNRak40VWpsMDBrSm9xR3NGZm1fUUJtU0Vub2pCaE5SSGJXTDh3bTZOc3ZqalRBb2U2cDZ3MS16bzQwNXZybVdEVzJnNldLTlBRMmlid0VhU054RnpvbA?oc=5",
+    "title": "Tesla’s 3-Row Model Y L Powers China Surge, But BYD And Xiaomi Still Lead The EV Race - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUWRqT2piUjNwOFYxNnF0N1BxdWVQY09xWHV0a0Y4ZW9NY3pXTDNDNmdBUVFCWEo3bF9nUElSdUg5V0lnWGRqejVBSUpocjloa0JISEhGdDFHaVRmbXE0QkFORmpidjZVNWtKZ0tOZ3cwTjYwWm4xeEk3b2xsdnJrdkJna3hwaDlVSjV5blJOZEFacTZNMnhpWDJSSEVmcmtBTWdHREtBUnZ5d0VscFh2VEpYbU9OSmxNaDFZOFh3Z202akR3VFJ5WkItNm9XRFFhMDhnclBuYTNWc2xERjNaVkRB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-23T06:51:27Z",
-    "hash": "1661b54b3bc22cfe828d6f61eadd5e784f9b139b820a0347ce1e4485cc4593b1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Strive’s $675M Bitcoin Bet, Ramaswamy Pushes Holdings Past 10,900 BTC - blockchainmagazine.net",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wc2d0Nm1QYkx2LXBzQTE4VS1pM1d6WklJTXFQSllzdzF0YUhUUzd4WWhIWm9SVVVMT3lIUHNPR2UzVFU3QTRjZWtlSldhU1FBQUZGMmpTM3VMRHI0OVh2ZzFCTDExWTBKSDR6NjFLbENGRXJHX284NVk2cWRndw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T06:48:49Z",
-    "hash": "c222d38a3eb1119651c02211746a0ca4a9c90daa52a445a35348015c6ae2a22e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Price: BlackRock Invests $512M in ETF During Market Selloff - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3JwZ0RkMk5DSG1iNUZxcXBPejZsOEFTbS1ReHJlcUJXS3dDZjlLY1BGeDROR0diTl9CMG81X2ttOHcyZEt4X1RGVkVHa2pTN25FbkFUQXlwNXdJZGV6UjBEd2RHQkV4VWRQam9wU3JaSy0tWGd2c09KTi1odTVtYTNqNWhpUk9pNTY2LS1CdUc2MFA1TFpUaVZUVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T06:46:03Z",
-    "hash": "3d455fa691648156072029635ee285e5d1e1d60bc8d8f3907fde7eff243fc54b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "FleetMining Launches Bitcoin (BTC) Cloud Mining Contracts to Help XRP Investors Capture the Uptrend - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6aGNPOWtKTnlSRGVfWVUxTDBMbTg4R3dOemswbF9fdXU1MVRCbnNXYmVBT0liSm5FRm9SeXNZTFIwbHd5NjlJSEhFdE9kcDhBcXhjUGVsdUdRT25OOHI2dEt3QzNVUURlZWE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-23T06:44:00Z",
-    "hash": "a430354ea741f769b7d787965686ffbff65421774f6be43e03d0e2996787c128",
+    "published_at_utc": "2025-09-23T07:29:32Z",
+    "hash": "26e9b92cb2ca00bba580ac69039581431724818b7e4ababc670db87f3a6ae3d5",
     "source": "gnews"
   }
 ]
