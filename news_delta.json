@@ -1,162 +1,22 @@
 [
   {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Group Incorporated $UNH Stock Holdings Cut by Gries Financial LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd09pTHQ2SlhfS0YzWUJHWFJsSld3VmhSVkJiakY3b1YzSmZZSEc0VVRiemZtbnRMdVJKbzAwNi1hR25UV0E1WHlvVlg2Z1NFamMyaDdZTkwtMWNZZ0RCMFVGYmFXNDhGaFNabzA5TnhIZ3lCYTlQSWhkb1dQckwxMG5WNV80LUZPX1h3Ungwbi1TQ2pRQWNYMFpxcWt6SWVkdTFQTDRXU0g0cmE2ZHk4OWJ4M3RxNXMxZWRDVDVPZGxnT1JuR0hLUWdmTl9US3JZYll1ag?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:28:13Z",
-    "hash": "9bd0beb7aebfdd8793ccb5ceb1f36b143e6ad514bcb05f0669a38a7fb47be356",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "2,805 Shares in Robinhood Markets, Inc. $HOOD Bought by Gries Financial LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMENlNE56TUpQOEtURzBkWXMtc21UTmFRZ0xJcEUxUE1mTFdBcElWZ0FGT3k1VEVrQkg3Rk90c1JmMGZ5ZUc0b3dCaE5ud1RROGZCRmdaSmYwY2RMWlpqMVdEM0lCajVlUGxJQ2VucGF4OHdqSGk2SWhWYkFSd3FySF9XTEdLRGpFMk9TaFFJZmFwRkwyU1Z3NWZrZFA3Nm1oeklONXlOcHJ6ejctZGVIVmZ1NlFhOWUxN3lRQkJWR0s2X3RzRl8zd3BuQWk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:28:13Z",
-    "hash": "477d36999f1bd8dbc7ad9c41233ed3f535f089cb336cdf1daacbc00d5b8dffb8",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Up; Nvidia, Tesla, Adobe, More Movers; Bitcoin Rises - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tUkl5MkRxM3RfbS1vREtTNTFvSVBVTERRbkhxd1RQNWVKR1pHZ1JfbnZkR0dkYmlJZTFOV3l6eXdFX1RMXzc2ajhIUW9CUFVzeGhtTW12QzZxUG4wZTFiYXdtNHY3QXVGaHNBcFdob1NqZTc5eGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:11:00Z",
-    "hash": "6a45c62284da08dec549972c4dda43e8ecbaacd646d67b2bba16374fbe765e4d",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Remittix Surges Past SOL, ADA, and XRP: The Best Crypto To Buy Now? - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnVqeEswaUlWZ1p3NFgzd2F6bkZ6ajMtR2x3Mk9sbVluU0lFZWNaM2VVQkpFYjdibUhNTXA5dmk4ZEhTZEtEb0twSkhoVUxaNXVYVUNzRG5icFlFLWJpbFZQQ3F0cEpwV2F4VnBLSk1QTnFjT094ZzdjaDUyRzNQRU9rbHgxTFJMSFowVVRPalNPZw?oc=5",
+    "title": "Is This New Altcoin Player a Threat to XRP? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFAyQkZYcEFMeHFFbUVLTDAyaDBiVHVNSXI5eC01em90bDZ4SzZUMkhTLWFhcUJPV1NvcFVuLWhtMFlXVDRENDgwVlpVWTYtVEtnWFUtNDZkb2VYczNJSWJPZmJfMzBDNEFpMUFsMzU5U0FCUHZXcFhBZVRrUnNycE9QamRqZXJZR2puZU1B?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-24T08:09:00Z",
-    "hash": "9389b0ad2fe3a0cf74f18c23b90763d433fc055dd91516dea6f33dfde0a0fbb9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "U.S. Capital Wealth Advisors LLC Grows Stock Position in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnQyclpfOEtGV0JTQ1hhQlhvTDNwVFc0a200cW13YXp2RGZMVGtYbVlsel9GMzdfOC1OelZuSVN1SlhMYkg1NEdaS1BuR1pSVTkwOFQ2ZEZYcWNaSkplTm91STdYbU5aSEhMTzJPYkVpRzRUMTJXdmZmcHFXZzlob1lQeENYdFliQVROem1aVXAtZVlvUDlCUUpBcUl1RHkyd2R0X2JmMnJiRVR6QlYyLXluVnpKaDBUVWQ0M3lzQ2w1b2lBRDY2c0tfQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:07:30Z",
-    "hash": "aa7161b8bd22015e7a786c7fcd0689be11734af3dcec79d00f3a7bc60113c39c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Price: Bulls Fight to Hold Key Support as Bears Eye Drop to $3,600 - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXRFaFM1SUFLM09DTk5YNWNGUVE3M0ZET04zZGhxV296dHNIVUtDUGluWkc2ZG9EbG56OFZqWmVaTUhTV3pLMlBWUEF1cXJyQ2pxemIzbmFaOWx2dm9NYWpWTTlHeFNQR1Rwb18xRlhjMl9nTVVLQ0prSzE1WjJjWUtQdDVLZmZJZGQ2SmNINVlHaWFVanZOVVFCNlZfTmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:06:52Z",
-    "hash": "b495fbcf5646a3883f624da4a962ae16ecf221e63dc78519d7d1f9e59fa1f4f5",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Wall Street Bullish on Taiwan Semiconductor Manufacturing (TSM) - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbm5BREU3bm0xeUs0SDFVZ3N0d092VkFaMzM0SXc1NTZRSTJXT0x6aUEzMnVzRTZuVy16YmE4RVlTTS0yMER5WGRmNzBuMnN4bk5EalRXNFJ2NWpSSlJleGUyQUxRYjhwUlVzVXU3bmVHeDRHVzBqU2F1Z20zUFgzTXREMnBTNkYxZGJscUswNjNkSUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:06:09Z",
-    "hash": "ca591e01f23561a6f03f8b377bd5b43a178dcf3e55a0cc023b8b6988e83a5b69",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Park Avenue Securities LLC Has $3.40 Million Holdings in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQkFrdWZ5YTAtZUtaRWgtWlR6dzQzTHpkRTJVakdTaXZOYlk2LXpRS0FWeThGTHVDTmVwM0FKbmlQV2E4YkpPWllTcFlkUXVYajdJZTdUQ0RHYnE0dWxrb0dTYlBORzdzTWxScDJOejJfMGV5MkhNVk9ScEhKYkhudDQ0V0JfSWRBMFdscnBRRFRDS3h1ejRfN203czV6ZkxsY25XdFNKZTF3YVYyRUNRbnlMRHN6R29felNJbFdteko0cC1fMUQxMWtBSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:05:26Z",
-    "hash": "a9e336f263e6a3410b3ba844f10adffad8bc4ecf38e74dd491e43e50bfb7dd1a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Where Will Pfizer Be in 5 Years? - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOU5FejZFX21hanEwWFR4a0Y2aWtxeWJFTC13X3dnY1U1d2k0UmR3TEtwcHI5aUE1VWJldEV1YlQ4aUIza2o2N3BZUGxDeHQ0Z1gybnc0eGRNanlpMHpPdExfdGE4ZkNBSEk0dkdiSXVocGJ0WlYwblNLakg4bnc4c29VeTRfN1NnY1F3aUFVeUpMT2VvMnk0c3lUWVJDQVR2UVQta2VUcW5mZjhfd1VzUVQ2X2Z4Z0VxUkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:03:38Z",
-    "hash": "4d48512ea98463b311fe8201f59ea29eb2ac9b730f1e4a484a7d259d17bca7fe",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Jim Cramer Strikes Again: Says Bitcoin and Gold Are Topping—Time to Buy Even More BTC USD? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjFiRjZ2N2NvMnZMaTZzQWtPSUZHdGh2enRpNVlMbENBZFAza1NOYTFQWllMd3h4TVpnRDVBSDRMTGdLZ0lFbkZuZDRtOGg0a2RGeVlJNXIwTm9zcDRoNTJvbWhoTWNkU1MwQnBTTnN5N09aVWVIX0dUZmhGT2ZsakYtdG4xOXVJbXRoc3otdGd3bWRsQjJKZ1pRSnU1QXVLbzNFUy1xajI5cExfQnZwUE5aN2xCV1dHeksyRGN1eWVQYjhZb1hHSg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T08:00:07Z",
-    "hash": "d66b49edb0db72aff98df3f7a8d6bd50baa429a9ccd720f7a20739697bcafa19",
+    "published_at_utc": "2025-09-24T08:45:00Z",
+    "hash": "3292497033c467ab61990d4821eebf8d44886f709a2cf4f3ae830d720f4eba46",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Meet the Warren Buffett Stock That's Crushing Nvidia in 2025 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkxzakNmakwtU2JLSHRaMDlMQVlHMWJTVHZGcnNhZUVQTng1NHFUV29Nb3FDZDRUcnI1dnA3T3hwTmNSUU5YVU9IX3R3LUZiRXBpekRfNkRwaGZxNWdYY0wwLUJWTWw1dUhCaXdoVThxWm1fWFAyS3NrdS1ROWlqa2FhdmlxU2pia1hGVzU3MA?oc=5",
+    "title": "Why ASML, Applied Materials, and Lam Research Are Soaring on Nvidia's Deal With Intel - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1h0OVJxWTJYanh0NWJ6UlQxRmxseVpreWl5dlM0cVBiaDJsdk9hQmstSHFocXowYUczTm0ydWVuRkZLWUhkbFZQOTMyN0l0RlNnQXEzdVNGVmVZaWswbDhmWlVybUxUUXpPRGJaLVhKOGRtcEZfOVdrS0hUTXNGM0NKdjcwb3Rybm44ZEVnQ3NfQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-24T08:00:00Z",
-    "hash": "83924a6cc381c21fe790aed8d37dc2eed0376aff89f6dd824e6a878e3b40f71d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Primer: Robinhood Markets (HOOD US) - Sep 2025 - Smartkarma",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUm5McGtGZjZhaHFZMlhUSllYUUsybV9yVWtMam85VXB4dHM0UFZBNlEtMDJVT19NUGdhdDlpVUs5dERnRzZNbU1sV2I4eFFGc3pBQlc2b3dOdkUtVXMweTktaXRCMkRWRHI2X1FtdFZUbjhsSGFEY3R0dHhJUllSQVljUEZ2LVh2ekc4enRmS0VOemlLcjRoUjFYWFFPWTl4Z0hiTGM5VGhrUlha?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T07:58:00Z",
-    "hash": "b72b5d4e00e3e34a2a5f1f7109d1b1e870d6866f8c5e7fbfb216860ff5e290ad",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price Prediction: Technical Breakdown Signals Potential Drop to $107K - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFBMdl94Rmp0VUFyeEMxNlZJSlZDRFFPN3NXWlRwVXduSzFaREFydkR0UGpVaXRiejlqcXljYXl3Z3FPVUNLZE0weTJpeTBTYjJKSGIyRkUwVUhBdDVKRXdWWFhqQzhEQ29vbFF5MVFzQk9ULU5XVkpJamxsSUFIcVZwRHgyYzREbmx5TVZxcFJhRU9RMk9ub2JpaFdPaGwzX1JF?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T07:55:29Z",
-    "hash": "1c8603742450ceb380bea9ce7dcdfb2737ccbe3fd2b05029cf7d364d2f90a01c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Where Will Pfizer Be in 5 Years? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yUnh4d2dUdXhNaU9WMjdSSDB5dENCRDNBWnNuTy04aWwtLV9wUlEtUFMzd1k3S3JPU2pWWFFpMUZCdnhYTU9FR2I0ZHR3QXFKc3V5b3g0WTRtWTJ2bUlyd25YbFNKenJuY3JaQmZFZmlldlF5MUx2MHRLUDNmZ1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T07:55:00Z",
-    "hash": "69d20eff3971acefb9699b426f9a50f03a050bccd758a7c57a706c133b0d75ba",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Inside OpenAI and Nvidia’s US$100bn AI Infrastructure Deal - AI Magazine",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2l5Tnk0MnMtU0IwZkNrYVdqek5weXo3aHZaNHJBLWE1S0dTN1V0NldNTHV4Q0ZoQUxIcGZmUDdqLVFJeVNGRkEtTmlINkpvOEk4aHJOMHVmLWNIenVBZTBsNUlDVUF5M0VjcTlFa2RWX3I3bHhLc1ZrZkU4V3IzOUhLRl9jN0VsYUowMkxSbE8?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T07:54:55Z",
-    "hash": "91de660dc84f75cada789ae4d22c69ee28abe83fa736bc40f91f8ace868f9fa5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Sensex Dips 0.28% Amid 335 Declines; Hindustan Unilever Shines with 2.10% Gain - Markets Mojo",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONWNKWGZxczMzbFhSdkx2ZXRSMTRWR2xvelZBYi1qOVZSYVMtOV9nX1E4cWRLSmZWTFBaNW04QzhWUkdUX1dvS3RkYzZTMEhNVl9QOG9KS0xmd0lHZlB3NDFmcHUyNlNOazQ5M1p1ZzJpclBVTFBRUkZLbDlWd3lCcHVJeDgwbEJ6ZTBjNHBESmxlcUIyd2k3a2RGcTEwNTl5S25EMHAtU1ljTGZIRElKV2dGTGRNQVJ6S3VuNVBrbEFuLVFJZDdpbG85U28?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T07:52:58Z",
-    "hash": "f927932e7b7fdcc19db5d1f9dba15b0a7fbbe45f5e5c64d997c7817fd5989efd",
+    "published_at_utc": "2025-09-24T08:39:00Z",
+    "hash": "ec172c3605a0f018e6e147dd7f60140ccc2e41e2834ee55c03fcd411f64cd697",
     "source": "gnews"
   }
 ]
