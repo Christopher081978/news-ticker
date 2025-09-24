@@ -1,22 +1,132 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin, XRP Lead Crypto Rebound As ETH, Dogecoin Stabilize - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkJPTjZTTnNvUDNzaWF0X0JsTUpLdEtXMGJkRXdXZHhUcXZFUVRyajdtOTM4QW9RRUlIenJBellSNXI0SW1fRFdhOHJhdC15cC01WEpYMDdMbTBLQS1reU1Ud1NsOE8tbDZiSnUySUNXMDEwamR6RF9BTGJxXzJOUWVOX05jcld4aVRlaW5pOU1PYUxFMk1NbE9nMXZ0RXZWeldhdGdCMWJtZVNXZDdsNmFaMDlGajJTOEZv?oc=5",
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "VeChain Price Forecast, Dogecoin ETF Latest and The Coin Analysts Expect To Flip BONK - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcjEwendoMjNURUJjNDZRNHVkVVI3N3ZuWGZoRDgtZUhiamNHLTNKR2lrZnBWMjZJSWVhRW8wWGp1WHFXZGxNM3lQb082VHNZdWpRbFNHT3RManc2eGxDQVR2OGxBRVFzRERrLWNyOFFPaWVwaE1MV2hqY3BaWkFMX1pNM2kxbE80d1pCVjdWS080RVppOGc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-24T19:39:02Z",
-    "hash": "684571c4f10f629e6fb5621cf35f19256a1172c0037c6c0a31a270979fcbc831",
+    "published_at_utc": "2025-09-24T20:24:43Z",
+    "hash": "3e3066264aae571b6e9234c339f74ab5539979b762d5fcfd62a8dd01569ed22b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Spot ETF Countdown as Final Amendments Expected This Week - blockchainmagazine.net",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSDVhZEFJNmVQcjZRU2FOZ29DNi1WeTFSMkFEZ19PVEJZMTJPNkVNbjdDak90WUtCY2VpYlhEYnphZjMxRG5odF9iZVB0TWs5QS1Wb2xGSERDX0tZdG1Ycnc0NFdNWUl0OUU1MkRfcGdpa2h4aU1wODhOcmdtWjA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T20:23:45Z",
+    "hash": "df9ea9a18f2d558c12217d5f3d8014b6161ccaff90390065fbbf31b98728cdbe",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "DeFi Development (DFDV) Stock Surges on $100M Buyback and Solana Strategy Push - CoinLaw",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OYlh6MGRVaHFyUk9Iek4ySTNhZFFIUHRrdkgzODk0V2F4bXJqdU9LbU9xdGdJY2F6NTBHYzZxV0RXR3JLR1A0UE9rbHNXYThDUTFFbkxWaHFBejZ4MDNGdUpHSzg3TmhlWTBsWTNFZlVoczFlakpjekZ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T20:16:37Z",
+    "hash": "90d7a1491e7a56a7f926f78b51e15d1ec0b32c14d8febcbef639935921a1fbff",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Floki Crypto Eyes $0.000038 Breakout After Tight Consolidation - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYVZCb1E3ZlRYQWNMMzZSSFF6aUFneXNld2tqUXltbmVVUmp5VmtyNE1uNWVfZGZkLVdkSE5ZRVh4czVhOEp4dl9JQjZITGpNQ0lMWWppYldhMDczUkpQM3d4a3VhUG12bU5yMUJwS0djbkFHRjBlMF9mUjJQVVlpRDR6ajNrMDJ6Q2dqWDJnd25NVW9HRlFnYngtaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T20:15:40Z",
+    "hash": "7da1a905dc962bef86946e26bca49ffe742f111d48efd69cc4ad9efbf5885070",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stocks dip for a second day as investors continue selling AI plays Nvidia and Oracle: Live updates - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50UEVuWkE3YWp2NmdmVmFiZkhNMGc4SXNTZHZfcjN5MnRsTFVUWmt0TktVZnFoNDhSUFRyUVNWS3gzYl9WSXAzOHo3bjRHc3pqWk5SakMteGxYS2ExR3laYlNNNVZaakxGTXU0SlFXaWtsRXNzbzNn0gF8QVVfeXFMUGlUbXRmY3J2bEtVNnc0d1JoRVR5b09KS2JaVVBBcFk2dzRQYUN4aEpjVnJkVTAyTmM2bnBJSHBQNFlSWWV4UE5DMVJVVWVmTWw4Y0xjaFZJcVhwZ080clVyV3JtQWNWWXRpRVM2UVJIZFBycHNYWjNrRWNrRQ?oc=5",
+    "title": "Micron or NVIDIA: Which AI Stock Looks Attractive and Worth a Buy? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdGNiM0xzc0NYanBPMmt1MUJER0hxWkh0b0R6OUxQdjJZWmhPOFpMUXZuSnc1Y1pCT0N6Qjd3alVKN09CYTlqcW42MXdSS2JZeE1BMGsya0dBUlRvNmJtSmljS081S05feUt5enNjWjQ4V1dNMGY2OFdRdk5RaFE2Y2lpVGNiUEJtem5xWUs1XzhoRUc2TjF4TnRfOFFRYzdNeDAtLUNadldmTEF0UGhROGFkTThLcGtXaFR2eHJzOEMxR1dVWlhHa2tuZ1FzWFFqQUp4R3RuUkRPNlp6YW9JWG9KYWg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-24T19:29:00Z",
-    "hash": "ca390eae704fa9a7b10d216cac4a4ac8c0075b751a553a24e963e951dbfddd8e",
+    "published_at_utc": "2025-09-24T20:15:10Z",
+    "hash": "2c69d8ebf03f19ed7a944ac98bc6234d4768f38ebf7962eb302460494180d412",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Looking for the Best Crypto Coin with 100x Potential? BullZilla, Bonk, and Dogwifhat Could Lead the Pack - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDlGc3BTVE5PNXQ3bTlWeDBkUWNvTFE4MU5VUThNRzJ0VTk4WVMyRldxSTJIbXlwTWRhdUZNVVVUaXBfay05aHRwZTQ4cUQtaHlIVHBYcXY5YnVFZmxhT2VrVGtIMG9fQnAxQWQ1YlRhVjlLRWZ4cUo5aE1PbW5RdTFpRmxmR092MFo1YS1aaGhUeFluX2dEeGJTLVZGLWM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T20:08:50Z",
+    "hash": "383a9b5877dc01ed05508abb14315c33db0139fad9bcae64e34f202cb022ce37",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Targets New Highs With Institutional Backing as Mutuum Finance (MUTM) Eyes 20x Rally - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGthZ3dOeXN1NFFmYXBfLW1JcW5pcjdJTlJGOW40SEt0S1R3WmI0cmltWDRzX2RiUlNSdUhENEh6TkR6TXhBbDN6NnVVQmd1OWdRWktBTTBnUXdnY0lCRHZ5cUlEeUtuNzNCWkREU0p5OVFnd3VYQWl6V2Q4X3NqWkt0THRVUXdpNS1IOHZMd2w3Z3NnSHNQZWVsdFNpcEVUVHdBdWxDSnBfWkdnQVUxZjNpYkFycjJ6?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T20:04:00Z",
+    "hash": "5778a583990f00809b21fc95c33671a8664e026b48e4f1776e85a7e57ea22d54",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Outlook: Analysts Maintain $5 Target as ADA and Solana Join Top Institutional Rotations - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3RlZVh2NFo4OHJBM1g3clBSeGJlR2FlOXIxWW1uZWZaMUtsN2N2c0F3OXhBQ2ltamF5ekFFV1NVMUNhUExBQUVKVHpDZG42TzlQUEVMMUlMZnY1cFBkWk5KdTBzTk56SVlxcnlrZFU0c2Q3TFR4WEN5N0p2N0JNNUpsLUZjWkQ3cHZTb3NfaVd4UUVhTVMxTThiTUltUVZnRUFjQm9rZktHTFdUS1dWMGlOUjFRd1RXNUhQNw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T20:00:28Z",
+    "hash": "87070d61e6559563f47411732927b7e8400e1a1e66afcecfce5995b222b99b14",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "XRP Price Outlook: Analysts Maintain $5 Target as ADA and Solana Join Top Institutional Rotations - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3RlZVh2NFo4OHJBM1g3clBSeGJlR2FlOXIxWW1uZWZaMUtsN2N2c0F3OXhBQ2ltamF5ekFFV1NVMUNhUExBQUVKVHpDZG42TzlQUEVMMUlMZnY1cFBkWk5KdTBzTk56SVlxcnlrZFU0c2Q3TFR4WEN5N0p2N0JNNUpsLUZjWkQ3cHZTb3NfaVd4UUVhTVMxTThiTUltUVZnRUFjQm9rZktHTFdUS1dWMGlOUjFRd1RXNUhQNw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T20:00:28Z",
+    "hash": "87070d61e6559563f47411732927b7e8400e1a1e66afcecfce5995b222b99b14",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab (RKLB) Stock Is Sliding Wednesday: What's Going On? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVYwcVhxeW9keHctY2E1ZFoyVXRmTTZlNk9jUkt4VUVVMDJ1TU9TZnBOWk4zak5WOW1ZQWlPRFpCMF9yMTlwbkdYY3FjZ3RDWm8yRkw4dkhrTWpPR1MxM1YzYXVXWldMRUI4M0VBdHd2OTBrQ2JDUFpvVnNzM0x1TVRYdUduWG42TkkyaFowWlc3bndqZDVDMTVOWTZxWF9oU2c3QlhCTVlVdjBGeTNmcEhFX3ppVl92UWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T19:53:01Z",
+    "hash": "58ae5cc218ac4d840b707b82eeebdd7d514dafdf784d20bc0bf76f1a6581daab",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSMC: Don't Simply Ignore The Warning Signs Amid AI Euphoria (NYSE:TSM) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0l0eEgzbkZzMld5VF9pS2s5SGZIT3doWjM5MnAta2JWZ3lwUEJ5YnI0OEs1b2dhOVRaa2xOd3pOWjFqT2Zndl9SRS1jZnJnWGUxMVlaUHlmYVpqRUk5djFSWXdIVElGM3V4cUpWZ0FqSy1ZY3RyZzdhbFV1ZXNzdnlBcGRTREl6bVR3b2tQNklkSG5laEcyMWI1eHAwR1lI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T19:49:53Z",
+    "hash": "b3f06e21e328318376f243cf4eae6de4e64614bbecd43a21874e27e94fefcb23",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "3 Best Cryptos to Buy Today: 2025's Crypto Coin Boom Has One Presale Leading the Pack - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkk3RVl5M0V3cnE5MTIwM0xVNFJLcFZiR3oxWEJhcWw1b3pOWVlOdkdWbHN6cGVzdndHUWZZSlhqaElmd1ZOMW5sY2liM1U4NWJ5NTA0TWV0RVA4dEtmSEZFUDZWTnpZcHFqQUs0NDcxS2ZINTBfX2o1bDhiZ1A5M3k0YXgweldXc2hPNFpSdENRcjFZa3F4T1ZEdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T19:49:10Z",
+    "hash": "4f88ff3dca4c880b79c844e63ff3a02cf5a87f2bb988c3523946abac9ad103e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Pi Coin Price Prediction: Why PI Coin Could Rally 50% By The End Of 2025 As Remittix Targets 50x Gains - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWtLOGlmV0YzQUduVWt3OVJRRGVDTFhycWE2dWt1ZVRZT0pDOHk2SWZUSUk0TE5pYS1FcGtRUUJMZnJPQU1FRnd2eklwSlNYT0xCRGtIOHROMUZjUWJUMHljcjZRODh3b25mWTVKejJCdlg3enNob1FkdlRHSGxuR2FWS0NWR3RCZC1rU1ZhUDkxTWVwQUc0MnY5MFhNNm52X2RNMnFqTHV1Z054R1BEWEdfOVRhOFU1ZlMyZ3NDVmdQUkZqY0lz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-24T19:46:45Z",
+    "hash": "f796e991c28f86b3b714ae173204579c4cadaa20f21753190ddfff397f1550f8",
     "source": "gnews"
   }
 ]
