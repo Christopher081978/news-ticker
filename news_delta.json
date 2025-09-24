@@ -1,92 +1,22 @@
 [
   {
     "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price (BTC) News: Gold's Rare Red Day Allows BTC to Advance - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1BNMzZYTVlIZFJhLWpIblNka3ZDdkdXWk9waGJyTEx2Wkh4R1NqTFVja1JkUkplaE9ybHQ4NTAwYjdKZG1XMW9yLU5YRVdSQ3FkbkRHWUNxd19BTkNLeUtFTmE4Vk15LWhNdjRWS0hNWmVSWjljalFrX0lYZENubFJldk9CbWJmLVo3Tkg5RE5ZMzcwZFJyblJ3?oc=5",
+    "query": "BTC-USD",
+    "title": "Bitcoin, XRP Lead Crypto Rebound As ETH, Dogecoin Stabilize - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkJPTjZTTnNvUDNzaWF0X0JsTUpLdEtXMGJkRXdXZHhUcXZFUVRyajdtOTM4QW9RRUlIenJBellSNXI0SW1fRFdhOHJhdC15cC01WEpYMDdMbTBLQS1reU1Ud1NsOE8tbDZiSnUySUNXMDEwamR6RF9BTGJxXzJOUWVOX05jcld4aVRlaW5pOU1PYUxFMk1NbE9nMXZ0RXZWeldhdGdCMWJtZVNXZDdsNmFaMDlGajJTOEZv?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-24T19:18:45Z",
-    "hash": "7d3f4e1de31cd35b88b4b1e61095c09d45296099f2479e0f7f5c133cc1bd61f3",
+    "published_at_utc": "2025-09-24T19:39:02Z",
+    "hash": "684571c4f10f629e6fb5621cf35f19256a1172c0037c6c0a31a270979fcbc831",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Today: XRP Chart Reveals Bull Flag Setup, Eyes on $3.35 Resistance - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVZLTld6Tk1rUHgwT2ZianI3djFQYnFsSXdoU3owZ0RhdUkwRkZDWnRzNjhsbWJNWFo2MEpBX1V2U1RsWEI5NElYR1R1Q0hwd0xQUVJuSHEzdzhST0VYVE5kei1HXzN3VW0wM0M4M3NDclR6YWFKSlhuTU8zTF9RM1BrUHNxNF9uOV9Kd2dtLXJZbzE3YjhoZW9SNXh2aHdFaWVTbTZtZjQ1Z28?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stocks dip for a second day as investors continue selling AI plays Nvidia and Oracle: Live updates - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50UEVuWkE3YWp2NmdmVmFiZkhNMGc4SXNTZHZfcjN5MnRsTFVUWmt0TktVZnFoNDhSUFRyUVNWS3gzYl9WSXAzOHo3bjRHc3pqWk5SakMteGxYS2ExR3laYlNNNVZaakxGTXU0SlFXaWtsRXNzbzNn0gF8QVVfeXFMUGlUbXRmY3J2bEtVNnc0d1JoRVR5b09KS2JaVVBBcFk2dzRQYUN4aEpjVnJkVTAyTmM2bnBJSHBQNFlSWWV4UE5DMVJVVWVmTWw4Y0xjaFZJcVhwZ080clVyV3JtQWNWWXRpRVM2UVJIZFBycHNYWjNrRWNrRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-24T19:15:41Z",
-    "hash": "6f56ca7a8bcde3cfd5dddd9fc7ac7fe7dded53f3715b39317178a8fd60916ffa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Best Crypto To Buy Now: Solana, Layer Brett And Chainlink Dominate September Portfolios - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYzloZUxjLU1fX3JTeEJWZm1YdFFlUVlJazFCVUpUSWZpQ1pVR2RuVkdSVjlyODhaY1VjdU5qazBkakVrOFRLUjJmYWRKblh1V3ZrTVRGMld2X1dDRnpnVXRYNlFySExUdGVyY3ozS1FlZk1iOHJrLUFzQXhtRGh2MGt1VXd5UnptV25BaEVZNmFtVHJhRlNHM3hiM1VKQTFGM3FJYy1aanpZMUV0M3pDODFDeHh4RWtM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T19:12:13Z",
-    "hash": "3b2de8a8c56aa5b4494ab8481254c423b52a3bcdeab9629c13fcb53a0d260b99",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "FXRP Revolutionizes XRP's Position in Decentralized Finance - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJQ2JuS3VnVmtyanVlMllHRWVYcTdXckZTVnZ5ZnhjbUxGUWFBR0d1Q084TUZ1ZzhmR3lXR1FRX3J1elVwZUF0U0ZpdEoxMjdXLVZ1VEZHakR3LUZYcTl6UmpGbEswbFl2XzFkQVN0SWFJdlU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T19:09:56Z",
-    "hash": "47e55bc1ae94e86e38a38213c5db8286fa3d029b248c872c071590ff9ee2dd1f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Bill Gates, Novo Nordisk Foundation Renew Project to Turn Carbon Into Food with $26M Investment - Green Queen Media",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVUlrMUpEV2pkVDBpZkpEX3dORjA0XzFzdnU3RXZpZmdqMU5pVWZuazBDRUpHUDZ0QnJTNkdRaHJLc1E2bWZFXzFCOTFnREQzQ2lsSktWdHRkMk9lR3FydTNYaGFkRXBxMHBBcENDUFVyQXBONU1jYXdpMzRRUm50X2xSWXBIYVJPalY2cjl5aENOMURHVHA2bFlQQ1laaTQzc3g5NjNVMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T19:04:32Z",
-    "hash": "37f83c37eec46497905781663d8d229039a2be638a29ee141ecb730844ffc74f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP suddenly breaks $3, FOR CRYPTO prepares a \"value-added plan\" for holders. Don't miss this wave of market movement. - Muddy River News",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMXhFaDd3V0ZGazEyNUMzakFTSnpnVW9icGc1TzlyaUFaN2dyb2U2Y2N2dC13YWRNb1ZlUmNvSnU5WkdiUElRXzRPSUNKbXA3cjhMY0NDUE5IcGVLS0tjdGl4MjFkZ2xOWnZWdHVYWnAtZlQ3V2F3Z2taZzR2aFU1a19WamJJRkN1SFJ1Q053UHdUalFaUHRjZS1kZXZaT05YVUM5a18yb2RRZUhIMVN3cXJ0M0NFMmFtNnczRGllWGY0Z2RyZEdzeDg1TTcwWm5DVXRIaDhILXc3Y2tCV0N3NlQwTlJLc1NjWmhNUExMRUE2SS15SVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T19:04:26Z",
-    "hash": "937f04d9ee4682ab1102d47bdfa066fb87c05e21f87c1b1ab0332c81353bc136",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Whales Shift $1B as TRON Gains; MAGACOIN FINANCE Emerges Top Altcoin to Buy - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObFhzcDl0bnZaYnQ3YkpSek1neXVia2F3ZF9UckFvYWVfZVh0dUtyMnpSNE9rQ0VqV0VJUkZYN0U3UXA5TEx0dmxSQ1FIb1F2cDlDZFVHSS13WERYcGhvYmhuenBDY1Z3UFdyNzlsVFkyWjU0Qmx1SVk3MmR4VXhOeUdpVHJvM1RRU01fWjJFRFp3S1RtM2E4TklkTHhlalYybnBBTkpLRnVNaEo2blJVaU5haGhJQzBWeUczZHpOcnVmZHM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T19:01:51Z",
-    "hash": "2b8f407859ddf673d36c9d1bd0e36404935191182de217eb90d8feeff3483eff",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "As Ethereum ETF Inflows Bleed Red — Could This Rising Altcoin Be the 75x Play Institutions Don’t Want You to Miss? - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYks5RGNIVnhIRzFsbGpINVQ1QjNpaDYyRXJKdmdoekxZUnlfVmc1WjlwcktQcjZrMFctRXVFMzlLNWtNWHpLRjJuSnUxeUVId3ZGZFhoX0xoTDJWWVBxdlNVWlRyNTRWQWJ5YXFnZk45LUw1WE9acVZLZ2k0QjNiNEpzNXJmdGZkOHdvWnlCeHBjMXF6RnQtZkNUMzhZV2FQTkJMcDBwSHE2clVSN3RiZEN0X195aEJaRWhZOHRlSDNsT25xSUVNMUw5a25HTzVV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T19:00:36Z",
-    "hash": "df9348dff200ddb0d9e3b328ce0c735eed40accc4fbc8d0deadda6f616856a51",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Analysts back Ethereum to win Wall Street, White House, DATs race - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIWGdCalVkQVJUMWNONW5RVWFrRDd3VHRObExZbjBZN25zMXBmRkF4eGw2R05FMUR1OXNBMUR0ZXlPTms2ZUh5eG9vYzhyUENqcS1RTVdIWldDc05iVG1OUzdmNkh6NUJQdE16RjNKSmdldEpKdHF2TlJCOUZ4c1k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-24T18:54:00Z",
-    "hash": "6147bba3c7fe0f8d3cd61262afaf9a03fb81e57b5f672e06767be0a34c5c798e",
+    "published_at_utc": "2025-09-24T19:29:00Z",
+    "hash": "ca390eae704fa9a7b10d216cac4a4ac8c0075b751a553a24e963e951dbfddd8e",
     "source": "gnews"
   }
 ]
