@@ -1,202 +1,122 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Price Prediction: XRP Holders Set For Big BlackRock News From CEO Brad Garlinghouse - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTFUa3V2akIzWDFqRkpiN0paLXY3eGZxVEgyeGlaYWZsaE9HZG81VnNfQXpwSy1ucnJjTG0wdmY4RWRXY2FuNFI5eUU2QVJyMG82UWlrSnloSlIySG9Bdlg3ZTU2VE1ndjl6azB0Q25UcXFqMzNoWV9zT2NwSTdPSk9nMklWcDNucUVLWGZUUTRjWFJ6OHZHaUxLV2U?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:22:00Z",
-    "hash": "8c20e79ed61f2b07f02ee36596e168d34029e5f2ca09ab8b00df264610e918d9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "September Option Expiry Looms Over BTC: Will Bulls Push a Bitcoin USD Recovery? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemJ1bml1aDJMVlVoRG1qNUY3UXhYNlJfNkdiYUx2dUZqczRtYm1HcFdnM0dBak9VZl9fSHpLaHFzUFE0b0Y3ckpiZk9MTk9rZlNiNE5fYXpZZjlfRE5vZVJWOEhSczBrMWVyaVhNTmFCMnlIS3c4dTdodV9KRHpGWmY3aGZ3d05OUmlZdEtSUUdBSHNSVnRZbzgwVlU4M3R0Zm8zcGVmU2YzNnhROEItZVJuZ05EZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:21:06Z",
-    "hash": "2e73dba7d079b0afb964ed783fde37ebedfae4af8d9795ff0bc0e9f28a411a0c",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "High Performance and Price Fluctuations: Solana Investment Logic and Cloud Mining Solutions - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkVUR1RrY1hVeXA4RzhPdGFYQl9INFpmRU1jNnF1NHJhaThpbUpuVXh4MzEtSXFDLW5qX2lFWGZ4TXI5ak1vNEMtVU96cDZELUlzUkVoOXQtX0FyUzFpekNqSVFiVkQzczh1YUJ1alNKUF9yRmRBbGNaekU2SnlsSk16cG9nTVppY2RWb2dJbUtiWmVFU2psZTZPelh3MzltREVhQzI2emZTcTJaQndSaUw3QWpyWEpxQzJ4UGdoWQ?oc=5",
+    "title": "Solana Price Prediction Sees 15% Upside Yet Rollblock Gains Favor For 3,000% Gains - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcDY2RXN5LTg3ZFJZVFN0ZDBUTmN4ZXpjbl9YWjRtVHoxVkJ1bVFaVjluNHdFVWFpb2VqNFE4dEtPUXRpT0M3Y2RVNENkQjljZU5VTFdrY0ZWSE1BRm5OQmVQWjJOQ1ktUzlQeHBLTWhDZ0dPMUFtTDNaeEMwY0RnZ0M0TUJsMy0wT3lLazNZZ21WVmZrX1N1MTJXMjFXSWxka1o3aFdiQ2hSZDA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-25T09:20:27Z",
-    "hash": "abe4a5a6ff7ea6ef4dbf86279ef32afe3a56c9ed514b7edf219b98954a1ac6c0",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia Price Target Raised As Analyst Adjusts Model (NVDA) - AskTraders.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2t4TkM2amJsWWM4dXVNUzBobXJIOF9ZcU1mSWdTTEJXcTIxdHhRTGprd3lWUll1XzROVW9pOE5hYTBHQjVVNE9VazdQMWFrLWhBay1MZXhoMy1ieUJ3LWdYUG40TXRnblpON0hLZ2JfUlJSYmE4OGMxdzY4UEdKU0xUOGxYcjF0Qmhybkhuek04aVpMdERpXw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:19:15Z",
-    "hash": "121ee3926a7db57df7fb5fec29515764fc82895fa9eec57fa2c9f5d714986460",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "5 Mind-Boggling Stats From CrowdStrike's Investor Day Presentation - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUswMHBEMlctdUdsYlJrOHBkMFA1czlWVkJzYUdLU19GZ084VlI3ZXZXckoxR243UlhsNDQ5VVZSNi10VWw0R2s5Z281aVdiaks4Ml9JMjdZbGE5S0JyYzZJcmgyRmpyclU3NmVmQnZpSmRGZENZeUFNQzYyX3YtSG40MXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:18:56Z",
-    "hash": "cbc19544c1da92bf9274f1fe49357a4a7f35b487b83f82830eff26c8c2ccecfa",
+    "published_at_utc": "2025-09-25T09:42:20Z",
+    "hash": "cda98583f2ea154aa47af26208efbb08eae0a443c47f280f1fbda4913bd62c99",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
-    "query": "PFE",
-    "title": "TD Private Client Wealth LLC Grows Stock Holdings in Pfizer Inc. $PFE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORS04TXB0NW10MXc5b2FQRzlRV3pOcmtoaW9fRGI3UDVaUFh3cnRIWjRpSTl3N0tkeTl6ZWxueklzenM3YU1vU182V1lSSy1ocWx3YnQ4TXhGUE12YW1La3hNdnNFY1JaWHNXODU0TUEtMXZ5Rnc2VUFlV3dzM0prQmV1X1hELWF4MXRpRzRqcV9IR2RmRnR3cTlHbmpkX25JZ1NhMDlPVzdHd1ZUZzRpalpyUGFIa1dEbUE2Q2FMZm5ELVlQbXVn?oc=5",
+    "query": "Pfizer",
+    "title": "Santori & Peters Inc. Purchases 11,000 Shares of Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWwzRk1uQno3UmxSRF9ad0dNNkwyZ0k0a2k0WmFTZnN1Y0JlcTdOT2hZWkpfY0NST29wNGswdmpmNlVicTIzVEFsbjJtZ1k5WHByT2tsN1QwR1FJMG5xalNlSjZVcW5lbFZGVzhpMnp1aHVSVTlNd3RCSy1ONmZ1SHVxUG1qSVFkdkdseXh6Q1VxOEJ1cGJsaTRLYTQ3R1NnUWRfVmVSZlZPMllLcmtPeW9ZZkhxZnp5N1o4ZQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-25T09:17:49Z",
-    "hash": "553c43a174a42b08da36f813ffae052af810f58f910a7bd77cd0ff48b884a0f3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Total Wealth Planning LLC Acquires New Position in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYVQtRVZ1aURibUdoNldQSWxTVEh3T1YtOFR0ZHJxQWJzUm9DbURqU0pZMjlnYU50OWJwaXRpRTI0UGFjNk1mLVpOSkEtYTh4NEdrWUt3M2xzOXdZb0NHXy0tQ2dVS1B3S3o1Q1dsU2FoM2ZjRXVEbUkxQV8xTENiNzRBcUxOeFV1VzM3elBGb0Eyc1RYVHFqWllBdHRLRm5FSExpTW5Gd0NKN25xODdraDNZM3lBM1RVSnotMVBtU1poallrQ2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:17:44Z",
-    "hash": "6f2ce25c5e5343f9508ea927136f2373c1b0957280c922aca323e28a6bc95573",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Crypto rout deepens as U.S. government shutdown fears mount (ETH-USD:Cryptocurrency) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcXFzbU0wdUhfd1k4N2lYNHdIWXhuNzJhdWZxaGxjN1dGWFN5MGJqZkE5UzlWMjJGODgzR1RqMFcxMi1qVFdwNUFXQ0ZaNFhMVlREUmx5ZFBkSFRsMjI4RjlUek5RSmZha0ctN1JkOXJBd1ZOaUZDVkxubDdkajR1d0RsMWdBOEhEdEJxQlhaRXgydVA1WG5jeGp2aw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:16:40Z",
-    "hash": "06c6f76e8c1538b0293c29258c0aec8b44408daed0bc5edd7b2168ee90bb0a12",
+    "published_at_utc": "2025-09-25T09:41:54Z",
+    "hash": "09f1478d2d3ee78692f9962b1f66353743a3340a050cbaf3dafcfc31f602cada",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
     "query": "UnitedHealth Group",
-    "title": "Clarus Group Inc. Sells 919 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUhrNEY5RHQ4V29HSmdXN2lzaURPZGZPc2lfd3F0SzE2MG5TRzdULVM4UDZyLXhXbE9hcnN0cUxFdE1ZV0dfLW5tTWNpWldtODhqeGhIeTdHOTg0dVhRZzBqbG82MU5jSnA5MHhUT1JUaVhRa2NyUVFCYldYeFFHUW40QzZPbzRBb2pocjJnem9MWEdSTUdoQmt2Yzh5N1NUSEthd2tvSjBINTM4S0o0ekprOTJWN3hQRlpKcllubEN3WUxqTW83ZEp3cGFQQQ?oc=5",
+    "title": "Spectrum Planning & Advisory Services Inc. Takes $485,000 Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOWFxQl9HMl9RWDlGU2hVenJRbXFpRkZndVE2ZGRCUGdqT3lYV0tsUlNlV1ZWa0RqUmVfXzFaOFo2WWNFc2pfY3hwSnhQR0pzeDU5VVFFdmJMODUwemZMc3V5dk5HVWN5MzdqalRDUmN6Z0ExX3pndWM1OGxxYW4taXJpUzFuUExKaklBdkVwcHY5YW9ZTlk0SHBnUE9LSWN6cnR6X29BM1Bab3llTUl6bVZZUHluTmYtTUZ2OVRobDZ2ZnBGR09xREdDUUp1YlNZTDBRSVFQNFlsS19pc3hmZTRqQldybTFlU0x0aTBTT2ZURlk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-25T09:14:02Z",
-    "hash": "a0f17c6379377a22c5612ca69bec2ca7b06fff235e8f032a4efb7e014123f1ac",
+    "published_at_utc": "2025-09-25T09:40:11Z",
+    "hash": "a6d1d7724ac1135a97b0791ab794b3bd8dc7c04f8e4d1abeb7bba368fd6c8b11",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk A/S $NVO Shares Sold by Beacon Investment Advisory Services Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa1JGcjZLZGpaVFNBZ01qdWp5VDJJb1kwZTNGX3lkTXVaSG9jOERqT0x4Qm9ycjIxaE5CWjh6aE9xbDN4Y2QzVmkzT0oxUldrcTg3YzQyYXFiOUlBVjlVZ1NuY29ZT3FaT2NkSkRmclJkTUxrY3hQeXAxWDg0WS1tbUwxajc2TG44Szd1akZnNzdvRnBReTB2VmRGQ01YTEJCT00yb0V4NGVjaGZ1ZHNuQVpCMVdsMUFfMWJCekdpcWJIRXBKT1F3LVUta0k3NVB4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T09:39:53Z",
+    "hash": "bdb7910b997f861099ec25b92fc57ed732dccf2b4cd0bdff32fe642bd5593740",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer Tries To Fatten Its Profits With Weight Loss Drugs - Real Investment Advice",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHFDa3I2d0NFWVlmOE9xOTh5azJkamZxWURwcVZLUGVuUWxXc1ZhaUdBOVF0UUt4bHlBaUhOUkE5ZGVJQ0JlUXBDZjNYLWNJNmN1eVFTdldJcE85SkxhS1h5bFZJek1nZHJjUmdPX1Y1V2FYV1hvNzRvS0F5eTRjM3Z4eFB5b3YydHlXZm1iblNxU2JvdlBpbTdyQWc3cGZoUEZhSEJuU1ZuZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T09:39:49Z",
+    "hash": "951e6f41c5bfcd4d2b12e6eceecb06a457d1123dde7f53098d56cbd39df24a76",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Price Prediction: XRP Holders Set For Big BlackRock News From CEO Brad Garlinghouse - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPaXhuY0pNRUdFMnZqZ1N2US02THVRSTc0OGQzcUxiQmNNeHpRdzRJUGo3azZKcVpweG1Lb0xhRmhzWVVjQm1BLVhicUhqdFBXdFRHZU5fZVZxVGdVdHg4Q3NBR1g1Q0tJU1Ytamlpa3RTMFN5Ynd6d3UzODNLYXNsTXFQV2NKR1k5OEQzV0N0QnhsZWFJSjZndFRmMTRmODdXLWtweWoyTFVOWEFIUDNIcnJfXzRrc01rVUtwclNmcDk0NlpvNXI5UDcxOGdXbE9uTDNzUDdMZVU5NGJmWHhUUjlobUpPc1lUMUJ1TG5oOUhIX1N4aVJPUGVINktTc0VGWFFwWDRxYzEtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T09:37:40Z",
+    "hash": "3d3096808af4022c7a73db249dca3b7ca2559aa1569465637e786e57b5445c47",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Whale Wipeout: $45M Loss as ETH Plunges Below $4K – Is a Bigger Drop Ahead? - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3FYRGFhSFNJSGtNR1N6cXozNC1sMEhKa25La09DZ0JOVGx2WHR0T0J0QXFUeXNBOHlmRHkwUllhUGNmY3ZXSk9saThQMHJXcjVJejQybUJQYlU5QTRaVjFLQmxiOFJQSUZ0T2lRZmRaN3RYVnZzRHhaSS1Oc1Z5RkJjSDZERXJGWnhVblUzcld3ZFBrZTl5VWpMNU9HQ0Qx?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T09:35:35Z",
+    "hash": "69f84860342ce4b08d8253cc763fd70adfcce8f0b1ebd0238d7b6569f59b9c6f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Best Ethereum Casinos & ETH Gambling Sites in 2025 - European Gaming Industry News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV3ZKVzJISXlJVVI2WTZ1OXo2MmhPakxuYWlsdkt2Y091Mms1MlNBQ3loQ3FRakxwVWJVWW1DcG11WS1jVlBsU3h3LWFISGJoWW0tUTRpaU90RE1zcW9ySDloeXF2aGxxZGpGT29HeWNsazFvZVVMV2pSNDVPVEk0RnJ5WFplMUhILUE2MG1R?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T09:35:16Z",
+    "hash": "a33e7b23bcd57a17cbfed6be407a61da77d65b79aa4414f6ed64e77df838d8c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "GlobalFeed",
+    "title": "Rüstungsindustrie: Rheinmetall will Munitionsfabrik in Lettland errichten",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/ruestungsindustrie-rheinmetall-will-munitionsfabrik-in-lettland-errichten/100157971.html",
+    "summary": "Der deutsche Rüstungskonzern plant ein weiteres Werk auf dem Baltikum. Die Anlage soll Artilleriegeschosse produzieren und so die Verteidigungsfähigkeit Lettlands stärken.",
+    "published_at_utc": "2025-09-25T09:33:04Z",
+    "hash": "0a10b93f324696f18a58635aa895462f8bceb82722c134e3d5fb291029f0ab5d",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Beacon Investment Advisory Services Inc. Sells 1,167 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUxwdjJTc1FuVTJVdEw5OGthcV9kYk9vbFhiTE5WLUQ5TVppbzVfRDNOcDYwZUpZNGYwLURBSHljVTdjZnJXblk3akVTdFVyanFxUE5WNi1JUW1vTG9PelpfTVZWanNZcmpWa2lBdnBNY0djLVFXelNKNkpWYkF0UUZOYXo5T2FBS0lMZXptdWxDckxtbGRyTVFKQ2xiWW1sSTAwMk5QSUpyMllmclhnT1lJZWdnNnpvbTY4RXYydnFCNlJPVTBUZG1mS0JoNm1QbWZ6aDJieXZpVjhpTHo5anNiQkxjdFpYRUlJUTZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T09:31:53Z",
+    "hash": "22a63510b6c9ab39b7d0e076a262913cc4d08599ed265d98c07d3a51dab36a4d",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "UnitedHealth Group Incorporated $UNH Shares Sold by Riverbridge Partners LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcEoxUU5DeWcxSFNqeko4VUtwbnVUUVFVVGhNNVp2S3c3aURYVWt4a3owbnhlTzRLM2Y0Z2RKRGxuMDlYaTZZZnhidjhFazVZcFBBYjZRWHZIb2xUMmNTc29RQzJLUkdPYk84WkF4QmhLMWxSOWRoUGJVZ0RISVd4ckFiYXNlZTVfazEtdVVfTGFaaWJrTmMwNnMteXNYSFduc0NtQVd0Sm1hVEQ2V2xfWTZINEU0VlRPam5BdFp0WGF1Y0FPU3I0Z1Zla0J4OW5tSkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T09:31:51Z",
+    "hash": "0bc5ee289c995f8b392b911eeb694d6e28278745f7957e850835059ab37c6017",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Novo Nordisk's Alzheimer's data is getting closer: The market doesn't really dare to believe it - medwatch.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UdFY2YWFTZzVSTG11bWhaRmN0Q2FRd0VrUnBQM0FicGtrSTdMUlVoTmtpWXJKSlNKV0p5Sm02RzBRQm1STUFhaUpNRUJmVjFxQTgxMXR2NEpFZW45UnA3cXlGLTk1SmxaUDhzcV90dw?oc=5",
+    "title": "Harrell Investment Partners LLC Buys Shares of 13,392 Novo Nordisk A/S $NVO - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbnhpQWFCSFlKZkhseERmLWJKbVVqTUFaelVMd1V1WE9TaU9YS2ExQWVnWExMU2J1dFVKVVBFMzRUc0haUmdudDJsY05GLWVNZHk4dzJhb3NJVDBCSnFHQ2dGVm5hRTlWQUhVblBKOTR4ZmVjcnJrX2w1aER0Rk0yUTR2QkgzMEJvajNRTFV4SHQtTG1aZTIwRVpQa2FiQUJvR0pILWFZUVFEczJkWnFPajVscnFCemktUHJ0ZjRvVnRjVkdycE8wczJsYlhIQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-25T09:12:45Z",
-    "hash": "9fce6ed2d9b29de60a313666791ece4afcc3fd6be08b410295af77559fd20fc6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Analysts Predict New Coinbase Listings: ASTER, HYPER, LINEA? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjVwOVlPZjRGYWZObmJhd1RYVldnSHhOZlFFaHNZWlpjek1lcDAyQnFCbFViQktSdGtZT0FVR2dXT3FjdVpDc1lvZlhWR3JGZnlxSnNHSUh2TnFrU2poeWpkZnlZWmVkZTRUR011U0FyZXVKcEYyQm55WklVLS15YUh1T3BEZGFiRl9IekYxZUF4TjZyaVN0elFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:12:32Z",
-    "hash": "25ad7e714f684d3aa19ff2b38b4629cf261397ea795b52c3c834e1ede96eb8f4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Public Employees Retirement System of Ohio Purchases 30,839 Shares of Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS3NoMFNjTUlpTlBXNHIyUWlJM3YwWHlNNkVWYkhINGZFcmxFdTVQeDFIOGZTTFJvR1dfMTNYQUpEaUN5X1FPSjM2NWs1aFBOay1kZl9SYXdWUHJ3ZFZPZHBJNGlGckxzMGIzd0YxMmRSd25oUHhrWEJhMnpWaVY0Y2U5LWJZQkNhd0JqOE02YWRtUThSNkVaMHVmcFZ5UXh5TUQtc0Rra2czZDZ3OVZQeHdMU0pxUEdJNVdXNUYtZmVQdFpVQWlOMG94c2tVVlExZUxMeVhKN294bzFHOXhRLTY4MTlBa0lCTHhyVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:11:49Z",
-    "hash": "ecf30cac1659d8c0e0d9f3c19acf7440f8feeb7ad70f6ea5b3058b144091a3a0",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike Stock Given Hefty Upgrade As Target Moves To $600 - AskTraders.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFNhOFR0RUEzSkptTjJWdUg3TGs1U0YyTE14V01tdXNaY2ZZaGVteTNKeXhTVEpTZG1kY1YtdURObjF0QTJpUTRkTlQxYXNIaGdnNnlZSnJwa2hyX1BzdWRHNUl5cWY0ajMwcGswaVNMa28zVFQxQ2RhMHBQbHhKZUROQXFtak84MHdnRUFfcHpmNmV4akx2VXM0a0g2UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:09:35Z",
-    "hash": "d624b4cce9e48ef7555795973470970fd62a7dc4566e3a5de89161f399d169b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin price falls ahead of key US inflation reading - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTnFHem5sRGpjYkJfTXdrUW84Q3VfYkgtX2FxRE5VdDd6YkJ6Mk1pbXFWQk1nRjB2OHc2eElienl3UFhac3FCcnhOT1Z4OUlFTkw3UHBBd1ZnaXVBcHpqZXlkczhYbEwyTHBPTVdTSTl6bGFMWV9wN2hsNnNEOVNIc1ZCVG91M2l2Nmh2NlJCYkhGRWRFd2t3a3d3SHRUSGZaejBYdWZ3OVNhcDlSR0lB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:08:08Z",
-    "hash": "c0e4e3e66fb78089598e483799f3255dcbddbd4e1e0931364ad9a79c87e11bcc",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "ChatGPT Predicts Price of XRP, Cardano, Pi Coin by End of 2025 - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkZTMWU4TjF1SFE4T0Z6Z3NKYjQ4RXpUVk1uLXpVX3JtM0hybktCWUFDd2JtM1RLTTF3TGhVcFp0WDl0bkZBcDdQNVh3VE1oQnY4OThuUUM4VHVfRW9DWTlWNnVPenVaa1JHMmYtYnk5bjlCako0MXZTY2tVRTM1aXFJakZWWVNpalhFb0VINA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:07:30Z",
-    "hash": "6247161cffbe08bf11afd4d6efc7a5c663e95cacb3a98638c35646417938ba52",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "ChatGPT Predicts Price of XRP, Cardano, Pi Coin by End of 2025 - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkZTMWU4TjF1SFE4T0Z6Z3NKYjQ4RXpUVk1uLXpVX3JtM0hybktCWUFDd2JtM1RLTTF3TGhVcFp0WDl0bkZBcDdQNVh3VE1oQnY4OThuUUM4VHVfRW9DWTlWNnVPenVaa1JHMmYtYnk5bjlCako0MXZTY2tVRTM1aXFJakZWWVNpalhFb0VINA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:07:30Z",
-    "hash": "6247161cffbe08bf11afd4d6efc7a5c663e95cacb3a98638c35646417938ba52",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Ripple’s RLUSD Stablecoin Integrated Into Money Market Fund - ICOBench.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0Z4TjU1WUVNek5jaTRaZUhRYjFHSFJXenZWV1lOWDdqdEstaE00dXZsUDFZb0Z3N2V2UEhqcUVWRkw5R0thMmNCalRxb0lBZENVT2V4UFUxcjVuQWFOSTNtM2hTX201RmRJXy1SamVERDNTaXl6NEhEU1dzeEFVNm9vR19zZXdHc2ptTFpDQ3E2NmNVMUp6Tkxud19BbVluV3JQOGthLWlUUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:07:24Z",
-    "hash": "1d6456ef42b62f1d68e7d4b17bb9c724957eb416cf269bc1fb3df979db5a7e16",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "World Liberty Financial Analysts Recommend XRP Tundra’s Dual Token Presale for 25x Potential - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbzBheTlBWlNWcy13UWhYc29JWWlNcTN6OVQycTVId3l6OG11R0hXZFV2SGpqYUVKNFJKczZkbDBjRl9TOC03SHJMcVlDa3RwaENIZGRES1dfeWJiUEpaVDB5SnhuenpteHlNeGpQMWVkVW5TM3FiU3RKWkw2VVllaEQ4RnBDQXRIUE1rQlBIN0tHQUhmQzg5dXBhNmtSanJhR3BTWEl0NXpLMFVsQmE3M0Z4Tk9qclVGSWxCT2pDQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T09:04:00Z",
-    "hash": "1be592bb6793d15bb0d651c40c16eac899a993efcf074ae03946b5a959108db2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Hashdex ETF Approved by SEC to Include XRP and Solana in Portfolio - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUWZRVEpQY1FaVDNJWFBsbFZwRDZFUW5xRENlOFhBNnRXOUEtUThMWnA5bG00NlZ4S21ab0JpbFQ5YTZ4Zm5oRm5VZXpKLW90c3VQTHRsenlBVERxeURLOGNYSGs3bUV5emFWMWNiV3JnVWdaV1dhbU1uNG90SnhIZXVsRFlvY3A0eTlPVlBfRkU1VV9ydGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T08:55:51Z",
-    "hash": "1abb61fd0ad905b1f86661389825693810e74641e50c7f4c089203b3049851c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Hashdex ETF Approved by SEC to Include XRP and Solana in Portfolio - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUWZRVEpQY1FaVDNJWFBsbFZwRDZFUW5xRENlOFhBNnRXOUEtUThMWnA5bG00NlZ4S21ab0JpbFQ5YTZ4Zm5oRm5VZXpKLW90c3VQTHRsenlBVERxeURLOGNYSGs3bUV5emFWMWNiV3JnVWdaV1dhbU1uNG90SnhIZXVsRFlvY3A0eTlPVlBfRkU1VV9ydGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T08:55:51Z",
-    "hash": "1abb61fd0ad905b1f86661389825693810e74641e50c7f4c089203b3049851c3",
+    "published_at_utc": "2025-09-25T09:31:48Z",
+    "hash": "46f02e772bf372ac9a1ad99eb0dc70e17d3479ff8d0860726ce021bdfe8aff9a",
     "source": "gnews"
   }
 ]
