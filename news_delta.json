@@ -1,132 +1,52 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP tanks 10%+ amid US debt crisis fix claims - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwMW41VlRjV1FwMHZjRGVSMG5aZmpjNE9NSXlVQkVPZUdXcGtYZjF5cnE0YktaTTk4NU1yYmZoTWl4SXlGTTNSNEdyTEY5UXNOdzN6cm9SY01yY20wbVk1UE9XMVVVOTF5bV9NRnRyR3NKOS01cXRjS0htOEVoNzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:28:00Z",
-    "hash": "e8da99af7c705ff1190180ecc321c145dccb119514c86d4e41cff52f75857be1",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple CEO loves one thing about the XRP community - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNzZWUks1NWE1aDAzbU1hRmZEd2xRS01IMVNkUmlaNDdiTTBucmEwWDQwOGlELW0wa3hMbmpwWGJ1UFhsR2t4eVBjWVJ6bEtJSTB3N0xxMTRDNGhTNExHdWZOQUItY2NhOVg5WGplbzJ1SFFxamhUUzVnMmhHTWcwMU5oWHlmQ2lPSmljdVdwV2JReDNrMW5BcnBHbU1pbTY2clE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:24:44Z",
-    "hash": "d5c1ac7c188ac63ff607d8b4cc0889138593a10020951deaee0ae719ead6784e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Why Did CIFR Stock Drop Despite $3B Google-Backed AI Deal? - Tokenist",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzQycVlZLWNqcnpENzBaNzB0UE5FQ21rNjlwR2pfSUttMFYxYy02RWlUejUyR1MzVm9rVTFGa3N1dnhNMW96MXJQS0FGUEVaR3lQbDQ5M0JPcGZNN3ladXpaYXRtOU1JdXJqSXFTa3dxTDc4UHNGeHB2dGo1elREc3d0Zzg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:24:43Z",
-    "hash": "31e6428cc22224e0baa403b02f7a2dfdb8a3039924543c1f60119542eb55a0dd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction - Solana Could Bounce Back To $250 But BlockchainFX Sets Up For Higher ROI - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb2RiRE1iYWtJM3VTenBGSlIzdGNweDJualctQm5Pa3JiV3FSYUhYQnQ4dThJTDZoS21kM18yMnBEZTFCQjNtRW9mc3pySFNlYTlORTAybm11SHpYdFRhZTBaWDlxdk5GRVhrellTbTdaN3pGWGlQbWF6OHhIaWMxZndaUDFabE9Ya0VKRGpsYUtIZmg4VGZSRk9YZWl1Si05S0FhdGtkaG15MV9IVmFQbXh2YVp5c3lLNGxZc1ZEajM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:18:11Z",
-    "hash": "0b054e573d4f7c64773fa1b4d7564685a841c60e5e5ea81e53179b411840b608",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana open interest hits a record 72M SOL, but why is price falling? - Cointelegraph",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMW5oR1JkSGtSOVVuVV9iMks2ZnJEX2JEM1FkRFVnelJkTDdydHJ2dHNubWFHVHlZR04tZDRqVmd2X2VJNGh1aUZXLWxFc1dJVmJQcjBmemtQWUplLUY4UDl6QUZ3dERQOFhhTWNxYTNNRk50NVg1aFJfSXM5a0Q4N2c0MzhFTW1wQ21hNw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:16:59Z",
-    "hash": "2464b0775a7b44b060ded1ac81de6fd46fa90f769b55863cde1db12e40d7789d",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "CrowdStrike Holdings, ($CRWD) Stock: Launches Threat AI to Automate Security Workflows - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3lRWVBZWVFZMnhwa2ZpQWVpbVBKNTF0TUw3eExWWjBaT2ZkdWdlaW9UWjBBejVCRWhvTkJILVhRa09JVmN6ZDhheDU5X2ZmX2NUd3ByTlB3OVFQWGtrQTlfWVZ1ckhIcDRPU0szVExNNlRwNHJXelBMTlVnemdiQTBfSEd3OGktMjVYZ25DMjRhOE9lb1Q3WWQtRFB1cEZrWmExTlhjbDFGdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:16:22Z",
-    "hash": "43c17f6cf76992984d710007f17e8b3ac2fcdf5839775983e1febd7d11ec0934",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin and Ether drop ahead of $22B options expiry date - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SX2d3YThtbmdOajdhZmpodzNmbEVVTmN4ZnRUWkhUT0t0WlVMeHQ1UC1BNnNzYkxxRklvZDF0SldGaThaOXljLTF1bjhYdVI2MWRQZGpDYnA5WDB4ZEVOSHBUbDdLTldQQkQwMUN0UzR4X25BdFpHdWM1TQ?oc=5",
+    "query": "BTC-USD",
+    "title": "Bitcoin faces ‘imminent’ $110K retest as US dollar hits three-week high - Cointelegraph",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0NVbTQ5TmMzWmRkVmtEODhxdzB6TUs3ajNJWnl2aUJfZUR3cW9FdzExNk1neDMyTEJLQXF4akJJTGllRDdtUHh1NkNDSkl5THV0VXFNMEoxd0VlZ18yZlh6ODR1aG1WTlJWQUFXODZmUk43b0VHZ1lBb2xNWG8wTmVDbzNXNGtMQWphNXRZLUVDbGdWeVE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-25T14:15:00Z",
-    "hash": "70060a9d6c7ca736b7a61d91c6dd7abc700a1ecf6999dc9e9d5440d0ff9db9f6",
+    "published_at_utc": "2025-09-25T14:47:26Z",
+    "hash": "52f18e72e3d979a47059426dce44be25d02b234a813d4d94b416f662ecb78eea",
     "source": "gnews"
   },
   {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "TSM Bets on A16 Node: Will It Give an Edge in the AI Data Center Race? - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUm5oVnp4NVpOdEVCZWV5U3d5d2VVMGdvYXRTRTNfNzhBWndjWXNJc1BhcmdXWlNIM0NoUW51QVFwbW5falZmc1ZWbk9VdzRWb096TTdwM3E4MjNNenpteGdMVWhMVUpuZmtLM3ZqOG44ZTZtdjA3ZGl6bUNDT2EyU1pqa1hpU3lZZ0Z0d2JTakN2R3lzRlByUGZia3k4cEZRV3BKLVhjVnJaeW1odGlFby11ZG9HelNxVm5KNmtRVUs3TmVpNFJVN1gzdlFSUTJpY0NtRXNBUjZrWjFTQ2hkMHNoRzEwTWlS?oc=5",
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Can a multibillion-dollar deal put Pfizer in the obesity big leagues? - PharmaVoice",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUo2VldJQjd1MmM0X21IUVI4MWZPQ1J5bjhUV3VGaDJSMWdiTE9IT2hOXzBaeDJYYjUyMTY5WTJWTUp4bDFoTkhkdU9rNkNURVJkNnZhS3J4dXFPVWZYNDRJcno2d1JUd3ZWd09XWVdSYmZPTzExVjBEMHExUmtPSHRJU3EwRU1nTDdKbg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-25T14:07:31Z",
-    "hash": "a9d0600b2ff6a8daebf50895d85c6a26876d498245fc7eeb60055804fdc517d6",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD (BYDDY) Stock: Chinese EV Sales Triple in Europe While Tesla Declines 36% - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaEpVbmJyQUlyYmFEY2c3aTFQR3ZkVXBORU1FeVgyR095ZkVrWUJKb1oxa3JMYndLczFaU1BpYW4xZ2E0SXhDNFhMMUVMdGV3alllR01WdHl5ZTU4UTJJNDA3RDdLdlFDVF8tU1ZHMlFtUkVDNnJxaGVtclk0NklKYmI0RjV0WGwwYTRkdS0xUWs0ay1jQV9kdHNCOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:06:27Z",
-    "hash": "50c3aa58b5b777854da67003712d383f1f85acfb5ad09e10da69fdbf9ee284bb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Upexi (UPXI) Stock: Faces 3.90% Drop Amid Strong Fiscal Year and Solana Surge - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTFXM3Rodl8xZHJ6WU40czYtWFZsWk1VaFM4UE5zM1hZdUdKOFUyVDN3Mlc3QlFvUEFMS0hvY1pQdmNpWVpTWUUzdHNpbklNYXFvbkd2dnl1WThScTBPMU9ERU54UFlZM0xUcTM3aWc5em55TUZya29NREhrVWlJN3c2TFY3aUZuc2lqaDB3aUtZRGZWMXdfUWxhZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:00:34Z",
-    "hash": "5dcac1bb60aa117decf5ce87f927469ed316b043a6c456d38f310287aa1fbea4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Which Is The Best Crypto To Buy Now For The Highest ROI - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTRnUVZXUFM5MjY5Sy1EWnQ2a3oxSWtlZHVTZGY5dHBTY3ZYTHd1a3NmSmJwUWp3YUd2dXBqZDJuRUw4OWN1WEZCdF9SWVpYMmlHWlBieTAyZEMtTkxoQzFKbl94c19nWTljQ3lmUlhmcEtPRDhYUjFkb2ExQ0FNb3VXQVZVNWpxUzBuVTUxNzhuSVdXWGMyMHI2ZVBfZExEZFpRSFBDVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T14:00:02Z",
-    "hash": "346ab42652ec3ecc85e666d70bf7ca1d61d6ead68bdbc1c83e9b2c41659fdf7a",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Group (UNH) Slid Due to Decline in Investor Confidence - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTBocEM1TWlmMHZXZnJZdDNQaWtSaHJjamJkQ2Q0V3p0WXozQzBDdnViNVFOQUJsdVFmdmdsVkVETWJIblNQS0RRMUR0M1Axd3ZYeEZXckxXTE1lcm9sS25pRkNZZExTRGVYdTd6eFZGMlAtbGFpWWdrM2FKYW12UG9DTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-25T13:58:12Z",
-    "hash": "a0ac6b4ccbeca0073564ce5526ef8e850323668986f1109a994f97fac783a34d",
+    "published_at_utc": "2025-09-25T14:41:10Z",
+    "hash": "3282838148c595b54c34a7b36679fa454633848020307e6cd1a3aa2c1f3cf5d3",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum Price Analysis: How Low Can ETH Go if $4K Support Is Permanently Lost? - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2hYVlhyMkVMUUptNkoyM1JQSUZTX1BrLVRMTVlWaVcwN2JLMGZtZWNfVFhjVEpjRUJpU2pza2tqay1QWks3TEZiQmZkbHhreHpoRm53Y3JYU2NvV3Jja0I0SGdMdl9VQzYtRzUwNmJNTUZQR01QYkdLMHVjOVdHQjZoMGItOGwyMzFRczVkcUs0YUxvNHBpZVhGNUY1YWZRN3lZQdIBqgFBVV95cUxQenMtellwYzFfRi1RODhkdlNES1lta0p5My1Gd1FGODJWRkV1VzFFaWtPSjEwVkxETVdZcktfeDJTT3Zta0FnSno0cm5KY21UYjNtZlI1cjBna2JXNkY1ZWp2dndhWm1WbWU3LWFObE9CaEJiTk5HQ3U5UHBBd3VGanNhSU5Hc2pXaGhaX21oSldSMFNNRENXbTVWWFh3LXRjRnRJSFRvSmRFUQ?oc=5",
+    "title": "Ethereum Whales Scoop Up $1.19B in ETH Amid Market Volatility - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdGI3cy1ja0N1Mm9EMTNMM0h2V1NEZERkVlVSNzlQeDRzTDJzbTM0aHJFRVFVRUpsZzdtX1lSQnhRSGJxOHcxa2dXTGpWbVJ3dUd3WjRQMEJCaG9Uc0NaQzlNeWI4cjgxamxCRWpWWnkyV21VTW1DaGQ1SzMyUXBCd0FRWXJTeXFiTE1DcDFOVlkwdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-25T13:55:00Z",
-    "hash": "532198a2565ff05d45ad367e04c363d2e7ff19b4c10ff911327922c6459a4b41",
+    "published_at_utc": "2025-09-25T14:38:01Z",
+    "hash": "fbf3a0f355449e1a56ae36fa73b8c140a54a3e97f53b0100cc77809b9dca7fea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Dump Continues As Prices Slide 9% In 7 Days: Remittix Tops Crypto Trending Charts - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXZpczR6cDFOZ3ZSRnVmV3AtZnh0dllkZGI5eVZuandlSXBhRTZkR0dCVnIyMGxTeDVPOVpMUmFmeVN5NC1yaXQ2aG92T0NHVk5RMXJjQi1nS25FMmRsTjhEMURDaFZRN0xWVmstdWczRzd1RmlOUWxGbDF3WVF0YUtPMHZoNlY1VV9nYkEyWXVDc2FQbDJaNVkwcmlrRExsVlg4VGdyVDFadmZ4UjlGeDhQNTdCQzd0YjZTdV9Sa2ZUTko3N3E1MTdtb1ZhczNk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T14:33:41Z",
+    "hash": "ed6969cf23a092205e408ba27b6eac61a3efe9c25c9e73730d53449760e52b23",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Rosenblatt starts Webull at Buy, says shares cheaper than Robinhood - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkZmdHpUM2xwdkJRMVEyeElkZEUwY2M5eFdtcjE3dFhVWjA2M2phSC1IcGx2X1JVa2J6TmcyZEdTQTFsalIzbVpqQ3BIQWlIUDRwR1lEUDZFcF9DYnVJMzNlS1hqd1h6YmljdkRSRVg1NXNkZ1ktUzRiN1lfRU9TSnVwdllJUVlaOWtvcEhfNzgzbGxwZV9KdDBrZkdWeGMtVktxcUFrWU5mTGdCSEg2MG9GbXFYdTBfMmNrejRJLUg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-25T14:32:27Z",
+    "hash": "7cd79d9ffae6a728130d6afd68bff48b8d14eab522e3c86f898ece62f94a6fc6",
     "source": "gnews"
   }
 ]
