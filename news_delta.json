@@ -1,12 +1,62 @@
 [
   {
     "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Seen as Key AI Beneficiary Despite Risks Tied to OpenAI Funding - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rdzc4U1o4ekNGVUt1ckVMNklDMkwzeEpXWko4SnBaRnpkem1UUjZ1MnQwWGhWcFZ5RzdzX3k4Ungtb2k0aHlUdVYwSVJBb3pCaENCNmI5NUp2MVExZ3B0WTFBTzdXUUkxUXRFZTJaZnFXV3Y2SUNhSGdWUjU?oc=5",
+    "query": "NVIDIA",
+    "title": "Nvidia (NVDA) Seen as Key AI Beneficiary Despite Risks Tied to OpenAI Funding - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdkgxWkRSQ2ZrUDlKVHBQVW4zaE9xUEZOZXdVSW1OODVPLV9GZXFPS3BHbHh5TlIwU3dWV194ZGs3YXNtck1yS21OT1JqMUNJemVrdUtwdGY1T01uN0pEaXZzNkZrS1RRSmJmNE1KRENObU1zM210SW9mZzRhdG9ob2ZYbDg0UGlpdFhvWHNuRnA4Y3I3VTRfNTlHQkVBMlA1STFwWGQ0LUg0Wnp6ZDBIXzhCN3l4SFlFeVh2bzNET1R5aUttd2tQNEEtR3lBalB6cElfWll5RmpMcW1GTi1TN3pQb3E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T22:39:36Z",
-    "hash": "992e0ba68e2609332afca39df5433fb12b0e8caf7b7272e19de7ed6b644b75fb",
+    "published_at_utc": "2025-09-27T23:13:15Z",
+    "hash": "cbd2b84527653933e2f30e9b42a50377ad9dbbbbf98fc04c1ee4034cb999c9a5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Remains the Crypto Benchmark as Rivals Eye IPO Growth - Azat TV",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3V1T1JHOWVNQkstTVBUWTVFbXRGS21ZTklsYXBhbXhHNEU1UTRIMXVpRXIzc2RwODNwazR0ZGVOVVg2VWZuRWU3U0dJWmlseGVGYzZ1OEtWSXlrc1ItVTFvVWY2SnJSZDhJZUdtSjZIN1BsXzZHZEZDa09fandsZjZtX3pQTGJBSXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T23:00:37Z",
+    "hash": "473d79d4aed2291e8b43195391688d76325d72a00643b2a4d8c28dd3024f858f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Does Wall Street Think XRP Is The Next Bitcoin? Developments Spark New Approach - livebitcoinnews.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWkYtMklxc05lLVdyWGlSZmZpNUpFYWpEWkVKU2ZCWW1WaXl1ajNrSDhwVDBZam1xaVBNdkJGYU1JV3lFRGVSeFU4WjZ1Vm1yLXJtUFBhQnVYNmZSYUYwcnVGclMzcXd0cWthTjBUdDJFMHpQSmlqOXJTT3d6SlhoM2VrcEQydENYUmc3cFNEY0tQbTBvSnRzTG9ZTnlJbkFRYm5YRjFFNEdVeHZUOGpxeQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T23:00:29Z",
+    "hash": "bacfe0038da359fc4f4ac6470c1be02fb439066553c533439ffeca5494736666",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "(BYD) Trading Signals (BYD:CA) - news.stocktradersdaily.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1NEUF96N2NqaDdBek9CS1d1SlFnS21MOXNKaW8tQkVtaER0UWI1WHBvSHdZU0x5VWxWSENtSG9NcllHMUh6OG5MOWZIbEhoR3R5bGhGdU9jUG1YZjF1dWgxSDVFcmFzNTdtcVRPM1FMcFlUNE83SjZOMzAxeFI0eGY1UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T22:52:11Z",
+    "hash": "0513370c4b3c01736ac3d0d42d08d866c30a683f0fb6c6b04f8fdb84c8f9243c",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Fal.Con Event Boosts CrowdStrike (CRWD) as Investors Cheer AI Strategy - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV2JfZnZkUkhXWGZCVDJ6aXh4QlFzdXZkVU93SV82S1lFMXB1bURqUm4tTnVEM1BNOWVJYUN1Z3RTM2lrUUN0eXpsT0JxNG9xZmRwREVMbHRyYVBzYXBjZWhJd3VDM2lCZVQ4Q3pXZC1aQko5Z0pDOTJVRDF4V3pvOEd5OThfaXV5blRESFpxM3hrZDVnR0tBNkpmTDVWTk5tQlF2N251Nlg5dDVJY3Q1Wko2a2VGVVJ1OHVndXk1YktUTlFHWVg4Y2FtTXhpbC1YNW5jaTAzZThKNDJpZXRPMWVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T22:48:16Z",
+    "hash": "b63550307505a579b02e93a057971afea716a8a8b7a09031f7781172f6a9838b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Pattern Is Bear Trap As Experts Say ETF Approvals Coming Soon - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWF9vbmU3ZFJVc0NadVVDX3llU0NHQUI0czlDeDlwbzZlT1B3bTZ3LXEyLWNDR2pyV3haQnBlVmp6bEgxMTJVaGJnY0NNN05ReEF0NFFqcGxwejJjd2J1TU5hODNOc2dBWDJlZmVWZ1RPRHh2Ymh0TmRTZXdJVGNSWmg0SjM1Y0NXcVhtT2VNVUFqbkN3eVhEd1BJeHZPZzVLYnJYM3ZTMVYwUVFPN1JZZ05B?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T22:44:33Z",
+    "hash": "277ec3a78f685bc4f695e7b65704a84e5fe11ca9ae680027cfd86eed494bc024",
     "source": "gnews"
   }
 ]
