@@ -1,112 +1,22 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Crypto Carnage: $6B Liquidated, BTC and ETH Plunge in Brutal Week - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWTFuXzhHcGp3N0I2UnBoa284WVZCQXlUX0xTSkpFaGphNFhCYks1VzBfWGd2dzV2YmNWVlFjNUV3RmcyaUpPbGhvamlSMzNyV1ZHTTZRY3dvVXhyZzVkekl6RmJ5c1ZEQmdyQUlXWGFlVFNJdk5vdE9mRmc1NEg1M1BZMmRHaUZVZlFPRjcyOTRkUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T21:21:15Z",
-    "hash": "fb045f8a36522b792940edaa07b73b56a382a56d99a72b88e6fd6d18dc8e2655",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "A Fresh Look at Boyd Gaming (BYD) Valuation After Strong Results and FanDuel Stake Sale Plans - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUdJVkdNeXZBU2g0ZWVHc0JSRVZxM2FoSGNhaG1waXdYN3R5bUpVVnZ2dTM2bUZoaW5FcmlnWG9Ta2ZkLWlKUXh4YmpDc3JuLWpxdUswZ0hWVU4tY3UwMkxDNEhPdzY0aC1VbzlHSnBjNTZqZXhOWUc4U0o0RWFYWXBjNlE4MzJWQXp4N21DbDJQT3lSOXFCSTNKc2RRbDE2c2lPVnhDMnRDcmhWbTdCU1VtdTdiUlJvZnZYamhyOXRBcFNtTkJZS1YtZ1FoU0FQM0HSAdcBQVVfeXFMTlo1cEJfeU9FSWhNNWZZbGVPR3BsRkJtbzdyU19RTHdnR0JfZFFXQXFlaWFKc0VwNTNUcEFXRUJ1UnBnaDBGUEt3d29maXB4WmR4eGNxX0lPTzY4OV9ZV2hYdl9lVVBDYS12Wi1HQ1hLMl9mTU1DRDg1ZDBYT1NnZUpqQUpoOHBoQ1dkRWVKb2Fvcndic1BqOWkyQktuVXg3MlRVZFNoaC1aV2ptTmtMM29OUktyY2cwT1JJdzhUVE9YQkJsV2xSUGNlWDU0TUtadjgwME9OZUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T21:19:24Z",
-    "hash": "56ddee0857ad207aa7a3a9f7e83c565f803eb179fbbd88a1bdb4038ea1301203",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet Google Stock Price Forecast – (NASDAQ: GOOGL) Nears $250 After $96B Quarter, Gemini AI Surge, and Antitrust Win - tradingnews.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0U2Z1JrVXZSZVV6OFpKU19ERlptZUpDLW9hVkk5Y3VqOXNVTW40bGtMUEdQUjFCTGp6MU1SM0Qzd3NaOTFNYzhJY2JBNGhfb241ckFjZjJqQzRkOWNTOHdnSm5Wd3dWaHQ1NTFqaExqbWlaZFFqSXhqY2ljQi1EZG80bm9jVzF5YS1TVDhzOWE1YTB0WWphMEM0MjYyMzlCNWhXYm1SRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T21:16:42Z",
-    "hash": "56887e330d03cc3ee3073a379c3070e5e3300dd156e39ea3b1ad607d15bdbddf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "How Stryker’s (SYK) Robotics Partnership With Siemens Healthineers Has Changed Its Innovation Story - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEstNXdUMHZNaFNXR1h2dGR3VFEtay1BRnFOVi1oM0ZES2xZazNIYUhJWkZYVXdoUGl1T1kxQ2I3RVBucFQ1V0VNOXNJNVMyaVVOVEs3VmtYRXJna0t0Zm5IV0o0S1ExQzBxa1cwa2RGOTVtT2FjdnZLYzRONkVNM2J0cTdJUWdiOEdDaWsxeTFuM1dINnBQNHREdVdpZTlhcXlVanlLX3ozVHVacjJ6MS04bjREMjIxSXVibEZGWC1ZWlHSAcgBQVVfeXFMT1VDS3lVTzB5ZHQtd0xvMW4xNTlHbnZ1VkdwMjh0WUNlZUNqa2RTX2RYMkdUY2tFaHVJX0FkclBjZDhwbENFQ1NNMHR5T2oxOTJfaFZqR0FYTy1NeHZUVGdUdV9RR3h6ckNtcjdyYjdIc18waWVlM0x4cEEzQlFkQTRSSE9HazI3ampzbUNEaTJoXzNzN0lrSXlaanZBXzBSSkIyMjhyZmhUUTA0dkJ6ejJMV2xmOHZnc1F5UTRQNUZyY2JCVnlKYlg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T21:15:50Z",
-    "hash": "3a6320d13b2f086cb8f482d888a01abb9d28d1871e91312fa750dd2420923183",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Key Support Levels Could Determine Short-Term Trend - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzJWbE1WS0pTTnp0NG5qNGhEbVRsbGN1b1pmckc0V3dOSVF3WjFxaGt4UU0xMUNCcFM3djl4bzd5aGtxdGJRNHhLMXBfYVF5T1RPS2lIN2MwdnlSNk93MXA0TENpRFV2U1JpSVFfRFZCamo1Y1RhanJTMlhjOXR3bTFNX3lfRzlwN0hXMWNFZ0JGOTJZZGRsbHlpdWhhOHBrTUgxMVRB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T21:15:18Z",
-    "hash": "a80f8d4c172f1f7e44004eaaa9f1a2a7a3ec61438e1c94e97a5bfa5791062432",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Can ETF Hype Push SOL Beyond $400 This October? - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX0E4aDNvSjRvdWFHSXFVYkViSENENFRhWHpDYzdESEdITU81VG9kZXRqQ1I1OW5kRERpQXlJaGNWSGhZMGw2UVBqQ3NUM2hQeEV2b1NFWWxsWS02Tm5CSFc2QV9ZWWVEZXNPdjk3dm8tSlQ2R3U0a1hKU01KUFZyMGZhSDkzVkc4R2hQLXJCOXdHalJoNEJRRXJGRE1DNURaS1N2dTRn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T21:10:20Z",
-    "hash": "7344889376519df50154b7ea598db78d9a0ca3d557ffd644adbb02beaeafc876",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price Prediction: Bitcoin Set to Go Parabolic in the Next 3 Months with $123K Breakout on Classic Rally Pattern – Brave New Coin - Berawang News",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPU0I0Yk1UWTdXODZnLVlSVlo4UUUyd2YzSHljdVhGNnViYjgwTFRwamI3WXRkVmw2T2UybG1reG81M3AtaXBkTTZGRTdLS2VIcG9DMGVKcW1OZ1pGQVJ4bXB1bkhHZHFBa01zb3dzVzVnNjhfVEhLcmRYbGVzZXdlTlh4bVlyU21kQldxQ1RoU1l1X2xUNlJvMlY1YlRtZlJELUZCdGR2dC1rMVMxTDR3dXQwUXdEYkQxYjdpVWdoOERaY2J0dVVuN3BmSXdic1RKbjhvRm5QOTR6NmVReG5kM2c0MTFhM210SEdBRTNnTnpmSi1U?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T21:08:18Z",
-    "hash": "d94f4ec8bd69526ff846b98ac63cfcdf8b112ecadf3a1feb4c7450a8c81e4236",
-    "source": "gnews"
-  },
-  {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Price Prediction: ETH Flips $4K Into Support as Short Squeeze Fuels Bullish Momentum Toward $7K - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUU0xNTluVS1pNk5JekdjU1hleE9UcXhaMzYyLVRSMlRidlpJZEhzX0xCY1I0SHF3STl4TWd4eVBKMFBZcmhKQUZ4US1CUjdSX21TVUxXVmV3UEliSFk3czl3NkI3VGdWLWNVeXZzYnFGb2FfQTNhTFNCVWFHMU1lOUhYTjdGVmtsNm9LTkNnZllzSFJqMlpHUUY0czMzVXZhM1JrMkFtbkd4QkxyeW42ZDNPeVAxcXBTZ29KQzNzdHVuX0huX2IwY1A2UHRtYW85NUpIYmdn?oc=5",
+    "title": "Crypto Carnage Unleashes Billions in Liquidations as Bitcoin and Ethereum Plunge - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb2RiYVpnLVFCcEx1cUhqNVBQRk1UTmtZWDNQWnczUGFKVUlsQkZVY2lrVHhjWDNtVjNaMERSMC1SS0l3NktxQVZjb2Z4aXhQN3h5OE41U3pPNzNlaTdwcHZLbUFRZ3pUUVFvbjVwbHBNZjlPVkdvUFNlRDFCNnQzWkx3Nlk0X0VEZGUyal91NGdMNk5QRHMwRmV1X0FWLVJHVVFlMDdMWVBoaG15VHJhTFkwcXVhamRBa3BlMEVtbjlJZ1ZkUWdBeWJCZmJSazdTN3ZiOTlvZDJHazZ3eEp4TkJxQndNZVF6?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T21:06:26Z",
-    "hash": "4374b912a62eb44109315e2f026ccf5e9212e6bc947a272ca7cfbeff71f6edcc",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "CrowdStrike (CRWD) Valuation in Focus Following AI Product Launches, Strategic Partnerships, and Bold Growth Targets - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTFh5OHFzMVZ3bzRXSGxsSDRGYmd5bVpJSjRmbVBMYnNQeVpMR2dac1RyWndmd3U0QW83YXV2SUVzT3BUVVo5NU1iWEVVTUdLYmZqNkU3dnRtVkkyNW5KcllaZnJBbzVlRnpmZkswQkpodTQ3WlJfUW1wNmMzZ1FnQnprUzdwbU8zSHFrYXVPSFdWUTJPOW9aYjRCaGRmWWd0Z0tsWWtFRkR3eWpRTXlRSnE5RGl4bDNPbVRVY0Q4M00yTm5zTWxaaU1OQS1hZkg3OHM3TVJ30gHbAUFVX3lxTE00Y1EzOVdfZ2h0SnU5S3VSZHpHZE9ZSDZwTjFRU19TcmYxNEVMdU5VcFExTldvaXhoZWgzaHhJcXZXWnVDWTJ6bW5YM0RaQnV0bTlvX2FOYlJoZGNaUlRfbXlISGFhSEZaMGVyOXFESUV3dFlGc05ISENlVlNxQTF5T0NjY1doZDlyU0U4cnhvdlU4Yko2MnhrVHRiRG12Z2d0SW9FNWpyUnVQZWZNTjdyZk9DVXh1UFJYdWN1aTlNdkJyY2dJU210cldGVjRXM3k3N3Zpc29HYmdmdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T20:57:05Z",
-    "hash": "deaf79d37eafab675d6145fb3f280a9cf337110a3cca1b4dc1c213f9f51810b3",
+    "published_at_utc": "2025-09-27T21:36:00Z",
+    "hash": "580b278417566ba9f55a02107333acf881033c745f792c44b996a0447582f1b4",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Today: XRP Rebounds from $2.75 Support as Analyst Predicts $5 Breakout by October - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNenplRVZHZ0JpS3FyU2N2cFNmdC1kM3cwZUFxUmdRRl84emM1alNyWWgxUFVGTThyOWkzZFI3QXc4ZzRtVy01NVBvY3ZMQ09XMENYY1ZGN1ZDVFByVjQ1RHczVTdrUkk1Ukprbm84a25SQkR4VWlTUUN4M1dqWTBqY2czUDFTbVFNa3dmaWFNaHF4TDFVbW9lejRzbU1NU0M5WnYya3FaM1dzU3l0emxBZFJOVUt6RFFwUDN3b0k0SQ?oc=5",
+    "title": "XRP Eyes $5 Breakout as Regulatory Clarity and Institutional Interest Fuel Historic Rebound - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbHBHb1ZTVkZxa0VuVTg2SHFZNTNiZnNLSXJON215YVNCa3dXUUVJTjhRYnQ0ZUt6WDBBZWF4OHlzUDVzUHZsSGxGak5uUi0zODE2ZjRFSTctNU9ORU4wd1U1SGc0S2RKX00wU2YyLUFiaWM1LS00c09jQVlzWWlvZnVNc3B0cm56QWFHbUtkTWQzUHhDYTJBVHk4NlpxNFdfTlV4R0RLSGJkWmlSTTZnUE1mQVFOc2RpdHdQeWpQUWdxd2xpNXhjWFZLQjd4VzNCbk04anFZbW1sQzh4Qkt4WXFiZmt2RGc5V3hMNHZuNXh4eEVoT1Z1OA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T20:56:56Z",
-    "hash": "30209caa829643e71525bd5e8815c97e0b3e165c2d5bcb8bb68a39a218ebbc40",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Top 5 Cryptos to Buy as Institutional Investors Diversify Past Bitcoin (BTC) - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRkVTWkZEYUQ4RVQ2MVY0YXZ0MnpwYWVfUnV0akJSQzIyb0NuMmRpSkJEQ3ZIRTZsQ3pybnp4bUZMQVRmeVZMekFmaG5qeWVQZTJ4dVdJSXhWSHZQT3pfbkhUaHZDVEpWWTQ0OEM2VXVSbGo4Z0ZXMVRKLXJRZVhHSHJXcmI0cWJ1VVdmcVFQQ1NmTlVLOTFEdFN1Q3NycmZIdkhnTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T20:45:18Z",
-    "hash": "f058b841b767938eddd756ace3f403c9f1dcb3adf699fc13d865872882bc9621",
+    "published_at_utc": "2025-09-27T21:29:00Z",
+    "hash": "f2d0effec5e803889f5e8ea5cbcdc095fc0c26b001d81fea31d82cd6146eac5e",
     "source": "gnews"
   }
 ]
