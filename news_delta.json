@@ -1,32 +1,82 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "12 Crypto Time Capsules Open in 2 Days: Dormant Wallets Move $32M in Bitcoin - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNF9mcy1EbkNxVDdRRzJhb0k5ejhtTDFneHVhc1NtaGpNQXpTb0o5Ui0xa0lMNm5MVk1ocXM0WWdVaTRBbURpTTljRFFBN1V2WklUSFBHUU8yUjAtOXNheGlpRkYwWTVhMnpkRmJ4OXJ1a1BxU1NKck9IbnIwdHVVLVdtdmRkSFVta21rajFzY0hkSEJVMGwyVFNwSk5oTkdJYUE?oc=5",
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP Price Forecast - Ripple (XRP-USD) Struggles at $2.70 Support as Market Pressure Mounts - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRzkxNnBaaDRFM2VucVNnSW5McWdYMUNvVVVuQTdudURUOF80NkV6dVluMnh0OTFSMXBwMURFeWx6VkZBVkY1RG13MjlSTzc4Z3luR1JndE5qemx6MmFNbHVkdVIyaG0xWld0MEVLQlRVdjAtMmFBX2FVZU5oekJxcVdXbGlyZnAxVkxSZDk2elhwa3RnQnYzdHZGWmdfRTZzamNzZHM4Z0NPOEFHemE2RndMX2hmanB5YmZVeThxR3ZGWXVIc1pqT2tfVFJHQkdpa2tXa21weVhTdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T17:31:11Z",
-    "hash": "ceb56269eba7f25cce84f1479bd69e29d01a1d9228f6490129b89f1a26553bbf",
+    "published_at_utc": "2025-09-27T18:26:42Z",
+    "hash": "0c9494d2e46c4efaee09bb22546a93b4ddf9c1124f23f1edda557c4bbdd44dd3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Cryptocurrencies shed $250B in value this week, CoinMarketCap data shows (BTC-USD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3pmZC1KakRLNXdwaDI3M2lLZEppcGI3Tmd6WWhEbkVQVkFBbHd4X0VkN2U0SEh2bmhWaFBBQndkZm83ZDhodkhBeFRXZk9qZENvQlQwaUxpUnY2MHNDV1VFRDItQjFGUTh1U3NtSEs3ZzFqSEZTdWdSNUk5dGEzYWNXaU5pOTFaS0lOcE00cHlLYlJYODJTRGdFc0JSUFBWZjd6WXVnbU5IUXJ1?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T18:18:51Z",
+    "hash": "e6e774bb4616a490635fd678ea8f7e72c9eb83f521ee2cedb858d0755cfd9319",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC To Hit $144K In October As Institutions Buy The Dip - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVl9ORjd2bU9PZjBxVDZ3WDRuaGEyX2phWFg4cGxiYnd5aTA1Vy04TmVWQ3ktZmpyXzRDd1V3ak01NVFNLS1vTlhqbm5VZFc2cHBLaWoyelZwUERKeGNlS0NiUVF3M0pGbXdnUWZVcElUcFU4aFJzYVhUMjZiN2NYUG0ycHRHTEdZSDlDQ3pNQTdtUWNEelNaZm9nclhjYkY4eTdZV21vd3lsaU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T18:15:24Z",
+    "hash": "c6ef854098fed94bbf3d61487c62b394466346225d904c762f5fb996663989d7",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP and Solana Could Explode – Why Smart Investors Are Adding Them Now - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSG1EeGliNGlwbHNoaWlVOVQ1YTUwakhBY2YtQnMtX2FlTk5yR1M2VGNySktNWkxRNFcyQjhDQnhDSjJVQ1dFeEtxOEp2bG90UW1ZZGp4RktaUGxMOUx0TmkwclFOVklBUnlLNDdOaVVkWk1iYWJyTU16ZmtzdTdxQ0UxQ19iWnJnU0Fnd2pldktCSXFkd2NDTFMxdlI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T18:01:43Z",
+    "hash": "c4b12b1c5e7430391678ebf017dcbf21972e81632ca2be75081d35453af5ee71",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "XRP and Solana Could Explode – Why Smart Investors Are Adding Them Now - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSG1EeGliNGlwbHNoaWlVOVQ1YTUwakhBY2YtQnMtX2FlTk5yR1M2VGNySktNWkxRNFcyQjhDQnhDSjJVQ1dFeEtxOEp2bG90UW1ZZGp4RktaUGxMOUx0TmkwclFOVklBUnlLNDdOaVVkWk1iYWJyTU16ZmtzdTdxQ0UxQ19iWnJnU0Fnd2pldktCSXFkd2NDTFMxdlI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T18:01:43Z",
+    "hash": "c4b12b1c5e7430391678ebf017dcbf21972e81632ca2be75081d35453af5ee71",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "The Best Crypto To Buy Now Is No Longer XRP As Remittix Leads Trending Charts - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2JjbGM3SFZsT2RxZXdHS3U3UW5MQmMzRHZXVVV3MTBWNlpoNkVpcUtQaUt6RkNNQ21PWGoyWmpfb3p4cEhIMjE4WFFhZXg0eFo4bl91VHR0NW5MVkR1RUo2eDMtZExmdFRTUVBzVV9lZ0cxMk1KLUJRMXFlWE1zV2hBNm00SHB5SU9hcnFON2hodDlvZ1BmX3dFeUYyWjgzVUd5eQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-27T18:00:35Z",
+    "hash": "38c9c90604e41ec96d71fa046a3b881aea1d022a1b5165991140fbf8d477a7c2",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Here Is The Cheap Crypto To Buy As Ethereum (ETH) Slides 3.29% to $4,012 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDNvMHY0VGozMU8tMFR0Q2V6aGEtcjExcnZoVk1LT2Y3MVdjWVdua0V4T005QzBqUkZYd1hscy1ITFhYNTBtOV9vdHRkTFFUZEdzclZiM0FtMmxrWDN2d3lid0FKMWctTTBFWi01dWV0UGt5d0JER25YS2NJeWFETWstLU4weDNpNmQ1ZTRFWWZGaUNMUkRlLVg0OGVTRTQ?oc=5",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast - ETH-USD Struggles at $3,992 as $796M ETF Outflows Clash With $11M Staking Inflows - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2VRTElfZGI3QmtQckgtN05pYzlYendLem9TbnA0SW9MXzdKakVTTUN2bU1UQW1XN3l5Y0RaV1RrMmJXR0VXYk1XT0ZiM1UtNi03Q0ZzVmNmem84dzJPWGdWR2IyTk1hUVBySW56TV9JbXN0bk9ZcVBBQ0hFNDM5bEV0LXg0UE9oREVneHdZY3FIc1U?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T17:31:00Z",
-    "hash": "2e28a030b8e0ab1660f495ae7a86d8a8db45a8fe436fc07c153b1dbf34440e95",
+    "published_at_utc": "2025-09-27T17:56:42Z",
+    "hash": "bfb6e7a0fb212d59886e9bc7ca08e43a40e0d9f273e15423713e5218aa3f0722",
     "source": "gnews"
   },
   {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "Can BASF India Limited Deliver Relative Outperformance to Sector - Earnings Volatility Patterns & Low Risk Trading Growth - Early Times",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXlDTHpEcTBtOWlXM3AtZzlORm54WnZWU3FDYVRUSWd2WUhyRXN5WndyMG1ONDNMLVJPazUtRzRuUWdGMFhLYjJGQ21FMVM5TENsbV9PRkpxWUQ1a3NEMzRiSGl0eGxfNG1IX0tuRHFVb2dNa3o2OXM4SkRzQlh5UldCdjRUVm9wakxqNkxlTVc5dnY2OE5CeFJXYmZuWGhZRUNpVXJVVU0?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Is Intel Stock a Buy? INTC Rockets 45% as Nvidia Invests $5B, Apple & TSMC Talks Gain Traction, and Trump Tariffs Fuel Price Forecast - tradingnews.com",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWtJQkt3UEwtV2Fkbk95ZkwtYmFRSzM0elpSZTVkbkhhbXpjeFM2UDZxSEktWC1OZFZ6aTVwaE93bEZyWlJ1NDdRaFdjNl9pWXE1MUdtX2h5MFUxOFgxVnNXZXd2UlVqTTJkOWxLeG96djA4SEd6LTJKOXNmTG9zX2taazVWNXltZmNDbkp4WGFCanVTTXEzbFhVT3d3QmRaZmRlQ1VlSk16WUdJYi1lM1dJZXh3RFBjci1YaEJURWxYN0FoUjE1WkhoYy1Ldkk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T17:28:13Z",
-    "hash": "1c87c41c542f324a9fb81dd66ee5487eb6d449291631099bcd93acdb5701fdcb",
+    "published_at_utc": "2025-09-27T17:52:20Z",
+    "hash": "41767f6fe715b35d91a0507a968dbdfaeca11fcdd97677348a7975faa21b6dbc",
     "source": "gnews"
   }
 ]
