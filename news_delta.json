@@ -1,142 +1,42 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Latest Crypto Market News Today, September 27: BTC, Ethereum, XRP, Solana USD Pairs Stable, What's Next for Crypto? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGtCZTNZNVlLTHNlc3JZZzBpVF9VUjBBcjlsOFh0MmxXNmt5ZnV6U3NlcllXT2dPTEx2akVNQjFNOGczbWNKckdyNEtJWGRleWp0Um5RM19qVzFCMm4tb04yNjBHT1BBQU9PRVdaajNKRVRMRjVEcjVyOVdDMGRYam93bW9EWjZqM25VWlVjVE5jWW9TTURKZ000UkJpczVhWTVlNXFiVGZhREZWVV9fNURibmhuZ2VmNHlHOURGcG1BNEV1UDBOOEVtcWpKNGZndnRKd1FpSEZBUS04Znc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T10:22:54Z",
-    "hash": "63df3d16562422e9b00181df9e634ee247f9c2c1e4f1f9a821fc51c9df6bf68b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Latest Crypto Market News Today, September 27: BTC, Ethereum, XRP, Solana USD Pairs Stable, What's Next for Crypto? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGtCZTNZNVlLTHNlc3JZZzBpVF9VUjBBcjlsOFh0MmxXNmt5ZnV6U3NlcllXT2dPTEx2akVNQjFNOGczbWNKckdyNEtJWGRleWp0Um5RM19qVzFCMm4tb04yNjBHT1BBQU9PRVdaajNKRVRMRjVEcjVyOVdDMGRYam93bW9EWjZqM25VWlVjVE5jWW9TTURKZ000UkJpczVhWTVlNXFiVGZhREZWVV9fNURibmhuZ2VmNHlHOURGcG1BNEV1UDBOOEVtcWpKNGZndnRKd1FpSEZBUS04Znc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T10:22:54Z",
-    "hash": "63df3d16562422e9b00181df9e634ee247f9c2c1e4f1f9a821fc51c9df6bf68b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Latest Crypto Market News Today, September 27: BTC, Ethereum, XRP, Solana USD Pairs Stable, What's Next for Crypto? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGtCZTNZNVlLTHNlc3JZZzBpVF9VUjBBcjlsOFh0MmxXNmt5ZnV6U3NlcllXT2dPTEx2akVNQjFNOGczbWNKckdyNEtJWGRleWp0Um5RM19qVzFCMm4tb04yNjBHT1BBQU9PRVdaajNKRVRMRjVEcjVyOVdDMGRYam93bW9EWjZqM25VWlVjVE5jWW9TTURKZ000UkJpczVhWTVlNXFiVGZhREZWVV9fNURibmhuZ2VmNHlHOURGcG1BNEV1UDBOOEVtcWpKNGZndnRKd1FpSEZBUS04Znc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T10:22:54Z",
-    "hash": "63df3d16562422e9b00181df9e634ee247f9c2c1e4f1f9a821fc51c9df6bf68b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Key Levels to Watch as SOL Fights to Reclaim Momentum - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRHF5S1E2QzRLSVpWanJiSnd1WXkyVkxoQUhYdTZDME1XZnpWMVdSTWdyX1hlUnR6X3doN1M5WmJpWnlBQU5qVjBUbkg4ekZzNVVaZFN4VG5DNDhEamlOaE9Wa1o5VDQwa2dRWm9IRC1QZ1Y0dUxDTjJLT1JkYy1KQTF1WGJsZEdEYmluRENHaG1Xb1pOOTNjTXBIXzFYY1hCUUp0amxreGVsUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T10:19:31Z",
-    "hash": "ff4befd3ea29940cd483200cf4f809bc352a0ea1e58f4f6c0226f545769eca68",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "2 New Green Flags for Buying Solana - MSN",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcTRtY2V2SkFiNWhMZEpMZ1Bqa2VMdDVWNXl4S3UyMW1QZkF0Z3I0UF9wbDRrSGp1b3k0SVhZLWNRX1RmbUhIZVJfZVBFSjdJNzF1WDZJbV9FMEpZOGhsQU5iUVRwektOX25DZ205OFRUU2Z0ZmlfUGNqSndEN3dFQklsdTZaMHhfMG15bXhpNTBJdk5pLThxTTV6b2pha3k3VFJlaEhsVnN2cndOMlF4YkRaYklCZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T10:10:03Z",
-    "hash": "f8b6a975fa0ca88b5eb0a586f5823119d1526cb0dc466b61768f305efae928a4",
-    "source": "gnews"
-  },
-  {
     "asset": "Robinhood",
     "query": "HOOD",
-    "title": "What analysts say about HOOD stock - Bear Market Strategies & Low Entry Cost Capital - Early Times",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2F2YzlNZm9oTEhDdGZJYU10WEZYMlkyRmlQRWRQSXNEM3poWGUwWE56bTV4c2hEV2w4b3YyS2xlZDQ1ZUVzcFlrZEw1YkVZQ1JibDI5LXJhOUpwLXdnSkx0bEdDOFlQR0c4dWtLeFJiSGRKNjJTWlZ1a2ZISGJrTTA0SnE4aU9KQWc?oc=5",
+    "title": "Robinhood Markets, Inc. $HOOD Position Reduced by Signaturefd LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTZuLXF6aHBKc2NfYk1nVkphNUdCdHVmM3lZUnQ0Mzl1R0laYXhla3drZktMdi1EMTRkczNXcjlDemJzVDBwVV9wWU00QVNkLUtuelZIUk0yZm1pNGJvSUVrZ0FCdmV4ZTJNR0c4eFdBRUJBZlRybWdSX3dCZHBodU9ISGowTm5lbmx6czBFZVByT21od2dWT0ZUT29YVGNsM2JfRzZJLWlqeVkyUHhnXzZrVEdfbFM0TXVUS3g2Vmg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T10:09:57Z",
-    "hash": "aefae45e3e49dfd16e7fa6be0d006d99610619b676d9fdc094925f686f5033bd",
+    "published_at_utc": "2025-09-27T10:40:18Z",
+    "hash": "706e4047522d1e74828ab22bd41e305f9d31ba38294639ad65cd65353dda9f5e",
     "source": "gnews"
   },
   {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Signaturefd LLC Raises Stake in Novo Nordisk A/S $NVO - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcE9KV3c1dmZJLUJVZlVYekd2UU5UQzV5QjhmanJVaE5RbC1GajJvMnZUSVpUdmtMVnNWZk5xWkVMSTlmUjZzaDdiS1ZlbDhRZFp6a3BJQnBkbFhGWDROOG9ad0NFUm54NjlTODdqUy1aX0hUY0huMDZvc0N2aU44b2ZkeVkzV2pqQm42OTB6SW45TG1mSmJLMEthc0hmVXlHYWdfaFIxeFFTbU5yYmFSWGJ3?oc=5",
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Coinbase (COIN) Stock Falls 6% as Mizuho Raises Price Target to $300. Time To Buy? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM1hUN19weHp1RGxCTFIyYVU3RnF1ZHBrWldnSkc0cXJDSnV0T0RmTlBoMmhRX1djNjZpa04tVGNHZlRYVFFGcGcyb1Rabm5RTkRVdmg1dDVfMUd0a1NpUzBFaVptNmRMOEVVU05UV0twSW1KTDEwaUFsMjk3RFFtMDNOQTljTHh2VXcyck5qdWRyc0NjOFN3STBlT1NMbkZqLTRn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T10:01:24Z",
-    "hash": "bf900dd9021a93e9e076ace72956bc2294572e8e8b8d39f760395dd89f8a41e3",
+    "published_at_utc": "2025-09-27T10:39:45Z",
+    "hash": "57b4c89cdd40b57a8924d8a1993dc14707798392da9e76e64b79b6208d2bd086",
     "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Bitwise Advances Filing For Solana ETF Approval With SEC - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CN0dpbThmTVBnd1RIWmdGeWYtVjBjUDFRV1FDajZiblk1TGpLakFrZUxfOG9PdEF4QjY5SEFMeUlwamdUN1JtZEdHNWw0RDhfQTVlSVJoLUV2NUNwV09aaUZKVU1YMWU1eTJoZjhjVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T10:01:00Z",
-    "hash": "171503dffcd71eabf0de89423766fe9dbbda4feeeba6eec133d4d122a7552f5f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ETF Approval in 2 Weeks: Nate Geraci - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kWVBnMW1OZlNlVGxoMjZKLTE1al9VR3luWUxWMGhUb096dXdORXJfTFdOY2xOcW02NjdiNHRtNnU5ZGZuRDAyXzd4eS1PWTBxbDhqZzRCdURINGtmQUs2NGhpdW1tQUE1bzhtc1lmclZMcUcwWUJQX0ZBZ9IBgAFBVV95cUxQc1g0djlIekk3YUlHeFVrWnFhYmcwSm1vQ0ZVdVgyY2lwYjFCUkRfT1dGMnpsUmJQdjZVakk2T0ZnaXFUZzJ3ZlVuZWZXTzlCRU1DbXl5ZV81RmhfOVJlZ2NaaWdkOG9yd2lOclhBQzg2c29rbWVpcTh4bFhhN2pWTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T09:59:45Z",
-    "hash": "96cb3b7fb76a3197ff46fdfe255efc0959f3b871c2341b4aa4632686e445aa49",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk A/S $NVO Shares Acquired by Meridian Investment Counsel Inc. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMzZlcmlGX2E0aUpiWE9ZNG90bDZkbkdXbXNvME9yTFJ5d0hzczdzWl9wMDdXTVp4dk5Ha2w1ZXh2S1J2ZzZBLWcxY2pvSTNBT0JYM1N6c3I0dWpST1JPUUo0RERLd0w3UE13VzQxdERhdk5oRDdqV09MRHMtRUNwOGplMl9NVUF3M1pZNW5DaC1ZZ2xtdm1BclBHZVFpdHlOS3lUQjREcm11TGlNbE1YRjNmMHFCUVdDWlNZV0V0NGZYLTZVeWd0anZpVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T09:57:27Z",
-    "hash": "cae06c1126987aab5370911d1ac7d121ae4444f0836d518b438863063089a2be",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Banque Pictet & Cie SA Has $3.58 Million Stake in Novo Nordisk A/S $NVO - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjJVeVRveVNnWm1aSEtjLWVpNm01RlhEM1BlWWNDcHJNM2lETlQ3SjViU250OTZRYjdxbDY3Wmo0MHhmMlVVQWtzeEhNMjY4MHJ5UkJIZE1JbnRYMVJqNXEwNkMzZzRGN1J2LTNXUWxxRHdoZUtteUhCYnhRWFBVMUNXR2xYNm8wX0d2Y0xPZnpkdDZkR3d0SFd5R0hPQTJoNE1OT2VNNjkzNTFpbU9NUVRsSzFVVEY2MDEzR013YXFHal9Y?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-27T09:57:27Z",
-    "hash": "96a4a240a4f23aacabc91bde3ec608c420fc5d1cfb24282328f2601fed6bdb7d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "GlobalFeed",
-    "title": "Waffenhersteller: Führungskarriere bei Rüstungsunternehmen – so gelingt der Quereinstieg",
-    "url": "https://www.handelsblatt.com/unternehmen/industrie/waffenhersteller-karriere-in-der-ruestungsindustrie-so-gelingt-der-quereinstieg/100152182.html",
-    "summary": "Die Rüstungsbranche boomt und sucht intensiv nach Führungskräften. Welche Qualifikationen bei Konzernen wie Rheinmetall, Thyssen-Krupp Marine Systems oder Hensoldt gefragt sind.",
-    "published_at_utc": "2025-09-27T09:56:14Z",
-    "hash": "b1e46ce54cdd459a883962e07f25f409e7a5f5ccf280bd05f1f16177a944b256",
-    "source": "rss:handelsblatt.com"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Is Ripple’s Bull Run Finished? AI’s Answers May Surprise the XRP Army - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3l2NjlrdGUzckhJU2VYNmR6MjFsNGs1NDRaY0x1SUgwNmJrbkg1WFVsalhKcEl2MnBXNHAxcEUzNVBvbWM0NEo5b0Q3QndrQXFFSFZRR2hlVXVVREtsWUJmSlZCU0g1X2hDLXdVVUc5dlNGRUFueVVYYUdVRlZZSzRmOEVPYXIwd0ltUVZhMC1vRlZHblFj0gGcAUFVX3lxTE5yRjRydXNiNTR0ZEtpc05TVFQyWHlNVzVtbHBBZVNKQ3B2SklBMUI3R1cwLVRxVnlPa2ZhRjl5SWlZcEh4WEV1YnBNUE9xLWtLUXVZNGxCNTVLZHk3aVNnVkxOckZLNnhmeFdaY055blJpNWdWNjFyMC1MTzFNN1RIaUdjTHhNQkFOOWF1SEZQRzZZd3k5MmtpdmdpOQ?oc=5",
+    "title": "XRP Price Prediction: Bearish Triangle vs. Onchain Buy Wall – Which Will Break First? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmVISGxMT2pTRVF1bzVJemJHVzRJYlZXYTcwXzh0ZHlidlZkRlpYME1XR1FpR3VPclNWTFU4T3A1Q2dhUC1ybkpiR2U0eVMyMzhUdDJOZ2liSnJkQ3ByMnA2UW81NkN3NzZvOFRlOUFoVmYxOFBTYmY1YzlmenN0YzN0aE1pcjVCNXZjLW1KSE5tNGNrNncycmlCN0dBbURNcHZDWVdDVl9teXZjQ3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T09:56:06Z",
-    "hash": "be0e4a9b6e2749013da4c8c1091d95318f55286ef7ba7fc8287a18a52561d4dd",
+    "published_at_utc": "2025-09-27T10:35:42Z",
+    "hash": "b53521fc9de4d8a921d46b63339d99462740c0180bb44f058c5b65ce39906606",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: SOL Price Declines 19% In 7 Days As Remittix Stands Strong In Latest Crypto Crash - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemxCanRZZTQ2U2ZDSVhIYlVGSXJuN3I5R3ZLMS1CWW14RkNSdVpob0dGUHdrQ3JUbm8tcF9STi1uT1Q0cDMxanRPbFZsQmJ3YXJPTmEwQ1lveVVEYWc4YlNjSy1qOTF0bFBvYW93SDZhT2tpYUotYWo4MkpPdUI2MjZTNG9aNDhNd29wMV92QWRNajRnVnppOUt1SGp1NDlTOURNM0ItbkJfanlLMmtMTg?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: Nvidia Stock Will Go Stratospheric Driven by an Ultra-Competitive Race to Achieve Artificial Superintelligence - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaElUaVVlWVJKUFVHd3Jvb2Q1TlRoOEdvQWlyMTlXajFXdlZEZnNPT2YybDVUZzNyMzZpZWpiaEpJNFNGSkJEcEMyU0ZiQmFuUi1yNDUxYnZhcmxLSTBKZ1lXS1lHdUVYWHVQWEhVcGZDZkdNdmR0dHlmRExkVzM4OENLV3JHOU5rcWQweHJXVUM2X3lzMGZJ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-27T09:46:00Z",
-    "hash": "9107b4508f3bc153cd5dffa697c98ec35027b3194de0ecd429316ad180387172",
+    "published_at_utc": "2025-09-27T10:30:00Z",
+    "hash": "5102b83d7eff793cd7d6c6e19ec766a374d4e002ecf9f09a6558b9e753729241",
     "source": "gnews"
   }
 ]
