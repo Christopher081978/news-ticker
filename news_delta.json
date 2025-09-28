@@ -1,32 +1,92 @@
 [
   {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto News: Dogecoin Price Plummets Despite ETF, Experts Back A New 1000x Meme Coin - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXBVM2NvdTFCOXdsT0xiaHd3LWVFVE4xUGh0WEx5MXZlLWhoM1hKdDFqclF3VUdqMmk4OTk4YWlnZjJKZHd4V0RncVdkQ293aHpYYjRJS3hsXzVidnhlWVRSUE5kUUNSNXdZcU5WYU5wNjFuUDNjdlZkSlJzdlRUMzhVT3FJRjdmaW93bF9ZMTJYbkFreEkyaTR2RjhYaV9obFd5eXAxSkNoZFZ1YVlv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-28T15:19:42Z",
+    "hash": "938888dd6155cb3fd6bdb1f69f21a1dd29785ce3fd5976c4ecf4a1b48e1efb1e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "The Big Mac That Cost $380,000: Why The Early Bitcoin Believer Who Paid 3.5 BTC For The Burger Has Zero Regrets - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQllHelpRVTBaMUVRdFhXc2dXZzRhYzIwZ09sY1prNkJxZC1LdGVOcldDMWN3bThubzFTZC1YRXBJZGUwVWtWYVhnR3pZR201N3MtOFEwTTVJdXY1VVp0WkxFMDAyaTNhNEQ4eFpSYVZBaWpzTnFBOXZQZGRpZVJzZWlLanhRUnprQTYyZEdvalN4RTFaRnpKMUJCXzY1eVNJbDRDME1WZDVTbWxnUUlWNGstT2F0WnZCQnkxNFVKSGVvdEo4bXBxRUI5QzBXTUxLY3Z6d29RenNRREtQWHVlODJhY3Fla2xTazY4VkRZTnF3cnhVb3pOQzNHMzFFYlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-28T15:03:58Z",
+    "hash": "337afdb592409275e2f3e2854c23d6e1ff4a57cb5fe7586d6dffafcecfcf8744",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Breaking: Ripple XRP News Confirms Tundra Presale Will Deliver Two Tokens for One $0.068 Investment - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTVMYWFPa05DQktfakxrMW1DRFpQaEg1aDdSaHRPQzU1aEUtNzM3akdwdDQtTk10VGJ3ZzU2Z3RDQzhpa0RnQ3lKOW95SmFNQTZyQy1vb0lyeGdoNjJnLV80TDc4UlpqaFZvOVg4TlpOeWVXald5MVNwRW5SWDI1WFpwMDZLYlRoZm9kYjZvdWVuWTNIRExibWEwQWNuQmhTV1N3d25GZjhHaENSNVZBVmZ2QWRTMnJYZTFBNUlBYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-28T15:00:48Z",
+    "hash": "ace8ae72d181616f09af025fe57135ed2a8cefcbfba0e0a48a18ab70d1c1e5b6",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Did Nvidia Just Repeat Cisco's Mistake and Build a House of Cards With OpenAI Investment? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTHd1aFBWQnZOQ0RZM0NncnlLZXE2VjZ6ZXFvZlc4V2sxcTZuSUxzdUJ3VTZJRTFsRUhWQWhzamJhYTJfNUZORlNVcnlHMUladWNWRjFINDA3TlhleXRrM0s0TzFkSC13bjZtN1RQdnExdnJyeE5GUEtFaUh3SHNlWk5jVlVDbVlNUENVMEZfLW10WXptTkxsUGZIUXJWcldlM3FxTS1yQnRITjRmWVNIYVhmU3VFRXhHaDhiS2pJZzAwS0R3OUhpTUZzUDNXaG5QSlR6cXIxTW41dU1pMUpELWoyNFN2VWFSM0xIbjZBZXFfeXBLbV9iUTF0NC0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-28T15:00:37Z",
+    "hash": "d0dac3f1da9c6a85925fe28cc8fb56f1857a8893f9128f1493289d4a25db50d5",
+    "source": "gnews"
+  },
+  {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETH Holders Looking For The Next 100x Crypto Snap Up $RTX - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMTh6NjBKSEVkcmlWamZUb3FyYkFONElGM2FydW9zclYyQWMwT2g3QTBMaGRvaE1vLTE5OG1ydFg2ZUdiVUlGT09McGdVcnpwTlhnbnhjUFoxekMzZkJqQ25CLTZuMTFIemlrNV82ZmdTVlFOMU04bUhUTTBOb1lrbjQyUExLSDJhMEFnQmVULU9qYWZrOWJfX1lwUGJjSHVNaEQzZUJBc1Zha1VoTU93ZGhUcXZQUlhuTjgxR01GcHdvTzFDVHF2R09lT1pCVHlZX1k5aXIzOTNTVXItX3M5bDAxOElESjV5WHExby11N3lUeUhK?oc=5",
+    "title": "Ethereum Price Prediction: Analysts Eye $7K ETH as October ETF Decisions Near - TechFinancials",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeGttbGowbFoxVHl0UFU3dE9xWnZwX3psSGFKOW1ja3RPR2hrZmNOUG9idG5yTjhidjg2NGc5WDgwMDE1LThMV1pwYzdtMUtfMzZxVGdtWUxfWlR6YUttLXdVWThRTXNQbXRYbUpDZEdnb0NMQUFxd3ZzY1FpbVd1Zm9YSTVTZWlWcUxzUXpwZ1AtY3VycjFsRmNaUXlWaEJSUTE0a3NnWDNjRFRxdkNQdEIwblhkaDg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-28T14:39:25Z",
-    "hash": "9e9a1a60977afe3333acb625f2eaf687defb42c29c86ee7c576f43ed3e23f70f",
+    "published_at_utc": "2025-09-28T14:59:12Z",
+    "hash": "94e2dc302688add7b9616a75c321c17f76fe74bd5c1fde44fed5990fb817234f",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Pepe Coin Price Prediction: Early PEPE Investors Indicate Remittix as Their Next Major Investment - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1F6VnZFN1JfMXlqZ2ltSUt5MzZjUmhkUnZRY3pCbU5wVzEwTzNTNWVpTC1KQ1A1UUttX0JFcEE5S1hoa29EMTRiakMwalVtUnhxUUVDTlVOSkdiS3dWc1p6Q0V0bkRMZ1BVZDBvV01GQzNZaFVNczF6bGdDTTZOb1FkUDRoWkpCM0lrcVVORVo5dnRycDYyY0ZKckRyLXNJMkNFdmppQUVYRnlYY3lhNjVKWElFYnV5b2xHZzk5MEt6dw?oc=5",
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Down 55%, Should You Buy the Dip on Pfizer? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYm9OVmFqaVhTaFlFeWNBbWpGMkdNTnQ4blNrTmI0akxEMGRrMmRhWjRGTmNwbDhUM1NTR0lnQkZfNTNkdjZIMWJWLVVISFRtd1ZCSWRWSWd1c3c5S3pQTmtZaU5zZ0ZteWlWYm5laVZyZThiV3hfSUdfQ1NjNVpQenVFX1lEeWZIV3lr?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-28T14:34:42Z",
-    "hash": "eacb437e9165546fb582a9963871d9821b44ab6577510ead070399e1806b5eb0",
+    "published_at_utc": "2025-09-28T14:58:00Z",
+    "hash": "8e1212add58974a53600d70c8983310e90ddfe727850bcc2badcb13ef1174f00",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Pepe Coin (PEPE) vs Mutuum Finance (MUTM): Which Crypto Could 30x by January 2026? - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk5KalFaU1BwVTFJLS00QVozWGRUbWN1eVJ3ZGFkbDBzVDN0YVFKWDA2c01LWUJ1RDI0MG5LT1NvY0t5enYzWFZLeV9Fc1k5Ri05T0tmOUplUUdXbDRBaTZQM1V3bEZBVjZrMWctd0E3ZHh3YlNZZWFJV0dEQnhKYkRoYzlaMDRXQVN6dFFZdWlEbDlDRE04anRjUjRTaEh0TjdkaUhoYnotY2M?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Top 4 Cryptos to Buy and Hold for Short-Term Gains: Ripple (XRP) and Other Viral Coins to Watch in 2025 - blockchainreporter.net",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdE1ieVBGcDJHRk9xYXhxNmVWSlREc2E2clF6M1hmZHF1QUVvYzJwbEhYZW1Nd3BIdmpSbUV5UmNNVjVWZTRmNG9vaHNOSVV1akYwdmxsSmN3WWJmWUowRnZGcHhRQUQzc2ZJS255cnF1V1lGc0cxYUpBMGRFOHpTdUN4VVBCYjd2eVRyekpVOEdpc28xSjd0SENzY2pGQnhmaDIyOVJtRXppQVozS0pZM0ExNmNQejF5VW5MVVNkX1d2U1oxV21JaHd3Z3A?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-28T14:34:00Z",
-    "hash": "1f9d8854dc6e2eeaffb5688326b0b44b1a57abeb2181b3b1ca376c777510a1b7",
+    "published_at_utc": "2025-09-28T14:54:55Z",
+    "hash": "1e2bb8c68a8c206b5df3f24442f5db8fa3bca172a768f8cff800bc5ee7982310",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Best Altcoin to Buy Today as Ethereum (ETH) Dips Below $4,000 - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSEhJNGdCNVNweFdHNHNoYTRwTWIzNGFzbHF0SWlFcjVKbFZQQ3htYlliekhub0pzRWZwRkdERjMtRExmbGRIa01xalhuUy1DZ2h0djdfbG5wZ0VueWI2MWcycDJXWWJ0UzBRNm9OZDQwRFM5M3pWZzZ5T19WYlNWVE0zTUU1VFduNEVaNlhuRDhjZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-28T14:48:00Z",
+    "hash": "4928c57ccc4b0f26a4c071880fa42ac577b77b2caa331e94862cbd96e7d0ec7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Here’s Why Bitcoin Price Has Been Dropping This Week - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EaEtsRFpJRlloQndKWWY1eFlkX01kZ3hrTFh1UEZDWVM1NDB3RnB0cVI4bDBodTV0cjFrWkhjT01nNU9vVVRWRXdjMHJCNjRQMnFzTjhqR3F5VklEWXNTLXoyZkdwdTRRZGNIREV4TzNNLXIz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-28T14:48:00Z",
+    "hash": "1b8304bac54b784eef19d4904e77894f1ef99bacfc1d1fcd5c670ed9b8768386",
     "source": "gnews"
   }
 ]
