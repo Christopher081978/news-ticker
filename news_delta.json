@@ -1,62 +1,32 @@
 [
   {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever shares may react to a subdued Q2 business update - CNBC TV18",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVBzNW1rUlY4QlMtbkpVTkZHSUlDT085Y0J4ZEZsVTdhdXhIMnF1dFBnbUhkR0ppNDdyYU9TekpWVGs1Q3ppN1luSnBXWGZPc0R3OUg2dFppR3dERzVUVUJpZzNlQ2V3al9FcVp1LVFRbXQ1Zm9yMTBweTk0cWRETWdScklpbW13akZET0tJOEg1UHJrWi1Yd3I1U0syN0J4a1UzcUQ5LXhmRW5kNVd6WDFvb0dwc1YxNjRZc2hKcEF3QXdrcjRxbE5fdm5LSFBS0gHWAUFVX3lxTFBDR2pJZnZralM5M0tWcDBobzBzMTdCWDgyVnE2WFFKbUZNMl9FSlZVTEE0OWdsRENNdENRNzUyNDcza0REODdCSTE1WC1HSWpBRHpROEhHWjlhLTFDc0ZVV0FTVklsMkZmNkJibE9hY1pxSUR1ZUdub1o4WHZVQ1VaVGMycGlLRmdoencxaHBwX19NaHVGT3ZKTVY2MGt0UDYwT2pyUmhRTUxvOFg5eW54QkswRGIzT1NiLXE0Z3JjaVhMcWt5enFqZDM0YjR3YnlSYlE0cUE?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto prices on Monday: BTC climbs above $112K, XRP still below $3 - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTMza042VkVlNjdqQTJSYTZPRThuSy05Y3hNZ3A0UDcxc3hMOXVrT2J1aG9mZ1BTV25DbGREVVdmS2NUYkZUT0ZJZ2xMcHV5VlJHd25LT1Z4aFVsWDgwQnpYaE5jSHpTblh2ZmxNN0xYMkozZkdaOFkwTzNJWWJEcFJ5ZFlOY3lSRXo3d1dOVmU1RXdrUzFab0ZVWm9VSjc0YlZ0SVpwc21sLUYtOTVGeGR1emJIZ0dNR3oxSHJCeGJkN3NCYklMeGFtMklfX3REQXYzSWhmZDY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-29T03:05:06Z",
-    "hash": "79e7386d75155741a3a60775a7a8f6166f5624c18d9fe03c74573b64ce69be3c",
+    "published_at_utc": "2025-09-29T03:47:48Z",
+    "hash": "2066f5866411bccd8b28c014d168d073cb08a7ba0dd5a3514ea8ea65f292347a",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Technical Analysis vs BlockDAG: Testnet Delivery or Delayed Upgrades? - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeGV5cERwa0ZPaVZpSElMMExrNlowZGRKeHozV0owRUpSeUw3QU1sVFJaNnM5VXd1V1lmUEhkWHJ3a1Q2bWlPWDdJMHM0QUJudnA3QUxfVW5jMzFlZHMtTm5yZmIzRFNDSVI0dTZvZ2tNMzN5RWZOR1dlM3k4QnVkT1hudEk4ZTBhRmdWNzZrRV9HQlRfNFdka2FKb1ZKaDl2elBxc0tjS1d3MzhaUHVSc1RSc3MxTU5qMU1oMw?oc=5",
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood: Firing On All Cylinders, But The Valuation Reflects That (NASDAQ:HOOD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2QwdEFKY0hCOFI5UExHLUkxMUZ5X1pBZi1zX0ZXb0tTRHgwY2ljRlJfQmVRQ192R1RNT2toVXhaa2hZdng3NXRyU29GU19EdGJya2pDeWMyRDJuTW5nUFNzM3ZRTjhKVDhSX3N3YVhfMjVlTVljWlQwMU45RmJEckV0eHRDY3ZKMzJkQzdIR3VnV2VaTDFFd2xMU3NmLWw5c0FkYg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-29T03:01:57Z",
-    "hash": "b251a8476dc559d087597384e71ebd0a60e1a4f26931371d09eab3958b6f6e9f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana's Block Size Limit: Is Removal a Viable Option? - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUU9vM2hjdU55Mnd2WTJhTWlzLWpQVW5yWldKeTFhZjFTRVFBS1R4a29kRnUybm9fN2dESEJxV3BmWWNSQWp1d0xZREp1OWE1SHE4TGx2MzVtUjBSZTA2eExWNkU4TTFfOFNDaV9OUUZwRnFMUWdxSlJ3cXItVVhsYzFYLWlfenM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T02:57:32Z",
-    "hash": "454e12c4ec8047fae834787f526e195a718059f40187cd793e86adaf549740c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "Alibaba, JD.com lead Hong Kong stock advance after industrial profits jump - South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS0VMVUt6TGxtX1NYS3UxOGJWRUlJVmt3RkhoNVVpZm1FVjVieTJjelRCSXNrQkhjYXFMN1R1bVhUNUUzVkJpMUNmaUI1WVZOR2ZHZ0IwNlN1OTNscnN4V2ZSM3NhN0RhTEw3T1ZxZG1wcXRmd3VOMUV2MS1VSUhfQmxIX3hhbVpVWGRFVmhLSlVXTG9ES3EtbkJfcnE0QjJjdnV5aXYzMjczTzMxdFkwTkRHOGxFRXlYZmVIVV9ka3Z1ZGVhQ0U3QmtTTlR0blhydUhrOUUxeErSAdgBQVVfeXFMUEViRXhHdlUycWg1bzVSUTF0aGdGSUY3ZTFtWC1nV3FoQ2JMWkR4MzBDb0VtX1pLVnRWcHR5S01CN2p1OHRBT2NaRWExWWx3Y09XTmdMMWFjODhYWTJTSDlGSUwyaTRfaFZIQVFuaU1oU1dNemRsWTBOQ1IybTNzZDAyQzdwVS1WeUdUZGJjYlNfdi1tdmg1dHJnUnBrQXJ2aTFDQ0N2WWlNT2Q5QWZaZUlkaUpNeEdLdHdOZ2p5YXowXzVXQ091ZFAzWlBxMXZpeDJCdWp2VU44?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T02:35:49Z",
-    "hash": "1afbcce2325b089a7fa53661d3356c7b19f178cf867d1672642e7649414bf3ae",
+    "published_at_utc": "2025-09-29T03:47:19Z",
+    "hash": "75efbb94e1158f4ab22a2a47a986e2e920cf487074ede2f564788afe49fe8e89",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Crypto prices on Monday: BTC climbs above $112K, XRP still below $3 - Invezz",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGl0dmdfVzRjc01UZUpCSUh3SFM1WTlfN2dvVTRXZ1RDVHdjOHpwamZGLWphZ0t3UFlGdG95STJVTl94dktxN1IydVNwdnNNaUxuLTdoMThPeEtXanNsSllSRkxYbVBrdExSRjhnSmdPRlBLdXM1NEpucThwMmc1c254VHVXWnJERGRlemdSa21UN3N3ZkhJNldkblVZbUF1?oc=5",
+    "title": "Understanding XRP's Accumulation Phase: What Does It Mean? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlBVYV9uT1ZGeEZkU0t6TXRIS1RGTDhXQlRCd3daUGJyT3pnaTk4QTVsRWF2QUpNVUhFLWVpR2htSktsa2xpLUV1SjYyZl9SWHlURk00RkxGaHQzTjZ0QlBaX3FDVzNMdTV4bkNrNHBmSk1nMS1TYmNBM1BXWW15U2RNM19laDg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-29T02:28:22Z",
-    "hash": "ff9365ad8d7f6ef4455af56f973b62a3701104f8c2d2d49a8d1f222dd465415e",
+    "published_at_utc": "2025-09-29T03:38:05Z",
+    "hash": "1abf6ec2edcc28bcbf481fdb19c7a156aa40b01f2a8851169bf5f8bfca918fd6",
     "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "HRI-Konjunkturausblick: Wieso ein Herbst der Enttäuschungen droht",
-    "url": "https://www.handelsblatt.com/politik/research_institute/hri-konjunkturausblick-wieso-ein-herbst-der-enttaeuschungen-droht/100157054.html",
-    "summary": "Das dritte Quartal endete wie die vorherigen: mit schlechten Konjunkturdaten. Das Geschäftsklima bricht ein. Das Handelsblatt Research Institute ist auch für 2026 skeptisch.",
-    "published_at_utc": "2025-09-29T02:10:56Z",
-    "hash": "94dae9dbbf46aa7189cab33f87f62710217f7aea49d9c8bc43ad2fa6ed3d02d9",
-    "source": "rss:handelsblatt.com"
   }
 ]
