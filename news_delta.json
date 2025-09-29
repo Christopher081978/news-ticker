@@ -1,192 +1,52 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "S&P 500 rises as AI name Nvidia rebounds, EA surges on takeover: Live updates - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oVUMxWUpzSTBUWHFCRHlJcEhFSlJiMXRmQWZkZUNPbWk4U3ZRYUk4a3NNbHB5VTJsMjNaek05N3RfdjhzeF9hR0NKV3RXbl95Sk1WRndfUzFWc2xCQjVEU1dleU1PWGJUMmhQTkQ5cTNMTWlSY0lF0gF8QVVfeXFMUGNDTWtwckduclJkQ1ZHQmRMNEVwZVNDdlNrdUFqNmg3UU5YUkgya2d1LXpjMjZWWjdveDBCb0NnS3h5ZnYwNDZBMHVXQmFSeTgza19mODhzZzNDc1lKUDNrc1JmU1hQN0x3bU1lRTNMQU5fcnVHVEw4Q2N2dQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:26:00Z",
-    "hash": "040d3a3de0fe90fce656d6d684d525ec44b9125c0e4b23f52e8e55b575eaefc1",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Chip Stocks Keep Charging Higher. What the Charts Say About Nvidia, Broadcom, Applied Materials - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmhzS01HaE5fcFlqMm1TYVBWWFo5c3NkaHpWT0ZmN2xvZWs3T2h2RS1SbVdRUS1JZE5TSmpxUnZxVHNoRWhZLVMtcjNHaTJCREF0MmFwdFhJX3lSVkJQV1k1OGFjT1JNM1haOHFUd2Zxa3hMdlRTdENOWXBjTjQ5UkU2ZHJWbkxkbks3Q0FTcmdxbkNKbl90UnMxLWtMd3VndlpIMXN4SVdxRmdL?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:23:00Z",
-    "hash": "e4d8ec84bc1efed7c2c2b1a4f0dc43305bd95391bc8b0d5c04eb846467b4be82",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP, Solana rise ahead of 'Cointober' as ETF deadlines near - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVNJY2R0bXJYVTVSMDFLTmJHaWVpMFllbDRvVndEaW5URFVRMkl3dkdxeEtSMFpoOS14YW02d2QzS0FFcU5jMHRha2RneE1UeFNMelZ5c2ZCdy1PdnpVbjBEQ3lxNlNFVVFyQTNUS0I0QTlhN1dwR2FQNG84UTBOQmpUMHBqOGdxanB6XzZKengzTzg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:22:08Z",
-    "hash": "6648f5ee2a2264c09306bebe31a604ce8ddb9f8fa3a6b2a5d723646f00eb1608",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "XRP, Solana rise ahead of 'Cointober' as ETF deadlines near - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVNJY2R0bXJYVTVSMDFLTmJHaWVpMFllbDRvVndEaW5URFVRMkl3dkdxeEtSMFpoOS14YW02d2QzS0FFcU5jMHRha2RneE1UeFNMelZ5c2ZCdy1PdnpVbjBEQ3lxNlNFVVFyQTNUS0I0QTlhN1dwR2FQNG84UTBOQmpUMHBqOGdxanB6XzZKengzTzg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:22:08Z",
-    "hash": "6648f5ee2a2264c09306bebe31a604ce8ddb9f8fa3a6b2a5d723646f00eb1608",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "$812M Pulled From Crypto Funds, Solana Emerges as Lone Gainer - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDg3bUFoN0JUUnhtU2t3MXJwVWE1UGR1NHIwRnpuTk15dk1GSTBYVlVocm9zZzBDbzd0NkdfUFJqOFhUNmFhcWs4cWdpNkJFcmdEQmlYNVZEcTE0UFFvRkFQVF9KQkxLRTBhUHk0dElJTVd1ZFUwRjAzclZQT0tXdGZLaURVUjhpd0FVUFI5WGI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:15:05Z",
-    "hash": "8434d071422853bb1220c3131b5d8914b862954ae3f859fb956ba8e7633102da",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price News: Gains as October Nears - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRm9BZ0p4NEJmY0Y3N2JzTzdxaEFzLVBLaUlhSHV3bTQxN2h2UHR1LVFXa2RlZ3c5eFBjM0lNc3hwTjk4a0dKYmczdWxCTlFoaGtVQy1FMXV5UENpb01JUUp5alV2VnBTcEhZRDlmMVBLczBWcjR4OFZmQ1I2MUVEMFJwOUpZQ1RBaHpjZUMxbWdVTmIxaGZOamF4LWctVzUwQ3hhOFR4Z0x1VkJqTVFvVk1OMXZCNGFjOXc?oc=5",
+    "query": "BTC-USD",
+    "title": "Bitcoin Price Forecast - BTC-USD Rebounds to $113,450 After $1.5B Liquidations, ETFs Lose $903M, MicroStrategy Adds 196 BTC - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1qUWU0SnhuSlIwRExuUmtra19Wby1GYmV4TFRFVTJPQm53bmNjOEJFeEduSGdZNWI1bXZhaGp1NnIzcTJobURLU1E0OGhkVENzbGpIbFR2bmp2TWFuNkFDRmxyMkh3c0ZwdE9IUmlmZzRMamVzUmMxQ1lyUzZFZGlpaGxGeFJtU3gwZVhrZFZXSEIzd3NYRmJKZWJCeU1Rd3huSVFNUzJHT1RTTHc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-29T15:13:32Z",
-    "hash": "3859dcc70eefdf95b4663c2c927f5acd247cca5a54e98beb1d00866ee3781018",
+    "published_at_utc": "2025-09-29T15:41:45Z",
+    "hash": "c5b7134c253fa7c373c477ceda20774edb6ec8a8ec9610d02c3226fe988891ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood (HOOD) Stock: Trading Platform Reaches All-Time High as Institutional Investment Surges - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmcyVjdIQUZuRTBvcUJKUGdtNUFKQ1FvYm8xdmx1X3VaeldRNFBmb2RUNDhCYUJVRjRWT2xRQnRQN3BYU3dDa0h3N0Z6Q05yd2ZEbFdBMTlEWnRyQ3hZb00xVElKQTR0QUVoVDJSNUJHSVNZVk9pbWIxcTd2bkl3YUpFT3VhbFRwN3J5bmNKbV96dGZLUmR4V0FoR19iQWFXWURSbHZkcF9uM0Vfd2ZGUHg3cHFZdUk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-29T15:39:54Z",
+    "hash": "efee1d2424285759e23dc12ecfdce17f0cdcc5cb40281d18da6c13584018c390",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Altcoin Season Watch: Why Lyno AI Presale Could Outperform Ethereum and Solana - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY29vT2F5Z1pQaFJ3dEowV0V1T1ZkUGlXS3gwV2tfdXQ3SlJRd00zZ3VmUVdCdDNqOUd2ZFBqak9kRWxkS0U3eXJYMDJKMXU4aHgzd1plTk1ycVRxal9FRDRObk03NDhqd0s3dDVYLUxOVm1oellocFJZcDdsbTZDNWlEblB2QTY2MDhPREdPMi1fVWI4aDZDeVFndUxZaU9KTy0zN3gycEM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-29T15:34:46Z",
+    "hash": "0edfc0f95fb31e52b6a7b7e9ddd1efc49f540be4b5a1b6ce015e2aa358020815",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Chip Stocks Keep Charging Higher. What the Charts Say About Nvidia, Broadcom, Applied Materials - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU0xjVm9McUZ6M1ZJeXRuRlY5RDJReWpLRVRONkc0MlBrazZrNVNjQWJyRXRSVWtiSE0yTHFjUUlzUDBrMGFJSGhvRFlOdFJ5c3ViREJub1ZLVzZGYnFMWC00dHlBejhjTEliWkVhVGt1TDdSUDFySEdmQXYtV1JrZGJMcV9rYWRCTEoybUtQRkFMRFNsSFpqS0dUMDFhcHhBeC11dU1rM0VwMWQzS3F3eDRvUExsQ2hyamcySlRyZ0pWaWxZeVB3Z3dFU3hMNkZ4V2U4Tk5mOUJyb1dkTTFCc095Q2k4enFoU0ZiRG1RNHZGRmNvY3BuaUliWWE5NHFRa0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-29T15:33:43Z",
+    "hash": "62e7701b7e9f94ecf9ff90514116c802851b37f45c1132c088acc1960b4f9275",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVDA",
-    "title": "Nvidia leads chip stocks higher to start the week (NVDA:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWFnYjNWcm9CdFhVY2FPOXN0WWxmQklSUklzODhTWkZCVFRRU0xIOEJNcnp6S0tFaDhoZ3oxVVByZGhpLXRnOEJPSC1EeU9BSTVwQ0RvWUNTcVBoZUZZVUE1OUVpOVFJTXV4MEtJOEZkSjUwOURsRnFZUHhaSS1Gc0ltLXkxRjlXaC04bG9TZFY?oc=5",
+    "title": "The AI Bubble Everyone Fears Is Exactly Why Nvidia Is Strong (NASDAQ:NVDA) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0ktVkcyX1JoR2tmX2ViSWdPenN0RDN5UzlUSW9YdGhORklxVVlPajRHSkZyWXJBYUlIUDdCMzFHQU9jSmRLQk16eXllLTA1VGRIWk5rM21aWGhyV0phSDM5RzBacm9mOTZPbWJtdlJQUHNYUFVwd19hc2owNjh4U29QTXkxdk1sMEFrY0RiNzdQdVNUb3huai0yelpWM3ZvVjNz?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-29T15:12:15Z",
-    "hash": "5e9c685382025c3910f1b7ff830a22ff598222271bf2e6637381afad2df16835",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Pops To $114,000 As Strategy Expands BTC Treasury To $47 Billion - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXZQZy02c2tqN3ZZTjQ3MjUzTDVzc0J3MmM5YWZwakhxZTFsUktsYkRNVVQwWFN4RjcyTW9kUzAtZlhoR1h2MTcyT3luS2Y5QnV2YlBJMHF0RW1jd3ZWc0h0Z1pzNnJHT2pTS2N4cHVVTENSYjlZUWhabGZiRFl4RG4xSDllcVlTdTE5Y0VpWW53Ynd1VEQzU3dZMnNGZG5JWWUtY0V0TEFoTjlZeHhKY1lBWlJ0Sno1SzVpUkNCZW9kdXM4N2xjRzFVMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:12:00Z",
-    "hash": "78bbe11d1b4d15719bb2dbb1b3183ade0ca8786aa364b75fa414826bc3a20806",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk resubmits application for Awiqli weekly basal insulin to FDA - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLUpvc21FQ2ZZN3hVWnR3RWVuOS1KX1FDQzRqWWhkUFR4QVNFaWVJTUhZSGc4aHRXZ0h3ejlYRHp6MVhxMXVVbW5UZGNTUmdOVW1ZMUpWdEFfeG11Q3FKSWJsQWVlUVRia0FEUktCVEcxOXFJYVJUakxmeGRqal94eGdkMi05ZWxOOUItSUcxUGozT2ZkeHFXYzhQSFJjX2VNdU1qcERKaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:07:43Z",
-    "hash": "d4e4ee42d9f843abb9e3d7a66b3f585527694ceeebf16903db981faefb67f6b0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Best Crypto to Invest in This October as Big Investors Look Beyond Bitcoin (BTC) - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXRvU1FTLXZlXzVCTVJBdXlXVnhsYWhINFMwQWNydmdSdDA0eU53WkFVdTJXRmkwNDF0cUdIYjN2ekxnNElGbzM0N3RWYkNHWlNOTHk4Xzd0QUZVRTJHTzhJWW5RcG5NOEllU2RUcERIcVdFSW1ZSnYtdzhOSm9vOUY0d2QzQTJmQ01TankwYllET2ZnbWNFMlNnQTFCSnlYOWRwTW9qeEcwX1FEZXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:01:00Z",
-    "hash": "dae894fcf64eea50b2df9300a37aa0c26751f788a366e536335d0006a98cf2fd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Best Crypto Presales to Outperform Solana and Cardano in October - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONHpkcWFRQS1KbFJXU1k1eUZmTEZEUG5UXzRBN0Y2SDBROEh0U1VoSmREQWdmNEtscEVwdWZET1VEcEJidExCMk1KRnoyalJoS01KMWZJcXNlbW03Q2lnLVNnLTlPLW84RHU2Z0pkbjhKMGJLTU12SlNzYnY1NzVuSUJVOE1jSjBPWlM4bW04d25SZlk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:00:58Z",
-    "hash": "e67974febb005fe1e24b938dd6d3b78610ec20aa4a6b3e4042bef560414d1049",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Ripple ETF Speculation Grows While AlphaPepe Attracts Meme Coin Traders - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWV9fYUxiOEVzcWdCR0FwRmQtU25OMjhadE5MUTI0MDlOUnlNQ1JiYndHM1VpakwtQVYxVUNDSmt2dDRXYTBOOExaQVJNMkdlZF9UN1lRLWl5SmVreGlsa2IyM1VaTzdaOXZwVmEydk44MklMYjlnMFZUbjVsMUJJVVQ1QUREVmY0VkdRbjBLVW80RDYwTzNZNmNtY09IMmJObF9BNkZERGtXRE9Cb3pYN2wzR2laV01z?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:00:08Z",
-    "hash": "b29d9ddb016f8adcfe003221a6b878c4fcdc8300d0ef8789544b72e906f35445",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "XRP Price Prediction: Ripple ETF Speculation Grows While AlphaPepe Attracts Meme Coin Traders - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWV9fYUxiOEVzcWdCR0FwRmQtU25OMjhadE5MUTI0MDlOUnlNQ1JiYndHM1VpakwtQVYxVUNDSmt2dDRXYTBOOExaQVJNMkdlZF9UN1lRLWl5SmVreGlsa2IyM1VaTzdaOXZwVmEydk44MklMYjlnMFZUbjVsMUJJVVQ1QUREVmY0VkdRbjBLVW80RDYwTzNZNmNtY09IMmJObF9BNkZERGtXRE9Cb3pYN2wzR2laV01z?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:00:08Z",
-    "hash": "b29d9ddb016f8adcfe003221a6b878c4fcdc8300d0ef8789544b72e906f35445",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Breaking Ripple XRP News: XRP Tundra Launches Revolutionary Presale with $0.068 Entry and $2.50 Target - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSlVzMUpNdTNjT1V0ei03NkR4djhBNjVScTA3QW4tMEliMzVTdzBMaDNjeWg5Sjk2MTdNMGw3aXlCV1hLLVljeUZMa1F0TkJ1OGh2amFlNFNsYXJJdDJiYTd2UmQ2LXRPVFZCUkdiQ2RFaHlDV215ZDV4Yl9Yd3hJbElVTzRzOGNSeU5kLTZ2Z1pzWE9PMnNTZ21aNWVHTEIwQjBrTFlQNHFCbUNBOE9Dc0ZicTJxQkhPUkVFSFBMS3FaQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:00:01Z",
-    "hash": "6f8c18ded5dd33bdd974e07e023e130cbc7b43713759adcc906e15d089a66929",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Revolutionary Physics Engine Powers Next-Gen Robots: NVIDIA Teams with DeepMind for Open-Source Newton - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdWtIOU5sMTkwVnNjRGw0S1NWeXI5U0JtdG1Gc0dXRlhVSXdncFZMampnZ0gzcXNCbHdVVEthaEx1UVVpSkFEUnc2TlFhd29tWEVGaFNiTFFHUkRiaUwyc09DUEZtS1dzblhfSlREc1U2d0dOLUFxdjQ5UDRHTUxSZE0wZjB4SS1QMWlJeUR1TjlsYTFkVno2N0tkbU5BYVMxQm0teFc0eWY0NzdnYS14bkFTc3pLcml3WjNLSWtB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T15:00:00Z",
-    "hash": "bce09d7d0f0a0bc84b27c647c92a91f9bc385abebb327fbc732f67183c50ab30",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "This Quantum Computing Stock Could Be the Next Nvidia – 1,000% Returns Ahead - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV09JdXlEdmR0ZFBNaXduVlBFN3lQU2prMmxaMElSbU01bllNWlRWbkVoNUJ4dUlwWXhIRU1uNFBKZUM3bm40bzhuTHMwVVhBWHY4b3pfVkpfWkZmMThZaFBaOVFLT1NfX19BWW4ya0hEVzVSQm5ocTU0RW5EdlRObEpLM3VvTnN1QWhNYXBOYTg4VDhfX0ZraTRwLU9HRVhId1R4ek5UNlYxV3lWQnk3b0JBUE5qQ0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T14:59:17Z",
-    "hash": "ae34ef706c48fbbb45cc362edac2a002f4472c6957440b2aa74ad24a12dabe30",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "SEC requests withdrawal of 19b-4s for LTC, XRP, SOL, ADA, DOGE ETFs - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10QzltcU56OGJFQzZtZ29DZE9iMXVGVnIxdWhPWEpPMFFXQ0lsWGN1WmMyTUZLLXdCcmZYTGZQaVFUd0hYOFp3MDhoYjktcFROcnczUERZbUo4NUdKV09CTG5Ncm1xdWVpb3B5cE9STTVqTWJiRGFB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T14:56:43Z",
-    "hash": "daa1aeb97d76e3885acb80cde6a85ad373b4282c7d86045676ebd2e3a45b22b6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "eToro Brings Crypto Staking to the US With Ethereum, Cardano, Solana - Finance Magnates",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0ZGWFdxUndJbVR0dkN1Vl9CekNCQmRldGQ5OUx5R1J6TU9IbDg2UzBDSk9waHJXMk1xQXFCVjMxR0tQdHN1eW5XYy1fREdQcGZ5LU1XVzZNaEQ2NTQ0NkdBWkI0R1pSMnlRaFZ3X1I3RTdwS0NycHdudTVkaWZDeGVxRFA0ODBjN3NXNDZwT20yZ3VFZG9pTHp6V3AtdHR5TDNVcmFyMXpleEXSAbABQVVfeXFMTklRQkhocnc2VVlZZnFtZ1hEM1JOMGcwdHZHbnZhdDZndUNJbTJ4dVUyMWYyQTk4S2VnVFpqaTRHeTFlbDAwbWswcFpNUUdIdEd1UHlnMTVIX2hsbk5EbkNlTDJTYS1JcTFhQUdrb2plaW9GX2xTOG45NlJ5WWl1Mlh5MWhWQkR1Tm45V3U5UlVqYVE4NzVqSFhiY2RCa1JEbHBVY0lhUEFuOFFTQ2hpVzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T14:55:39Z",
-    "hash": "731afc07b1a2460dfed2f32e8f985635df466af815107c41911f8addace53111",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow Jones Wavers With Trump Set For Shutdown Talks; Nvidia, EA, Tesla Rally (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnYwb19aUGpSNHlNR1cwVVdZVHgzYTAydEFDY2hoV0Rndm83OEpLLURia3Azd2Uxa2NKMEttV0txSVdzNWp6OEpfYXBiMm5UMEN1R2k1VEZydVRGdUVNSlNpY20xWmlkeXdxQVNVaWZrWEZaRUR1WlN2NDg4MzR1V3B2SHhWYnN0VldBYmpjd1NRYXY0Zmp4RTRsQmpYNXZmdXNsS3hkUWFPN19vN1hrTm0wQVZTRkxYaE00UjJR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-09-29T14:55:00Z",
-    "hash": "62cdc4e51c2b6950a037fe7c0d577cef1f237246e9b43a1d748b0ce5ed67e99a",
+    "published_at_utc": "2025-09-29T15:32:22Z",
+    "hash": "3ac0808d6850196eaa203c088596e936a8d3fd903caac8f48521b522a8a24060",
     "source": "gnews"
   }
 ]
