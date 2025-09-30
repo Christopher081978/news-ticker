@@ -1,12 +1,42 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Shares Climb 12% on Growth in Prediction-Market Trades - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVpOVm4wTkpDVC1zNWRBdXFxMExLMW9OV2N1QnAtYVNhTE02eGNhN0EwRk1tNXBqVVBZa0FGTTAxY19BY0drVGpneV96RXYwek1JYkd1M3pjQ3h5QjRhTXJfbGpaV0V0blk3a2l2ZF95TFlZRWM0d1hfTV94TGZlSkhBNkhJQlRDNzFCbHdzRTdMN3hocjV1ZVZocHlaTzJMVHppOFVnemcxOHZmQm9ybjFKVHJ5cHJOM2xlSHd4MV9rY3FLRm9kNEJGSWwwZkk2aklpUEZvcmw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA (NVDA) Price Target Raised to $240 by Barclays, Named ‘Most Attractive’ AI Stock - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGEzNGx6Ty00Y0VFY1FGU2U4QVNwakZ1Zjc3VUtVTGE0Vkd4dGFxTWVoNWxzU1doTGNWdVd1RmwzYzkyb1FkR3RPUFM4TURBNkFna19pak5IeDdJaEdzRDY4eVcxek5yQUlkSC03RDZGLWZUb1E4TEFjU1dDek9uSWpSMGVSa3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-09-30T04:43:15Z",
-    "hash": "e397d4c2d5958d79eafb8993669f4e34767fb0bed9ecd6973e2f72f5bc49d2a0",
+    "published_at_utc": "2025-09-30T05:24:22Z",
+    "hash": "fd235fb2a3783ce45e5218ac7f868817ec42908672146f49b2218a332f1f3768",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "IR/Press",
+    "title": "Panasonic and Osaka Gas/Daigas Energy develop an industry-first absorption chiller compatible with hydrogen and city gas co-firing",
+    "url": "https://news.panasonic.com/global/press/en250930-1",
+    "summary": "",
+    "published_at_utc": "2025-09-30T05:00:00Z",
+    "hash": "e42807ee895146a0070851d7ccd470de300aadfb47dde5ac5e2d394d4b8e73d7",
+    "source": "rss:news.panasonic.com"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana ETF Approval Odds Now a Certainty, Eric Balchunas Says - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMdXQtV2dNanlPTkVoTzMzMGk2clVBWkdITmt4SnFMclQ2Z3lUVFlmNi1nbU1NQURUMlRndWNjUkQtSHAwWFFwMVBDaG15Z2tuZDl4eXlscmJMQlY0R2l4TUxfeThJNUFrNzNPaFBRM2NWSDB2MnFnSUJCWTZJdEU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-30T04:55:00Z",
+    "hash": "ba5f71595bd8e55f245169937817e01eecddac29851d78b8a4a6b8b4a9dda557",
+    "source": "gnews"
+  },
+  {
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "Basf (OTCMKTS:BASFY) Trading Up 0.5% - Here's What Happened - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3d3NUN6dHdfTEFnQW9YV0RiVzkxbFh1eUNwNFU1cXo3c203MmNZU012UjZtTWxlSkhqR2pEb1FNc2pQd2RONTdmbURFQlY3ZTUtUGxYaTA5YTBYY0djSFVJbVBJdFFYbWRCYUJ1WEJKVTNZenJIMTBJMWRsZ1o0VnlPeExqeHlVRXZPTnlYOVNNcjU0S25PaHQxVkcxQ2Fad3AwU0ZrYnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-09-30T04:53:26Z",
+    "hash": "f034ed754540492f5b040a4af6dff29d93acdf12171d53b2cfd533aa998c235e",
     "source": "gnews"
   }
 ]
