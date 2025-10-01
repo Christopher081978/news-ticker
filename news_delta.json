@@ -1,122 +1,42 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Panoramic Capital Partners LLC Takes Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb3pHSXRmYVZGVHdjN3dMbHB3NGthaXlsRzJPSjJQV09CRTU1bkstZ1g5dG4yT2RFSXZianVnZ2l2cG5HeTA0bjRpcURRck5QMndRdDAteElnV203WFNwaTNLMVYyTnlLMm5mR2Rzc1NDM1pSN2p3dzBDU0gwLWVnV2VTVFRHc2RLRkdFNFE0TUdvXzJZOVBWdlQ5aG9NekludFdaZ01PS1FqSS1BRno2RFFiMmlJRDdnc3h5eDRHRWU2R1U1bmRoYktSR0ppRmt6b2wzczVfSWUyUW42NEJNU1pmTDFYZVU5MVczc1Zob3dRUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T10:28:09Z",
-    "hash": "d1b8320ee21f0ea3f7d3ea576971686a09c7152a2732241a0e7dc14463b2d1eb",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "Alibaba Vs JD: Which Is The Better China E-Commerce Stock? (NYSE:BABA) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGFCTkhhemJTQWZOM0xSYm40cjNqVTNHNDlUd1pPR1pMbnBLMS1aNFhxWXF6UFhPb2l2djhFdnhZcGtvMkludjd0dkdtNDVuMWhJa2IxdnlTbmZXWjNULUt0dkdNRlFpcDk2VFhPMkxqYVhwMnU3NlJad0JrVzR6alJ6WkMtX3JoV3JYYlh6aXFUNWFGRXdrWHRaa09XN2o3OEpLTFI2eVVQXzNRRi1NYnZ3R1lXanBFZk1DQjJ4TXpyTlU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T10:26:04Z",
-    "hash": "5bbcda331615e5f07c1db98b7b37916835a9e1ca53e6feb2dcd0f8d658d24707",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet’s 2025 Surge: How Google’s AI, Ads & Cloud Are Powering a 30% Rally - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnRaRGFxa1hRdklYSTh0TnA4Si1IUmdwM3dXa2VWTFJDd1FIUEZTQmtxeEdpSE5QeHJfYzBicEJhVDZNakRqZmhzcXUtXzdsOHRlaVdkelljWUNaZ0JyM2dnRG1VUk5zZUhEWTZnVFA4czdIS2hJelZzbVQ4UG0zY3JPWHhXUDZuYkFJYW9YbUw2c1hE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T10:25:22Z",
-    "hash": "1e6727f2696b53dd3dd094a9e2d377478fee42fd77db6877bbd4fd16b8f26f39",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, Ethereum and XRP Jump. Why Cryptos Are Rising Amid the Government Shutdown. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1YxZnhxSkNJbFlrT1NObHUwN0NsZmZOdThzSkRjV1B2eEN5UFZyUW1RajBIbFR2M3pZZGZCb3FoR2pualZlZk5ZMnFRZng5REl6X3l6clZMQ2dnYlQzTC1ldXJxckx1am5uQXk0eGxid05xWEpsTE1VYzNOWDljZmhZaWh5UGo3UjhBY21XbWJfS3BVbkJUTTVkMDVPUFZoMm9ZakpR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T10:24:00Z",
-    "hash": "5381bfb663eecd7ea254bc54f3fc2c26fa6aa83702e2b97029641c01aabc1c60",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase executive says crypto is essential for AI agents in financial markets - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KSUNFbWNDc2ZLMTlJc19FZnJfQS1WSnBpWDlWcGZMOFBDWUM5dnhzX2VRbWxGR29TQjEyUjdDeERqMnlqbUpCNlk1MUlxalJiRWhQZGcwUi1ZTWdQRUZ4YU1HQ3FnMHNhN01PMGFaZkVFX1czWG4zWUVR?oc=5",
+    "title": "SEC Clarifies Custodian Rules, Enabling Ripple and Coinbase’s Eligibility - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZExqRkpSOXFPVUZnX1NJd1FXNTNiYTRXRmw1NVM2VE5UeUtoUThlRjdidGp4ZnJHVnRQeHAxUDFUcjIyVEFrZkl4eXFZZ1ZySjNfUGxKLWMxWVo4NVhMQzM0UEk5UlVINzhYTVVXZXdnREg1TVRDWDVTV2xiSTBCVWlfQnV5cTl2aVJFU2ttUjd1QThZM1FZOXJvdTc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T10:22:00Z",
-    "hash": "6f6ae2a458817e52e63c4921a17179bba52499f7c0f7c108b345301e5f5744ca",
+    "published_at_utc": "2025-10-01T10:41:33Z",
+    "hash": "bcf4ca17538ddaf21ad61c5e645e69222d6de3633e2cc7cb859e228a7f0d4e20",
     "source": "gnews"
   },
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "TABR Capital Management LLC Invests $268,000 in Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkdVd3d1NXlwU185bTBWNzhzQVhDeXZiSDJaOU1EUy01ZHhMR28tRkJQMGEta1RDcnFyZDhLN3FZOXNOREM2emFoNURxOEk0TUd4VWxtMDg3ak5KTVdTN2V5SURCX3JwSC15YTlKalBGeXJkUTFMZVhORWZLRUNDenlETk9VLVlxTTczQ1kyQVFib2wwMUk0dHF4ZmtPWGNRekhray1NRFoycDRveEd3bUJxZEQ1WllEZk1Nd1NUeDFfSTJEdzFlaE9MVGc4dw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Stock Hits $4.5 Trillion Market Cap: Is the AI Boom Unstoppable? - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOXdGQ0hxMDFGMGxPNnhkdUJuaTEtYVEwRWlTWU1kcEp4QXhyRDBFaUNUUWVIWnJqSXZ0anlvYXVtT21RNGtKUFNnVHNuM1FKU2hKVlMzY2s4eHpvU21RZDVuVlZSMnh1ODlFcmQzM3NTRzVVR3RJNzgwZmFHZk8wWl9lekFycHpoTkstc0JRRC1mQUk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T10:02:06Z",
-    "hash": "342a63b51f99a06bc32750ef61ddb79828215797cd2b96a29d1db70e563482fb",
+    "published_at_utc": "2025-10-01T10:34:59Z",
+    "hash": "43f599bb9569534ab30f962bfc1f9868ea58cd01f9212aa74a37826b4f2e0917",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Struggles as Crucial Holders’ Sentiment Splits - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93NVpNaWY3b1Y1X3hMSEdabzJHM1o4dFRyNDREQzZSemZxa0R2VFI3Z2tyNVdNWDE4SE5FMFZULTEwYzZGTjdQelNlQUVIVnoycGtRUzRpTG1kWnluVENvaHV5QmU0ZFpaQzl6THYwdFpYOGc?oc=5",
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer’s Drug Price Deal with White House Gives Big Pharma a Booster Shot - The Daily Upside",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQazl4X0I4Z2xrTDZZSHpFMHdoaU5VRjhRRTVxT3pQckM0MFpTbWdidmk5ZWlkdVpwZXhhS1JoLUt0ZTNwMEQ4RHM5d1VKTm5SeVMxNDR6SWRNelZfOWdYd0FvMGNaZk9VQ2w1V052UGx6eFlQZVBoVmtsSlhseTJnejBodmRUOWMwZU9iQzVKUlRXOWhCUFBLVG02NjFnT08wdlptYlgxc0ZIa3A4WGVBMkxpcHdDRFRUZzlYVkQ4Yw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T10:00:00Z",
-    "hash": "d1ebdd1da1aebf65bd346b903e05b17d65cd3b5e5bee864cfba324c5b86ce52a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Update: CTO Steps Down, XRP Connects to SWIFT Via ILP - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2NWdEVlSjk5WTAybWlpeE1uRWpMQ3dPaWI3d1BXcVpoeUNWUk8tSmhlTEo5ZC1xT21LSms5WWp0cjIzc2lBNXhZUk5lazk2NWhfV2NUWUJwWTZIOWpTRnJnQkMzMmtzSFU0Tm11cmUwT0s3cWNtNXZCTGw3SjBObmhKOWRBVVFJUlpfZF9ZMW1RZXB6djRiUU9qRmZ3aGJ0WjdNSmRKUDlMZWhLZ1hR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T09:59:36Z",
-    "hash": "05ae679341571bcc71eb86ee39bb0cc75723595fb3d0ee7f0479e0b1632c27c1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Singapore dollar-backed stablecoin XSGD launches on Coinbase amid rising crypto adoption - CNA",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZmpsTUV6alNwRlhxWFB3d19oMjRENjZVUm51MTliQ01NTnhQQnFGQ3FGb3JZeGp6WEdNdDZRMG01SV9XUFI3ZWE2em1DQTJvTVJNRGtHTjB6WG1hNDN2ZzMtUl95QThhLWw5UkVaSW42ek9id1Nrd08tX29ZT1ZmSFdoUXdpeVBmei1TdERFbndRQlJJZUdwQ284SHFETkVYNU1PaVJUT3A?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T09:56:38Z",
-    "hash": "6ca997b95a5da4ac0250feed3f917986b835c55a4d39c7045a2ef2be2eecd496",
+    "published_at_utc": "2025-10-01T10:33:23Z",
+    "hash": "f11bc5873b3b7c08edd8d15d88d6190f952026b9d781a4475f95e1ce6f454f63",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin, Ether kick off “Uptober” with strong gains (GBTC:NYSEARCA) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUpHTnRZMDZZSUpwR1Y4WURWUjktYmlabEtVOGRJSUNJRmlrQzZFa1VuUEhTTml4UDB5azNIdWtlMGotbjM5bVFwTC0wdFMzazk3c0NKanE2Nm1jQXl5bVRIeU42VVJlaDlFMEpPNzMzc3NLbG1IZ1hpRlZiS3VWeFJSQXZYSDhfMnhfSEt1bw?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "UK Police Seize 61,000 Bitcoin Worth $7B in Record-Breaking Crypto Bust - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXY3MVNfVGNmZHVzUkxRc3daSjZhMjRxbm1SR21fSEZqMjBKREl4WHBuUDZEWkFQYnBORFBWdlFIZ2Zwd3NlWm5FS3FpeThoekltbThIVl8xZmlvajBZd0hRZC1IbE1yRjR0aEhNRnQteTZla3VwU2ZJaXVkODVSZlRn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T09:53:46Z",
-    "hash": "2a77ee2221d6d52a6a6f26c45153bb3681b409b3a71ee2bfd4f6cccaea206880",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Crypto Price Predictions: Why BlockchainFX Could Race Past Solana And Ethereum As The Best Crypto To Buy In 2025 - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX1lfSlhJQmxNYl9NQnEzQTdSV0dNUlVxTnBHdDFuVW1ETUczeW5UWkNNMmQ1V3NodFIwdktLbkUycndRR0FnQTh0ZEIxOXNLSWpKSjYtak9CWUpjUzE5NVNMSjlUUzQzcm1ReFNEcW1GaUoySmVQNHZHVWNXSVRRWmpDcUZDamNKaWwzb3BsbTQ5NEQ1WHBqNkJNMFh0bndPWnk5S1ZRRTBZRDZmNXpTUmJyOVRCSE50LUd0Z1BYSkk4S0hNMkFJWjRNOE5Sck1RaGZ4M09mTmE3ZnM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T09:50:59Z",
-    "hash": "74e18aca4c8f3a0dcb2298654aba713d9c8dfe0db8ad382d8c13a2ecd536e06a",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Purchased by Victrix Investment Advisors - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUWJwUzBCVl92aW9saXJyWHNMRkVTRkdUUDNjd0xjVWtmNXY0TDVOcTVpai1Pb0R5dmZkVmUxSWJhc25uei1kRk05NHpSTEtKaXB0X1dkTEc1aElKM2RfY2V2X1g3Z3c1ZTd0V3F2d0szTGo2cmlwZTJDWUhWdVNtZjFyZktjLVhSRVZkNXNGVnk4MmE3ZENXN1R1Y1V2MkNEZEYxeVZZXzR2M1lMOWU3OVlYeEJ4anFqaXFzMGVORFo5RDkxZ3hRbkszMHh3LXJrc2pXeTN1SUtwMEU3V0VibEd2SnR4VGFRNGdKVERVV3A?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T09:48:10Z",
-    "hash": "6909d4f87886e7cc4cb3bf0664c2af75f605b2ff6a6d6c8d3e64944db5e8dbf6",
+    "published_at_utc": "2025-10-01T10:32:15Z",
+    "hash": "66aa6c3d1a46c6b019b1ea64c556db11ba4eec30ca1d868b540651dd15423895",
     "source": "gnews"
   }
 ]
