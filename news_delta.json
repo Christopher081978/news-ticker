@@ -1,242 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Ethereum Price Outperforms Bitcoin (BTC) in Highest Ever Q3 Rally: What’s Next? - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTF4ZlZKanotT3NDeENRQ0NpTmc3Qkh2ZjZ1Ni1IbkZidXdpWFNIWHNXc2x2UXVVcnlrMlRwNjdSYXdFV2FYNGhPSVQ4SXdMUzRJb2VlVGwxU1QwejM4TDF5OHFJYWJ1enB3RjVPR0wtUF80M1dfZlo0aHE1amdIUHRncHY3QzVicDdsUWxPS3RYUEktNmc3TDBaQdIBoAFBVV95cUxNejVqMkU0Q3hsNWtOenNoTlhieFhhSHNFWU81MU13ZG5XYnByYzBNSmhBR0FzZ05fU01qbXdWUXBlMmJPaWxkdC01by1vdVEzRzM4VjZxeEE3RG1KN2JZczdzOXVsdi1rRHNZMm1HQTAtX3YwWW1Eai03SXpfaTlHVkQ2b25pbEVxSG16YmtsbUJBOFVYMG1XZWNsWXFEekhR?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: What Can We Expect From the Market? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUdkdUY0bGZzekJHand0ZzR1R0lzaXBZR21OOW0takVPYXJ6dFR3eWhpMnZRVEVxR0pDTWhsRGFkZkI3UEVPQVFrNld3SDZoSFdvRjJ0cEpCRjI5VE1Genk1U19aNVp4WEx5c21vVWhSODFxWTdSYTV3MW1iMFFrM1NTcll2a2ZrSzhfT0IxVVJlQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T20:26:56Z",
-    "hash": "1c24d86ed69878d5572484f720aa9e4d9395572f6be1f693812f66e2771f8c14",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "U.S. Federal Judge rejects complete dismissal of Coinbase’s lawsuit - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3SHF3VEk2WjI2ODZXZlRmajRnZjFuVXdGaHFVbXFxR1ZvSFd1Sm1IdkZ5dWRCOUJEcno2MUU3SmY3WEVOUjBFZlpnU21kM3BsdWxuaHpGWXp4SzBwMFBvbXhESTdOcm9OYzN6Qmh4OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:24:00Z",
-    "hash": "779ea71f42ad99c198503632535fce570b84f9a4177d011b6b0b8bd271319fe4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens AG (SIEGY) Considers Divesting Siemens Healthineers Stak - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlRVUmdwbS14dzYteWczR3FoaVBOWEhTSnhkRmVpaExUZnZvejBoWkVweW5LVUcxZXFsbXB1aUQ1UmhfNVdfaU5oXzNBaGtqLW1zVzhib1J6THF6T0pHNXZkcTRRSnpmMTBwcUpmbUE2cG1STmN5THgzbDdnb18tNkxfR2NJYTZjeklqcEd2eFVNN0Itb0h4SXpONjhVTjdoa3VrRg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:19:29Z",
-    "hash": "854d27db8dbc271441d8e52ed16050f1d1f5ea04433c33dc3033966ae7719e94",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE) Stock Rises Amid Positive Developments and Strategi - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUlBME5HNy04RlRLb2tDS1o4dzhtc3lYVzBxZGV3UXdXbjVOZnMxT0hYM09UVDJYd3dPNTU1WG5MNlF6dkkzUUJfZlFhWlV5RFpXcGc0cDBtZHVONzJseUwydEVXZ3pmNnh6UmRSazIzakNSZlZYbFFIMUs2V2lsNk5wMXBPSkF2MFFla29hNUFyZkhvc1dhbzB3Snc5MXhzRmlFMndhc1dmYy0x?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:19:28Z",
-    "hash": "5330b55bfce7dc1c8f23d1dc818530addff813addf888c60e850ef0408714d7b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "VisionSys AI Slides 57% on $2B Solana Treasury Plan - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnRPSWk4eFhuaEIxR1NCanNHWW1Zb2hPZHlpaDA3NzV2ckJENDQ2a3JxcnlkQ1lON1Y5SllOT2ZQeXFVMHBESjlOTHNpWi03ejJlbkVwcVlmM1A2SVBSUm9zdktaQTEyYjQ1Yl9iRGVQWG05NEN0NktZc2kwT0ktemJsRkRLaVM1UzM2aWhjNjZzak12ekN2cHNEUW44ekFt?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:17:02Z",
-    "hash": "7523622e6bcd3aff499f7720263cf6a880575454f0323bb4718e0e8dc0ec7648",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin (BTC-USD) Jumps 2.7% to $117K on $430M Bitcoin ETF Inflows as Metaplanet Adds $615M - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR1hQdEUyVzhXOWlvZW03TEthLVFxR3lYLU5TNE1mcHRNRVZWcl95eFJ4U3lXY1RDUnlxcmRybkhkX2tzN19yLWI0ZDBVTlN1TmNmb2NOczBybEI3TEZKUFEya0JQRkN5d0lsMHZib1k4ZW0xYmxfQ0VOZE5zemFOT2ZLdGRscjIzSDhxdHNfb0xzbDNnY3ZsSXFuRlFBeWhjTTVuNkpRZ2hCUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:16:58Z",
-    "hash": "7e27c9933c362089a40bab3d7002b0f6cfb75a40b3b5d2b7f383671278ec78da",
-    "source": "gnews"
-  },
-  {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "$525M Revenue Paint Giant: Sherwin-Williams Acquires BASF's Brazilian Brand Suvinil in Strategic Growth Move - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUllDbmtHZmtSRm9wS0MtMkt0MTBMbTNwYUdkUmNRaXA2b2RtTlYzUzlOSmdUaEFRVHpEOFBMdmhiQWZGZGlEdUNkWnEwUmsyeHFOcHFndUVjem5TNlIwMVczcmpTelY4Nm9lVFkyNklVY1BTXzdEQkdSWGo3azdjQlloRjVnenJHbktLbWJ4ZGc0MUprTDFYTzk5d1VTTjhlZHN3aTdiY2ZreFQwQk5VWWpB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:15:00Z",
-    "hash": "5ad74b165114d8e373c6105bacebc2478681d7254021d5cde724c14f57158bd4",
+    "published_at_utc": "2025-10-01T20:37:17Z",
+    "hash": "f951f0f13b98d7e0f8b0721d9640e43a0dfa365a5ecfcf7cfbdd0d5fac2a171d",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "Pfizer",
-    "title": "Trump-Pfizer deal could fuel pharma stock rally, advisor says - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQenVXYWlPZ3h0MmZLa1RfcHRIV2djak9jYmdRN3FBUW9lUE5YYTRIcGx1WXFFalBuSkdtc2hlZmRDR0JVamFQMjFIM3NMN3FQZDB1OUFsc21FdzlUMERDejZHMnU0bFh4c1dzNjdDQncwSHd1bzdCRWtFai1Jel9SeA?oc=5",
+    "title": "Pfizer stock maintains Outperform rating at BMO after Trump deal - Investing.com India",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbk9pY0xDT291aHlLbXhJN3Z2Q3ZKMlN2cHMwbHJfczA5Wnp0ZEE5RHRjQ3FDeGd1XzRRUWYzcXd4TWwyMUtVV3Q1LWVYRTl0VzBzdXhiMm4xWUs4NmJYX0Rva2RBSmxmbHd6Y2ZQUml1eGp4aWNvTDg4YTRJdUVieTZtVnJsNmN6dkVJVWhlMkZwVnVBTEFSMF96cnY0SzFadnl4SHM1UmtYNVkyeDR1NVozb0xNMlJMd0RFYWdUT2s?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T20:13:11Z",
-    "hash": "31c35423aa0d0c7ebf3a1b2106f8f8faaa0a7aa61a4a44d912f531f40e5cfe58",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Is Solana Here to Stay? Key Questions About its Recent Surge Answered - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uX1UtV2ZpUlh2cEhPY3hGZmxBeUxzOEQ4ZzhZZHhrRGlQUElMckROSVhPRFg2czdyR2g0cTZjbTJlUThfSGlyS0o4U2laVzFBWXB4OG5oWnJrYll1dHJWMm5oU1NZQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:12:39Z",
-    "hash": "9513c89c275253bd15529f2213da3d0d098161b85e76b5248ed2486fd184cd81",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk, Roche gain upgrades from HSBC - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1JsNkc0bXhWdTNjenk5RHhaQThHTExFdFRxWjNVTzB0ZFdIZVNta0dlQWJyNHFheWFMUzFONmtiWWFiZ3o2NEZMODRNYk40WGRGRERlT1VUN2VkbzdHSGVob05SYm5qaGtJMm1EVG9DUkRwbHFiSG5vUTcyTVFXUg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:12:17Z",
-    "hash": "f081b1d88e511136b1171ab2049901ef20be8ad67243b38c9149cb1072e46ac4",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: XRP Mirrors 2017 Rally as Analysts Eye $4.50 Breakout - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXFaVzlJNzRYRkRsMmFHWno2NFFhcWdOTE5jYWtDcUZPUzh1SnduMjNZay1nRUVmLU9jLTVjZTlOdVlFcVlmc0FGM2YzalVjMGJ1alhyZzJKcVMwLXJieVRySnFiTTdPcVF6LXg5d2ZaSHZ5eS0xcXl5Q3Zta0R6cHFzSU9QUGJodS1CTE1yM3ZpSzVqS1B3d0JBdHF5T2dlVzJmNUY2R0JCeFk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:11:55Z",
-    "hash": "75d1b95d0441ed648be3d32ad58dd658a7acdeeb984d567dd63cf65aa8623258",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Markets, Inc. to Announce Third Quarter 2025 Results on November 5, 2025 - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdmZQYllOSHh3OEFEVU1nckdjdzNxR1hhdk5tYXF2cXg0Mk5jMGZqLXN1T3BkanYzb0RIdlpIV0VsTzZ1LS1STUFGU3dFb3I5VzBuR1owVWRGZVdaMlI4bnpja05iSEc5OXZkU2lSRDA4NTVIam1iUG9EWDRpdnE0UmUtbWFlVGRDVW4ybDUzQjRIX1o5S1o1Q0M1Um5zZy1tWE5LQm1KS0MtYmVTcXYzSTZ0c2cxXzNlYUx0ak5SeFlSc05zZHN0MXBRVU9McXdpbE9DekhxSkJuYnJXSGNYQlpGbnlaMEhF0gHuAUFVX3lxTFB6SkZQeDJ5X0p5cUVCeTJ6UnJGc2IyRnROMGpQQTY1bklHQ1ppeEhzU0c0UWstWWtVTDBTRkh4VW9KN2JmWmFvWHg5cWdBZkVQeFQ1UW1LWklxbm9yS3VkaFJ5WGxuVjRrTkZSR19ocWhMX25jZWEzLV9UUzRuSjViMUt6ajkzMVdqTV9iSUNpRXlaMGRyeG5qRnZJRXBGVkhPcnlrOFFIM0QyX0hjcW92d1RUdnZmc0tpNDRoa3JoSW1jV051YlBBSk84TzNJeUhUNExGdnczVC1OQUxwa185M3NwSGpqOFNXQnlNalE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:11:18Z",
-    "hash": "87fa551341c04b5cc0957f02d30dc56595d7ac4ca7cb34883a4277822001840e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Trading Platform Robinhood Schedules Q3 2025 Results with Interactive Shareholder Q&A Session - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGduZV9PenNVZGdmaFN5OXNFeDhLZERnT19HeHIxLVhtQUNXUW1hTUF2RGJ4ak5EaFdHZHNmbnJqXzZLb05nTmJvWGpNUVA1Rmt4MnRnU2o0Q2JrTy1xcE5nRkpiNVdVX2VwdGJiaVRuQ0lacVA0UzR1SXd5OUxpWUdhd0lyVUxKVlhfSjJGUFhUQjQ5aVU5OS1kXzJRTXN1dTB1YUpROGJWNWk3WjVRaU1qcy1VdE1vaXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:05:00Z",
-    "hash": "63c48907ff35bf1bec51fabe3130551719cc8073eed53e48dcc8d93ba15f762a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin Hits $117,000, Ethereum, XRP Unbothered By Government Shutdown - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWNWamY4cWI0dlhrcDVfMW1FS1lGOUptTGxKeFdsbXUwbkhMRTNpZWdZSElQT2RPNTBHdFpyS21xR25sWjZfNXRXUWlqbld3NE5KS3YxWDVkMVZJVV9hQjNWU3A1d1lhNmJUQ3pydy13OTVxanlwbERYeEtoZWlPV1FRQlhvcmpDNE40YXBvWkR1dEpkWjVmdk00Y1A4R3BLXzRJLUJCZmFqZHNFekZ1RkNZc0VpT2pLYzFBeWRQdnFLaC0xcXhz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:02:14Z",
-    "hash": "dd3aec72a09f8b526277907e99980937cc15c47ee1fa9544c19ad0dc726b18c5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Bitcoin Hits $117,000, Ethereum, XRP Unbothered By Government Shutdown - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWNWamY4cWI0dlhrcDVfMW1FS1lGOUptTGxKeFdsbXUwbkhMRTNpZWdZSElQT2RPNTBHdFpyS21xR25sWjZfNXRXUWlqbld3NE5KS3YxWDVkMVZJVV9hQjNWU3A1d1lhNmJUQ3pydy13OTVxanlwbERYeEtoZWlPV1FRQlhvcmpDNE40YXBvWkR1dEpkWjVmdk00Y1A4R3BLXzRJLUJCZmFqZHNFekZ1RkNZc0VpT2pLYzFBeWRQdnFLaC0xcXhz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:02:14Z",
-    "hash": "dd3aec72a09f8b526277907e99980937cc15c47ee1fa9544c19ad0dc726b18c5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Hits $117,000, Ethereum, XRP Unbothered By Government Shutdown - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcWNWamY4cWI0dlhrcDVfMW1FS1lGOUptTGxKeFdsbXUwbkhMRTNpZWdZSElQT2RPNTBHdFpyS21xR25sWjZfNXRXUWlqbld3NE5KS3YxWDVkMVZJVV9hQjNWU3A1d1lhNmJUQ3pydy13OTVxanlwbERYeEtoZWlPV1FRQlhvcmpDNE40YXBvWkR1dEpkWjVmdk00Y1A4R3BLXzRJLUJCZmFqZHNFekZ1RkNZc0VpT2pLYzFBeWRQdnFLaC0xcXhz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:02:14Z",
-    "hash": "dd3aec72a09f8b526277907e99980937cc15c47ee1fa9544c19ad0dc726b18c5",
+    "published_at_utc": "2025-10-01T20:35:39Z",
+    "hash": "7e63599c63f1fb50cf56d26d9a010587143aee549ab1f768049cb56d0a545fa8",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "PFE",
-    "title": "Why Is Pfizer (PFE) Stock Soaring Today - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa19LX0tpUkFkVlZlcFY4anFRY0xxaVk4UlozZjQ4bGJxNmE0VDQ3OFoxQUk1aHVqeGFWQ3hGMktOU0Y1SHNZX3pyblpSczBsNUtLa3dpeTdvcWhSUGV5akhWRjRRd0tWbHVZbnlhN25BZ2IybzVJMWhHc1NRVElRc01YV0ZmRGhQZjJTTDd5eG16OU9ubW8yVDBYRzRHSTNhcms2WG91b1VGTlhNUWMw?oc=5",
+    "title": "Pfizer Stock, Other Drugmakers Rally Again - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOOVN6RDJHeExaOEdxUWNSZGd4eUY0QUJQQ0g2VEJPX2RabFkwdUNkVHJxam9oTEtTOWp2MFV1Y08zTnFjTjF4UGRpVnNFeXB3WXhDcGpfR1BSanh3TGduanFIVnZpNjcwaUhTWnhiUVBadW5YYUViMUxhOVRzMDRNbzNjZEg5bHA1YVVpcjl2bmc1SjhNeG9NdVdoejBxRU9zSEp5SF9nX1N5ajI3X2U4RTB3djRrell2RTEtWnNaQmNvMUpWUU5jVkRsX01EVmZDNHRZbGo0ZDl2Rm5BdE03eThXMlpWSWgwb1RPM21LYlhMUDdSRUJwUUxldE5jYkkxeldVaGhRaXp3WEVhbmNfZGhldk1Sc01ZRjhFN2hud2FRMFI3RGw4Q1M2YV9CTnVIc1l6dFhpc3lSNnpJbnBFYUo4cm5HN09aS05ILVJhcUxDa0JQSGxjU2hhSzIxTDRaWWdSRmJqYVFsbUhLRHZRM290cnRMb05XRmtpNkxsQXpFcjVQWjdweThTYWNyTzM5ZkpkZEduWXE3MnM4M3dYNGFqd2NDTTRIZVlXMVpIbWFUWG5FMGxnTHZ4TVNMTS01ZFlEc3ZtRENNeUs4bzJCalJNLVVORUJBVWN5emFZM3J6VzliV2VER3JR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T20:01:00Z",
-    "hash": "10505ee71d3a960797159c4a68fb39e9b212d861a0126ae5d371ffb4363724d7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana (SOL) Falls Below $210 as Investors Turn to Mutuum Finance (MUTM) for Q4 Profits - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZzBoWFlOMWJIWGZ3NTM1TFhzR1l4d1l2NFNWelhZMWFqOVR6eDBkaEtLSGJkTFRRNURMMF94VmV6MnpKd2NGSXYzdEk2ZWdEa1FrUnVHeGNORmlqd0RDWGNId3dCV2o2b1JVTWluVG92V0I0VXB5ck1WeUNWVVJlZng1MjdlRXVBdjNuemVOR0x2UWFBaW51OWVQWDBXdDFQWC1IZjNibzVJaHIzblAzZGFvbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T20:01:00Z",
-    "hash": "80e271a3c5dabc0e4c98c2dcafc6a987d3e1d75cb1bc3ef8ff4ef71924f2962d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Options Corner: Government Shutdown Drama Presents A Compelling Case For Rocket Lab - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRk00WWlJdDBIV2JrYW1yRkdzS2lpejZNOVhhZmJ5VVhWc1VpUGZTd2wxaVZmSW11anVoUHNoeXNNcXkwalVzckE0eDhYZ0t5VHEwS2dSM0FmQ1pzMzZ1bXBYLUExbVB3N2JRMkNTeU5DNmJ5c0luN3k1UDB4M2c4dnBPeDEzTDhYMW1pbFVkUnljOWpoLXF6NloxS09rTGNMYXkxODZIdzJRVGdWN24w?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T19:58:36Z",
-    "hash": "3f94240afcdb856ece75276c7ba563150bf1e9181df9789e5f18d38e9dd180b6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "US Pfizer deal powers health stocks as drugmakers court Trump - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUcxbjlfWGp2MzBmSGdvWThHdkJFMktJNHBPc2JxS0xrREV0M29ZRjFxeW9wRFBvOVVfT2FOUEQ1X2k5ZEIydElRdHJ6RGJ1Qi1vaEMtVlBqdjFQU1FvMkdwcXdoUUFHMXVhaE1lOFFTakpVMkZBdDFGbDhQbEpPenFTYVFfaWF6VllGeUF4ZVBTTU1ESXhmVmxiendLSnY0VnloZ3BSYTZveVB3b3EtbUFRZm9OVnNoaExTaWhoZ3NMdDdfX010b04zQ1ZhMDBqWS1pNnY1RzY3ZS02?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T19:57:18Z",
-    "hash": "8dfbb9da3f536dba2b703337c4396fc5f78a3bbf57d6753376cc253797a77f3f",
+    "published_at_utc": "2025-10-01T20:34:10Z",
+    "hash": "2d4003445fc94fab9d3ad5581061a9589058b50f85c3598c23da13de202e89ea",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "Pfizer",
-    "title": "Why The TrumpRx Deal Is A Big Win For Pfizer - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oM3lYS3VJTGx4djR1bDZYUXdGMjh1MUFiaEtxVFNMNXlodlpWanNvcVZsVEs1VG1Eam1DbTVtaVNKWDZNUGo0cGI4bjdOUFNPVEJUcmFKWG90c0x1WERCZk5ra0pQUjdRTDEyS0RpRDhZekpNNTJzalBuY1I0cmc?oc=5",
+    "title": "Pfizer Stock, Other Drugmakers Rally Again - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQYmIxLTZwalhSYTJkdXZ3clAxY1JKS1lXWEhXdDN3WmxDazNOcjVSd0YxcC1pV3AtTjBJOVE3SDZJV2lQMkYwT3dsM0pvZXAxLWtWbE9PdzZndjNhaE05VVhuSU9NM05tZ2hDYmxwMjEwYUNXLWJxUTNodk5WWDNSQXBlTUNEQUxvLVYxeXlrTlBWRmhPX1lRTnhsY2pKX0pmM3E4WER2ZFBOTVZVY1Z6c0dkQXF3SWlSbzZ1UnBTOV9ERFdXQ2dxa2FZY21NQnduWVpVQ3lBWU9qZE1EOTNJRlFUVkRLeXpfZUN1NkVQQXZGb1lEaU84R3lwbmZ2eE93NFpjQ05mNFhNUi1WYVdKWjUxck53aUxnd3loUHA0cWJQOEh4NEYtc2hWaTMxMnppQUlwcmlNU0NJUTJLVEVCd3dRYnBXVlhVQVBUZXR1MjRFOW95S0dCeS1UU250TmJsaWpXYmgySXQtdElMNllLckVKcWo3MV9oRDh4S0piZko2S1M3Znlyekk1ZFFVbTR0UlJuX3ZvMlZDRkRneU9uRm53MjcxNkRjMXM0NmgzUTlTOS1nUXdKNmpXMWZYQmcwWWZ0bEF4eXl5ekVia0RMNW1vTEx3TDZZakl4UlRTWkE0QUp2ZF9ZYzRB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T19:56:33Z",
-    "hash": "e431c272f16f4916d413f5871b05761cc7b9202af5c72fb1bd5a08413a49a5c5",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia: AI's Profit Problem Meets Its Power Problem (Rating Downgrade) (NASDAQ:NVDA) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0xVeHhvT3VzTVFzeklJeE9qd2VLWXVjWUZaeDJ0V29kT0pIRU10TmZNaEZrVS05NXNIamVfU0JkR0tabEhYM2ZLNlFoTGlFMmNQTlV3RG5QR09NbzNvc1VhZHBHaHRIdGtJNEVyZTdGSy1ETzlqRURnQ1cxSU9xZ2NockRLcUtfRUVoSXdWc0M3WUlaZVdwRlRqV1U3Slo4d2JXM3pGclVnQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T19:51:13Z",
-    "hash": "79fc93c57939273db05f3170750163e7a58ce00386ac36b84c5ba3fd1acaa91c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Forecast: ETH rises 5% as Fusaka upgrade goes live on Holesky testnet - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOamFBSUtodmZCNmpmazlzUzNCMGg4T3FOOElwTGk3ZUZBZjgzLXh1WmE5WWtZcjFsMzRXa3VNX2UwUjN1bFJyZ09RQ3lOTmJSazViemt2aUV0aTVmeDRPQ3hFbzYtM0tDYmMzQzhWcVFTNWEwSE1sVE9Yck41M0syUXNlVDlGZ1RNOHUzMnhjS3FmQk9DRHBoNXVFTlJPOUtUOVZEMU1leWFVQnloU1Q1S016MTBpZnVtejFnZFhjVTROUFBtOTk3SmFfejR2cmVXd0JhSkwwQkJ1UdIB3wFBVV95cUxPazdDY000NFhJby0zV25mVzQ2bUs4S21nVU9nOG1va2Z0ZUFIUWxkel96VWJiN0I1UlpBN2pXTUhRRWlQYUE1WXpKV0N0YlFDbkgxc01vMlRDSHNaLTJPSGY1U1RhQnpSc2NDVWJIWmFGSE5NT19sdnBSV3MwZ3hqU0RobTZMRnRmUEM4Y05McS00My1FY0pWNFdzMk9yQ2JmOWpIVkFVY3VaeTg1VVU5cm1FSGpnM2xuSUt2TlljYktjQWtjODJERTREZ0drckdCLTVjUXpUN1NfTDRHNmpz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T19:50:32Z",
-    "hash": "ebf01aa0d9c657a785ac9dfd1fb7fd9baba16904b5a52e0f9e0f98d0f3029692",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike stock is on a tear this year — and still has plenty of room to run - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM1MzdFZOem84dEYyTWJ6Rzk3bEM4N01xMk16bThEN1lKTjRqdkFlNVJoU1U4WE9jQnFmRHl4S1dsRGpiaWh1NkxGMnR5YnJMZ0w4cXRfVjgya2U5Um94QkhDREdkRzRxaWFUcWpiLWR1TVlVOFc3ZHBEQ01VeVd4QWYzUkFaRWNoX1NBeGE2ck5DbGU3TGlOcGhHRG04bHlVajJLbnNB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-01T19:49:18Z",
-    "hash": "5f6c53c328332da4ee15942d9a2c9699e86d5e154d7cae7cbd934bc4a1eb637e",
+    "published_at_utc": "2025-10-01T20:34:10Z",
+    "hash": "aa3e00ec4399efdfc2431a15e1570a0edb4db591c7b47dcdcd4c41a8824145a9",
     "source": "gnews"
   }
 ]
