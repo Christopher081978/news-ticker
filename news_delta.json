@@ -1,42 +1,92 @@
 [
   {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "White House Announces ‘TrumpRx’ with Pfizer Committing to Lower Drug Prices - Vision Times",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaTJIS1lhS1VNTDMxS1RQeWJUeHFfWFpuMlNUREVCX1J5SlpKb0FpTG5VX0dwRzl3eDhuaWExR1BKcWNHUGVUWk9GUmhmVFdSRDBmWTZZc0VmUEtZYUFJTHBaNnVNbldFeWttdmpaVU9DQ2hFWW1Ld1cyaFdoellZR3VFdmRfRnpDN05PYUd6NGNGd1plUkJkVzVDWHdUeHlGVmdoTkZjODVOSkYxMExpRkhSX3RvdkFm?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "SA analyst upgrades/downgrades: NVDA, IONQ, GIS, MPC - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0xRenBkN01fc2pNTG1YQ0hGZTFwZVlTM1lZYVppdEd4MmwzUUxoaGVrZTI0UjUybDYzZzRfMU1BZHdUT2w4X28yOUY0b1pXWWtTUGJWY1RNdHFINF9yYWxwWmRNV0x4UFVYMm1Rdms0WERqc3RSa0Vwc3lyeG5JSk1FcU1ma2xEQkR5YTZ3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T17:40:53Z",
-    "hash": "36b1b71f1da4d802a0830f7073dff0e919198fdf8b235d82ad22d503f386eebf",
+    "published_at_utc": "2025-10-01T18:25:34Z",
+    "hash": "e8b4d338d312a0d4cb61d31f7f8ec3afa44b71d09cdb422967213747dc6af7ad",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE): A Healthcare Giant Offering Steady Dividend Income - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYkRlOURZazlrbDJpNC0yemU1c2xaUkZGNjI3MEZ4WlYwaF9fWFdPRERvdDlVS0ZnTHRGeHN6alVfUFpZOVM0bjN2V3BaWU9XdGhrVnExdlBJdzhIdnJ0VVVpcHRkSGNDS2xPSThuMll1Q3lLTE95bl9qNDhkX1ZBN3NjQ2tKZ0VHeGtTVkx5ODFfaUNZWldlNUlacG5uWlE0cFg2c0VUUjdMd0V5NEllQWpVTnpGaEUtaEdXMWw1RnN2MUdKUFJrdzkwcHVmUF9YLXh0TFZ3?oc=5",
+    "query": "Pfizer",
+    "title": "Pfizer (PFE) Rallies on Drug Pricing Agreement with U.S. - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVjVZYkpjcnFnV3hiYk8tSkEwWDk0cFB4V1RMM1BhTHVuUlRKaTZKOTU5SXE1ZEZfeHhCSjJJQzZqWjVPdXNWMzBMT1hvMGdsQXpQblpmSjU3QTJ5MXpidEdpWjdYT2kyclJXZTBfelJXb2NvVmg2bUx5RUI5Nzk2NkZDYTZnZnhiSjdJV2FXVUF2SjRwWmc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T17:33:48Z",
-    "hash": "7953a94a68782ed9be2afea64805a0db4913fb480c2def6a6116150d10fc19dc",
+    "published_at_utc": "2025-10-01T18:21:55Z",
+    "hash": "8d1fec48098f03bf26fea255d98c8261484415c072562797a599cbaf96952894",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast - ETH-USD $4,303, $674M ETF Inflows, 1.7M Daily Transactions, and $10K Bull Flag in Play - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVEllYTJzUkUwM0ZpdVNEQzByWm0wbUd4aWprcDJUSlhBUjgyWFBlRDMtc0FNUElqMnNpdVlza3BNNDBRRFdaUDNYVnZtYmw0RWNnV2JkdHdaLWxzSTNPRFNzOEVhanlXSTVVdV9JQVdnejkzMU5iZG1VSXRubnJTMm91RzFoQk5jNXV2blctakZqTjhzRmd5dTlLa2Nmem9KQWF6c3BXSzVHXzRJZ0x3QVNqQUNNSEhYbzlFVy1lTEFOUHk2QjRWWlpsRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-01T18:16:58Z",
+    "hash": "d7841a5748aef186023d6390b0bec80feefeac682e169ce8a5d82c2b6eeac572",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase funds New York pilot giving $12K in USDC to low-income residents - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QM1hBYWdSZ1gwOHB0aEtJUGVGM3U4S0JJTnpDcHJ3S19sb0U2Ri1Ccm1yc3lld0Y0MnZFdlRvaXdkdHcweWFWMzNJRGVsSkhpVUJkbWtsVkhaaU9oZm1rUnh0V205RGJBeFZteGh1ZG80R0dnU1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-01T18:09:33Z",
+    "hash": "31b90e166142bcee486a07175e91fb6845f390ee4925a59d76c9bfb0f851f1ff",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Why Shares in Novo Nordisk Bumped Higher Today - MSN",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTlCdXB0dE44Rm5DOURlTlVVdG1kVDZDSFR1RzV6OHV3anJHTjF4eGk0STNEbkJzbmFqaEh1aTR4Y2FOcU95Yko3Q2llMzJKMTRTT0JldjFqbms1cTc4ZzBWVGdreVNBT0JidDdsWjVhaW53MHhRM0VmUUc4ZldXUHZuQ0k2cDBxVFFXb05CUEVTTk1tLVMyeXhZLTRNYXNZRTJ0VmFkSnFyR0JIc0g0UGpUTk51aThlZ2hkVVBVeHhaME96?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-01T17:58:54Z",
+    "hash": "3d0577c1b449f9c98943a2fa6887aec53181065d3dc0bd7e7dd7f62c68f28e39",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Lithium Americas, Reddit, Nike, Plug Power, Pfizer: Stocks Making The Biggest Moves Today - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTUI4V0cwMGRTTnBKTHhBQmNtVFZOYTlHeDZBNXBNUWZoZnczYVI2ZW1oQlk4YlJ6a2loanRoTzg2MUlPVGxEbGJ1M1FqQXJfbDZxV2RYVUF5WlIwdDFjdWRnem82aWw4WHlrSmJVUVpxSDl3OERISkRieUE4ZzJQYUFaYlRDZmtOcU5CcnJhcFZTQ3Z4QXU5UnEtZnh6SThZeW5fUi11Z3BKYml4WEJYYjh5OS15bkdURnNFU01TeEtjYUVpTlVUZ0oybHpuR3NxUDNsX3BzLXZmdTIwWEUtNWZRSksxMHkwOWdPTDVCSzRSUHk5?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-01T17:58:51Z",
+    "hash": "7414e15443a531c6a6ec91a2c7d0f2d8bd03b539877cb8edfacf1b79c87f8bbd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Why Shares in Novo Nordisk Bumped Higher Today - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LR0FOUTdyb3NhQ1pLZndVSjVqeTNXbUM3NFhhZ3VsMTd4dGNJQ09NQnY3NjNvVFhxMW1ncGQxaTRZbWdFaHRyWXZlVU1PYnJwaFEyOFhBd2szN3FUOGtEX0poMC1UOVZ1VW1aMkJWbUZHMU5NeUpDS3lDbjdLRkU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-01T17:54:23Z",
+    "hash": "dfd9bb66128b46944ca9ac21ee92059e0d64f7dd0eb9a7a4d8ee7ef9175d69a9",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple (XRP) Price Prediction: Mutuum Finance (MUTM) Projected to Crash XRP With 45x Returns - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkN2NzA1aDVueklCUUxFd1BUbHV1cHZ3ZkxUUHJGV3NLXzViSW1LcmxkOUVVNnJvSWNITVhyOTR4Y0Vkb29zdGZnbTVLS1VCRGNlUGVlcXJnYURLYzZjT3JXcVRSVk9NNTV0dTR5M0VGVlk3d1NNSjR5X2dtWVI1Tm1wdWpXUmZSMGQtMGthM0pPd1RO?oc=5",
+    "title": "Price predictions 10/1: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, LINK, AVAX - Cointelegraph",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLTRSRDg5dG1IUXlNRGotY2hDbWZMRVZKdGkwaE9jUm1xOHlUOVdnNUJwWGEwZEdQcnpRdEhxTWdpdXM1ZXRXenNoOTYxTTlMNW05eG1vQjhvYjNBalROeUxnZEtyTHh0cGI5NVJBeE9xcDVJOGFtNXZsUnl3WGk0NTZjVndmRkYzV0gzeERVZjM5M0ZCZ2dTajE0ZW8yZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T17:31:00Z",
-    "hash": "8a312bfc3a5bbca3f01f08108cafde580d19e00b0d8cf3980a96833d2fc50a40",
+    "published_at_utc": "2025-10-01T17:53:10Z",
+    "hash": "5d07d7c4e34770b24e1c492cacfb847a036bf7695e9cb1df2a1e01ee736a8589",
     "source": "gnews"
   },
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Best Semiconductor Stock to Buy in 2025: TSMC Market Dominance and AI Growth Potential - TECHi",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1acVdUeG42aWZIcUVIZ3lmTzF3aUhyaHNwSDZBMnE0bU82VXVnTVFOWlVRYndhWURJQWxlOUlVU0VuaFV0bWZGS2RGNmg1YTlEZlFnTVVBdzl3VFduWlFVa3R6V1hiTm8tY1BVZUdaNA?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Falls From Record High as Meta Accelerates Custom AI Chip - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbi1YTVFVSWNGdmtxVUxNU1BBbC1DUERyWTJna1Etbl9aWVRfaHNDaG5mVW1pekJ0LXFlVG5qbHNkTFBUU05reWxaLVRETDhsSXJya2d6SDJyVW5DMDgwTm41V3B0cEhUYk5NU2pZczZsVTJQX19Ec2ZmNE96RlJId3p3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-01T17:30:18Z",
-    "hash": "08b064a5e1bd141955d26d30a77ac36be2839499d9eb6a25b95107945b745305",
+    "published_at_utc": "2025-10-01T17:49:03Z",
+    "hash": "17c8817d80cde20a839065161621521bd3c877a5efc8a9dad41308602278b8ec",
     "source": "gnews"
   }
 ]
