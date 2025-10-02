@@ -1,12 +1,62 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "CRWV vs. GOOGL: Which AI Infrastructure Stock Is the Better Buy Now? - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObnVTc0ZXdVJiUTUxbVlmdUhpalY3cDNzc2dhLUlnd21qa3psbFFuSTl6a1JDSG5ZMUo1SkNkTk5FV0VhNFR3YTFmUVZ2SzJoMDZYMHN4bzdFeFhaZ3dzeElaUUZJUzhKcnVUM3lydGZwdWtaOUdGQlhHUDVhdWRWUU80MXVlQlhVZTNJVFhtWU5PR0QwQjRISmgyeHFTdXZDYTNYNXpCNTM2dw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin ETFs Pull In $676M as BTC Price Surges Past $120,000 – BlackRock’s IBIT Hits $90.7B AUM - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRk5ZTHZPVy1hYW0xako0ZUVxcDl1Y3lJc2RHSzYyREh2OTdWN3p2WkpWay10NEtzWl95a3JoemhRdF9kMW1DdGRELUQ4R1ZUa2pfc000YlFYS1g2WFNRT1ZqamlXMVZnVGFwajBuY0JnRVZUaHM3SDFETTZuZ2RlM0xDX3pRN2ZNQnpOMlNvSi0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-02T21:32:02Z",
-    "hash": "d8a3861cb976e442f68e3a73c0c9b665d97367137b0967f4b18e6aeea26a394c",
+    "published_at_utc": "2025-10-02T22:17:27Z",
+    "hash": "1688ba15fd2171fd70efc1860232b84d03b5a31972de1daeea15291eac15f458",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Pi Network Price Prediction: 50% Of Crypto Analysts Expect PI Coin Price To Collapse In 2026 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDVnOVdacmxEdE5waHNsb1BmZW5UUHdyRUlKMTVXNmtQNXFPZWh4eWZqVk9FZ09pQnlNVW53Njg4Q1UyVlFOdm1oOWIwUE56djVLdGJtb2tsNjduSUJSd1Jkc01tMXIxSFN4VUNrOWJWQWU3c2ZLaUFqcGUyZkRlWEhoYXYzVk1sTUxlVHZLUi15WXRCcklyejExWWZ2dHNfd0pkR0FvQ0UxXzNTanlkRUsxRXlqQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-02T22:09:14Z",
+    "hash": "3050ccf2b765d2cd774eced70c2d528a02cbff30d80bb564d097a68b177ada82",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Sharps Technology Plans $100M Stock Buyback Amid Solana Treasury Push - livebitcoinnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUtoZzlqS0t6QUgzdGc4S0dSSXBIczExdGszODlHVUJwRkwzVzhWalk0UnBnOGxXYXdjbjhtZFBIMWZKNDZKR1JNVTJ5OFd2MTBLOUxPMDI5eUFhNzE2QVA3NTU2OGpfbWFjMUlyTjFqSFE3SDF1a2h1THZHcVI1b0tEV1drRFlMb3FxNlN5eTE1dUxTU0RWWU10TDRZU1FaZ0o4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-02T22:00:48Z",
+    "hash": "0f3095903425f68122db05f5752ca878246ea4f306736f43094e57f51c904319",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "Why Did D-Wave Quantum Stock Skyrocket 14% Today? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvd1pVNVowNUxuLWZZVEpUMVlOVE1kYml2TEVWS29tQUdvVFo2aXd2T3BEVEJydmFwNzhEX2V6VUJMTFZ2OGMyZ1pKRWxSRHcwbkgtdjdJZEM3QkszMm1ZaDVJdjRqNHUzWi1iSXE2UlprUzBNdzYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-02T21:57:19Z",
+    "hash": "970fa72bd1be38d4150302c442dd838129efea17311766b7ff1a0313e5dcc6da",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "‘PSA: Tokenization Will Eat Finance,’ Robinhood CEO Posts After Token2049 Panel - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDRBS2o5bzFUZ1oyYWU2Y002c3NIR2FfVkRIeFJ1d0p5dWZsYlZoSHc4bVdkWGczMVJHWHB4WmN6TGJwRldpNzBGd3RZMkNxRzlzeVVmRXoyT2lIc21ha1ZKVnNhWl8wR0pvX196WnlpRXRYTkhaRi1fR2tISGFLQ3lsay16MmxvWVJ4WFNXcC1PaF9uSGhsMUk0TWVPZ1J6UklJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-02T21:50:25Z",
+    "hash": "aecc83950e8d478602151f1a6a93e6b595abcae73ddb6c75bb23a52ad2b8455b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "9 Coins for Maximum Gains: One 1000x Crypto Presale is all the Hype - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkM3QjdyQVR4QlNLTkdXTTU1UXBtSjlLQzJ3eExkVGRQOHRtRUVDdXF3Z1RLSkNsRFdVNzFqeEpqYjRhZUI2d003UEVIOEdMSkdGajJZOFZZczVsR1JabXJoMjdLaDZJSm9oQlJHRzR3Qk1JcWVHalowdXhWdU90SHNlcDNobUZIYnlVWVFaNDJYd0N2UEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-02T21:46:42Z",
+    "hash": "af6f844cd312afa4d9b0b3d0880f683a0a810de4976ed02a584e82ae39346603",
     "source": "gnews"
   }
 ]
