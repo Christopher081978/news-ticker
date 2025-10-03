@@ -1,102 +1,72 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Signals Crypto Treasury Market Is Shrinking Toward a Few Key Players - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXR0Nkx5T3BvX1BSUjdqaWlTekMwN1YyQUg2aG5XeEpTbUZIMmdlYlg3TTV1VnFrcGdhTEl0UGp5bVlmeUQ3ZklOb2dhNkFDbVlwdTZGSllfZDRIVHNTc3h3X3REbFFpNThtdzN6ZVp6eTBsbXk3M21JWW03NjVmNzhtaVZnSHdMamhOLWRLdDZNVjRQRFE?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk (NYSE:NVO): Assessing Valuation Following Recent Share Price Dip - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSEQzTGxGSFEwNXZkd3lWSUlSa2FYNTgycklCOEFPQWxiczZWSXNIZDBWR0N5SnYzN0NtWFotS3ZXN1hFM2xyVXRZenJRR2xZQ1FSSmEtQ3BHalJKYjJYOThqbVVPNHBHVkNtbG9Ea1hNcV9OTGNra3U1RzFLMEhNNElya1pJdmdDWi1WdXgyOFRodS1ma0RpYkx0Tm9LTk1BYXNocW1lOUd3eTZCeGY4MmxUWXhxR0VpY1RZeElHMXg5OGNJaUx2b3JkUUJwY05xRkZscEhCNkFjUVnSAeABQVVfeXFMTXA4azBCYnZJQ0RJbjYyaUZVa2FCak9wQmtiV09xTmY5Uks4emgyVnFLR1ZkMU91VlVxSUZReElaVktDdFBEYnRpVEpRcGNsZ29JRXBIQ2hlNVpxTFkzVmtldnJFcVpjQXl5dGRrenVVRFJiMkdLOEJQclNqSURvWGpaU2VJSEV0dGtISG1zN1FTb2lJRW1DOURONlYxR1BDeVdKTmJndlU5VHBQUVRIMDdfcFdPdURoVS1rTHpTU3dmVFB6czlXY0lNTEtlRWNGUHZYT2VzcC1nVDFWa1JqVWU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T11:05:00Z",
-    "hash": "6220b81e21ceca327016bed4c53d1c1daeff2477bbaf788d9060527954b5f222",
+    "published_at_utc": "2025-10-03T11:40:08Z",
+    "hash": "07b5881a3a6b898bfb4f6fc67648cd56535eab7f9b5bab40e9877c186f8ab22d",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase gets an upgrade from Rothschild on growing crypto adoption in finance - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzF2TGpST3ppeEhfeHZJVG1TYnVwRkFvUk1sNEJ6blpwd2J2RnlOQmlZeGdmRzJQWlZFbFJXX3hiaHhJcGQyTzJNaGEwbGhSeUhCQVVlQUwtSGJjUkVCRmNOT3FqZkFMb05IMlYxTml3Tk9rYkVQUWNRYVc5U1FxNnk4dGg3RWt4T1lYZm1IY0RaS0FYSnZRNkdXYzdDZzdxcEpmY3p3U1JMdW5jckUyVm45ODk4QQ?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Bitcoin, Ethereum, XRP Remain Strong As ETF Flows Reach $900 Million - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2lEakhUTmE3MlJaUEwyNGp5MUZEYktHQVJnVDBLb19EaHEzQkxhVktmNVVFX0N3YkVnYVl6am93dzRvSTBqeWRCbW5GY1pwZW5adEN2QlhiUzFUQ2hGZ1c4QmhOMUtOcmFwMEV0Z3RiSERDZi1RX3djZF9wYy00ZlNoZS1OcFpJU1A3MV9BTDBFR1BWYUhTbmdMUWVwX050WmJvRUNoaV9WSGtpa1VGQ2p1QURfVkFRSDZwdUV2UkVuR1U0bXc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T11:04:32Z",
-    "hash": "8c811a2b2d3c5cce3628e0c25aae3920bdb90d925f214109f851e9132900d8b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction: Could BTC Price Reach $10,000,000 By 2040 - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcm9aUmFJbXZvQXF0X2NfYjc5TzB5WVpsaWV1Qm1yZ282d1AzaWJxUGItcXNxQ2FISWlCeElGQXRNUnpvV1N2WUFzYW5UeXFLWjI4UXE2bk9YMXdpeDRSZ3Z6bFhWLXBfQ0o2ajlySElYWUpfbjZjNWRDclVvZnNPYmhYZmRBdFJvQkg5V19CMFdjUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T11:00:58Z",
-    "hash": "921b101c9b6aa06ffc8056112655ce6387fa52b6a94415d554275f5b7acb9136",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike stock price target raised to $580 from $500 at TD Cowen - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjRLcW4taG12UFZxZHRESmluUVZieEo2ME5HRVpqSUxydEhxMHI4NUtZMElONXNGYXBZc05vUzlhTEdGSFpvM1g3UVdISXZ6YXhoaUUtY3dTNExvOW5STlhSOHdsZTI2T1hJekx2Qzl5M1dXdjBtUFNVUkhLWnpsQURtS29xbHo4WnJFUzd6UGktdlBPNDluLWFubmRnaEFCOEJhRFc5SGk3MEdtSHhnMVBWRkZnUmFEQjBKQzgyWm1oM0k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T10:55:17Z",
-    "hash": "a2fa42031430d79db8cb5c0d715f4cb089905033295945c6cde51154a75118ba",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Market Awaits XRP ETF Decision, DEAL Mining Provides More Options with AI Cloud Computing Power - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmdaR19WcjJLZUJPWGxoWk1PQmppTjVZd0Y0UmIxdFpycDJpZDhRUnJLZ1pkSVlBVnc5bDVwUGFObU5NLWtpUXN2aU9BQmZkcWxma0V0NERtR0VXRTk5VjI2N21tVy1UeWtGWGRlRXU0dWp2TnBiVEpJblg5TkpsREQ2dUdILTZsekZPV3FKb3h3WVVrdlpDWUVUdGJTUS1QaFNJY2RjN1JaclNFdmFkbjFsTUhSQWtlRkVWN0JtNUF6NkVUZjhYMzJMSDBodw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T10:54:23Z",
-    "hash": "040a2ea25b6633bbfcf9a8399d15912b7e720b8a6fcc3d920c98405100410e0e",
+    "published_at_utc": "2025-10-03T11:39:22Z",
+    "hash": "0da9fd9898bab5332092eb85e93a2a57bf8bda98ec92a5cb5e154d29922a870a",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin: ETF Inflows Fuel Optimism but Heavy Sell Walls Limit Breakout Hopes - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ29fc1lDV3h1OGNZa094dlE5X2U0cFlwNUdXRTN1YXNPcHBLWmU0RThVLXF4ZkxORzlZS091SmUzcmQtTDdkSFNnQmEwNmlRNElSRkc3VnZzdEtpN1BrbGNYR281dmhybk00Y01lRmlXQ3Z4ek1LZ1FidzdoNmJNR2pfdWdkMXBKcTVKZmNLUkRDdGJQdHlUY2UyMDJzTWlPUVZwWmZfSE44NVpoaVNkMFVOQ2loLXFGVWVMcQ?oc=5",
+    "query": "BTC-USD",
+    "title": "Bitcoin, Ethereum, XRP Remain Strong As ETF Flows Reach $900 Million - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ2lEakhUTmE3MlJaUEwyNGp5MUZEYktHQVJnVDBLb19EaHEzQkxhVktmNVVFX0N3YkVnYVl6am93dzRvSTBqeWRCbW5GY1pwZW5adEN2QlhiUzFUQ2hGZ1c4QmhOMUtOcmFwMEV0Z3RiSERDZi1RX3djZF9wYy00ZlNoZS1OcFpJU1A3MV9BTDBFR1BWYUhTbmdMUWVwX050WmJvRUNoaV9WSGtpa1VGQ2p1QURfVkFRSDZwdUV2UkVuR1U0bXc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T10:52:30Z",
-    "hash": "3f74aa2d8677c85119ab66aa3b5e1eff01de59a792744cd1bf2277937b86f0f0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "The Zacks Analyst Blog Highlights Robinhood Markets, Futu and TD SYNNEX - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY2xzVVdzZ2poTUVwMzRwRlU3U2V0NzQ2aTBDMnh3NEcyTkVZYkt6N2tvNnNwc00xSmRvWkl6Z05WS3A4YXlEcVVKajhpTmtURkluTzFJM0tVQnZGNS1FZk5kVWdzWnBOcjR2U2JJNWRYVFg3WFNRdWpCSzFDQ0RoeFJRR19Xa3lrdTVYWGlnbDVEbGNZb3JZRUxDYU5zYVlxMWgzYncyeU1MdkFPaWZnaGJMb3VJRkRlT3pVeWJYRnJkOHQzbmZsOHhBb3JZTWFsQThkWVdwTTF3VmhZZmFLbENxOE1IdF9ta2Vrbg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T10:51:04Z",
-    "hash": "79b3f8137d9bd910e305f47565f74c15b2f4ac2274d67b29d29609ccb2e1ab9f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Circle expands USYC tokenized money market fund to Solana - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NS01YckxFRXBLdlptUkMxTDQxdnU3RDBhRkRnQW83VEVTcVpKSlNWR01JZWJoUk1GcHVQZ0d2Q2tLaXNhRUQyMlBWb1cxdUxNcUNnQUVaVzZBbXlvN1A3Wldtb08yeDU1OVRPM1lqQmt6ZXFM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T10:51:00Z",
-    "hash": "e62385810fac77d2fead8481c54671ce66a743912e11cafa1e68e500009fc392",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM is Hudson Edge Investment Partners Inc.'s 3rd Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRTNrM0VFcWJOMFY1N2VzWDRLdlJCRzljakd5OW9xOVRhWUtNYmR0RjNwam5UdWx2V0hrVWRZQ0VOYXhCTGNzdnFSc3BZX2tqY2ZXaE45bEpRU0RieHl6SmZ5Z2RZSmRtZjFnVFl6R1Y4X0szcnY0N3A0T2YtLXNxZ2YyTFI2TGFzVjNLZHZFX2lRWDdPRzhwS2g3cUZJWlhRSTB1RHFxMlRDN01aWUczVWlmdGg3cG9rT21PdmNBT0dxbEJWeHZ6M0k4RzREakNMSmNTSlRBMVE4M2J0aXkxdkxmUEJJakFyRFBBaXYyWktIVENyLVVaZ1l6Z1M2cTdKdFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T10:50:55Z",
-    "hash": "ceaa1bd635434cad0f57d0fa914c97097b715406780f5cbca0860c9df1077840",
+    "published_at_utc": "2025-10-03T11:39:22Z",
+    "hash": "0da9fd9898bab5332092eb85e93a2a57bf8bda98ec92a5cb5e154d29922a870a",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "Pfizer",
-    "title": "Pfizer Just Made a Landmark Drug Pricing Agreement with President Donald Trump. Is the Stock a Buy? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hR29IUFprT09mSjJWNlpOTkUxNERteDFVYmRZWjhGSnJKaFNCRUVxczZqWTVzSy1vekxKUTZXc25UVHBacnV3NGUtckNYZUpYNjBjSHpQNVoyYklsMkZjSXUtdmFaYWpMNEZJRzNUcVQxOWVINGNjTEhZcHNPZw?oc=5",
+    "title": "Pfizer (PFE) Secures Deal to Avert Tariffs Through U.S. Manufact - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa01Ecjc5dVA2RDVOWl9STXBLaWR4aU1iTThycGZaOWhIMmxrc2ttOWgzNVhJZXNtMU50NXJJTE01eFJkRFhpcE1JbnlWRjJuOE5GUkJ4azk2UnNfanZLeG9oaU94aDV6SHUwVEtIZFBzQmJ2Q1ExUUI1djRyRTF2cUlucWdLY3VjTjFBS245bjY2d0lyUU5rRFQ1cmJpSUdEX01uUENhNUxlN0VLVUVseFNPV0wyQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T10:47:44Z",
-    "hash": "01eeb426edeeca00ed8d888bd09d228e903613d737ec7accc6e6710881ac6702",
+    "published_at_utc": "2025-10-03T11:38:54Z",
+    "hash": "35abcf513a71a1e9f2141e300080a737b1c43505f65c5608102f6fa71985075d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy: Will Solana (SOL) Skyrocket Past $300 in the Uptober Rally, or Will This Viral Altcoin Dominate Q4 2025 Gains? - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNzlPaEl5TTZkMUNPVzVvaW84WW9ERkU4cGJFSGt5WmN6SVJPaXU0WEVUaUx2RVVlcXVZTG1ocWNrQVduNkh0WURWaENwTVljakZpczR0bVBQbDVDV0dmTXdhTGRmY214OFFmYk9PMGZNQ0JnZklvb2tTV3JkaTRscDVLVGI4VnhZbzM2ZGdMcHRFaUtTTTlvcGlWM2Y0QkJBUFM2QTE3S0d5Y2xKbDQ4VTJ2aG5JcG9RZ0xrOHJZX292bmJzd1VSOW43eTQ0X2l3WHVhQkxkQkdaa3YwVzlKWTQ2U2JJYzB1djRn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T11:34:00Z",
+    "hash": "8196303e629dda777ea3452a9f87669732c4a1d1007d80aff031dea4bc5a0ea9",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple CTO Resigns, XRP Price Struggles to Find Direction As A Better Crypto To Buy Emerges - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTjFlVWgtb3lJTFNNNkZiTzAxc2Y5NDJJbkp1TzlyYzBLQ2NFSng4TVBWQXBocjNWbzAxaDNsZ2VVak82X1BONnpuMmpGY2ZqN2lnUExVeUVPRjRxamFnd3F1R0YzQ21DSW5BOUFoamR6VnhLcGVzRHZTdTFEOEhjYTN5dElCaUNwekJ1Qk5zUVhIWEFYelZKNjZ1ZXYtQ1NLeE85N2kxcmRKaHRFLTBSZmJsUE5yYVhvRkVtdk93dHNPTTE3ODM0LWxFemxaUEdCMHlMdlFVU3h4Ym1ibDUwLUNHR3FfVWM4SERVOVVlTlQ5LWRORmJjT0VR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T11:31:42Z",
+    "hash": "e5a4972fbc5ee8d5fac533bfa58d3876a750c39389212876a049e8b80f28cc8e",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum (QBTS): 2 Factors Driving Its Surge - Tokenist",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EcW13dHFXVUVESllGajBaa1hVdE5VY2JJR1hoTnZCcXJTVXNlYjBmYWJnZUZUeC1wZm84cDdrcWVldFJNLXlnZnl5UGtZdG8tT3Exbmw2TXNjeFdkM0ZLYU1GWUphU05mQmE4aWhDWlRsUUwxYkx5Nw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T11:26:19Z",
+    "hash": "c0d6be2aefdb037c51c6b825d3714ad09d3e15bbf83b896bdaf2b8bfcd11b445",
     "source": "gnews"
   }
 ]
