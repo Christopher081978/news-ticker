@@ -1,72 +1,62 @@
 [
   {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "UiPath Is Teaming Up With Nvidia. Does That Make PATH Stock a Buy Here? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzUwRVNra2xQd1lOSFlJZDVURXp0YWhWUnA3eEV0X2I1SnJFbUV4TGlmMVhXcm9KOWFQX0Zjb1pNMGhGOXpXU3JLNV9TeTIxaWhmX2VYVjIxb0gtZ3FGLTB6UjRBcDEtMEZxOHZOTWc1UDlvYjByQVMtOXo2T092a3BIMHpmQnZaWEtiY3ZTMWhleFAxRDZ3OWk4Njk1LUtoNnUwY3liM0xfTHZfT0lsMWttOTB6SXlMZ3I5ZjZoajhBd1YxLW5EMWx1ckdOUWtYZm0wdlJmTlhYbWpzNkdpN2QwRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T19:37:37Z",
+    "hash": "59cc1128ee26475488c6c681eafc9bc174c28585d7f527b643669633d4dba025",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Rothschild's Upgrade of Coinbase: A Catalyst for Crypto Payroll and Institutional Growth - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHJ2ZUxaOTZwMjI0THZDNG0wVVBJa01NTzBvTlN2WjJ6SEp0Qms2LWRWM1dYcXZRaWNFT1lxVlZ5aGdvVC1Ic1ZVTTBuNnZRVTRNbVllLU9OajIzX3pOT0g5SmlkM015UnE0c0s3TlktUlhHMTdKYWhoMEtqall5WWpR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T19:36:27Z",
+    "hash": "59109664c29ef88a8315e708f84a430b7f3aebf658f15e5086a4cc0379fa346a",
+    "source": "gnews"
+  },
+  {
     "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Price Prediction: Ethereum Bull Flag Ignites $6,900 Rally Amid ETF Surge - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU0FOQ1F0d3NLZTRpZ3lhWjdEaFZsdWVSVG5LTHZ0Z1l3bDlTYmduQTdPeE1fVmpBdDFtbEVqZ3BGWGFPc3V1UWU5Yk5KbDkwdXp2WEdNV2lRZFZjbVZBM09idjhDcEx4N0lpd3hFS1UxNHZaTEotMUo3WXpDN0c3X0pmb1lWYTBFZzBZT1FaN3Zjcm1iTVhvNE1RYmh5eU84T29CNnZpQllEc0pGZ0x6cURBeF8tdVk?oc=5",
+    "query": "ETH-USD",
+    "title": "Bitcoin Rebounds To $122,000 As Ethereum, XRP, Dogecoin Rally Into Weekend - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC15al9yS1dNUlFyTXFjTzlKS1ZaczlENlQ5c254dXZPdW9oM19hN2pRWWVlNUV2VmY0azhGOHFfQU1NU2FKZVdpS1hFb2swemxwUFVpbWtYREJmajVWTXd4RThJVHlfVkQwNUkxNUY1eUl3RlRHejA4b1V4RlEwenRBekFUeFpXOXc3ZmU3blVLaDRFSmZITzNQdl84VGtjRXU3Z3FqN0VSX1BsU1poYS04OVNWVWxvbFhkb3JTYXFWU2hLc2FnRDNGdms?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T19:15:39Z",
-    "hash": "772f9e697b2f67f058d9397d34a5b7d884b6d8fe16a1c554d59acac4315e4332",
+    "published_at_utc": "2025-10-03T19:35:25Z",
+    "hash": "ae62d207ac3ad649113b9682bf6f9aa4dcc8b5bde611ac84987b5cc6eb47d6ab",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Bitcoin Hits $120,000, Fueling DeepSnitch 300x Growth Projections - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakdVOGQ5NXFyU2w5SGNPWmpGQW0wZVZrMEo1YzBaSVRicVlLVFlaUElUSzAyQV9KMUFiOGVvcmF6eU13MUZMZ29SZVlqWE5BVzFYWlh3R1RlcHliMk16YmZWZlkwVUVOTzd2QUdGbGlaRlhiOXBZeUh3R19IeVMwMUNzZ2taeXFjOVJpbHNTVTg2eVlJbHFjdTJsM0YtcEt0TzVXSE8yOHIwLXBEeldCdw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin Rebounds To $122,000 As Ethereum, XRP, Dogecoin Rally Into Weekend - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTC15al9yS1dNUlFyTXFjTzlKS1ZaczlENlQ5c254dXZPdW9oM19hN2pRWWVlNUV2VmY0azhGOHFfQU1NU2FKZVdpS1hFb2swemxwUFVpbWtYREJmajVWTXd4RThJVHlfVkQwNUkxNUY1eUl3RlRHejA4b1V4RlEwenRBekFUeFpXOXc3ZmU3blVLaDRFSmZITzNQdl84VGtjRXU3Z3FqN0VSX1BsU1poYS04OVNWVWxvbFhkb3JTYXFWU2hLc2FnRDNGdms?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T19:15:19Z",
-    "hash": "6f3cf79582ae8b25c44ebb607c998d9eaee3fbb491453e7f0dc5d8af58782357",
+    "published_at_utc": "2025-10-03T19:35:25Z",
+    "hash": "ae62d207ac3ad649113b9682bf6f9aa4dcc8b5bde611ac84987b5cc6eb47d6ab",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Forecast: SOL Forms Golden Cross Amid $780M Staking Outflows - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNTRKN0lETWo2R1JkdmpuSW14N0pEZkJqb1F1OVNxZVVHcUJBY3dLNWoxXzBLOU5tRTF1dFc1SV9YS1FDbEEtR29GZk0teE41QXJheEtfLVdDc2EyQ2QzRElMZDAxaWxGdWswQzByUk0temJtd1ZzR0RGYWVFanNCQy14UC1YZUNPUTRnbUpCcEhCSU1idS1oY1VmOF93MkxTdGfSAacBQVVfeXFMTXlPUTBXaDRUNTNjOHNHaFVvRnBNZlM3ZTJwQ2F4bjBLTlN0TnVHX3RIVW1rc0s1WWF0Tkp3RUFlVWtTdFdiSk9vSno5bmMxQnJBeUFkdkpadFY4R1ZGc3BiWEx2RTczOTVwd2JNRTNFbURGLWVIc2tkZHZkcjNtN1QzR01yTUdmeUtDM0kyOHhKOTNzUEFweUVneVVLYklwMzJ1aWk4dTA?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price Prediction: Bitcoin Cup-and-Handle Breakout Fuels Bullish Momentum Toward All-Time High - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNmFKdUdSWDBmZ2VIdmFwV2tGV09DbVZOTWtOaUtRSlV1UnlkSFB5b0hmQnVFcTR2b3plbmhFV2VBRFBaQ241c0xxaHZtSlpHQk16Rjd4Q0dHWDZJSVpZNUU3NTVubmtUTVVULUtBQ0NEZmk0WDM2X0FRUHZ3WllvbzVNN1VRcWdhT1l6OXRrc0d3aG1nQzRmd2Q3T01XNkYwMWVIMjEtdWtDaEJmLURLUjNzemRDeDk0VEgzSEdzN09wc2NaM1R0U21Hd2U0UVlNb0dRbg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T19:06:34Z",
-    "hash": "6749f1157cf026fa656118a873d3b35167ed4d3bfff166cf16e437125045399b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Up 12%—Could Prediction Markets Be Its Secret Weapon? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOblRQSUhoWGI0SHlGTU92SzhPMnl4LTNjcDZNM1dhTmROVHhkcGxLVnkyYUd3Um5iMUtVWDJpQnk2VEhWSGMtbi03cFR0bzNRZmZWNmNwSEl6SUUyNU93WmRDZjM0TGVtWWdtdXFFVWVPOUVoY3JYLVkzNkRxcDRUN09lUUVjaHJnekw1ZnZoenFIUmg4RVY4eGozbmVYY3JM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T19:03:26Z",
-    "hash": "9eeee950033286e463be1ad1b91dca7d2153c7cfe6fc62bfb74b32236f1eeb16",
+    "published_at_utc": "2025-10-03T19:29:44Z",
+    "hash": "6fdf59c1fedfe60ad31070dca3a1128e9ade909ff7f01481220385c68bb6c968",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Ignites “Uptober” with Bullish MACD Cross and Soaring Price Targets: A New Era of Confidence Dawns - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVThxeENkZkZlWDhGa0EwT05TQVl6WUl0bGRYa0p3RXNYa1BERjN2NmNLMVAtYm9YSWp0WU5qazlJYXZaWmdGS2lpV3JoTUdINmJORVUtQjZwQzlSVW16ZUYzUzJqRXJZVW12cElhZEYzdzNpUHNGQ3Jrem4wem0xamFHdVh0LVE1ZWs0clpjT1I0OGRKdHR0cGEtQnFfYV9DdHl1NFF5M2t3RmxkWnNMOXhsWTVVT2REb2NRakM0YzdOaWwzd2hrQkdPNC1VWmhndWNDQnoxVXpzQTNDdzRGdnRweW4xOHh5TlhHLUktbi05dTdmNnpwdk5OSDdHbkFYZGF1SQ?oc=5",
+    "title": "XRP Price Breakout: What are the Implications? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTjRIRk81SUg3S3pxSzVSb1VWNVR1ckJ2cWRPZmE1M1d1UHI5eEVvZy03TGRDaGdEVUVkTGNnNWJJYlNIWmEwR3F6TXAtYVQ0Q1p4TGVVUjlmRk1KNUMyYURaZjJCQlZLbXFlTXdOMHBydlV0TGd5YWxrODk4bGQ0Yw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T19:02:00Z",
-    "hash": "e2dcc3b963bcbc6d42d96592dfc6dc0043b1497075183f84eac5129776f24635",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Traders Buy High Volume of Call Options on Rocket Lab (NASDAQ:RKLB) - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDV4LUVfcThGajlSRVdPNXNobWJ6ekpjZzBkQWFpaURtaXQ3akFMNDRTUkdSYWE5UXV2S3lxeExCWkp2bG5fN2VUelUwNEZURklWT0ktcDRUcTVoSXpZUHZ4b09sYkk3VF9Sa1lXQVRTZUQ5M2Q2X29LWUMxX05YQk5BQVE1RFpsQnJYVFBUdWZzWVJSUHhnTmR2d0h6TjNmWFNDei0wQnUwT1MxVWVldWk4VFlYU2FkbWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T18:49:36Z",
-    "hash": "92d9d46912a9608f614bccedb9311b64baad9c7a9ea3ef331b5597ae819f7dc6",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "1 Reason to Buy UnitedHealth Group Stock Before Oct. 28 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN3J5OXRvSk5sb1hKU3VqNGZCUWFRMTZiZ0hNb09HMG1OTFJ0ZG5FbU5kXzJPWlZ0ZDF1MjN1YjRwalN4U2dTOWZaUmQzcE1EVE9yb2JCUEdjcTctLUp2TVZsT1lYbzAxREcydmN2dklac3pwdjFxaEJhOGQ0UVU1a0JvMmduMmpNSXc4eEk1UmU3TFpQSHlzaQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T18:44:55Z",
-    "hash": "f388522b9863a5bf6dc5ca2103726bc9233dd30af69fb29b823fe5d004b41528",
+    "published_at_utc": "2025-10-03T19:26:27Z",
+    "hash": "0f964c4cbccfa65dc14eb0f52d0798e4ee268668acba361e8ef60402a689f269",
     "source": "gnews"
   }
 ]
