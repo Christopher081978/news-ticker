@@ -1,92 +1,82 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Research insights: Nvidia's US$100 billion OpenAI investment builds closed-loop control of AI cloud market - DIGITIMES Asia",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa1ctN3o0NHJad1hjR2lhRXJidjNSNHExclVkUHpId2VfcV9acjhSY09lR3BwR0E0NXB0NDR1WW1aaUEwc2hhNll3OWV1bHhtTHFhQ292OVZnemlzR1pFRU95N3pScVVzWDkzUjdpSm9UaWR4eFJMWVhRWl9mNUhuY0VQT1RHbVk?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Navigating Solana's Treasury Strategies for Crypto Banking Startups - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcUM3M3o1TTJRaTBLMEJsRXdnRlphWDZrOHlpXzVmc2FFVGJuRTJnM0thbDh0Tm5QcldmamxFMGN0TVNacEl1MHZFUnFXNnJsOVdWOE55Z2dFS182RGR2UXFDaWstcXRnelBOWTNrYy04eGVvYnZib0FmdERPZkhRb05PVVBoZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-02T23:08:51Z",
-    "hash": "3d88e9c300d58f6fea890227dda927a4745d2114c277b48cbeddd52eb4cd82ab",
+    "published_at_utc": "2025-10-03T01:53:35Z",
+    "hash": "3d3f66962b6697338a3c635d1edc591fb1150730ec7b84f3103d876c7a7ac459",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana Price Forecast - SOL-USD Soars to $232.77 as ETF Approval Odds Hit 100% and $500 Target Emerges - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ2FSMXVYUTg3V0wydV8wUTUydTJjalJkRFdBOUJrRlhZNDJLdkFlSUVMLVF6UlpUcWNfeE52aGctRU9uTFhDSkNLbWVnNDNzSmdfVlZHN3h6eEVTb1Q5UnJWV1ExcWR4OEZXVEFlZXFRcTNRNGxwWnVIY3plWUVFVmZpS0YtNnJpLWlST2RWTDhHM1UtNTA4QVBOX2xxNTNuUjdVNA?oc=5",
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet (NASDAQ:GOOG) CEO Sundar Pichai Sells 32,500 Shares - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODRGNkRoRW96S2lQN0lUSDJHY2VwVS0xNlJzZDBTR1BNZHZLWV9VeDRDYnpjVlY1U1NxOEI2VXVHRjJVenNKazVLWlpDNDhRSlpfTUEtVnB3b1VLVGtSeVFSTEIyZTRUNnh1OXB6Smg3RmhsYnQ0VFRhYjk0YUl5RFdaWmFXUzZKdml1VDQxYzBwclpwVmZZX2VzS2VZY0s1ZmFWNjIzb3NQYWd5dkFR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-02T23:02:06Z",
-    "hash": "26abd9ec243d7cc14696a62c4ae9a5e31110e55db32c55d9d3009935c5984665",
+    "published_at_utc": "2025-10-03T01:25:13Z",
+    "hash": "6db48858f74a0e69c30752a6169162d7d294dfb13bcc66ba81578287e193c0f5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "SEC silent on Canary Litecoin ETF amid gov shutdown - Cointelegraph",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01SzFJbkIyeDR5cVVJcmFyYmM1cVVRZk12UzBjVkE0aG9WU3d3WkhJTXA2X3dKdkMzQjNzVHBXbDJYMGxXS1RrOFFVLVJqVnJnV2VHMkpRRTd3UGxhMEx3NXE2eEJjMHRacmEzOHFKbFNCQlYxdUFiWWQ2NzBmUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T01:20:38Z",
+    "hash": "5ebd8e8e68a1a40c4dd3c7cb1a396ff532b11fea97d96916c827e4280d089d83",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Inside Pfizer’s Drug-Pricing Deal With the Trump Administration - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQMGFtWnRZZHRiWV9qTl8xdUtHYmtodEVWY1NXcWJRbWNPZzhSN0treF9ud3JhYjMxQjJCZzNIVGRjaEllSzM5YmRhd2NCRVhPUWl3d1lhYmZiRnBjY2hDNlZ3TXV1OEMyNjFQZEx4S3cyTkVKWXp6N0VnRXdSOTU2SVRvRGcxX09oeVg4YldGMGpsbGgzbjgwbFdkX1p6d2hfUllYblZkd3l2RXFpMlYxcVdnOXpuQWdEMkcza3UxcDlMb3FNSTdxbjlSSEI4czhGN2FDZDlJTEdEWDdIYTVrVENvMFpsTHVBRXJ5YWY1ZGxVVF85anJyQ2J0SHctRTJIa0Z3c2VhUTNTeGFPanhyZnV2OTRVcm04NVoxMHhKdFdwcnpVNEhza1ZlWDcyVGNkZ2s5T2JqSGF4WGxnV191RzlJeTNnUnVlZE5YX1Bma1IzZFpJZk9jUHh2UVdRNmhFY292V01vRHZXOE9SMjJoM0NaeE9reVlQTC1kejh6YW9qdWJwdS0zRHBB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T01:16:00Z",
+    "hash": "2376c4275ba75727aefb72ea4914e120882013acdb19969578bd7a3b1229607b",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Entergy Arkansas powers Google’s $4B investment in the state - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjdFRThHS0tVWTdfa2VtVVNNbnBnb09VQWRQT1Z0cUItc1F2TFQtajRDMnJIYVJ1UVJQNmM0c04yUG9OZUZacHhvRC1Day00c0c5MW1DZDlvdkoya2RZWk5MVldMNEJXaDBXbF9HSGFzSWMwbk5UOUk4TndDUkVrM2tEenB5RmhFX2JVZGlfUE5UNzA1NlYxRF9SZDUwNWVwX1hLZVl3?oc=5",
+    "title": "Google, state and local officials mark start of $4 billion AI data center in West Memphis - Arkansas Advocate",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbjNxc29IVHYwOW5iUWViUHJCTExCZFBCQzZTNnFzQl9VR29aNk9uYVpDZHlYUHFnTDE3R0JjdkRCMTB3c3g1QWJxZy03WlFWb1lsaG1DY2FYcWo4SFNKNzhLdkc2QTdBdmJnZEFXa2wxejhwUXFSdm4yRzJ5RGtVZjJzSjE4WHJueUtySTZrVVY4Q0Y3QUpldzNselNVVVNmVDY1SUZqNGFma2RXWV9qdWktN0ZzZmtjREJzVnQwZzhZU2djTGVV?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-02T22:58:42Z",
-    "hash": "4c957378ebb02650aa7e25e3934615887b8fc436f8e20265c12c43b77e114e4c",
+    "published_at_utc": "2025-10-03T00:58:26Z",
+    "hash": "c9c4af949f729e4a00763637ff1f57f3f26e4afe36cd3ce66d782774bc0091a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP (BP) Stock Declines While Market Improves: Some Information for Investors - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQXVURWgtRWZ2OHd4ZzlPZTJtNFN3aHdBREM1ZW1OczBhVWtqYVpQM2FCb01zcExoVUxUX2I2dE9vTlZYZlRxNkFfczVHZDFXaE9Vczc5dUpqNnN0T0ZVZWFuQlgzOWd2UVZSZXZrOHhycWY3UGlmT2xUYkFicEtJNGd6OE9lb2t2Q29wTmZrQ2lvZFRieFRxam1lbzFkWjctekU3ZjhTMXhjV2o1M0dfWVE2bVI0ZTRWYjBaQXFwMTVwcU1ncElmZ1hBSFYwS3NjQUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T00:34:09Z",
+    "hash": "0c92bbf57c1a8e3ee5867ffa5e6c27d6a49ac3536e12cc6eba94d43b76b27742",
+    "source": "gnews"
+  },
+  {
+    "asset": "Sprott Physical Silver Trust",
+    "query": "Sprott Physical Silver Trust",
+    "title": "Will Sprott Physical Silver Trust ETV stock attract long term capital inflows - Volume Spike & Weekly Breakout Watchlists - newser.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONnJtUlNLVHBZU3N5TlRCb2VoQmhsVXRjLWtrbEZpb2hYTUJHSEpRY3NOUHhscFMxeXVmVnRnYmV3Y0swVDJRYTAwRk1TaXpuR0FvSGhkMVo1cHlSWGZhaUU4MFJweEQyNW5iXzI0OEFXNVZZX2QtNi1Ldmh3N1FtR2E1SVpROERfT09vVDNVRHdIRUowZ2pkN2g4RHQ3T0QyMnBfeHZPSXlhNFpLMWFLOGJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T00:10:35Z",
+    "hash": "216bdda75cb68f66a1d877447e92b6b298a9b963ac182219d7263b8f48d42685",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction: SWIFT Partners With Ethereum Firm – Is Ripple Losing the Payments Race It Started? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDVmbmYzLUQySmJpNUhVcTJteFg4bE9vUF9XQXlaZnQ0cU5tTjNkZjd4YzJTNVlnSWZ3Rk4wM2xBTnMtMk5lNy1RZ0R6dkRLQXlHRUk2M1JhUHB5UFU0cEcyam5SS1ExSFRiX2UzMkRnbGJJUDhZNHIzWmZ4WDB5ZzZDdUZ5eVBGWXZia0NHQ0IydDJvZFFaTVhyWDFrYW04MGdVVTUxTEdBNUltaXc0WUxicFJ5VnZQQWZHbVBUVEJUSnhQbGVLVw?oc=5",
+    "title": "Crypto Price Prediction Today October 2 – XRP, Pepe, Dogecoin - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRGFqR1dPTXZYeDRtdG1sR1lXX09LU1hTTG52Y0hUQkRoRzhWYUNaYkwxYjBCZXF2dkJTQ3dhVmVBaTF4NHh2RUZyOVNDdlJKUXBiRC1BY0Q5amhnOGEtYm96clRWZmdNVGhvT19iU0hRSmdUR3hRRDNMa05rZFptZE1ORTBGRjAtVklnd05hZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-02T22:55:00Z",
-    "hash": "994b49da0ee2bc619c5d580ee18faa9d796a01a144e4b80107ed31ec7f53fd56",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD Electronic (International) Company Limited's (HKG:285) market cap surged HK$5.8b last week, public companies who have a lot riding on the company were rewarded - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjJhMkEzNzV5Rkt0YlNzbUttNGRBTVBtdkxJeUU3QWduV09Pb2dncVJfNGtrbHV3SU95cXRFMDVDZ3o5SEVBUTBXWmdqWjlzbk5PaExRU2RSSHBmclZrMm52U1JGUGFxMzROLTljMnRRNDNrRlM5YkhuVFdsWldNZnE0dF82OUdKbkJCaXByQWU3SVhKbWVYdENSZ1NHUWt3RW1odkFvZlhyUGNpRmg1SEstbEJCUHhGMUVpVXJsN1NDTlpqaXFsWTZQT1RzOHRhN1VidlExNkZNZHUxVnc5N9IB5gFBVV95cUxOMnN0RUFBdG5XTGREejZKclJmM1dQVXVSR1dOQ0wxWURiUTJRRmpiSWhfdGJfTV93QlhiRkRlT3VKeW9OOERfSnRWWGtnUWVIR05IZHdDWkE2X2xTY2ZqWHdqcUVIOGRqcmh2VDM3SDN2cnJ4R3BubnVGUEwtWUdnZ1VsSElaQ3huZWxVVmY2SDFkbF9MN0o2S3J6UFYwNkRCeXpJWlU3M0dVeDJNTlR3NTZGTFp6TEF6bE5ud1pzMlg5Tm1JSjhGV3o4RExpOGc4OE9RWVlCUjl6dDNBaGsyOEpVUlJfZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-02T22:53:59Z",
-    "hash": "e8230b2f23ad19d8990faf4ac9c8d0afe7f5a31492d21f58590a4ad6697badc5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Officials Warn Against Using Seized BTC to Fill UK Fiscal Gap Amid Legal Uncertainty - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSU8xV1huYnhiZnhIT0l5T1JWTzF1WmU1WWc3Sm81NTA2TFhuZHF5Vkg1Q1Q2bjRhMDBXU1REdUtORnZmcnRVN2RLQThSME9uZ1lUZlVUYS0xNWtuZGRwZ0tJRDg4NzFYREM0eGkzbFktbGU4b1FPaFZlRjJoZkhkd0dKTVpFdGlMRjE5ZTA3aUpTODN4TDZIRXhmZEpXZHg3a1pOQmp0MXh2T0daMlhN?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-02T22:53:43Z",
-    "hash": "ef6c19855ad7295e65ac93a168691da2372c415f4c0671cd5f6c8dea972542fd",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Japan tours on XRP Ledger, USDC and USDT payments via Grab: Asia Express - Cointelegraph",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU04tam91Z1NjLXM2OUM2ak9aVUxDNDlRd1E0R1U3T2hncmpQd2ZPZzRQTjhjT01TREZLTk8zWGRHT0pyRUZGUFMzcllXZWlRaDZILWxMMmtqU2VfbVRRaXRNYzNVRjA0YkRiQXNZS1k3YzdkdGNfQ0paRi13ck1fcWtrVWpoYUl1UzVpZlhVck9vRmJaLWZpS1Myaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-02T22:52:08Z",
-    "hash": "9de480bf856e79d689145750fe6050b05e5c799293e198bab44e259f41d26179",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Why Market Bulls Are Still Hungry for Robinhood Stock (HOOD) - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHRmdFVHUTEzV1ZzbmtMaXAwaFQ1OUx2RGIzTzBVaUVYYm1UM0Q2aHE2Nkh3SzdSbjJsNkNmSU5aN1FVdXFxQ3ltVEZ0WWFST2F3b0pOcHh0djVEZFBzWjJuYUxhd2loVVBPbzhIVHB0ZWtyUGl5WHNvcGJoMkd5VzcwM0ZtdDJGRzZRVmFOeFF6QQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-02T22:51:42Z",
-    "hash": "1ba0b451b678bece3753fee6ae8e1459b106b53d9160029b97a8f536b84dd63d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "XRPI vs XRPR: XRP ETFs Diverge as XRPI Holds $18.66 and XRPR Nears $25.99 High Amid SEC Decision - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb2RfbGVCQTZEVTcxMnE1b1gyNWFTcUZ6TGdiaVBMRGU0dDN1TU5NblJzQUczcTNmMlV6UDBWN25uc3g1VkRNVUdndEhJYnFLcnVvT0FNTy12djZSVnRidlJ2NC1rb3Z3dzdpZklhbnBZODF5Y1IzamxJSWRjVkxnYU1RWnhVX3lkSlY2bGVud1o3bWoySWZsVnhRWlJ1M2hUWTRyUGRTcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-02T22:45:54Z",
-    "hash": "fdbc1b86296cf69816ad027a3759ebbe20563093a6296678f619793fee72a8eb",
+    "published_at_utc": "2025-10-02T23:48:00Z",
+    "hash": "77aefceb85b46154d12ae26efc79eae5039a3814d15b3995bc3aa9603b0817ed",
     "source": "gnews"
   }
 ]
