@@ -1,162 +1,82 @@
 [
   {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Samsung brings Coinbase crypto services to 75m Galaxy phone owners - Finextra Research",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRXNvRFZRcWNWaTlJSkVZV193Nk1ybm5CS0Nrc0hvZVU0d0h0T3ZfSm82MkZzRllrZVdhMnN2RGxqX0syQzFValY2ZVptU0pvYmEwenBPamp3V3Q4SXpoMUc3TldWNHpnbmozRXdFcU9qYmZEb0xIVTNBWVpxSUxRMkZabXhnOWZ4SU0yZmRIYXNOUVN0OFM1dWQwRW52UGRObDBXNjFScGdrVWotNVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T15:42:03Z",
+    "hash": "6596173187f3413c47ef647947110cac190acece78c008c912c2c7b663ccfc90",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Samsung Wallet Is Bundling a Coinbase Offer You Shouldn’t Miss - SammyGuru",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXljVld3NXpMX2pfNm1qSThkZmIxUFk0bkh1SFpiZGZMWU1BdmNjVWFDTHh0czBxUndydmplVFI1Um9GWEJpQ0tuWmlFSnhFQUZITVhTY2s5RVQtcmc1dkJDQ2dudzA1b3diTjhlLTFNRUdrMkh1YlhFWGFXMEp0dERLRkVUQTdxdFVpag?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T15:39:21Z",
+    "hash": "604223227f1d0c82e4b5f41985a3aae670287136ad8d707feb1480c4f42ffe92",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Gumi Inc. Doubles Down on Bitcoin and XRP After $38M Raise - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdW5PTERwSkRwQ2hPZmxoaXFhTENROU9oT1ktY1pfWmJqVk9lM3V0TUd3UEZpV0xnUnJUNHRDUHBMQlMydHozY3R3NU9GVE9VUEl1SC1QLXBzZHMySW42OVV1eTdvcGJ2Mm9ZRDItQW1qcXRDekhxWm1TZnhKOThURG4yWVFtOFV4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T15:39:06Z",
+    "hash": "c53a11f4794e1c2975274e197349227a695c2d7327a70c64c6a88df9153ddc9d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin: The Final Rally Before The Crash (Rating Downgrade) (Cryptocurrency:BTC-USD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkxBZVBXWHFIQXdTSFliWmxoR1RhSjZpNHIzVmdKR293T1BhcGZjNmVIVmtJb1pBMVp6Y0FCaFV4THU0aUZEcnpjWm53emZBV1pHMGlBaGEwOG52dTZGQXJJWmt5QmEwaVRpTEVLZkFfZGNMRFJPQXQzUzhhNjBOZmNiWC0xTF9QaHA3WUw5RzJyNmZCOThIRXlDM0x5UE0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T15:33:22Z",
+    "hash": "9196e692c3081d6f5abdb0b7917fa91d1f2a40d99f0fb25a78ab871445fb0804",
+    "source": "gnews"
+  },
+  {
     "asset": "Siemens",
     "query": "Siemens",
-    "title": "Is the Smart Money Moving Into Siemens Limited Institutional Buying Trends - Market Sentiment Extremes & Ride the Wave of Market-Beating Growth - earlytimes.in",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3NSNWRweHVoVnNVTkVKZFlzUTVIbUtLNnR3RDFCMW80SDNtX0hjdzhwa3hMWE5XT1UwVFVsNmRIRG1CTTlPQWYyblB2a2pRdGh2X20tWmZKLXpleW5JSWlES0g2UFNkdy12SkJET0pDd2FDLVRxUFNYeENqUXJ4cVVBUkxtYTAtbUNnRjhWWURZUWdLS3U0a3FleGxUd0tpS2VMY3RiRjBKVXpmUk9QSWphTDIxZDUxMThmQU5LVDg?oc=5",
+    "title": "Could Siemens Healthineers Shares Be Poised for Growth After Q2 Earnings Beat Expectations? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZjNhMGUzUmRxRldacm5FVTdNOWM3S1ZnaWpVaUYyYUtkVi00YzEyMkZObnhyNWNPcWpFV0Viek5YaHNmdUpnQWl5RGlaNVcwQjZudW9rRllHSzljZGFZSTg2QXVpUmJ4aXlqODdoMENHdmlTRXczTzh5cHV6eFYwbGxJM1AzNDNrTHZLZk9zOGVoQVZ1cFRmeVl0MVpIbVZyS1Y2blhLUXkzUFlaR1E3amN1R0M1c1NPRG1fTmJBcWU4NE1mNnNTMXBWSWhHYW4zU0dEbVNWTkZtX2VR0gHiAUFVX3lxTE91dTR1Z05xT3RpTmt1LWtZX3AzV3U0a1d4RjlPYWNlTHN2ajQ0blMyWjJnbWVkNUw2eEp0QmZTdTZFYXktSUlVZ0dtVVhCMFN4LU83QzdKMzM3cXpJNlBfeXdmTHlkYkktdnJkUnFPM0xJaHl2RXN1RGpYWUs4VXRld0RjTGg3SkVscVpnOWxZMkFiNklha3BPRHQ3V3FGbVB1dWV3Yzh1a1R5VkRCV1VJcGlBLVFIZHVhb19WTk5PdFpwa0dMdXdzMnYydk5ZdHpzV21uYUhwbHJtS0dKSGhVSlE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T15:18:11Z",
-    "hash": "a1de42aa1855e07ddf430ed35cd72528a58e3fa07063733b7bb126ac7482ee0d",
+    "published_at_utc": "2025-10-03T15:31:43Z",
+    "hash": "8f1228366dd4a7e94159b776a8dbc16ee1cc8c7af11c04890d399c07a42ea547",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Picking a market-beating stock is far from a coin flip 🪙 - TKer by Sam Ro",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XVGRFS1dNeFR0WVJYbGo2bE9GS0d0cnhnWnM3Z3AzRWNHeU9rck9TMWc4UG9UYk5USTFmYnBLVVJiaGJhTHpMQXdrTEM4VEt5SkkzMmJacVpWS2c3dXpLM3pWM0pWVWgyNTM5RjF5dTdSQm1feUVRczVfTHA?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "What on-chain metrics say about XRP price amid 'Uptober' buzz - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbkowbE1MQXNIaGJncXp0Rll2a3NZc0NzVzYzakNaZXk0RE5wM0NsMjRnUG5LMENraFc4TkthS3lLU2gtTHpYbW03SUtwZW1Zak40a0MxYUdmSXZTczNGdTFRcl92Z19CMG9HYmFPVldrVkNxcFVuMWxuNmlEM3l6d1FCNjlqZHFDSzRhdzd0MzZRaUplWGVObTFKQXdIdUd3WUtxWExIRGZXRlpNdGNyWGhVLVdtSEZMSEVnSkNHOWVYcVotOURiRlg4V3JKZ1F6X2NUcDd2cFBObUEtLWpTckJZTHJRZDYyMHJtZkJVTDfSAfYBQVVfeXFMUFU5cXJwdFJzY192eXpqQ1VEM3dhRGhFdW5iLW1hME9XVVBtdXo2QngxYmxzc2x2akYwSzBBeDlfdHFQVUNaclN6NHZVMHdfRV9KdjR3TkRQN3Z6MldsTmhrX3JkZVRLemxFUTJfM3JJSkZNaU1rVGwwV3Z3d2Y0NnpiYlZZUWJpaVBhZHRHc3lZeldxN05sTldDUmhmZDlZWkFZWnF1Tlh5SVRyYjVnNEZ2eHBBS1RHMC1HOHNadmVJaFNJZHpWSWhJNlJTRFZ4bHNSZDJtN3dTZU9ldGdjR01HVndVU2lhLUJGZEFzSjVsUk84QmJB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T15:15:32Z",
-    "hash": "0bfc19315220dbf9e6975b6ec5e1d9ffc7337a610a9244511facca74aa99141b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Is PFE Stock a Buy After 14% Rise Post Drug Pricing Deal With Trump? - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOHV0NlM0V3dYZ1hIQmlQWm5PT3N2Q3BpUUZuakZCeFZUZjJ0WVdEVUJ6Zk9NODBGV2U4RXFQNHY4cWdUMEhJZW00cUdyRlp4aWN2MmZMZHQyalZTYVpTRFpSOUh1MUdaNmExZVltdDItc0NUQTlORDNCUGxWSEJYLWlWQXZ2N0pPMEZtZEtXRmYtSlZybG9lT2ZCd1RqTk5FUC1KYTJ2bW5jVHFNT25qdGJXX2M0eWVDcjV4aTFIWHdwTUZTejhadlFFR0dCR3VNbUpZbXZ3bDJIcHZiaDJrdTJjT0Zpdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:15:17Z",
-    "hash": "f1bc7c8523f6cf3067277e1d810dc18c2e744bbbc201e0ba7263b52e05ca1761",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase premium hints at a looming bitcoin record high - ForkLog",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWU4bnZKemlROUZ3bDFIRUVYYmRYTTlNSkdjajlIdF9qV2Z6LWtBa09mWi1JUm9uZDBzUWUxNF9ocXZaM2NSd3hlV3ZfODBWb0N2R1VReGsteU1TYzZld0tFVTBUeDN1M1l2Z1RJbjVZazZlWkJ6LWNqbWtGMk85S3hvMlBxd9IBiwFBVV95cUxNaHF6WkJoRkVjbEdoUGJVd3R5bUJGOFM4bXFCZXlOVGJZZk03NHJFZGlHVC12T1Zra0d1SGFYX2tCeEFJWDVHMk9ZdnRnWFdrNDVHMjhMRXhfNlpKM3JPekRKdE1BN3JVQ01sem1xQ0RreXV3aE5uV1pXZUc0b01LSVRYVWtvOGt3TUhJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:13:48Z",
-    "hash": "983b4528190ccce1ebe33d678a21244b549a4fcf2089f874ec86d7ab43884292",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Samsung Partners with Coinbase to Enable Direct Crypto Purchases for 75 Million Galaxy Users - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1laT3E3N2ZaRjVWNzhESzFhTFVsVGhYNWJiVHMtOXlqcEtJY3I5S2syMXYtRUl4cVd3RTVxQ1ZNeFpYcHpjQm9mczJiZGJKVThOamNSVEFXRi1SaDlYOFNHbDRmX2lJeUhhcUNRVjE2QTVMRzRiQ1hUUWZpR1N6UVM5OFozRHl0ZFd2eVg0RFZGV2ZjRV9lQkZ1RHNFTm1qdlRGU0NhYXJqTkxIM2NubHkyREM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:11:27Z",
-    "hash": "bebd9c98008b438a342a22f8a1f7092bb17eab60376986cef6c10ce140db78b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Analysts Set Bull Run Prices for Dogecoin (DOGE) And This Cheap Crypto - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNlBfRkRmUDF0dG5xTXF2RlRpOU1Ra0RoV2I1b1JUVXlzMUd4VnRGczJsNndzcm1uak5maVFWMWdfM0hLNWFwSmphR04wclJXWlF1cXQ4UHRySm9nM3V2WEhtdERCUklqc0J5UnB3bVkxV1E3WVU5LUM0eWp4U3ZoTFNRQkN4VkpMN2pDUDNiQXJ3MnhJd25sLQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:10:21Z",
-    "hash": "5481b030bb0bfb7e58929e4d36714a89156725c608777a85169e1570a99b2e2d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Is PFE Stock a Buy After 14% Rise Post Drug Pricing Deal With Trump? - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSk01OFlqTG1yVy1QOEtfZy1hWllzNlhBaEF1UTdDODloYjRFNkt4OVVCSm51NmlyMG13WUNJLUpDN0J1TmFqeUkwdjBqVlJfUUl1VEs3UnZCNk1CU3FZYVlnS2MzRUROT1FUTTNHcGlzR0lEbWtKa09LcmRBYkpfa2tJUDkyeWlRSmNVR1NsQmpTcjhiQXV0TjZwQ243OXNxSG56RDRkMGlQZlE1OWJQd3lpU1pFbldud1FDN2VBblVuS1NteFlud1RQay1CcUZJYzBRNGhJSTJPblpYNGg2UGhlT1JSUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:07:05Z",
-    "hash": "b238b322a2798e06469e889c09aa82f28ef5d6db23edf653e620471d6c81c861",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth, Caterpillar share gains lead Dow's 467-point rally - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQV8taUtDdnpFaXZoQVNmLVZoTE85bk1FSkFhV19JMk5WS200SS1aekhheFZrMVFVNVBsMXdiZTdZS3BZYlFrdGtrWjNXb2NkUEw0VUVBNGlaZkg1WXVZRXpIalFvcF9OSThVOXA3d1JYcGRqU3haWWJpS3FyeGJQWjlYdmxFWkJyOUR0ZC1zc1cxU09ZVmUwekp2ZC1mM3d2SXJRQ0psbE1BcG8xUU5wZGtTQTAzMDZLaGEyY0hjRlRBd21EN0MxWVZEUklZdXlIb1A0ak4tUExReFU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:06:58Z",
-    "hash": "4f875aea56427103313bc2a96045e66d8a2cf016981c60a618c01e2cf0d335c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitcoin ETFs Lead Inflows As Ethereum Demand Grows - blockchainmagazine.net",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fNDg3U1o3bFJ3NEdSN3IxVHotWE9mOEJRVlRkSnh3S3ZmbXlrVU1obHFHNHBJSzU2Wmp1VFgwbURfNEtraXhsWlNtSGZKNWJObUZ4Y3FWczhJdlpVRWQ1VTkyN2VVSzFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:05:39Z",
-    "hash": "5d42005f299bacb3da080979b6ee3c75125f70547f340618e296ccf319e58fc5",
+    "published_at_utc": "2025-10-03T15:30:00Z",
+    "hash": "65d3f0a37f8156b5bc1a4ef16dbd6b487f45ae78d79e627395c599340eb4c989",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stock Market Today: Dow Rises As Jobs Report Nixed; Nvidia Holds Near Highs, But Palantir Dives (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUc5b3RVV3BzRFZGVklCZW1kWDh1TEVHTjVROFZ0VDdzNTRpZm12Wjdfb0VVQVRBSl9Mb1pxVEoxaENoc3NuaFpFaWh3TnAzT0M3ejJRdE5UejBPNVAyMDhmVi1rN2Y1ZHJYTV9CVFhlVlYySE5CVWFGcV84RXNKYlphUnppOWRmVjRaVnpOeU5HSE1RVEFpV0FENWJLM3JCX2xod05kUFA1bUZxTjRHTmg4dw?oc=5",
+    "title": "Could Nvidia become a $10 trillion company? These analysts see a path. - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNb2pJRE9iSWpuVnd1Y0NRVTlEdnE3Y2MzMTFUZ3ZiaEU3ZkU3WWxLUmY5SExKcnV1RmE1MHBHWFhwT0YzMFZVbVRiM3UxZjR5SllTYlo2Y1gweUNFbTRPczRKTVVSUkkwMTdZX1JGYndOc29xSktGR0UtQ2RidWtWRVhVMVNoZmJ0SmpDMElkY0xFQ0ZfOXB6ZnZNT0c3cnhwSS1WbmpuRjdxcEtTWFZmbjNwempuZUxFaW40N0lWeFhyOWhCaDRLZ0c1aDgwLUlvMmpMWmVIbklSd054MnlNZWotbTJXelZ6OWEyYTdZY0c3TUVoOWJKdEh2TnpUcnBwR3FVYkpFeUh3b2N6SGtXemZPWkR5dDI0MXJvY1MwSk1qVHJ0cVgtSy1PMEx2MXF6OW82bTFVdzRMekExSTJQYl9VZjVnMmxXclBPOThfQzRVUGF6STJzTEVCRFlNLXNFUzQwcUxtS0FRQ01KU0t1R1Z3YWlwa2NwWmdvSzF5V2tORFJpX1p6aVFhUzNLZ0Z0djZrZFBlSVMwcjJDaVNIaVlnSnN5a1E0R1VRQ293VUctcUlxWC1fNFMwYWxQc05SN2c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T15:02:00Z",
-    "hash": "3c5d922b4a5a80343d59e4e9c0eb1fa5587df57126db8d021f35807e0919a4fb",
+    "published_at_utc": "2025-10-03T15:30:00Z",
+    "hash": "a05eda7b45b937c902467d4cbc4a60447522aa5be6a6b6a9c6c0d2a234ae25f3",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "1inch Unveils New Look as Coinbase Integrates API - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaEZVUjFVeXFUdmhuWVI2azFJMXMzQkxrVTBBbXNyTmltNnBIeUlETUtXakI4VFM3R0diaWsxWTRYdHpkQUY1b2dNLXhXTDhnRFktTWlmWndBRFRqTmNRRFVYelBWZk8yNjJYWHdycmJJWENWOFZuc2o5cXE4T00tN9IBiAFBVV95cUxQOGZoUFlnS2Qxc2FRUEFCTUJxSU9NZ3JXTEVYUy1FSnVhSWNoRGd0NUNsbDdqQXlKU2NCZ3lnTUJmRDloaEdSZ2w3M3FETElMRWZJR21UeEpUYzBiUUpGcDNRdnlQMGpTbkNEcElSNGo2UUl2T0pacHl0SXFqeU51WEVFWENuOGJt?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin vs Gold: As XAU outperforms BTC in Q3, What to expect in Q4? - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHlSekJleEVHTU9OVnZwZ3Y0YVMxUWhRckRaWGY1MWtfeXpkU2lGeDlQeXl5WFpsZDRnWjFTNHZjNTNwbHZwYXB2U2QwU2Q1MUtOSGhIQ1pSeWkwYkt6eTExMV9Lb3BNZlA4RU4tcV8weTNsdDYzcnVycHBfMDVwY3VJRXkxSXBRVXhXWFRpSWZKUTY5NHpjN2IzNkI2SUJEOEZv0gGoAUFVX3lxTE82TWJfcnRzdXRrOVlXR2txaGNXNGRjV3MwMk5CM1k3TjMzNFpvN2hGUWtMV0ZLS2lqcGFrdmpjc2ZkMmhYQlBuUnJLQUw2dnRKVTJoMjFXbExZTDhXUWVZanFFLU14SEtrelhzSDRIMkV4MGlaaS1qNTUwN01UU1R2OEJsOTc2cWFtWU13bTdIUzJiSkw1bUt6eDV4bFZtS0lkcl9QY0VxNg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T15:01:03Z",
-    "hash": "84510d2c7bef2b34b1f35fb69b75f1ad64469d6082fdf25b1cb1e8358abfe16f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple (XRP) vs Mutuum Finance (MUTM): Both Hold Utility, but Analysts Expect one to Deliver 10x Bigger Returns Than the Other. Here's Which One - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQWVNTUd5c2RFM05UU0ZUNVBieFZzZFlXNjB5RXRWVXZvUDRlSWFTQ3J0anBIbXV0c255SE1ocEhySU1mb01uT29SVXkyeFpMdFVQV3NXRTNpUy1aM3RrQkVrenpwUVlmcF9iLUxVNEVUc1ZxNGItM1hjdTE2OUtaVzNVbTRwVVoyQ2FSUU43THVfWTROQTF0MktURUJDUGRKYXMwVHhQenVsSzNpVGVSTmZ5eHhQcjFYUnVoSy1FdzA5U19XMmpZNUNYeGdpRE5xX0tjdUZEbTNsN0x3S2RQZ2oyRTQ0UDlodXZtUlZ5bnhzbnA5U2RQU1A3Yw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:01:00Z",
-    "hash": "0eb5019c431a735bbc611bd76bea2912b499e22f0410b223cf64fb3de02ef318",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Analysts Watch $7.50 Target While AlphaPepe Rises as a Meme Coin Challenger - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOEFGZGFhSGRBWjdRMkkzYy0ycUdpaXltSlBIM1VFS1ZYRnl2eWZRblhBdm9CT21lMXpLbkFGbEtqM0c2SUltMURTX1ZTRG9hWklLUkdkNExINTlQUmxNX3haMFN2ZUU5WXZyLTJkdF85ZzZlbDY3bTVVZXZIVGEtM2xxTEpicWNSbzVqWHhzNzIzVTdvaURpVFo5MHN1NkR2NklVV3lQc3U?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:01:00Z",
-    "hash": "6d69d9991ea39813d7db754addc542f4394b8057e59a3ea1b2288988f6d235c0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood's Lucrative Push Into NFL Sundays - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHdsY0FNV01WOVVYNW5jdlBMN2lMTEJtcE9WV3lkdXRyQjIxN0swckFKc2REMnZaTGphdE9NdmxxZldSWkhoeGhRUWw5Y1pGdklwdGZoakZjWk1DdFRfdmEwOW9DU1FLRDhYeVYyQmpNVWhsNkYyYks5MGRzUmJHeVJaZFZjeWZKSTZNZkVnQU5ueDVDU0VqdnlJUnVKcXJia0phN0FoOTVLeVlRX25KZTUwZDFVaWwtS195Mk9NS3lJS3ZGYWpkYjdqMjg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T15:00:02Z",
-    "hash": "389dec63ec8fd4045b937fbc449a283c6b0da1859038663e8276ea0684ff4a7f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Why Smart Bitcoin Fans Are Adding SpacePay to Their Crypto Radar - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVENjYXJJc1hoR0Juczk2VjBaNmUzMEtvek9JcnljNzF3dDN5RVlXaEVTLXhNM2pzdmtaWExKSHAwZ05EM001Qmg2UTdVb1paMHJYUGdQekJsV0c4VU5LOG5COFBzUEdGQzhaSVdCSXNPZVIzQzNqSDZVMjV0Z3N1RGN1YkRoNVBVWDFBSkNqT3BTZTjSAZgBQVVfeXFMT1hsY0RzUWh1OU0zTmFJSkRhVUJBaGQ1eEZzMVdkdEtrUVlMLWs4Q2xINENPbS0xa0JBSTZUQ2Q5ZDZoVzMwTzdjdEF2aWhVWjA2LTByUTNZeG9iMHBsTHd0Zi1PMHpjTDg5b1VMakRITzhRN3lRa0xmWHZrWTJIZ19CU1RFWmVseDdsZDIzc1I0eUxoaVlCRko?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:57:56Z",
-    "hash": "d2cf0ad4796309f86dea2663972e972ee01fcce4778eab3e5c34089e474e8a4d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase premium points to a near-term bitcoin all-time high - ForkLog",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDg2SElpZDNnRFV3RjgyREhaSE9ibDlFWnN1ZGVwb1dOU2pLeElBczJUZWFUNXJEeGx2NzZDUWZSNGhoWERSRDJoc1NnRUJhMVJndFdyd0xRNG42Ql9mc1p5RUFFSGpVWlhnNHh4U2lwY2dNak8tRlRRajhEZFFEeUhZWGJhRElwNnctdNIBkgFBVV95cUxOblRraHlPZnYzZHJOakZmQ1hrdmtpbWdtNFBqYUhPaDBSc0JtZWZXX2JWVUdVakZjSGNzRl9mQmJxdWxHUGpGU1c0ZHpjLXQxaXR3X0dCbWhyZnR6R3BFMjA1eDlFOEgtaUs1aDc3RkRNTWNxVGtlZDNGb3ZCcU1hRUlFdGl4ckdGdUw1aUVwOG5hUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:55:44Z",
-    "hash": "72ca64d345419c072de41723f06390008695fe9b4988444b94cd97125d1b58b7",
+    "published_at_utc": "2025-10-03T15:30:00Z",
+    "hash": "59eea8067041a54bf723cfbe71fe99c792e35e0ca335cf4574317fb65aa90d51",
     "source": "gnews"
   }
 ]
