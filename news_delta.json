@@ -1,212 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Whales Love This BTC L2: Is it the Best New Crypto to Buy? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSmdxdlR6Szlxa3VzaXRRRlozNHVHSTRiUUVHQ3c0bXpqeTllQXRKYW56X1JHVHNmOEhIMzN3SmxYc0JsWUdvdmx1QnV6U3ZYSG1hOXpMQmtNc29UajZEVElYYmVQaktuU1JpN01EYW13dzJRS1dhV1ZEVDZiQzVNOE9vLXFBd0Y4TlRnd1FzWVJsNFVKdGFWTEwxWVIzM3hDT01iLWpqaUJDYTlXOXR4QVZRY3Y1MHdwa25wMlVFQXA2SnRUWVdVTmNEX2NlMVNhb3pZ?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Samsung Brings Bitcoin Access to 75 Million People via Coinbase Partnership - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTFEQnBKZWNOa2tzdGxsRTYtU1BJOUJNLU9FRnJ1RXd1LWtNaUIxU2NXVDMyVVRFdkEzZG9yNGZZUVQ0bldaZWZsRVM1NjFPRHRRbXUtSzlubEw0ZzZwUS1yOGhuX1VvblE0QXlPZGl1SmtQWVN0UmpCN1pZS2JBVDdiX0szXzJBMksycE54OW51cDV3b2ZPQnBsclJaRzYzb09RWEZRSkV0ZnV1?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T14:23:12Z",
-    "hash": "13317032cc96d95fa9ec9bd7079b0e866467ea866e7145ad752cfcc02fe7d45c",
+    "published_at_utc": "2025-10-03T14:39:58Z",
+    "hash": "99435d9c7b92769af8912171f696f5851902276b83956bc126167b029425abad",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Up 1% As It Faces Its Biggest Test Ahead Of ETF Deadline - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHpvdkhES1dNQVpIVTNpbF9HWDdMWDdaeFVvZW5LV2pZN1VHbXV5R0NJTFA4dVNWZ2syM3NnaXpEVDB2TmtldFFBXzNuNmhtSkhhckRDTjRpLTBwUHkyUHJZVlBsY21SWFMtRVg5b2lZcEJwa2s4VmViQ1JVZXI3SVRWWjNpYzFrMlFRY2lyNkFKX1Mxd2loU2w4U2k3OVh3WkszZ0JqM2NOZzB5NWl3Z0VUeEFJRmFmdVlVOGtB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-03T14:30:42Z",
+    "hash": "08495a6f9e8458cd99f8349ff5b412f25020d86a8a6d974ffef48cad4fc67506",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Samsung Partners With Coinbase to Bring Crypto to 75 Million Galaxy Users - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3dfRW5mWmpQSS1SSW8tNHpyTHFCbFd1UGdQc2lrZ1NyNlhnTTZlSDd5dGsyNTRSTzFyM1BfQmJRcnNqY3pDR3cwVDBmcjFDVlltYk16eGRxSEgxcFFjQlVSRXc3c1NaSFl5UEdNWm5LYUMtTXFsTnVFaEFOZGxSYUhkQmdlTG1CME1PSHFVa09pbjRiT2xneHJYSDhmbnUycVVVdG9XalVrUQ?oc=5",
+    "title": "Galaxy users gain Coinbase One access through Samsung Wallet - Blockworks",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2oxcXFoRy1ScmNKQUdXM0ZtMjh1TmJiVF9yU0c4VlVPcmRXT1RKSmtEbDFCdTV2WXNETWZJenRabjd1QzJ3MVVDU2JCd284LUxSSXlkOXlPZ1hLYjBzaUZXRklMTmN4OWtnaFVJTUdlMWpMRHRBSlJtN2tjNXJEN1g0d0tTc2pzRVVkOEFaUXo?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T14:22:48Z",
-    "hash": "a39d6ac330a05f1ceaab62c4797d20e57a9ea036d22ceea777feb2a20cdcd01c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple finally finds DeFi traction as XRP staking vault tops $30M - CryptoSlate",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTcxNjQzbDRYRm5mMm1PY2RROTdRUmw5V1NIMjdoYWkxOFdPX0lXUDVEcVNhdFdsZnlVQi1BNndrTENrTUN5NnVrdXlBLURib1VQRGFIazN5VGVXWC1JOGcyZlY2ZUx1ZmhucXpybFNsM3I0X1ZVQWt5SkVRN0JvMmFOdzlFYXBzOXUxWWhfR1R0NVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:21:30Z",
-    "hash": "11dee70c8384a4518657158c28d198038405b0403679a8e20c24890c5ca1c35e",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "bp: $5 Billion Investment For Tiber-Guadalupe Project - Pulse 2.0",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0QXJrd1RnMElzWUEtVGllWkJFNFVrb1dMNENlZEpFRUxjVnI1RWFGRDQtLVpENWtFejl3bHdfYjN4STVBbmoxVDdVUWFlSUh0OEtIS0VxSkNBb1hpRkMxSEx1YlVUV3JPb2lYNDlKUDV3ZzJpNU15WVR4Z9IBgAFBVV95cUxQdkVvRVRJMExLeENJNHNEdlRXb0lVRzNkSnVUM1ppV1dqMzkyUF9NZEQ4SmhseWlRNU1XOTU0clF2SnB1ZHVfSlQ3YkNOaDZiR0hmbkRVZXFuaWw4WlJ6M08wbzJLSTdrV0p5UzBoQTkwUExob0tPMEhRbU8zU2l4SA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:21:17Z",
-    "hash": "e92e5c34977d1e4234b2a9c91603fd0f5a00f175daadd7ff67f5c36e12f9dd01",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood CEO Tenev Predicts Tokenization Will Fully Merge Crypto and Finance - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3F5bThHX3djVVRjekxPV21iWHdXNE5aSkoyYVVBR2lDUklPeU9uN0hWR0N6OXNHOWVKU21CRkpEWGp3YzV3bDlKMEtjWm1SSDVUTWxLdVZXZ0pXZ0lWU0V6SnlYU2pBMEFsczJkcTZMRjNBRTZxYjh3R1RFLWhPSzQyR2pXdWpJa2ZsZWVpYlAxSUw3VndXNVpyZXh2OU9pcnRUYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:19:11Z",
-    "hash": "74971284a69e9e1e587ad9fe645afe7f928c7d02c5a32beca963afcf9e52d696",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Is Rocket Lab’s Recent 110% Climb Justified After NASA Launch Milestone? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYzJHMXcxWHBBSHpXSGw5OW1oUkcyd2otQU1qME1RMFdLNzIydjMwVjRRLXpUMnVzdnZNUkhCY045SUJ0bW1DbGkxN0c4Y1VfWkZxXzdWVm1qZU1ZcGNjZGVhLU56N05ZQzdJakFydG9kbFZFNGowalhlRFgtN1MtR2VsUDRWTDF2SGx6UjJqRUFNdGJDWjRSWXlzSzRveWhOSGFJMTZQTFB2X0FiSFEtdGNNbWhKX3lWOXJIWXAwWFhLdE10TUY3V0l1YUM4UdIB0wFBVV95cUxObjBqZ0dzcGxfdkZRelZtNmRfc1ZoelRlb2xtc0dFcVIyeXVxOG1hZmtSYl8tUVdKWHMzbURlcjRiXzBSZ2ZZdDVidDF6WnM5QTVIRXRGRGhDOFBtdHhjV0hfSExneFV3OG5pSDJCTmdXamV2M2lZSTNiU0V1Vy1KSFJEdnRCTXpSX21peWItb1ZNTUtsTHVabWc0OXlRbFh1elBQa09ZQ0R5NmxpLWFjTkhTaWhQbHpaV0JFUkhCT0hSZUdYX1RlbEo2Vlp5U3ZMdU9F?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:16:54Z",
-    "hash": "844bf5bb3a596f41fadf85d3a01b7dd33684a25e17189317ff971f7c288d7d0a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Samsung Partners with Coinbase to Give 75 Million U.S. Galaxy Users Access to Crypto - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkpXT1ozR2t0TzNqWURlYkJuMl8xOF9sMGo4VnU0cHBFN3puc1o0MDVNX2FuSkF3b3NrZnBHVHpLdmhQOGUtcGRrX3dwNE93N0N3SURlNGJQTDZvSjVkcVkzekJNMEtnX2pJVFBiRzlWdm9MQUZyVUxua0R6RC1UcDdFMUhWdG1YNEtkYzlKX29USkhDd01KSFlzT1lONXI5OXJvbW1Zdm1LMzRaYVJCZjVKMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:16:45Z",
-    "hash": "e9fe8f8a8d1144d80feeb9b7adc650dde83153ade212e18acfffb3ca1f5fe3cf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood, Invesco among top S&P 500 financial movers in Q3 (XLF:NYSEARCA) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeU13Y0IzcXJqOHRPc0Yxamk5Mnk3UnhjRGFoVlNZZ2RWR0tteko3Smw5TURZU0w1RnZFR3hmbGFOTjBJQ2xqcF81YUpybVNXdjBiYVAtbkRjLUVKSWw3dDBLT29ySW9UbmZPTkh3OFBXZFg2NkM1YTktR2J4VzVkNlJNaExtRHVuZ0oyTi14eUdQNXdwVU10MjBvUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:10:00Z",
-    "hash": "070c32cc69586dfb1ef2b59ef94c824386af7430946ff86e334d160c683db4c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "UnitedHealth Shareholder Wants Chairman and CEO Roles Separated - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX3I1ZE5ybGJNT0F2ekd6emJXZENDQWNqVFRmNThKV0hlVF9oVl9ieDRZRlBfT0YxS1Fpd0o0a2QtZE5CTldfVlgzanYzY3dsVXRrV3NGRFI1Z3YxQ0V1bzVVcnRPc1RpMW4wMVkweU04TXhwVFpDa3p0ODUtT2ZRd1JSOXpMdlZWXzdWNllKVWgxWkUtcDloVE9Na01XMGJkSUhXTDFHbDhBSllKMjNwUlVGYnA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:05:26Z",
-    "hash": "df9fe3e687e563c8e9ceb8a1380f2df7537f39e7ea7c59aafca9bcf3f4581053",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "How to Stake Ethereum ETH; Why Based Eggman $GGs Staking Will Generate More Profits Than Staking Ethereum (ETH) - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQazJ3SlNOUTFqZ2g5RE5DcXVsR3NpNFJ4b2ZhQ09oaDNWSGxwVHZ5LWFubGRGRkVMRWJfOGItaTEzejhTeHJDWUhvN2l0UWNqOHpYUktaeXFCQkhycGJPb2NBT3gya1owQ1ZDZUlJNzdHSGVEU3RGd0xEZkxYSUNHLXU3WW1PRk5ZcEs0RU1wUmkxUzVtTjA5VlFKbi02R2dGZnlDQi1KRjdoN0RPRmZVa1haLXRYQkFNT3cxTlVqb0hRNHh3UHhNTjdWTks?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:03:27Z",
-    "hash": "5bbf03d2e21b6e27f594099750f78b402e4a79f5de4654e4340dcef436c63217",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Holds $2.85 After 3% Swing As This New Crypto Coin Targets Ripple’s Market Share - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb2FTYWtVU0M2Qk8zZ25rUWxSWmxkUV9ZWkVsN0ZCTEZqZDUyWllEbTY2NEQ3N04tTWVzS3RXYnZqWWRTLWY2NDBERkFUTXc2bHZ0S0dZVEU5a0xkYTZ4b0oxMDZvNGczWnlqbEo4UnBsdUJxUEhwU2xlYUV1MnQyX1QwVkxrS1h6X010VDA0S3Z5bjRQWE03bkljajNRUm5rZ1ZJSEIyY2ZzbFhUSFF0a0FHeVh3ZTQzVUZVVUhLM3l1d1hGTlM3M0UtVlVESFBrVHlyeXZCbmkxOHotbzU0dUtMVGJHQWRkV2lZWEZ2NzBnVDRzQVVzcUozYVl1ajBqallSVU14MEo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:02:10Z",
-    "hash": "be45f2e597429eb9d9ffa1cb79f477532b342fcf1db1fc51e49714739d637ac3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "XRP Price Holds $2.85 After 3% Swing As This New Crypto Coin Targets Ripple’s Market Share - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb2FTYWtVU0M2Qk8zZ25rUWxSWmxkUV9ZWkVsN0ZCTEZqZDUyWllEbTY2NEQ3N04tTWVzS3RXYnZqWWRTLWY2NDBERkFUTXc2bHZ0S0dZVEU5a0xkYTZ4b0oxMDZvNGczWnlqbEo4UnBsdUJxUEhwU2xlYUV1MnQyX1QwVkxrS1h6X010VDA0S3Z5bjRQWE03bkljajNRUm5rZ1ZJSEIyY2ZzbFhUSFF0a0FHeVh3ZTQzVUZVVUhLM3l1d1hGTlM3M0UtVlVESFBrVHlyeXZCbmkxOHotbzU0dUtMVGJHQWRkV2lZWEZ2NzBnVDRzQVVzcUozYVl1ajBqallSVU14MEo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:02:10Z",
-    "hash": "be45f2e597429eb9d9ffa1cb79f477532b342fcf1db1fc51e49714739d637ac3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Tesla, Applied Materials, Apple, Plug Power, Coinbase, Rumble, and More Market Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPRU1JZUFyWDRaREo5WnJaeWc1Z0tNOUhrZG1GWi1LczJsZFktVG9hRnVjX1l2QVN4aGwxZzZzVHd3anBkOWl4eERWLU5uTTRTM29rSEhyTUVNajlyM2Uzdk9pTXM3Q2ZPRndWd3VPaDJFcmpxUk80OXZ5TFNBYk1BNW5SZl9MN2ZDelVnZWlRNXU0QmVnVC0zRnNBV05EdXl3UEtxUWlzSEEwck1tNmtTbXBuMEJOYlRYWnVFSF9sM3FqSEdET2pZS2ZWTUZUU2tUNzEwcGRuV1BYdGYxd1NibGYzUmYxYkt4YXJfa0EwNUEyeUUzampoeHkzOUtYNkxodEFONXVSejlmaHNXSUtZTk1VbTFWY05yN1NBSTBkTGMtdnptVmxGclRpbEstcElUcnVqSG1ZSHZYRjhfMFBOS3Z6aG1reWs1ZWkyYmNNU2NvOXBzUU1GaFVpTHJGa25la0FXa2FObGtqUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:01:00Z",
-    "hash": "fb00e43b8ba749b7ed9e38d15fd47cbaa2f2f10932dbb8fc1d56a9bc87c4bffe",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum (QBTS) Stock: Two Catalysts Behind the Rally to All-Time Highs - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFVTSm1YTHc1Z3RWd3h5ajBWeGRKYXE4dUpBZWc4bWRLSXBFYV9oeFY1Z3laRjBaLVNQZTQ2aDFUYVV1T1RfdTAtTUhLWTllVG04VnZ4U1JfMk5YUUJfZTlaclhwdjFPX0lrcVRjUlN1eElpOHRRVnZDdXBkWjlnS0ZRalAtZ0RiLVRFRi05TVFnWldNclF3UzVja0I?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:00:40Z",
-    "hash": "65bb2dc61073a3c972d8042efebab6042e9128416b5f5f096968a21cee7956ed",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ($SOL) vs. Digitap ($TAP): One is Down 20.7%, The Other is Tipped for 2,000% Gains - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUmdEdmtKLUhwNnQ1dVB6a1ZSenJwRExqbVAtVXU3ZU05WDVRUkg5NkxSek1JYzNnSmJqSE9tendaa0huWjdIOGVDRnBtcGVkckNWVUNTaHZkUHR4NVk1WjlaeVZaUTMwZGNNWDdleF9uWUlFRnk1TjZ5dHNaVU9YY2VGeG41ZURPTTlBSjIxZE9NTmhXLS16RHFYNDNlYXk3R2NsZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:00:10Z",
-    "hash": "eb7e6e447b0d3fcb6a7424767009a482893befbdeee91570c4351032e8399e71",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: Here’s Why October Could Be A Massive Month For Ripple & Remittix - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjNpNFFIaEc0X1JVeldQN0V5NUNFX24zdXpvQ3QtSmNGOUNzWGtoQ1BjQUFSd19PdXpqa09zQjR2SXdhdll6UW5sU1FXRXdBVEVSc0RZZGxSWXFkMzBPek1HZ0U4eHZfbDdUWjFNUzZjU1ljNmRxenhNeERDZjNWTHJPVGY1QkoxNElhdUp4SkJGM2tERy1GRWJlUTZQZ2k5a0JDeVExRnpwQjR5QTVv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T14:00:00Z",
-    "hash": "b2cc441721e794d26c9a12b03971def16d6792459adf6c876ad65aa20ef0cebe",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "KIDZ Stock Explodes Higher: Classover's Bold Solana Move Lights a Fire Under This EdTech Gem! - RagingBull",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjV3T3VacmhFQlhlWmNkTTFjTjFuWnJMMmc3eU5MQWpjNFZkNENVNFBuYjQ4U0FEeUl5YmxJaTNYN0p1d0dIU1h5dlNFWVVrUTl0X05yYlZ4MnA0YUJLRlF1VEhKZUsxN1AwejE1LU9ub3BMZkpNblNYTURudTc1Q0x1LTVIWlFZcmQ3Z1M4VUZxY25kaWhuaDJpcEhRb2ZPbG1jOUNsakY1eHFrdkZQOE5xUFZhOVBmQ2pNYVdEa2JPQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T13:59:30Z",
-    "hash": "d7e5b84e3c1d978c9e4bb470b816d3d9d70463e9dbefeb89493f05c209d78899",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Samsung taps Coinbase to bring crypto to over 75M Galaxy users in US - Cointelegraph",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMkdmNm5hNjRQanRTSXNTbjEwSkpTaEVYRnZWbHBQT1ByM0JFUlIwVXNybFRva3pUb1ZETVBwazRDSlNXTVl2Y3NaS1J4M2Zsb0dYaTd3X2hKOGVpRTlpRHVSaG1pREV5QzVpOG1VT0xtZ3VQUVRxOHFtLUpCSkVLM21vQTNTMlJfQnZkaTF1Q1FXT2RrVXRPdFNtM1NiblV0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T13:55:07Z",
-    "hash": "dfaee5377ec69043a78732835da5d58da472acf925e61bf02253772e17ae4e22",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Community Sees Government Shutdown as Opportunity to Buy - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVVBBLV9zcU1FX19LeXhCR2ZzLU5vNGg1RVliSHNaOUNvTjFnQjRpY2w2SVZLazVhSWZRQkpiUUpmYlI3RmZVZXlfSllMaWVGejJVMTBFVzlEcWo3ZWlobVBNUGRRdUM1MW01YmZwMWJoYUFqcGVRYktQbUZpdkdVS2VkREZPZl91UW9qUXhB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T13:53:46Z",
-    "hash": "7cd6c67c8676003730b825975e103513ef128e63699d03dc0ce1b8dc08f19e35",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia: Market, Market Share, Margins And Multiples Part 2 (NASDAQ:NVDA) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjR5T05teDE5OW5LbkJxRzNrZjZrZkN0Rmpxa0JQTEZnSW1mS3B1OUtZMS1LMUF4XzVtX3VnWlFDWlNzcEVFQzdaQkdlRUJZNFBJOWlvZTRYdTktejl2N2pLYnhUNXd4c1RHcHM1YWhlYVVKUnIxcXh6Yi1LbXlnM2hJUkc4NTdqYmptektJTTRSWDhtOUVMVzFwQTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T13:51:47Z",
-    "hash": "a72af0d1bb261b5e220931a3c03f919f81c8a905826249947e7a2b5d9ff4422e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow Rises As Jobs Report Nixed; Nvidia, Tesla Gain Ground (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUc5b3RVV3BzRFZGVklCZW1kWDh1TEVHTjVROFZ0VDdzNTRpZm12Wjdfb0VVQVRBSl9Mb1pxVEoxaENoc3NuaFpFaWh3TnAzT0M3ejJRdE5UejBPNVAyMDhmVi1rN2Y1ZHJYTV9CVFhlVlYySE5CVWFGcV84RXNKYlphUnppOWRmVjRaVnpOeU5HSE1RVEFpV0FENWJLM3JCX2xod05kUFA1bUZxTjRHTmg4dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T13:50:00Z",
-    "hash": "07c229d55cb3604c65929d6dbb07a17d9e2d1b09c03b3bc8bd594d89acaa36e5",
+    "published_at_utc": "2025-10-03T14:29:59Z",
+    "hash": "65da6166734dab44372951cb5f9ffa5e0648b820ac03d837cea532789aa72b63",
     "source": "gnews"
   }
 ]
