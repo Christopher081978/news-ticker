@@ -1,312 +1,32 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "The Zacks Analyst Blog Highlights PayPal, Robinhood Markets, Interactive Brokers and Visa - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1phRmlieWliUHZpeEhhdzRQX1pfdkZsM3BBS3Jid25aVVk5eVZ3VkRGZV9yRXBDelpRWm1ORE9xNF9UT3NRQ1g5bW14MWFPalNudGI2OGU5ZmxaQXQxQ3lVZk1PR3J5dFdFdTRnd1hvSEZkNE5YVmhSS3VzZ3E3Nm1RUk15Z0lqTmNLaGlqLXRFTzlteEFjTjJEWXJsclpXVm1TTXNyZWpKVDA1czZpNUl0YmJqanEwZlFyNEdHZTJta0JhSkdj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:30:35Z",
-    "hash": "456d9efb6d6ae6eca0a7fa9ef8d8c716351c8b11a29275d858bb6a5bbec71166",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Solana Price Prediction: XRP and SOL Eyed for ETF Approval – Are You Positioned Before the Stampede Hits? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUy1UZkN5Nk1YZ1ZoQzZ3d3k5NHhoV2N2WmlmWkhIdm85SVZzWHJ4d3U1LUlDb0ZYR1dRUk0yejJIMW05LXBPYWRyZ0xFb2ljZTNmaGZHYzVwTkJ3bnYxdHc3V2xxaFZqOGwwQUNJN1U3UEQ0MVFSdm1Tc0d0WEFjSzltQWNPSWowZHlUV3dXUDItcmd3UEo1ZmlxV2Q0Y2k3eVlVbXppRXg3WXZCVTZ3N2llYXB3SEhNQmczWmM4YWo2ZVFfMjNIbXNB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:30:25Z",
-    "hash": "00dd8eb78e5259f1936c9a55aa21ebaa8628ce305c7c2cdacac5485ad0e5348b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: XRP and SOL Eyed for ETF Approval – Are You Positioned Before the Stampede Hits? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUy1UZkN5Nk1YZ1ZoQzZ3d3k5NHhoV2N2WmlmWkhIdm85SVZzWHJ4d3U1LUlDb0ZYR1dRUk0yejJIMW05LXBPYWRyZ0xFb2ljZTNmaGZHYzVwTkJ3bnYxdHc3V2xxaFZqOGwwQUNJN1U3UEQ0MVFSdm1Tc0d0WEFjSzltQWNPSWowZHlUV3dXUDItcmd3UEo1ZmlxV2Q0Y2k3eVlVbXppRXg3WXZCVTZ3N2llYXB3SEhNQmczWmM4YWo2ZVFfMjNIbXNB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:30:25Z",
-    "hash": "00dd8eb78e5259f1936c9a55aa21ebaa8628ce305c7c2cdacac5485ad0e5348b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana Price Forecast - SOL-USD Rebounds to $229 After Whale Sell-Offs as ETF Decision Nears - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1JpbHU3ZW1CVWRmc2UyU3VqdDQ3NTNjNVIyWmhERDROY0ZHWDJReTRkZFRTSC1Ia01jeVIwakNKNkxSTkcwMG1BaVA0M0lvVFhGY091RmlqZHJ3S3JqdHVxSGk0ejVRaF82Mk5OclNyd0M2cDNtV3ZoRkc4eW1YRXpCUDRiMUd2d0IxeFF3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:27:08Z",
-    "hash": "7beb8df56ba6145a31fd56588c40ae229c7b651725ed48b79348e4c9638906c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin ETFs See $676M Inflows as BTC-USD Hits $119,500; BlackRock’s IBIT Tops $90B - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRTJtZ0VRMlIzZGh3Z2NuQkp0a0h3RXZBQWhjdmZ4UGxxQlI4ZEs4Ny1ZYTdnYnBSeDJGVmNSRnhWek9mZ3M2NXBTUllGR0I4ZnhOY3k1dldQb1BRdFlBTVpQLWNzWTQ1WVNkajFnRjlqQmtIYktzRzlOeENXak1oOWgwWmRHUDdTVXl0Tm1SbG0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:22:08Z",
-    "hash": "4c1226b8969627016221ee927778177d6c048712844d6c2fe9e4cbc70d8f96dd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE): Evaluating Valuation After Breakthrough U.S. Drug Pricing Deal Spurs Market Optimism - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS2loeFduZW1WNzBaNlJhazI3N1gtcmF5QVJkX2sxRDB3WnZ5RHdaTzRQc1dYN1NJOWFVaDBKOWJteDZkY2lXRGJ3RlZXVUZlYVhBcUtCREVWTkNIeENTRnI2eFlwTWZKQzN5MTUtWVI1UUt1cmFwTXFCc0p0eGRfUl9UU3Y3aU9mMVZwbWZUM0lHMjdnZUhXMHNHN2JaM3pKeFJmajlybTRGT2w4SlFVRWM3Mnd4c1J3djkwa3hNZ21MRUQxdnZNUERrRjl6RW9jVm9F0gHYAUFVX3lxTE5adEJBNUtMLXJUSEZSS1JWQXRYbTVRYl9GbGZxSDlUaGNlbDJEYmVJTEt3X241ZTZzM0trdFRYWlJmSmVrODRseDJTTnJyQmNFTldRMGtCMG9jZ0ZEN0hKRm9zcG1YSkFqSGlLUWtEWUdYSW9yMm90X21DTjdKODZsZk5lTXdISk9qTjYzM2Z3NHYtSGFBMTBaMkEzM21qRVFQTjNIRzcwV3cySGdrSVhoOUExakF1SmFqcmM1S0QtNEZZUXMyWl9XcldpZlN6QXNVdWNJaWxKQw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:20:56Z",
-    "hash": "85973716a8525f530f0e4e4eba6ffa17f51b437b6fafa84ece78f0122461cacc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens Energy (XTRA:ENR) Valuation in Focus Following Deals for AI Campus Turbines and Maritime Fuel Cells - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcDgyZno5a1hDbXNyOTV4T3hzMmFzLUF5czlRLVRkTTRmUy1QZ1Z2RkFYTjY0ZTZvYjdqT0UzVWlXRXh3Y2k0U3Rldm1BUmY5bDcwazExWTRrRkt0Mjd6T0NZak9lX1VneFRpRzcyMG85QlJTSGdrVEFwcElWNl9YQnZxZksySTNDTTZ4Q251UmlsYktNbjdEOTZNaGNEUHN3bUhlLWJSRGxZU3VqcnRlR1BpRlRSTmhaYjlVMkQ4V0ZCRU9ScnhjeDBSZnNDMW5RdkM4cVlsX3bSAd4BQVVfeXFMTWNrTHNUU1U2RlQ4SVMyMVFtcXBzV3RXalB4a1FyeFp2SUxMUXdWYnBDU3BOLUkzUHZEdmZzMnRCY0drYzBKZzdZcG10UFQybk16OXdtLTh0RUVkSVlWcEZxWnJwTDlkZ2tCVWptRmFFX2pRX3FDVXlxWE1aM3BJSWhnOUM1ZFZzUnh1TlZaUDVVS2N1YUZYYjR5a3d1OVZ3WDByUDBab1VSd3F3RTVCRDdXVXpvMTRNeHdGczY0TGVobDZtUGM2cUctRDNIV2NsM2Q3dEI3d21CWVpKa2FR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:20:56Z",
-    "hash": "3e36a21c192f2505138ee0ae6c5c9e06db67e3b8cb3eebfa1868c196bcefe046",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase (COIN): Evaluating Its Valuation After Sustained Crypto Sector Momentum - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSUt2YkxlMTBNVTFyaW9VcXh6U3JQOU5Kakw4ZE9WRVhPWmxaX2swZnJmY2lLc3hMa0JVSlo3cHVETXUyNTFYVDRCcGFVeTUwaEJmT2pJU3E4OVVnYkNJbW55TWRCSDA0eWdPOXdxTmJTRHJkOGpzRG1WWU1Ec2Rwb3RuWWNyNDltVEdDNTdKMnU3RXNHRndRRTNrS0UzaU1RT0phS1c4RDZiTTQ1c1JtRjN4dnJvY0F4emlBNm11bk00X1dvYmdMVnd1a0NrcjlCS21RMkRzdjZsR0lzNVVJejNn0gHnAUFVX3lxTFBlbTFUbVJkekpPNDBPcjhkYXlsOVZjMG1UdzZfQmJta00ycmxObnh4RlU3aE5qbjhHbmZRMmNOQ1JCeWZkWTVaMDFfOGx3VUQ4T0t5ZHV3WTFzTDBvQnJBQkRNNGluTG5HRjdJZl9LY0g0cXpDbU9RMFNOX0Y1cEUxckt0SG1rU0NQTXlDZTNXUUZzamxkenNYQXBzOXJrN2tCZ2haMEM2T0VmZ2w4YzlUZGQ5RmNMX2YwemN3VVV4UFd1VXdWRUI5TDVrc3Z1MVlGaVAwSmdVOUszY1o5dUlBaE1iLXZETQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:20:56Z",
-    "hash": "921d4254f4ed7be16a4596b5d49105a694b5485bed1e2a94d5fc7924b593c4f0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood (HOOD): Assessing Valuation After Record Prediction Market Trades, S&P 500 Entry, and Global Growth Moves - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLUViM0IwODJDNEpSTks4UTl2T0ZuQnZySXJ5VGZQVFA5YXp5VWE3d1hhVGZNZEJPQTl1VFFfWXViSWk5MGpJc0wySURQcHpnaGp4NHBZY1BZcmhRZk93eHRZbWt3Y19BSHRNY0d0VGZWNjhqazZTUDlja2hxZURmNWIxNTdBR0VLZU4zYzd3SU1FbDNWUUwxT2lPUzdUckpZZ3A3VVYtTE43b3Jmd1VpWUt1Ny1wTndha0x1d0FKN3hDSWpCNU5RdkRtY2gtZktOMFc4VU1oMXlZX1ZCY1AyNXY2N3nSAeoBQVVfeXFMUGxjc2FNLTZsNGt0bXllaXFaU2V5TzZnNkVEdDJoQjA5cnUzWGxVM2pOWUgxRUZ1T2RGc3N3YmVMUk9ER2kzNGQwLTFIQTg1R2lEMVlIekpyUGMxN3FscHpKcTdZWkwzSnNpcUpLM0dKOHFVMWhUOG9QbWE5Tm15WWNqeVZET0hnbTFJSENsTi1WZ1FUSmpndkozcnFxVDRZSlJrY3JqYVQwTFNSV1Vubng2Y3dRWlJEcjNJYUNDMjVYSFJzUE1QdGFWZllLdEZ0NWJ4VmZjS3dUUjItNlRXOWJNT1djWWh4M01n?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:20:56Z",
-    "hash": "b8b4272642ecee87de14f7c2465aa0f784246f59b4381fd4f7238365c03b2fac",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "TSLA, NIO, BYD: Chinese EV Stocks Fall as Tesla Posts Record Q3 Deliveries - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWTh3aW1nalZtSUd3R2oxMTluN08yZkRxc0YwRjZtLUlNRVU1am56eUtjd1dkcE43Y1pNX0I1LXNVYlljWG54aVduVjlSaHpIQTF4R09PTWtpbW5YeFpFVlI4OUMwT0pHcmxkSncwSExTd2N2bG5tem5EamU5OXR1eHJuNnFjU28tRFZ0aGNSWXFIaHd0MUxHLTcwblk1WkFldDdj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:19:26Z",
-    "hash": "0f013238da757fe30080fe62af0575d0afc1d9f238c0efdabeda99542ef78d34",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Lowery Thomas LLC Makes New $203,000 Investment in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnE2Ulhhdm9mMTBkd3dxUVE2Q2d1ZHg2dVd0V09RR3NJTTVrcTE3eGpNXzh6bzBvYk1faHZ4N1pkN2pQbG5kZzNnVDRFNVctMXg3NVd6T19BTG5ibC0zNGV4RmxTTVk4REtYdFIzLWhrYm5BRkM1YVhGOTJoMTRYWEEyWVo2d0tLODlWNkFuUHQ4LXVsTGNOYm1vVHgwUmdGUjl5TURYVVhqaHZGdlU0eUlkQjRHTU84aUp1R2txUUJjY2VyeVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:16Z",
-    "hash": "ed67e3f2f7e397264308f48be4fd05f711e2e27c7a457f2297109eb0f50518f4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Powers Advisory Group LLC Purchases Shares of 1,152 Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWWpDdndQc3JtbHpRSHk1aXZhWWRvaUpkYVdTQ2Nkb2xzTW1keXRnTldvZlNvNzVtZlZtTzYtZkVGLUhNZnVEaGZzQ01IaFZSQWdZU1JLeklHeXlId2dEZ21LaTZkSDB1QzJwazB0R1Nrbk1mWkJkSmZqX0pkR0hLSmNwVURyWEphNlJJNGpfWGhmREx2M09BWVdMLXlGNzFEcElWWVJwX29Qc2h0OW1xVmNmbkVKOUp4YUVLN001RXUxU0VqMG5fTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:16Z",
-    "hash": "3aa692dea9ad83c7ca759d10cbfe485ba0aa7a4bc99a79f13c52dff634180a29",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Childress Capital Advisors LLC Raises Stock Position in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWxMTXVJWVNEX1lyR0oyRi1ib0ZLcHFMOC15Q0tUR283dGJoTlp4MTRVVy1QOGtIb1B3Mi1hTlhNc2hZYVUtNWFrVFVMb01sTkVQdDU5T2tteGVvdUR0TW9LVVRDYzRxU1dadVdtQ0dpUVg2djR3dEZuZFc5V3FZNlRacVdRUk1Bc1p5YVdsOFVUYk1hSW8xYnVjeHhMeUp3ZEVlNXFXWlFpaTNpbS1lWDYxdU9lNmxWb1JiVU9Oc1dRcmoyWTU5a1pNd2I3d1k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:16Z",
-    "hash": "96058b8f596dfe7528f79f466146bedcc5f8b13a2936c5366391bae0327151bc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Lbp Am Sa Decreases Stake in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVF6TjdiOEpXY1g2UE56VmVSeUNrMVQ2ZENRX0g0a1NXcEdlREVuOWRVTzYtTmNka3QwU0pxY0haeEV1dllHOGRRMGFUQ0V2QV84TDJra2FPTFQ4VG9zQ1hWajlGWU9zdFE0RVZneU5udXZFNkEzZk13VDN1aTBjRFV1Vy1vUHBndHN4TE9UQlh1WW5IQ3RLZmpEdlNiUUp3S21KaHRtQkctd2M?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:16Z",
-    "hash": "8ec9d00095622c04f4f9023eefbfa215803c6a6aac0c30d9b670b13cae3a4b1c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Inc. $GOOG Shares Acquired by Truist Financial Corp - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemlUZC1rQVJqclRMY2FTb3hMeWNuNDctamZFdzJyOWhvR2RtTHBlTzA4WTBWdjU3UmNVNEI2VllZRUVUcU9ETVcwQ3Qzbzh3NFhpeGRCa29qVEtjSWZaWWk4S1VpdUdxM3pGOWZkLWMxdlFxZ25jaFU5a0lDanpsckZkMXY5aFFSRVI2WWswdzJScGZWMHNPSW5CbGlMY0U5eWFRNHZWek1ZZGxNUUNrZFRzanlTSUh2LVpz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:16Z",
-    "hash": "fcd65ac86de3f57e0af94cfad659e79220406c99c195b2b6a8499c451a35bc6b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Bartlett & CO. Wealth Management LLC Reduces Holdings in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUDh5SS1IcFRMVkVWMDljOU9LbzA2STY5VTZNTHNzUElBdmVfWm1yZTdqLXlVWWtTMGIzaXk1amw4NlhqODRVUS1ZZU12VWNlbU9QZ2hmb3ZCUkUyYnBCUERtTzYwalY4R1ZQaTk1YXJIWHdhcndDUW9rTEM1YVJMSDYxRkhxZHVBWDBBZWtEZmk4YmlTc3pyZmU2RXRwbGtXaW1zZWJKcWlMc0V1VnB2N1VXYUlLQkVWSV9hZEpBYlRhZ2taVU5IWUVmdUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:16Z",
-    "hash": "770cdfb5071e375f71f266eb8c3b9727de182f4423477444d2665c62fcd11dc4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Panoramic Capital Partners LLC Grows Stake in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQam1vSzc1Nmp4SGpiWUVtWHlGT3dza0c5R0JEb3hpMnl2b3NBTkJlbEY3dV8xREpXWVlhQmhtS2hRX1hqNUJqaEFzTk9jLWxGaUhXdm1sWnRwZ1lReWJPelQ2Wl9wQVRpOHNzWkxZV1lORE9PVzJQZWJBb0FrQ3QtWTg4OEpQQ1NaUTFRREdfM0FFdEROZk0zS3dVWVhHVjctZ2ZrWEdOMUl2Z2tBS1hQUk01cEZxTkNwTnNXbTF4VkJDQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:16Z",
-    "hash": "44828978abc928483aeba5aabd1c6898a3e912e452b9b5fbe79a966e50212775",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Independent Investors Inc. Has $1.65 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaG53ZFF1TWJ2ZnMtY3U4T0piSWR6YkN6ejRpR05udkw4cWpIeWlhZUxuS0xoT2dvU0t3U2l6dHVfVXNmVWdIYzE3OWxRUmhXQ3dvMXZmRTIxU1AxdHF4V2FSdm9tQ0ZaTVpIM0JGaFhIQ2N5bENhRVpDT3V1djdqWU51S1BPUGVmNHZMTERtRFgyNENmTHFuY0RLTFRJS1VRWFM0SUdpemlwRG9OUllBMjBKcm1Nb3Y4c19DZTBzR1ZuOHhrbmU3NXlVM3Z2WDN3Q0NScQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:15Z",
-    "hash": "4362b8b69ca52b1c54d332d9113b740e727c29ed20ce78cec70d03141b0bf67b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Ninety One UK Ltd Makes New Investment in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNzdHSWVKZTR0bEFEaGNiUEhyWjMwN1draXBPZDBXWERrQVp1SmFPSmhHWnpRRjhxMEllOWVuZUtYQXJEdWpkUzV5X1E5d3pfajNVMXF1YTVEWklZTmhEcHRPM2NGQ3NZNW5OUExvN1JMNnItc1hMenNsX215Sm9mTDNNWGllRE84Y0dXN0p4ZGNGd0JfcWRGZVBsUWZGaFBvYXQxeGVxTEdkWGE5eW1JWWZreTFueDh4SnZ3Sw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:17:15Z",
-    "hash": "a3820dcbb291a7b87016ebf3b0d3d374d50fa3ca3dc33c676a17f231bc2ae9d3",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "The Crypto Payroll Revolution: XRP's Role in the Future - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQVhwTmFJU19rVThPODlDUFpTWXROdXhhUHBlVFdNb3BDZkhEX2IyZEZSVGowa1RQRlJvcDJoVWRDVnUzdmJtbHpWa3RlbUtYYVNXNzRYbnpNTFJjai1WQS1KQ2ZncHpfNndnOXcza1I?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:13:19Z",
-    "hash": "f0ed3e6162c77fbf3dda7a5243806ae6607b6aef3394cd3512cca254053e8e77",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Pi Network Price Prediction: 50% Of New Crypto Analysts Expect Pi Coin To Collapse In 2026 - Here's Why - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWh4ZEc4alVEOFE4c0tfcF93WlFqV3JtczNKZkdkcnhBdDJoSnRrTHphUUlHdXF0UEdkS0hTTW5tMFZ1NTlwZGNVdkNDalA3R1NQYkhEOFhMRF9WdElMTmRYSldRTHFzd1k0QlhqSXZTQ09saTNzSmdYTU9lUTlndWdGU2h4UFdSUlhWWGdDYlQ1R3hJZHVJR2F3a2VsU2RObVllS3lCUFBhMjJ1dnR5Y0tITEl6YnFvWFVUWnhqcFVVendoUmJ6bQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:11:00Z",
-    "hash": "47d21845c5bc9429cec9d1eaecfb8d5f7da8f069b9fb83f82f678d94a32e8046",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Remittix Becomes The Best Crypto To Buy Now Followed By Solana, Cardano & XRP - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVERGWjEwNEtTQzJmNERqcjJWNHBXc1FMU1E5TjMyU0E2dkEyTkNrNDg0cVR3QVBQY09XazVkTUJBQ1drMXRreW5IU243TW8wbE1WZ1NoZEc5OW5PeWsxdmgzTFAxa1JmNTItdU5rVWxBaDRjNFJLYXZZNzIxQnNGcXRXeWcyU1RYdk9JdFdVRTlWUFdQVFNDOGFxY09hWERo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:05:37Z",
-    "hash": "4d0fa48915918fc18049391b9937d07c05f10ad0eb3fa98fc1f324f91d33835b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Remittix Becomes The Best Crypto To Buy Now Followed By Solana, Cardano & XRP - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVERGWjEwNEtTQzJmNERqcjJWNHBXc1FMU1E5TjMyU0E2dkEyTkNrNDg0cVR3QVBQY09XazVkTUJBQ1drMXRreW5IU243TW8wbE1WZ1NoZEc5OW5PeWsxdmgzTFAxa1JmNTItdU5rVWxBaDRjNFJLYXZZNzIxQnNGcXRXeWcyU1RYdk9JdFdVRTlWUFdQVFNDOGFxY09hWERo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T08:05:37Z",
-    "hash": "4d0fa48915918fc18049391b9937d07c05f10ad0eb3fa98fc1f324f91d33835b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Alphabet Inc. $GOOG Shares Bought by Generali Investments CEE investicni spolecnost a.s. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQnZsVkxhLVk3MGlDd2NNcUN4SEFLRU1HaDFXeWp3TzluWk5MZ2kwZjJxVkZ2VXowYnlLV0FpSnZuYXRHUEVfeEUyRllaVzBPMFdKVUZtNHNFVVpiRTN4U1VOYnJFQVR5RXFCNVlKODEyTElrOHk3UnI5aVZyWlVwWlRlN050UW1XUmlIWDg4RmV0X2NYRUtGWDJUY2dMOFJaXzJzaXQ1VVJHVE44emc3SU12NXprV0xsNkxHSW1JcXpwZ0ozT1UzamlETnZ3ZWh0b0YxdlBieEhweVZ1ZFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T07:59:16Z",
-    "hash": "0b0f5eec28409181a725bb6a2c5f3bb0933d75fdbc254ba68f3b8d46af653d78",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Inc. $GOOG is Brown Shipley& Co Ltd's 3rd Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlZaWGQ3TkhwTEowbHJCT0NrM1lVME8wLWNqWEpiekRNX0tndlRidTQ3WFpFUzNoRU5NQUFuTU9QT3BrUGtYc0VOZTJSVFFvbWw1WF80ZS1Qak5WMUE5T041ZkxVNndnUGFmdXhZOFZxUlppMjViT2VzNjhWYWlqY2RSUnBzTzQ5a3BfeG5mbFpQSlJPdWRTLXJFeHYtQk51WHZid29UTjhMaU5TN296UUNSSnNTTEtpU0RUVTRYMTJ5dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T07:59:14Z",
-    "hash": "80c52578e1e863a494b1d5e0bb6065dd2fb598ffd3016bf07a85891eca0d0912",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin News: BTC Price Hits $120K with Spot ETFs Crossing $600M in Inflows - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HNTljRDFGS2l4RFVNNVVNQ3Azb1ViRVFiaDhrVnUwRHNDQkx3bWw1SElJTC0xVXZaTVA4SUZLeXZvNmJTdHZQa3dFb2pmSUdKdjcwcEROaXZNQmlhWHE2RS1YWWVTNWFXaTN3eFFFbkM0a0thLXfSAXtBVV95cUxOMUhzU3ZSdDByN21waExWX1V2ZEQ4V1FKUU5BWE9Vanlzd1dhMUIwZlpWS3dac2JreHY1ek9lTzI3eDRhWWRKTFRqVE1ZZEIwcUlIYS1pa2dLVS1Pbl9Ua2xIbGp1XzU0aE5sRTVlMkE0QkRva1otd1BzSTQ?oc=5",
+    "title": "Bitcoin (BTC) Price: Surges to $121,000 as Bullish Momentum Builds - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzdfU1Nwc19GakU4UVU1ajZ4UC1NZHQyTzRYRmlnb0RuaW5BZEhkTVhBVXY2TXprMHVBeGRVaTBodlF6OXVnYW5fcDh1dVFWZ2R0ZmgwWXJXbG4zTE5QbTFBbkMxbHd5Ym8xLXZVb0w2b3lRWTMwMjdoQ2VYX0lIR3NheDdfWXdFaktv?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T07:57:59Z",
-    "hash": "ea883cf1280208c50ba4b3452d3b82205073e92595244d10348ab86192973bc7",
+    "published_at_utc": "2025-10-03T08:46:08Z",
+    "hash": "b4106106e8d740526df4165fc4c49cf469cafa96d59cd7c4a2bbd97ba036f62c",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP-USD",
-    "title": "XRP Price Forecast - XRP-USD Breaks $3.03 as Whales Buy 250M Tokens and ETF Hopes Drive Rally - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMV80OVVMeEIydGp6UHJaNFFscTNkaUw0TEdZUFZoWXZ1TGYyMHNrS3FzN09UTGNlN0tDSFVSYkxsbjdHMVIwaUduUlk0TzZqX29NTDUzazBZMFB4b0xRT1FIMVJPOVhQSVZiYmF1NjFybnZRX2huOHVJYS1HUGtDQWdHbmlteGFjbmg0RnZKWHhQQQ?oc=5",
+    "title": "XRP Price at $3.04 as XRPI & XRPR ETFs Near SEC Deadline With 99% Approval Odds - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTJHNUxwS29tNGFuX3A4YzhCX25DN3VOczctY0dacHQzMnNfZUZEaTBkbUhpOFJicTV5NThhUlV0LXotOFJvUnVYYWFVRVFHV3JPS0VfdVVmQU9xd2tKZzF3eUt5NjdLelRWSkR1TGltdXBrM3FmSHN2WW4zYmNaWEpqS2hVRmFlLVpSRmw5cGYtNEUyNUZ3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T07:57:08Z",
-    "hash": "62bf870a79fbb09e6ff9f86a80450e5b9fbcbdce4d3f6f7a354325e257f8221d",
+    "published_at_utc": "2025-10-03T08:42:08Z",
+    "hash": "571bb310bc50517814de5d51bb5db14bbc958a914dd249cbedcbf82f9ee5aba6",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase stock rating upgraded to Buy by Rothschild Redburn on revenue diversification - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbVF1aGRleHlOdllwT0lYUHo5U2IxS0FZcy1Lejhpenc5MnV0c243amFQWDM0RGJ0bHMtYzVTTXNoVUVkeXROUTgxSm9aOEpobUY1VGRGalFzWHhyNjE3S1RYUnBiR01LN3VZYWJGTU1CckM4ZTVtYUU5YjhGU3FJN3Q5b1hrVUV1SGhGVFYxaVRVTHFtSVBPZkp0ejdHcTV5MUQ3SFJ0YjVDcV9USkNiT2FGbzhTY0FEVTN0SnBXbFVRNDFvRXF5S1llSFB2bmFLUlJyeDltTEppaGZYZzVB?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group (UNH): Is the Stock Overvalued or Undervalued After Modest Recent Gains? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzZpcnVGbG1VVUdVUTNVQ3lQSHFhX1k3OGFiMkllMVU1d2x6eVdMN0tWaTJSam40U09RTVlpWUZWaDZCNjBQaDRBcnVlcXpXVjFoQkJWbGdza01PVDRUZEJEU0ZfSjFsMU1ELWVZX3NSN0o3Q0hEUWpGUzFUOWZQZmwxUzRjdWt0WThjdHdtT3NKOEh0S2lrc3g0Y3pvWHdwb2Y4WjdMSU1RY2pYaV9WaEFEdUUwUFU2ZnF0cW95WE81Q2ZjUUo3b2VUeDVUSTNWWUHSAdcBQVVfeXFMUE8zaUF1RHJzd0k5aGNFR3BELWdkMEZXZXg5TmNxUEdCY2JOUEVHSkFvYk5FNm5ZNlpkRkNSRjR6TXJIdU1LajEya202ZG9GY1Q2bllQRE45ZEZGTmRKVVNRakFkRTd5UUsxTXB3bVdrdGJ4aDZoQkkxSjF4UFRGVTB6Z09SNl9VbnloeG1JR0pYTm9JZUUzZ1BnckM2OVNUM3hvdlpLaUJ1X294NkpwTGdMWFp5UzVfQjhsZm9WZmdGMHl4NmlOSlkxelAwa1E1TEdKdms0NHM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-03T07:55:19Z",
-    "hash": "40ab9388778b7958af7f41f5533a640320e800a2186dba4795eaf3e714c560d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Rothschild Redburn reiterates sell rating on Robinhood stock with $68 target - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGQyY2pjOG03c2JqOXE1UDMwTGc4M3I3Yk5fdmh4UFJ5TThQTU5tdGIyV21nOGRYNnRSb3lnMXNleldLNlE3bzQ1c0JwVzBFTUZleFNBRl9uY25zWVdaQWhTQVBTSEtCSlhxU1JXa2UwaTJ0dEJEVWRMZC02ajUtRy05MlRkMWxNMEVwQ3NGWWZxaDRoc1NXMjFkWUMzdkxjeHY1WGJva0J5dXlKY2hDbDZrclJEbmJJOUVyTmN5OE9KZkk1M1J3VVJyQVo3NWlU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T07:55:17Z",
-    "hash": "45ea28f40c82f12fdcf53b0835938b4a25654dd5b14bdec92d82ca3c20d25af9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Mutuum Finance (MUTM) Emerges as Top Ethereum (ETH) Alternative, Price Expected to 8x Before ETH Goes $6K - MSN",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTGM5c0J0Uzd0VmFlQnJUa1cxdFY2aVhfT1ltZ1JvYTBXcWJ3VnBfMWpDT21LLUZsaUxCaTktWkxqdTdVcjNaRGV5aFZCU0pIV2hINE9lQW9TVUJ3Z1hCMWtfbFRhaHA1TXFmdkgyakl5dkVVVFFQSi1BY1M0Q050aThEcHF5ckJCY0duOFZoLU9zaFZfZDFkQ2ZfdXpEcGt2RlMxSmRwOHZtZ1VaUXdXTlFpbjFlTWpuX1hVSm11RXhtdElsY1VwcEtRaHJ4TDdBd2dWVTJ4cFh4MTJYWnkweFlYdDBUaHc0X1JIUjRiVTI0c24tY0lLN0VISkFNUGNCa0RXRzJ3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T07:51:19Z",
-    "hash": "378b5502c9149f40b64cda743c6a8ffe209d8e1ee7d7c45efe9df227d6d702c2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet Inc. $GOOGL Shares Sold by Fort Washington Investment Advisors Inc. OH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTzJsaEtEUDE2Vzc5ZnpyMUtGYUZ0dGdqR3Z0OWJIRXRRaWh2UlBSTzdIQV9pcXVTRFhyNkJuazZaVWZnTXE3ZGZRMjhvcmp0SEtVcmtOcmNid1diQ21pOEg4djNYczNmN1ZjU3VKcU5mQTFucW1GVEVHZXN6bzNDNllIekhNT3gtRkMzRkFsZ0QtNFRpSDAxQm9URmFDWHV6MjFCZlBFeEtUamdMZ3JXaEJKLUxSX0pRcERaU0d0MWk5QzlLdDhGUnhVNWE4Q3g5NV9V?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-03T07:51:16Z",
-    "hash": "a02ad7e6df1f24a1bce78791c52df1e469a56b81d6a91b2f06fce270b0efad1a",
+    "published_at_utc": "2025-10-03T08:36:01Z",
+    "hash": "6f9c61313ba997fe579f25ff5fe9c83df68e39eaddf240dd3176a7a3ba3b5308",
     "source": "gnews"
   }
 ]
