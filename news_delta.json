@@ -1,12 +1,22 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "The Motley Fool Did a Deep Dive Into TSMC's Revenue by Technology, Platform, and Geography. Here's What It Found. - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOek51R3RRSFFyWTBnYUp1OUFNZENDT05uYzN5RXFncXRVZlVQRktEVGpacV82enJQWUszR2J0OUVyNjFVV21QaTVEdXlNQWxpeWpzdG15dlhycXZkTWRyMjJQYTRzUlZNQlB2ZTFkcHRHSUJzYm1Pb2pxeWJEZHBDWkdwX2NoSHM1akVBR2NfODN4MVdOb0tDdw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Michael Saylor’s Bitcoin Poll Points to BTC Ending Year Above $150K - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0NYU3lHY0lVYkxmd3dTejVHc0VENEFCUmNKUW5HbmE1S0duN2p6aWEyLUJaS2g2LXVBNzJGMmlYQVB4Q2NUSUlmQzdMV3g3c2c2MFBVeG4wS3d0dHVseGVDWW9aNFhCYXZqWTlaZGU5NmE3NVJmU0dTZi1iYjB6S2RuWWhRLTNKVVJjekJadk1aNVdtaFE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T22:46:00Z",
-    "hash": "01e286f2463142de5c07de988190138a68bd5d5388c43812bb0f754f611499b8",
+    "published_at_utc": "2025-10-04T23:32:32Z",
+    "hash": "8bd4728b7b9e4bd74773b1d30db63e64f30689cbd35a042ead2f3709490f5913",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana and Internet Computer Make Headlines, While Blazpay Leads as the Best Pre-Sale Crypto - livebitcoinnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjFDRUJ1YWFfaFdNdmJMcVplVHFVeGNSQVpFV2tRYlU0bXRHUWlrUXlPQWt0aHZjd0hJcVlYX2VyTFRON2hyd0N1Y0xmcW5pX3BvbmVQY2s4RGFPT3VtV1BOVjg4YkdxbXhKSGxFNVlHbm4zN3pIQUw5emRnWVo5TFdoN0VzZV83RjNHNTdfTTl3QUFEbFNaMk9GdkY3WDJjT0dpR0l5RGNVSjlWV2RVSk54TUx6VHg0dmt1Zl9Sdk5aUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T23:30:00Z",
+    "hash": "782ca51672baa08bbcf376ffb16bcbe4ec4f5a56408a7dcd76ea6886324c1b69",
     "source": "gnews"
   }
 ]
