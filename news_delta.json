@@ -1,32 +1,42 @@
 [
   {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Crypto Wrap: BNB, ETH Lead Altcoin Rally as BTC Posts 11% Weekly Gain - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3E3SEVrNUpkbkNueWJhRE9MVklGZjZDOW02MVJDWU1WcU9UbXdLWjFzYW5ZYlAtQkVLQnc0NWpLUkZreWtjSWJieXVOQlJrVGpzanJYWVdOZUR6Um1vMFhrZUZRSWdCMk5JWEhYb1ZJUHQ5eWdOOTkyZlNHcGY3bkMwZEpybkRCYzAtSWJlM0FWWXJZZUxj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T21:17:39Z",
+    "hash": "74064c11ab263171b4c4bc3f18da0efaa1ab13655dfcbe45b63924e23b21be7c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Jim Cramer on Robinhood: “It’s Been a Remarkable Performer” - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORnNpa2VnajZiY19TeXpLUTV3dlFnNjhNcDBFWnRsTUNnU3RHbW9PV2hfQmc4c1FhOXFscWV2SzY2U0MxY1NnUmlNWUtWLWVFb0RGMUhJT1FNQ0QxcFg3RlIwM2l6R2YtQTk0S3dPZEYxc1hSZUszSFVrUS1xS2lxem5iZ2MxMzVGVFlUVy13WnNKLTVi?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T21:01:30Z",
+    "hash": "8a3f21fd459d01fb6762f6e0f41f0c477ba51c476c382a51448917124fc4d564",
+    "source": "gnews"
+  },
+  {
     "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "XRP ETFs (XRPI, XRPR) Surge as SEC Shutdown Triggers $8B Flow Speculation - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVC1odDJMcmRyT1ZlY2U5bi1sYWdFSXhwZzQwVWFiR1c1S3V4dzl0Qm1KYWJUamVWTDlMVUkxR2xBaXQ0X0l2V0VvUWpCMWtjbTBaRGhZOHFwUFdRbnF2RFRiV3QyZnNXYkQ3V1l4NXNTQmhmb0VQUWhOUFVpU0s0Rm1vY3lRYndMeDJB?oc=5",
+    "query": "XRP",
+    "title": "XRP Whale Holdings Near 3-Year Low: What Does It Mean For The Altcoin’s Price? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sVUJjT3ZIeDZLMVdvd1oya0ZiLWgzdUN6cXhkdXpUc3M4SXhINExqWVYwdktyYWFDZ01TTWJoMTBrZm9RS0k0dWdPYlJuemRYTTVJRXhVN08xcVNCQk02Si1udUxpOHEwcmk4VzkweGh6dDVEZVl0Q2tRYw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T20:37:42Z",
-    "hash": "466ba068eca1fc42841069911cfcb957249464b2acf3c607d33532425095b641",
+    "published_at_utc": "2025-10-04T21:00:00Z",
+    "hash": "5d69438aa5d9cbc11753bdc06c915f3b6c039b590d304e1221b876c271401bac",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana Price Forecast - SOL-USD Surges 23% to $227: Institutional Inflows Hit Record $500M Ahead of ETF Decision - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnZOVUlRUlpPdTVhTDljYlRTZ2Q2Wm1BeXo1UEMyM0JSQ1VfeUdhZWF1dDRiYm9BTHFpaHQ1SWtPaWNOWm1fNHBNcHFLSEFrbmg2S0FBNU92dXNrU0QyWTNGd3hGa2RrRFlKb2JvTEdqME1uLVJNeHdtZDcxeVBsdkVLbTNRYTVhNzRfR1MxMlM2N3lRR0E?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "What hurdles currently affect XRP's market presence? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QbU5Wa1dObm9OUTB5V2Y4Z0ExMFUwMV9GYVhWelN5NmU4MVR6UnZZNEk4OHYyZWdkbnU5THYtcWwwTldDNnUyM09FY3RzazljUTZFN0ZGZFZvSm4wdmdKT1lWMnJwMW05b1RCag?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T20:28:48Z",
-    "hash": "1dc0473f5dd8b40d734c31a84c845900a3fa6716e8697d3cd155b7b27b39c206",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Which Is The Best Crypto To Buy In Week One Of October - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXdMV0d3NC01cFdsZ3o4ZUhCMzFzY2M4enRlUTV5TXdGQUxxcHFZX251TGJWazZVcUMtcFhWd0YzU2RXb2E3OWN5YTFTOExQcGo5eFg4SThCRFFxVTBjY28zbk5udmNMRXUyYmpiMUthZ3VBT0VBbHo1cjdZSFZxeExfR1JNOVFDSEZyM2M1bTVxTUZVNVRYX1Ryb3RMUWRNZEx1eExR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-04T20:28:46Z",
-    "hash": "29ff09aeb472c5477b994d618d46a53a3a5321af2dee548cc8da5ba9d090b2f9",
+    "published_at_utc": "2025-10-04T20:45:23Z",
+    "hash": "877978a9873a43194eaf56b2097c06d082d26c8a87780bd740ebae3002822146",
     "source": "gnews"
   }
 ]
