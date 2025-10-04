@@ -1,52 +1,72 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Solana & XRP Dominate Headlines as Blazpay ($BLAZ) Phase 1 Crypto Presale Opens at $0.006 - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSUZaNXpsREp0QTRnVmhlTHBCcTBYY1RPdE5TSU1nY0dEVnU4OFkwZTJ1aktJQ0N0dXJHNDJUVWVMUm03ZjBBUk1KRmROMFhfaUhfSW1uWGJSR3cxREh2bnAtbXlGWTV4aHg0Wl9XOHZJTHUxN1ZkdGU0MFRZNFN2cVBka3NZTW5UMjI5QXdlME90eThnckhaaG5IOUEtVGFNdFBOWXIwUjhYNjEzdEpENGFPM3ltNk04ZmVsNFlwU1NuUEpHcThIcmgtdUp5LXg3bERQVXBWcU9pWVJBSlNxRVd6eGJCVzk5WTdza0czU2lYOVlTdlBF?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Is Ready for Another Round of the Weight-Loss-Drug Wars - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNYWlfZFFxTllJclNIWG1teWxTZEFPbGVkeEM1dHdidFQwQTJTaWhZa3RoMXo4bmFYVEtNZFVZcXd2bWs2X3BudzYxMkdOc2tkbFp5ejlqWGp3TWxCNzcyNVV0QS1ZcHBnS2JWaUlOcVctdWdSNHBLV2RSSEFBLVhYbkFyUG5yRjJXNEtjdHpnV1BVX2dLcnFxcEU2bzkxWlhpNm9PelNJbU53SzZHcGZhdFFnR3ZJWGNfV1BYWnJ6UVUyS3V5TEJPUWpCdjRaS0xaSm1zeFBSa2JlckJSTWxXV1FKTW1tX09BMk43ZndxUVFTbGtqMFJFalJFb1V1ak1ibTJ1VDlCOFpZcmNXdEt5dnI4bDRsQlEyMFR1MFBUSHBEZXk4NFRSbU1NRzduSXNkTnExWUhGaXZiaTJFbThDb19jTnhwTms4XzVkcERVR3ZfYVZCX29jMHJ1YWJaNGdISDdvOVMyUlZpSWQzUlp3Z2hJZjVhNFptSEo3Z0k5VjAxZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T05:39:55Z",
-    "hash": "17c26323741c35f74e8c3025fb24867e7b8d5dddbf7e34c70b5cc172fe9cc396",
+    "published_at_utc": "2025-10-04T06:30:00Z",
+    "hash": "1abdf98323a05e6f96d7b572305e7345e445510cf5160dd08eb9b55e6fb5d949",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase seeks OCC trust charter to grow payments business - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSEZsMExHVm1LQTFmMmFZV04wYlUwRzNyc1l5bnRyMkFXMTZYVGR6eVIxWE16N2FUM1YxZGFzRURiZHhRc2YwdGgyZ3R5TkZyUFQyYzYzNE9TNXhMVS15OXBXbjFJelZKdF9kN3VFR1p2akRjaEtSRExkSWVSUm5NTm11a2pNa1ZIdmhJTGE2c19hN3RFNGtCNGd1b3MwMkNlUGZpOHBzUjdGT3FYeHQ5RXY2djVZZkgzUGlrV3o2VDNaeUpIeWdCNzJGcGJWQnFu0gHWAUFVX3lxTE5VUnZFd1Y3QkJOUmNxcnBKeWZsY1Y0R2J3dWtSb0dPYUZucDBaSklUUlc1V21oZUtJSV9vVHMzMTdicDJhMlI4Wkpaajk2NDFPLXBGM0h6cW42eHdicVJOS3Q2MHZwWFVMMG9LbVctaVpQUDYtLW83RzRqMGFEZFlkUGo1TVpjejk2Z0p2cmJnZXR5eTZJdlpmdmswb09OelJZVDZ4UnJsZHNoUU5lSmVSMDZwa0hhQ09aeUNGWXFaQWFmT19HV1M3Q0xENnl6MmVnbzVUR3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T06:14:11Z",
+    "hash": "cc47532d120dd8f0e34d959dc1e4b46ec047d14a313f2903b5a1f10acc1ffd15",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Sen. Sheldon Whitehouse Sells Off Shares of NVIDIA Corporation (NASDAQ:NVDA) - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm95X0xDelF4ZGZqdzFBNi1USzkzZTluTVNEQzlkSlZDM1J4YXhMb3lFaVNvUDBoZkFsZENDakdaYktFUDE2SURhQjZjQWlZYm9rS3JnTnVpd21nMkhRZFYtMkhGeUtLcHFJNWJJNnk1N1hIZTdsamJzSzhTNTduYVFvSmhmbW83ZWxCdmJtTmlMQk15Q3kzaDQ5UjNYUk5yTTVXVUFJa0JVUENXOXpqOGhsa3VpaGNKeVhuNlUyTkU0OFdl?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T06:10:50Z",
+    "hash": "50301c170004061029b01546068f9ab00b456af7d4faf260062bb53d631dfbe5",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD (1211 HK) Tactical Outlook: A Rally May Be Underway - Smartkarma",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQnFWam1PMlhRY2h2NXR3dW9ST3FFQXdPQndscTl0N1RYaG1hbEtYY2czUlBCQjFGXzJPVUZXcWl3VDR5QnBqWjNtY0c5TjA5SWZyTWpvV3VMYWxMN1NCMlA1bmQzb1lyQlB6QWxzNDRkbTBTN25qdmtrVndGLUs5dmZjcWt2c25pdjU0N2p4QkpJZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T06:00:00Z",
+    "hash": "81eeb4a7ff18f4d34d2bbf10333d1424bec6e4bb416edc3600fcbd04e9310c39",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Integrates Crypto Trading with Samsung Pay for 75M Users - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzg3MHY3ZWJSclNqRUJDd1ZUbnFRQjV5dHdGcldoOE0tYXZhSEhpUGlJVmdiMWxtc1F0M0Z2UEV5Uy1rNVNpWFo5bmVjZ3hiR3pTeGVNTFlOX2hPNG9sYkNwaG5ackZIa0lnSk5SbUZKY1YzYXFuMXRCMkczUnlJeV92OHZ5Uy1YVV81bFp3X3lQelA3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T05:57:46Z",
+    "hash": "b308b189efb35e27ec94f1d0b720d95b2b4f19c06b3d6fd7ebe52ff37f033fdc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Foundation converts $4.5M in ETH to stablecoins - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXaTNUUmptU2hyTWpKeUU2RXRQZnVtZlYxS3NKZjlpTElWV3pFVWxtNVAyb3RoT0czR0NPS1VlQjlJVmZBYUVZXzNpVktfMzE0M1VzM1BwbFBXa2VkdFRjQTJRME9vZG5hd0xSVEVSSzlnaWZCZUdMT0dRWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T05:50:00Z",
+    "hash": "f31266777b100761f60965268e799849452fe7c48d397ff4daaeb3494298f0a8",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana & XRP Dominate Headlines as Blazpay ($BLAZ) Phase 1 Crypto Presale Opens at $0.006 - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSUZaNXpsREp0QTRnVmhlTHBCcTBYY1RPdE5TSU1nY0dEVnU4OFkwZTJ1aktJQ0N0dXJHNDJUVWVMUm03ZjBBUk1KRmROMFhfaUhfSW1uWGJSR3cxREh2bnAtbXlGWTV4aHg0Wl9XOHZJTHUxN1ZkdGU0MFRZNFN2cVBka3NZTW5UMjI5QXdlME90eThnckhaaG5IOUEtVGFNdFBOWXIwUjhYNjEzdEpENGFPM3ltNk04ZmVsNFlwU1NuUEpHcThIcmgtdUp5LXg3bERQVXBWcU9pWVJBSlNxRVd6eGJCVzk5WTdza0czU2lYOVlTdlBF?oc=5",
+    "title": "Solana and Ethereum Lead the Sky Among the 6 Best Coins as This Best Crypto Presale Charges Ahead in Stage 4 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1JWQzNkTDQxVVdwSzduMW9jdEpiYjhNVUN2dnJxS0NhM0N0WThDUXp2Zi1qQ0hTdU1NM3N0anJrWXB2dU9YQkE1cHZYaXE1dDBaeXQxbk4xSHRuRjZOSTdtWjF6UHE3bWMxRTgxTzk5RzUwaDZwU3JmMnJ1MVEyekNLaTI4NDVnaXJBbzRreUZrbEtUU1ZFY0Z5Q0NOM0JrTVF0U1ZoZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T05:39:55Z",
-    "hash": "17c26323741c35f74e8c3025fb24867e7b8d5dddbf7e34c70b5cc172fe9cc396",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "BTC News Today: Bitcoin Surges Above $55K as ETF Inflows and Halving Hype Drive Market - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHoxaUhETEpGQXhsLWxRaUlpaHdaWTEtck9UNUN3MUo1ZzJiWnlOUXRtUGM5M1RHUmdOYnVHWXgzMGNPVms4MUJPNjgzcnA3LVp4bXpYa0diT3JSOG9fMmk4aTJRc0FnTUhyd0lGTjdpMllNNWQtZzBiTi13S3RVYnNkaDRkTXhaLUN6RDNwRHdrUFdaZjRLXzdpVzhXTEVpSmxXY1YxX3k4S2lIZ3JRenB0bw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-04T05:31:50Z",
-    "hash": "b74eaaa4ef934c303922e2709b3033e853d2bd73b038720e43fcbd18708cb7ad",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "SEC didn’t approve Teucrium’s XRP ETF, it simply let the clock run out - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUVXRvTk1kWk4wRTBfVmRpc0NXNl9rYjBSTXd4QnI2V1I3QUU2bjdQUzNBS2g4bXpaZ3dFQVJfd2VxUG9zVXNZak81M0hCdzlxNkFCYk1SU3pQWjVMRmdqcUYwLUliVjlHUV8zZnBiOUxGVXFr?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-04T05:30:00Z",
-    "hash": "f77228def148a62e16303cf936ec8a13eb218659ad22fab70b62eb1ba75227fb",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "TSMC Stock Reaches New Heights Amid AI Semiconductor Boom - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMmRTRHhIdnp1YlhRWEJGQzZuQWhGRjRWTmliakpLOXJaLWRDVy1mc2hvMFFwOHppbDNfbmhOUlZEVUVwblVfTEpabV81LThmWkktdzFNcjNiSXZIZVNFWDFoRjNzaG9ISXJGSzhNSmZwLUFKam5XTklZUlV2eTRndVN2R2pSZThMdGdqRjlZSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-04T05:29:48Z",
-    "hash": "4c49a09ed62607e64dba86cd3a8e38f79e317c5173f6e070fd3023c2f266ccc7",
+    "published_at_utc": "2025-10-04T05:45:59Z",
+    "hash": "828ce0a9d8418efa02959fa4b6813d838337ab2096b027462c777fb3073ec652",
     "source": "gnews"
   }
 ]
