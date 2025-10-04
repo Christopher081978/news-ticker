@@ -1,32 +1,132 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Behind closed doors, Amazon and Google tip off Nvidia boss Jensen Huang before unveiling secret AI chip projects to the world - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOV3dNdzcxNGFqWUVmQVdQaXdWV1FUQ19BSUtFZzJEVjcwZW1kVnM0TzZwVTZWclhrdHdOblp3LWxvOWNyUl9vRTY2ZGQ1Z0R0TnJqS2RQTVZfWHdSOUdFal9qNVZuWWlJS29oc1Bkb01xcTRwZktDSGhLMmw1Y3o5ZnlDSWFzbUZwWDhFSmJHSHNuTDNndWlJVnVfSnBwdEl2VXNUbEtyRnBZa21tZWtrU2NLc1d5ZUIzOFZoaVM4c0hxSFFDaU5ZWTg5TWZRYW92dHo5WGozNkF3RWlfMnhIbGFOT0Vab1V1Wlp1ek1UcWFDOC1hQlBKaUFDbFhvOHp0QjQySGF2aXhQbXZSLXk1Ri12LUlPRUc4Mk05eko5QnY3QQ?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP, SOL, and PI Crypto: Best Crypto to Buy Right Now? - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWFab0hlQ0NYMFFGSkpoMmJGNmpiOXVCZ3VGRzNLbzhjaUNlWlRsanZtaFBiWHRKNC1UUFh2NUpsb3hGRnZBdWxFTGVKZy1uSnJiTEpYbm80Y3RIV3hsMFpjZ3BtTzQwSkswSW5nR0VHc1JOUENDaW9mLTFYZVZ0TERWZ3RIay1JVTNGTEVFMUhIdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T19:37:00Z",
-    "hash": "31efd46ac855a3fafcd1b06e5ab63d34f80e56921e8c7da3615367f767236a3c",
+    "published_at_utc": "2025-10-04T20:17:38Z",
+    "hash": "cc6d2661012ebfbdeca453f72477da4f16ad1ad16089ece895c8545b5a5c3c6f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price Prediction: Bitcoin’s Inverse Head-and-Shoulders Breakout Targets $131,000 Amid $20B Long Pressure - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUExxdHZUcG84bXQyVGM2ajEwaGtNTnBwNUZkZnhoajFFbjlIQ1dfallKWHFSU1ZPaDVMM2NSTzJqQ2JncXZEdXBDb1F4Rm13TEIxbktpYUJKNVYwWkN3S0VlOHg5aVpoTEdfdVFlMUJGNzRab3lwbFNTd2ZnZ1ZHS0pTUUNOM2oydmdyb3hEYjlzU004ZTZ6WlZSWlJZbTZDcmE3dzNBd0xVZDhFMFhXczVtV3dfMW5wdURvZ0k2Sk5TUEhDUndjcEZTYlJNYzNoTC1OQ3VPYUFjdHZIRUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T20:16:11Z",
+    "hash": "ad5629eb193f69d237bdb3d9acb17227223136d7eb9b346f8ffac69bad0eb555",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Ethereum, Solana, and BullZilla: Top Crypto Coins to Invest in October 2025 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNakNmU1hIU0ticTkzdEJWLWJhbHNzeFNHRjA5YlpBdk9TVURFYTN2LWtWRHozeDc5Vkd3OWI1eUdDeTFZbURyRkVYeWdwaTJ0R1lRV3lKakRVMWFjY3JlVlV0ZUR2OUIzbzdFbVAya1otZ0Rob0xuT2t6RFhueUFPT3pZU2lmdi1uM21lZXh3VWRkUlBNSUJDakp6ckdnS3ppUHMxSlp4QXh2TlI3cWg3d2o1N0VsVS02UUdHTE55ZTB2WFhVTzRSYnpMMGpxU3VTRUdRb0FtVEkwQVJaWmE5UjlVNFNtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T20:15:30Z",
+    "hash": "cf31b0a34c80f6b800b06b56319f268eaca74cd64fc1136ea82b17929a07858d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Spot crypto ETFs outperform trusts and strategy funds (BTC-USD:Cryptocurrency) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1RjTVZxSjVYZkxabFNXQ3IyMnFqbE5SUEc5RnBRT3F6bWt3RDYwTFpnSmw5RHNEWEFpWkxIVVN2dVRhbjdWME5RWGppamlIeTFHUlllbWJRY2luZnU3VjRNWjlkWjZ0aGV0M3dXQVc4V19qV2x2bkVqSVB2WlJIbWI1a3RoNm9yLWt3aXJIWGVyWl9vVWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T20:08:24Z",
+    "hash": "f9d49f8481f410c9f25260a9335496d7aa14b4de54608b09039e2a55e31757cc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin and Solana Gain Momentum- Could BullZilla Be the Next 100x Crypto Presale in 2025? - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2R4Rk5Ha3FuMlhzZHJXNTg2MlduZmthWVdLZmpsR0ltenEwOXFOUmJfWWNlUXVicmRhQWd4OGxyaUxUbEVfX0Z0ZERDNVJaeUJoZDdHd0J1UXhDRE96V3hyQTNqamJKU21hc0FQcXl1cWhFYmN4MTktV3czNGtUUU1HdlhPeWl0T3htbHBqaERsSG5yTURIZnktVk8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T20:04:29Z",
+    "hash": "b5edd69762199c552cd6db9339acdedc47cb4111a9f238027962706f4208e054",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Which Crypto ICO Is Being Compared To The SOL Presale? - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGFyRGNSNDVkaUEwbWFSd2x3T0h6S1h2M1E0N3Rzc3pVU2R1ZG1rdEt3ZTJzYW1ZUWhEbjFEdXVnbndMQkZ6cmVSMVFpQm91TS1BZGZjcVM2Q2tGYkFzYl9xSVlTNkZhczljZG5veGhCbEc3OUpMS2RVZng4bHdHR1BQM2M2U19IdnAyX2diN3FHWlRraXRMRzQ2eHlMa0pX?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T20:03:20Z",
+    "hash": "ba22725d0e857739f4e7e952dc277f47e55ed1e64439f9ff8f4f5f966f87b5d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: XRP Eyes $10.30 ‘Chasm’ Break as Market Caps Rise – Analyst - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZXBrWGlpVy1pZ2hyVFZHRFlvbUhpZTl1YVo4U0VzNDh5aDZJMndNeXhuNWdkUVF0NHVFU1FVX0hrY2o4SE82N3VpZ205WU1ucEdPMzV5WkF5a2dnMGZuZk5Vd3hDNm1BbnZwYUoxZk9MSUFZVjQzbW82SVF5b05jSk1DeDc4alZXX204QmNEWG1PYVF0SWgzUDEyRENyOTk5NGlfck1VY1QwNUJNOHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T20:01:33Z",
+    "hash": "df11b0921eb013f16794b2ef141314488d9a645770bfca0f997fbb083f9109e2",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum Foundation Converts 1,000 ETH to Stablecoins in a $4.46M Cowswap Maneuver - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzVvclBjVDl2U05mT0pfcmtOdXE0bFlIeDQ4Tmo3R3hjZlRQQzc2cE5FUVRKa0ozWkdzOGF5Zmhxa2N2STFoMllUanh6ZGpWTE5kT1V5ZDl0X01xbmRCNkp6M3lJOVdRQTkyLVc0NEwyWGZCOFF2eWplRmNLQ0h5OG80YzNoTVVVeWRHMTlJaEVEa3NvXzhNUE1oXzZuNXk1RGdkWjdwY0Q0UQ?oc=5",
+    "title": "How High Can Ethereum (ETH) Go This ‘Uptober’? ChatGPT Breaks It Down and Names a Cheaper Must-Buy Crypto for 2025 - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPci10ME9fOGxrczNfbHdQOG14MjRqWngyaFFSVWItVmxBTUVqazFaVDlJV0VkV0xucTJCZGRfeU9qemIyN0JhYWwzeV9qaDJreTZxZ3FHMmZUVzRGbFd6SDduRGpMSmMwMlFuTnlncGJod2t3ZGxiOHVveUw3QWxjeHdpZy1yZzZQR21JVkpIbmQ5N0x3ZkctQ01mYnZBRWFvcHhyc3NyOVdxZFRBNk5DeTRMaHpFS3JmcTdvem52ZFpTWUUwMjFNNGtxVWx1T0g4WENEOTlNSQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T19:32:54Z",
-    "hash": "ab4e14956ff54ddb960872aa55e9afe6b0750872b5eae47805108ab8ad85167a",
+    "published_at_utc": "2025-10-04T20:01:00Z",
+    "hash": "b9c086f670a65d7a549534a4dc084f785d660cbee419616d33fc7691d1fb3455",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Ethereum-Based Meme Coin MAGACOIN FINANCE Crosses $15.5M in Presale Funding - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSkJqcUw3NmlVMklUdHFzcF9kQ0ZqQXhJaGN3X3l1MFB2Ul8zTEJmUDZVS1g0M3ZaWFpRV3hyanlJd0ZmT00tR18yM0ZoSkg1RnowbzU0ZFRleUNORk1FNm4yU0QweTVNNEI4Tnl3X0xVR19NM09CVXNCdklsblcwZFlhWlZpZlRzMnVHa2lVVUZMYnh3elRZa2ZXYjIzTVdEYmlaN0ItUzJwdDJQdXNOUVh1VUNLbWJKS0xmM2RUUHRWNkxxSHZtendTSFcyRUc3eVE?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Poised for a Major Breakout, While MAGACOIN FINANCE Targets 55x Surge - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0VDV1lkWXNTVkRRSHoteE5ZeXlZTzBRdkg0TU1iRDIyMEJNR2g4RHM1b0dtbTFWZ0E0aUhSLTBWbzV1dW5aZ0xRVl9jWnY1QnFHdEtFai1ZRmE1cjQ0SlBtRXBpRnR0SG1BNkd0QmRGTXdPaEhZZzhoZmRENmJzTnN0MFk4WFZkbU5WNjQ4bjJVdkNZNTFrNThHZUFwQ0dENUszSkVuMU9PSWlmektFUldqUXhMdnc4X0tGbGVzMV8?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T19:27:55Z",
-    "hash": "2bf24e7ed85dabd94a174348f5970979693d2aae2272ec650890415ccf344499",
+    "published_at_utc": "2025-10-04T20:00:19Z",
+    "hash": "a4ab7e3901a7deab58a854ee4809a885ee940dfd339e4e9ab1793668271eb5e0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Foundation Just Sold 1,000 ETH – Here’s Why - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTW5NSERpNU5ENWZWZnQ5V0R5dzU5YVdLZ1IwRGNGdVpIanJ1R1pQeGhJdXZiaXVfWXd2RXZ6QTlLSzF1amJkRENoTy1BMm5oVnNFYXIwcjlVY1J4bEctMV92dDN0RHNEcXBxek1sWVMxdVVrQkxLczRxNFk1X01wNEJObw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T19:59:00Z",
+    "hash": "da6555529b77f8b8942b85471e507483657253c63ce2fd5107c51014ce3ab3ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price Prediction: Ethereum Mirrors Gold’s Breakout Pattern as Institutional Demand Fuels $15,000 Rally Outlook - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3BXS21nMFhqU1NSV2NpZklOcjVlcHJHYWlZSWRkcGduOElUTkUwZlhYOVdRM0Utd0ZxUXRCNThVT3NXd0F2Tm45WVU4UHZGSXItTlpDNTQ1VllMZ0JTMTFsLVhHRmF1aGxmM2l4aXhWdWVyZ21GdlNnOTdZVXlGSkxHNXRDN3NCOFhHa2xRUHd2VnBKMUF0bjdtNER4N2lTVWg5NE42WnU2ZFFlbVBXeXBfRWZhNldwYkV1TVpoSThyVHg2YWlzbnpRb05wU3EyX3RvT0pJLU9oM090QlNWQVlMQXBtZmlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T19:58:01Z",
+    "hash": "b139721b30ed388aa073317a0940c23fc05f892b77da9b7abe94188a6686dad7",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP’s October Surge: Price Hits $3+ Amid ETF Hype, Whale Moves, and Bold Predictions - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakhpSWlZQ1VlQ0ZCR19weHN3bEJDVnVfbGo0UEN4VXpUMEhMZHBQb1BWQVd5QjQwMjVxckxPbmNqZzFGdWVyUXdtcXA1RU1sVVowcjRlMWJ5cWNRR09lLWthU1lYY21sc09CS1RURGRkbEYtcFNKc0JGcE42WmdhZ0VnNG9KTy1wRkhrOWN5WG1aR0dNZ3gwM3JkdHFZZ2la?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T19:53:43Z",
+    "hash": "e2ab2b774e66d62fe6e59692f9c3463ad3ddba3e90021edf9117ac311fefc396",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction As SEC Expected To Approve First Spot ETF By Oct. 18 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWh4RGw2UExNbk5TWDl6QTMzMkZqWWFSaVhpYXNrWHkyOUh2dVRJbDFrMllUaVgzVldZSGd6cDh3dkhLYTZrRS02VjFnSHVlcUdJcnJLbFJQZllqWW52TEFWem5Ea1JJZ1JpSFAyNkFRUWN6ZVo3cmtfOG55WnJnYnNZOWEtLXMzMWsxdkZWdWhsR05fVjI3dkRBSlY2dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T19:45:34Z",
+    "hash": "0aa48914ba907494770df3cc1c19a690bbc771c77480f133db353b02ef66dcd8",
     "source": "gnews"
   }
 ]
