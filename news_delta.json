@@ -1,52 +1,62 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Should Investors Buy Taiwan Semiconductor Stock Before Earnings? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV05nRTZOMkpkSGc5bk5oRE0zSXhMbjVFZWlpbzRyNFhkZkhLTGE0ZVBMdGZBaUUtNUJpbTBhaWpFZGdZVGlmMXI3bUUxRnl2SFNnbGEyTVlxYm5TenB5Q0dUZ09Rb0ZqWXB5X1o1YXdXWWZpZzQtdmV4ZHpBaTUtUUpxeDkzSWc5N2dV?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia And These AI Plays Lead 5 Stocks Near Buy Points - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckw3RGxERS1BX3dMU0xFTTBHVHhvN0toQjd4SzBGSE5HaWlFODQ1MURGelVMUDBPMXBrQ21aSnYzalFSSFh3Vk9jRnQ4R2FUWjFnUTFmcHdXMUo5LWp3aFlDT1JoOXp6MEVTMkNvVkJ4TGRhWHpyV2lCVGlQMGtlNTBIaXltR2xJNVBfQkg1UlZTQnRES3RUV1VPb3ZVZXpUQ3VlUzhaMFhtSmxTa012SWF5M3ZTendCRF9YNW1VbElpZGE1RFhxNmFLTQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T15:30:09Z",
-    "hash": "ed7c6427d8b6eee7ecae971806d4ce60aa668b83739663b84b74a5afc47c4488",
+    "published_at_utc": "2025-10-04T16:22:44Z",
+    "hash": "079b7f8fbf6e61cf4471d9d7e61bbd9b8a047bd3604e2a9f3bf273e423ac7183",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "HHS sends new proposed drug pricing rule for review (PFE:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUVpOGNlWHBqUTdVcGp2YXJjOThBY1BSYkJaZURpWGhiY2F6NHg1c1Frc0VlY1pCOE5FU0J2aUQtVTZ5bkxOeGlpTGVxSDFFM0hROTFXMkMtb1RVdzdhZk9fTHM1UGxUdmhjVTlPWmZpVU1TU0lKNWhLYXNpTWRxMFdES1RxZGgzbXF5WWtR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T16:15:34Z",
+    "hash": "79d811d71de95af55d7d07cba8a9c8456ddde5675b73ea3b33086e7e44bd0a51",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Price Prediction: Massive Liquidity Inflows Boost Confidence - Is SOL Next to Hit an ATH? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWld0UzkwT0g5YU9HdXg0VEpETnZ1STE5c1JJVHB3SERpZmZkMDV4VzZlX3VhczZXZTgyWVBWSi1aSmNXak9UT0t6LUw0R3dlVDFuaWJaR041Tkt0VWNrRWJ1S21sQmtFNWlpNEZ0eHdteUo1b2VydGYtOTdJaEoxeVhSZDFsLW5VYkR6ZXlMOXhzaWVuVmljZDlLeGUwcjJsQVUybE1DZFRFZjFtZ0lITkQ1WE81M0x4R3dGSy13?oc=5",
+    "title": "Best Crypto Presale to Buy Now: MoonBull Leads With Solana, Polygon - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnprTnVxbzdPOTEtQXBNdVg0YTVKZXBOQzhjYzBMV1JNUUQydG12N3Q2RmZZczVpVWVmMkpibjVZd3JiNUhkNUN3QXpXYWxSUHotc0l1X2V3MEpjVGNLbkpQZUtZaTdYU2xVRGRYUWVQeFRWRG9zbDhWdzlVbllhSUd1OWZhRlJ5dmhmME56WlhPeDRLY0gzSHJqaUNCRWdfcS1WeTJaRzVxSkZCUXZ3X2RRekN5UUxJRXc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T15:29:38Z",
-    "hash": "dcfbcedd57370ecbd0ff06b9f6a068d083bf8517bcb0b08fa692d7a19760e853",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto Market Roars: XRP, Solana, and Ethereum Lead a Bullish Charge Amidst Regulatory Clarity and Institutional Inflows | FinancialContent - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPcHdHTmlVQkwxNlZkMDVlSzVkNlJVM2pRWEVSOEhPSGdpWl9kc0RKb3ZGQzJxSlFQaVROeUI2QXRaMmIwUXdhRVBrUkE3MVdCUHdIVTlMRDIwRGhid1VZYTZzQUZVUzZLaXZNbjF6YlExMVB2aTZVS255eWVLbG9OTDBEQVhyRVplOTZfN0NBZWFzVmQxc1ZvMmtGS0FQLXh6YUVLa2NuRkU4azVJYndPdTBFdWtrdXJEZE1wdktKU2pjR3pianZnOW5PZHBEZGYzNnM3T3B3ZU91OXBBQ3loU1FiM2JuaUtKVlJTZUN1OVBsR0M0bkxDWlZQUVppcmZleDhaT0g3dUI4cFVRVFRWMEpjM1ZJVEZ0NDJsOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-04T15:29:00Z",
-    "hash": "c46023bd578127cdcc481b4e0282eefda1df86ec6fd6f5b584248514c27854b2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Crypto Market Roars: XRP, Solana, and Ethereum Lead a Bullish Charge Amidst Regulatory Clarity and Institutional Inflows - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdUE4M2dSaWl2RmxId2Y5aWFGaDBUSzd5eTF3ckRnVkotRnZJSUhXeW1hMHhkanZnV2Rfb21wV0NteEpqb2RmMUhjZk1XUmdENlNBWHI3QzNxUldvbHBHd3lMaDFmZkZMWFFrcFc3VU5RWjZNcE9hR253UzI0dmV2bVhHdFJVOUVQdDdUOXJoNUNNOXJHdFJjb3RwMGR2WWRJTnVYZm1henVGSlJVOS15Q2UyZE9ucEtSd3pJVUpRdGY2RnNkRUwySTFEeVk4Y2dRbkxfdWZ1RHgwcGc5b0NSeVgwR0JzbU5pM3V2bDFKSTlQM2pzMGpta3VwU29MZGs0eUdacmtWck1lRUpJZEh6aFNQWnE4MHdRTGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-04T15:29:00Z",
-    "hash": "4cd9a69673182050a2f57653487ed9803bab174582613d55dba254fcda612dd3",
+    "published_at_utc": "2025-10-04T16:14:07Z",
+    "hash": "4d77cafae3e5708f75e1c2443e027ed7dac72a52f2d3fdc29affbf63f228a70d",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Crypto Market Roars: XRP, Solana, and Ethereum Lead a Bullish Charge Amidst Regulatory Clarity and Institutional Inflows - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPdUE4M2dSaWl2RmxId2Y5aWFGaDBUSzd5eTF3ckRnVkotRnZJSUhXeW1hMHhkanZnV2Rfb21wV0NteEpqb2RmMUhjZk1XUmdENlNBWHI3QzNxUldvbHBHd3lMaDFmZkZMWFFrcFc3VU5RWjZNcE9hR253UzI0dmV2bVhHdFJVOUVQdDdUOXJoNUNNOXJHdFJjb3RwMGR2WWRJTnVYZm1henVGSlJVOS15Q2UyZE9ucEtSd3pJVUpRdGY2RnNkRUwySTFEeVk4Y2dRbkxfdWZ1RHgwcGc5b0NSeVgwR0JzbU5pM3V2bDFKSTlQM2pzMGpta3VwU29MZGs0eUdacmtWck1lRUpJZEh6aFNQWnE4MHdRTGc?oc=5",
+    "title": "Ethereum and Solana Developments Put Spotlight on Blazpay Presale as the Top Crypto Presale - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeDFUNVk4N0NhOTBTS1IteGJNc1oxR3JhZWE1bXNiS2s1RjNSMWtDSkZGQ05iR1d0bXZkcXBpdGRYSkV3NFRDV0tVcDFHV3ptNGEwcjZITVBvZHJmUklTWm5rVmQ4RjR3V0tpaG9hN0tfbW94VnBfaUh1WGdaMG9MRDdIVmhtUTBQaTFhV3VqRE83aUVQSUtLOWdBM3ZoNW1ENllmSVowYmEyeVdwSmhpRHZBQXJ4MXRVZzBoelNpSHBNSHE4SmJrcS1uRnVva3NNV3BMN3FSVXFNYklqQnh5NGJhMDg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T15:29:00Z",
-    "hash": "4cd9a69673182050a2f57653487ed9803bab174582613d55dba254fcda612dd3",
+    "published_at_utc": "2025-10-04T16:01:55Z",
+    "hash": "cfd0cf2840b14b6d96606395ce723792a0d65366ee34b5a0aeea617454c5708a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia And These AI Plays Lead 5 Stocks Near Buy Points - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQk5RangyWTZqUGoyZHJHV2hXR0tmejJOQjJKY1NrS1VaQzhLSG84V05INDVjMG5DYlJEdW4zUUs0UlRSRWFBY0ltd1JlT1J3bUV4Mmc1QmNZNVdkTkdyMHZ5UWt5RURjNFdpNkYwQnNxRTBZY1Jxb2xuUnBiVktzNjlXTDhLTHFCcGxXUXFKMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T15:59:00Z",
+    "hash": "121621bc23e3421f2b1a3c6555d7d3e4593a4de6f4d766f53efb3933c3f69c1f",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Buy, Sell or Hold: Nvidia Stock At $190 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHbDhpSERZSEF4SkVLOVlxY2NNQ0FPYVJWaDU0d2M2UEdESGhiSzh0bnVQQlJxVXUxelVmZl8xU3NRRE1BYW9LV3hHRGpRaVRZaHdLTlpaZkcxN2ZkcElXaDBmdWtMUGlWbmZNdWxEVFlENXdZQlJMdkVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T15:54:47Z",
+    "hash": "47615bdb5c7a05051cd9b2fe9b0305e2dddd7fe7b089b7d6c1e03a5c4156ce59",
     "source": "gnews"
   }
 ]
