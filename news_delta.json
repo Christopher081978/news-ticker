@@ -1,72 +1,12 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "BlockchainFX, Solana, and Avalanche Price Predictions: Best Crypto to Invest in for 100x Gains - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0VsTkVZOFcwRFdpb0syMWlKclgwZ2J5SnRYN3NwOEhESjJpUWlxd0drRno1a1kxZ3NSUFZRakZ6RzdqdktmVE1oZ0hoelB6XzBzSFBuTEh1Q05TTE9VeE5yemdVZTBzT1JfanQ5VVctWGhxY04weUNWODdBNWU0UEd6TzNQNks4UmNhVllCbjAwUkZBZDJqWnlDVTI2VmkyTDR4WFdHc3Qzb0U2Y2JhcFBHR25PM0k?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Analyst on NVIDIA (NVDA): ‘Eventually, We Will Hit a Wall’ - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0VLd1dCdl83MTFoeklOUUxhN3VLTzgxVlZ4QVBGTGtWZlo0V2hxZklKaVNjalU0U1UyNWlQSGxfZUJzR0M3NDRoOWN1QnNMZE9GUEhyU0FlNnZqOE9QSVhVRlBaY09Jak5jMXpTZTBMaVJEMHl3VF9MOTBtYUItUVlGcUk2SEd4dUhyaHpPZG9obVl6V1gwYTd6c1FMM2RyNzM3akRvZzlTSFpCVlQtaFRXOURJaGFkLW1SNWJoMkNEYTczVUNDeGZB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-05T14:12:45Z",
-    "hash": "d44fa754e0b3b01915cfcbbfbde1a31b336287ecb08d3711256bb86b1f1391ca",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News: Could Ripple Price Reach $50 Before 2028? - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEeV9IVFd4Vm1WMlhtb05wTEctNU1wS3pnbjNGd2xidk56WUZEMW9PYUNnbnhNZFpFbjVPakdnajJZMGg3YlBVYV9iajlwWjlfdDlrY2ZkQ2gwLUVpSEZCVV83YzVEcG5JVFRUWDk3NHdnbVVLbFlKSmRia3JpUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-05T14:03:16Z",
-    "hash": "3335ed42f6a6a8188f2a4a5bf4a7dc88dd088001ff27a4c1a04016549e89670e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Private Crypto Payments are Maturing: From Privacy Coins to B2B Applications - CCN.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEVIcm1tUXozcUhvdWtmUklyWFFTY0oxWXBSRlE5X2xlZWpwbnZNU1BZNy1iMGFxaW9FTVZKS0Nyb1dieGVCLWd4T3BCOFBDcEVtcFNkZXllWEZyMzZJajdxajJiQURYQnpncHhjaExlTkZjY253dkducnpUaVJMcENhS2Y?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-05T14:02:15Z",
-    "hash": "8bf2247740856b5c8afc7cb5ea9844a87efe3d90fe17ad475b902e9de06b4d4b",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "BP p.l.c. (NYSE:BP) Sees Large Decline in Short Interest - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUVNQd29LTGVuR0t4MkZiakpwdmUzUkdpbFU3RkFzWHdibEE2YW5tYWVpamFFUEhvazgxcVJpZzI2Z0cyMF92c0JTTjF6djRtNFhkWU1UQkRaZkpXd0lZTnJEVTNiRjk1Y1FRTzIteWwyckhjQmRrWUNlN2ZfaWtTdy01YWZvRk5hY3pVaVhEOGVfNFZCc04xMG9TeEZQNHkzY2pSNTFPUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-05T14:01:41Z",
-    "hash": "556e0ab55c158589a2729484c8d9950d50bcd297651fe9c03f997e4145400ac8",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin Targets $250K Despite Derivatives Surge: Best Altcoins to Buy Now Include Solana and XRP - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdjYxby1Na3ZaM251V0JvaVE5SDZpRmNpRXhuVWZ2S3ZLQ0F0eVBTLTljOUQ0T2habUVVNjduWERGamxTb1hYUjMyR0doQWpyd2JTSVU3MGpTWExxcVczV2lVelhwZW5IWkpWMDVQS3V0aG5LMW94NWw1TGV2RUdZSTBjb0ZHLWJTSkQ5NlJLc1NCVGc5U29HUURtdEs1WTZxLUdzVzc1Q2JTMGFfMVRyODNPYml2TEFiSDVV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-05T14:00:56Z",
-    "hash": "a5f62b2e6d25338cefd2d2457a2e20de5304a22ad5416c2d7f858794762d7983",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP eyes powerful rally toward $4.80 after major breakout - Rolling Out",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OTjZ1QUpVRmpicnhPTl9nYk52QUpTbTVZeDNTSUhPdGVsV1NCeXd0LTg5SFdmSDBPZUFWcVVWckd0YnVOQmFzSy04SFhFOXdXdTQ2RU5UTW5ZN0VSNGl1UEwzUVEyQi1HeTZaanhoRlV2OTlDV3RVYzkxS2k2UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-05T13:51:55Z",
-    "hash": "f1adcf943052f5e85402b7b7cb5507734c1f552a6775ec0112bb0e829db78a9a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "ChatGPT Predicts XRP Price To Hit $15, Cardano $4.50 and This Sub $50M Meme To Flip SHIB - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTV9NNHJlMHVZTURSTThwZDY3SEVTU2JBbktQNFY0NHVFeXBBYVdFODVzNTVaVmVxZ0J1NjI0bHdOaEV5a0N2M1ozQnc1b1ZheUZ4eFRaTHIwR243dGR6WVg1R1lHNm9MZ2lUb2phVnBNZ3BUcWtQVm1DWEROMEZhRW9YUnUzZ0tkZlV6NWtjWm1jUjlOalo5UGVuYzVJb3M?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-05T13:46:57Z",
-    "hash": "44e77bd8ac3c8b8f9291dffe30fe5b788bcbed808d0a61fee8f9db7803b36dbb",
+    "published_at_utc": "2025-10-05T14:36:44Z",
+    "hash": "9538a2da14f1ce0a32e0f1402323a2b075d9ba953789634d33b0ff7bc9ead31b",
     "source": "gnews"
   }
 ]
