@@ -1,22 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Michael Saylor’s Bitcoin Poll Points to BTC Ending Year Above $150K - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0NYU3lHY0lVYkxmd3dTejVHc0VENEFCUmNKUW5HbmE1S0duN2p6aWEyLUJaS2g2LXVBNzJGMmlYQVB4Q2NUSUlmQzdMV3g3c2c2MFBVeG4wS3d0dHVseGVDWW9aNFhCYXZqWTlaZGU5NmE3NVJmU0dTZi1iYjB6S2RuWWhRLTNKVVJjekJadk1aNVdtaFE?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitwise exec predicts Solana will become Wall Street’s preferred stablecoin network - Cointelegraph",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VSk5BOXBRYUJpcFZSWHd4bF9fNWh3TmdDQ21ISHNwMHR1NE5qTE9fQXZ1T290VUNvdHI1Q3FySUcyMF9haW5yNGpOal9idmtuOUVuX3FlQ2JWMWgydTE1YTdEWDhDVHZCbFFtMlZWME1ydkd6eFQyRWljY1k?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T23:32:32Z",
-    "hash": "8bd4728b7b9e4bd74773b1d30db63e64f30689cbd35a042ead2f3709490f5913",
+    "published_at_utc": "2025-10-05T01:56:36Z",
+    "hash": "06dee4d6f6ef8fe42a0cf057590d2b040877613aacf961a99640b7eaf7ea2e23",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana and Internet Computer Make Headlines, While Blazpay Leads as the Best Pre-Sale Crypto - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjFDRUJ1YWFfaFdNdmJMcVplVHFVeGNSQVpFV2tRYlU0bXRHUWlrUXlPQWt0aHZjd0hJcVlYX2VyTFRON2hyd0N1Y0xmcW5pX3BvbmVQY2s4RGFPT3VtV1BOVjg4YkdxbXhKSGxFNVlHbm4zN3pIQUw5emRnWVo5TFdoN0VzZV83RjNHNTdfTTl3QUFEbFNaMk9GdkY3WDJjT0dpR0l5RGNVSjlWV2RVSk54TUx6VHg0dmt1Zl9Sdk5aUQ?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Japan’s Gumi Raises Funds to Acquire XRP and Expand Blockchain Strategy - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEdTN2Y4Q2FRbDlrOHh2VllnOS0wLUJiaVh2ZVk2eXByd1dwZ2cxekFvR1pXbVZsNGtFS0pPVHpGRjhLTEtQMFlPem1wd2xRek5Wb3lsOFlXLUdrdk8tbEdUSnRtalRfR3NUQlM0ckRVWHdwUFl2bTlscEtJTzQ0S3kzVGRudUdLdEEtWWM4WEVBWVJ0Mm5WSGR4SHE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-04T23:30:00Z",
-    "hash": "782ca51672baa08bbcf376ffb16bcbe4ec4f5a56408a7dcd76ea6886324c1b69",
+    "published_at_utc": "2025-10-05T01:36:21Z",
+    "hash": "0b8a7e5823a96e016629ba688bc58d38470c84a003174b76d10138612de09a86",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Weekly Market Wrap: Intel, Nvidia and Electronic Arts made major news - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV1pGVjVfU29mX3FfNXRkTDRvRldPclh2YVJweE90Nl9kSTJHYW1VUkdadVhjV1V0X0sxOUNjRktpd2pSLU1JZFVQS1RZY0lwQVR6NXJCUno5YU5DVmdZeE9UTXdmTXNHY0NyTGRSNXdaWFJmLXg4dG1YcFRkcERvSjdoUF9HYXptaDdoTmhlWGpZZFlaaG1YWWFkRzJHR0Q1WHFxRFJkRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-05T00:52:44Z",
+    "hash": "98da2b0b63ae0a9ee6b7e33a05739e2ff015ea0990a1a7d0fec45f49a7881432",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "Panasonic",
+    "title": "Can Panasonic Carbon India Co. Limited Outperform Index Funds Over the Next 5 Years - Fibonacci Extensions & High Return Trading Plans - earlytimes.in",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN2djVlpTWWFjUVdmMHJIclEtaWNyZFFqcHYtM2p6QTNneUFlbEZ0Y0lMcXJhSmMzMjJZZEJaVEVmeUZvTXRCSGx3STQ3dDRjdGktbjJyTFB6Q250VEVFWDJUNTVHTjI0LWY0V0VJMFowR09CT3F6cG9mdW9UMlVMZXpYdGNLcENpQXJDa0s0dk8xTF84N2tMVndmc3FSSTJTN3ZEYWFvNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-04T23:43:54Z",
+    "hash": "1a6b66d0f35f3b7ed05d7e9242ce2e59b9a2a8b6fc03b654c26738a6188e0e39",
     "source": "gnews"
   }
 ]
