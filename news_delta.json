@@ -1,242 +1,32 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "As OpenAI Diversifies Beyond Nvidia, AMD Stock May Have Just Gained a Massive Catalyst - MSN",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTVFta09sZmwyWFlpLUgtc1Zfb21UYWw5djBxZFJjQ2hNSHF6ZkQ4c0hWMDdhRXlyMVNtcVBDT3pDb0lFZUZzLUpsMllSSWtxWWNEbzZIRmlnbFJWWTlJQWVEeTVHMFJCT2ZhQmZCNWpkUzExNEJtOHI3RlpmLUZMY1B0aDlKdGY3Tm1pWXZkSFNBUmxJbUFvaWhNM2V0WkZkanBSeERxRkZTVGRjb01XajdsMnU5SjdEQ3g3RWRwSVBrYWhOWFNra3FOVDJfRVBtWk9ZZlJOLXdXVElNcEk0Tm5LTGZNZGlTSDZ3T0k1dVRxbXhRT3ZwTlRBb0NlUDE4TWJvdA?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "What are the major hurdles XRP faces in reaching its anticipated value? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04TzRFV0ZwR3lpdXlTQWVTdVc3UzJra05EaGVrYkFSYkFUdGtvbUQ1R2dabksweWM3Q3BNRjVQdmR4cXdweUJYdW1uNjRqbTBxR25CTnFxck42RmNTVjRObU9jRHNXMmh6dnRJMFdzcVNRQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-06T16:31:16Z",
-    "hash": "09ab6f069c70b305d576b4ff7a814bcd4a007a5396f93cd4c3722ed6c9fc3363",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase pursues OCC trust charter - Banking Dive",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT2RGRWVEQ0lnbGJZc000aDE0TkY2R2VkdHB6UUtPaHdNYTlWTHlFcE9NT2xBQUdLc0ZDY20ybnpPSW9EdE43NUJUbVgxOFVIQ3l2bUZhcDJ3RkRla3R5a0VmX0pkOWxMT3Y2VmNHMjd6TWlpRW1nSXdUbWEtWUljTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:30:19Z",
-    "hash": "602b06a589b2e89b559c08778eb728262803707ea2f1576564689451a7b8563d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk: CagriSema Sets Potential Obesity Drug Development Comeback (NVO) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeG5FbTRlUGxhRnA3b3ZaLThQOGtWRk9OeFpkM3RCN3VLUmZqb2I0SGNEbno4RmUwMzZwR09UWlRwNHN4ZkI4UWlJXzJPbkpuOEpHcXlEWm8tenY2Z1B4enlsSUdoNHpoQndyNWRRWnFVSGoxTmxsYWtLQVJkbklmWGxRN2pfVFEwSUxxckFxcS1MQnZZZHZSMEhzbGxRdlNwS3FTeWJoZXJCcXZ0b1hzY1ln?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:26:50Z",
-    "hash": "fb523ddf35b49259a1006d81bc3c70eed2b74067a98f19df48235a61729fc570",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Is BNB Coin Heading to $1,500? Binance’s Meme Empire Rises - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYUNTblpLRlFnWFo4ZnRSbFhfdFRPSTNwUW93aG5fNFVkTU9RLXpGbHh1TEx2OWp5bnNoa0c5UEtnLW9LVnA4VjBDTjhsY2o5VTM5YlNvY1lJcTNXN3dxdy1wYVpSZ016T3Jvc1l4YnhDalpFZUVkTTJKcnlzOWtMMkZKSW9Ta25Yem44ZGRxNVpEaUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:24:27Z",
-    "hash": "ed3b14eeac7aca59a689918516842ad429aa7ca9efe0e98bd50162e45a2fc09a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "This Stock Has Quadrupled Nvidia’s 1,000% 3-Year Return — And It Just Joined the S&P 500 - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORC1PUm1qV2FNSnlBZ2Vrdm5hMlJpSkhtRkowWDBNT0FFZWV2MWZGZzJpbjNWOW1CcHJqTlUzanpQbjRlSng2c2tRck9PQVpfOElMTm10dDlEMVpiUGNiMHYxakp0bDU4d0pyUFpzWno5ZWFqTGlfVnQwZXFHY3QzOG9CUFBrOEY5blA1Mi1lZkoyRjlXclBPZ3ZkeFRCNXR0T1RiaXF5bXZINXZGRGFiWE9CaFlIR3FPbVExX1NxQVBhY2FkRncxc1ZjMW9NeUNCTmhKNzJBblhwdHhXeDR2NGRQX21SVEhtUFdEVkZFVW9ySEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:21:14Z",
-    "hash": "58944394aac934cbd2020c80425bdbdc90e7cb522e6eb55039947f1257e23826",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia stock down around 1.5% after AMD-OpenAI deal: buy, sell or hold? - Invezz",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVpVZDFVMks4VUVLeFVmZVctNFh3MHNocXhTVXVJS3dyX0h5ZTdBRzNzc1BqTFp1NDNuSnF1dGt1b2RmLUl2LVJndHhNaW9NWXVSTW9kcThXUlMtZk1rdk1sb1B4alB2a0dGbTdjVm5RQV9MeGFJb0g4dmJuSTZLbjI5YndVQUoxNnZQeUVld21TdUpYTTZWZ3NoS1llanlCVFBoRElR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:20:39Z",
-    "hash": "44bfebd82ea23ab8254de513d5863892d1746ae1483d86c65e8413da6aa6f4c0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Surge and Bitcoin ETF Buzz Align as MAGACOIN FINANCE Presale Crosses $15.5M - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUml3cDVXYi1mdFF6Ni1hcXAwSVFxalQzRXRVLVNiNEVqUGhaM090NkNOb3Q3UHdLTWMtOGg5Sk5HSGY3NWlETld6Q3dXVThDVGNpempPLWYwMWwxZ0F6b3B6ZUgxY3cwWFRsVXUyNXZUYXlQN1N1alZwZ3ZGZ3FoZFZ0d3ZfQktRZkpFWEY3RnR0eGN6R0JJNUNwUTd1LUR0bjZtT0VPREw4YURPUEczN0c2Q3hzQmdrZ2sweXR0djFKLXlOMkRXdVgydno3bnhlVnVpTnlicV85UkJqY2hINWwzVmNkRGVPb0HSAe8BQVVfeXFMUDJZOG5rNzRTVFZBWVFrdGN4Y2xJUlBxVGNlaVJTZWd6Y1RNYzhyLXhmMXJHbVNTaHpKZnlKVHFxRUFibHRDM2F3ODNXa2Z3NFd4UVFxVmtMSGI5bkhXa1ptOGFNQ2Nod0RyZ05paVBudV9SNWdyQ2NBNFhDdTM1WGlreFVRWEN3a2Rhd0tuZU9nVnlrSnhtVlpkQjY5VXNEOGVXSGxMX0NpNXpPNlFlUmNXb3NHdkx6ZGVFNy1IRlZWRUtxc2hDY1dwaG5Rd05iYXpLeGxaa004Wm9JanJzbjAxTFowSzVmR0FUU2J5bGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:20:31Z",
-    "hash": "ce0e084f05faa324a87bdc207e300a04d6e2e3a94f25d3856ec169c06b10622a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "AMD stock soars after striking a landmark deal with OpenAI — part of Sam Altman’s bid to loosen Nvidia’s grip on AI - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0MtUWNvSUlkMC1yX01uT0hVQWpQak9feG91dkdVZFE1eFIwVE1ocEhpVGJpNXJESXJ1MlJiT0pwNU5IOURranZGaTBkRzgwNlVoOTV6dnY0bkwzZHY0bUVGbzg5c2FZMjY1akptTUNESVRFbUVpRmtvMFNRMlRaMm5NUkdTbTB3dldfQXl0X0lNSjBwaktGWDhCU0JURFNEY00tdEZvdTJmbkVSSXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:20:00Z",
-    "hash": "8993462fc4e0f8fac699f84ec53382239cc25a6f70f1666af7bbee1de68e42ae",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "OpenAI hands AMD a big win in AI chip race. What does it mean for Nvidia? - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeGhjNHk3Y2hEN29wX0h0MUdmdzh3TlJrTW5IdzR1Qkt5bEdvcndEVHd2RWMzLWVudmdITWF6cF9LakJEUXlxNmI2LVM3a1p4U3VydzU2bVBQRUcxYWc3c0dEUDhMM1ZkemhZc0g5b0dDbXJKcEt5QXpRU3VLSmZSUWI5SzZlWDRYbGZ2djVnUXlTSzZFb3R6QTZWM0F6NDhSLUp3Yjlwenh6N2ti?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:18:32Z",
-    "hash": "9781bf2bd381c7a991d3b299cd36043bd7005eaef8bd4875224a0fd721ff2516",
-    "source": "gnews"
-  },
-  {
-    "asset": "Air Liquide",
-    "query": "Air Liquide",
-    "title": "Did Madrid's Digital Healthcare Contract Just Shift Air Liquide's (ENXTPA:AI) Investment Narrative? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUt3R2RZYzBBWFBmb3U2OHBOSVA4WUxMSzlDU0ZPXzhFTXdhLUVGTTVQVHhWUUpSdDM2NGY1VTAxNGM3NXNzUlhaUGJHbmNQWnY3NlNjbXd6dlA3M3k2SjlhbmZXZEZub2VwNUpsUVZHeUdFanBRNzZhME5rZlh3a05qd0dlUVJxTlBYdWFrZGVOVTdHaU1uOWpobG9pWGRHZzEwSllqck05XzdXX0dzVTNHaDJDRHFtVGNhMWZKbFFramgtZlh6NklCRHE3bEHSAdQBQVVfeXFMTjUweEtwWjg4M05EN1ZlTTdJSWFmbk94bDYyc05vQTBBNjF5N0ZGaWd5ZnNHc3lZRmhQSGtJUU9mdlk5b0NEcWV5WGFVb2RBZ3BSaUZRSUxLcWFZdlJZQkpxbFI4eWZTRWNFYWItQ0RSUDVvVGlZSkYzbE9qd1c1NUtmV0lHdXJQVzdJampEZ3JGVG1GS2o3MkpDVDBDdXdXdHI2Q1JsM2lqMkgxTERWU0Rub0VQNjIxbGFHUHI1dS1ueHVFQ0ZtWmViTmpuanpGb21pWGQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:13:39Z",
-    "hash": "f73bb9f394668644421fab304cf4c66673dd79dc5b9275d5cf4d9c6e3cb31696",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Why Mutuum Finance is the Crypto to Buy as Bitcoin BTC Nears All-Time High by 1.74% - MSN",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNjhHd3ZTZ3JYSEFPWll4MGNfdEhaYjc2R1lEOTQ2V1BWdTlULURoaUprZ3RxWTBTX3RrMzdGYktJV3dZbnU3WWdHcVJzRjEwYW55SUJIMDBIOE1SajVKaFkxSDE1cmt0X1JNOHBlbk5jcTE1aDZYeHJsWUJHMTFvT3Q1UnBVc2s3UmFxX0pnVEx4STNiRWYwRl85S3BtblBWaXNMVkF6c2N3ZjRWZW9mNy1Sc1ktMVNrc25fdThSbmduSUg0Q3J1VUhmQU5TZjE1c0FjMFp3X3l2LXFqUUZMMjRYbnQwN28xWnJDZUFoRkpJWXBnbFZoRV9SU0FiYmdh?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:07:42Z",
-    "hash": "5fde2a64cb6a31b47f826e7e3bae8d55ddfc75fc90330dcf36d43b6c164f3368",
+    "published_at_utc": "2025-10-06T16:41:36Z",
+    "hash": "1dc841b1fe3f6004c15529ea870d9d5ca5ffbdb4b12071d4c3c21f436592230e",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Tundra Presale: Dual-Chain Technology Promises AtomOne-Level Disruption in Crypto Space - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2t3OUR5aG5lR2JTbC1jbjVYb1NVS0x1bDZraXBQQzV6RGY2Ykt3VlhKWEpuWDhfVU5GT3MwRUI1SUJiTThaMXFQT1BjRmN6c0dVX3BkQ1FIMGFfaFJpNnpwRTB3T0tnSDM2YktZbG5tN3JqcTc4YUhFSUxsQ0RrNzd3cHNsZGRtcHpFOGcxV0VaWXBPMXNtbXdmSDZNNEhrV1R2Rm5feXVfcDd4cHpVNWRKRXFMTktlU0lnd0Rn?oc=5",
+    "title": "Unveiling the Future of XRP - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlRjeWxBQnRKMUNGVXpScEpXT3ZVaHhvZ3BTOFZFOElmVGJ4MlJucTBveXcxWEsyNF9RR3BTSThzSHNkZWhGUlp6bnRBM0JQNmZMYlB3WTFBX0FGSkRFSk9UZTNSYVRkMFhKSkN6RDVROFoxNWhOR1BhcHE0WVBqaA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-06T16:04:00Z",
-    "hash": "1ea86d4bf05c245e4bc21149a2379718f4231fb6ab8cb9c91446ffbb17f223f3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood Suffers Major Outage as Galaxy Digital Launches Competing Trading Platform GalaxyOne - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUk8waEJsQktBTkp2aTlSOXBfOVUyOEhKanlyc1hCcU9RNEpxWFotRmI2STFDaFA5UjA5YjhCd1RUOG8xbjVIaXNQT0Y3STVXVnBpa1llRzFteGhlV3FCVTFnSlZYa2VKcGRrTDFCX3ZUT09ZZmlLRjZ6LXFibUFhbGk2anFjSWJqdWczNTdQcVpmTmxTdW50U1M5S2ZtWHlrTVFGM2tGcUdlSU12a3I4LTVBUlIzYVhsMEtpT2ItTzBtakxabzFHb0tGT0NFTnR3OHViRUhsTXlSM2plTTB4LTVkSS1tSkVEQ09uSTkxQWJIaWxRbkJobTRIZTlZUTJxN3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:02:32Z",
-    "hash": "7b20c72de000cce9d4ad40bcfb8f361c0dea83e4b964223e43c648463cc58dfb",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Reports Highlight MAGACOIN FINANCE as Project Confirms $15.5 Million Raised in Presale Funding - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOay1UcFo3eEstQnRyVFZzSmZodk1qTUNkNjZwdVFyUnFiYXRQM0lmaS1YbnZFV2VFREo3Um1PbHBONldyVi1kYlJ4SVdCRHVYTVJCOVJETHY5VHF3eXpRcWlxODk1UzNtZkVnYW5qNzFqTmlNTmJoSGpBMGJoMG1HV0hXb3otaFJqRmN3S3RqeGNpRFBFM05RYzhVOC15T3VPR0pkMF9RemZNUXp5dUpHVVlHT0lOU1NsbkpYaVZYVjJBbmNCZjgzYzA3LWVFWUluVnRkMkU0Wk8wTENuMm9TWXZud18yRDRuaXlwZ0hobmNLMDJoMExwcEJzYkxXZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T16:02:08Z",
-    "hash": "7d542cc50890dd740f6bba90113f2e625170add7dc9d8ec66a782b910926483d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Whales Are Buying These Solana Meme Coins | Research - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5La0RxTUp5cHJibldBRWtjRW9xclFwbHFhRVAyTHZRTFVyd2JoZ2UxeUJYRHd3bk5HT3YtcHhhRE1Eczg3SzlZMi01WW4tNERaaWhxaUlIWGlKcFAzN2JZeEpDNG9WRFkwdmJ5Nm5lbFVnbnFzaWQ4anJ6U1Exdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:59:41Z",
-    "hash": "1bd5a59fa82431aaa6081c406465e758dc8b2566c147bfb6cfde0f7884f4aac1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Whales Are Buying These Solana Meme Coins | Research - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5La0RxTUp5cHJibldBRWtjRW9xclFwbHFhRVAyTHZRTFVyd2JoZ2UxeUJYRHd3bk5HT3YtcHhhRE1Eczg3SzlZMi01WW4tNERaaWhxaUlIWGlKcFAzN2JZeEpDNG9WRFkwdmJ5Nm5lbFVnbnFzaWQ4anJ6U1Exdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:59:41Z",
-    "hash": "1bd5a59fa82431aaa6081c406465e758dc8b2566c147bfb6cfde0f7884f4aac1",
+    "published_at_utc": "2025-10-06T16:36:36Z",
+    "hash": "33f60eaae9ab64f7775f2c909b9a6fcf6a04e4aa6f8faefa1951f01623e4caf4",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "HOOD",
-    "title": "Outage Frustrates Robinhood Traders, HOOD Dips While Galaxy Gains - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMGNFUDhBSVFGZ1lQV2k5RmFBNDBaT1pkXzEwRGp0cmYwOEhqTW5ORk5GOEJFdmVlM2d4N1g1WktqaXVodXR6RHNELUlWSG1Pdmh0MFB2NUU1TGkxanZLZ1o5b25SNkJSSE91N1BoMnJkTTdaZFBfODEtb2xkRXVYS1VqMGdMR0xUOWVsMzFQOGl0dGs?oc=5",
+    "title": "JJBEAU HOOD - Sweatshirt - sky captain - The San Joaquin Valley Sun",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0VpaTJMOUZpellLcHQyMl9hWjh6dmgwc1o3TUp1RzdraXhVSGhzZ1dYaEp0cWpOOUdsTHgzRFduYzR2dG5TcnFiSGhYTFR0ME1URDBUT29LR1M0NUFPU2NKVXNtU3oxY1I4QXd6TGhteTJCZlhvVFR1R1kxb0FLaDZB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-06T15:57:28Z",
-    "hash": "35398c9cb7ead1b036f0757f21e52cb76b7e4882a4842381416806254d024da0",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "As OpenAI Diversifies Beyond Nvidia, AMD Stock May Have Just Gained a Massive Catalyst - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSGZwLWp6dTRUZjBNS1RpRmNhYTVNZjV1QWZaS01hNU5UcDNtZmJ6M1p6a2hHMkhTZHk5cEhPOW1pazFNdFBzVFU0T1NzbF9kTEtZcFAxS0lQUlBwcHJDNU0yNi1Za2tQOXNmRExIMVEtRFJGRndCZVpSRllTbmdRb1ZQMEljcGo3eldyME85NExBX19YYkc0aUhNRWl5M09SSlFJVlJYbVlreG5qS2hZMXJGcHZ0bHRnVzAzY0hwYV9KejB4cTZ3MWtBaFJDTE1DTXJPd3ozTE81dzJCZjRVQ2V2SjY0X3BvRGlFdFFld0dYQmZpSVA4X0FOMXIzMlVBS2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:55:42Z",
-    "hash": "db1f410a05458c99143b57b43436d020fe379f391934f7de6bb1172f71cbba21",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "As OpenAI Diversifies Beyond Nvidia, AMD Stock May Have Just Gained a Massive Catalyst - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0FvbzdtNm9Tb0hJOF9RdVpib0Fha0JuNGpzVTZfckJIU1BnY2t1UkZLeS1CWXd0NExjbU1IYlJITVdOazhGZzQzUXU0bmpWY3I5OWM2Q1VHbXRpZ0lBX2NsM1puc2lFV1hlZWJ4Q0JvQm4wWmtaU0Y1LWdEV3J1Sjlfemhza0NleTlRT2xMZXBqbFc3anJj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:55:07Z",
-    "hash": "b7412f0d7d823f4e46199331d916d8a016dc040504ef53ad43f2e3d131b1551c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: MACD Indicator Flips Bullish as ETH Eyes $5,000 – Explosive Move Is Coming - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTU52c2prd1BHNHdpV1o4VFJjTEIwRDEzUllYdkltejN3S0xtSkJrbkRSNDUxQ0ZiWnVZQWhfMTNBVlJNTDRwMm4yYTlEYW84S3ZQNDliR3ptX2NZdUF6cUJHaWlsMFpIQ3JhajRZelJMTWliY0ZaUHVuMWMtMlcwbUFaeFpQY1FFLWJLeDZWSThJUzNBZWFfQ1lTcFp6UdIBowFBVV95cUxOU2VGSG1Vc1RXNEhWVnhmMUplRUtlZGRjWlFfN0pjSVliNTRSUzljcGZPaEJXb3l6UUp2Smh1MDlOMWMtLXA1QldsdnQ5N3RKVkt0OGpTcE54RnJ4YnhTRmF2Q2RFUWVfMU9wVEwzZUJvUXR6NU92MHVjcUtPMmdPTl94N3JKRmFFVkVGNTVSMENDRktCbDdsTmo1ZFppOFFJTHZF?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:54:28Z",
-    "hash": "f54f301de4e81163564847778f9d9aee56f1501b44d8dcfb52afc65bcab2426b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "ChatGPT Predicts Price of Bitcoin, XRP, Ethereum by End of Uptober - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0psTWdYdUE3X0R1S0pHQnp6TC02T3FoNGhjeU1MMDFXdGVrUUl4TERiSjAwRHA4WUYwWFlKYlgyV0lFUGZoWVZFdE5BNEdZXzRQWUpITlc0NnF1c2tnandneG5RTnpPX3Ayd0JIUjZIbkFoOFk0TkpIejlnTWlYRnRudEN1cW0tV3E4LWVJMk11TDNyQXJQeC1Pbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:50:00Z",
-    "hash": "1dbeb3d19496b992810d60610a848741d52894e94f83e4381a27f72457c27461",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ChatGPT Predicts Price of Bitcoin, XRP, Ethereum by End of Uptober - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0psTWdYdUE3X0R1S0pHQnp6TC02T3FoNGhjeU1MMDFXdGVrUUl4TERiSjAwRHA4WUYwWFlKYlgyV0lFUGZoWVZFdE5BNEdZXzRQWUpITlc0NnF1c2tnandneG5RTnpPX3Ayd0JIUjZIbkFoOFk0TkpIejlnTWlYRnRudEN1cW0tV3E4LWVJMk11TDNyQXJQeC1Pbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:50:00Z",
-    "hash": "1dbeb3d19496b992810d60610a848741d52894e94f83e4381a27f72457c27461",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's stock falls and recovers after rival AMD scores a big deal with OpenAI - PhoneArena",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96V1RsTnR1R2RUa20zZmF0MlJFTVM1VVJVNXlDWUgxNmlwbDZXbHc0bi1TNVJub0s4a2JmN0FzMGdNMEoza0N0eHFlcHdqVl9EZUZvdFE2SUphMko3N0R5eU00dXJjM1J1MVhnblliQTRtWkVKM0hIYTVwamNTdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:49:11Z",
-    "hash": "f8742729b1ff1fdb304292bca31582328575ebdb8a486bb4dcccbf0fc9384c83",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "ALT5 Sigma holds $1.5B in WLFI tokens as Robinhood lists cryptocurrency - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcnhhbUo1LVVxYXE1UFFlYXdsMzJYNnA3cTBRcDRDaWNWSVViXzNkNDA0ZXVZVTFHX1JGa3V6UU1IU09mOVJILXVQOUVKYzNEX1JPOVd0cU5JSl9SUXpJSE1pUzNvbWwzcUs2QjZ1bUtTeFdlcnZBWjdsTzBkMzlPcnVuRWk1alNJUHdJUUw4M0s2X01vQTJMai1rNmtfRTZiblBTUWRZLUFuaVZ3VFppNTZ3YnJwa2g4TmM1NWVWSnZmNDZKTmxZdGRaNy1JUTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-06T15:47:55Z",
-    "hash": "8f8ea48fad04a3546b7703002b361d4e4959489fff2ac157bbadce46359153d0",
+    "published_at_utc": "2025-10-06T16:36:15Z",
+    "hash": "15bd0c1522e518525764c6705e5407235d19e31808e5e225cfdf1e7bc005bb0a",
     "source": "gnews"
   }
 ]
