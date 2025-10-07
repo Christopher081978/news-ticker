@@ -1,82 +1,22 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Forward Industries Launches Solana Validator on DoubleZero - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGJ6VkcwRkVRZmpIQTBXX0xHRXJCNUJTTTRYc2pmUDhmWDFnakhzNS0yZEJoRTJ2YWdxVmJVZ3oza0twSlU2RzFpc1cwSVNvdkUzWU5kdkpQMGZTYWdqLVFld2hfRnBfZEM3UGNub2pUVzEzelFOX0dfcEpSNFp2RHNBTS1kb1Jha1lTQ1FjOHZnM3VXX0txblFWQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T20:18:47Z",
-    "hash": "485dc05874f61bdcd4755dcc935af5819cf849dd85b0a2616f765b5bf1328d57",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "BNB’s Gravity-Defying Rally Pushes It Past XRP and USDT—Will It Stick the Landing? - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUhBMGhjY1Rhb2tVMjBQWXJwd0h6ODBzLXBRalB6YjRwbTVYRmJNUlluUFhudFM5bVN4TWZlOGc3UEgzNU5SWHpaMUhBNlpnTTdhbVY5OU9aZmZHa1lPSHVMRVZGM09sM05xdlM1enZUZXdRaEE2RWRmNmphY1N1Q0djWHF4Qmt6QWZhOEE1RlBlbWxqUGo3TTdMOTFJdHFKSHNNc2lzemlXdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T20:07:34Z",
-    "hash": "1aafc05cdef4357df2fd320ab0b9dc6e1861c96f043272af7bf98048f3732da0",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "MSTR Rebounds Sharply Amid Bitcoin Surge, Dips Below $330 As BTC Slips - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX1hjeHdUQVZobGoxMzN4alVXd0xUZnBuLVB4M0tPXzAxZzdyRGZOd1pURTFJelpLZmhybjFlbVdYdWdRbjlOUEN3MGVzOE03X1ZaaWd6b25iSHZXdDlwQWNtQ2RoTHNFdm1sYlhPeU13SHp6SmFCYWoxcDEwVDNRLWwtQ2hENDVEUFNtalVhS2J1Y01VRWpzWGVDSXdFNFRQLUNlMUQ1c3R4OVFMY21qdQ?oc=5",
+    "title": "Bitcoin (BTC) Price Today: Bitcoin Pulls Back After $125K Rally, but ETF Demand Keeps Bulls in Control - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZDRJUmhhVF9XVnY1a05VT3N5b3F4Y3J1UnJOS3V1ZXdud3BUTXBUUFZDbGtBeW5IY09zeTMxQmFJQkdzTk1MNE5pTkRYU3phS2J6VFU1N2p1MFVZejJRWHJab1pZMUZjdFg0cVFRT0ZRU3Y1RDRqUU9OYzA3eGhjaXFEc3hqdTVGcXozRTdYcVBpbHVsbTg0V3BZOXRqc1hrc3JGQ1JrV28xcmNHVG0tVURUaUp5YUM2dVEwU0ZHa2ltcXpybXBQSGhIRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T20:07:12Z",
-    "hash": "691adc142bfff344441143fd9aeaffd61e24e25291d44bd5a3bdfdae166187ee",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Forecast: ETH dips on mild profit-taking despite sustained institutional demand - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSHFtU1ZwLXVRZF90OWFjck9NUXlqWk9VZnBOeDRlWFhSQnJoVTlIWnkxTkJqeS1EX05NYUxFVHNZZm9jazhUZGlDODNZRzBqMHRHSnRWRzFkMWx3cVl5VllhNWZwOUc1ZXVpOEVrdjh2RnZqNXFUSG1MZUlheTdmUGFod2NseVYtQVp1R2cxUkZDZDdGX1BBd1Mta2N6Rko2X3lyNnM2LU1JM1B1Sy0ydElaVHRfOTdTcmRQODBEOHEyb253a1V2TUZDRkVYZXJCVlNMdGU0NldtZ04xaTlMeHhNbWtxTjR50gHuAUFVX3lxTE5VTXNtNm5oS2hGemNqSUFIVmt4VUtibkN2a3NDUnJZT1NTcDVlMEJIeWtoMnBGY0VHd2lYc09wMFZ0X3B5bkZRdlFITFdhMU0wX3dVU3FheE1CZUg4a2tRZk9vZ2t3X2MxcU9OQkt0ekRRRXo3ODZDVndBbDBPRndaU3NLRHUxTzNha21yWjJPWGJWN0ctVzVLQXhoUkhaa19QVTVINHdOX3o1alo4anN4X2ptTS1VZlBTV0pibnpuUDdrZ2tHSndPLThXc29XOHVoVExmOUZ3d200UDJMVnd1d2t4OUNwM0ZpdmhiX3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T20:02:47Z",
-    "hash": "4f79dcfb648b4d810c6e9c89c2962613b4d6f615df6cb632305dde696b8faa5e",
+    "published_at_utc": "2025-10-07T20:37:12Z",
+    "hash": "e0cc17d79419d385ee30667a216ee1f3531a821daa06824b9f52f0424b76e1f6",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "Google",
-    "title": "Entergy Arkansas Powers Google’s $4 Billion Data Center Investment in Arkansas - T&D World",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQN3UwMXVSa1dEMlVkdE5IMmpKYU1LQjNfYVlTNXVwOWZUY2RtekEwS1lkWDcyay1TS01tRmpnSVpySzh4NkZtTmxwWWoyRGJ6LW5sem9saTBZWjE2VFl2RkhLRHNXNmJjTHRiLTBaUXVQRW5nWExaQ1llYnQ5SmUxSDc1ZF94TVJIRmpUcWRna0dac0pUY2JNbmlseExJM2NBeHg4VkR2RE1HU0RQZmhXQ01pNlR1dkpOblZNTnFCZ3o1dWpfcXRZRWgzMXdKT0J2RWZMcnN3LXlFVWcxRHk1emdhS0RtaDYtZGVVVkhXQXFFS25hNVBRZi1n?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T20:02:22Z",
-    "hash": "40e38db30d8135a8fab02ac7ffb5d3e2c75145763a036c720db6e12fd7b73104",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase Wants a National Trust Charter. Should You Buy, Sell, or Hold COIN Stock Here? - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaGNJbmFpVGE5V3E1SjQ2SUhsSzVzclMtMXE2YmtEbkRCeWJTTU01djEyUmswZXVuV0VRbkE4bzVHUVlHcjNyT0MzdTNhcUR1QVprX3h3eUctMDBEbmNNV1NURi1tbE1RZXhubldPNGNSd2NqR1RqV0ZqQnhTeThoN2F5V1FzNDhLNGVFNHpzUUs5aElOdDU0Tm8tMjVIQkxVdWJiUVFnbTc4bXV0eXVBb2lOdV9wVVdKZzBlVm9xVUwyVENIalhYY216ckxfRFQ2ZkRYS0I2cm1zRDhIN2VIZzZBcUg0ZUNIbGZzVVh2RHBnc0k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T19:54:36Z",
-    "hash": "0c60a514dde3cefa9eb35bed60f0e5c761ba5392fcb5986a375d8549559d49cd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Latest News: ETH Price Eyes $5,000 As Remittix Holders Could See 50x Gains Before January - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelA2cmtmTTdVMnhTWGN5NnBPXzZjTm1wTmFqQjNQZ3d1MTJiTDdfS0w1QUpYUVpnVjRMb3J0YkpwcVY5MEZGVmlia3BmZjJOZDdDM1MzN3NiWi1PSk1oVGhJcmZsTWQ3TUN1dE5ka21Yb3RSZWxCYXRkbS1fWllHeHdETzJrdWo2SmY4ZXM5U2VCSW5ZTlVPVmtXUWc3OU5rTzc4Y082eDNqTnZYQy1fY3BUY2VXZGFMNUIwag?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T19:47:00Z",
-    "hash": "84f69ace323db97dd3da2cb9277e98d9b8dde4d9ae9e7146d92dd05bff3578c8",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Fear and Crypto: A Deep Dive into Market Dynamics Shaped by XRP and Institutional Investments - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTk1pWVBxbDN1Zi15UVpDeVk0X2p5aE82UnJoNGNiQ19aeXVxOUZ3ZXBDVDFYeGdiLXotS0MwX2VCMkZydXA3YmpVbHhPQnJyVk9fT0J3Z01vaG43TUhiVmJiSHRXYTZtdy1jLVdxVWZwTkJWYUg2ZWlXeDYzOU0wQ1dWbUd0Tlo5NHQ3MmZiRzhLOHR3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T19:45:26Z",
-    "hash": "b07a66ccae9b07f3cac7453625a93f8e3024d0a8cc1c3d7fb71157488d9bcf79",
-    "source": "gnews"
+    "query": "GlobalFeed",
+    "title": "Künstliche Intelligenz : Bericht über niedrigere Gewinnmargen im Cloud-Geschäft – Oracle-Aktie sinkt",
+    "url": "https://www.handelsblatt.com/technik/kuenstliche-intelligenz-bericht-ueber-niedrigere-gewinnmargen-im-cloud-geschaeft-oracle-aktie-sinkt/100160756.html",
+    "summary": "Die Aktien von Oracle büßten am Dienstag deutlich ein, nachdem Medien berichteten, dass die Gewinnmarge im Cloud-Geschäft unter den Erwartungen von Analysten liegt.",
+    "published_at_utc": "2025-10-07T20:32:57Z",
+    "hash": "35bff5ac9b1c7d7ac5bc1387627b1655b3f4dd0d2a7e61ec8f8a535ba68da769",
+    "source": "rss:handelsblatt.com"
   }
 ]
