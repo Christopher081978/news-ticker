@@ -1,82 +1,42 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Didn’t Catch Ethereum ($ETH) at $0.30? Today LivLive ($LIVE) Presale Is Trending as the Best Crypto to Buy Now for Massive Returns - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlFFVkdaZkdkSmdKSEw5bGFsX2N1TGJ5Ml9yTHozb01sUVRKcmhLUndmR3lPbzhQNW9iYnFiUE5VZlYzWVgtdWp1QUVmaHBMcXFrMW93cTA5U1NqZldIdnRMaGVYWWl5WURVQVVlN0JDWDdHampjMHdoSEhlcnJPTmQtVEdiUnNOdFFCaHF6djJQRTItZzFDSTFiM2taREpiTUNJbEYtdFI3U21ua0M5M19fRGxzdmFtaFVSWm5qM3R3VVd2ckVZblBHcVB1LUlmVTZ1LUZyUjdLUElzOHpv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T22:19:59Z",
-    "hash": "38a1e9b441ab9eef38d4c19280fbd407deab80d038565311402f075c976ac5a2",
-    "source": "gnews"
-  },
-  {
     "asset": "Alphabet",
     "query": "GlobalFeed",
-    "title": "Künstliche Intelligenz : KI-Modus in Google-Suche kommt nach Deutschland und Europa",
-    "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-ki-modus-in-google-suche-kommt-nach-deutschland-und-europa/100160776.html",
-    "summary": "Google entwickelt sich immer stärker von einer Suchmaschine zu einer Antwortmaschine. Der US-Konzern schaltet nun auch in Deutschland seine KI-Suchfunktion frei.",
-    "published_at_utc": "2025-10-07T22:13:34Z",
-    "hash": "14d36b9b539ff5a19cc2b55ccc6c732695e4a62ccd49903f5938d6d9af44e86d",
+    "title": "Künstliche Intelligenz : Zweifel an der Profitabilität des KI-Geschäfts – Oracle-Aktie sinkt",
+    "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-zweifel-an-der-profitabilitaet-des-ki-geschaefts-oracle-aktie-sinkt/100160756.html",
+    "summary": "Bloß Margen wie im Einzelhandel? Die Profitabilität der KI-Dienste des Cloudanbieters liegt offenbar deutlich unter den Erwartungen. Auch die Papiere von Nvidia geraten unter Druck.",
+    "published_at_utc": "2025-10-07T22:40:16Z",
+    "hash": "5bf18900fdc5ccdf3c25e83885c16373e348c2083989f0241df569565a9c6026",
     "source": "rss:handelsblatt.com"
   },
   {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk lays off dozens of US employees at NC plant - drugdiscoverytrends.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0ZnVTRUb29SWEJUVXJvZkhvWjdhN2ktUmtRd1c5RGdaR1k0N194QmlqbGg2eHoxd3VFSWs3ZDY2Mm9rNERobWUzZjQycUptYWFfcmo3SEQtVWVfTUUyeTdlWXdLMWt5dzl1RWdrTUxyWWZxZk9Xd1lfNHRCNVlVR3R4eGJEMkE1cW15OTRiTWxqMjkzYmJhXw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Cryptocurrency Live News & Updates : Bitcoin ETFs Achieve Major Inflow as BTC Surges - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3ZNUlBobG9VUFZTY2hQQWJkSGl2NVdFSTA0SnFIMGFiZFdQQV9veUEwQ3hmaVE3ZXFUc1p1SmZ1MkZpNDcyOXVNUTVBVE9IbDVabTl5dFdxbUNENDdVQ3NQd1pKLTF5ZlhBYTBNTEd5SERNS0RYTUVwekoxSHpQclc5dWkwOV9pRm84dS130gGTAUFVX3lxTE9ObU1JcXZ6b2NjVHo5R2ZfZGNKUTNKSnZYNDYxT1JiODRWQjFmQ1pRM1hUV0hCRHNLMzBHUG5tNUZHVzl2Smlzc05heHlucDBQc3dLZDNJV2tLSVBEekY5d0plWW9IcEJkdEhzVjJkNWR0dDZYMTdDQnpIVGdweFU2Ym1qQUt6UFNQczVyRG9SSklXYw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T22:06:28Z",
-    "hash": "837da48143f11fec2914c0c9efc3c52b8cc50bf0ff3e09310ee1babd2e28d487",
+    "published_at_utc": "2025-10-07T22:40:05Z",
+    "hash": "0c4f913e76ef807676a83b9c45cbfddedc991c34d0bf3a56d69c7753d8612931",
     "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab stock rises on expanded multi-launch deal with iQPS - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa1VBUjJ3cVJESnNyd1EwOHVQczVYTkc0ZnlrOEdsVHU1a18zWndqXzNqc0NJM2pmdEQzcFNxWTFVSnVvVERDV2hkSTdpbk9KRmMtSWJ6Q1JwX1lLZ2pxcjJGNklGOHI1UEoxX1dZRkdMZHg3ekVOU00xRm5BcGNOVnU4RkhwRUVmT002OUI3a0lfXzhyWFN3TmgxWHlNUXlrTVVTcGFjcGdXVFdmVUlKXzhXWUJ6ajZvNEpld0pJaWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T22:02:46Z",
-    "hash": "9bd607ce02530fd4070a5b66d6a240ff680e316c7bef31b9937ed31716731b82",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Suchmaschine: Google bringt KI-Modus nach Europa",
-    "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/ab-mitternacht-google-bringt-ai-mode-nach-europa-110721247.html",
-    "summary": "Europa kommt als letzte große Weltregion in den Genuss der neuen KI-Funktionen der Google-Suche. Global verwenden den integrierten KI-Chatbot schon zwei Milliarden Nutzer, heißt es vom Unternehmen.",
-    "published_at_utc": "2025-10-07T22:02:37Z",
-    "hash": "621b38e0d668455b38b6ee206803ca40c01a7982c209a8c13166cd8eac125ae0",
-    "source": "rss:faz.net"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Künstliche Intelligenz : KI-Modus in Google-Suche kommt nach Deutschland und Europa",
-    "url": "https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-ki-modus-in-google-suche-kommt-nach-deutschland-und-europa/100160768.html",
-    "summary": "Google entwickelt sich immer stärker von einer Suchmaschine zu einer Antwortmaschine. Der US-Konzern schaltet nun in Deutschland eine KI-Suchfunktion frei, die bislang in Europa nicht verfügbar war.",
-    "published_at_utc": "2025-10-07T22:01:10Z",
-    "hash": "31dbc287c168ea9c6db76952ee4361793141b56b8d959d5eb8cefec2369c1ee9",
-    "source": "rss:handelsblatt.com"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction: Ripple to $5 in October, But Mutuum Finance (MUTM) Is the Best Cheap Crypto to Buy - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmVDLVdEUVZnenhFQlNETVg5Rmp6eGNJUTN2eVAtVnpjRTlTZy1fZGhtR0ptS2NCY2swZFpYd0hDd1Z0NU9ySVYyOXFYbkNaVGM5Q1d0eFNRM3VtdjVtc1pJU0k5d2VaV3QwWGNBdzgxMnVfTXhIOWUxVVdEZVBOc2phSFZvRjRLdXFyWW1VWWMxR3p4YU94LWVpWWVzbHktNHNYWVR0cnhUQTZubUE?oc=5",
+    "title": "Best Crypto to Buy Now 7 October – XRP, Plasma, Bittensor - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWE1NbzZpV0Ywd2ZMYW5sTWFfYzY1VUVWTmJnelQySXJMb3F6UG52SFhmVEFmblhQMnp1S2R2QlNwek9wdXg4SE9URkt1VDNkc0ZadXdyUm9Xa1QySTFoUjJqeW5mNnc5R1Q1MGQyb0VaLXpPUXJwR3hkME9OWjJFZmZDbXViTmNtOGc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T22:01:00Z",
-    "hash": "d59073ae3f1b27379da8345165cc1184ce5c54103e0ecf860875246a1c51cc2b",
+    "published_at_utc": "2025-10-07T22:30:00Z",
+    "hash": "507efc2485e153f9ee5312178abb02c8f98582047aea5bae87fa3b0196ad0756",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "SharpLink’s Ethereum Holdings Near $1 Billion in Profit as ETH Surges - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN242Tmp4dXVLQVpmeVcyTGl1SllnaUtxLUpWMEpjLVBVNy1vSG9jOUgzQ1p4dHYyYk1ZZjRpdkprajR2cGdpN2xTeDgwWGdtTzRTdHFVSFpZOTRoT1c0UjFkQ0psazc2dmxIOS1uNnRnQUItOU5oOXBpNktBeHhRSzdoTVlzenduTkMtSEl0UmlsRnl0MTd4QV9HWW9mMjZsRC1R?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Claude Predicts Prices for XRP, Pepe and Pi by Year-End - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnh0ekJhREZ5aG5NUWh3ZTJfOTU3OGdIZUM3Y1VSeHFBYlFYUEF3TEZYeF9lWG1UemZUYzhpQUsza3hXN0ZXWkQtQWtBMThaNmlvWklXUHZEMTRmLUtCNU1XbW9uN2c4bDgzelI0WU9qUmc1Q0VEOFcyUEZRN1FHNEl0SmxSZ3dMREpMN1JBNXBnWUJRMDFVSEFCNWI1elcyMk51OXBGUTJrU3lvUFE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T21:45:20Z",
-    "hash": "2ae04118f6b0fb883a7c8fc42920b72ca230fd14cd79418da0e9d1074205db4a",
+    "published_at_utc": "2025-10-07T22:30:00Z",
+    "hash": "4d16e49fca72f1325ad9bdb474666cc52b75fbe05984323f6c3576270e020632",
     "source": "gnews"
   }
 ]
