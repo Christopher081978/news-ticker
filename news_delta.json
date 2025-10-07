@@ -1,82 +1,172 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Clarius Group LLC Lowers Holdings in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcy1FX0xodS0tZjJsMDNSZjBRUV9CeUx6Y0xQX3N4Z0FJb3dWeVpmRWlSU0VBUmxyOTB0TG1VZnhhSXNGRmw1WDY2dXFteF9JTEMtR2g0NXRrSkRTTFM1S1MxcjBReW00cGFmWGNKUUxQSlB6UmdFMXZHT3NUWXdTeVNEbnB5MTRaRDR3RWl0REFCemo0QUJoazQ0Znpfb0I5SVBXRjRZOWszVFRJR0JXX1NBZHc1Zw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Is Nvidia overvalued? - MoneyWeek",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qTVRyNXZVOWJIdFRnVExOTE9IaWdFT3FqWnpYcUZGNDRYd0Q3U2FPa28tajA4SG1BZ29xMVZjM0NKazJmMHZmRUxWM3FMUEstaWp1T2RRekg1eXZ4VVd2X2F2UFQxUm02aU1rNW8tdGw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T08:50:07Z",
-    "hash": "406307d46d4187315cd2a17a90c69b09e34a06827948a9f8d79d37d7f209d6fe",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "111 Capital Has $3.92 Million Stake in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnJzZjE4Y0E4aUlRd0steURseTEzaTFjR2VhWGNEcnRQQTRXcGljdERVMy14YVZjaFdDVFlLR3RPd25YMDFTM0JBNzlmZFNtTUhfQWxSQkJZVEx5akMtT1Y1UHVrbEFOdm42ZDRYSXljNVM3UWVkVFg0QXNJa25oTVJCZEFVT0VsQkhyQUFIMWFJc3NUSkxwaHFTY2dsNUJmYTBaZ0lYWk1UVmY5S0tVRHo4VUpPdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T08:50:01Z",
-    "hash": "8a51e1d81d78d070fc860891d30a081952b8c392fd55ad3c174bf8d29c5c1ca2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Segment Wealth Management LLC Raises Position in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUTJlMy1rb3VUMjVDbkgzOUpoSWFPcEpzcTdnZ2VKbzdUNGp6S3lzdlJLZkQzcVJlbkRNb2xyZi1sSXkzczJSSURFQy1TWHNNYk43ekdvTWtwR1N4WjAtWHZtYkpEVjFXY1VMNGpyY3dQbzZOMnJCS0dwN2VaQURGREFwdFk3ekNSaWZHRDhmdE5md0UySjBDWWY5d0hxcm95WlBiWElDcUY2WmhvblhFLTRNNFJ3MTJIUmlWRVVTZHlkMS1lX0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T08:49:59Z",
-    "hash": "8755a0e86b0d32be0d9f7eb463c64df600cc5bd9aa4a26fc3f3c08a83c136ee1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "QRG Capital Management Inc. Purchases 15,155 Shares of Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOekw1OU96NEU5MDFxV3BKeE90OFZ6MjBCNWNzQXE1VzZfU1VKMFFKeXdvcWJNZXVDTTdrZm43WGVLbkltSU1PWWhZX01MUHNOczlhX1hFQXluYnhkU2N5VjJiUE1HbUhpRm1iUjhHemVzNHNFZHhNa0h5RDExZUJFa2tLN0dPQXJUVzR5dHlJZXNzRjhvczVyT3Q2Y1hnZmxnazd3eDN6WmJrc0lBRkxPUS1SR2pEcWZrRldHYlpsb25va2gwSGxmYjIyMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T08:49:39Z",
-    "hash": "70e49107336a28762ca955818291740a34c2b5b55edbff63bf5c46bb4f85c550",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "[LIVE] Crypto News Today, October 7 – Bitcoin USD and BNB Reach New All-Time Highs as Meme Coins Rally: Best Meme Coins to Buy in October - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2VZMXNjbmZLZjlrVWlRQmxCLWVmT3RidnBFM0lpMzRpa2hhX1ZfQ2FaamwtcUNYVG8yRENNUTFocXBtREhpNGF4RjFyVFZrSlZURExDUFdkNEFoNEJBSm9vRjdfU09YRkxDZ0RKNW5YQWxzUzdZWmpRT3J2M1lLeEdzaXZkbU9uTndUVWNrc2tXNWlPSEhjc00taVVMVV9lY211TXNadGZQR19DNDFWZ2xOUDdMNTNmNkdONHlJTzZENllvaHo4bF9qQW5vNEtMRjNVbU5oZWlkWExmdGl6bkN2MUFhSGlUWHZSNU9VdGpxUktINnBqT0lZU3Jzdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T08:49:23Z",
-    "hash": "c82ed919fbd10c7d0d2575a71aa207c299fb200103b163402fb30daadb4b9b8b",
+    "published_at_utc": "2025-10-07T09:26:44Z",
+    "hash": "75efc9fb19c98ed2cf7aada9aa1a894d9e01c4fdde60f951e69b85de7530a69b",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction: Ripple Vs Remittix Competition Heats Up As PayFi Altcoin Tops Crypto Charts - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOekRYanRTdDJFSW53Yk96M2F3VkZHUVZzdkVOZHo1RHYwZVB4TUs2QlljaUhHNVdNbHV2N1pBU2lHMWlPeVc3eHg1YXFIdXozdldaNUQxd1pHN1NFU2VuSXhQS3N2UjJpYThGOUM5VWRwYy1QajA4THJBRUM5Y2xIdEJnYWZRUjNyOEVoa29PUzB2SkJIc0ZvZE1JaWp2TmtYLVFrQnJRMVRCczVRWnR3dm5SNE1ZSC1xaFowbDdB?oc=5",
+    "title": "XRP Price: ETF Approvals Could Unlock $5 Billion Capital Inflow - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMnJnZE9wWWlBOVp6SjNOcXcyazdnWUZSWGF1TFB1MGlGUm9mSTE1QVRJSWNETzFJS3c4dlNOZkt1emFjSEZfYnN6MkVYTU9tYmdQbXhxalpPN08wNWlQVUVBOGZuX0RwZ2VHdXZJSWstdlhGUmxLbjRLNEpnaTZUTEsxSG1uODVtUmtj?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T08:47:26Z",
-    "hash": "a35b3b3512d59c05f2d7ff58038385278f18f13bc6be61868df902ab506e5571",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Rally, Whales Dump $160M, and ETF Hype: Ripple’s Wild 48 Hours (Oct 6–7, 2025) - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWhkQnlCS01FY3FSMW41S2c5MXFndndKNEZ4aXo0MVg2UHZXbFBESGEzcl9PSnRQQk9YSmtVZFVqRDhWQ2p1OFVyOHJuU3NPRWpoVmR6VF8yb3Fsb0tyN2hqaWdQTm03cUVSTFRWZ0djYU90eEhsa1JoUVJBVVFCZzFWZXlzNEpqTmVTRlNtMldzdzJ2SlNTemcxa2NrTlN2VVB3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T08:42:55Z",
-    "hash": "24f2c1617ce1cde8355966ae3274ad9127e30680f17daad3556ba7b6735e09d4",
+    "published_at_utc": "2025-10-07T09:26:43Z",
+    "hash": "25bfe22d9d1663b67d566d30d2253be2ff9a99a2680fbaaa1fa8c411f481192c",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin crosses $126,000: Why did BTC reach a new all-time high? - CryptoSlate",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUFTVk0xbUpwQ0hYSGJBM0hUZ0lXLXdWVWk1NkRGU3JVQzcyTlVkTWs0dmw3ajVzT08teXo5eU9PZk9aMTBrWnZ6RlBWTnZmbzU0VndRUndkQWNzTjhJeEVqX3dfOHlkb0dMLTE0LXF5ZEZzSVNMWmxuamdlRXVORDhWSXJHUkszSlMyNmln?oc=5",
+    "title": "Pre-FOMC Minutes Jitters See BTC Price USD Lose $125K - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd0I0NEZNMnpZMWZpM3BnbGRqeXg1dkN2QnN0b0tpRVEzcklidjlPS0FaelhQemQ0aG01bS10NkkyNnlrLWluQ3ZtS0hUanRkazNoNzRGYjBFamIwY1A5VUdwWGJMRDJiWFZqSHVhV2JxQVRUTHpOR0Njb1hWbG5VWGFkOHRoMzN0ZGxDWFFXem0yTXZTLW41b080NEJudXMwTWhzTnN1YUtXV2picFlsTWlOQVRZR29OVVNIMnViLUdFVFpKd3ZEa1R2LUJ1dnBzbnZDd3lmdC1aeDlLWGdZWktaOW5udnBTRngweXZxQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T08:42:13Z",
-    "hash": "02e2bdd3751c454244a602738717bd60e857e309d8d883b294a02a0c87d6f5e0",
+    "published_at_utc": "2025-10-07T09:23:33Z",
+    "hash": "20797321d569c9618f47cb2500af9944001a8e686f9368587a82ce9e25f618b7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Anthony Scaramucci Congratulates Galaxy Digital On Launching Robinhood-Like Trading App: GLXY Shares Pop Pre-Market - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQ0huWTljOFR3VHpLTV9xSGVCM3UzYzM5NTBoZDI4alBXMEIwcjJDNGpDVkJzajRkOFdLRXpLVmFxTWZ2SWZfX1liY0dVTWU1WWxyU3ROcGdraFJnRENmcWRzSUQ4NjhVdWlFQUgzOTVCaTVoVFVXX3Y1bXJmOV9faXprVjMyWEhXVWFLZDdNXzlJMXZ5V21KcDY1WS1idDZJc3FyRGFqS1ctLWMyd2V0TEtaeXdLcEplWjJYSW14am1SdnFKMTVXaFpCVHd6U1pieklWaUlZdi1QMGZTcUZvRWhicFpZVU1hd0RoTGdWUC1qVVIwemt5blVRMnNqM2UtR0pyNTliWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:21:11Z",
+    "hash": "2ab845cda264329c405c14fbf1451fcc857f33667e462471faed0f3b00d240a8",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "China’s BYD drives 880% UK sales surge, overtaking rivals on tariff-free turf - EasternEye",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zNENPYzRaRklZZkNGeXBlaVRIRHZKTUlVZV9rWEpsWkl3NkR6LTlfeUplMDJOQzJ2SVliQmZBdmJ4bkdMeHBYNzVDRlZ4N290aUl1eDdJSWlTa3FHck5TUExn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:19:44Z",
+    "hash": "f2d5aef3ba5f24406efca545debdaf58892468476a7466977346ea4c9c3dd5a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price: Trading at $4,700 Following Grayscale Staking ETP Approval - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVlRHemJVdTREcU85d2FhcWNVb1l2TnBhMThDbkZpdWRjOGRHZkVwc2tzRmdrOTcybGxJUjMtNWY2b09MOWZWQnJ1b3k5YVY4Rk5Cb3NCUmxDVDE3eGdLb3p5Z29zWmFWdk9nTll6TzcxeVIyaE82MkhkcXhJcEMtT2hUZUZMc0xQUEk1YWZiOGVHTlVXYWdpaV9NWGhBQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:17:34Z",
+    "hash": "d197f906e2ea8a43ac6f1907735176f281f308ae60b34d7dda2a5fa794252060",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Pantera’s Cosmo Jiang: Solana Poised To Be Next Mega Cap Company as ETF Inflows Surge - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlBSemhXU1B2NEhTX0hhSFM2WXgxZFpwWlZuZnA4bEJOb3VwRHZReWNLZ3dWZFYtcmRDRFZuWVdSeE5TRFh5SWZHNzZBNmJ4emoyc21wVU5GQnlkdWVLN2tJNkZaaDVCSndRbHFWRktpb09Mbng5TW1yZlBERHItYU9aVG1RSjVoSXZnOVRBUFBKUnpuNzNxUjhYbkNsalZo?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:17:15Z",
+    "hash": "ccffafeffc8a26421ae1f7ea13b2f16c7e37d7471a69175d93e0bb34256c3a93",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens to Deliver Vectron MS Locomotives for Turkey - Railway Supply",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHE5VzdXajloMi1LTUVNZktvT2c0dy1VYWEwajQxcVpuOFBtWXZySDQ1VkMzZ2l1RTdHWG1PUmlEM1FFSVprS2pUdzRhYjZYOTlkUG1reG5Xb2N2X01FdGFzdTkyUllFM29HQzRZTHJmUVY1bzdJM1F0Q0VXU25CLU9QWFNFRVk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:16:00Z",
+    "hash": "9871d6c8fa1ffa6af403de27ca6d047b2d6e447415d16a7b1f35220d82af15bf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Should You Buy Solana While It's Under $250? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTBuZGJaU2tkdVVta01XMUQwWWFuSFBsS09TOHdMWlByWHctWkNHR1d2bmY2OXZlX2RkeFUxYloyam5OR3BWZ1VRbEpyN3VsbUpsTVVIX3NUMHloSEZFQlFzMUJhX2x1VHNXSTJTR0ZfZjU2R1B0SUdWeXBaWXNQbHRpeTlwWjlFRmtzeA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:15:00Z",
+    "hash": "184b5a1098616857f56807e757aa97dcb920f2f8e50254f308b538479b8974c4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price: US Bitcoin ETFs See $1.18 Billion Inflows on Record Day - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVnFZU3d0UUtMLXQ2aHZQTWE4YnlfNlRPU0Z0TlkxMnVjY0lqZHAxYzRBdC1aWjdydnRQeGxpNGdvb1pQZHJMaUMxLWFXT0hYY1loMmUzU1VIcldIMjZGYXJBQ2MtcldnbXMwdGNMR1UxSUpYdXloTnBuWUlMYXFHam8tdUtLVUhEMTlZbWRQMkdsYkNVYmxsWjd3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:11:31Z",
+    "hash": "d6270ee3492d33f7ba0f2639f3675378120e1772d856449834896ce09c763835",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Technologiekonzern  : Zwei Kandidaten für den künftigen Siemens-Chefposten – Duell nimmt Fahrt auf",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/siemens-duell-um-den-kuenftigen-vorstandsvorsitz-nimmt-fahrt-auf-01/100157486.html",
+    "summary": "Cedrik Neike und Peter Körte sind die ersten Anwärter auf die Nachfolge von Konzernchef Roland Busch. Doch beide müssen noch eine Bewährungsprobe bestehen.",
+    "published_at_utc": "2025-10-07T09:11:00Z",
+    "hash": "3e860e7cc8fd6f4384504e453284353e19db88bcb64a11806e40d64bbfba05f1",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "By 2030, These AI Leaders Could Outperform Nvidia. Here's Why - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajV0c24yVm5nejlfR0QxdDlGSUNQTU5haDMzMmMzMzRZVGJqTFgxekw2SFBFMFo5SzZkN0thS3lraW1fZ1pRcmxTdTF3d1ZyZWswa2UyeU5ZNjBRWlRHaUNudlhrNTdhX1FTQkVaWWJzeVdaa3U2ak15N2lRS1Njc3kxZkMyZmFYdXJRVWVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:10:00Z",
+    "hash": "6564647b3a37b1c13f098fdac324b7ad9cc62a5db67e1b1c2202fe62655d766e",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "The UK is now BYD’s biggest market outside China - Motoring Research",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0xFNUhFbmEtZjdQUGFiZUpNZWpZeFJxT2xSNnNBVVMxNEdObDA1c3JxQnVpODN3R2VWNTFpMUo5YnpwNGw5eUhDU1Q0RDhnVlZyQUUyYVo2NUd2OXAxRFlfbVVNRGhxRTFFUk1YdS1GUnF0OW16eTRPRElTX0hiRlBfZDM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:09:45Z",
+    "hash": "b41a3784e18d50772308b554f937b5016e3415befea8b96f78b70da675fc6c82",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Up 99% in 6 Months, Is Solana Still a Buy? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTVGUDhVM2FVLWc2WW1aUktMWkRwZ19YNHNCY3JuVUtDVDRqY2YzZkdvcGlheEpjVzI3Vy1wRDZvWjFjcklrRzJwT05xel9Hd0JOY2ZXUDBNMnJPZVQ2N2VXQlpTZHIyTnJ2dExXSHhjQzllU04wRzFiS25yZVZRQ3BqWTltS21pSGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:08:00Z",
+    "hash": "f7f4d5ae9a0c6c80d1c65f8aa80d0028a949254d31d6f5a3d92791b4719dca9e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "AMD Surges: Nvidia Competition Heats Up - Real Investment Advice",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcXZkT19aWHhUdWRsN2V4NmNyVEZ0NHUyTGZ5OXdvWUE2LUppRENNVUhrUEo0NG9CcVBPcEJIWGloNHVXSm5EU2R4dHo1OTRjNjZzMlIyWGV5ZkxhTTk4QUVmX2tNVEVZdVkxTzkzanlUOXo0NndtUVZldlN5VGhkbmhrSE4xZXVpSElXeGJpeG0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:07:41Z",
+    "hash": "c5531986bb759221415388ff3fb69f86a31bd1d10454150472b975a1d39f4128",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Holders Favor ADA, HBAR, and More as Top Alternatives - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkZBZDFxVXNTYl8yQzM2TDV0bnhKcGNnU08wNmYzOVdTZ0lkZXBKR2wtcVpSLWhWalVVQy1TSEVMdnJUNGJLcEc3bHhDRkFsV1dzbnZaejhNOEROd3hFMlhvSjJmbktOc0tnSVJKMnljbzcyLVVuVml6VkhGYlFCdzNVckhhZ1k?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T09:07:00Z",
+    "hash": "4423dc7939e869022da545661c77f74806127c9d7555ea55431284fcb3597da9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Think It's Too Late to Buy Nvidia Stock? Here's Why the Best Could Be Yet to Come. - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd0NjLURvSzBjWU8wa3lFQVVKM2VzaXNpVDd6LVpwMExGcHVCUVgtVV9VMmhacTRMRkZuRW8zeWpmd2otYjczcER4NXFGc096UTFjcVZlZXVzVGFaU2xhenRVeWJ0NmM0aWNQbF9VZWN0cjBwM2RXSDhhcnlMY3RtX0VzU1d4QzN2V0V0U3hQVUUxbFh5VUVHaGlNZ1dMUmtLRW5LNzhiT2FkWHdod3BjRmhsbG0wTXdrV1c0VVFHVkVaRDhsbXk2aEs3SzRGVkRoY19xUVJDSEF0UjdBWHg0amtXTEppNGpKcnNJdjhLWXNrUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T08:58:52Z",
+    "hash": "108a4353c2f908383a8e088ebc11a100fbeda9e495fcb1a99c22a7f7e9f4c8a2",
     "source": "gnews"
   }
 ]
