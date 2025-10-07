@@ -1,92 +1,12 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Up 3.5% - Still a Buy? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2w5UW5JRmcwdWNSMXd0T0dReUstLUJHV0M4SXpfTXZRNDlOSndad0dMNU1vbnZrNWJ2NHk1b0xaM255bFVTU0Y1V01WR3RxRkZvcDFVTGZzREdmS25KRENqaDhSelBXcEJ2WnAzaDA3SWxVWUdsVlhMQ3l3UXNNRF9hNHN1REo0QnhjbDBqWUpPcGZIbnRiZ3pYVVpqZlFldWpRcUJ3V200VFg4TmVLdnJhOVRrcE92X01obFVn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T03:03:27Z",
-    "hash": "a7bf53886fbbd68225c112107c224f975b9bfa5eaef5fcb52335afa92bd1bbd0",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA (NASDAQ:NVDA) Trading Down 1.1% - Here's What Happened - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVk9oQWFDSC1nTHY3YjBOUU0wYXEtaktUQ3YxMUl2NEF4OUp6OTRfQVF1MEFsVk5icHBGRXJFZlZPZWREd0ZYeGNvbGJLRkV2REpmV25Xb0szTm0xMFNnbU5nNHdVLW5qS3BGRTFST2pZUElnLVFrck5lWDRCRF9ENTA5d3RSeV8zU2hKRk9VWkdzOFlTVTdjb2hXT3BSWjBQaFpaTnQ2Mk1sX3M?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T03:03:27Z",
-    "hash": "b30553e4fb7a2832126bc1059b29e2e3395593b534f840566e1a37a7ae90dbf0",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum (NYSE:QBTS) Trading 7.2% Higher - Here's What Happened - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmF2cU5CM3pXeVRUN1NnMGVnVkotVDFRMWg2TmpzNWZTSHdKMmYxSVhYMUNMTHRKRjBuRFpUczFHbzAzMGF1UzZWd01QMUF6VmFrdkdQbGFCa0d4c1FITXFHaXRERE9FLUYzNHZrSG9OMXNGUTR3bmNNdzJEdmhzMFUyVnE5ZUVRUEFYNkgtYUtXUHc5T3RXaU5MWFc0NEViOEV2Um02eDg1RkFVZjd2aEgxdkk3dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T03:03:26Z",
-    "hash": "5de09deb19ede33a03efb8ec05a6b7f98c74d1a18911473a1a150a42b26703d0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab (NASDAQ:RKLB) Shares Up 4.2% - Time to Buy? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTnI5RTR1X2RVbHg1d3RGTDk0MWx0MXJKUjJWOEhQbTM2aVZGdzUwUGVEUFlYWnJDQkpmVTVzUnZJR1V6VE13Vnh3SGRKd3ZsXy03a3RrWnQ2VFBUa1dyS0x3MTlKdGN2SGJ4Ym44ekt3MTl0SmFjWTdXb29YcjVBeDJfWmhXMUtBR3VVZk5HRUN1eGpJS2dqY0w3UURaaGFYanc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T03:03:25Z",
-    "hash": "555a93f3652802afd208a5868c4aadcfc61da3441852e0e27aa4b366a2b41631",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood ready to 'open the gates' on one-trade alts for its high-click investors, but Morningstar warns its 'move-fast-break-things' history could drive its new closed-end fund off the tracks - RIABiz",
-    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPZlVmMjlodlVEYkE2T0Rlcm1hcVR1NXFFSUgyYnZZY1A0VHFIQVlfZzBXbUtPRWdYR3pJelNrYjBacEZBTklYZUhWa2ttckhXbFhza09Kdk5uU0tmLTNleEx3dENhRm12dTdkQ1I2VWZCc0dQYjF0SkJtYmtiNlMtMVhOOHR3MV9LQ1VFcVVEbkQ4cmU3RnktSnozYXVwSjg0aFd6T0ZYRWhQekZhNWdRaURPWVJfZlVTc1ZuV1R6ZjhFZ2Y0bHJzZ1RZSFc4Z2FDZ3Q2RlZlTGJHdEh6eWJ0Uy1OY3BNbDRhUnMtVHkwaHl1TTA0NjdMV0lFTmViVkp4Z3VoUTZocXRybTBiYmV5ZDliMGJsbmp4R3JnbG5TSTB4cjhJWEpBM0h5aVRNVjVWUzlVSGJiM1JuQXNpd0ZCQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T02:29:23Z",
-    "hash": "c31e7ac91f80aa0c2e2d3e4a622cb0cbeb20cf2b3a16c85294cfafb5fea8c59f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin Tops $126,000; Ethereum, XRP, Dogecoin Also Gain: ETH Will Pump Like Gold, Says This Analyst - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVZnQUh2dlhUQ2dqLUdlcENQUDhqM0VVUXZWUndPTEdGYVZZd3gxOUNpSTAtbGdPZ0RzdWVlbkJYU1A4ejNaS3c3dW1QaW4wdC1WYTdhbEhEMnBITkVBbV9Cc0pSSjExRWdVRTMwYkpYelRCYlR0bWxyUXE2dFZ6NlBtbXVRTTg3MlcwSXo5QXhfLXJvUXNRSkxOV0dUVjhSODRaNEJVMjlDSl8yZXJlNWtja2tUMWJ5RXFXdU1IMTVrSklVN0x1ck9DREpoQVFOQVVndkdpNXl5QzNWRFZ6UjBHSHZKbXZ5RXVj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T02:24:00Z",
-    "hash": "81c656235862479b563ec8cbc4d1c292b36ba1e4d50df460b9b0fe9994bc19f2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Bitcoin Tops $126,000; Ethereum, XRP, Dogecoin Also Gain: ETH Will Pump Like Gold, Says This Analyst - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVZnQUh2dlhUQ2dqLUdlcENQUDhqM0VVUXZWUndPTEdGYVZZd3gxOUNpSTAtbGdPZ0RzdWVlbkJYU1A4ejNaS3c3dW1QaW4wdC1WYTdhbEhEMnBITkVBbV9Cc0pSSjExRWdVRTMwYkpYelRCYlR0bWxyUXE2dFZ6NlBtbXVRTTg3MlcwSXo5QXhfLXJvUXNRSkxOV0dUVjhSODRaNEJVMjlDSl8yZXJlNWtja2tUMWJ5RXFXdU1IMTVrSklVN0x1ck9DREpoQVFOQVVndkdpNXl5QzNWRFZ6UjBHSHZKbXZ5RXVj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T02:24:00Z",
-    "hash": "81c656235862479b563ec8cbc4d1c292b36ba1e4d50df460b9b0fe9994bc19f2",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Tops $126,000; Ethereum, XRP, Dogecoin Also Gain: ETH Will Pump Like Gold, Says This Analyst - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNVZnQUh2dlhUQ2dqLUdlcENQUDhqM0VVUXZWUndPTEdGYVZZd3gxOUNpSTAtbGdPZ0RzdWVlbkJYU1A4ejNaS3c3dW1QaW4wdC1WYTdhbEhEMnBITkVBbV9Cc0pSSjExRWdVRTMwYkpYelRCYlR0bWxyUXE2dFZ6NlBtbXVRTTg3MlcwSXo5QXhfLXJvUXNRSkxOV0dUVjhSODRaNEJVMjlDSl8yZXJlNWtja2tUMWJ5RXFXdU1IMTVrSklVN0x1ck9DREpoQVFOQVVndkdpNXl5QzNWRFZ6UjBHSHZKbXZ5RXVj?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Peter Schiff Describes Bitcoin's Jump Over $126,000 As 'Bear Market Rally': 'Too Early For Bitcoiners To Get Excited…' - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcGZibkRoM3BwVmJkY3ZLY2RrUFFyTXUwZ3Fkd0VBdDZhRElwajRyMm5RdjZZRmQtYjJpQTh2VUNaeThweWhIMXVXQVhLeXpFVlljNF9FNmtfaE1tdDVpWmlNa1ZSSGhnb1BiaGlqWWhQN2NaeTJxTlV2Wkk3eFJWVUFZcUwwZEU0LUlla0JNNEpXQnFmMmFjY2FMeHd6MU9NMm45WjBDd2RKQWI0UXYzR0JWczA1VktFbmc3ZERVNW04S0RobFdiWXNtdUJjMVRrZEI4MlctUjl6MXZBNUo0YmM4V21MYi1t?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T02:24:00Z",
-    "hash": "81c656235862479b563ec8cbc4d1c292b36ba1e4d50df460b9b0fe9994bc19f2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Trump Tariff Stimulus Could Spark a Bitcoin Liquidity‑Led Bull Run - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjhSb2xnMy1CY3p5eVc2STVCcjRxcUhtZlphOXZwTmFVanpmVGN3dlM0cFAwTUd0X2lndXVzc1E1Uzh3RWMzd1lPeHViZGVNcGo4bGh0ZjAzNm9Vb256Wl9vUzlDcGFIbE5odlRJd0ZCcGNBTEJ0LWhJTnhyLVFiN2xGMnFRSTZJYmZZaldRN3ZGTDVZWU5XeFo1dlFNM3dIcnc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T02:18:03Z",
-    "hash": "15e28fd517a4cd02f57f05355c5fe1e65edd57c3e3bb0d950c66b77ba33f2265",
+    "published_at_utc": "2025-10-07T03:28:47Z",
+    "hash": "b1a4545c64a4e074ccf77fcfbbcbc879d6944b8d7f4e81c413a69d4a1097ca4a",
     "source": "gnews"
   }
 ]
