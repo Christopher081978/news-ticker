@@ -1,82 +1,132 @@
 [
   {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA is MEAG MUNICH ERGO Kapitalanlagegesellschaft mbH's Largest Position - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeHB3YlBFY0tCYVVtenJIMGwzUnllNm9lZ1QtLXFPZEZ3OEJGbDV2elR4Q05Nc185Y2dBWXZtV0VfSG45cUt5cEJHRDA1WXVJczVuaWVjSXZCRHRBdk43Y1dQUG9FblBUamFKX01HcDZCN2d0OFhFRU9EdjhHN2xFY3VGSXJudFNrUmVBMExKb05BeDV6QjFxaTVkMnpIendjRmJwaGgyTmYzbzA3WUF5bmtScGpCU1laTFdTaFMycjFBdDdwZjJtbGpTOHpWaS1kUkxUOVppNHAtWkF2UThicG9MLW9aTWs?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T07:25:21Z",
+    "hash": "46886c38c1ae5409e93884aa88e4eb90a2b6449e27118eeb2bb7019efbd1b8a3",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Register Financial Advisors LLC Boosts Stock Position in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMHpGN25ZOEwxQnlMTHBtbjRkVjZSMkdZeWQwMHRDLWxqVVp2b2hMeGNNRENxcWpsbnpsNVlkZGVMRklsTXdEM1ltWTE1TTdwU1YwZnllM3VGcllvUS1fSlIxY3Rxa1dpRHFzX1B3cEFkUG8wUUlqRlNVWGZsVHBDQW43MndqR19ld1l3Y3cyUTVjZGppQ3JlWVBOLUxUQk1OY2FWRUk2UDlZbXVJbWprdlB6TVdMcXJNOTI3a3N1SHFHX2tXUDFkc3RCWTNpWGp6d29IV0NhZTg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T07:25:17Z",
+    "hash": "06607d94f8ad0f79496e36dd740947f63d106ef683b5ef2f706e017fe37e3c8a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Corporation $NVDA Stock Position Reduced by Arlington Capital Management Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWE9BRHJNa2plOGhsc3pqc3ZnSzFNN0RfQlRxMk5YZk5aRW41MWd0VVQtRTNUUmRNTHZfNFc2R2dxcDlQT2pra1V4N0tIUjBUekI4aFFNaUJjWThZOW1uT0VIMElDTkowVTlNbno2VEFBRkZpNjc0VmREclFGOHV2Sm4zODZqZV9FY3V6YmtQNk5RRzFjZEY1QnRvcXE5MlFCbkFtYkY5b1psa19GeEpGTFlzbm10RGVVdnhtMmplZS1pNFBiZ0N0QzFxY29hdVZhbnhwQUJqazhRRDg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T07:25:08Z",
+    "hash": "7b9a5b93eb2a4b66a8801b216f43cec358a4a0652216a964009d2d17c5f5d882",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Shares Sold by Octavia Wealth Advisors LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalVTZFRFbWtpSXowU3c0Y0JBcVIzOWxQUkdvcDBJa3JsVHpTMC1tcFZNYnZrVDQxRVhXN3FDVkNfdHRGNU1DbG54VjlnR1YweWNyRVBpOFM0LW5DbWQ1ZWJmcWtIM0ZmWTJnZnE0UnNwVGdZSVRfTjVBYlB2RUU3cEg3eE1sNnJnYl9nVFk5cWI0cEVkbWVabXdmc0thbEFNV2lZbnBmQWRWS054VWpkZmFnNEZFWGc0UXdNbC16RVRhQjgwTUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T07:24:57Z",
+    "hash": "afe5f042eafcc48bcf4d8a4480ab80269b2abf6f12c3ee460710f116f69fc2ce",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "TigerOak Management L.L.C. Purchases 2,141 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOHlOZEhGSk9SdHNhWjBHNVVObkpQNDMxeEJReXhuVU1sSHVsWHV5NWxlT0RHQ0ZqYWkxd0M1OWVmSUktWmxtVWhtYTFZMjA3Snl6UUlNa0wxcVRaQkxmVnhpZ3IyMTE0anZhTDdFUFBCTENaS2NOTzRieThmclFxNlA3UEpWenhFdjJvTkJuU1lVNUlzUDRGZlk0aU5YNFlkSXZ6MGZMT0pucFJHaEtNR3FIMjN4SVFicHFLU2lUamdVNldOaXpEcWFtVy1lQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T07:24:34Z",
+    "hash": "267dcaae5a2f3bfaf0be8f1e294b3ae45f3171572345669a5b6d42f8873a3e58",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Should Nvidia Worry About AMD’s OpenAI Deal? Retail Traders See ‘Huge Bearish Turning Point’ - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTlpBcG5FazFaSGVseElvZ05pQWNSLXNCU19mbmZmS0FZTFZrLVUwSU05VGlRV3lqRzVON3AwRVZ5SndpSVBZYlJuNnlFZEpqMnFUNTFYa2RRdXljSVRGQndoTlVaUlRMSEZsbDR3LThzeUpEUUF2QWh4a1V5dDZ4UVBuT2xrYXNHNmRBNGFVdjFSejRBaE9fcG5COVIxVTNBeDcyMEpnYVFMUnduSXEwaUVXb2V2VDU3RWtYREQ1VGp6UnE4dHpXUw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T07:14:00Z",
+    "hash": "c4273240abb730fab386f063774635126bda577ad6857673228efd182ad99393",
+    "source": "gnews"
+  },
+  {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price: Breaks All-Time High Above 126K as ETF Demand Explodes - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQXA4YVhOUjhJTjlhb1psb01iSzVRSzUxTkJzdThsSzI2cUd5Y1VuVVhlT3FGRDNtSXNOZjVlTzhKaWpYc0ZYX3hVSEtZeGtjRzl4RE9RM0ZCOW9ET1g1bU5ta1ZadWpIRHdkQ25VQ2ptTm42c08tUDlxRTdDaUNjQ3pDMjJYb2tmeHJTX01Dd21qbEpsTmlNWDI3VmtRdw?oc=5",
+    "title": "This Trading Giant Who Called Bitcoin's 2025 Peak Just Made Another Bold 420% Price Prediction - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUVFsZDJRMXdkRDZaNVRhWWIxU2t1ckRmeU5HSDNSc1Y5OWZQakRUako2LWFUbUx1aGhwQXVBNG1DLWw5SmFBNlhHVF9ZYlNTMGFjSmFMbU5mdTA2YkVwLU9Uam9PaXQ4dlZRR2RpTVlOaXpYNGVNUTZxTi1JZHU3eWw2aU4tX0dreXhueFdSWElPQVpuU3dQa2Y0Q2YwamtaX21zNEw2MjUwOE1IWUNqQ2xxaDdLWndBYnFZeUg5UFpiZDdvbGpKTEZHT2tLVEHSAdQBQVVfeXFMT3BKdWtLOXNGbnBwQm5oaEZKa0tnOXpaMElPMzNxV3RQTWlwTUxWQTFOVTdZc3k0QXR2UUZ5NWQ3cEQ3c3FWR2RKVVdkeEdDTHlPQkJiUTViMURMWUhrUjJZQ3NQRmVWNkF4WVVGWVJnc3pXMHpQTG5GYUktMmVTRDQxWTZObUk1bzlyZE95MVh4b2lGbFVBVzNVUjc4ZzNOMVltR3JoVm9neHkwSHBXQlhmLWU1RHZYM1cxZmRCU1ozS2dGcjZqLXozN2g5a3RDdzlwdHo?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T06:36:30Z",
-    "hash": "9e8bb83bd3936d38fa1fe8d18c82a4e96deb95129b78997f09287b2a216583f9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Surges Towards $5,000 in 2025 Amidst Bullish Polymarket Bets and Whale Accumulation - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSll2cVptdHB1UUV4aU0xSWl2Tld5bG1iSGs0Qnd3d29iY3luZmNyT3pBMjRSQXZZWmt1MGRqQ0ZVU2t5eGJpelk5dk0xX2lxVnNIaEp4OXBsdXdJbXpfdGdXSnYzMDk2dVFGTkRoRTVuZ2RacFdmSU1RS0l4QzlLNEhESTZaSjRXd3ByeXZhWlJCSXV0SDU4RXJJbUNVbmNzaGx0cVpKbFl6Vm5Ed0xpNl8zTERzUVFqSlFrV0JnOXg0U0FTM29XelJ1VW9VTzNpaGpvdUlWLWxxOWNublBUdG84UHl2MlpHYk9wSHQ3OUl1RFp1aUJXQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T06:31:00Z",
-    "hash": "3dbdf1625806ee8bc05b941c5f6691c4bb27a43d3ebad32b13690936cbaa565c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETH Targets $4,930 as Institutional Flows Fuel Next Rally - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT1JOcWlxSUZNQjFSaHRwNVBNNFZiM3NDTFVUVEtZSF9QZ1N5ekx6QmFhek44QldKbzdfZ29kekJ5bFlrNzFYOGZMb3ZjdGowVWJnMzFXQklaSVlOa1JSV1ZkX2R4ejFFVXdILWpSeTNocmh5VldqNkNvWWhXaFNpOTR3MnBTYkRkMmFRa3hlUlJzT2VpNHVyYnlKd1FEVFNyWURhSHhiemJVMlh2enkxaEwwTC1mRlljS3pQNTE5bmtjQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T06:25:40Z",
-    "hash": "8e218b8381f1f3b0ff5095892c3cd9b14a00967d111ae4b42499790bdbaf2987",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Outage Impacts Thousands as HOOD Stock Falls 1.5% Early - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR015MkMyajR1cVktYWtFUjVGUU1BOHhRem9XNU82SEwtNDV1VDliSkh0cDFGVHFrdUdQcFlJanJhRFhqSFJiQWRMOWZpbWdRM2l4R1QwRjR2ZTRIYVZCQTQwU1dSRklpTXFWNWRCRGFwZWVMb3ZKMHN6YW5nWHVyYnVwazl2MDJGTml0M2VDczh5N2dMblFtVF9fTVhzVm1UXzh6cDRIbE04bXM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T06:25:40Z",
-    "hash": "85be682bed34d84049e09545efba7ae1001765aab394161c57c289daeaf12a05",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Ethereum To Rise Above $5,000 In 2025? Polymarket Bettors See 87% Odds As Arthur Hayes Loads Up On ETH - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSWROTnUzME9PeFpwX1ViTnhpcks4N3VTMTV1WTNlcEJHNlB2OGRzRzdmNVIxNDZlTkNLZ1gtLUg1MXdjXzc2MFNlc2hHSGxkRHFVeTFGSWpMV25HMW5Va1YyaW1za0M4UklIeWU4d1pld245NkJVY2tHbngwVmNVOHF2dm5oUXBHcEVHN1psY04wV2hSeW1LTVdoN1dmaEE0RGpTTFAwcjJ5eXFYeDRiVWtRRFA3VFRsemw2Z1lwdU9SMUlzUnNtSWRiZC1xU2F3dEd6RU91U3NpZUw1Y0MxMmluOHV0TGZvN2NoYWxfQTBsZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-07T06:09:41Z",
-    "hash": "18f0537c420e213e2eb0925f8d878e7e7228c14e9f503a6444209c6283c15876",
+    "published_at_utc": "2025-10-07T07:12:07Z",
+    "hash": "4e9d2f098f5049f8ae347cb76bd510428c21dc043ef8477bde0ed71029e22744",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple’s J. Ayo Akinyele Champions Privacy-First Future for the XRP Ledger - Crypto News Australia",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHl0eW1fb1Z3em1jeGVHT1JBU2daQ1o5ekFpcDVkZEtMYWtrdjhZRlc0Z3hDc1VtSkZMYzBnbS1xUW1KX3U4Sk1udTJNZ2pIaG9JUzhwMHd6ZWYxNmpRalU1UXZYSDR0SHczcEVObm5BV09yWXpVOGoxOVhJNkZtdGZJSVhvYkozNF9LZ2pYWG9VRk1BSEtzcFhPN1huZUtZRFpkd2k2Qk0zQ21kUnpxYQ?oc=5",
+    "title": "Bitcoin Price Makes New Highs – Solana, XRP, and Layer Brett Are All Set To Follow In October - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNLThGZ3FWSjVxcm1JU1hSYl9aRnJYQ2JFX3RpV3Nmdmk1cUFvMW1wejFRNWVXS1RCQ2pVOXhSSjBEME80bkRyQVZTOEdkakR4THY4RnZNZFoyZEd2alVHU1JURGFTVVljRF9ZV2ZORjl1TkZ4ekcxbmFCaV9HVEljNXNrSXVGdzZsSWxTbnl4dlg2c2lYeDQ4aHZCUkNFdWU4LVlkaUNGaFI2QXgyRmozTFRvMXhpZ0l2T3hWT3FiQVJXeFJ2Sy1YcTQ4aEZxNDNZWVFITnZKT3l0d1dkT0doR0JxRVJsUjVleHVnUVZQd1RmdDhDQU1TOFZLMA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T06:09:17Z",
-    "hash": "76f0378dbc98886c0e7ad9cb67198474843405d2cd427931d9a20fa66c6572f1",
+    "published_at_utc": "2025-10-07T07:08:55Z",
+    "hash": "8395b3c752e7a612859d183ef9fbc9f84a07fbe429cfa38f99f6adaa822b9cba",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "BullZilla: The Meme Coin Changing the Game - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdGtQU1FlTnVuWm9vd1RDR1NzUTQxTDdQOHRHdW9FWTVLRkpzZE9HbV9yYllaVU9fbjBLeWNhSFdHLVVzRmEyakNQZVk5SG9Hb0lGUWVSYWl2MFVzTlY3RDdUS3BVZ283cWYwenhTOUg3RUx0d0txNkR5QV9Nc3R2eDNVcjF3UjRF?oc=5",
+    "title": "Zcash vs. Bitcoin: Can the Privacy Coin’s 190% Surge Mark a New Crypto Rotation? - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnE3ekwtdkhFMFYya3M0Z0tCY3laOW5ZQU56THY1bDlvT0JhY3JJNkh1WWxKNWlnY2VaQUpsUlpoWnU4blVwbEl1aEg1RlRtNmowUmtzdGJNeEFTSTNUeVRqVUZHNUJRMnFrOGJOVWg4ZnNneEg4Um9UbFV3WUtFc0llVjU1dW1tZWJEc2xPNlRlYW9UaU5jQ083NHNHZER0NHc4aTViblRSVE5kcXBEUzdyVkRwclhxNnRDOVdkTHB4aVBz?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T05:56:09Z",
-    "hash": "660a17ee375e2fdb29af08de6e378cc5c6cedc1e26cba564dbd3c40cc1ccbf1c",
+    "published_at_utc": "2025-10-07T07:03:00Z",
+    "hash": "0a1e53d50dbc880b3170688c8452ed264139485f0d2a02600f7bc5afe4c4bffa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Geldanlage  : Gehen Sie schlauer als unser Finanzredakteur ins neue Quartal?",
+    "url": "https://www.handelsblatt.com/finanzen/geldanlage-quiz-wussten-sies-welche-neue-aktie-einen-satz-beim-ipo-machte/100157636.html",
+    "summary": "Im vergangenen Quartal bestimmte Donald Trump erneut die News. Doch neben dem Hin und Her um die Fed konnten Anleger auch Hoffnung schöpfen – zum Beispiel bei IPOs. Hier erfahren Sie, warum.",
+    "published_at_utc": "2025-10-07T07:01:00Z",
+    "hash": "18b9cd071272ecbc33e630edbd09ccee1c19c40d4eb434656e8b1b74c8bc95ff",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "PioneerHash Ignites XRP Ecosystem with Green Energy Mining Contracts - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdDhUQWFWN3hzVFZLXzhnZUpkV013ZVFXNTR5cHJFUGNvNGNXeDNodGcxYmdOdjZMazRZWnMyWV9oRHRGRFdXT3g5LTZzdWlOMnhzaDdEbTlsdzh4TEZhOVpEMnlFNk15WU1TaUt5UU91ekRsQWt2WTN1TEFnRzdxdmIwTWo5YzU5b0NMaVB2UG5wSndzNGxCSm5HdVQ5eDNhX01qV2RSd2JrVVpQVlBxcHJXWUZrQzhpdDQ1VDdTRGRPWk1WdklUb0pKQXVBdVFKbGgtNEtxY0hZMzg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T07:00:00Z",
+    "hash": "c0ebb9ce7f9684ed63b723c1877134ef29dce60c1f2600b63b61ffffbe0c2e37",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: Could ETH Price Reach $50,000 By 2030? - TechFinancials",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLW9GakdidS1kX0FxdUlJMVhwbDFTZGFvQ1oxa0VNY3dQVThrWVlkZ09hSlJlSGhEdG5EZF9BUWNxY29DSmxMX0dHTkNlNnFYYkpDS0ZmaXotaU5BSllzcm40Qm1GalNlbUNsR0tZSkpsYzZTNERQMGpOeG95ZmNUcUdidm9VWmN3d0VGTTI4eFJmSU9HbzdUWWhHNWtpSHNrYlFzZw?oc=5",
+    "title": "Ethereum (ETH) Price: Breaks Above $4,600 as Grayscale Launches Spot Staking ETPs - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2VJaG1qeF9MTFhQcTdWYVlublF3LXdnMWtDRkVTaVB5UzVObFEzT2VJVVpKenFxTGp2Vm1qQlU0QnN5RTZ5SVZQOFZnLUFnWndscDJRcU14NWJpYUIxaG5OUE5ubzdGRHNPdUNwcXh1SmtKWjlkOVl6SDRYU2dTaURRR2M0TGZaRVBFX1FRdzFVWmJIT1Z4VVJiQW15YXRQd29J?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T05:48:01Z",
-    "hash": "efaa2bc14f5307fa5f7222b3eff0ae180f9b342efa8ab9811100b234da74eca4",
+    "published_at_utc": "2025-10-07T06:51:36Z",
+    "hash": "cdf42f646ac266db01012ae667e731e704167757c1edc97b9e968e746cb24d46",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Inc. (GOOG/GOOGL): Navigating the AI Frontier and Regulatory Headwinds - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPd01aMnVqNHZieUYwbF9yN2VDbkQwWTJrWUZOdmZReVdsSU5QV0h3UHJjWVI4dlF1YUZhZGlVV0toTkNOdDVhOEJjV2lIZHRVdVB1d1N5RTRtU19ZXzVZNjdhMGVJN3pOZzU1akhLcDI5T3lueTl0Tlo5VFh1NjBkZXRDLXBNb3hoaTl3QWtfUDBzVGtpQUplX3RkMjU1Szl6NHJnSzYxYjR2REFhMTdKSU1CcE9PQXQwRGFKTnFOd2FHYnBXR1NmWV9Mc0dyNjRTQXgtVDlDdGowcWcxaUdfQ0ZB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T06:43:00Z",
+    "hash": "5f6a2c46f16c4c91d8acc2453da6aa6eecfd57ae84cc516df10cf61e108642b9",
     "source": "gnews"
   }
 ]
