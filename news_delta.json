@@ -1,42 +1,82 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Künstliche Intelligenz : Zweifel an der Profitabilität des KI-Geschäfts – Oracle-Aktie sinkt",
-    "url": "https://www.handelsblatt.com/technik/it-internet/kuenstliche-intelligenz-zweifel-an-der-profitabilitaet-des-ki-geschaefts-oracle-aktie-sinkt/100160756.html",
-    "summary": "Bloß Margen wie im Einzelhandel? Die Profitabilität der KI-Dienste des Cloudanbieters liegt offenbar deutlich unter den Erwartungen. Auch die Papiere von Nvidia geraten unter Druck.",
-    "published_at_utc": "2025-10-07T22:40:16Z",
-    "hash": "5bf18900fdc5ccdf3c25e83885c16373e348c2083989f0241df569565a9c6026",
-    "source": "rss:handelsblatt.com"
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Insider Selling: NVIDIA (NASDAQ:NVDA) CEO Sells $14,130,000.00 in Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU4yRWcxWWYxY0Z0eE1QcV9vanZIZURlRm5IWTNBcldYaDh1TkZWc0hJLU5CLWNqcThtTndEQlF2MlBwaVlxb2J2QXVhREZhdGdGZnlHYUZ6VU5Ud25penJtTnM3RkVyRjl4UXN6RjAxdk8tRVlMODVpeVhfVVNSb09yTGtjRnRIc3lPNUxCOHNjdEp0N1dXWGRTbXVUaHd1NEk5MzlTS1FiUFMtTGx0OXpsRUNhQnA4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T23:15:59Z",
+    "hash": "76e21aead5d5a9d5e6750b17da1ac200b5458dd6841455c268de5f22300ad3dd",
+    "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Cryptocurrency Live News & Updates : Bitcoin ETFs Achieve Major Inflow as BTC Surges - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3ZNUlBobG9VUFZTY2hQQWJkSGl2NVdFSTA0SnFIMGFiZFdQQV9veUEwQ3hmaVE3ZXFUc1p1SmZ1MkZpNDcyOXVNUTVBVE9IbDVabTl5dFdxbUNENDdVQ3NQd1pKLTF5ZlhBYTBNTEd5SERNS0RYTUVwekoxSHpQclc5dWkwOV9pRm84dS130gGTAUFVX3lxTE9ObU1JcXZ6b2NjVHo5R2ZfZGNKUTNKSnZYNDYxT1JiODRWQjFmQ1pRM1hUV0hCRHNLMzBHUG5tNUZHVzl2Smlzc05heHlucDBQc3dLZDNJV2tLSVBEekY5d0plWW9IcEJkdEhzVjJkNWR0dDZYMTdDQnpIVGdweFU2Ym1qQUt6UFNQczVyRG9SSklXYw?oc=5",
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRPI ETF and XRPR Surge Toward Launch as XRP (XRP-USD) Trades at $2.86 - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXg0UHRNc25uc3R6Ri1pdEw3WlZTSkhSSlpwMWd4TUEtaVZKeC1WTk9VWXU3M1RkNVZvSHhWMWhBNEJ3ZjE1X3U4eEVJODh2TXJoVmQtc0NYNk0wYnBDUHBKamQ0Mk9XMG1ESW9aeVM4REVqWG1ndTFtZ2RkVFliUVBB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T22:40:05Z",
-    "hash": "0c4f913e76ef807676a83b9c45cbfddedc991c34d0bf3a56d69c7753d8612931",
+    "published_at_utc": "2025-10-07T23:10:12Z",
+    "hash": "4e37938b655bfed43d024cdeec0a3445d8f19e7efb81453098e8e6d636afa0d0",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA (NASDAQ:NVDA) CEO Jen Hsun Huang Sells 75,000 Shares - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODhHVHlCT2dzbWFnclNuRjRwdE8tS1lIckprYVFJaW05LTJCWlFTLVhFRGgxa2pZOXkxenpmZW1ISTJ2X0tKN2ZYeHE2Nm9tMmFGdG9OcXFDR0Y3M3ltVF9xa0puTmhqWFYzLWF3Q1RDVGxleTU2QmNNMzNVa1RfYUJBVjREM0l1djlnRExXOGV1NGZyZ0oxczhIMXJ2b1NEdFlBaXRtdl9vZE9jaUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T23:09:06Z",
+    "hash": "14014a8c86c0fb1b4eb37696c88fd8e1a0088d0334e9bd3f8af5c8848e3c1f75",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "AiRWA Inc. (YYAI) Stock: Plunges 92% Despite $30M Solana Boost and Tokenized Equity Breakthrough - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX3oxSmExMk9VdXZ0WllvUjVRcHhRUHNCRG5SeEU2d3pjNFVKTk5DNWhWQ2tfbkxuX2RlQ3UyNmJkWmlMbGFuejBobDZSQXAtWGZCWDJwWHZVRzR1d0N6TjhrTWtJcUpLeWc5a0wyR2c5bTlFUDlXMnZyV0h4akltSmNtMnQyclhUa3YyWm1SNi1ZU3VRR0t3R3JZOFhaMWpEUVRtTV82ZkUtSW51QUUxVXlR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T23:05:04Z",
+    "hash": "93c2b6e49d19f547de0f82f6d17c01a96dd8ab46a6a2da531a0b3fcb043f66b0",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Best Crypto to Buy Now 7 October – XRP, Plasma, Bittensor - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWE1NbzZpV0Ywd2ZMYW5sTWFfYzY1VUVWTmJnelQySXJMb3F6UG52SFhmVEFmblhQMnp1S2R2QlNwek9wdXg4SE9URkt1VDNkc0ZadXdyUm9Xa1QySTFoUjJqeW5mNnc5R1Q1MGQyb0VaLXpPUXJwR3hkME9OWjJFZmZDbXViTmNtOGc?oc=5",
+    "title": "Crypto Price Prediction Today 7 October – XRP, Solana, Shiba Inu - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEdORGJuSHZsbU9mb21Rd1luWFJaRUpIN0Z4enlKX0ZnS3NjbFhPLU5MMko2TGtIekpDcGlIbGNMbjQzZEc0TEM3SkVlbWJRbTREQXRBbFVVTGV4UXBwanFELWdpT0gtQXZ0bnVFTXNHeFNGY21DX2dhZHA5THlsbnIxRHRKYjRDOThGQjROUVlpLWs?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T22:30:00Z",
-    "hash": "507efc2485e153f9ee5312178abb02c8f98582047aea5bae87fa3b0196ad0756",
+    "published_at_utc": "2025-10-07T23:05:00Z",
+    "hash": "11a697236135db79b7b3d3e0f35a8b190b4ba2bd45f3052cf5aafb5dec83a05a",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Claude Predicts Prices for XRP, Pepe and Pi by Year-End - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSnh0ekJhREZ5aG5NUWh3ZTJfOTU3OGdIZUM3Y1VSeHFBYlFYUEF3TEZYeF9lWG1UemZUYzhpQUsza3hXN0ZXWkQtQWtBMThaNmlvWklXUHZEMTRmLUtCNU1XbW9uN2c4bDgzelI0WU9qUmc1Q0VEOFcyUEZRN1FHNEl0SmxSZ3dMREpMN1JBNXBnWUJRMDFVSEFCNWI1elcyMk51OXBGUTJrU3lvUFE?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Crypto Price Prediction Today 7 October – XRP, Solana, Shiba Inu - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEdORGJuSHZsbU9mb21Rd1luWFJaRUpIN0Z4enlKX0ZnS3NjbFhPLU5MMko2TGtIekpDcGlIbGNMbjQzZEc0TEM3SkVlbWJRbTREQXRBbFVVTGV4UXBwanFELWdpT0gtQXZ0bnVFTXNHeFNGY21DX2dhZHA5THlsbnIxRHRKYjRDOThGQjROUVlpLWs?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-07T22:30:00Z",
-    "hash": "4d16e49fca72f1325ad9bdb474666cc52b75fbe05984323f6c3576270e020632",
+    "published_at_utc": "2025-10-07T23:05:00Z",
+    "hash": "11a697236135db79b7b3d3e0f35a8b190b4ba2bd45f3052cf5aafb5dec83a05a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase applies for national trust charter - Finextra Research",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcDNyVHRtSkNaXy1pTE0zSVhYVjZJVWx1QlBLQUJvcXZjYUZNUm5yalhNeGp1a1hUMHg3SG1HUm53NzQtRV9iNzF6Wjc0ODFKektjR25hT2kzelY1eHNqNFJlVklCVUdUMnUxY0diRUJDV0JnUG1BMlNYTHJTT05uZ3AwVDhhVmpkRnU4a1ZsZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T23:03:31Z",
+    "hash": "26689fc5b142da0676e42248a3220271e0728c8bd65736bfc628b4280e3c955a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO sells $42.1M in common stock as part of option exercise - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3JWNUl1ZmF2bHlMcElWWERVOWt1XzhiUFNDZ1hMdXQ3bUswTFpBdkUzamZnOEd6QzlIampoQUpPZ3BVczM5ZFh5M01FQjJtTi1uR1FydjlidXA3OWUzNFd1M1lrcVFaVHA5bDFxcVQ1LTUtVFJRSGtJeWFVQTZ5N0xGLWVhV1dVX2ZDRFNYOGhxZENEOENodzRLb2V0MVAzN0ZONEI3d2NwbmNBWklKdjhB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-07T22:56:31Z",
+    "hash": "19b8ab49772fb3b39f00d804c88241d8e10a9e1b55c98e431f75bf1d5e06f72b",
     "source": "gnews"
   }
 ]
