@@ -1,42 +1,202 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google’s Share Alert Enhances Android Earthquake Warnings Across Platforms - WebProNews",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUszTk9CZ3hiRjJGNFdMdllzZFdvRXRfTmlhQjRZT29Yci05RVhYYkVDS0xKT2pQVFZsMDhPeEg0Z1hrSkxRQ0N0U1lfUVFvMTZaNElLaXVoaDZiRm40SmRIajd5WDRReGNRZGx0Rm1rbDlMTlNET083akhNNUgwYWRWMWRScHFoMlBLTzFtSnlWeVU4QmtPUXlGZGJqWExpRmg0?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Staking Goes Live in New York City: Brian Armstrong Celebrates The Milestone - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DYWNnQl9KQXItUlBja3NZNnJOWE5SeGdyaGNSWVRJaUxDRmVPQjVWS0lqeVpubURvZW9hck5ON3QwRnhfc0hJYVpfcnZBT1V0d2kycWpQSm5TYWZmU1JSWHI3MjFIVDUzRmNqRVhjUdIBdEFVX3lxTE9hejB2bWwxUm1ZYThSei13NFFzLS1tRTR4dzJ0VHRMaFJ2MEtSUEloMUlBa1RQQ0R5LVdIc1BQREtHZGJhcGpOR3RveVZvX1NnQVQtb1FPeml0MFF3MW9DbXVzWVJpSlZqSXItY2s1Q1YxX3dT?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T16:47:20Z",
-    "hash": "3234b142a2dba2d5383c5e426a4f90b583c4ee4fdafe9657d075ae291c1100f4",
+    "published_at_utc": "2025-10-08T17:22:51Z",
+    "hash": "0de5d2ffa54553418a1ac6aed0ca6227f6edd079e7dcccf7b9429f1fa6e7db6b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Dow, S&P 500, Nasdaq Rise; Tesla, Oracle, Nvidia, Intel; Fed Minutes; Gold Record - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxON2FUTm9zb1BWbjR6S3MyS1Z5aGY5cTQtVkdEVEpsRWVyOXFHMEs3YThtek5GdHhMTk04MkFMQi1SYVZXUjA4QUswM0NEYjlvYXpaelVPem1XeTBDclJrTktMaDBnRnRVVlh0R2pVd3VEWS1WWWs0a3FXOHhjR1RJLThOSldmbi1CeHh5dkVRTGNsazdzSi1POGRUNEhJVWVYRTdCZFlqYS1nakRYaE9CU1FoTDA4dFZUcU5ybzN0M253TGo4d2QyMUtqSFNOLTVDUjRkT0hfUkM2dWJEcnlHeGtDelBDVGE2Z2xiaUoyT1dydjJNUEtrSG5vSE9hQWQ2R3NnRVlvNTBMUU5ZZzlDOFBkUWxXbVJraW1qVWtsYVEzTDNKRXoxeGtsaU1Gd3FlQUJ4UkpZVUdQdnJhVGNBVHV2S1RFS3dsZHdENFp0NkxsTTFOQnpmUzRLZzF3OFgzTHNoVUlER2pxZUFMSjlQY2JTNXpIU2g4Y184?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:19:00Z",
+    "hash": "cfdb816ee9b722562b750c1dd9b84dc4fd04cb5967b4008775e3c245d6a51ec1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "The Best Crypto To Buy Now Is XRP & Remittix As PayFi Market Expected To Explode - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWpzQTFuWGNUMGdyLUtaUTlkYzlDbzJoREtJR1N1NDB0Rm53V2xKOS1adDQ2RzVHRFhhQ2pBMnNnQk9xMFJ6SlR5cGktMkJxbEpNdXFXNkx3STA1OW1xeWU1R2ZYbk1fSXhabXhkN2VJbTgwWVZSZVRyQnpHZEpMLUJ1Q0xleURqdHoxeldjYUFDY250eWtQdzBzdlpKNzZYYWc3dEtn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:12:09Z",
+    "hash": "df2e7a39a9db2b516f86f3e2caad82bdc1615116aa1249f081a48e999cac6b88",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Emerges from Regulatory Shadows: A Path to Price Recovery Above $3 Amidst ETF Frenzy - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSjkwWC04SVhMSW5aUTNqU3FWOG92QlBhTzhpazZCaEg3ZkJUeEZvWWlZTHEyZDFHejJFajlJSjZRX2pEX1l3QkpRUlo3akRuMkVZaVRvSW9lWXprSWM3WU5ha3NXUFdYOTREVGR6YmRBS1Vzck5ybEtUUk9ycDVGU0ZpQzBpcjRFLWhnRVdCX0VDb2VBakFaWFhhUWVDUFdYYk5MYjJ5RlktUTc3LS1DakQ1bk56a1N2MWV2WS1zT2xaWW05ZnpSOTRNNmFnMWVLazdDY1hyaUc2Z2M0WkRoTUx5bXJUSlNjc2lyb0ItZmpiRUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:12:00Z",
+    "hash": "0f8806c85ca1baccac1f019f103af2f4355a1295d832ed79ccc8b902091948af",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bearish Signal? Peter Brandt Warns of XRP Drop Below $2.66 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzREOUpRRWRKeU9KWHU0T3dUcE1kUUF6eE04bENvVHlUcnZ2WXpheDZHWVdfQXRPMGJCZm5VSExXOFRIbldsbFFXQnZlelNtWGYydXhwalVBNGFBX1c3S3lqVnV6ZXNPXzNNekdaNXl6Q0U2bUt3b1h3WThLb1FLNDZwZnY4WC1f?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:11:55Z",
+    "hash": "ed7a8d0c155a4a5c85251cb9042e92e13ba6450ce6ce19fb5ce4cc7d90fea1b2",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia In A Buy Zone; CEO Jensen Huang Says This About AI Demand - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR2NObEV1YXpFZjh0ZWFiSnA3bzJwRFE3bDhWTDFmTFVFY0ZGWUVNbExYSmhIWExmVW4tclBXR0VXam94c1M0WWZqUVFGaDVxUkgyVXQyQkZIWnpOeTNmekJzcy1kT3kwVXUwMmNBUjRFZDlMcVRlVkx2MGtKakJkOXIxNkVwLUZ2VVQxbk82MEl1b2NQZEdXY05jWVBTOGR3azdieGwtcVhWczNDbzdPb2pNOTFqeEg4Y21uQXV1SDdTd3ljWFBIaHVQQkR1cDVVdFYwaTh6YnVOM0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:11:53Z",
+    "hash": "926720905662ceecf59854dc255c95c6a978a6b39352b4938571ff995553fd3a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dell leads S&P 500 gains, Nvidia CEO confirms xAI investment - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxdkNMXzRxN2VKTW5BTThERnEySWptWWllbkttOEg0SnYza3g5bkFROVQyam1mNjlzLWNsclpPWTZiTkdTZzJVemd4QXc4ejRqRzVoaUJEQ0h2YkNIT0dtSjlhbUNlQXM5LW1YREdzN2lqSTJVOGZyRg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:11:22Z",
+    "hash": "8454314930ab476ba48e27d7c7d5d6ca2e7fef18eea376125141b13b86625c1c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Under Pressure: Validators Are Fleeing, but What’s Behind These $10B in ETH? - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWVTQ00xLXE0UDlJdkxTSnQ0Sm1VenlRUE9ta1FwbUVRZW9qbW5nZWdKWVA2RjU4cUJZNUxrZlpNOGg2a3lJNGNYV200NDNqOTdTeVNFM3doVHFpUG5CTHVuTWhqS0w5WFRiTGkycU5RY2p6RTZ0UkZBU3ROYUlMT1loYTIzWmR2WmdsS1pxemJHeWZLdkV4T1pUTVpIUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:05:00Z",
+    "hash": "451eec465755520d8e72e924f204df438ddaf986445087ec0c7a39b9ea0ec609",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "This Robinhood Trade Stands To Pay Off With A Nearly 40% Investment Return - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1JlbHJqTF91al9BMHNhZkdPRUZBY1lBa3FBd2FBdWYzSndiZkp2bjFjY29LeGxjX1I4Nl9va0Z5QlN1NExMR0FBRG1PRnp6d05DUHMzVk5MTlZZakVYWE5VbzJfNnI5b0Q3c0lxR1pUd0pLU3dLdGt6b3QtNDRkbFZObDFiWVY1aGRSM2RPS2x4b21jMWF6Vm9pa1ZoMVEzbXdyMEZfNWptVDVzX2hVdU9iM04?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:04:00Z",
+    "hash": "f298d4724d1c4602fa8738496a0cd3e46f220e31e692841002a6cd7c799a1423",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Latest News: Forward Industries Launches Institutional-Grade Validator on Solana - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHJhdjNfZ2tQbHJoQzY5SGNBUHRHX1R0N0dCeVJhSTY3YUZIU2QtZDQ4b1FjY1RRMGlEN1B1emlFM25Nb01iR2wxaFliOHdxZHFyQmVTSmlRckFobms3TkNjZXkxWkVMaUxGVklwUG1IRUdQeWExWTRvN25mQmNNcFhMV0RYelBLa3JzTDF0VWRmZGdDRVdDTjF4YklFUFVyMG9PdGJaOWI2SG84RVNCUk1tYzJyWGFpM25v?oc=5",
+    "title": "Ethena Labs, Jupiter Partner to Launch JupUSD Stablecoin on Solana - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ1lSWFJ1bDB6dHpkeVpmQmZlUzVxVE1hcXlCcEtIUWNUbkhRbEZVOXFEbi1HbU5sbkg0ckU4ZTUyOXAzZGg5RXlxNmFuNTRWREtCU2xIRS1feUQxMkZBaEF4Qnpkc1J1YjRIdzBWUWgzeHJMSU16aG5DNmpNRTk2TElCZ3gzMXN5OUNqZ3RuUFUyWUw4R3dZQXdB0gGfAUFVX3lxTE1fbnNtWS1ZWGFTNUlOS3BOYWpzcUpvTzVkMm1TbUREQUJsblhYbjQ4QmotdVVySTkwbUJUUFV3b0ZRZC1jdnk5QXVkeVVjQUdjdWJzSERXX1pYNDhhZmpydTgwQkhGc3oxRlpDUGljaUFkRE9xd1VCcUh0aTZPUG1ydWtGYnBWeUZwLXNVSUtVVk5PTFlKOEZpQXhPZmh1UQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T16:45:09Z",
-    "hash": "e20b2e9de70e5f1033212fbaa6c3bfea9ef4e33a62f40398e9ed3edd1aeb6c05",
+    "published_at_utc": "2025-10-08T17:02:55Z",
+    "hash": "09ed6bdb0f9fb9378c3f47412f95294a0ecf34d98c26e59d215f8ce0b191c197",
     "source": "gnews"
   },
   {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "UL Solutions stock hits all-time high at 74.26 USD By Investing.com - Investing.com Australia",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVN1MTZ0RWw0ZllkY0pBMWRpTlp2M1JxMDhrWFFLckRhMktXYlZscUNGVDhMTHlUSVBIWTJlb0ZaalpzZUZGdTYtbktVOEVBdTVRb0t2eTR3SXZ3QVlYTXgyWS0zR2hLdEV4VmdKVXlaVXdlQndLQ0lxVnpfT1FTSjM1ZEotbFNfdmdja1NHMXhsbERQejY2ZHMwWEVGejgwZVZrNFNqbw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "3 Quantum Computing Stocks that Could Be The Next Nvidia - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWVsSTd3SHFkQkpNdTVTX2JHaWpCTUJoR016aWpDcEtMb3RRaElsajlRTWx3TjVUZ0x4dTZkVlNuSUNvUktNZmNwMHBfc2E2TjFmbE5Dd2cwUlpWN3MtdW5fR2pSeXVkQXoxbUVyVVlya3VxYWNRNmZHN1g3V1d2Tk5KOXM1YzFtU1B0RXRnczktZ1VMc3dtS2x5VzF1SThVSlE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T16:44:17Z",
-    "hash": "e640fe1acbe931b058835c9734ecaf9b35fc6d7d9d52a734c4449c0cf3378148",
+    "published_at_utc": "2025-10-08T17:00:52Z",
+    "hash": "a54501e357191536e25639f3f32054ef299abcfc4f6b790239d061aa39fb8c87",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Can't Break Resistance at $3; Digitap ($TAP) is Breaking Presale Records Every Single Day - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUpsdkdZNFdRMTdkTml1TDQ1TERiX21YSWJEdUNMXzhHR0NVQzFMeldselVFREo2akpBdVVZam1oM3hRMXZFblhERk1SbGk0alQzNnJzZm9wTkU1ZGtWYUlxb2RCT0hRbzgzRWdxSEhLaEx2RVRxNEN6VV95SGpVeWtIOHV6OEJxd3JoUEVZT3lOMVFzUlJQeGtWc2tNUDkxNFctV2gyaVNWV2oza3NGTGNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:00:28Z",
+    "hash": "261538bf401e1b00113474d1694e984fdcbd129354bf87aca1e0fbc0746f5a38",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is XRP Price Ready to Break Out or Due for a Short Dip? - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16ME5XVGlRRy1YWlR3REp0Z0hMZl9SN3Y0SU9uMEVUMnR1NWpNdVZFMUFvYk1LUjNJWE5qVmF4bnpyWTFVeDV4LS1zd1RVR2x5NUJrSVBjc282R3BWeDFVZ1dVWTBVT1JkdGdRV2RnWFBic0k?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:00:00Z",
+    "hash": "85d256b6edbf248092e3f9ebb84c67b2067c80eed1dc860d0e9c8280d59d4c2a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google announces €5 billion investment in Belgian data centre, creating 300 jobs - belganewsagency.eu",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkxBTW0tOF9CbEQ1eHIxVnhPa0NsUldIZktsVnVaazQ3enoya3BGS3Z0YS1GTE5wNEpjdm9rX0drRF90YlR3VjFKMWN5aE5sOTRGYmxPSlV5SVo5R3JmSlNzNEptWEpualVpajlNNXdQNTNLODBJNUhHamQ1MGpQTUs2OUpIYUpWQlA2dnhrbGd0MEM5cXhqbE81R1lXU0F6OHNpZ0JneU1lVFc0Znc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T17:00:00Z",
+    "hash": "f52d598f58fe925bc8ceb0b44145048ebdf79a8b9025782245299bdb4901431b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Price Eyes $250 As Remittix Could Top $5.50 From $0.11 In Uptober - TechFinancials",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOemRkLWNNLU5tbDNDcVJ4dl9jM0Ryd2lPdmNiaXRZbUpMLVhZQWpkQXZDZDdlcW55NExqWWRSZDNjY0lwRTBibGYzbFdWWU1ZVjRMR0t5VTV4cmwyTmhPcmoxX1ltbnB2YTl0MkpOYjJFNzhIQ2lwU1JvdERZeWVfZC05VVFHXy03RUxfU0UwUHM0bTREZEJGNzdXR0xpaENOaU9EdTJqUXVja1JYazZLdC1XZXFOUDRhRG5ZX05WdTJzRWp4bnA2ZnRIdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:57:18Z",
+    "hash": "4b099998ea3ed23aa04d1b39331341c55c827d6303ef6b04420867ad50c962ef",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin price crashes 1.4% to $122,494 as U.S. dollar surge hits crypto market — Ethereum, XRP, Solana sli - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOT085Yjd5Rk1ib2kzVHJDU2xfNzRyNzhqVXFqcldNR0wxOVVZdEx2Snc4eGUwckY4VGFIaG5mczFiOVloM3VVb3ZFSV8zSUtSNndWNnZtYk5VWkpRVzhQWlZrdWVpMTgtY3FfQ3dtXzNnb05Na1pVN24xTmdCeDVMVzhzbldOUU5WSElfUFBFbnpaZ19nYUJHNEVjZVVYSUU5RmVoSEkzTjJKc3E3OHZXNzNwWnRESEJHdzdvdTZ6ZkFIQTc1VlZPem9FTnBKaUNqelJfNkhEX2lrdTFiY3BHNzNFMkFhenRpRDYxQlVVdFJkcDNRQk90STJIN3pScjZxOUtGcjViV2FHTU5zcF9KUUM1UENBZWhlbmJFN2FxMHhMM1pWR0MwdEMwZjE3c1ZaR0lUZXU2Y0l3cWNPZHViclR4WTllQ3A4N09oSzhZcmFqZFV2b3ExdUcwdkNrY29ELVd2MDRR0gHrAkFVX3lxTFBhWE9HeGlRZ3ZiS3dmVVBkUlQtZTlwMnRpb2JWSlJOWWNNSDdVdjNNLVdudEJfT0l0V01JWmg0cGRMWjQteXNlWGRKUlczdFpabGdYNzFmWTdmaG5KVUJLTEs3dFFnMnUyby1UN1ZkVlNzSzlQclFLUDZad2hOaEJGTmFPTFRuRUpRQ2Y0RUF2Q1Fzdk8xSGIweWlXVlNTSTFWV2w1d0kwVHowQ1hEN0xjOW9WNDBLLTVQczMzVnJQX0pJR0hmUHF5dk5iUnZzLWVUOVhqanoyMFh4eXpPY1BvMUhWZ1NUVG1aalBvOVVIWVRPVXNkR1dLRkFiX0s2eEt5R1NUSHBNSnFnd1IzM19zU3RlWG96cENzeEVxVXZDQ21XcmxVRXhkYXRhMzZBM0tpMl9yRUl0bTJobDNPVWRVYTJZOUVLakRMUHlIWVZLNHFSVVBScXNUd1dqNWVwSTV5TVdUWjdlU3Robw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:56:16Z",
+    "hash": "272494912565dd91b84d7d828a88744d6b402cb6e2e80b571aba489d8527328f",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Here’s How Chinese Traders Are Placing Their Meme Coin Bets - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTFjLTJxVk5FVjRMTzZ0YnhIUEh5dHdQOGN5em5mTnNsQmY1VTRsMGtORDJXOEkxZmhadWkxdUc1NmhwbXU3SUtUSE8wRFV6RGhyUHJKLUMzanRrdHN0MW4za1hISEJkSTRFbTV0d21YQUdwdGxScWo2a3V5QTYwb25KQQ?oc=5",
+    "title": "Bitcoin price crashes 1.4% to $122,494 as U.S. dollar surge hits crypto market — Ethereum, XRP, Solana sli - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOT085Yjd5Rk1ib2kzVHJDU2xfNzRyNzhqVXFqcldNR0wxOVVZdEx2Snc4eGUwckY4VGFIaG5mczFiOVloM3VVb3ZFSV8zSUtSNndWNnZtYk5VWkpRVzhQWlZrdWVpMTgtY3FfQ3dtXzNnb05Na1pVN24xTmdCeDVMVzhzbldOUU5WSElfUFBFbnpaZ19nYUJHNEVjZVVYSUU5RmVoSEkzTjJKc3E3OHZXNzNwWnRESEJHdzdvdTZ6ZkFIQTc1VlZPem9FTnBKaUNqelJfNkhEX2lrdTFiY3BHNzNFMkFhenRpRDYxQlVVdFJkcDNRQk90STJIN3pScjZxOUtGcjViV2FHTU5zcF9KUUM1UENBZWhlbmJFN2FxMHhMM1pWR0MwdEMwZjE3c1ZaR0lUZXU2Y0l3cWNPZHViclR4WTllQ3A4N09oSzhZcmFqZFV2b3ExdUcwdkNrY29ELVd2MDRR0gHrAkFVX3lxTFBhWE9HeGlRZ3ZiS3dmVVBkUlQtZTlwMnRpb2JWSlJOWWNNSDdVdjNNLVdudEJfT0l0V01JWmg0cGRMWjQteXNlWGRKUlczdFpabGdYNzFmWTdmaG5KVUJLTEs3dFFnMnUyby1UN1ZkVlNzSzlQclFLUDZad2hOaEJGTmFPTFRuRUpRQ2Y0RUF2Q1Fzdk8xSGIweWlXVlNTSTFWV2w1d0kwVHowQ1hEN0xjOW9WNDBLLTVQczMzVnJQX0pJR0hmUHF5dk5iUnZzLWVUOVhqanoyMFh4eXpPY1BvMUhWZ1NUVG1aalBvOVVIWVRPVXNkR1dLRkFiX0s2eEt5R1NUSHBNSnFnd1IzM19zU3RlWG96cENzeEVxVXZDQ21XcmxVRXhkYXRhMzZBM0tpMl9yRUl0bTJobDNPVWRVYTJZOUVLakRMUHlIWVZLNHFSVVBScXNUd1dqNWVwSTV5TVdUWjdlU3Robw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T16:38:00Z",
-    "hash": "aad3f68aecffbc41f637aec6dcfb789f9551f2f325b794a7fb11835efc19d0b3",
+    "published_at_utc": "2025-10-08T16:56:16Z",
+    "hash": "272494912565dd91b84d7d828a88744d6b402cb6e2e80b571aba489d8527328f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin price crashes 1.4% to $122,494 as U.S. dollar surge hits crypto market — Ethereum, XRP, Solana sli - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOT085Yjd5Rk1ib2kzVHJDU2xfNzRyNzhqVXFqcldNR0wxOVVZdEx2Snc4eGUwckY4VGFIaG5mczFiOVloM3VVb3ZFSV8zSUtSNndWNnZtYk5VWkpRVzhQWlZrdWVpMTgtY3FfQ3dtXzNnb05Na1pVN24xTmdCeDVMVzhzbldOUU5WSElfUFBFbnpaZ19nYUJHNEVjZVVYSUU5RmVoSEkzTjJKc3E3OHZXNzNwWnRESEJHdzdvdTZ6ZkFIQTc1VlZPem9FTnBKaUNqelJfNkhEX2lrdTFiY3BHNzNFMkFhenRpRDYxQlVVdFJkcDNRQk90STJIN3pScjZxOUtGcjViV2FHTU5zcF9KUUM1UENBZWhlbmJFN2FxMHhMM1pWR0MwdEMwZjE3c1ZaR0lUZXU2Y0l3cWNPZHViclR4WTllQ3A4N09oSzhZcmFqZFV2b3ExdUcwdkNrY29ELVd2MDRR0gHrAkFVX3lxTFBhWE9HeGlRZ3ZiS3dmVVBkUlQtZTlwMnRpb2JWSlJOWWNNSDdVdjNNLVdudEJfT0l0V01JWmg0cGRMWjQteXNlWGRKUlczdFpabGdYNzFmWTdmaG5KVUJLTEs3dFFnMnUyby1UN1ZkVlNzSzlQclFLUDZad2hOaEJGTmFPTFRuRUpRQ2Y0RUF2Q1Fzdk8xSGIweWlXVlNTSTFWV2w1d0kwVHowQ1hEN0xjOW9WNDBLLTVQczMzVnJQX0pJR0hmUHF5dk5iUnZzLWVUOVhqanoyMFh4eXpPY1BvMUhWZ1NUVG1aalBvOVVIWVRPVXNkR1dLRkFiX0s2eEt5R1NUSHBNSnFnd1IzM19zU3RlWG96cENzeEVxVXZDQ21XcmxVRXhkYXRhMzZBM0tpMl9yRUl0bTJobDNPVWRVYTJZOUVLakRMUHlIWVZLNHFSVVBScXNUd1dqNWVwSTV5TVdUWjdlU3Robw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:56:16Z",
+    "hash": "272494912565dd91b84d7d828a88744d6b402cb6e2e80b571aba489d8527328f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Neuer „KI Modus“: Alles Google, oder was?",
+    "url": "https://www.faz.net/aktuell/feuilleton/was-der-neue-ki-modus-von-google-anrichtet-110722554.html",
+    "summary": "Mit seinem neuen „KI Modus“ wird Google endgültig von der Such- zur Antwortmaschine. Diese wird viele Inhalteanbieter vernichten. Und uns eigenständiges Denken und Handeln abgewöhnen.",
+    "published_at_utc": "2025-10-08T16:56:10Z",
+    "hash": "25efd9c0b4b20409acbd85ecb62339b800de8c89d77c2a1c45ad4d8ede8b2a26",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia In A Buy Zone; CEO Jensen Huang Says This About AI Demand - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTFuUWJmSzFCdU9qdnN5aHBwN3kzS0ZHQnI4b21LajljVHJPRGpZNkRxTlRCVWJwb2JuSkM3Y0JLYXAzUFNCZGFjUzIzWWd3U1hfU0JQdFBQWjAxODFGYnBLWTcyWjlTbTZ5MjNPSFJYaVZtM2xtekxFc0NjcDFya2VQMmktYWFLRVdVeVJ5VkM1UFRxSDVHUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:55:00Z",
+    "hash": "9e0929ef82d94f6857753f6d1e3243c95244a0b3e14da5bbfa6a21d53357212c",
     "source": "gnews"
   }
 ]
