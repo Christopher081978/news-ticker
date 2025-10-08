@@ -2,31 +2,121 @@
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Grayscale Staked 300,000 ETH — So Why Is Ethereum Falling? - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yc1NEUDFPRVZMaWdIN0RlSDBEYlhKTjYtM0ZjUzczZUsxaFRLSW5kZ1ozY3BCQWJUNmZfY0JlR21ud3RIQ3dzV3lvQnJUb2VmSUlTS1VpbFBlaU03ZTdsZ0lLaWVTWTZIaUI1eg?oc=5",
+    "title": "Bitcoin (BTC) Loses $5K in a Day, Ethereum (ETH) Drops Below $4,500: Market Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGNFVHhtRWljWUxkbkY4N25Ib1laSldDRzdXb1RGeHJ4cVVxSWt4WXQxTmNhWUxQRjJUeFRyQVFLQm1NaFIzektqbTJLdHk0SWV1SFNpM19BWDlJck0zc3V6UGtTc1JDQ1AxN3hMUGdtRFlubE1zTkd1Mzl6QmZtdHRnb2VYVUJwWGdMUXpDZ2NEcjQzRDVhX1BpVzl3TFU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T08:43:00Z",
-    "hash": "05206ba4ec9334439ad019f751a211b797d6f3395d189294c584bfbf39d4d149",
+    "published_at_utc": "2025-10-08T09:27:00Z",
+    "hash": "c9b948780af6ba430773d60216a5a9c1ceb25f5c73409244656a630cb051c89c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Loses $5K in a Day, Ethereum (ETH) Drops Below $4,500: Market Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGNFVHhtRWljWUxkbkY4N25Ib1laSldDRzdXb1RGeHJ4cVVxSWt4WXQxTmNhWUxQRjJUeFRyQVFLQm1NaFIzektqbTJLdHk0SWV1SFNpM19BWDlJck0zc3V6UGtTc1JDQ1AxN3hMUGdtRFlubE1zTkd1Mzl6QmZtdHRnb2VYVUJwWGdMUXpDZ2NEcjQzRDVhX1BpVzl3TFU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:27:00Z",
+    "hash": "c9b948780af6ba430773d60216a5a9c1ceb25f5c73409244656a630cb051c89c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Price Edges Closer To $5,000 As New Crypto Investors Bet Big On Remittix - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNGp2X2QxSTI1WEJscDFOV1k0WTlva3ZYcVJMeDVRWmVNS3RiZHBvLW1zd05kb0ZrakREYmpPUDF5Z0NjMGZUZ08xMUhlY1M3UlhtTUdHNjRRamFLdkxtb2ROY2dWb3ZoZ1ctSHBYNlluVV9Xd0hON0s3dl96UnlWSEg2ME9CbnVJQ0QwcjlGeW1kLUZ2S1Ixd21iZkNCcV94M1BrcjlOd0FRckVjQWk3QWJubXpoVUdWRVZ2ek13TWlrY0RRWVYtdUNoOUs?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:23:07Z",
+    "hash": "43122ba23e390deeda10a9d40d0b2c2a4abdc0c9cda959afc15a5e8797c31e4c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Jiko Receives Funding from Coinbase and Blockstream Capital Partners - FinSMEs",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3h5Z25FYXgxSHV1SkhiVFRwS3hlWkIzVTJmWjlocjZrWjdBNDY3WTh3S0UwY0JxbGh6RVByOThsTFNYdWo1dTY1M3dtb2FORjJsRFJaejNwM09qZmR0TExaX2tNckZBckwtODlha3JzMU11Q0JlRFloTmljM28yNlBoOXJxUTJ5dEctd1p6VFFKQjhNUXJzY1NSZ3NOemJLR2Jpbmtlcmo?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:21:15Z",
+    "hash": "2851c7a721ad04454bb9d514dba1213a5390ed391b98342ed56cba6287d78d71",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Kingswood Wealth Advisors LLC Has $1.34 Million Holdings in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHpnZ3VyaGZLdFNrQlFaQW1RajN2dWFFNFZxSUwybG1kcS00UkRSWGxvb1Zua3R5ZzE3ZjdnQ3lvWDI2VHMzd1NBZjZydDgwNW9Xc19MSDFiendsZGYtWUNES2VsUVpwVXEtTlV3clJzSmZwYnRjTTlqZ09fWlVFcDYzaFR1UkNVNmUwNVBKbnh6dGpTM2NDR0hZVmpSZDBSenV5U3BqSmRxam5sRjkzek50NmJKUG1EcE5xd2JQZzBNaXpzaDhLcWRTdmRVUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:16:13Z",
+    "hash": "492d5213197a8fd2092e66419d8a56fefe6ade559fd286eef40bee7edc876205",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP (LON:BP) Stock Price Crosses Above 50 Day Moving Average - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFFKTHlfQm5RTVRZU211c0UzbGJpY1JqTS01UmFKQTFPeGJodmpkWkt1aTF2dUljN05aRUQ2SW1UbEI0R2U2ZVUzMzVIU0JOeW1wMjJIdnZDOUg0S2lYaXczR1Bob210LXVxdkNpNFRwY29rMmJoYlNZRXJvWkpUNVFzUzJuOEtBOURXM08yUHl1TmgteHZYWGQzcVZDRUx3UTZCWFNOUVVVX2hoRzBRRnFzOGFzU01vWUM4Nw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:16:12Z",
+    "hash": "9a2a78ef5b6e5337c109e9be135e69341bb3fa27b3b4a22e7703a1db82bb7236",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Focused Investors LLC Has $157.23 Million Stake in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWVVQa21LMUsyRk5xZFFOd1JsY2o3eE42M0hwZGFOQVlHdlFJZ25MWXVNTVhEMHVzWF81b1lYZGtxTnc5Z0w2cDNGYlRBaXk2YjdiYmM3dTB0c01tV0lHRlh6cGRMRmszcnJtZ0dhclFRTWZVaC1qVzZUOUdjU19jcHN3ZEdYRlIyNVBFVjVJM242blVSTVhtSEhORUVGZHdfX0tTaEFRVzVBZkRWM29yOUJaUlFxWTZlRk9ic1c5TjhKS0gtT2lkbEQwRUtLR0h5Tm92cTVQWXdTWkppdlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:16:10Z",
+    "hash": "17c4ef348d187d2d5d00bee12cb05bd33513bf16e4d39dc131b77e219ff0a6da",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Kingswood Wealth Advisors LLC Lowers Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLTJJMF9vRU5aWUg2TWRpWEtZZTMtTTY0dW9aSjJkcTQ4RFB4QmFSX2JLejJLeWt1T2t5OTJ0NzdFNHJ2UU9kbTRqUWlsQU5xSUlmVGwyYnZQV185OXE2U3FFbEpZZlc2U2NrdzlpbWVfZ2NfQmFXWURvZTVMZ3hRWk16a2xnbk14MW93b2pJUjZYMXhSRC1ZT1doZVAzNnpqM2UyLW01Nnd4dTdSeGFTbloyUDNYSGsxam9ZOVA5U1gwQjZrdFBTVFdzNk9mRWtlXzYxTDY0Q0s2eWN5amc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:14:31Z",
+    "hash": "7c2edec017ffc69141c9459b2530051ded0fd7b28040093a1dc176987ed1d3ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Canopy Partners LLC Sells 1,567 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWZWMER2czFJYWcyRE9sQUR3b2tGUDJ0cVhmcVFGNDNudXVSNzlpUUpuSkdvamVhS2RRMGNoZzdpZFd3SnJ5RHZ2UFlCT21yVG5jMWQxUWJ2cVVueDZrYVVFSnlLWC0wSFVWYlZEZ05hVGhPREV6RlF1UnNmQUVVTDF1T2ZyVzFnUnQzTTVxVmI3cXJBOFNPYmpmbkV0Ql9FNHBEcy1kM2NGdWlaZzhjUnctQVEyRU5hZXhKOGpzUDhPRlRYRlFGYjJUVlgwamFPeUFz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:05:26Z",
+    "hash": "c2560fb6a6b40876d709bbaa52882e17635a9c97cff485b8665cd59b7186e49c",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "BNB Price: Token Surpasses XRP to Claim Third-Largest Crypto - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalE2Y2Ixa05WZDY4NzJ4ckV3Vlc5NmpjM29jeUdWenlLTDJyRkxxQkVyRDI2NXd3N2Ywb1l4ZDdZYnh1My13SE9DcTVVZEQ0ZjZ6SF95cVBaT1RIM1VQUTU4SDh1QUVIRFROOGNjS20yWU40bS13TXJPNUFMbjRwSl9WTjMzTzM1?oc=5",
+    "title": "Dogecoin Latest News: XRP ETF Updates & Where $500 Might Become $25,000 In Q4 - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXhDZWJtZkFyWjNGWXg2N1lEWlVFUWRiMEdVMHd2ZHNIcHhBeXdLX25XVEFQWXRzcmJYalJTY0FGREFsRUE2OWVoSFNCNFBsRVppMmtwX1AxTGsxalp0dUJIUWJMdnFkVkhDQ3lwaUFsLXpCeldwVnY2UEJMOXBnNmhWZFZLT0haTktpeW0tbVlJeUg4c1R2Y01pWnJyUEhKaTZESE9n?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T08:39:15Z",
-    "hash": "164559f223661af32c2bdfbaa5df5a0fee9182fa52fff5a1cd42d40fed3f8b22",
+    "published_at_utc": "2025-10-08T09:03:11Z",
+    "hash": "6a2bea09fd5e7ddf38e56662769c7312c6d90d29b61b786b18a761b43f4c1ac3",
     "source": "gnews"
   },
   {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Country Club Bank Acquires Shares of 26,966 Novo Nordisk A/S $NVO - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMG8xSmM0YzlzcmFSS25ta254bXZEYVpoVXBNR3EyQlVPejVfdHR5MnBkRlBjX0ExRkZNS05fT3h5cFFhTkFFWUw1NDJjNTVEMmQ0R2FNZEI4dlpGaEk0cUlsR3ZObm5tR0cyT1F2c3RNYy1YM3AyYXJHSUpMVTY3X3R5dl93M0NXWXhFNkRBX1FRdU1IYVJPaUpCSFltbi11bFVTcG5qLWp2SUJJbElkcGdFS203Z1c5X2EzN0dCVjM?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC Outlook & Bitcoin Hyper - ICOBench.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMF9aVTlnMXVOTEJ4M0hfMVMwYks1MWpGZ1VMZWhxQU5zb2VfX3BYZUhtODBqYWVyeng2UVBoQXhKLVlqbkdDSFVpOHRodWE4LWlZRW4ybExiMUJqTnBEZV9qRkt5dXlnWk9uLXdoYW1SYkpMZnlzdEVuVGdBSVY4VW84SkEtTk5VQ2xyTXdFQVIyOGl3M0p2dVg0R0hvZG5HTUw3WDlFVG0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T08:38:37Z",
-    "hash": "f153b4e4ff5c2f13943e92b4902c4fa93f7b1ace1576ca235f6b40d913a2a3e7",
+    "published_at_utc": "2025-10-08T09:02:35Z",
+    "hash": "14675920dd9038c38e81a97ecf54af19a2d9f481514242979132c7a58b94272b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Digital banking firm Jiko raises funds from Coinbase - FinTech Global",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHlDYS01aU40dUNETlAzaTl0Y3N2ZGJGdHFkbWpfSFAzV1VNX0xleFBFUHB3NGZRRUp6NVRCQ05vU3UtVGMtSGRmUFg2TnBKbU00eVM0WEJVellPbURISFB2bUhrWndCbG5UY2lRQ0h0SHpFZEMyTFI3WFFSMzRLdWh4NzBJYWdRZjdGam9xc0w?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T08:55:23Z",
+    "hash": "2e9e03d1906423c10042897277566ab7649091588de5c40456e986f62f78c248",
     "source": "gnews"
   }
 ]
