@@ -1,32 +1,182 @@
 [
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Why Rocket Lab Stock Popped Today - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNl9uWC1mZGd5QUwtWmNLbXZEdDJwcXo3Z2dyNEdLaWh0cS1nb3hoNHpyV0tMVld0RVVWSFhyOXhGa1BuVTl4ZkpGU25fX290WnpsRVVyU1BNVGEwRUJIVlZMWE56cmlneEF6cXpYQUZVU1c0LVFzdV9OdWtwNnRMZTJDeC1NTWhaUzkzWkNnV2t6eTl0UDFUM2ZfemVBNDB1RnNOcHpMb2xTV1lvajF3c3RnMA?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase and Samsung Partner to Boost Crypto Access in the US - Built In",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WMk9iQkdIVjZfXzFaejY3dXJyMDBQalRvb1c2VjFUaUJJeUsydEpyYjBHc1hkRDl4aWxSN0xzSUFBUnNpN1lrVFVVU2lFNUhTZDBQWkhvWjlEaHFuTTFaZzNKMmZCT3cyU1YxaEs4NW1OZmly?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T15:42:04Z",
-    "hash": "71c3248ea789e80b14c32b112f90b16869d3462318838f751a2d4d1fb73d88f1",
+    "published_at_utc": "2025-10-08T16:32:06Z",
+    "hash": "405aa93e853cf22080c4138ab587f4150524f17ac807fdc1cac2c7bb1d8d9df8",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia: Bubble Over As OpenAI Buys GPUs From AMD (NASDAQ:NVDA) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWNZejNLZEVUamdMS0E5MTlwVEpvVUMtX0NSaHQ5WHNGRENBUjF2WFFQb0tEb0JsMHdYWTcwVDJDNkVmZUt0aGFWTlhiT0tKejdaZXQyeEFNY3I1T2FhT2s0R1FUX3FJdWw4RG9nRS1ERzA3RDJFX2hPMnJYXzlacHZubGpGTko4WHc4bmswdDVKdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:25:01Z",
+    "hash": "83e4c3496a3777e861e9050ca3d1c3c7f875f670f1a45292332e3b7baf3b1c88",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Launches Staking Services for New York Residents After Approval - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYURPNG05Si1DZVQ3OGVmWWxMUkFLSmFlNGJoUTBSaVg5WldYcTdhXzJ5bExhNUFkN1lTNHBNV0RSVGJvbHdIaUFkQzlQT2dDMjA4ZTFabEtFR0RqSURpUVR2Ml9ha3RWR3FMRzlwTC0wdzFMTVlxRlo5dnhOWjVqOTN3WUt4bUU5cWdmVFBfVWpqWnJNbjJfd1Axd0U2UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:23:03Z",
+    "hash": "0cee2c06e9ec196a410574f89340384b27937bc187e352d47bb2dd1cae8f9d0c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "UL Solutions stock hits all-time high at 74.26 USD - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcEYyTkFQTUQ2enN2QnFZNk15ZllMYU1fQVFWU19JSW1NODBSc3p3TXJQN2xVRGpEaEVZb3dLT2hRQmtEdlhSZGs4cUxmdTVrbXMzSWltbWdUZkkycmg1T3RHc2lFVldUYUo5TjRVWHAxSEJHQ2VfWWp6amxKM3dhRGtBcjhiT2RhbE5FdnpzSGg3U2hqc201eVpYMWVtY1FjOTV6Vlp1R2I?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:19:47Z",
+    "hash": "23d1f1716a10eb6c4b5e14c2e6651ec20d148755e5779038edaf244305f88280",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer: Mastering The Art Of The Deal With Metsera - Upgraded To Buy (NYSE:PFE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnBQdk5iMkJQWnBma2UyT3FsOENOZ0lRd0RVa2FMWE5mLVNnUk5VRHU1Wi1xSU5IZEpacGI4cWktSFdfSmJFeWZPS1c4UnRDTmpsUHJBbEE0X21UUEZDeUo2REJQVTFjcWpwTTNRTUtzMmxRNmtBSzZrR1F5MWI0MnZZR05tVm1SX2dPYjA0Y0JkeVpiNXk5N0FOSVhwdHh2QVM3VDc2WkJ3Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:18:04Z",
+    "hash": "5c3bf0697754d8137af74fdae8c951fa7f41682a2985440f86c11adaf7dd4ce0",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO says AI needs way more energy. Cramer says this is the power stock to own - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPREk1YXBLdVVPbmNYMzBXbWdBMlVCbkppblNzWVlrU1pCRHlEWURqUm5xNFJBWmFqMUtwMEZ3NGk0NkU5dkFIa2k2YnRoTHR3bjY1RUVDakpCSVp0Y2NGRDVKdGl3MjlWMllYNmpxTldJV1dCQ3hGX2NBMzNzZVc5ZktWbTZmNGt2S3BncDFoZ0RzMnBFUFdLczV2b18zRTVNRjhfWnhaRHJWalluSGxVNjNlMmdTVThySXBvbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:15:31Z",
+    "hash": "cdf35355dce2dccbf21d358a68088c6069d3f05724cced475009b847c8892a84",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVDA: Nvidia Stock Climbs After Joining Musk's $20 Billion AI Funding Push - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalRRT2o5TzRzTGtsVDMxcTN0ODFtOHlHTTd5OEVzMm5iM0FGLWRHam9kcEZfUVVvbzRoX3NSS0VCQ3dHS2dMSW1idmxtUng5M1BmdWdQNmdtakVjZTFCbjBYWnNMSkM4Mlhxb09VX1JqY0U3RUV4WTVfVjhmaVVLWTRtYUg1YWpx?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:11:28Z",
+    "hash": "e3a68f374e802ea6d02f6d7a2f573c88eb6f29c549bd5af6c0f3b96647d4765e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Audius Launches Artist Coins, Empowering Artists to Create Their Own Crypto Coins and Build the Fan Clubs of the Future - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPZHBSX1pEbF81OWRuOE9oMS1jZXIwSzU4NWdoQ1QtN1VxX05iR3d6Y3YwUHdab3BsNzhyMEFtU3BubVM0Tmw4MDJ2blZoR0U1V0t0N0pVSW0zaDZ0TkVaNjI0NnhRQUh0b2FBM0xiYlN3cmlQb0Ixal85WEE0ekc0V0ZLZEZGcHM1N1NqRWtIRkxoSHEtZWhxeEN0SlN4b28yY2tsamZzZ0YtbVdHNElmSHlXQ1RtQ1E3OHk1bnIwNGRkalZIbk5lQUVKZTZGR2ZMYnY4WmdjRENiNVF3cC1weGtlRVlXNlNoS24teElWNnl0elVzbVIwMzBhUXp4cUk3ZmRzeXo1SWxzR1Z3UWNqdE9LVERtZURITGJHMtIBogJBVV95cUxQMDR6LXdwRWdYMHdBeno2aS1mbF9rY2YtOUZZY3BzOVZQSDJoSHBlRm5IMmoyc3E3YnpaSlAzZzJQLWhFbVJONFhzdXI4OWtRNWlxNVk1LVViSS1yQ3pXQkNTTnhIRnhSNVA2VXZpeVFMYzRrbU5uS1lPNkwzZHR4T0Qzc1lzTGxVWlY1Zm0ybnV1bDVhZGZVS1RWb2lqdE9FQ2N6QmloSktaTkk2RkNVNmF1dUpBTTFBN0ZjOFFUN05ET1lRQUZjNUx5ZnRNTVRpZkdBMm1GX2JFX1JSWFlsbVRCdUhfeEJXcTVpeUFpNERNelBKY0hsUDlEeTVTRUI5bVUxNXZhc3RZZWFnSS1ZVmxKNlZSSnR0ZjVTUTZxSUtnUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:07:30Z",
+    "hash": "fe9caa57f35ec1e9804e147a70fea9ebc2530b2275a2e3b3127ee284a2e61856",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "How BYD is Harnessing AI to Accelerate Global EV Production - Sustainability Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkRIQndoY1J0Z2t3UlhKM0N4MkFJNlVuQ1lpRy13b0JrVTVsZmJlamVXNlY4bEVub1NfZkJyN2tIYTJOOThOdFk2TDd3Q2tzZEkzMHZ5MzJ6QkdWY1lLeHBhZXlqcHJOZFZjeUxiRjFjeElCb3g0VU9OTVVVMjVha3J0NVJpSlhSNGtCLVJSZXVra1l2TWtKVWFB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T16:07:14Z",
+    "hash": "883c69bdd4d4acfa73087a6f8523f3b5333df41591f0789f5d42a41ac7bb3758",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Record $10B in Ethereum Awaits Exit as Validators Queue to Cash Out – ETH Price Crash Coming? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEpjel93WTJzMVlMeW5LZTFPSUdsRzhsS1plNGFQdkRhUThUMEhuM20zUW1kUTh0Sk1fVUU5aGxuV1lJNVlITmR1YW1ub01hYmsxMTJHWEN6cndQRGVwTmJ0OXVZQXkyWkRKWGl0bEdzZGJjVDBIY2plOHgzclBxLTl6d2Y3S2tWQURyZmpnWGpta01VV3BzWkFOTFdfeTJkMXFHSVJIQXRVc2o1a1FwdWFrSmNXQWNkQXc?oc=5",
+    "title": "Is This the Perfect ETH Buy Zone? Watch This Level as Ethereum Price Dips by 4% - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHR4bUtZRWZGS1VreDZTMjExRDV2VTZUVzZlT3VzbEpMSkZpZGpaRWlkRzFVN3ZPZnNJWllORmFYV0YzRXM4NGhIamVGb3J1Qi1UMXd3Zk02SnYwNTUzWnVlTFlzdXhGZXJfMlhMdkJnT255eEJYcDJJWDVlcU5uVlg1VzJtTmRSTFlfOHc2dXdKNldzdFVhYWRPZnhzOC0tTjU4TGh3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T15:35:26Z",
-    "hash": "cbad31fd8193839f6ff55e9cb3b448ae34ce4b0031a15a570f65f86b11a72fb3",
+    "published_at_utc": "2025-10-08T16:05:00Z",
+    "hash": "f6224edf8f76a916c14f385dad4f3c32ccef2e87c7e3f157d7ff83bc4e5ecd8a",
     "source": "gnews"
   },
   {
     "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab (RKLB) Stock Trades Up, Here Is Why - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTmVJYTN2MkJfUGY5cnJOOHBrS1dPM0pVT2IzbThFeVlwbktTSXZwOHlCUXgxX3doa2dVS1VrNkdEY0Q2Nk91enUtQ1VjNlpMdlhNTE9UNjlUbWJENGRxOTJTRy0ydGQ2T3RwM2tJUEJfRXNhRFJTMTl2Z3FJNERrRGVmejE2Y0JKSWFBYzZKeUNjQ0Y3d2NDcUE5a0dhSlMxWVp5bWFTOWRTQkRta2NhZmdqQk01SlE?oc=5",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab (NASDAQ:RKLB) Shares Gap Up - What's Next? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdlBwM29jSENxTWlZZF9FVGRYeUs1SUJTQm5zem4xZjdSZHdXTnJSZWZOVlA5UG1vd0pYaURyZmg2R3JfSVZuWUZwWk1GNHNXckc4SlctQ3BHcHV2dDYxR3NfTmdLNWJSY3NyRGxuVUN2WjVKdmU5Q21kZ1p2cGZpOTJHZk1VQmZweV9ZcXljM1VzVjVlMWtsQTR3YmtxMHAtYUE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T15:35:00Z",
-    "hash": "10f91e4de1550b7c61008622ae31425d80cea38828a23660c09fea6787a9a180",
+    "published_at_utc": "2025-10-08T16:01:59Z",
+    "hash": "925131e5d19c16c71dff7703b94f5bff30dfb20af98b8ff6cbdf3287f28d7c63",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "UL Solutions (NYSE:ULS) Reaches New 12-Month High - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkFoN1dLdHFEbHZXd003eHJpbzBvOGctSmpiYTE0Y1UzWC1lYjJyY09YX2Y4Yi1jVHA1QU9tQ0ZwdDdnUHZJeWczdTREcWlWdndaNEE2VXpnZUFQRFNWVmVPNHRCLXkySVlHTTY1VTh2a3pFeXVIQUdxZllxVTgzVW5PZ19DZzNqdzFQWWQzZloxekx3VVhzY19LQnF1TFFrNmJicFZOUHZIZDM2cEJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T15:56:30Z",
+    "hash": "a35fa19ecc044f6fe75f91a935bf1bb5a98ac50598c439b06c3ab7559b2eba63",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google Wraps Up Prime Day by Dumping 4K TV Streamer Stock for Peanuts - Gizmodo",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnFSQkZnUldDQ2VNT3FIZ1V2Y2FydTQ4N0YtZk05eFE2djZReUM1eUNxZ3kyS09hakR4WVlWTUdIQkdubGlJMEZjRzJTY1N4V2dVRjRvY2h2Y3J1S080dE5keGRBSmw3NnB5Ni15ZkxidTRBZFR1X1dvTW15ZndYZ1hXdGw5aWwzWFZ0TVlFZHU2RkhfdnJjT1U0ck5IUHdwbWZmcVlmNTh2Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T15:55:28Z",
+    "hash": "4c5395bc7ea30ec713f49f71014ff1dbd78a042d7a26c0dc2adaf0df29dd0966",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "3 Reasons I See Bitcoin Moving Higher Still (Cryptocurrency:BTC-USD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG15dEwwZFItd0hJM2poVDdHTUE2dDFBN1N1Q2piMlZhdVJPMGc3LWJ1LXpDOE1fUzc4dTV4MjZnYmdVd2Z2dXk1WndOejhqb3pJMVZweEZ6NFNpWnl6YWE1SDl1ZWgxUEFoXzh2anFRc0I1Qi0zQzFPUkxNaWRHUDhPZ0hDZlZjQmdfMw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T15:54:32Z",
+    "hash": "894b2ddeff5eb87924320d79187ddfdb9ea8b157b6aa4e92a6c85ec7d0701f8a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Debuts Crypto Staking in New York, Citing Deal With State Regulators - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXdHZDdyb3lyY3Foclk1Vi1QSFlwOXVDYmxucXFIQmdUSzJFZlVlbFFEbURRM05RR1NEQWs0SUhxcXBBVXFfclh4NjF6aF95RFViV1FzN0RGVHUzbmR5N3dyc1FiM1Jod2VyY3Jia094bHdvbE9mZmVXWmU0YW14aHlVdkRQTEM2?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T15:54:11Z",
+    "hash": "d21bacca1d1ed886c575a4780e1a3fae811208ccb46c206949d9430f6fc8996e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Debuts Crypto Staking in New York, Citing Deal With State Regulators - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNFVuNzE3ZDZDajBTd3ctTG5Ua0lCVlRDMG5xVU10NXB2QzRWclZDZGhfWVc5dlM0VTludm9hd192c1gyR1BXZkwwb3diZkpyMXBzbFY2TTk5OUhHUWxGcDNaMU5kSGlVM1VVd2Z2S2tqZ2Z2WW9wbVRaSEVBX2hOd9IBiAFBVV95cUxQQ19icUFHUjZBT3puQV9GQVRockNhejFXcVZTU2wwM2JVRHJKR1BUaG1nMWhZcmR0U3JnZmdQandma09LbE5LQngxUFdQRmh3MVRzWmJPYlZwRjNmUG9JSEhVUHVZUkMwV18tdFMwWFkwX2tyWUlnWWY1YXRrOHpKVWV5TTRfbHh4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T15:54:11Z",
+    "hash": "1bbba4b391f8e2838ad437da20fef57716ab522fb540bfa2face00f10bdaa5f2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "New Yorkers Gain Access to Crypto Staking as Coinbase Secures State Approval - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1FQdi1vUUswb2ctVDhxZEJkZ0N2c1BuSDJMMDd5RUxpZmJ6XzVmYU5QRHZEQVRBY1k3dGtfQmdvaFBjbG0wSnFKSlAzYlpOY0JUNmZKbTFIZ1hOZ25CYV9nTlJfbE9LMmVmMVNxRFIzM1N1N294cjRHWWhNYWg3ZS1GcDZsa0N0SnZuLW42X2RWODMzeEktczI1N2RNZW9DSXloOUhZdHZZZ2daNWxRRTZ1M0ZSZ1M2N2hDM2lQcFdUQdIBxwFBVV95cUxOX1ZBUUVzUGl4TVhPUEV3Y05MOFJybEdENXBHOGlDeHdYbWNQdXg1MU4xUEg0alRTai1DemdqZUN0RlFXQzFYR0JYSEZ4WFloTGY2M1A2bDhMQ0ExQXZJM01IWFZwcGgtMHFyZTE4YXlXYVNDcUxMdXdHZUl0QWpWNF9jWXZrWUlnd2dKX01VT2tuelVYUTM4SC1XS2VDR2hDTHAzTmJ4LUdxWnVfRHdWNDJjUldZZ0w4YzNQVE9OaGd1WDBlR204?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T15:51:18Z",
+    "hash": "86ec6282c31371be73892d5a1ecaadb17328404f7fdb839c9d92f4d94306e5bf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin’s Uptober Breakout: Glassnode Explains Two Key Drivers Behind Rally to $126K - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXdVeEp0U1JFR0pPX2dDSE1jYUM4cy1RUXlVQ2M2dFRFZzh2a2twOHFHb2x3eVBmV2RpSC1UWl8zdGY0MVUxVXd4Qm41c2VxWk5QSlhyMWIzTTZnd0pxb28tUzlOZ09QSlFJcGdyVmpfZmg1UFRDb1p1dFNKSW5yMFhMdnFFZ2RnRW5COWJLY2ZoNm5kNUNPU3pZOXUzazRWS3JSYmg3VU1RLVZha2hieE1PY1JQLTkyYzFEa1ZCSzZPSUNqdzB6VA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T15:51:06Z",
+    "hash": "ba134ac25df46c7a77c1f3e544b2d9b1e8280bc0ad067fee63d6920347551210",
     "source": "gnews"
   }
 ]
