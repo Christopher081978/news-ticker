@@ -1,42 +1,322 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase applies for OCC charter to expand payment services - FinTech Futures",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkZjLXhJb1N2MkxEWUVsdEJoaFVEdld4blByQW1obTl1elN0b1Q2czd6SVI2X1VxQ3F4NW5lNm9SZTEzeUM3cnp1RW0weTUxZ0lCcnI1aHNDY2JZeVdTTkNsSEFsZTROMGFZazU5akpva0taWG54LW9SY3p2ZXFqUG1BSG5EbDl1RGV0T3Bqd1VWWkdLMTlOQ2FTNG9zekM4M0FtbjQ3U2JJTG5aZjIyb09tNzRrYjBPN0RuaHVETUw?oc=5",
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Matisse Capital Invests $282,000 in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDFYY1dMaFlBd3NZbzM5QXF6REVXSUFodmFjWXVWajlCLXNtcFhrOTkya29hdng3MERrX1ZLVFJfTjd2RHRpM0xpbGNVTFl2enRYZm5ZX0ZidXB6dXZ5bzNhZFdxNFE3Wk5oaEFseUo1b0Y1WHhvLXBrMGVka2QzMmFVS0RqYmhfZnRFaWUtOHdCeTROWXRTdENYMEFEeDIxSFVPX3ZZeVVaRElLLUE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T09:42:12Z",
-    "hash": "3937e5934ae4b98b5c0ca3ab0f240e0eafa5a4fa509ba58ffdcaf2a89bfd4d92",
+    "published_at_utc": "2025-10-08T10:28:45Z",
+    "hash": "e1a24ebf0721e5903b39ca97b4aea683b3f0f120f383b73ab100d3fdf94ea63f",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum (NYSE:QBTS) Sets New 1-Year High - Still a Buy? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFhpajNDdUR0QTBBaUtHaGo0UGIxbXJqYnRLdU12bDFyZ1RDZGRCVUJCQ2owd3RfUksxVjRMLXM3ZUt4bjBJNzNuMWxTNk93cTZ1Uk5zYXFhbXZSd3k0cG01bnkwX084MFlaWGYyRHVRNjZjR0JEaWdUb3pFSF8wSVM3ZFdiWTZjZXpDRE4wcHFjNTlqWkV2SkJXbktqMzQydTVMRDVGWmRmc19QUGx3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:24:44Z",
+    "hash": "558d75d4b4813b920d16bebd5f23d48063b0a1eb4874ae7d50f3103606045509",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Should You Sell Nvidia Stock After OpenAI's Deal With AMD? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3RzR3JWSDFSclpraTlKa0Y1a004bWRjZXdwWklaX1FLMzdhUUNIVDN3WERDMHdJeVF4QXVKc0Q0c0xHdVJseVRVbkVIMFo4WThOWlJMZG1lZThpSE10NlBVQTFrTURiZG9PSG1WWC1VeEFWbFZVdWdtSkdTcDlsZV9qZkpUVzh4aWlVcUE1cjlUdTllSTFJQnJlaVUycVp5dl9wZlZqanpDNTBGcG1JWTF3Mm03MU9hMW03TlV1SkZkaXltVjl1U2s4blFPQWg5YWl1MjhUMWEzUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:21:35Z",
+    "hash": "65850fff295a511169405517048b7e5c56c0e8bbd6d9b93dbdecd3631659d7f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM is Raub Brock Capital Management LP's 2nd Largest Position - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRkZ5c3VDbVBka0RsbXg0S0xkYUYtZFpJU3NVUEY1NG9mc1dNZlAzU1RKSm5fYkZOa08wN0hxMkQxbW5jbDNyUDRWamI0ZVFHYzhhQ1VlaE9FSF9VaVpvdXRyTHpwYUxReWhRTEJTaVROaXYxcU4yYmFlTlZNaVp6anN2cF90eWlaTndzTDZfV1paa1RLYm9SSWpuMUg5WUpBWnNYQzdtOWlzNUVHUXRKU0hhSEdoR1gycVU0bG5mX0pQUGZNUzNaX2s3eExZZzNXVkZPWkh4N0VUc3R0UTNwLTVmak9YbDZxbzB3Tl9xQTBsb0RSQzhYZHJDMk9IUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:20:45Z",
+    "hash": "5be558bb1429956afb8f1cbe8eca76867d29e0ec51c92312b74ca83db71d766f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Puzo Michael J Grows Stake in Novo Nordisk A/S $NVO - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnk0V1pENTRWbnVPU3AxWllHMkw2S2FQVVpEdWZLMXNKTkRsUE4xX0JvbjlIOXZqUzd4M3dmMHdpdXJlNFI5SXZGNm5OR3RLLVRaNE10MkllN09LR3N0aGVfVjBlQV85WHphUVkzTGRNV1c1X09DQjdzNldEb1QwUTdYWDFQMU1JVnRDWWdtbkZFdXg3eW9WTlVuT19CSzJOYkJ3dUk5U1IwRkpOVzBZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:20:44Z",
+    "hash": "09f87d2c1440d8c9686e48646c02063fa01185038406c0e56d2ceff001f5d2fb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Pump.fun’s 80% Solana Takeover Stuns the Market as BlockchainFX Surges Past $9M - Which Is the Best Crypto to Buy Right Now? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYTVSdU5aTXduRGcxZm81WEl2TlhCbDVsZ3AyV3ZXclg1ZVVNMFRFbFBwMjFmSzVnR2pJcER6VVZlNnhBVmFSc3NUSGFmOFFfQkVldzUtTTR1OHBDTWtndGd2WVpOUHVmeVpLRjBubzQ5Tml3T3RhSkV5ODdmLWtkZ1RYQmdpemJjZEMtbnhqb3ZWTWxlM3Q4a0NEUzBtSWI5NjFIcXpsZGN6dW1aVHRzTVZLMTFUMFRVWlZsZmQxanFwU2lWdVN0UERqdml2Nnh6Zkd5TkgzWDFMcDg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:17:59Z",
+    "hash": "71eeff954f381e561f190e8f459b598e28e4d14be4fbb14e8d3c68be42300fc9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock or Microsoft Stock: Which OpenAI Bet Holds the Most Power? - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDFLLWtSWHBNMHZmSl9JMEcxOTlyTmxEeXJHWGVRaEFFQWVBX1NVaDhCWGhiUExZRDZrMEp5T2xDUHlSRThnbFU1NFQwTkpoSkVwNW0zTnZqMW1iaDNKZ2oyOXh2aFpVbUJKVHVvdUFjUXc1YUNRTEJyU3JySlVyMzk5SWtwUkV2azJwNG1GcWtad2dsMnFKb3NsY0FiMEFP?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:14:46Z",
+    "hash": "17b383747a2f56e7ae6a8624885f71417065d5d4f757e2dd3ff252e4fea5e1f0",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
     "query": "UnitedHealth Group",
-    "title": "WestEnd Advisors LLC Sells 5,874 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR18yeFFvNktlX3hyS2d1ajBqZVZsNjZBdDRvcVp6bnJvUU1yMkROVllpNDk3U0MwVnFsMVRvRHhGRXpPbDdKUmhmZWdHeHlaU0daMnpWZW5qVUdObkZ3Q3RzczBrQl9YYlJNRnk4RXVzX1ZNc0FldGEzb3AxeXNNaEtWWVVTWHlRVlJLQXNWMHI3QS1jUzAzUjlRTkowN3FJUU5XWjg5eVk0Ukc1VE1sM0NPUEN5VjY1emlfQVhVZS1VYnZhc2F1WDlkbklxZlphMXEwQg?oc=5",
+    "title": "Abel Hall LLC Buys 2,280 Shares of UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUJCU01la2ROc3QwLXZVQkwxZXN3eFlJMWMzNWhvRUl3OEdyclEzZDRDR2VkUkoyQVVEQm5WS1lIWGhmNE9JRFFvUG4wbjRJckUyc3JheWJQMUFXZU5rYTBrWWZfZkJRZjFrOTVVQTUyZHlPMDdQV2kzZEd6UnZEcnZHeloxUTdCUHVLRnN1ZGx4YzRBZnRodlBZM0wyZXhUei13QWtwZ0VQV1pqaHplanc1amp2UWU1bWxpTzZ0QUpSVWpSNnZ5NjdR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T09:34:41Z",
-    "hash": "a8c23d1124101ff1bc295bcda59faf8fd16b6608edf1788208b0360f4ba55d50",
+    "published_at_utc": "2025-10-08T10:12:50Z",
+    "hash": "eb95741caefa97d8ee49830543104a54f2131b09c7bc1432dbf8b50a67167888",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
     "query": "UnitedHealth Group",
-    "title": "Venturi Wealth Management LLC Decreases Stake in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOV9RUzVBVXZhOHhGUHViZU9reGllQjJQUWJyU0RzbWpOUjRFa3FnU3N5MVRRSi1LSzRReTdGSXU4R25oS0owdUt4cmJSU2RrNW9NdUVWNVlSTGpKa2lSaWNDeWRqX0FldXU1dlJuVlEyUm1McWpJTGMxNTZOM084N1UwWGhmTWt4NkZhMFFVNFRiSHF0d2puVmZhTzZEa0NueGVtcklrOWQtdWYyVVZ1UjNmOFpxS0VvM0tYMy1iRHpzWHFlT250X012WThRdGs3TTBvbVZDNThVNmdDTGc?oc=5",
+    "title": "UnitedHealth Group Incorporated $UNH Stake Decreased by NBT Bank N A NY - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVEV3aTJlMVV1dFJhcFZHbVZOXzFwWTE3cTdZTkNNYnRXMmFPWlh2THV2WFp2VXdzaVNObEpjelM0SzkxSnl1aTRNZS1kd2U3VTk2QlFmbnNQWXVQQUoxRWVNdmxoM0RaVmZRdEZSeFlDdFFwV0pHUElhcVBRQU1yUlZoT0hOVGN1NWw0RnNMWENQLWJvTnRabE9jenl4UTdYcXlEVnc1TlU0TUVwLTNPSDhaUHNUbmF3NmpFSFp0ellzTFdNTW1lWWVYYw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T09:34:40Z",
-    "hash": "5dcbe1ee6e81ca2900b7e27bc23d1316c6594949fb77536bcfaccaed55e0c379",
+    "published_at_utc": "2025-10-08T10:12:50Z",
+    "hash": "6f9ebb12e36e5beeb618d87a16c36c3551cfb4946f0a079e056d168333e661ef",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Abel Hall LLC Has $628,000 Stake in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdXpIZndYTkJEU1p3VG9WN0s4ZGJ1Q2IxS18xUk9VRGpDUDJESDlCY1FhNXNKSDBFRUwyUUlJNERQNzV5S0V0N1lrYVRZaWtNdTVsNTlkX2pNRmhtV2pSUDdNZk52cUc4Qk1OTE9HZ0U4amMyd0lnMXpmMkgtUW4taHdaRlBZaEtYb0xCX1BjZDZpR1ZDWWNBQ2szaG9aRzhsdmhSa0FXTFZ1d1RXVnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:12:49Z",
+    "hash": "5f72568f3bc5ac8b304eb524002128a67be4a0ee9f6ab476849b23e38abf94ba",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Acquired by Mirova US LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNGE2NUlydHZBT0JaUl9xaFRHUHVCa3h4ZjRwcTJZaWhhWHU2aFNaQmszOHpjcl9YQkZVM2o0b2phc1lTN3kwM211bE1qV011TkozZWZST1d4Q2JrZk5VQVNzZUNIa3FxVUpsdHJJMnU4RVNTV1JlNVg0a2J4YXpDcmVhbHVJd2NHSENoTm56V3NzX3VfWmlsU29PY3JHX0lERkdTN2dpVHFja3RacEFnNU1XUHlTQWZaVk5JOTh5SjZpTG1CMmJKUzl0RFZJRmY2MFQwc1N1TGFxWDVw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:12:48Z",
+    "hash": "5e8dfa7d0e905ac31b8c2fdb622e7ebb93830efb6ecb0987a8564994d98f02af",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer Inc. $PFE Shares Sold by NBT Bank N A NY - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTZ1M19zZktNbVNGZmtCdlNhUnF4YjZUQnZpVktwaFNtUUFJamtFamM0QXU0MjhLRG5yOE5TRDRtcE1MT3loYnZITmNpYVdianBjTlhBYXloUEItOWlKaXEzckdWa0hZMFQ3b2owSHhrcGtGRnc4cVFuT1VWWmRzUFpFUzRHblN6ZG5uQlFYZ2puZDNyV2JvWWRRUktWRHRSY3NISmtrU1hsdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:12:47Z",
+    "hash": "db7f5b02624779d7723b397703e8eb8ef9b7f657ce3e848857fe6180d28c32f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Triasima Portfolio Management inc. Has $5 Million Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPdjBOdlpFNEZaOW1JSDRoel9KNUljN2QzbW1nMDhCd3pJbEI5Skh4MTZqX3J2ZGJUMXJZQ3lFYnBHNG5sZ3JCZm1hWlBMdkk0NGMyYTZWYUl0LTFyS0h1NHhIYks4MTR2NHB5TVR6VUdxLVdJMmFTbzJBbDNWVUZpQ01DQmtNcmFRSjBIVTcxTUViVlVIY2tsZ0J4WmgzNjZoV09sV2pCRks0dDFVdXAtdktyYndLZWNqU285YUZxSFRSNkRQM2hEbklUeERFVlFjcS16b1BYZlYwNFJ4aHc5Unc2Q3dRbnR3bElDaFBxT2pMcWREaUFJVjJXNlV3MG5iWG1RY21vaXU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:12:47Z",
+    "hash": "dfd17f5c409681e3189725d2dc5b0fad8d364b787e099ed81d746da53e6d69ec",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Secured Retirement Advisors LLC Has $2.22 Million Stake in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ05NREdfMjktSmFLWEcwMWJuMDg5dV9oanUzQnB0ZnFkSk1GcFZ4TVNpMDNDdWYxeldTS29vQ0RRNXNvV0UtRTY1ZTZoRV9qOFlnQ1RjTTFTc1NzbzF4azQyYlZjdjFzSUtJS1Z2R0pIbi1mYi1CSVFVcEg5Z0c4SFZFaVVOeUd5d3dnQ0VFRC1fSUNCTy1lR1JvSC1BUkhIWnVDSzdONTFrM2pqOGJiaFg5bVhZTnZ0OUNEUjM1Y0F5ZDVFaVVNamw0MTlzbjBQVmFscnJxUUZseTJEY0NoRWVCYXlqTjFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:12:46Z",
+    "hash": "4bd9d95b7eef2689c9ccaf2a32a7c55615e1c2306dd2ae343b41e8fce476b98a",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Abel Hall LLC Invests $519,000 in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZVRsWFhEVFRRV3JfUlRuQzBKS0hGbjdpenV3MzBtdTNsdnZYbk9WaV9qcTN1T3V6eUw2U2p5WTFnT005X3VybkYtUTdRNS1pUTltMVlXem8yandPT1plUDFLRnZ6dXM5QmsxeDg3REstSzRYMTVSUERneXl5bTJkZkl3N2d2cVRFUzRUX3pmN3Q2eWxRVHdEcjJYMFgtY25odnI2UVdTai15VF84b1pVZVpEUjgzaXpBRDV6eUFzWVE3Qi1FTzA0TGVzVFkxNjRSZDlveEE2S01Rc2M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:12:46Z",
+    "hash": "cd053c993062b19ad44de09236397ef895e3398b134f06fa081932b1284c2509",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Surpasses Ethereum in Annual Fee Revenue - ForkLog",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wNVZvcG1XemFVbW1fVWRjNUx5N3p1RHRyRGhkVXN6bDVrNkVvMi1RYmQ4aHNpaHE3c0pBempfb1BRd2o4eEFKQ2ZrWDZRUlU4UDRGWklreWRJQ0UyMUoxZWc2NDV6Ty1JaFlHT2JWOEpwVEZITm5YLWdGY9IBgAFBVV95cUxOMHV6TlAwaTdpQWhINFB4VDY0RDM2ZlRPZjFGMEFQaHVsU2NkNnlwMnRVREZUemh2aWhyTTlTbm44WVpGRlZ5NVc1al9yU1VFRWpXbG81QWdEQ20yM2M1Nm1ZMk54c0J5SWU3OEt6SXNXdEl5VG5VNGxtU1VjUXlSUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:11:18Z",
+    "hash": "29c95a5f2562ec0cf859360431291b15dd7082522b3054efc485ff7b5c20a1ae",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Lakeshore Capital Group Inc. Has $709,000 Stock Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWkNTWENqdExRaFQ3RE9mRTAyZ2NhME1mLWs5MktuU1hrdTkydzBTZngwMEhNWmQxUUxMN25HQlVIdTZxSThGOXNvVjdkLVplRV93STQtZ1hWQ0xPb3RWVE1sdE5VR0xnVlFmTENBYml6aXJESzRYS0VoUnR2VEtFTGN1QUlTN01OVzlHTFFldXYwRl82QjNHTkRRQWRRMWxyMnpfU1ltZWZfXzRXcXFCeVJodHNiMHBzdlRDcnlCWkI5QW9Qek1zT1lkUFB2Sl9DZ3h1cEtxLV8tMlNmSVVkWVRmRzBqZlZL?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:04:46Z",
+    "hash": "9b125c52c427772412640d29cf6880644c5486cf8fbcacb999d103142a2235b1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price ‘Faces a Big Test,’ Says Top Investor - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45RklXamtwWkxzUDBBNWVQN1RiQTlRWUdQaVh4NVdTWFA5cnNyWlVXWVdMRDFtSTJyUDdSTjh2XzV6UXotMktUQWpDMXplOUNaOFJFRTN6R1BXenA0ZXI5OTRybDRVSGdmMEZpX2pIMWVRcjNSMTVqdnhQeWRLNkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:04:44Z",
+    "hash": "a71b95b6b9f9a94f0686a9661cdaca931d10b081d9387c2fbbe8239cca3030ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Lakeshore Capital Group Inc. Has $2.24 Million Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUnI1dldGRER1WnFjQ2dRZ2ZtLWptWmR1cG83dzRRTE16a0VVQ2ZOSVo2T2I5NHZwdVBRTV9RSTlGRzhicWhGWlVIZlo3WlBpQk9hRGRZZEtYSnVVekN2YTZjVmxmMHVFdjNqZVNnN3ZBRTdNQnhOZEVpZTBraW9UeXMyR2lvR1FHVk9zWEtQNWFxQV8ycEhCM2RULXp5QWFzTTg1OC1iNWEyY0FaRm1Qa1ZUZGwzQTNnUE9mc1Q2cEZTZGM3Q19qNzhsb3JmS2w2dDFXeDJFaU90dXdrUVF4SmlqMllUMjNEUHNaQklHaGFFdmkwU3hmSlVndnc5dE51aE9j?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:04:44Z",
+    "hash": "486daa2ea9805a6cfb0235d4b84f53d59b1fdd28676e3e9aaf3bd236a4b28e4c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Air Liquide",
+    "query": "GlobalFeed",
+    "title": "Eine Milliarde Euro eingeplant : „AI first“: Wie die EU die Wirtschaft mit KI fit machen will",
+    "url": "https://www.handelsblatt.com/dpa/eine-milliarde-euro-eingeplant-ai-first-wie-die-eu-die-wirtschaft-mit-ki-fit-machen-will/100161011.html",
+    "summary": "Vom autonomen Fahren bis zur KI-Diagnose nach dem Röntgen: Die EU will mit gezielter KI-Förderung Innovationen vorantreiben. Welche Schlüsselsektoren macht die Brüsseler Behörde dabei aus?",
+    "published_at_utc": "2025-10-08T10:04:26Z",
+    "hash": "1215708148a918bbe20edc62f9d37865b876958d2628854472a74ae816c2c8bd",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Analysts at Melius See Nvidia’s (NVDA) Growth Concerns as “Overblown,” Maintain Buy Rating - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbE1RaXc3RmJ4T2Q5LWRNMVBnd2tnQzJMYXl4RTlDY3ZieW40Tk1KMEZ6SWtZaDVrMkU3Mkk1ZGM0eUJqdkpFLXBpa1VwdXl2dEpHazg4RWxnSkdUcWt6cHc1UzlpRG5pVWNZcExfb1laTUJHR3AtTTktQTBlM1dUVy1tdVdsNms?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:03:09Z",
+    "hash": "46d8ecdc8ff385f6037c9d120c90caec1dc08460a17a02c61509ed172ce31351",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google deepens investment in Africa’s digital future with free AI tools for university students - Businessamlive",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbUZmN0s4dHZFR2kxSDNTdU5qT2daYWFTN0IzOFVWMmpkZ05PMVh1Qm9xVVAwYXVrX1J0U2dOaExtc0R6OHRteWgzOVkzRG8xYmJ6cDQ2aDNGVTcwWERWcWNLdFFud1RaTTE2UXR0U2xYdHdnV1o3WkJTZmlGV01DR1FpS2p5NWhTWU1rTnJhWVB3cm9EZmlRYkpqS255RlU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:02:15Z",
+    "hash": "a7863e8cd385cd653bce6f1977bcb76d4bb99bd0922232245a8743b723e9f345",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "WOA Crypto Launches Cloud Mining Service for Solana (SOL) Holders, Combining Asset Preservation with DeFi Earnings Growth - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWUwza2FYUnVySGRTbkdHbWZPMEplcE5IXzNyY05zeE5CZmVWOV8zd2tHTXIybnBzUEFuMFhMZlRXTjdNV0FWSXNSTXhMRDhnODAtc2VzbGV4M0lXeTkzT3MyZ1RHeWtqd1J0NEtBcndoakpXLWhnWjBrTlZxTU9kZmlaRzdMWEtiSWpUVWxwNE1aZzFHMHNRUVZlYmVIbXhoX1NiMGxwa1lGRURqQ0h1bGhmdHNXZ1p6SzJLZ2FkYlhVYzNuWE1CQkIxNGlqWmkyRXJ2ejNLbnZBcWVJWEFUbUFzZmliRlBzSjF6RExDZ29QRmJMZHIyQkRSeUFvTWdwSHl4SFd5RmlReTRFRi0zMGxfanFDSVk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:01:00Z",
+    "hash": "da9512d8ff028dd8160d6e3f1aec65d49cc4d727d887f8d72b54965f376b47ee",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Mining Alternative: XRP Tundra Presale Staking Rewards Beat Zcash Performance - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazN3d0ZhV0c5Y2JvUTNTRlBRU1lFb1BEQU53eDBZRWcybl94REFUeFlwT2dwMWdPcVZkYWVWdkR6dlI1VS1mZldqUlJGQXNjd0RWUzVEZGZOQk5rQmg0RFk5Y1NiUU9QWHI4RjJocm5XdXBub0NURXp3Y1Yza1pITFFBSl9QbGozbkFCVlZCZl9LZVdCcjlZUmNvUmFxMUlqVmdFeDdnVTRucFVw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:00:19Z",
+    "hash": "3b0d7241ff79bf268ceabc0113676f86aafb5c05a31a2ba535c3b5d97573e2c8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Ethereum, Solana and Tron Revenue Declines, While MAGACOIN FINANCE Hits New Milestone - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmU4ZUVwMi1BV2JNU0hNcy1seDZGaUstVzlGbWJEV0FOM2VDM2Z5N2tWRFpYZllKR016UlJrbmZSeVhrb2xja1dxMXUycWVPS2MyM1htVVN5YmlRbDgxY2lCRS1tYzQtdEtsQ1VoM0JjMUVpLTBCU3BURjh5a2h4UEhNN2NZeUE5NE95b3dkVXNXRjFLWGNaVlF1aWdkZ3FiTWhyWGJhN3hLLUtp?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T10:00:10Z",
+    "hash": "06578794de98cabef4afe9b23261e21b294e1ed74bc8953c8c3e4821cf8717e7",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: When Will ETH Price Hit $5,000 – Latest Odds Here - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTy1IaDJVXzBDbGh2NFJJZUowS2ZRSEROV2J3Y2J4LWhISDNIY0lNcWxubURra0pERC1SWXBKWWlaV1JfdnV4d29IWTVpTGVDN1VRUnhmSjZiYlFzMjRkT0h0b0N0c1RDQXdlMTM1MWwtb3Q3eEdjcml3SDBmY0FJMkNR?oc=5",
+    "title": "10% of Ethereum now locked in ETFs and treasuries – does ETH supply squeeze follow? - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOEVFQXhRYU9NMUtBWnVIRVdURG9TcHhjdzBXUDlkdTVvMU9GT2RJQURzOENtclVGa3VJdG1ZX2hDQVBzM1F6M1FzUE00Rk5pRnctejJGOGJOTXM1ZHFvSzlQUkZjU2wzQ1BfTXdxdlJ1cWhyWGpvc0tCWm41bUVSc01tdkk0V1N4WHNrRFk5QlFoNDVjZzhGTFVEZlVtem50SWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-08T09:34:00Z",
-    "hash": "22382a8d7ef9a531a79889127c4749e43d55c311f01e04061f669dbec8c19d61",
+    "published_at_utc": "2025-10-08T09:56:35Z",
+    "hash": "ee23132edd06401cbb30d3d4a8a0c6c1d5ae45913a6888e2308396d091342575",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "4 Emerging Cryptocurrencies Analysts Are Watching After the Rise of Solana (SOL) and Ethereum (ETH) - Tribune India",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVkczQzY4c3VFWWd4eTZNQzlVQjVaa2U4cnppLUlUNlJOQXh3OU42dm9DazNvRGRsb2xObTJGQ1k1QlBmRU9saF9qZWxUcGIzcy1ZTnlwczhXNFNuSWM3c2RrMUg2a21qalZQX1Zhc2RLc0EtWWJlMlJxaU1lU2FkTXF5S3djNTNKY3pQRXV3dkliOFItUHNfU200NmV4bWxFdWpmQkFBY0tmbmZ3Y3dlVl8zTkQ0VVNWTVJIeUJyVEZ2TlQ2aGZCY3VwM003SXVkSDhPNDFtWWoxTEhk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:54:00Z",
+    "hash": "a9c73ed1ba4004df100db541a5428f255d81af30e8d57dde0b874cd1cfb8bc8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "4 Emerging Cryptocurrencies Analysts Are Watching After the Rise of Solana (SOL) and Ethereum (ETH) - Tribune India",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVkczQzY4c3VFWWd4eTZNQzlVQjVaa2U4cnppLUlUNlJOQXh3OU42dm9DazNvRGRsb2xObTJGQ1k1QlBmRU9saF9qZWxUcGIzcy1ZTnlwczhXNFNuSWM3c2RrMUg2a21qalZQX1Zhc2RLc0EtWWJlMlJxaU1lU2FkTXF5S3djNTNKY3pQRXV3dkliOFItUHNfU200NmV4bWxFdWpmQkFBY0tmbmZ3Y3dlVl8zTkQ0VVNWTVJIeUJyVEZ2TlQ2aGZCY3VwM003SXVkSDhPNDFtWWoxTEhk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:54:00Z",
+    "hash": "a9c73ed1ba4004df100db541a5428f255d81af30e8d57dde0b874cd1cfb8bc8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "WOW! Remittix Expected To Top Ripple By 2028 As Buying New PayFi Altcoin Is Like Buying XRP Price At $0.01 - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUEs5OUpHWDBpLU9wbEpJdG1PMWNycDBMU1lsenIwZVlKcnhxbWFocnhQZFZzWFVJLWR5T1RTOXU1MVQ4OHFkNmE2aTh2S2VLeEpsV2pZRF8zUm5icXp1cjNSWWpsSFlfaHZWQ0NqWXhSTE5GbktvN2ZXSFVyV3h5WGQ0MEQwWnNFb1pQU3dkQ2NVdWZNSjNmaEoyNHpwazZsTlc0T25GaW43ck5ManEyNEpnalFyN1hiNkdTZUE2eU1BODR4STJSR0FqODhndVFQemc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:53:31Z",
+    "hash": "7c104b494c04c9ec06e7fde35f448fc558be8712364b6230849c30f1d2e31632",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Somerville Kurt F Has $7.27 Million Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObjlTTzBKNlhLZjBYNVFzUmJuUDVCbUQ2Q3lsbEQyRFVsTnN5ZnBKT3ZSOUVoNGlnT2wzdDYtbjh2SGE5X1pDRnQ2WjFJc2d2dUxoZk1HclN0aEVIOHlkXzNNbmVDQUczdFlHLWo3dTFFeHUxMmhrNFhETFZaeU84SjZsMnFuV01wWEZySzE0NURnTUlHaG9GWm9hanllc2VRd25EaXM1YXo5UXVFVGl0eHhkZ2dub0xPUlBOWjlsRDhfUjVvbEk3R2c5RVFBZVpiSGVIOFdlR3F0UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:52:42Z",
+    "hash": "85f0ae23f06e5f785e5b1d6e801e0037251b88d1147f525a154507fed87a2c51",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk A/S $NVO Shares Acquired by Somerville Kurt F - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnp5U2kwWnVrVHZEdWhKV0VYVnJRN0tWSlpqazlWdm1pai1yejdUcDR4VnNxQXRMeXNuRWtKQnNIM1drR2RlYVI0cUpleGhYYTRFMEM5UktwUXQ2T3FTLVFyYTVpT2Y0Sk0wUWNic00zTi1rLVFXZzBnX3N1WmdhOEZYWTlWOFNXYUJDdDFza010WEkyMGtidHYxMWxybjZub19pMG45Q3huT2dKMUpjSlpqNVktdWdh?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:52:42Z",
+    "hash": "55f14659cb1c00dc386f48f924c61d9367006579e6df9c427871be756dac9e26",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Market News Today, October 8: XRP Underperforming, BNB USD Pair Chilling at All Time High, ETH and Bitcoin Price Volatile - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdDBPT0Y1SVdGaUF2OTA1cnMyTlE4OFY0WXM1QUhRVEQ3b0U5cWNjczJtU200QzhnQTFVYmdMSkd1TS02alVMbzZMMHNkZU5GeF90aWFjUlotZ1VrbE5JZHFhQnFra09KbkZJMHpkbGxuclF0c2lPYzVYZ1ZpVmxKbTFvTF9vdUdFS0JmNG40QmZKeHVNNVNYdEh6ZEJQMW1DYVF5b2JtV3FBNWtlSUFhRFREZGhTeloyeHBoMXBHSWU5al8zSHlDTEV0bm81T2VCSFdGLUlXTmR2UHlPNXNWMWl2RzhaTWplakVMcXQzQmJScVNE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-08T09:47:31Z",
+    "hash": "bb855b1ea0eaacc23d0a7845eaad7b43538bf99461f850b7a23356e547c0ce58",
     "source": "gnews"
   }
 ]
