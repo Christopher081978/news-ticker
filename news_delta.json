@@ -1,112 +1,42 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple (XRP) Price Prediction: Is $13 Possible This Year? (Analyst) - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGE1SHVBZU1LeDBNSDA4NU81SmVhWV9OVmo2VDBhYTE3Wl81REo4bHBHWkVaZU5jczhkUGtlbEVMQndwU3NnbkIxSmIxSnZKWnl4T3VEVG53M2hyYjRQOFp2X0hQYlFuSjc3eTI2U0NUNVVENG03QTBZYkJiRm5ZM0dIelFSOHNKUjhQZWo2WQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T22:15:00Z",
-    "hash": "42e607757ed876c6e760627c8206f5077fb97a14060dfac4619f177a106c9843",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (NYSE:PFE) Marks 348th Consecutive Dividend Payment: A Pillar of Stability Amidst Transformation - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUmcycFJQTWdZMl9waEJYWDRkeGlyZnQ0b1FJcGg5UEFtTWtnVHJ1SElGM1dPUlg4RG4yNHo0RFBfOVgxeUpRWUpxZ2gxV0M5eEpOMENocjUxRGVSZ29JWlNiVk44RUQyeFZnbXBMdHliNmJMd0gtY0VBS2NPaEw2WXg1RjZlSFdBLXRESnZqeHJFR3AwOThoWDUwdkdIZWRRT2w1dWxfRTE0VnRKb3psLUF5ekR0WjJmT0l6MXFsZUIwYm1CeTJUeWJMSWtCY3NHNTU2dVVubUEwOEJlLXBoRm80aFMtSzNkV3dKVDFFQjJHSHZqNGMzTEZOTGJDMzdaOEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T22:13:00Z",
-    "hash": "e054cfdfe5935474eafdf5e4891d45b1f057a63fcdef1f7cc2223b4f976e4a86",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "With Nvidia Stock (NVDA) up 43%, Let’s Look at Who Owns This AI Play - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMEJPYm9lc3hEZldLR1ZaNl9IMGpyTW9kT0hGMkxJNUFjNkIyT0U0Y0NIbU9sS3FBSlk3VkR3NnA1cWktN2pSWEJaa0o2cFZrdTVnN0JWLXdSWlhoTlo2NFY1ZWN4M0w0RVdOMzRLR3R3aFVCbVB5Vkl6aF9ZZXNiZFpwTTJlRjlScElmQ2MxZ2xBSzFFSGJJLQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T22:09:33Z",
-    "hash": "c9f9e4d83897c6a0f68e1388a408265ad8a247517f43756dab9d17a7b9af8fd0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETH Can Hit $5K in Uptober as PEPENODE is Named the Best Crypto to Buy - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaEtJMUI1Y1lHTnluNHJSU3pJQTlHWHh1aUwyVXFURkFQWExiejZwWDVoZ2pBVG5KVTg3OXdBYTBQR2JyeE5IS2ZlTVA1bVpnaElMdGF6aE56RXVQRFBpaTRNMWtkeW9ILWJxTTRBX1hHdkdvN2g2OTAtRS02Yk1CdU5ZX0hSU2QxLWRzaHZkZmhtWU85a3NXeWxoRWZleFdnQlVldE9seEJPeVFhbjBsOThDZmdrSmJwV05fYQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T22:08:12Z",
-    "hash": "3cf50261510a03c7679b04fde3a56dabb9bae3a8af48b67bf39976893642d3f1",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase, Mastercard in advanced talks to buy $2B stablecoin firm - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdi1lUjQ5LUJ6S3BtNjZTWjduLVJkMmhndlZhQURvNlRWWThHeTE2ZWZVYjFJSGUyVXZ3QkdrNnlibnhzVUhpTkZtLTRGMFpLWkNyaElVeU1sYzk5WDFuSHdGZm5Mb2JzdThWUjR3UGdwelFrRDN6eXZfQnlYTzlNQXlUdw?oc=5",
+    "title": "Coinbase Launches Crypto Staking In New York - Harlem World Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORW9JOGU3LTd2VTdxZDgySC15YVZ5X2pFdVhkeFZuMU40WmRUYnpja2JHcjNDYTF6aU1IQmpVTTZSMWxQaWJQdmxXeUxrb09rMWVoMEdwUW9KZHk2WkRYWVpRNEJEQmliYmttekdoWXpfWnRRRlVwbHkzV2szZlpQNlRPUGJqZVha?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T22:03:06Z",
-    "hash": "7293c0e99146bd0e69baa68a6717cd9f7f105f042cd6054c9609db8ccb9cfb2d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "If Solana ETFs Get Approved, Could SOL Finally Outshine Ethereum (ETH) Or Will This Sub-$1 Coin Steal the Spotlight? - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0NpWU4zQWd0WENxUXNQbmNrcFFJQ3JUWkVlR0l5YXhyQW10VUtrdUZVTDlRNEJuUHVMcmtmSTl5R0h3aXJ6Qk0tWDdpT3RrX2VxZ1dXZ3lRV3NWM3hsZjJueWg2VkV4eXI5TnhIRGdjcEh2S2I1bkl1U0gxd3pHVTFqSDR4VGJWV2hsV1VuX0g4R29LTDU1ZnB0Um9raklnSXZjQ3JpazZTZlRUdW90cWl2WTA5WW1pS1NxS3d2bU05LWNDTTRMdFBlcGNXdWI1MWh5MGd6Y0Q1UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T22:01:00Z",
-    "hash": "c0d3dc81142aefa860b686c47a840c33eb134c7e90f8e2f092d898d6f604fc38",
+    "published_at_utc": "2025-10-09T23:11:55Z",
+    "hash": "c5a3c47870cfa2b477f62055e075ee6c513806ed199aa58b61d3ea3e4d776775",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "If Solana ETFs Get Approved, Could SOL Finally Outshine Ethereum (ETH) Or Will This Sub-$1 Coin Steal the Spotlight? - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0NpWU4zQWd0WENxUXNQbmNrcFFJQ3JUWkVlR0l5YXhyQW10VUtrdUZVTDlRNEJuUHVMcmtmSTl5R0h3aXJ6Qk0tWDdpT3RrX2VxZ1dXZ3lRV3NWM3hsZjJueWg2VkV4eXI5TnhIRGdjcEh2S2I1bkl1U0gxd3pHVTFqSDR4VGJWV2hsV1VuX0g4R29LTDU1ZnB0Um9raklnSXZjQ3JpazZTZlRUdW90cWl2WTA5WW1pS1NxS3d2bU05LWNDTTRMdFBlcGNXdWI1MWh5MGd6Y0Q1UQ?oc=5",
+    "title": "Solana Price Prediction: New Stablecoin Launch on SOL – Billions of Dollars are Coming - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX2lXb0dGMWt1TDk4dVpxN0I5enlCTXRmQ0VCSlR5emFYdEhCbXFNMlNydGdHZ0p5Z3JBVVYzWTNKUHpFOXcweHRjOENNSlBybWFEYi1XZzh5YVFrc29GT01jdERmUUlBaHc5UzhHcjlycjQwTThHMGpNM3U3LTFUQ3VsUmlKZ0ZuTkstblFsYUZBMTk5SHBuU0ptc1o2UDdQNFhueUNhNzk1VVBtNjd3TnB3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T22:01:00Z",
-    "hash": "c0d3dc81142aefa860b686c47a840c33eb134c7e90f8e2f092d898d6f604fc38",
+    "published_at_utc": "2025-10-09T23:07:00Z",
+    "hash": "cfb58c24bba947e257ae757a6bdd34e785131ddac2143963f4a859bef50da30d",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Presale Crypto: Comparing Solana And Blazpay Among The Top 1000x Crypto Coins 2025 - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWJGRDUtbVhRUWRkNW5DUVh0QnpaRlJUVzFnakpqUzd0N0JqR2c2WHZrYUZQeG9NX3VzM29QdVFHUXVIWFpVZzJrbU1KbW9yLWhuMnpIZXJvT2V6NWFWdEgzMkNMXzg4R1huUFQxUkhMcVB6LWZXd1cyR0lqTXZCeXUtLU1sazlVRW1uZmVseExlTDNpWEtadEF0UW0tQ1hLeGp3RlVhMEtMVER0a2FWdkw3VHpwN25SZ3VQbkQxc2dvUU1JaDVIYmNPZ1REWU1lS05mQmV2ZTR6V0VvTE1MTXl3?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Group Affiliate Atrius Health Plans to Acquire Boston-Area Primary Care Group - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXZIbW5ObFRnb3psWjJnMVNpamwtMTdmaFZrMk1QOXdYMmZoS0M5bmJjNHZZcTlKVFVaMVhSVHJmSEJidjV4YzRrcUludEFsSzMxNG9KQUFQa0NYWllqN3JKeFdVdlg0WWh4T2VqeTJUbXJybWpudXdocUd2Nmd2a2NUMGd0MnlXTzZWMlpRaWN4VWU4bUF3WUNRWTFUSjl0dXByWU5DZjliak1xbTNhRFE0SnloSDdJV3pkNmtXM0NMY3JRR09KYWpqR1g?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T22:00:58Z",
-    "hash": "7befdb9ca2cdd4011ddbc6b7fa45b919685f4d0a1269b44756998b9155ecc954",
+    "published_at_utc": "2025-10-09T22:49:27Z",
+    "hash": "e81958dec4f120f9164ae88f1b442d55f94924c801eaa66bf69c31270de2ecdb",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Navigating the Ripple Effect: XRP Regulation & Payroll Solutions - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbDlBb21IYVd4NzNhOFhzWnhzS0Q0ZmRwaVlOTjBGTkVaWTlkcEFVaVptamREY0xheUFQNTEzNEhweFVfbUtZcmV5dmdYdVZwcG1tZG1oMWJhY3BPYnNNdmdUZnJIZWxfNXFsQW5oSnhMQ1BMa3lvMmh5VERObTU1T09COGg?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "'Long Live the King': Bitcoin Billionaire Arthur Hayes Predicts the BTC 4-Year Cycle Is Over - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRmcwY1BZcFh1bDhLZkFyWGdjNk1mRlhqdW9fNklUc21ORjNVczdxNXA0OVI5ci1lSTBPRF9PTjMtN0kteEVaWS0yR2NkMzh2R1Rzc1pKZXdhSFkwdkxmZ1lXS1FhOFBoU2JLU2RnbjNadjZiQVY3bmdSLUpaR0pOd3JuZzhMS2NIRGh4LVdkZnZ4QTjSAZsBQVVfeXFMUGpQUEdYUUlOa3JLV1NqcVFwZUJrVUk3cC1wbWQxZE9LN1llZ25yb2RmSHAwVlhORXd3ODBJR2Z2ZGp1blB1bnJQZ21DWUo1N05wU2xCX0ZfcFRpM3V5MlRzVkctU1JJT19nU3hNZ0J5QThjQ185clAwWUVOSkpTQUVYNHllMzNtQW9JZ3RKVFFTbzA5Q0JrVGxJaU0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T21:52:06Z",
-    "hash": "1e7b248dd71e7627df325d77b7e8ee519e0133de2cc281fd1f4c869410219095",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase and Mastercard Held Talks to Buy Stablecoin Fintech BVNK for Up to $2.5B: Fortune - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWnJfUHRKLXRFUGs5Uzdfak9peG8zTDdmQU9yTnJRRWRDQm5IaGNJd3MyUDVNZVJDeGtGbmh6WTJBZWlYcHlTYkNXV25TYWh2cTdzT2VWLTJPcWxvNnJlYTdncGlqMXJuMlpzZWtBamtzV2tMRlpFMmNpRjA2ZURNN0dCTnVWeHhCNVZORHlLd1BYN3RFZmNFRUluRXpCbDFqbVp3dnZPWlp6eWxXQWNyUVBZY3NrWlZndWpMbDdTME1CbUxaR0FIYUNhRnlFQ081SVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T21:49:28Z",
-    "hash": "aa1dd00be4eff620984e33a96aa020a06a112c432af89472cd569fa5fac02c77",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Grayscale Bitcoin Mini Trust ETF updates agreements with Coinbase and BNY Mellon - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORk0yeWEycHo1d2NoVG5YODR1N3BRMzRsalFhZDNyWDk4MGZMNmo0dzhOcUJVTVJDYkNBZ1RocU1XLVlzRTVRbjBJeXprYmZRWTMtTnoxZ1FTQ2dOT3N6SlRZZTZsMjBCS2pBYzRieXg4VDI4UDJYNmFzaldRaFI4MjZJZDJZaEttN2szWXEyY05QSUphNm5zUTZMMUNFMzZjUlBCM1hHcHU1TzdHMFZQZTlhWlNpMzlGQkdMaVYzNFNRa0Qtb3lpaTdVVk1Odm1rdmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T21:47:07Z",
-    "hash": "bb7f998b0947390cf474664825ede709de0a863f8d71069166e884f86221f966",
+    "published_at_utc": "2025-10-09T22:46:03Z",
+    "hash": "7c158c3e2b2eb9a91fff36eadeebcff513ab58acab176206dbc1c5ee37b88a00",
     "source": "gnews"
   }
 ]
