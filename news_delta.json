@@ -1,152 +1,192 @@
 [
   {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Is Novo Nordisk Stock a Sell Despite its 10% Price Rally in a Month? - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWFZYM0FjU280OXRzTDNoQ3lYeUJXS1dfZ01QbXltbDdoV0VGZGcxTW9CVVNGZGExMTlGNUJTenAtWU16Y2F3UFNyVlhyUEhOSTdfVE1hWVNLVllmd09wR3ZaWWI5SThVNUVXMTZvem45YnBPN09JSFdqZ3l3ckxHRG9paGlZZnlQV2J2Tl9JalVya2FRTEFZbzdrR3ViVDF4VkdFMm9OM2pPd2s?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Apex Fusion and Layerzero Unite Cardano, Solana, and EVM Ecosystems - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkZfVXQ2WkFYSWdOYWprUGEyRTVseF9aTGlyLUVsSDM2Uk5td3hUaHlYc2ZweDFVZjlfY3Q1ajRYc0V1RXluNi1ORXBWajltYk5Ka18xa1dPQVdoTGExQmpPU3BNd1JxcjVpN0g5V0FHcEtJOW5LVGR2bk5RNGRNZGZJY0JiVlp4V2Joa3dmOEItTEx5S0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T14:19:41Z",
-    "hash": "b87f55e7bbea0e51671feb05484b7477c290586b4a998386d067cd08ff329a14",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Akero Therapeutics Stock Surges on Novo Nordisk Buyout - Schaeffer's Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTJRNUE3NHNCZkYwTHRmQUR5U2Z2ck01cmYtUktDeTc1UHNmTUc5ZWw3VkFubElOeEloWmJyV25DcW03YmtHR1BVN3gwT3g4dHFzUV9odnFESWFjazJkOGx5OVpWM1pveGI4QUtCelRNLWZrVzRQaXRyb1ZBZmd3ck53OG5aMTRiLTJmRXZwR0tpdG9LTWdueWlLWG1DUmFlVXdFQ3NVNGZ4d0Foc3lsVjJCNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T14:11:00Z",
-    "hash": "dea7f66a5f98edc76f88ec40cb93fd28f66adce887f4646dbb5eb51c24fa74a2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Dow Jones, S&P 500, Nasdaq : S&P 500 erreicht Rekord – Berichtssaison im Blick",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-sp-500-erreicht-rekord-berichtssaison-im-blick/100161691.html",
-    "summary": "Die Berichtssaison in den USA beginnt. Sie wird zeigen, ob die Tech-Rally anhalten kann. An den Börsen herrscht weiter KI-Optimismus.",
-    "published_at_utc": "2025-10-09T14:07:15Z",
-    "hash": "3d1fc8b04bf30479a1abd935da80f8592d7112f5413a9de0b616b0584cf90d90",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "JPMorgan Chase & Co. Raises UnitedHealth Group (NYSE:UNH) Price Target to $425.00 - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOFYtZ1RVQm1HUkw0c0pmQXNLazd3VFJTWm9fT0k3YWI4dTNXMVNjODFZeTc3QjNIXzU2ZjZ1WHBKeklKWFVweURjeThuRzROLXhBcHRSSGVMMnZGRXBYRnBPaTktVmJFMWFISFVYclJvQTZaQ0h1b2tXZWlUNTh0VUxqZ0tBTzdHMGtGRGZiYzQ1Q1pVdXhNQUZrN3R4SjN2T21PSFlJUXpWYUNKWUlJZHROcjFaOTJkWnNBQWprTDVBWHprS3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T14:07:13Z",
-    "hash": "a5d8aae1a103307c1d7d78f03c97ca5607dfd953435dcfa0222babcf779dae5e",
+    "published_at_utc": "2025-10-09T15:04:04Z",
+    "hash": "62b92c060be8e9ae7bcd21358462a23f06a05e4928a072b6814ee30b382bd478",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Did Meta Platforms Just Say Checkmate to Nvidia? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYk81eUo3YnE0d1VzXzRkc0lZVWxvWlJyVzNKVTVsNEhGUGhSWGpTT2FUMVdfdnA5NnA2UUpFalhRTkRCQXU3MzhnS2ZDX0paejdjOFFWdXp0Rk9mS2oxbUM1ck9Qdm1BaHdjM0pTSHFOdXRKTzQxc2ZlVzhxWjh0dWV0UEt3N0l1Z3piSWNLMnFnS281?oc=5",
+    "title": "What Jensen Huang Just Said About Elon Musk Should Get Nvidia Investors Excited - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnZMdnNWSEhTNllUQU9KVmJ0dW40R0xfZHhWaVVncWltN1FHbDdWMUFTZjU1V0FQb293MHdvOWlNcHdEM0NUS1dqSzhMSXJVMmV1c1htRVFSUllUNG1tQ0ZhZTh3U3V0LUpWcmlqbEw0b21DVUpoR3FMNXhWWlp3NUJKSlVtZTVWRG55VGJhc2p5TGlNN3RieERWRjB2RVFjSWMySjNSZEhzdGxYSndoamZhbHgwcm44TWdQSFQtZ28?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T14:00:00Z",
-    "hash": "7a2b9e3533ec6b7e8a1cbc630566870bf4be5e8fb8fbd11d5aa143819eedb76e",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Can Kosmos Energy Help BP? (NYSE:KOS) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GLWo1NnFEREFFWTdaSlRQOUtMOWtiVWxHMkZCbVRFTWpMSkF3Um92MnJOUkY2TVg2T2p1YmRWLTNVVnNJSDE3VXNGeHlkaURFZG1RWXpnZWVEOWxhTThCNVkzbjJLNFFpUGNCT0phXy00bEs1?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:57:22Z",
-    "hash": "13ba826c9b12d1ea9b159ee4f53181fd5e90d474cab3ecc770bbaca713f727ad",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Prediction: While Nvidia Leads, This Lesser-Known AI Stock Could Catch Up - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUElsVlB0azJ1RDAxaGYyelc3dXBwZHNtS0xhX1pOdzBSdUpLQU5FT1dKc2RpSGdyWHpiaFJ6MHRuNVpkQ2g2LUxpNFg4a0hfa0dxSGZsX3pvb2w2WG91d21QR3VESF82UzhWYXlhMm1XX014WV9kMWZ1cVRDVmRvZjZ2SG9RNE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:56:40Z",
-    "hash": "fd185a081da18bd79f5b78bffff7c9c91c29827b7e725eaf83dd6358bc6114f2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Akero Therapeutics Stock Surges 19% After Novo Nordisk’s $5.2B Acquisition Deal - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ2VsZmtsRHNXNW1qVXRwWm5GMHRTdHFzRTFWdUN3U0ZNdFVXX0pDOFNOX01ReUNHdUI0SFhvV3o5Rm80WVg1ak5PSUgxcmZ6TUtRZm5nYnJVQTFZVFlkWnlZd256TzlGZFBUZWVyY00yWGlpM3VFNTJLa05RZG5SSEh4WHZDTnBkRlBSc2ppekFvUkk5Tm5VdlZtUzRoOURTaEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:54:02Z",
-    "hash": "6c1daf12728149ca8e0d9b0465fb1ba2f6a0b3e32e2396c4e963ba6ca1d76e51",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "US Approves Some Nvidia UAE Sales in Trump AI Diplomacy Step - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY181NmJ0XzRKcl95Nl9udVBFZ0owOHRoak9SX3ZoX1NkN2RqQVl4SlVINy1Tbm5yTi1sQkI1bHRzdWJRZzdvR1FRQ1lSeUU5TWhxSFpiRV9FSUNDTjNabU4xOXRqZmYxV3RLaU9XNk56b0lzT19iSjRxTURTZ09oUE81c1NKd1A0WkdIeGloN3BxRXp1Uk52X1pNaUZtSVpCNmtEak1ucDJmZExHLTUzbVY2dEpIQ1E1UTdHRGFCQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:53:57Z",
-    "hash": "a7a8df5d50450d3857403e0981ad442f403a880e43ca9e39db8e8a9024a4aa28",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor (TSM) Stock Climbs as AI Chip Demand Drives Record Q3 Growth - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdpSHFmNzctLURqYUVfX1Fia2VXb2U3M3MwY19kcm9meTZUMno5ZHY3YVRvNkJIeWNKVW5VZWY0eC1UUTdpalhlVVA0Y2lyT0FlZmQzS0JDc2hnVkpwdllnQzRoTGdjdTNxdE1fVkZTa24yTGkxV2VWQWJWcXlDaDNUZGNzMkkxdnVZekNKNnVWSkdoMm5HdC1aNWZNd3U0aDJz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:53:20Z",
-    "hash": "92698bd0910deddf2e1bee1b5b1a7ce6c373738a758c83897bcdf627501a6428",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Figma partners with Google Cloud to expand AI-powered design tools - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXJ5VmpHT2R6a3BOVzVSak9ZcWQxZU12UTJxR0dGR0dtRm00QU84N1NrSWhfWG42amRqbFhEcERrSGIwZlh3c0RVTFhWOG1BUG1iRzY2Mm9KVWxEQzIyX2VqLXBoNXJYc3JkY2FxQjlUVkYtdWVmNGtCTFllbFVmM2Y1SWU1bnBEV3pERndBblFweWhXalhRVTFSeUI3R1BnY3l2cnU2bw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:52:09Z",
-    "hash": "7ec57943bb673aac2fe2e29b7cfe84b0f2e95414cb3a43e81b84cbad32622766",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia receives price target high of $300 due to multi-trillion AI buildout: Cantor (NVDA:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDRZbnN2UUpfWTBST3huZ2tXM1VUVTU2RlZ1WWpNaEVCRHFnWU1BbHR3TTlBbElpZFFRMTJQVVdZT0hEV0V3U0k5bVM2TWdqREFBYTh5ajhQeldvMFBNSE9MemJsdFRGSENrcEdlZkdvNWJ5N01BZVdlRVd0OXdleW00TlYzWkZra0cwcTNOUjhaem1HY1IwNmJmbjJERHFHRUw3bGVFVk5VOUtOYXozc1lTbElmV2NVaEdN?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:49:59Z",
-    "hash": "1c74a58aabccdb90946b2f5bab8c60caab9ed7ba6769d7e0cfb6206c3169499e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Stock Gains as AI Partnerships Expand – Time To Buy? - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM3lydlJURlpYOXJkMEROOTBMS2JRRFBIb0pPcC02c2h6V2N6ODdab0tnQzdQN1M2VU9uYmJkLTVvdTV5N2k3ZzVvN0lzcUNReDVvMk9qbEFZLU95MVdWdWQwNTZuZTMwRlZwV0pJdGlMUndRQzU5cHhmX2I0a3ZMdkJfVHpCZHAyczNj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:48:25Z",
-    "hash": "4adcd0ee505aadd1cd74c36d1a5a328d99fb24978ca7ae2cf61a2e5fd59e469a",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "UnitedHealth Group (NYSE:UNH) Given New $386.00 Price Target at Barclays - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTlczSzM2ZGQ2UTIxR21NUXhNLUtaZVpKRVJ2eUIydTdYSlpuRU8teVBRREE3SVVzczVsUEh6X29JaWNZMGF6QjZpaEg2dUh2ZkVrTHZFZms1NFRLZWdjSHk1RTVUYlNGdmtlUlZpbmo4Q3NycC11S0FMcTdFVDlRNXl1R0dKQ05KRUtuYm1OSzlkQjUtNkgyQkZYV0hWWVE2YVRxMXVsVXQwMS1LajQxTlkyU2NES0pJNkRDUFhn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-09T13:42:26Z",
-    "hash": "70b3bee497efc52ed7ff19d2b1d9dd5d9d521ac3e0c5a9a3c054cf92c8f35260",
+    "published_at_utc": "2025-10-09T15:03:45Z",
+    "hash": "69d7fba605fa4d026f694578feb5221f8c659d1e76596cae50ae39bf3916f575",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction: Bitcoin Rally Sparks Investor Shift Toward DSNT - Tribune India",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelBCMGlyVWhxUkVpSDh2S2tPNlZHZ01hRm9PSF9jaW1kUGlTRmloQk1KclZZYl9ZZXNROFlsa0pyUlRiTWZkX2lqZDFUVE1JM1NpSDNUSjFnUzdiZUV0c1NibzRzLXQ2Y2tBMEtsUDh0aXF1SHNBWHhONVdGSTQwSlhuLWJYLWJWVlVCNHFERTlaS2JnSTROcWluNVZ4aFNxSTUtMXZuU04tcFhxNXUwLTlzYWQ5aXBl?oc=5",
+    "title": "Smartphone Mining: XRP Mining App Sparks Global Conversation on Exploring Crypto Like Never Before - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdEtPWU5kMExtXzFoazNrTDkxb0xIOVo0UnR6aHVoR25sQkZNazZtUlJKRnVKM0JpU05Mc3NxVWxGWjNoTDJ4c0VXYmtnM1kxcTNDQ3ZmbFZJVkNtRFJBTXQtNDNJRHZmY1JfNDRSajZvYmFGbGttU0tIMVplZE5xQmtRYUhNMjNMSWxmdVFERWxMblJTbzliQy16ajdhdW1UbkQ1dGNYcktVOHFkQTFIMzR6Z0IzMjNxUnB1S3FwZnU2bUVnZGU5Y2hURlZxNXJ2X0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T13:40:00Z",
-    "hash": "fca1df8f9f1ea7b2ee335ee82d6c268460e220920abf8e2f35b8da3acd3d22c6",
+    "published_at_utc": "2025-10-09T15:02:17Z",
+    "hash": "9a5b84300bba54d867f7956f58f9a6ac3a187bb2fbc5fe0c10fe57e5d0d1f823",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia-backed Reflection AI raises $2 billion in funding, boosts valuation to $8 billion - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUnZpeW1BT2k1SlJDSzJHMmFfT1hCc3RvMEdRcFFaYnR4VUNkUEFCbTRYT1lXOWJBckp3ZnVnQXZZc2JjTFkzMWpiOExuOTYzOWZ3Y0FET0s0bEVRVUtza1g2ZjhkMUVvMkJUdkNXZkZUMFdvaWI4SUVpZWlGTzQ2VS0zdzJiRDBvQzZ0Zm8tTTV0QWFlVFZIOWRiYXFWaGpMbXI4cGRfVmk0WDgzeTlkcWxmV1lTOFNFSWZYSUkwSDg4Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T15:01:51Z",
+    "hash": "ebe5780f42df711da0dc40a8d8bea3ba5e73acbd091c9700665f6b8655beabfe",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Bank of America Lifts Taiwan Semiconductor Manufacturing (TSM) Price Outlook on Revenue and Earnings Growth Prospects - MSN",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPZ3pYU3pwR1E5Nksxb0ZFQWNIVTJBS2tQWmEtdFlXbUhDdERTeFd6NUpJM05hSlZWX2Q0Y2VJYU51S3I4bGI2Tk9hS2p2S25uSndQQmJkTDd0RE5VU2NzLUZGSGx2SW52WmtvaUNMY3M5Wll6Y2dHOWZlbkV5ZFZ4cDdTZi01eGd3NVpsN3lndk4wT1pHekxEMG5iSm1TdHZxc0xzNW1RTE5sbHVrejBhTk5lWmhFOUR0N1pjSFU2dWdXeWM0elhINVRhWm1fU3hDV0JyaDNITjVUTjZmMFdVNHR0VXNBaS1LZGFSdXdkQnFYQ3JCNkxuUGdRRDJiMXZtNm50MjU3ak1QYktKU202WXdNSi1SXzlHa29aV0RHb3M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T15:01:31Z",
+    "hash": "c694c97854f2db4343e894f927b0427ec744f96df0167050aef61b2b62142571",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Softwarekonzern : Hacker haben laut Google Oracle-Anwendungen angegriffen",
+    "url": "https://www.handelsblatt.com/technik/it-internet/softwarekonzern-hacker-haben-laut-google-oracle-anwendungen-angegriffen/100161771.html",
+    "summary": "Mehrere Unternehmen seien betroffen, meldet Google. Die Angriffe richten sich demnach gegen die Business-Produktpalette von Oracle.",
+    "published_at_utc": "2025-10-09T15:01:23Z",
+    "hash": "4580de38883a039363fc9f2c2cd0c7a1591a2e64f1225405149eb593f3e8663a",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Targets $10,000 in 2025 as AlphaPepe Becomes the Best Crypto to Buy Now - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONnhOaERvb083NzdteVFzTWdTMExnUjNWSEN0RlpfejNSYng1YnJTdWNCWmNMblA5UU1Ual9IaWRyRXF1c0xpa0lMQVYwZFdDOVlEanZkLVI3MlFadFQtX3ViOEZoemN2eU5ISWlUTVdCVWhuYmdxTjBYMFNBOThMOEpaTW9pcHZoaHdFakZvc2FJNmdxUm9hSFdUSU9HUnZlUUNINkpKSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T15:01:00Z",
+    "hash": "b52b43cebed5974067990b4ecde34f6632c3ccffd6f5df3a403a4a5956909aba",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Targets $4,800 as Bitmine Boosts ETH Holdings to $13B, While Retail FOMOs Into This Token - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmVJVjZkYm9FUkZrbldCWUNrRm9Rcy1neXpRblFOeXNacTFVRFFncXRFeFp0aVBfZjFNaWRrLUFjMFFHQnFkRnQ4Y0xqZlRWakJlRWFfSEk2Ti1lVXZ2NnJzTUN1SjZfUnAxZGNQdmlZTUtYdE1mQl9LRmEtLV9GcWZ3MThGTzlIZGdPRnljZWJsU1NTRUJablVNX2d4UGpibHpOZVMzMTVfbGlNNXN6OERrXzQwVU1ZMVA2VjdhUVBicDJpVktpWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T15:01:00Z",
+    "hash": "ade6d1c8b70bcf0441af92029132c45833dfd445613001308411d1a19cd0d024",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC Eyes $500K While AlphaPepe Becomes the Next 1,000× Meme Coin - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkg3Y05ka3JOUFctWWotOGUwN2dJNFN6WkhrYzZ3SjVaZXdjbDZubXRkNFJkbEJyVHAzbzFIeEpnS0VkakhLTzEyN0h1SmRHVllyejBoRVBPdHFIcFoyZFBydzNUa3FTRHdmMTFad1VCZDRfaDB1RmhYamZtdDRUNGtROFh2M3c3MFVfQUhnVVlwMkVoakxIMW5mcUFKUFZjRG1KSGx0NjMzaWlwYXhMbGR3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T15:00:38Z",
+    "hash": "809d699e99acc7c610d5986788fc1ab6e3a7d310dd15a4e2358b5b1e15ff66de",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia-Backed Reflection AI Raises $2 Billion in Funding, Boosts Valuation to $8 Billion - Money US News.com",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOVdmaWJ6M1RfdGUzNy16UVBFaExNZ3hrcVpFWi16MmJ4TDBKRElNRTBsWTZIUjR4NzhtWmI0cVFUVzJRemx1VUI0cUNNZ3BtQ0lodUtJd09MRUY3Vm5sdFBYQnJxby1OQlpSUzVqbzhEbDNfQWcxanF1UDdXbl9oOEhJMnJVUjdqQTB1OHhIRVVJdGZWNWM2Vm1JTjFNUHVoeXQzWl9iYXZxaWJsQW0tRnBxMEZSU25VLVc4VUZpNGZzVHBESVFmQzZRMmxBRUgwZmY0ODNYdzF2XzFoNVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:59:00Z",
+    "hash": "eaaeaaa8a398a57ee3672d7bf3176fd35fa9bc65e23fccaa53827344ba6738aa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Oracle slides as Google says e-business cybersecurity incident is widespread (ORCL:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEdPeEhQcXhaeURoQnRPalpGZ1lnS2tOLVI4dGNZX3ViY3JnRUJTZnZwSndhX19MdGRMUThOU0RfMFhSdzRXTmJ2ZDB6REtOOWFycFBQcWNaX0U5Nm53OVlvbjZCb1BGcTlJQ3hxT2ZzWDdXOEdfZTBHOUpxMm9GSWZrZTFqX1FIZUMzbkNXeG9RRGU1cGdiVktTZUU2SUxfdUg5ajlRZVBtQ2tlWllsak1Cakw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:57:22Z",
+    "hash": "758732061c6b11227991bf430aa8cb5a0b6f1111438f664dfdb58c797abb0cef",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Bank of America Lifts Taiwan Semiconductor Manufacturing (TSM) Price Outlook on Revenue and Earnings Growth Prospects - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXpMWHczc3VJZ3ZRcmp0RWZXWkNTY3Y0N2xmRGF6a3VoZEkyYzlfRWxMYXVkYS1ER0N6U2Y5YTU0Tk5IbmtFVmpfVjk3MTlleVpPdWo4NUI0cVdib3pEd243d09wLXAxLXdqT3dFbXNwMkNvajFNY3piWmt4U3lqcWdTVmpiNXhaUE8xWGRn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:48:18Z",
+    "hash": "e03744db9940b22104d60d784f914edc902d56582023c0ec816f818538999ab4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: XRP Price Dips 2.43%, Key Support Tested Amid ETF Delays - Binance",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VU1FEZzJNTEZJUVk2V2IxV1pZNGVieXBfY3ZwSkY3Z2hXcFo0R3R6cndPTHFLcE9rTGFLVDdBNlpvNTdqZmwyNzVXVHR2TFdtb1lYVEJaVmtlMjFGYW9FX2ZyWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:45:07Z",
+    "hash": "622853da54aa62c43b01bcaaf487485301104b9af28361a16ec541876d0e785f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Why this $0.027 Presale Could Outshine Binance Coin and Bybit — Top Crypto Presale That’s Already Minting Future Millionaires - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeGZDeDlFbTNmSGhmTEdiUFdzRDV3aXYtY0U0T2xpWUs1OFh2Z1JNUGRNMzhPMk96a2ROODdSRjNXRnphcDlJN2lqX2Z6QkpuMlBsZzF1czJVTHF4RnJreE9xS2hPZUFOQ0ZEdkNwdkdhWF85bHdDdzdDU016MERmQ3ZEQVdSZjRwUkQ2azl1VHdpZU9EMVZPYnl2ZVRJVkNvZkFGMEo0dUctVkdwWG1GSXd1Nl9LTEs5NnU2Y01CZ1prMVhYNzJYRlhjR04tWFBCZGg1UENzZ2xyLUhETXRZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:42:48Z",
+    "hash": "6bec6d0a706f1aaeaa70333f2ed3a04ecaf3c9cfe98929d4663a4594a3b4a632",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Rises as Huang Says “Demand for Blackwell Is Really, Really High” and Calls It the Start of a “New Industrial Revolution” - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLUFJdXM2Z3J6UXNQUEI1bTVNTjRxU2J2bFpFNVRfMWprTjhFSzZ3VGhnMXRUTEk4SW4yeXpRamphQW1Ic0lnX0VzUTNacFFSV3pqbFFsUFZzLWlKaHJDTlBlQ3F2LXJvNWh1TnV4ZFI1TTlrenVvYkdrSlFFS2twcEZJYzBSQi1zLVRLT1JuSWlyWnJMc0pyY0VNU0J6QUVYZnhIZTJvTmpMaDNBRWNZVzBidUJkOFRlX1Z0SjhLeUwtWkgyV3F3U1d3bGh1b0huY2I5UTAwOXItbnl1VzYxMGZYX01BMWM2UHdDUHJxSWY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:37:45Z",
+    "hash": "d3cf84165b43f9a23c74fb06a7c33e9bf09f0cdeee67d137bab4632d0d141d8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Price Prediction Today 9 October – XRP, Ethereum, Pi Coin - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0tKQ1U1TGs4YVhtcnRWem9LcGpWY2RJSmxIREdVVWIxbmlKX0VGNmlvYjFlRW1Pbkx5bWxrOC1iS2c3X2t0TWZtRTgzSU5mcmNXN1J5NjM4TnRGLUpydFRHbGp0bTYwT3dGV1V0RG91eHhCRFVRNHJENUxyVDY3Z3dVVWNfVW1MYk9LTVRXZHdmSDA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:36:19Z",
+    "hash": "d14862d671b9ba4d36ea38879bb948b73cec548559e8f15af90dbbf137c45d47",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto Price Prediction Today 9 October – XRP, Ethereum, Pi Coin - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0tKQ1U1TGs4YVhtcnRWem9LcGpWY2RJSmxIREdVVWIxbmlKX0VGNmlvYjFlRW1Pbkx5bWxrOC1iS2c3X2t0TWZtRTgzSU5mcmNXN1J5NjM4TnRGLUpydFRHbGp0bTYwT3dGV1V0RG91eHhCRFVRNHJENUxyVDY3Z3dVVWNfVW1MYk9LTVRXZHdmSDA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:36:19Z",
+    "hash": "d14862d671b9ba4d36ea38879bb948b73cec548559e8f15af90dbbf137c45d47",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Dow, S&P 500 Open Up; Nvidia, AMD, PepsiCo, Delta, More Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQTVNLSk5nYURsOUlJdXhSTVJiYVA5c0drNEtPQms4X1hDQzFWTHJPLUoyeUtDTUs5QzJ1ZlB6NFkwOHB6ZjgtdWFZZTRHMURySXNnX2VRV2VKbFhxLV95ME11eFU5WktIZHk3aXVzSUZhRFprTDBVd2FUMWdFSUwwQllabDhSTGJNTWRjNlF0LTFITTdWTmxxaF9KbjZnSGpvSlhfZEZ3RzRfZmhGQXYwWXRpckt5SVV6SF9KYUZwQmZVeU1xNW1rRmNBMWxEYkZ4akhkUG1wZTliSXhoNzhXZlRjdG9BbGpzdzZrdmVwNkg1ZV8wODVfZTlzX3hzS1lrcURzd2xjZUxnajhkZXo2cHNvN0RRVnZibmRRQXAxb0VJOExzQmJvTkJXdFI4M2dnZ3VjOC1IcEhIYS03dzFZXzZfM1lRbXl5RmhjZjlqMUs0c0Jsbm1sWFJHRk42NXhJeG9UdWh1N3poZTV1TWZ5UEt0VVRrWkl6eWRR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:36:00Z",
+    "hash": "d334f60db073dfc061cc3c2beb20fb51bb81c453a7bc2b42633c35c9db89c16b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia, Costco lead Thursday’s market cap stock movers - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLU8zNVBqZWhqcFJnLXBwbkkwQjdBd2JDUVJQU2gwMkdZTnpyTUZPX3dpRjBFRk5JT3I4T0dSWmRyS3JPTXZVaGVjZ3dvM1NGZF93c0tpZExVaUoyLTdjeWJoNFkxbWJYOEkzTGFGSFJCZFFjRUFpYXJRMEJBTHNpS2FIeU81eXdQTDJ5bWNKdEZIYldWRGc2SE9tRUFHOVNtNy1ZUTRQLTBZV1piRGR5U3FBT0s?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T14:35:55Z",
+    "hash": "4f7888dadf8961153de711b0d3d8c0591116f26a499b0f3a56f6aab1bf8121de",
     "source": "gnews"
   }
 ]
