@@ -1,22 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "GlobalFeed",
-    "title": "Dow Jones, S&P 500, Nasdaq : Nasdaq verliert drei Prozent, Bitcoin fällt unter 117.000 Dollar",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-verlor-deutlich-bitcoin-fiel-unter-114000-dollar/100162229.html",
-    "summary": "US-Präsident Donald Trump verdirbt mit neuen Zoll-Drohungen die Stimmung an der Wall Street. Besonders betroffen sind Chip-Aktien. Doch eine Branche legt zu.",
-    "published_at_utc": "2025-10-10T21:22:32Z",
-    "hash": "6c4a3728d32c61c21192999a44d99b053b938b47005724152ca681cb86fc86fd",
-    "source": "rss:handelsblatt.com"
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer (NYSE:PFE) Trading Down 1.7% - What's Next? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdlJRV3BROHhXeXN4TzR6dThlT0hTakZFMEVRTE01a191OEl2a1U0Z0RzR2JVSy1LV25oNHM0bmVFd0ZTQUtyazlha0U1YXl5VFRna2NwZTNSTVpabTg3YU55RXVONm02UUt6c3Vzb29yQjZSZlpla0xjQWRDTFBoTHQ3NV9NQ253MmhLcm1vQ0lVWlQ1SG1HMm9jOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T21:39:43Z",
+    "hash": "ad2a71e84e69d58d3baeeb328c215b7548086f61983564d3884e16a0af86d009",
+    "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP ETF Speculation and Ethereum Growth Align as MAGACOIN FINANCE Announces $16 Million Presale Milestone - markets.businessinsider.com",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOWY1YkE4VG5xTUxod1BtTzdFemx0WC1odVlTX1ZPLWhKZ0ZXakdObjdGeFRZdk5yQWZyeHluUWhxdmhqdVVPREx6MTNoUFo1Q29JbG1iRVlNVnlHaXVuNjViUUM4MVA4VXZ2NHE0emctbEZhWERoRVkteHVwSE9QNWt0UmpDTFFfdGZFaFF5c0F1UWNvUDdnNTllNThzY1BOd1ljaS1BZHFraXhRWW81U2hUSi1IQVNUU3RhOEJOMXJDeGNyUlFNcmVaOU13MTdKUU1DZzFmTlQ0TVRlb2s5UHh3bWhjZFk4YXZ4THBCc2x5ZS11Z1E?oc=5",
+    "title": "XRP Whales Boost Holdings 1,000% as Price Targets $6 Rally - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVk00eDFFNFNmNGlPTEV4M2lsbU9UVHkyR01YRWtNSG95YnBlLThjS0RNRldBOXpiRkRVY19FT0pKaU5xZkZrX1VPcmpTZ1hFaEduZ0NDR2xWRXpvekVOeWxZeXdGYnVXV0o5RGE4MzhXemY2QkJEYk1oWlBUSFhUZWMxQ3NBOV9hdzA3VXFRQ2I3MmxXek56UFRLN0FFMWhIODZsZldUbUxYZlN5bmc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T21:21:35Z",
-    "hash": "b1b7329924d91936e2f360239f505f395248e1ebd82c68747f8c263bc8c1fdd1",
+    "published_at_utc": "2025-10-10T21:37:21Z",
+    "hash": "635d492772750269ab89b8470d6dbf010e71dcfe164067264c084bf742d83bc2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "GlobalFeed",
+    "title": "Dow Jones, S&P 500, Nasdaq : Nasdaq verliert drei Prozent, Bitcoin fällt unter 117.000 Dollar",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-verlor-deutlich-bitcoin-fiel-auf-106000-dollar/100162229.html",
+    "summary": "US-Präsident Donald Trump verdirbt mit neuen Zoll-Drohungen die Stimmung an der Wall Street. Besonders betroffen sind Chip-Aktien. Doch eine Branche legt zu.",
+    "published_at_utc": "2025-10-10T21:30:03Z",
+    "hash": "932fc50bc200aa442f5f12b6ea518b10b4d6b30113ebc353e5317308fc280969",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens (OTCMKTS:SIEGY) Reaches New 12-Month High - Should You Buy? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNm1yWVpnWlRMNkNxYkRQRzhwYUhsaVdIX21zWGJEZUpVdWhra0g3UUkza1JDZy0wQTdIUFFWSEg1X29lcTFiVnBhbmQ5YlYwYjJCMkFnTlRuS0xhZk43UXMya19mWEd1UTZ1a3VIWUlZNkVCWFYtUVlfYmYtV2JpTEd3N19Fa3V0ZXYybzI4alNOLUJNSE81YjViWmVQUmdqTXlIdDVod3I0OHNGS3NMaENzX1lwUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T21:29:42Z",
+    "hash": "0a95487588170ec03844aed07076611b6144ac90d2c2ed0c8974017e4a72223d",
     "source": "gnews"
   }
 ]
