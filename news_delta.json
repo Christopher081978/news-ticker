@@ -1,72 +1,72 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ETHU ETF: Not The Time To Be Leveraged Long Ethereum (NYSEARCA:ETHT) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN19ycEhpcnRmUHpGclRtemR2N1NNY2hEdmNBd1hQSm1fVTBwOTZyeWFEemhEWVBDNmNzNDBiWVczd3BKOW1TZHRGdVVIUFhKQWZPWFUwQVQ0bmNpRWg5MFpLSlYxVTd6cW5FRjFtWUhpSTJPODlCRHFUWEJRQUtzajlLcUs5aDRJejd2UTAzRThxUG5IQktHb2hmSHliZ0ZiWENlYW41MTkzaHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T03:01:49Z",
-    "hash": "b3d4082bc8a3e7de3c788f72fcc9691e488d573141c72c349949c3d30ef04d44",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Akero Therapeutics (AKRO) Jumps 16% on $5.2-Billion Novo Nordisk Merger - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZXJsaF9LVS1vUmNuZXdlWjJGRWFkWDFZY3dWLXk2djEyQnEtek5QR21zZVRwSFVydjlxZ09iZGpGanJEUmtfUmJIOWVGX3djYnRYRlFYVWoxNy0tNExtOUlrUGd1Y2ZDUkdWeHA5OEo5OTJGY1p6VlN3LXQ3Rjd2R1RCRXZhUlo5TzFrLWZKeUZlYXpfOE9DSE9MYmlNTnlVSlpVdm04SFZKR0xrXzltSWNZM2hCNFI4cFhpb3YtbW1FeGpVYkZ2djh5dkNGVzRKTnltNnB5ZHFwOTl1b2ZYTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T02:52:47Z",
-    "hash": "f71ce9e1e28225ab84b1b847d29baab78d69e17310decb469d7199c8ebeacf23",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase, Mastercard Eye Billion Dollar Deals for Stablecoin Firm BVNK: Report - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSHJMUGxwNE1sNV9PTDJjcmY5YlM1WDhhVUNkcjN1TnRDdG5WS0RZNE1jbTVGdVpiMEhzaTFDQVpaWWhzSVhoRm5JdVBLMVktRDJhajYyUXR2Z09qTV9STUdVTjVVTUxzdHNMZDlpVm9MMC1vRmV2ZGdDaTdRMmsyQVBHLTVMS0o2OXNwOGcxaW4yd9IBmgFBVV95cUxORFg1S1NyamVxY3J5SmItN1ZkQWN1OHdURE9SYndlUC1vTktic1hjbHo5LURrQ1NLbU5yTjZBdDBMY1h2QUx0MGhuSFVQTEdQdldkWFlSOG01UXIyZHoxRHdVWjkyZFgyb0xORDRIV1FYRGxNOGJJb3p4LTlzMWM2a29zNHZXQ0dGSHhYekV3cVBMYk9NNnowNmJ3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T02:44:50Z",
-    "hash": "4b3fb72cf11da7b0259d8ec9ae03e2b5afe4e320745783f3b1feb79efa75c6ba",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Activates Staking in New York as Regulatory Barriers Crumble - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUnUweWV5VU9vaUk1ajFGTDE3LUUzeF9KTlp5RERzcGZHNXBBVjFRU2haMVZWZ1pEamF4UXI2ckE5ZldGMWZoWlpjTHc3OUVGb0FQTklMX1JvZHM2d0p1WWE3VE5EeGlza1k1bG80bEZrUGNFUS1aVTNValBzZE5vMWJFTV9pbzlVbDhyUE9ta19KRkF3dUVZMzZwQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T02:41:27Z",
-    "hash": "df2297c70e70f1686f13dbddbd8e7c4167f4444f9681579fce8966e29572af58",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Stock Could Get Another Boost After U.S. Approves UAE AI Chip Deal - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLVpxQW91MTA1aHVTQ2pyTzRqbS1pdkQweDVTZGpzWWU3M1c1M3pWM29oUmJ0cVpVaFZMZUg2dGRfM3cxMEZIZnNHLTVxa1hka0YzdlFKUEVlc3NXRlB4QkF4QnBCMnk1TDJnQW9mbmpjZ1hGUDNKUTl4UVVjOVZxdFVVRzJoZm11QXZ3N1FDZmhFRzBWelRleTQ4SlA1ZjlfcHRfMUV2UW5yc3F6YV9pR2FyNjJnaDRUcVdTVTJaWm53YkJjaXRzcXprZlRvSVl1RkFCNlVvLXJZandPRWV5aVBzOTc?oc=5",
+    "query": "NVDA",
+    "title": "Top Analyst Lifts Price Target on Nvidia Stock (NVDA), Calls it the “AI Engine of the Decade” - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVFhMjdCbWN0Y1B1b3B6MGJnZVE1TVpKS2FaUldkZ1RKUW1VUl84X0UtNVMyNTlBcGdsTkVsZHpKWGxSdFlPdEhFT0x0TGszWTJSS2dCbUc2b3pkQklNai16b1Q3OUYxcGJpMHNKVnRSajltTk9qNW9aVXE5aXpTYzJhdlN0LTU4eWxiNmZyczJ3TjdoT1NNZjVSN051S0N3a25QMnR5clVHZmx1ZlpMRjBPS0c1T1J5dlE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T02:27:27Z",
-    "hash": "ac1a6a6f7e7c3c404cce0c4cda71cc82d5b13abe8911786586f68806a064a550",
+    "published_at_utc": "2025-10-10T03:46:05Z",
+    "hash": "531f0419c290a7abe3c4bda2fab2faf281ac0b3c01c185941e526bae1cfb2d6f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Here's What to Expect From Solana as Daily Transactions Fall Ahead of ETF Deadline - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaEdPN0o3YkkwOFVXb1BCeDFXXzE2VlJPU0EwRDZhRGNVMFVBZlZaUTF4VHZxOElVb3FBTXNlaUFOaVkwNXFwMDRib0hfZTdUTDRwRWJRZ0tHZ3k1WkVtVlMybTIyY0YxbXNUbWJ6Qk5zWnc3dkxqS2p1V3YyazBxeXM0c2_SAYwBQVVfeXFMTVpVbGlsV29EWHlBQjZYT3BiNnNxa1dtNkJzRXhDUDR0dkZQd0tXb3JRMkFYbFJZZ2xiakRfNFhwbER6QUVPY0J5bGhWekZxQy1PSjZMcHVfRllxNEFOaHYyc0FnME5NUE1TYTBTTDlORC1mNFdUajlTenRzdWhVMzJZUXh6LW1lQjREQWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T03:34:47Z",
+    "hash": "54c57695d3e14e4d5eef2113f1c35328302af7110076af64c82a6ae50d9a8221",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News: Flare Surpasses $43M in Bridged XRP and Eyes ATH Breakout - livebitcoinnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVo5bDBMbG9JWGgxdUhtT0N0S3RHSDhQT2hheWkyTGpKSE5pRzBtQ2RmWGlBQ0ZLaHZkNFh4TWV5aTZ6YjZ3NDBNc3BVMTVyYk9CT0JYdHJMcGpGLXAyWU1KZjRBZ08xbFdqZHR2R0Y1Mkdkc2lKRlN3RkNRd0dsaGhScnl0SFp3UWxONmJ2MFQ1M3JXVHk0MDFsQXZtUW9VNXpj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T03:30:14Z",
+    "hash": "bf622950e82e84405c3616893954b84c7912b37dfb124728a70ccb2ab45d85dd",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, and XRP pause after strong rallies - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNV9CaW5QaUtuV1FNbnJSZ19GQk91cjVOUlRfQ0llU1QyNkI5cWJiN0tiYzVNM2JCNU9lQ000TXFWRHlEb1B4RFNLTVlELVdEaTRQMlpOaFBBLXd0OGloc0NIa29kZkg0NHlkblBFeEdKVURFbENuMHNRdE15VWUxdlduMlpBVFRIU002d2xpRHZpOUUxSmNPczNuNXNYVkY4cVVnS0MwTnVuVmxtX19uSnpXYjBYUVdQRkNOd2xXR1dkTXk4OUdiS2hSNElwTGRDaDl1RlE3MElaRmlRUWd4bk5SONIB6AFBVV95cUxQQS0tWG5ndk5zcl8taTlYZFZlSTNpdGpJaVl6dFZEOFdOeFctTFRrcmdhMjVCOHVOcVVCYVlySThaMGxpVy1QTDJxNUg1N1dJajFRVjdZYWphWEpJWktUbkZNOXNJRWJNVTdBdFNCTnB2WFBCQmtxQ25HZDZPbDdWRmFJY0draWpTVXYwM2Utalp3VUczWi0zZEROb0JEdDlzYWVMemJMOXdIWkYwcHZ3SUdEb3VONHZSNjBRZS1DdzBSY3oxZGJYb3RfYldyZThCYVVCZzhXN0RBMFJLaXppSm9hTXJiUk05?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T03:30:00Z",
+    "hash": "12612abbf7a25516e0d5f1a583b36799331697a50b0e345b91cde62aa82177a1",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Bitcoin, Ethereum, Dogecoin, XRP Fall Amid Government Shutdown Uncertainty: Analytics Firm Says BTC Needs To Hold This Level In Short Term - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONVRkN0VyRG94NktfTV95akZGeVl2Zy1WaTFRYUlEenRJcU54LThsY04wMkZMb3VnZ0lEMnhuSFBZcXlpT0tRaEpnY0pkbk9rTWFxX05YYjdBSGQ2ZE8wNWdRdGJBZVA2WTlacktyQk9UOVZEYWhQTWo4QktXdUVXbjY3SEdOX1R3LU5WTXZFSzhaTDlDS0M4b2xidXdLdVFFT0hrcnFlYVhfaHhsdW5RZ0c4Y2RzUGNGZVFmc2tVbFg5S3R1Ui0wbDVrUFpSeDV2RE1zODZMVzRVN0hBVWQ0aXdJQTRiZlFmc0prY1BUR2dzd3hKcHdXaDhOUzdQMndxVXZvcVJoVTFaODBvU2F6M2JXRXNtMUhoOEVVd25HaFJ4UQ?oc=5",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, and XRP pause after strong rallies - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNV9CaW5QaUtuV1FNbnJSZ19GQk91cjVOUlRfQ0llU1QyNkI5cWJiN0tiYzVNM2JCNU9lQ000TXFWRHlEb1B4RFNLTVlELVdEaTRQMlpOaFBBLXd0OGloc0NIa29kZkg0NHlkblBFeEdKVURFbENuMHNRdE15VWUxdlduMlpBVFRIU002d2xpRHZpOUUxSmNPczNuNXNYVkY4cVVnS0MwTnVuVmxtX19uSnpXYjBYUVdQRkNOd2xXR1dkTXk4OUdiS2hSNElwTGRDaDl1RlE3MElaRmlRUWd4bk5SONIB6AFBVV95cUxQQS0tWG5ndk5zcl8taTlYZFZlSTNpdGpJaVl6dFZEOFdOeFctTFRrcmdhMjVCOHVOcVVCYVlySThaMGxpVy1QTDJxNUg1N1dJajFRVjdZYWphWEpJWktUbkZNOXNJRWJNVTdBdFNCTnB2WFBCQmtxQ25HZDZPbDdWRmFJY0draWpTVXYwM2Utalp3VUczWi0zZEROb0JEdDlzYWVMemJMOXdIWkYwcHZ3SUdEb3VONHZSNjBRZS1DdzBSY3oxZGJYb3RfYldyZThCYVVCZzhXN0RBMFJLaXppSm9hTXJiUk05?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T02:17:03Z",
-    "hash": "c86f67487e9d18fc96c5712601e59b90db9beb5e2f8973abc848406a7bf9c62d",
+    "published_at_utc": "2025-10-10T03:30:00Z",
+    "hash": "12612abbf7a25516e0d5f1a583b36799331697a50b0e345b91cde62aa82177a1",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin, Ethereum, Dogecoin, XRP Fall Amid Government Shutdown Uncertainty: Analytics Firm Says BTC Needs To Hold This Level In Short Term - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONVRkN0VyRG94NktfTV95akZGeVl2Zy1WaTFRYUlEenRJcU54LThsY04wMkZMb3VnZ0lEMnhuSFBZcXlpT0tRaEpnY0pkbk9rTWFxX05YYjdBSGQ2ZE8wNWdRdGJBZVA2WTlacktyQk9UOVZEYWhQTWo4QktXdUVXbjY3SEdOX1R3LU5WTXZFSzhaTDlDS0M4b2xidXdLdVFFT0hrcnFlYVhfaHhsdW5RZ0c4Y2RzUGNGZVFmc2tVbFg5S3R1Ui0wbDVrUFpSeDV2RE1zODZMVzRVN0hBVWQ0aXdJQTRiZlFmc0prY1BUR2dzd3hKcHdXaDhOUzdQMndxVXZvcVJoVTFaODBvU2F6M2JXRXNtMUhoOEVVd25HaFJ4UQ?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, and XRP pause after strong rallies - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNV9CaW5QaUtuV1FNbnJSZ19GQk91cjVOUlRfQ0llU1QyNkI5cWJiN0tiYzVNM2JCNU9lQ000TXFWRHlEb1B4RFNLTVlELVdEaTRQMlpOaFBBLXd0OGloc0NIa29kZkg0NHlkblBFeEdKVURFbENuMHNRdE15VWUxdlduMlpBVFRIU002d2xpRHZpOUUxSmNPczNuNXNYVkY4cVVnS0MwTnVuVmxtX19uSnpXYjBYUVdQRkNOd2xXR1dkTXk4OUdiS2hSNElwTGRDaDl1RlE3MElaRmlRUWd4bk5SONIB6AFBVV95cUxQQS0tWG5ndk5zcl8taTlYZFZlSTNpdGpJaVl6dFZEOFdOeFctTFRrcmdhMjVCOHVOcVVCYVlySThaMGxpVy1QTDJxNUg1N1dJajFRVjdZYWphWEpJWktUbkZNOXNJRWJNVTdBdFNCTnB2WFBCQmtxQ25HZDZPbDdWRmFJY0draWpTVXYwM2Utalp3VUczWi0zZEROb0JEdDlzYWVMemJMOXdIWkYwcHZ3SUdEb3VONHZSNjBRZS1DdzBSY3oxZGJYb3RfYldyZThCYVVCZzhXN0RBMFJLaXppSm9hTXJiUk05?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T02:17:03Z",
-    "hash": "c86f67487e9d18fc96c5712601e59b90db9beb5e2f8973abc848406a7bf9c62d",
+    "published_at_utc": "2025-10-10T03:30:00Z",
+    "hash": "12612abbf7a25516e0d5f1a583b36799331697a50b0e345b91cde62aa82177a1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Cryptopmining Hailed as the Industry’s Best Mining Platform, Setting New Standards for BTC, SOL, and XRP Cloud Mining - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSlUzcngxLXh1MFAyNS1MNGYtTmVwVkpSblByMDVqRlk1bUx5U3NITElzcjVacFlQbUgwcklWWHZEUm1fOXRIYkpnMGZDWjEwbzlZbFA0S3p4TnRzenp6V2t2dGo4NlQ4MUgzZ1ZtMFZWT1plV3JURDlkQmJWejJpSHJGU3hPUlJUWGhPQk4wbXZIN2VFajh3Yzg4dzZLTTluTTBwM3lBTFc5UWRTd2Jvckh2a3N4RDJFOVBqd3J2V2FkUnpmSTRwY25KMDFzblh6S3BCZjZFbEJoN2lCTWtnQlp1OXI2RGMtZUJVUHJrVkxvOWVIQm1XRTg1VE8zWUdNMlJQMktydnMtSXNsLTFCUHdkT0NZa096blE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T03:17:40Z",
+    "hash": "371d42df30812c2cb5948da3bc84bb0c46991dc39bf40341c2b15dc233860524",
     "source": "gnews"
   }
 ]
