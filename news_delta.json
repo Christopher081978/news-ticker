@@ -1,12 +1,132 @@
 [
   {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Goldman Sachs Weighs In on Nvidia Stock as ‘Circular Revenue’ Debate Gains Steam - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3dVNXpWQ3pCbU5IdjJrNHpSdkhGYTVjRDlJa2lmT1dJN09JeVpZZnBmSmI1REx2WEoxSmZad3VsNGRHQS1KLXVmYlNtV2ZIeWhkRW4wSFFGbDVtNXhJM29odEp3NGdQcU9TOGJ5RGYyZzZBNW4xM1dpOGFiVGt1RWZrRE1VdFJPSWxyLUNNR3hsYVBWemg3ZTN1cE5tOGk2RUZGVEdxT0Y5eHl1?oc=5",
+    "query": "NVDA",
+    "title": "Jim Cramer Defends NVIDIA (NVDA) After AMD’s OpenAI Deal - MSN",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUVkzMml4ZHpta3lfRV92U08wVndGLUhSblNyeVpIOUl4RFVSbnVZaUtjNmY3QlY3YVc4QjZZT2Y5ZzFkQnlfSmNpMVVBWGx2V2c2dklnTkNyMDJLZ0pDZ0h5ZnExSHhYS0pLUkJhT0VWVWpUQ01NclRKWGZFZFdIU1lSWU5LZFJxYVdJYlpvODJpMDZTVGQ1ekpxRFphOUtac0wtdXdONWlsSFo5SUNMYjR4TXd6Y2hiX05mVGZDZUZOMkdzUjBLZ1BxdEE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-09T23:32:56Z",
-    "hash": "4834a82c93168f2939186ea46d0f056e831ad3e0ba52e68adfcc49660d25532c",
+    "published_at_utc": "2025-10-10T01:47:47Z",
+    "hash": "61a42f86fef3b88c4dd6f65107f07a6cb2c7874aa5a62d7d0a91f3731e150395",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Staking Makes Waves in New York’s Crypto Scene - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wZ3dlMEdUMDlDdWJJQXhwdERIYTdqVEMxYThlMHVtSjBFdkF5MkhIVGdIUnQwRGxIVGgxNWpoUXVsUVJMelNMekdzWnRuYlpGRUZxaGZ3UkE5bnBETnFPbS05VTdySnNuZFhOcWx2Y0pSLUxqdExYNE9Ybw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T01:41:45Z",
+    "hash": "fc9c362e4990b34261c44d137add69cdf63591f12f026df3a73588c53b9d902c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Shocks Market by Listing Zora Crypto: Price Soars 60% - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pSMzg0TWhMWTl0Y0ZFX1BEaFpFTTRlZkhvb1hQaXFrR21rR1NPR0VXZWgzZWNVak0yajVLLXAzZUVIdFRJVDNfUTF3ZzM1NFpXSnJjZTFtMC1QeElxbHd0SV9OZXNHYlRPNE1DN1NteC1hbnIwZld0cnRBVHZzc01lS0RXajIzR196cmpQcDJvNlJWd0JDYkYtam1lQXNM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T01:39:14Z",
+    "hash": "1c86f1a013d43244ea6b5bc1e2615ade06a498d93c7fca73d77e6bce0d256a1e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana daily transactions plummet 50% despite price rally: CryptoQuant - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRWRVdTdTbkg2M1FqRWM3RDdQUmdmeEhDTUZQUTJVcUNxU1BZV0VRNjkxYVhYSnZ0djI3YThOX2ZGbnNGVHQwaENmOEhQVHlSaWlRUlgxeEpJSGRSU0FpNGhLV0liazM0VDlZRkVRMlhnaHA1NkJMY2F1LWF3N2F3cTlqaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T01:06:47Z",
+    "hash": "4d4b961c395b9c9a9e0135840ef8b95306cb4d6e48d6694b3d7ceb5e0e8fcd47",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Ethereum and Solana Outlook Bullish as Grayscale Launches Staking for ETPs in the US, but Analysts Warn This Crypto Has Bigger Upside in 2025 - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaGJLWDhCZkhpcVNrOWhiQWlHenFySnplNG5Bb2JTaU1XdDFVSHB4M2Y2VWI2Q1J4UGp6TFo5bW5iWkwxY0lfU2lEbGQ4T1RoSHFsRjc1TGt3cXV6VW5yWnQ1a2VXbjJrUlR3U2kzdTJtUDZJTFpVQ09OSlFaSHJUcE94RXFCZmFUdHlWSlgyWXR3MXpEenlZaU9nNWUxTHRtZ1hGbGVTSmt1ZmRId2JjdDdwQ0d0QzE2Vldxb2pMSTgtM3hXZmE2ZlBfUVo1eE9zY2JjRklNaURBNHpaVzhpTVBrekctaUFiWXpMZE9jY0cxMy13eXZ5cFhmUkhBV0JT?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T01:01:00Z",
+    "hash": "c5c55ba54236208ff2a3cfed82f748ce73a9bde40caa5738e5eefeb8148d4f54",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets, Inc. (HOOD) Advances While Market Declines: Some Information for Investors - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUGUzdmJlSGoycjRqU2NScGI5MHVCZlMzOEluSnowQTJGZXhaNHk2UkNXOFBtZVBQX2ZtUVZCRUdRbzloUzBuQm1iYWZkcDgxOHBwZnVzWmxodktpNU8xbkxxLUFYbHlBM3lVRkpvaU1XMHl4dTV6U0pQQ0tnLWpnc01PbHJYSkQ2aGtHUEZObVNGaUpBallPejg5bVVBaS1QQ24wbHhMWWJDQzBDaUVoTVVKVFBHME5ORm1aemJhRXdYTzJxZVBVUWljYmpROUdpaVpPYlBxcjlFUHdZanJ5dUdpdzhZUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T00:48:52Z",
+    "hash": "523893f4b022bd9f2ebd27abee17a863ff029aa45508e212878876805e6b13bb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction October 2025: ETH Targets $4,300 as Exchange Supply Hits 9-Year Low - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWRKNXA2TldoQ0lsdHlXdFRQaGFDRkJQM0F0aXRpUjA5UlVxSlVWc3I1QjVHNnFjeEtEUEFCQ0FCZnNtOVhiVktOU0xET0VlZ0ZyeXhFSWVpQWV5cmNhNU1KbjE2WE5tdVFzN2FGaVo2d0pRSW9TQ2VCdl9KYnVrTGFrNFNEaG1LMFZCdUowRC1UdUlmUTBUd25ZXzlYa2ZIMzYtcUVLZXBjZUh1MTg5dXNZRHRmQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T00:42:52Z",
+    "hash": "51e221d21f6b714d1a1c644701e7e39f7c6a6929c47ac9367d424573292eb091",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Meme Coin ETFs: A New Era in Crypto Regulations and Market Sentiment - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DS29HN3RaemE0My15TzI4MHZPcUFzS3h3RFF6TEpBRTBqQ0Rmc2xaNjVwbG1VcF8xOERWaDFtYWFBazdmS2ZlOUMzSWx3Tm5va0pUM3dqNkZsQ096NzNpdlBaTk00a0N2MDhxdzVpV1F1d01PN2NjSC1ucw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T00:36:45Z",
+    "hash": "58f1b5e27fd86534b6db31aac70a5e6e27185792f9c6c9e2a40b236d19ac7522",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO Jensen Huang Says He's 'Surprised' AMD Would Give Away 10% Of The Company In Its Deal With OpenAI: 'It's Clever, I Guess' - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uWmVJNFRPMXZPVzM5T05NaVhyQ1M2LXlCOFNZd211V21GNUR6ZGlvcnVjaUFyNmRNdmcwTk16UWc5bTBRVWF3eVpqeVVTTTNKU2tQcm5NeU9HRTNidWFWV0lJVzRUbGwza0ZjbDh6N2RWZGlKR050MTdSal9sTG8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T00:31:00Z",
+    "hash": "3c374dcb54ade9e79c2ca22ce6aab60c0cfc7cf2785575e77eb52874e19bb64c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "America.Fun Launches on Solana, Pushing the American Dream Onchain - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05YngtaHNxcnFuU1ZtcnNIdS1wMlBmYmtITXhrSnJPX080RWRPYWpKYlByV0FtZjJaR1lsaVdnajMyVkhMUF9ZMndLblh5dDNvdENwOUg3Q3ZETzc1TEhneUNsYUY0S01Qc0EtZERuc3dFUWVPRVFDZkRQU2M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T00:13:02Z",
+    "hash": "64389852b8535efd6382fb79846aae8a92e7f95f03d62edd1b7497496db182c3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: Whale Sell-Off Deepens as ETF Launch Timeline Slips - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjJtdjhkMjVNbGZmcFlpbkd2VzNMeERFWWZhTkJZU09lZjFNNWFDRzlQU3ZkaTlRT2JrYkZDbVlmUFktZlFOLUQzY2o5NjhnSklhRlJYQWZjbGxSa0pZeEliQ2t6bkVsMmg2dVc4Mm16Zk5iNGhwVEl0dXR4STlnV3FpWnJKVlJXdGdhc0d6N3RWWVlXVmhGTDR0YVZobEdCT1V0T1BkdnhDdHVsZDVPbmE0NE1heTg3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T00:08:00Z",
+    "hash": "c4e87b161cc292d170c88a5e35b68d36e78c024fb7ec467359e30f7863357ef2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer's (NSE:PFIZER) investors will be pleased with their 26% return over the last three years - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM21EYjBELVFYbU1Gc1lWTnJ3dHljZUpSRzVNaFgxLXUxTFQxdThBM1hfaS1KaGxLWEpJM3RBNDVTN3NjX2VMVkFlSUYyQlUwNTAxT25pd1ozeF9NMGk1QmFLeHhrM0VZOVhTRUgySlRCOW55WFZ6SXdUUkwyODl4TjNoektmUE5ZNGR1RmJiaml2Y2hST1BZbHdqN3VkSV9JQjh2cjF4Y1hjRWlab3d6NFpmYm0yckh5WmdvOEdYMXB2VlFKWjdhOVc1YmVuc3hNRWJqR2lMWHlGVFN1T0ow0gHkAUFVX3lxTE5LMDNqSjVaa1JOQVR4c1B4Y3l4SUVmTFF6djRxcm1oZHB2b29McVd6VXBrTTJERHlLdlAyQU1KaWdGTzVubV8taXlhV2VNbXV3eWR1cWFweFdXY09HOTFkeWZlOXFzMVR1N0E1Wnh4cDNfd1lKeExaekRiNXNBSVUzZFhaVTltQWFybFc5V0FLaEg4VkxuV19NdTNlb1MtMDJXTE9IX0JnSWplTjJfaVI0WDZhNC1SMDhDTGhBcGZfTDNmTE9HbnB0Sm5jTmxKZC1KOFg0VW5vRzhpb1dfQzJpZW9RbQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T00:04:42Z",
+    "hash": "a36229ff0bff17b228cbba6715cd7b3e0e87356241099df03223409ac422d7c3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Canary TRUMP Coin ETF Joins DTCC Platform - ICOBench.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zV1p5M0ZySndfeGtGLUo5MmY0NFFkMzlzSzY5M0s1b3dOWDE5ZFBZc1ZvM3puZENfOXl1YS1xTVNyVml2bVJqRUNCcThhRk94TkVwVGZaVjhHY3M2dk1BeXdsMUJYcTMtOHpGajV0WWp2dm5vdURN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-09T23:56:47Z",
+    "hash": "6def7984442bc66d5571e1e4974ecb20c737f1a44ddddc95be1620ff432fe208",
     "source": "gnews"
   }
 ]
