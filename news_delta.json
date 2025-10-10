@@ -3,20 +3,20 @@
     "asset": "Bitcoin",
     "query": "GlobalFeed",
     "title": "Dow Jones, S&P 500, Nasdaq : Nasdaq verliert drei Prozent, Bitcoin fällt unter 117.000 Dollar",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-verlor-deutlich-bitcoin-fiel-unter-117000-dollar/100162229.html",
-    "summary": "US-Präsident Donald Trump verdirbt mit neuen Zoll-Drohungen die Stimmung an der Wall Street. Besonders betroffen sind Chip-Aktien. Doch eine Branche legt stark zu.",
-    "published_at_utc": "2025-10-10T20:42:29Z",
-    "hash": "501757393d4411c71984cb8032e4e093137852cfc1914acefe92725302c6c487",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-verlor-deutlich-bitcoin-fiel-unter-114000-dollar/100162229.html",
+    "summary": "US-Präsident Donald Trump verdirbt mit neuen Zoll-Drohungen die Stimmung an der Wall Street. Besonders betroffen sind Chip-Aktien. Doch eine Branche legt zu.",
+    "published_at_utc": "2025-10-10T21:22:32Z",
+    "hash": "6c4a3728d32c61c21192999a44d99b053b938b47005724152ca681cb86fc86fd",
     "source": "rss:handelsblatt.com"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "IREN Stock's 50% Spike Powered By Nvidia GPUs - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelJuNWZUbTFIdXREbEdJTUtFeFBKc3pkdFdXRHVaZ0thbE4tVUNCYXJidm5HTHNFcXFYOGRaU3M1cnRfQklkTF9ydEFsV1hXRHJkcEZvX21oUm9mNkJ5cDdJelBKTEJEbXFOcjZPLU9Yd1J2dGRzbmZvTjctakdXUnNZUHNHQll3OW5JUXRDLV9yaGhoTUw2dnI2RkNzb21sR1AtdHdGOA?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP ETF Speculation and Ethereum Growth Align as MAGACOIN FINANCE Announces $16 Million Presale Milestone - markets.businessinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPOWY1YkE4VG5xTUxod1BtTzdFemx0WC1odVlTX1ZPLWhKZ0ZXakdObjdGeFRZdk5yQWZyeHluUWhxdmhqdVVPREx6MTNoUFo1Q29JbG1iRVlNVnlHaXVuNjViUUM4MVA4VXZ2NHE0emctbEZhWERoRVkteHVwSE9QNWt0UmpDTFFfdGZFaFF5c0F1UWNvUDdnNTllNThzY1BOd1ljaS1BZHFraXhRWW81U2hUSi1IQVNUU3RhOEJOMXJDeGNyUlFNcmVaOU13MTdKUU1DZzFmTlQ0TVRlb2s5UHh3bWhjZFk4YXZ4THBCc2x5ZS11Z1E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T20:35:43Z",
-    "hash": "15d0ad030d7ee46dc45e71a13f031ae2ffbc5a53e1aec776345eba84a1f078d6",
+    "published_at_utc": "2025-10-10T21:21:35Z",
+    "hash": "b1b7329924d91936e2f360239f505f395248e1ebd82c68747f8c263bc8c1fdd1",
     "source": "gnews"
   }
 ]
