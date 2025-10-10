@@ -1,72 +1,62 @@
 [
   {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Why Tesla’s Chinese Rival BYD Faces a Raft of Troubles - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHVWOVJwU21VWV9VRUpNaFlvdnl3UzZjOG8yOS1kREVWNnZVS19iN3BaSkstd0JqY2NEbFN2Z2p6WkV2ck01eDViQWxiN2YtaENHSU9JbEJYVkpLUl9rUEVtRkYwRnVZLTBnYXFfQWpIWE9vd2M0dmo2Y0Z6cHgwRE5NbllHYi1yV3B4VjhrTlMySV83SWRaVUpKLXVBQmk2bm9qdGl2RmFuZlF5T3RncnNFTjJkYVgzUEE?oc=5",
+    "asset": "BP",
+    "query": "BP",
+    "title": "Venture Global stock sinks after arbitration loss to BP over LNG dispute (VG:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd01mOEdXR0NpQk0yRW01OE95WUV3OWlkdnJjbnM3Vk1taU5teDdVRVBSZUhqbkZJT2N0RVJxRVBkbWVZQ01SV2Z1aTh5QzllUVc1Mm85QlVONjYySUlFNWZTbjZzSmo3YlFYbEl6azdyOVBhREYzLWdJelRvc2ZUMEMzRVpoX0EyV2JUYXZjdERHMVBKZnJZbmJheEJyQ0ZleVp1VDE4RmdlNTFtN1JF?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T06:37:00Z",
-    "hash": "4d8337e7b9eb4d177543227b75e85e9c24918b482ec1c94777d594263c6ff139",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price: Market Holds Strong Despite Massive 295,000 BTC Selloff - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQU9leWFod1lIM18ydTdrakx4QkhNeUhYSWpCemRqZTRuWUtpU1ZVczFWSWRpNGY2X1NteTNKQlk3b0JvTGtJX3BDQW5oVXRWdkw3NzF3dFBrWFY3b1ZxWkk3Ni1FTHpKa29RTmRJVGlqQTVtZGQ0OTdScWYwUHpQZ3JScFF5TDBvREc0ekswMUg1Q29rMURQcTN2WTJoZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T06:36:56Z",
-    "hash": "f17b6462482107afd540c8f060eb48f15dc1a354304f6cea22db396bd47a5a72",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Rep. Richard McCormick Sells UnitedHealth Group Incorporated (NYSE:UNH) Shares - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZnNOajlyWndwTWVMOUFJVmx5T0NjbFk4RUJTLVdJdklaQU5SVlBzYzVmOGtPRUd2MVBqdy0yQ1k0MThTOEVIaXVSa1JON3ZyUUpGZnhYb0tvN2owdDdtN0R5OW5TVG41a280dl9JVUxGaVN4Q1g1STg2enVLaUVZdmw0cF9PcTNUMWxtT0JCSl80dU10Zms4QmFZQlFHUG9EOWZLQm5MWjFHbEp4Yng0Q3RlaEZDX283SWtPa0JRUzdSMzhhek44?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T06:08:12Z",
-    "hash": "1ac33789004bdfa3585546b795a5956f78d1c8a69963070b64e242bc21bdbaf9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Sharps Technology Partners with Coinbase to Manage $435M Solana Treasury - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMG9GV0lqQ1hNNkxzUkRJcm9GQkhQcjBBOWRIbE1UTnRBTk5zY2RjLS1tY2RBM2ctVWpnbndid0UzemR6SXFRUXEwRFNhMlhzaFVxR3FWckNBWlBkQXRmanFDcDRDbUl3c1dnNHZld2poR2dFU2I4cExhendSdUFmTlhOSnVLY0ZNbGoxYUVBWER5UWxpc2RieU5oUmlqZW1kZWswZDkwWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T06:00:34Z",
-    "hash": "e781aee5540f78055a42d85cee01b717558902b1d6ed704dd52d1461e76946cd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Sharps Technology Partners with Coinbase to Manage $435M Solana Treasury - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMG9GV0lqQ1hNNkxzUkRJcm9GQkhQcjBBOWRIbE1UTnRBTk5zY2RjLS1tY2RBM2ctVWpnbndid0UzemR6SXFRUXEwRFNhMlhzaFVxR3FWckNBWlBkQXRmanFDcDRDbUl3c1dnNHZld2poR2dFU2I4cExhendSdUFmTlhOSnVLY0ZNbGoxYUVBWER5UWxpc2RieU5oUmlqZW1kZWswZDkwWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-10T06:00:34Z",
-    "hash": "e781aee5540f78055a42d85cee01b717558902b1d6ed704dd52d1461e76946cd",
+    "published_at_utc": "2025-10-10T07:15:47Z",
+    "hash": "060b1b38d07c2a21b6d8dcbfdee7299e6ca54da1bb9dab4996cb93f56296cb2f",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction: Here’s Why XLM Holders Are Going All In On This Viral Crypto ICO - TechFinancials",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzNYSmpNUGJUVWM2M2Y5QmlWcHo5dVFCcWloU25XU0VlMFNaeS04dU1TNHRsS0Q4d3dlc1BMeXVOeENjVjVkbnJYakI2djlNYnpXWVBxSTBEeHpZbkhWY01OeDFXY0VpZkxGM08xakxaNjhoamRiajU2RGNjNDdTa2pwcG0tWUFPS3pyb3VRMVJCdHhjVUtDSm1pVDBZdHdlLXRrODZlbG1zMGlZV1ZlbHVBQUFlTUtqMmlFYmxla0F2Y2M?oc=5",
+    "title": "XRP Price on Edge as $50 Million Daily Whale Selling Threatens ETF Optimism - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XOFFXQVlFSXlNZElIOXNJSnJoamlTMndUQW5WLXdzZ1BLN2ZxV2JBVi10VXpGNldkclBNZTlHQWNGODZZY1pGQlBpSHJXVHg1QlRDQ0NMVzY0WmxVX2M2QVhvM01Ja1k?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T05:50:58Z",
-    "hash": "7e174e29a497fa82cc8e0054e248a02298c261b5c363ea1d7a41c563185d2d1b",
+    "published_at_utc": "2025-10-10T07:05:00Z",
+    "hash": "91700d64199f07528c5e5cb87ffdbafbddbe60e7e60fbb034f0a7a65887145bb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price: Network Activity Surges as Price Tests Key Support at $4,300 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1VmajNlbWhrX3lsVzdvU1ozX1Jnd3FPc2ZmenN5c2ctcEZkOUV3Q1JuMG51TW9zLVpiT0pjNjktRmZaUVZQaElXUDRISXVoMURuYm16V1ZUa0lLUF9JTU5CV2RadUt4STFaMmxhU3RKSzI2RE5YcUpBTzJfeHp2dnUzaHBac01aSVJMYWplSUo0VUlOTGZQUVhBeVYxbmQxUkhXOQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T06:52:46Z",
+    "hash": "372cad1361acd6c0f370b39c4506c77cd84c0f04bebfde2c799fcc00c762d127",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk A/S (NYSE:NVO) Receives Average Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUlwN0NOVmwtWFF0VlZCVm1DbENhSmFnTXZmWTdTT3FpdEVxTUJ3LXpsaEJJS1MzMlZHcDlxQzl0dHJ6cVpZRC1keGFwMG9YMW8yQ1F4MklENmVWVDlvMHFmME9fX3BGbHpTLTlhOUdDeTl2TVVGR0hDdUtYdXVQSjFaeFpoSkFxbzcxek9ySl9hNWkycXBfb3lEUU1PWDd0ZXY4Mk5MZFZwYm9jdHNSOGtBT2RzUGV0QzBkVl9iaUxlUDdjdUdIYXlIenhpcWdMMHRmR2NxU1o?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T06:52:18Z",
+    "hash": "5347997b6b607847387b477304c5965f7c061255b0c7cb5a4a9dfcdd381b4ea9",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase and Mastercard in separate talks to acquire stablecoin startup BVNK - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaWlJfZnRmRDFXRVFBVVBvckVPSk1nMWVaSWdjTjNRSWZIWDZ6VElFSTNzbUVSSFUwUGgzZm1JMXZrMGhWWG42ZVAyMDBPYTloV25JOFA1QlpJYVdSOUpfYmE0VmJ6YnlBZXhTVWpEQUpWUC1mX3Z6UQ?oc=5",
+    "title": "Coinbase and Mastercard in talks to acquire stablecoin fintech BVNK - report (COIN:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWEZLOG9wTVJBdHVDcVVvaTlnZ0RDMjljZ0JUcXBtd0xaVnFRTXltOVBFenhpa3pPdlFsaXl4UHRnQmdhMkx2MDJfYW40NUxXVS1BWkgyZ250X0JVd1ZZRUlqMTZYY1JkYVV4enluZmp2bVcyVFhCZHNkajVYSUxVNS1EdndYY1dSallCZHpNNlV3LVZscnh3eVBfZ08taXhma2hGdVBJZDEtbGFzdU5qWUlXUWI?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-10T05:50:00Z",
-    "hash": "11bd9a11fd950e0aa562735971eade4ca05460147d7dceb1b9f584b426cb4897",
+    "published_at_utc": "2025-10-10T06:50:33Z",
+    "hash": "a61e81f1e23ed9e5a86835b39a5fa9ed70a72ca526f4c9eff0ec73cb4c0bbdda",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Grayscale Solana ETF (GSOL) to Launch with 0.35% Management Fee - blockchainmagazine.net",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5heHZnYTNzTHRFUGh0SU9BR1dwb2VwRGhHR2ZKVzBwcjRMaEgtVS1FN0FzdUwwaXNzNWs3TmZqSGNRQ204WGwzcTZHSXRHeXI1RzRwVVpZaEtZWEl1bFZXZ3ZEUzc5Y0Qxel8tWmR1bksyMEVVUFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-10T06:43:11Z",
+    "hash": "0ef23e7aa8dcae0596d4b450f99293ed6a0cb1c51c29d5ffb95ea93341ffea8c",
     "source": "gnews"
   }
 ]
