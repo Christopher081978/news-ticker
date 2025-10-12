@@ -1,52 +1,12 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Oct. 10 Crypto Flash Crash: Wiston Capital on Bitcoin vs. Altcoins and What to Watch Now - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEtpTmJvaWd1Q3Z0RUxZMlpjVUthUDdNZFNsa2dad1RPUC1MYlBqa2JUT1VQWm5YbUVkVTdXZDdRU1hJd2pLTXVHRFhqanlfQlVEOHBVS1VHUXJEY1NMT1d6TnNoU0ZRYmtVNFE2bFJSZ0ZET1JXOHlHT2Qwc09xZUJ5dldWMlc1U1FGWXJReFBxUFotdGpmY21YVE1PaGFLd3Z4aU0wV05RN0YxeEs2R0h4UVppS1lHLUQxUWNGZ21Za0VIa1dHNA?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Remittix Tops Crypto Trending Charts As Price Expected To Explode This Weekend - livebitcoinnews.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeEZNcF9CUDdkQVozUU1hdHRSd21xT3piTERIOWZYQ1o3UG5EZkIwUWgzWGRya3FueDJpdml5OWk4UnFNbkFvOHp3cnVtNTlWWlJ5elc0RnhvMWx5S0NVdmtNVEFUSW9iSENVbGNxY3h4WnVnNzlWWHpJZHZMWndQa09sTGhlUDNNZU5XYUJray1MazhrbnJKM1pBSDNfN0ZTb2Y3MS1WVl9UUTZ6c3lOYjdkdEZ6VnNXdFFwcnNLUjlNQjFQV1BjcmtJazYwS19Z?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-12T21:08:47Z",
-    "hash": "6324887d7cff7a97a8903352b1d9463cc152702ef28af23fb0b3427760dad8dc",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Will MoonBull Surpass XRP and Stellar as the Top Crypto Presale of 2025? - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUVotMVBoYldQYjZHSU5ydUdXOThVNGFycXNid3FkVnAyTmQ1OFlId1VaX21Dbk1JNlZZNWNjT0p3U1kzV0ZlRjRTREZLUGhybVp6V3BhYzh3U25KOU1mMm5fV1J4YkhyNm5BZTJ0VDBZcjNlOWFwa1RQb0tldGdKOS1R?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-12T21:03:07Z",
-    "hash": "d0bed56a7423e2f615509852bd345271ab396d4f15ee5ea0519769e8bdc2067f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Bitcoin Surges to $114,777 as Crypto Economy Adds $170 Billion in a Single Day - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXN6ZnpEQUM3b3Z6b3BwOWlMem12NGJKOEVOd2pxZzZVZkt0SEJnS2lyLW5pT25EdmlsNlhTWXdvc2k0bXkzLS1FeV9BOEVFejhEYUJHWGo3NUFaRnRjWjJCaG9uMURwb3dfdVBPLU9PZFdoV1BRZmQ0SnAxdjhDN0dCc01hYy01YjJiTElhSVdhRXBpLTFBd2hCN2R1ZUFhZVdJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-12T20:52:19Z",
-    "hash": "f0980de78674ac3efc7aae81d7d2454027a193f0d9f79c296e4f5123a02caccc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Surges to $114,777 as Crypto Economy Adds $170 Billion in a Single Day - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXN6ZnpEQUM3b3Z6b3BwOWlMem12NGJKOEVOd2pxZzZVZkt0SEJnS2lyLW5pT25EdmlsNlhTWXdvc2k0bXkzLS1FeV9BOEVFejhEYUJHWGo3NUFaRnRjWjJCaG9uMURwb3dfdVBPLU9PZFdoV1BRZmQ0SnAxdjhDN0dCc01hYy01YjJiTElhSVdhRXBpLTFBd2hCN2R1ZUFhZVdJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-12T20:52:19Z",
-    "hash": "f0980de78674ac3efc7aae81d7d2454027a193f0d9f79c296e4f5123a02caccc",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "What’s Next for Bitcoin, Ethereum, XRP and Dogecoin After $19B Weekend Flash Crash? - Finance Magnates",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDVjRDh5TkNLMUVvaDJ1SzVVX3BEMi13b3JZZmhDQVdOTzFIalEwZ1FCZ2xESnR4U3gtMUlhaXJ1N0g2blRHWlpPSHdQYXkzZ2N6cmFDVHpEUmdOX3BkM1pyTnpMTGdDSFZsUFU0UXNib3d0WmdDaFlPQnpUeFdYLV9BTjNMUU5yOVFpQjlOWU94MG53ZkI1TUltdTdTQnN4aW5mN3RhRU0wUHVoNnlYWXcxSHVKcHl0bjE3ZdIBwgFBVV95cUxQYkJ1TW41dTRXQ3QteHVHX3IzV1lzM3FteEV6RkhtOXZ6YlVKRVJ0RjV6SGJVcVJCWWU0X1dSclhWblI3eWhrVm0wU1V0cWFyN1Bka2VNN1BCT2JWM0VyUEZ1cTlBQWJJb3BfY2c1RTR0SVpVOE1HbGFXNzlfNy1QUGtjUzAwdnh4QU1WaFZBZE9EbE4yVmFNR0IxTW5fWFM1RWdqYzdLVXBfZjlHcjhuYzBLOEtTaGZUWUE3bDRvN0lkdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-12T20:44:54Z",
-    "hash": "1a05e916015fde8987cfb9ba283e8de9e41507ea8f1632723f8faf8a37632296",
+    "published_at_utc": "2025-10-12T21:30:04Z",
+    "hash": "7a602cdba5d2007919c0db30efbd252e2d941c8cefdf7cf99942dc215b12017b",
     "source": "gnews"
   }
 ]
