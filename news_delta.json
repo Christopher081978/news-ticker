@@ -1,32 +1,122 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Got Rekt on Meme Coins? BNB Chain Is Dropping a $45M Lifeline to 160k Traders - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX3dGaHlaX2ptZjl5QnZrZEs5VFRtUXg4cHFRMDIwQjk0Ny1QeHRPNEtLYXkwakg4RzRLQWxXSjhlS3dOdGh3ZEsyZ2IwNmVQV2stdmdZX3U0UE1nWFBGQzlzb05KZkFwcGk0QmtQajVxcEt5N3BmbEpXLWdOUElRbjJLTm9Ha0JCNlYzT1RmNzFicnU2Rm94RzFuWHFKZkJBcG1RVmJCWQ?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "It Happened Again: Expected Catalyst Triggers Bitcoin’s Bearish Cycle (BTC-USD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDNUX095emgxS0o3N2UzQ1lIbWlfZjBYb2h5U0xBYmR3Mmx1NW9YUEoxNXV0QUhPa1lLM0o0NGtxYlFXWjRORmVLb0lEc2xqdVdaZEFORkxFbXJmNkE3aGcwNFBnZmM5aDRUOHFZVUxmY2tkaDVUVUpsS2JxSWhqSGFFcllKT3d4RndELTdNYVhJMHROSGNXQ1VMNWs1aGtvdmlFbWRRT09yd2VQMUU1U3Izbkc4Y3dCbE1hUGt0b1gtaHZWTnZHQg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T20:36:02Z",
-    "hash": "02d242e54b55fd4190c0e26a1b5fe9e8fea17536eef3d142514812e58822894e",
+    "published_at_utc": "2025-10-13T21:20:56Z",
+    "hash": "a858323c418444245df7b204782a0d3a12b05acc1aaaeb72bf28e3c5a41c430f",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "800VDC Power: Navitas' 100V GaN FETs and 650V GaN/SiC Devices Enable NVIDIA AI Factories - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalFPV0xkU0l3V2pIUnZOVkN6QVhLNHREUWpvTk9IRjhQaHZ0UHZzVDZTM21EYTkwakJPd1VvVTg2YWtYSktoWlFjZW5vQXZINFZxUUxxWmFMelZ5d1pqUm9WN0JGMEhqWmVDUUw4b3B2YVR1VldzVUxiRmh6dFh2YktTNFM5TGFjVlhSOU9KWVhqa3F2eWxZM042Y0Nyd3p3RUlhMHhPem1POUN6eno2c0diSTd5c2M?oc=5",
+    "title": "NVIDIA (NASDAQ:NVDA) Shares Up 2.8% Following Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkgyX3pJa0hDTklNMXJ6WHJKMGZBYWhBVFpVdy1aSmJqSG83MmpLUm4xcGkydl9ObGlzaFhvMF9TUzF3MGI0VzRhSDNwaGtobGxCdkQ2ZW40c2RRZlpiZ011eV9XTzFGTzZJR3NXX1R1OC1FcTFLS0E4djNYNEl5RkFSZVJVSUpkZ2VmRm9xSjZ4V3g1RHdCVkVLekxjdGNNNDZXbVVFZ1JNVGZwQXBj?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T20:36:00Z",
-    "hash": "6f2884f3a0361cca1ed8c811f0a7757343ea9767a9af79316f6c8511d42ece9f",
+    "published_at_utc": "2025-10-13T21:15:16Z",
+    "hash": "a75ec7a9021f19ee6a9b6f183bdc850390e8d4a9279038fad82f3c588dc8dc7e",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "GOOG",
-    "title": "Alphabet (GOOG) Stock: Surges 3% Amid $9B Bet on South Carolina’s AI & Cloud Future - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUExidHpDTmNQWHIwMTdkazR6bmRuSHNvcXRFbm41aFYyUUwteXJuV0IzU0JCSXdOOVQ4UmQ3bmFpYjNJMEJRSlU1Q0puRldPWkktOTNjZG83SnZ5amFGeDd0ZkpvalB5bW9oYndjbS1OSG1FSmNoZy1BWGJ5ZndEb1JtM1lnbGc0RHdQdUpnWEtYMTV5YzA3bGNEeER2UQ?oc=5",
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab (NASDAQ:RKLB) Trading Up 1.8% After Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDRra05rYW50VjYzblBGVDQySHBWSkhJcDdrNXcyZGJiNVFWNkVER3JnT21SUmQyVTA4d2lFOXFIaDZiTm0ybmlnS2VSZ0Q1SFhtdzdiaG10U05IT19URHpFc1BjWC0zdXBnbVU1YWhiMWJsWUtUVEFDRlVyNzZlbGVXcmI2QjBPYnotS1ZicV9jNDMxZEN4SEo2aHRIVXZNaEdYSF9nb1d3Y1JsdG9CdQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T20:33:32Z",
-    "hash": "85fe85bd3a4f64aabbb95bd335746f2bbda7bad126e0fec1a555283338b21c04",
+    "published_at_utc": "2025-10-13T21:15:14Z",
+    "hash": "cc39f3b0585197b0e74831095a67ff91e21f593f047db325f5d928b377be95ed",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dow Jones Futures: Trump Tariff Comments Spark Market Gains; Broadcom, Nvidia, Oracle, Tesla Rally - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEtrdjd2aUlOall5Ukx1YlV6SjVDaHBHSGVpWUZINGsxLTMtdUw1eHJQb3BBbldZQkRwamJWMXlPU1Z0NXZyc2dsLVNENXpZT2lpdmI3djdlSVdGYlJkWTFJaEZEOV9JWkVFX3JMa3RxSGRON1pqZTJBS1p1d2Vlenp3aUUzMzZpdmM1VnN6NC1VbDBwVDNCZGhlWlY2Yko0aG5zQzlMMU8ycWVaZllN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T21:13:00Z",
+    "hash": "e5dd2181b76f317d48944a12154952cc379697ffaad890767a5e4229eb9f9849",
+    "source": "gnews"
+  },
+  {
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "BASF, Carlyle reach $8.9 billion agreement to spin off coatings business - American Machinist",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQW9xMEx5M1dCRU1td3JpbGFNaGQySWs2ODFkY2dEN0pmcnBKay1BQ0plaG5taGdwdHpMdDNmWk1IcXlVbS1sUjAwTlJWM3FROGpDU3hnUTBfbFpGTDFCZmRuZEl3YkJoQkM1dGtwWDN3WWZiS0ZxRXcwdlFsNF9sME9WWHlseFluRDR3M1g4OGtSdjNBZW9Ca01udmtmNVhraUJsSHpRYXFlRV91X2tiYXViYmhMaDJFX2UwVGpJaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T21:12:45Z",
+    "hash": "63d12297320758f2ce4f4ca857cdd753ca41511b95abbe7837d4dc4cce459d67",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "This Crypto Airdrop Might Just Restart the Meme Coin Boom In Q4 - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3ZESGI2YXRwdnJGTExNcm8yQjlkdnIzMC1OMzNnNkxQeUNjZ2dnVDVoN3ZTeHhlM3V1dnp1N2V0U3BxOFhuVEp1dE55eF9DRDdtTW1RWWRPeFBuMEVvdUtCbmtsWG93aVhpbXFTM1NKblQyTnBnZUNuYzd0cGpYUlJjZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T21:06:00Z",
+    "hash": "df6533e1c9c4a4827a50b9594a03ad7058cd9d5b272aa75fce2e87952b762288",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Bitcoin Price Surges Back To $116,000 After Bloody Crypto Weekend - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hQTNaNlZPSTNZR2JTOG9BYVRBMEpyTVA2eF9XT1dnZ3VwMHBpek5kMXpUSFEtSkZwcG55cEVkWUF5SkxvNjh6QVlMSWpuMl9ZNkxUWmp5R0VBLXZHVE5nZ0hGT0toM2JxNzJBZWNTempxU3ktbWtyNWVKOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T20:55:14Z",
+    "hash": "58fb0d4a933d285575bb6342f7a1a4c40a315986f4448844fa49166e390ac930",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Solana, XRP, and BullZilla: New Cryptos to Join This Month with Explosive Potential for High Returns - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUhUTmVfU3lqVTJvY1RlMkQxR2Vfc1p0QXRwajVudnk2dUl6QllHQXJwcXRNWUo3TkRDTkdpQUgwN0k5UlpYeUMxMEdPaVd6RVMzeDdMYnVPdnNrcEJhMFdJZ1c5NGZaTlRRa1dUdDRZZ1hZelRiWkRsX21RalppNTNtcGdKMlJlTHQ0bHJCWDQ4LU1fN20tMTNaeWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T20:53:05Z",
+    "hash": "ca679914f621013d086e9993de98fed45063fb2ddb7c5d056d54c9844d6f909e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Is Offering $200K to 'Attack' XRP Ledger Lending Protocol - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalZzNkVlNDVCNEFNaTNiek1SVnNhTzBVbDlLRGtEOFRRWWlkWjcweDVpS0IyNFF6cE9EZHZFWDVzcW1CTm8yaEpocE0wX3VhSTY0TlNMbUJSdVlHUnI5YTNvV1JHUDJFWmU3bHVRTVNfam9EYzJCNFppeU1NTm1lYmx4MWItUGI10gGQAUFVX3lxTE9Ub2doSWxNUk40TE8ydVduMndJcklXOVN2RFRmMkVxdFZDOGptUGx4Wjhsa2tPX3pKbVZBOGZFVnNsWTF3TmtzRkQ4RHNySGVOVFhPTS1ldmlHNXJFejZoYjVBaEtZTTh0dFVtbWxydmstTEMwN2VyaC1VbUxLSHJhN1B0QThBNF9hVnpNdlZ4TA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T20:51:56Z",
+    "hash": "203a87f615e976b9b5c2d2b0b41c643ea36c581555abcd22f90b1da08a1ab174",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Navitas develops power semiconductors for NVIDIA’s 800 VDC AI platforms - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdkg4VlVfLURfaDEtZGVORm90UHM5SVdCS0lzMGF1UElYT01lQ1ltcFByT0ZuRGxJZ0l6SG9MMVJ1TzItS09tdmdFcmN2aTRPR1VfZXRiY1NQWkludmF1UVVuTDhFa2swQnZ3T3d0UFJZU2lRemtrcXNOdWpjSkFaUWdWeDVLOVp6US1mODZLem0wanY3WmZyVG9Ub2VMMHV0SEJVeU9MYVFmdll6SHl2aG81cDJfYl84Yy1LODVyYkpWZTR6MGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T20:51:15Z",
+    "hash": "737a8922fce65e237691960cb375951383e3ba94522df3f20f929ec556e0b46a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP's 42% Drop and Stellar's $0.30 Support Test, While BullZilla - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3RRVkNOMDNEUW9qdnIzMlp6NjI0MjFld21rME54N1BtV2h2a2YwNW5Gby14djg3RERveDFrMmp5ZjBrejNmNDFOdEEwVFc3RXBvaXQzYmlnLTc3N1JrcTlpMDhIMTBTTUNvbXViU3lwcE1RMmhiR2hlNlBQNTNod040bjl0LXRyVXBjTUVRNVpiejd1TXhjd0F4SG5RZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T20:51:03Z",
+    "hash": "1061603e77b9e508aab35fb75ef6184ce05395d96ef859227095ac2dbe72ff7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Navitas stock soars as company advances 800V tech for NVIDIA AI platforms - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMl9VUUpRS2VtRmlqVVo4ZzVxeHFuU1cyNVZxb3FFcG5QVlJXM1pnbER1aWprbndHSXFjSEo1YW5ZOUZLQ1pDeEcweFExbWlNWlBudVdvVWdKV3ppUkJmcUJUSHg4am4taXo4c1V6Vl9idW9ibGJFSjlXN2xieXRhYzJydERTbVJ2MUI1VHd0ZjRaWVlzQXBTOEZpZmRqVXY2aUVRbFJraWdfMW1LaFNVZk5kTnV0R1ZhY2FUVVRvb09sN1ltbVdIVUE5V0xtR2E4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T20:46:17Z",
+    "hash": "3fc87681e92489a415b61bf25134404dcd427f8043e05291954d41c3037f6970",
     "source": "gnews"
   }
 ]
