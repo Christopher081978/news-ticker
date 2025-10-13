@@ -1,102 +1,22 @@
 [
   {
     "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "MARA Holdings increases Bitcoin holdings by 400 BTC via FalconX: On-chain data - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nWTBWUjR6T043cGMwTGNXQ0lNeFdUVWxYenB3N3lzSTlRMUYxeTc0dk9PSEFSZ1pWU1h4WERwd04zWmRHWEtodHB0MTNyQXIzdFBvTE45aUs4VnJ2LXU2UnlpMWREYUFoalQ2aldoUG9YdFpz?oc=5",
+    "query": "BTC-USD",
+    "title": "BTCUSD News Today: Bitcoin Plunges as Cryptocurrency Market Faces SUDS - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1lQYm5HeUJkcjBmdkRkbFI0U0ZzLXpWVGwtVl9TX2todHpHMnhPSU1QTUhLU0hvUHptcGZycm5uQnRCanpVSnZWeVlfNnV4UzR2M1Q1cTVxTUhOZjhMVlR0REFhMjBGMjg3bTJiWjR6dE9QWXhjYlFPRFhZa0lBX1pUZFBzRjk2Y2JrNzdDd1NBRG5VclJXUXlKTUJMdTQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T03:16:58Z",
-    "hash": "00fbb8042bc3b5e374466b9d6b17316ed294bbd3113fb05c9f6955cce8eb30d4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Blockchain Data Shows Solana Holders Snapping Up $RTX After 40,000 Holders Join Viral ICO - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPck53ZkZLY1R1dWVNWTRQMmtfLTdyMDh3VGxUZzRCdE9rU0FsbUM0Tko2MnVsWjR3LTh6dFZQS29OOG5YRkpQMEtrV0NJSmV5NEt5VHJDOWM1THlCTlJUaUtVTjd6OXVhQkFNNTM1MVNVNm1CTlJ3bXRVUEtvcGNZcDltOGVCaXFncFNMMHd4VGI3UUNhQUM0M1JTWk0wdmI3WHlib3FEaXhBeEZJSVZUY29B?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T03:15:17Z",
-    "hash": "8eb57eae4c735ae8e0ed6c27f21c2967b86d3d758cce2e54a06ec4c46c2e0ec6",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "1211.HK",
-    "title": "BYD (1211 HK): Sep Sales Down 1st Time, Margin to Be Up in 2026 - Stock Overvalued - Smartkarma",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzhoWmdrT3YyQzkwUlBjX2VkMThTOFlCZTdOd2RKWFJDYmhnMldyME9XRDRZVTBHNFVTSWNjamdpcWludDNhNlRLaFpYcE9iVmZTckowS2RMX3VHRlRrOS01Q1dndEhBeDdVVHJqb3ZSYzRncEVCdW5YOTMzS2hHWlVUQUs4UGFQekJkazdxMTAwRGVaOTMyUTBOZ0xocWJJS20zemNZREt4WXRXVGFLZHNR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T02:56:33Z",
-    "hash": "8a7e3403c55da255a049b9c3de6219a07bd790223582c7aa31637a02ce924885",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase to Boost Debit Card Limits, Fueling Bullish Momentum for Crypto Adoption - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2tMTGEtOUp1N2FMbnhIdlQ0dmVwQXVLejc3bUVwTkVYUlNadUZyanV0ZU9yUDNKR2xqVHZsS3ROTUdPN0tXOVhDeWJkZTFCcDV3Ul9WNmVEdm90N2RmbzNpNnkxSFhaX0lJVExYN2FSaUZlU0lDVEtMOUNKZ3Bkc2NOVFhaQXR6T2RiRk5ZY3VCLWpMbmtjLXBBUXpFSXFKU0w5NllESGhjZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T02:53:44Z",
-    "hash": "c7167de950eda2504407f2d0f31e3ed12e1b050a9b8dfee91e0952e2fdc7661a",
+    "published_at_utc": "2025-10-13T03:47:29Z",
+    "hash": "34fc8ee5d2c6766cefe9847acd9fd2e1b76617059d77f3395ed5f4b00142733c",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia GB300 powers strong 4Q25 momentum for server supply chain - digitimes",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm9FY00xbWlueW5acl9RXzV1TUg5ejF4Z0k1WmNYR1J4dk8yMnJ6OTBRaVd3X29wUWVCRWRCRWVqbVp5emxNNG5yWVhjMVgwdzgxUnFtXy1BUjFrQkhmYTZiWUFrMmxjcFhNUlNRMzU4MmIyNXZYVXg0TWVjdVNMSl93WDFWNlI0R2JLelB6OVJFdzhmRWJXeUFKOWY?oc=5",
+    "title": "NVIDIA News Today: NVIDIA Surges as AI Sector Drives Record Q3 Revenue - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQjR6MldjcHdjemhMeGR4R1EtNFh4NkltN0hvS2MzQ011RlhkMVdLbHI0SW5wT1ZfVkM4eEJVOGwwVnZIVEpUMU1DSnljRW1tRnVnT1BkNzNyTDFUeUVjdDVKQ0RnVjBsQUZpMllEdHpaYk1Rc2RjampnQUlnRWRjcU1hV2FFMjZaWU1mZkhqemlocDdlUG9PSmpNdGNpOXc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T02:50:56Z",
-    "hash": "e8d7a91ad38a582e8aec8b6486e1123a3a364507eb61818cf11902d5ae86ec7e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana's Market Dynamics: Impact on Crypto Payroll Solutions for Startups - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR2R5RG82UDlTcGdIWmxuckxmSG1Zd0FCSUxUbUNUc3Y3MmxGeEowYlJ2S0tnVHVMSEVIWlM4OHhuY0FCLUR0eEh3QklkdG9FMHZRZUU3d3pLamlBNWJCWlY1bXlPcVlmbFJFNzY2dUYxcTI2WTBLNGotbGVLSkgtYzREVWVJQzVva0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T02:43:14Z",
-    "hash": "26ff9194d3a359bac019bf489b02ae83339ff666c25f5bac1527bbb8bb6c0c36",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Asia Morning Briefing: Ethereum Leads Recovery After $20B Liquidation Shock - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUxva0FPV1FraTgzWE5wSUloQ05qVERLVjJzM3RsU2Rrcl8zMDJFNFBCd2tEb1NILV9QemxKdXkyZGVLSm1lUGk5cURqWDA0Q0twQVgwS1VvRFJvWmlWSHQyODFmaXhUWFFNQUducWc5SzRIQjBwanZadmhBQ0oxeGd3ZDFhQ2tBLUM2bXNtSFJYek84Z3Q4VUVwTzhHaEFWRVEzRXVVZUtHQmNUMTFFWG1yZ19TTVV0R3hrRg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T02:27:37Z",
-    "hash": "67c9f324a306e47a310ed2bcf8bf03dcbb866b969aa214f6583d6dc74f2d972d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rebound After Trump Says US 'Wants To Help' China: Analyst Sees No Bear Market Signal Yet - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNN2Vpa0I1QjZTTXVGWnhEbXNNYUlpSWtuYzJEZnRjTVVzNHYzYTV6Vk1UN3NzODctVUdBTjZ1SlpQQ19JUjRLWVZPTkhRQmdrSXBpRF83VWE5TTdxUlRyN003Q0VISzRRMlIyUmZZU2cwc01JSlVKNVFXcFlwV2k0V2Z4OVRKUFZPU2trNGJ2aTI3RlAzc3R1bDY0c0RfMXgybXpDclk0eVZJdEd1SVNaSTFFX0lhS1lBMEFQMExuQVdRUzJwMlJYdFRtaVVCa01SV1NFeEhjRUQ3OVdoUTZMY2IzRFE4QkE4OTZkQ1l3MV9iQmJGLVh3OXdpWXl4MDNQYXB0bjZTSzJZUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T02:19:56Z",
-    "hash": "6bda3389d619248a903f7d880569a653782cb625df41d4ce45775ff94aad69b9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rebound After Trump Says US 'Wants To Help' China: Analyst Sees No Bear Market Signal Yet - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNN2Vpa0I1QjZTTXVGWnhEbXNNYUlpSWtuYzJEZnRjTVVzNHYzYTV6Vk1UN3NzODctVUdBTjZ1SlpQQ19JUjRLWVZPTkhRQmdrSXBpRF83VWE5TTdxUlRyN003Q0VISzRRMlIyUmZZU2cwc01JSlVKNVFXcFlwV2k0V2Z4OVRKUFZPU2trNGJ2aTI3RlAzc3R1bDY0c0RfMXgybXpDclk0eVZJdEd1SVNaSTFFX0lhS1lBMEFQMExuQVdRUzJwMlJYdFRtaVVCa01SV1NFeEhjRUQ3OVdoUTZMY2IzRFE4QkE4OTZkQ1l3MV9iQmJGLVh3OXdpWXl4MDNQYXB0bjZTSzJZUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T02:19:56Z",
-    "hash": "6bda3389d619248a903f7d880569a653782cb625df41d4ce45775ff94aad69b9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Rebound After Trump Says US 'Wants To Help' China: Analyst Sees No Bear Market Signal Yet - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNN2Vpa0I1QjZTTXVGWnhEbXNNYUlpSWtuYzJEZnRjTVVzNHYzYTV6Vk1UN3NzODctVUdBTjZ1SlpQQ19JUjRLWVZPTkhRQmdrSXBpRF83VWE5TTdxUlRyN003Q0VISzRRMlIyUmZZU2cwc01JSlVKNVFXcFlwV2k0V2Z4OVRKUFZPU2trNGJ2aTI3RlAzc3R1bDY0c0RfMXgybXpDclk0eVZJdEd1SVNaSTFFX0lhS1lBMEFQMExuQVdRUzJwMlJYdFRtaVVCa01SV1NFeEhjRUQ3OVdoUTZMY2IzRFE4QkE4OTZkQ1l3MV9iQmJGLVh3OXdpWXl4MDNQYXB0bjZTSzJZUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-13T02:19:56Z",
-    "hash": "6bda3389d619248a903f7d880569a653782cb625df41d4ce45775ff94aad69b9",
+    "published_at_utc": "2025-10-13T03:47:28Z",
+    "hash": "64f5f943d6ca43ed892ea9cb1d425de4197f4fde3f56bd3b337215d71098fc58",
     "source": "gnews"
   }
 ]
