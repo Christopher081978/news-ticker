@@ -1,52 +1,82 @@
 [
   {
-    "asset": "JD.com",
-    "query": "GlobalFeed",
-    "title": "Deutsche Börse : Ceconomy verlässt SDax – Medios kehrt zurück",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/deutsche-boerse-ceconomy-verlaesst-sdax-medios-kehrt-zurueck/100163087.html",
-    "summary": "Nach der JD.com-Übernahme verliert Ceconomy den Platz im SDax. Der Titel wird durch das Spezialpharmaunternehmen Medios ersetzt. Zudem startet Thyssenkrupps Marine-Tochter TKMS an der Börse.",
-    "published_at_utc": "2025-10-13T22:19:53Z",
-    "hash": "71e2092a0ac7d7bc09b948afa8d12f98391d78a25071309f6a18185ba267eeb7",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Whales are Furiously Buying ETH: Is it Time to Buy the Ether Dip? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmNBVzFIbWtzT1ZPTGRtMHZCNzJacEVsWEwyWV9wZFdFczZVQ2x1V2NZeFQ0UG1DMkZaX0VXcC1Ob1hCc1JRQnNNUnVqMWd4Q1lKQVZiMzZpTHQzYUhjb3lTSnhyYkxDX0MzeFdVbi0wZDBWMGtYR2ZGNDc1UTF3ekdFMFYzRDlMTEdCLUVaTTVwMkkySEZSUzlqa29GTWlPYW11Qmx5VEYtRjd5cU13?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "The Future of Payroll: How Solana's Price Dynamics Influence Crypto Payroll Solutions - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMU9ROUVBMkJvRm9CZlFIWGdwOTRkTjJxbkdoWUVjYS01S3lRQW02Qm1PMFVKUG1NQl8xaUVma2lrM3RKSHd0U3FIVEFpMDFJN1VZZ05hUmloR244Mmo4S09uQk8wRWhXMHdkam5sVUJXcUtibWpNaUJaOTE1QWZrSUZ2c1NURVU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T22:06:45Z",
-    "hash": "f8a16b45bdeabcae1c9c1cb7cdffb8733d46dfdfb99faf7ad17225913ae0bf30",
+    "published_at_utc": "2025-10-13T22:42:19Z",
+    "hash": "7c47bc66924bbdf199300a67a23a8800dcafaa10e309980fb5cbef4efe49638c",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Blasts Back +65% Amid Attackathon Plans for XRPL - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOElCd0pWY01Mc01uaS1aUmwwY2tLVmFZd3hhcm9vd3NmWHVrb1VIeGl0cUt5Z2tERS1TeWZpZFZpcVpVUHBrdXdSY1duLU05eld6UklXMmhNd0lXa0Z0RllhTGlmbHpBQnVzaWtIX1V0czZVZDRwZzNZcW9WekowYzNRSFNBZE1zOElqc2pYbFdtZw?oc=5",
+    "title": "Ripple President Hints at Major Bank Confidence Boost for XRP Adoption - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzktM2xlampRZC1Wdm5INUNTTHdjTmxHWU1iSXJtWGhqTVRLUHVfRTZBWjRpeDM2V0R6c3ZBcGIzMHBLRTQxaGxzaVRmYmVKUFpSY1pBY0wzRnNoMkRVbnlTLVdOZHhfWGdzT1d4b3FaWm5jbWJOYlJVQnZMa3NxN3Ayc24tV094dm1YZGJtY0thaGVCV1BZc2lrYw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T22:02:40Z",
-    "hash": "51d7ea82b9c9b6d85a7156978c74027c5813b4f6fffef323448239de4e90c26d",
+    "published_at_utc": "2025-10-13T22:40:59Z",
+    "hash": "3d03dad995381faf0889932349d749372dc1d314d6e6b6d04fd4783aa18ebcae",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood Aims to Increase Presence in Prediction Markets Space - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPODBBZmlhU2Q1M09sbFhKNWxBZWdkUEFhWm9jUUd6My15enY4QmRHOC1BMTNSY1BVeEJLZUJncjJlX1lKQTF6NTdPNjhkdW92VjJCMXJWU0RxNDREdkVMUU1LbmdwVy1jMmZPdkJyclNtMndlZnZPX1RkOS1Qc0hWS3hJLVNOdnY3YW8wczVvUDlQSHkxaVRsaEhKZ1FsaUl6U0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T22:40:22Z",
+    "hash": "006aeaf6ef6c3b0b8e73aa2a7c82ea50dd7d0df7fc3e76f958f1bdd44f5c3487",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Crypto Price Prediction: Ripple (XRP) and Mutuum Finance (MUTM) Set for a Sharp Run to $5, Here's Why - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUNKZWM4N0doMjBrNlMyT20tMFRLcG9xY0VwV01leGZEQjJYYkZVX3pyN1daVERVOWNlTEZiY0cyZUF3TC1UMUkyLVNvLWw4d1pveU1sRXV3NHVSODZRVFAwYll3Q1pucVpuUUEyNElBUEZMX0phdjhvcndjei0xbVdqQk9FZlBhOW81NEE2UVhBMHhGZXRibDNPbXlyQzFfUHc?oc=5",
+    "title": "Canary’s XRP ETF Moves Closer to Launch as XRP Marches Toward Mainstream Markets - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2F2ZXpiVjJKWDdCaElZR1JRT2ltdUVMNnh5TGxIUDc3c3pzV1lGcW50UWhJRUxxV281YWhvMmo4czFZOE8wUk5URnNGSG5yOEJhYkFjZy0tNXEzLXFueXFONXdxdnFvMXMzRFM4bkR0eVF3TWlkeDdpQUFpSXpHdkFrMkxTbVBNbVgwVWxYbmZSbEE3TVZNWjJsS0RFejlxQUZMZk96UXY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T22:00:00Z",
-    "hash": "59bebc95789d67e3277d2228563b495a1d57b418ac275fbd2cf9602ba5522ef5",
+    "published_at_utc": "2025-10-13T22:31:24Z",
+    "hash": "6d1a5c7ceb6360722283de7ee935ebafcd9dbafa60184ea0ed511693d2127805",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google's €5 Billion AI Bet in Belgium Signals a New Era for European Tech and Sustainable Growth - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeWt4ODZYT1VvNC0zSE1tMVV0MUJkbFYwV3dVYUE1Zm9WV3ljRlpFcU1TWnhlaVZIeTd6d096SFhzNTVmMnJXOHVDTEkxSG9lRmp3U28xZFNwNEtXZFZ6Y3VDdFc4V0pMOWxYUlhQU3lvWC1EX21XWkNiUWRvWkZNUjI1T1JkUHNYa19adjhSbUhVTDIwZVhiLWtBWUlOdFlQUVpmVV96eTQ2bkpFTkpVR2RmekZQX0RXLVE0cGFYOXpXdlNPSmd2dWFxNGtaTkt1VllDZjF6MExGTG9Wdi1zM0V6V1NLOGVSU3h6UnJsMEVlQ0pJX1VTcjNxdl8tOXc?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: While Other Coins Crashed, Whales Bought SOL – $500 is the First Target - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMXh4bV9sVEEtbk0zaXdwTTdGRXkyNEpZei1FbkNGQlU0OFRYR3Y0cm5ocTlZZ0syLXRDNnlTX2F6Qm15SU5BVWhJb2hmSVFoTGVvUDFfc3YtSEF5QnFYOEVCN2JRYnVBVTdFTlY4djA2em5faTRlaTQ5RVFUVVJ2RGlyd3VhRFR3MFF2ZE9UUTNJb0JqMWRmYi1fS0ZVdFpuTm5PeThNOTE5OHRxVWtDSUZvT1FoNDRpVzdyOQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T21:58:00Z",
-    "hash": "048aab85c94fd8ce8e4f846e59b624a64439c3323a1d59003c3794e70d43911a",
+    "published_at_utc": "2025-10-13T22:31:00Z",
+    "hash": "8dca63f4efde56a486134579baa2da3037b76e4cd0cf2bd646d3508971e4ef70",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Best Crypto to Buy Now 13 October – XRP, Solana, Cardano - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUstdDRneW9qeERoUnRTUUZhblBMMmxSYTdjQmZwR0JnRDhmdmlZYThiQm1aN1VjYkdaT3JCYkhhUnEyRUotUm5ZWjRzRlBDNlU0aE5oNFlhTFR2dUtwSmtxektwNlRpX2VseXdhRDI5RWNtbGFWTkxYX0VhZDYzZG1ack9iTzNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T22:30:00Z",
+    "hash": "d744518988965c3217fff85610af83617b2264f708b0fde1ae2634ecabfb82f4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "ChatGPT Predicts Prices for XRP, Dogecoin and Pepe - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWo3cG1DcFJudUhWMVk4dzlwMlA3TUZGREo5Zl9tMzdIbEFJUkpMSWcxdzl2eHA3S2VMdTV3angwTk8wQWp3QTNFSU1pREtkRkRYNmUtUE9LcGNya1Z3cTdHanU4VmwyNFZCaVZPYzVmdGNweWZ0R1JVcHZQVGpPbFFuWXRjeU9VYVNfeC1TMTNldWFvRlpOSENEaDVIc0Zk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T22:30:00Z",
+    "hash": "81e0fd1bd0acb3ff09b11540570f565aaa9a75e8f5fb2f3a1ebc61e805e4717d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy Now 13 October – XRP, Solana, Cardano - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUstdDRneW9qeERoUnRTUUZhblBMMmxSYTdjQmZwR0JnRDhmdmlZYThiQm1aN1VjYkdaT3JCYkhhUnEyRUotUm5ZWjRzRlBDNlU0aE5oNFlhTFR2dUtwSmtxektwNlRpX2VseXdhRDI5RWNtbGFWTkxYX0VhZDYzZG1ack9iTzNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T22:30:00Z",
+    "hash": "d744518988965c3217fff85610af83617b2264f708b0fde1ae2634ecabfb82f4",
     "source": "gnews"
   }
 ]
