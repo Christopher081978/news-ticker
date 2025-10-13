@@ -1,22 +1,252 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Why Did NVDA Jump in Premarket Trading? - Tokenist",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPN25DVDBDMWY3dllhUkRVTmh0OV8yYWdYSGttVG9HNW42T05ob0RCdDF0QkNPSFJ3OGFOd2NqSUlzLXotbU5IS0NFUEJ6N0VvOVd1Nm50NDV3YVpxSnNxaDNHbkwzWEN3Y2hwbQ?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group Incorporated $UNH Shares Purchased by Envestnet Portfolio Solutions Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0tOMzlnTHF1UV9jaVFDV2luOEh1dl9mbFVCLXV0UDVuTEN2eV9fMVcyWEZUTE1HSVV0NjU5WGp0b1N2ZjgxMnJiWVRORlc5QVphZUJqbTVYS1ZvWUhpemJMV1o3Q0oydE9Bd0pVX0VyMl9XejZMQ3gySjBfWktqYXRpVGpmbWpva1ZRMFFxbFhwR0praXNWTUFRWmh2YWp3LWJyaWxyVGtxMFlua01Ub1NrcDlRdllVMTNCRThqVVMxRk8taUFPc0tma1A0X1RjdjVyRGp5YzRNYWc5bVY3QWt3UmM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T10:45:46Z",
-    "hash": "1a4b9d0f3bd261aaf1a5ce1bf2c993e8a4e89bc85d7ca6fcc9ac19f1f61bf717",
+    "published_at_utc": "2025-10-13T11:21:11Z",
+    "hash": "a689ac1021dab653e7ad19b797c15362dc1fd71ed8f5789184838845a4ab2017",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Verdence Capital Advisors LLC Has $5.01 Million Stock Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORW9FZU85elo1TEpLOWVFaHNDMFluMG1SMkhMOTBPOGhVZDZIc3laZU5pNFJveWlDd0wyX0h3UlktVWRVcmRWMXFTZEtlUFo1MGlobUlJT2hxbk1zZk9pNGl1OU9Wc2NrQ1RhZ21Ka2d5eHJCYlRDdDB1T3J6T0xGdHBxN05kQnZoTjhsS21Zd1RrRnB4WlE4SGE1dzhVckxWenYxRGVoM1VUNFpPT1pzdjNLN2ZCVkZNZWJpMnhrcE5SU3A2cE5Ka2FwNV9YLXlHTFpBX01yWUVxUEtLYlFBYUhqTS11ZEJrRTZ0SUFDczQ3UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:21:10Z",
+    "hash": "cfcb72713f774dbb13d254707e20ddf247ec6710549611d515394b8162b73250",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Delaney Dennis R Raises Stake in Novo Nordisk A/S $NVO - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzV0YXZwblQ1U2xrZlZNekpYdkZLSDBjYjZFcVpwOEJDeFRzajFrRU15YUpxSWRnM2FXLUNURTRmMEVpT3R1UWJHZ1RfbmhHUUdKbnpncl83VjRGOU04ZXNuYmc2dVBrS25kRFdGdFVycExWZ2ZnRVpKZ2NhLUdBcHFTZmlNdnpUQ2lKZGJRaDJTSGJlRnM0RzV1SEtkT3JCNGVCWEZmNGRmbHdCVndUNnJ4Yw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:21:10Z",
+    "hash": "5f3817e8dc03f217fa45b2ed7355e0357eb0a96f676742312ffda124e7bd0130",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Verdence Capital Advisors LLC Increases Stake in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnVnWlJCT0ZyWEVDUnc4RzdqQkdEZTV6UVdPTjJqNmc1U3R4bDBBLTFPZ2pfTEVQUDlCdHJGVVlZMzZ5MWVkb1JQNGhqSk5hZ0FfYWlJXzNsd2ZWb1V5b01TYlc0dm1aQ2lqZG02WEFOWkdqd3NEc1loTGtXdUY3VGZfLWh3WndZQVJOYmpfMkVNZFB2ODluYlJ3UzVvc1VjUzFJWUtQSDdyQUE5aEFqNXgwdDlRMFg3WHJuT3ZFenNPZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:21:10Z",
+    "hash": "bcb7ea40a4693e1371fbe7169b7949498c1c0ef166c8f98cbb322459b8d44826",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Almanack Investment Partners LLC. Invests $1.19 Million in Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHhjcDk0WjdSN0lsbnM3TktuS0JqLWFrU2t0UktxRkxUM3FIbkVrZGNFYk1KSThSdmVsV3VvXzg4R2xfcWFTenZzYVk3V2tjbDJOemJMdTNjYnd5M01HUVNfTG9yYVVDS3B3ZllxVTY3b2U4MERvSklid1JQY3VmN3E4LVRZeHoxdjZ3Vkx0c2dJNTVOdVFOazBIajRva1J0YVR0MUxkb1luUW02TjZ6bDNaVmpwSm9sY2NDcGIwcnBGaEZWc3pJR0lwRzV0UDNub3dRQjcyX2VfM3M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:16:34Z",
+    "hash": "c9e1bc3f75aa56fca7bd441310bb148e67fbea52bedb68e782b21c700f670604",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Rebounds After a 41% Flash Crash, As Investors Flock to BJMINING Seeking Stability - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSVdJY3U3UGRYRzNSZl9kQVZzMnRENG9leU81UlRTc0kwd05VZzJDMTJPc1dTWk41c2VKeDFOZU95OUxWR3YzZ1FKX3Joc3VEZmUzZWJNWF9aUHpVeTFnQUk4QmptNDJmN1IwRUJXMGVqVkZibUVfSm9kYWVack9tdi1iUEFmdkUyMDFWR19FSU85dDlMdFZ6WUVGbUVxRmFrQVVlTkQ2MnBWbVpNUmpJa1Z0amNVRjhfMDlETFFXa3Y?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:15:00Z",
+    "hash": "40f3f98b147b4a317f0f23b08d80b8500358ca593c4d4b39d9b2bfa095869908",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin miner MARA buys 400 BTC after historic crash - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FU1VlSUNzU1ZIbkRHUjFSUHJtWVdvbWcxWl9JazZDVGpxSVpHdUpyOUtFQ1IyekVJZENRREN0eS1sT3lvaktvMkpQdzVXUmdfazFZemxSWDZoUnkzRm80dW15aFdoYUxzZWlfUDJRcXBpaVVQMzZvTw?oc=5",
+    "title": "Anthony Pompliano Says Bitcoin's Made Gold A 'Disastrous Investment'—How Come GLD Keeps Making New Highs? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWGlPcG0yNkwwZFlvX1Y4TENpM1RGUXJjSHVOTFlmd0dzUUJqSXlRcThJN3NnSV96SUJuQ0FBZmpJVF9oQ0o0OWdzQ1BIVnlBdVdSYk5mUm53MkVaYlVUMy1EY0ZJM25WOVlUZ0xHR1NGVmxoM1duWHUxUVUtcjhYMmxmcDhnOWpTcFNIcklXeGxVR2NvOFViMGhIczF4QjJNRVVGSk5GZE5ULTVmOElKY19yUXoyRXl3Z2JUdE5sZUtKMFRteGtNZ0NkbUhOYW1MRlcwMWVNNWFjbDhGaG5ySnZFYmJja2ttcHFaUDBMM1E3RnVKV0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-13T10:43:00Z",
-    "hash": "80ac4eda6c0e326f99b7656a70960f16095e04b5e0f3adca078f781a1e4a455c",
+    "published_at_utc": "2025-10-13T11:12:44Z",
+    "hash": "2cabfe386539517aeda3c24ad99af59c2cad5aa1456905298ce693b9b5bc8f62",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Yousif Capital Management LLC Has $31.21 Million Stock Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQy1kNUtMZVBxLTVVaHZObGU5SkhaNjV4MlhRVUNYYnhsS1o4LVRTUS1OWnNmakZsSkxoblJnaklDci1mc0h4dkRSeTdQQTQwY2tyVG9pSWR5TkFWSl9YWWo4WF9FLUtTeHBqcHBZZFhlUjZmaVNHR1o5Q3NlWHZGT1p4Tno4c29zdjRCWUk1WHJlUk1jcmw2cUtwOGJwVmxENGpVaGRPRFNPdEptSUtNb3d2MFY1dWNsbjZXdlZlWU94am9mVU16eVJIOUJ0VXcyLWdqamtiRTBjN1p4eHpib3VBOUVCUktiajVmR0VwcEl0YlU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:12:37Z",
+    "hash": "8c341b2c08613739c344883be9f0d242b1c8836a722ac178de4cbcbfde4cdf59",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "UnitedHealth Group Incorporated $UNH Holdings Raised by Lion Street Advisors LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTRQZVJSZmkzNElwek5sVWl0RFkzbTZtWVFXMkMyS05MN09EbVVKRlpHbm12NDNGa213UnliaEwtZ2ZqeDNzT2VDSHZKTDJLV3ZxNWI3czJpZDJ5NlNtaV9yOHVkYUZzNGo1NmVtaFRhTnZ0UTZQQXJpYTBPakpsQ1FJQlU1aXUwclVSQnJXRURWN2x2ZmpaUlRVd24ydmJ4NWhEZ3ZMT2xsb3BabUVVS29PVmFFVWlQOVRnbWhNSzlMN3g0VXpvNnoxMFYwZUFLSHBUeDdmQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:12:34Z",
+    "hash": "227e64ab472fa1dcd9f051285e81128b73a1451e729106a94d39c73fde57cbb2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab Corporation $RKLB Stake Reduced by Pandora Wealth Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUGxXTGFhNnJyaFYtWWRpeGIydDFnLUVzT0NYU0VxVFRFNVN1X0JaajlPeVBkYVZGa2VTSFFUMGxVYURQWUNXa2lhTHFHcjl6VjRta1RlTEExdFZpWU9aajJ4bi1XaTZRUy1xMmVORWtQd3lldy14RkRFamRNUllVTDdaZGhrZWIyWHd6SVVadlNGX1VsVnpDWUxhNEF5RkNOcGJSU1ZnQWU2c2haTHRienVkdElNZ1AycFREZlZPeUZDZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:12:33Z",
+    "hash": "15600ed8e4702f4c0ec4d23ab4216e4da5ae48f71c59f524db00d271dc99d8c0",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group Incorporated $UNH Stock Holdings Lessened by Griffin Asset Management Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGRPYTZHOEtDVjk0TFNJY2J1emRVanpKWWg5U1BDb1l0bDJnNmZfOWhYSjdGQTJ6RUJFQTFMYUxrRFNHek1Jbm4weEZ6dlVQOEpJQnNoUXJETHd6WndJWGNDY2ZMdk92R0Fvb3hOZm9KZWRUMmRSYmxtcmxwU3BlclVFZE41RzBIQ3J0TzYtd1U4c0hpM2E2SlFIZFE1blRwb3J4NTNReDdLQmpoVmZGTVRzNGRqWHZsZjVhaWZsNFBDdFRQd3Z2U3I2c3ZzXzY0WnJ0WFBRT09XVlBKWl9tdmxHQjZKbTg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:12:31Z",
+    "hash": "6242b88b093ad0d9adcb8d62a52bbbc2ed71a1b1f142fe4efdf68ab0dadbfa4f",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Rises. What U.S.-China Trade Tensions Mean for the Chip Maker. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNdDhXckJKeTRpWHZpNDFYOURRRU0zbUZoRlFobGN2OU1GWXFlYXNrVElIamJxY25oSDdDbzBLaXdtN1VLUU4zYmpXM3V5elNnSDZiZFJpR3pXRkE5akVLVy1rVDF5SE9XRXNxd3BOQzZoblRFLUFEQ0lyOC1IbENnaTVNbEljaWJwd1ZOMXRiYUxRQk1GS2J1a2tZZUNSVV83MkpOV2RlRzVhX2dxTzh2bnd6RWhvN19SR3oxNHE1TWxMbU1fTmJMN3l2LWp1a19raFRIVFE3aGpnRk1MQ3NWUXo0QmZoVkVIZjExMUJuOGpWV2JzYTFWejFjRWNTc0lFTFZ4T0NBREZUUmotS3JPZmE5cWFoMFk0Mk1ObjN0SUdVRmZCQm5oMkFOZGM4dWZBNDdwMDktaHlYTXVZUUFBWVlDR1ZyRGh5QU0tc2NtVEV3X1hkWExidFo1Qm5FdjFTSGVyR08xQUxVVVIzZkRTaGV6d19ZSHFCcWhDUkUwZTgtV3QwVUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:09:00Z",
+    "hash": "168615bdf56fd00b73bbb6472cac5ddb2e3292f1742683e86e7fe4dbb3b397a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Griffin Asset Management Inc. Grows Holdings in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3lZYm5nRUhJMDRDRnNSNTlzMi1GM25vbkxaUGNkZjZQOEV0b0JkMXUwd2pMbHVXRHVoVTA4a2RubU1icDF1eUJNZ1FyWXN5X1hlRHBzRXJ2NXZlem1MOVFqbl9OeEllS2pURTZxYzBEbWZGdW5IX015QzZmQXBXQjBLR3FoTzExOXNBRGt4S2xHbXBodmFDYkhmT0dIREpLLVN6WWRpcG4zNkZtbXdZMlJfTFhEVzZ4SkFLUWtrWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:08:33Z",
+    "hash": "92ed734b73a3a6f5125425f585df8c182084c5ceeec6d1e31598d70b34c7639f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Welch Group LLC Has $46.27 Million Stock Position in Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3hkQVFTRzBhVElFdU9feGxocmljVG5OQktrNXI4VEtuZkhabTdmV2RyMHk4N1lqQXFRWUt3UTF5Y21XWDE1eXZOZ25wa2pMMHZYVTU2Q3RXMlIyZE5GWnlTSEozdXJHRzNGX0Y3QkkxYkdMNFFhSEliNlFvREY1Yl9aMlduN1g1dnAxSi11dGpjaUl1a3RqY2ZJZGxnenNxTUZoTmo4eE9TWWhybFJFbkRmRWJCakJMT1RxUG9EYXRYZTRR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:08:32Z",
+    "hash": "4a8ef3d34bf00325d1e1ff17772db2f1bb5d978b8e3d1e8e031fb51f111d7519",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer Inc. $PFE Shares Bought by M.E. Allison & CO. Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXhfUVNOXzRaSmRhbWVtcW5IcjdfcW0waExXblBIeHB0WGxFTnM5UjhHSzl6TnNyc0g3UGdBT095b2tNdEk5VFJrYWZEZ1FLOXZBTm1tbEY5YWx3d1hSSjJ3cVp6dmZGSGFkeEMzWWxZRFAwN1NKdnZpMUNWVzhfUWZuWjV0bmZxbTFMekFOOWlldV9YWDFWbXVTQmVBWlFjeFZKVUZkLUhrMDFTR0gw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:08:31Z",
+    "hash": "d419b8ffc9572c20370e464b47f5a5c0394b1054adbb6c71c33d6e90d7bfdcd9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Stock Movers: NVDA, USAR, STUB - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUJSb2FSQm10a2REc1dOT0xKcmgydm4zWHczejZ4cVdhbjZEYWR0cnRPVW9XVG1LdWRycFNDRUd4czZyMjBwaGxlNjdXWk01TDlIeWtvSG81S2RfZHh4bXlXNFdaRVlDM3lwQ1VyM01rbzlwdUxrbS01Y3d1a1dQN0N6dHVEa2JTc2Jz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:08:25Z",
+    "hash": "862ffc05b063ff6982a57b5ff870359cb7b64157c2aaa000b8a59bf118e49714",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Leith Wheeler Investment Counsel Ltd. Takes Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUU1EZmRQb2pwUXl2dW5SQzZrNUFGSUpVQjNpOVFXN09JMUdWd01zbkc0T2pJSEFRbHVQWXJHMkJoMlV6Yi1GWWFWWWtKNjFxRE53VElpRXhpd00yaTBmeGh5QnduYTAtUGlxVmU4dHpXajEtd3ZMY3ZBWTlBTVlsMlVqR09iZzdIUGlxV2cxVDVfLWJ5S2IxaUFWeEMtMTRmUVFnUzlfNVhEaHRVMm1MLXBJU2dUY21ZQVZyTldheWw2Y2xhdU9raTExWXpROUhtbWxxSkJJNXRZZFJKSndGT3VyZkVRZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:02:36Z",
+    "hash": "a29a62a80f306bb847aeab4a6c56b90924c6586a17d2b14e0474321b4699d6af",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Almanack Investment Partners LLC. Invests $1.64 Million in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONnl4aWN3a1lSWm45UWltay1jWUo4QzhXd1U2NExvcDNaTTZ4c3B6ZUtwdjRKUVM2c0tWY0hJWUhEYXhLeTNSM0FHdURoS2FabENVN3NvVlE4T294ci1kMk82dzRSakRKa1lvMmdIUEJoSWlDeUlLeDBOODBKX2FOZXFRd3pnRWthQVZCdkEyY3JJcDV3V0Q5eEx0Q3BDRTI1V0t3Qi00NjNLN2JHYmtPUlZ2eHE3OEtrN3U4UHFGVDlkY1Fzc2dZa2s0UHY3THVvM1hyTllHTURzMk1VUW82clBMbDN0elU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:02:33Z",
+    "hash": "74224259257800efe8206510477fa32c7c0210084cac00a740e8f0f97ac27c2a",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "MOKAN Wealth Management Inc. Increases Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUW5iNlJ4eGprOVRpNEJMeV94S0hfc0FIY3k3YzI3RXd3ZkNuNmtQckp0emJ3b1JmZnZ4eVhlc2lXWkkwXzBRVDZ0U0tvenFGcTZCS244WER0T2otRjAyakhKR2ZvdS1jWUJUOF92ZWlCa3gtRXQtYVppTENXc0hub3RNTHFBRUlLTmlLRm8tc2hNXzcyMEQ5WnNUSFZkbmhsZGNieTBQZzcyczdWZ0Mwam5HZVMzWWlyMmNqNGVYY2FWb2U0amFKc0dzaHJSOVdPMDdqQTM5T05YVm5lQ2xF?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:02:32Z",
+    "hash": "3386e753daddfd2d6144898bc3900028d86559d9321d2b41fd0c0ed90fb892fb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Core's Major v30 Update Divides Community Over Massive OP_RETURN Data Expansion – Bearish for BTC? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN2M4cEt6SzkxWHFNb2ROeGlwMG51VmViUDJTTGsxamVWdldBb2ZVUHZrcG1CeUY2elBxaDc3NEhZS0F4aldtYkJSeVU1d0NmclFtUUE2bkxvVG5GRklpUGxPZjR1SGJYTmcxYUVzZVVPbi00bHpDeEoxUEx0UU1qUklrLUc0LVdPMHA0OEVzUlZNdlRWVnFiRm1qTW1hc2w0Y1RhZ25Ecm4xR1Y5MXlMQS1aOXhjWUpYUG9QVE5QNEFzeDRDcmxTTjcxWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:01:30Z",
+    "hash": "835fa4f49ea954c33203a69a480ae929487bbe745e8c78b12448281d6926bc2d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Forecast: Will Ripple Rocket to $5 or Crash to $2? October 2025 Update - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0ZYdk9yV0xVTXFHUW92M1RzY0ZCTDRhOVpmZnI5cjZ0ZWQtQ1kxanpHVEpudVE0dHFYSC1oWkc3MW1hbmxmbEVuMFdkYzBhVnE1OV92TDlhYUdlLTVNTThhUjNXb09zeS1GWGJMSUlhcjNHQkh5Y2s5QXV5eFJYUjd1T1pFXy1oMlEwVmdSWk56a1Nfc0FSTmQ1NXA4QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:01:21Z",
+    "hash": "a9dfb202c63121e116566f5d6d9927742a3ab2f12e945ab518d6d74f16e52fa7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pzena Investment Management LLC Sells 499,867 Shares of Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTBtUlR1b1AyX056ekFMYVVkU2t0bjFFcUI5YnhjcUhHZlZEM0tOZXNCS29XLXBSYXc4X1kySHFNVjdEVndjbll0N3hQS2xNU3VNY3lWeTBVYTZwQ1BrQmc2bDJURkp0N2tSSEtFWTh1ZW9NdWlxR1BwWTBlTlJzeXRLSENzUjBhUWhmUDhLdHZPSFdydHhQWUphQ1k0QjBqUHRZWUNZVlpnempBaFROemRXckhLeTNiU0dnVVQxMTBHX1g3MWZua0RR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T11:00:32Z",
+    "hash": "fc924bdfaeabc7bd900ab910275661ef7076dfba0070abbff18e8a0d9d61e8f5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Rollercoaster: Will ETH Hit $5,000 After Mid-October Flash Crash? - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlh5MXkwX1FQZG5jRWJfN0czT01qRDE4WnNLRk9EREV3Z3E5Qk96UTdTbFdQQ1hoV1lBajVvODBodUlfOEZMMVV3T0k2bV9EQ2JuckZNZWFneHZmOGR1aEZnQ3ZScWJHa284RnpVUU5xaC1oM3VyaDAwMDd5cVl1U0MtSEJlRGNNMzBrWlFhVFdLam1nV2ZTTmdFaHA2dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T10:56:09Z",
+    "hash": "9ebd103fbc8fbd21aa29b95371f0a5190db16539c88b70d9f1e56b94293ed473",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Concurrent Investment Advisors LLC Purchases 20,663 Shares of Pfizer Inc. $PFE - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0VtRVVYMjJXTUd3aHJWY3BmZ1Y4dzRVbVZZalRBazNKUjNpRkFOZWJZeHlaUW1Pc1BWWVhCYjZoejRXS1RlUVc1andoWHhkUWxodVppRUlTdGZuVGx1NDliay1iSkpoLUwyVFRCYy1yWUtwVjZkYV9WSFlQdTBJU09lbTBpbmJWczdCZkRfamM1cEZuc1hTSEc1SlBjY2t1MEJQREdXTEJnNWhmSU5rSVhBQ0VEZ0JZMEMxRVVVR0tVMHU2Q2ZHS0FnZEFzWXh2a2c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T10:54:31Z",
+    "hash": "46b3a52974f2de36831a62218ed37364427f1b7ee4ba3836188e88b0ca0710af",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Top Analyst Reaffirms ‘Buy’ on Google Stock, Despite Drop in YouTube Engagement - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWEJVZTFneDlEaE02ZnBBYklicjFJUlJtay15RHZyamhweV9QSW1HUDB5S0FHMy1DRVZZSU9tV2g0b3dKNkZyQnhUYjFJTU5WUHJpMzJwcVRGLVdyaVp0TVlqYzFZZUMzUVZsdl9IYndzQkxzMGFaUEFyVXRVYTJvTEZrU0dGOXc5TUdIdUJGYlFnb0tzRWY0RXZ1ZmkwanZQS0RtazEtQTlOZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-13T10:52:59Z",
+    "hash": "c8a7438d565739150ff5105b24e94307eb3afc29d3fb1c8c69563868eaa6c394",
     "source": "gnews"
   }
 ]
