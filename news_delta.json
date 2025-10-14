@@ -1,72 +1,42 @@
 [
   {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Why D-Wave Quantum Stock Zoomed 6% Skyward on Tuesday - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXBTVDRNX2JhUktyVldsMklIVjFPZ1ZmMEFUUm84Z3F3NmlpVGRxdjdOcnhUS3hiYkdRRnRJblMzT3dRY3hQWkpVYVA0bVVzbVZma1FzS3gyRXI0LU9yUzNmWE9JcHk5XzRsNjFlZjBqUnJ3cTRzcHFUWG54aHU0R3F3OFo3WG5tU3VSUjIyM2NvNUZmUXEtMA?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Global, Inc. (COIN) Dips More Than Broader Market: What You Should Know - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVldlX3h2TUY3MFBURnJFZFM4MW45X0VRMjhraW5oLXZHMWVWaW5ieTVtempTUVRQRHN2WDNIUlFfSEtqN1A1cWxBNm5DaHI0bUdBbEg5bnl5a0hBYWdUM0x0dldMNlBSeUpwSWVNVXJXNDhLaDlsYkx5eVV5QWRES0lSQXQyWWF5WHF6WlZUakVUMDJVVXRraHoweHRjaGozbWxXTDJxcVZiclJiTkdoX1k4TlVFdEFMUkpyN0ZzNVQyZUhKYzIzNFdOa18wMkRKeDgyZA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T23:19:57Z",
-    "hash": "5585ae329c0ee86fbf07743c1f825b7376cdb0c83cbc17443ae7c26e9099dd8d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Daily Crypto Signals: Bitcoin Tests $113K, Solana Struggles to Hold $200 as Market Stabilizes - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGZzT0lCZU5uSXIxdEF0NHZUTmZZMGlpZU9rRkg3RFBmaWJpenBKUUhYRGpwTEhXbW5kQ2I5YmViekJUaUhvOXFSY01LcUt5WlRKM2h2U3VsYnFWa1duU2w2MnN1WjNQRmlZazBQMVBFZkhlZ0MyTFRQcW53ajVDRk9VU21WSFo5LVhwazJjXzdGNGRNMF9TdlgySGZQdkNUdm1OeEZ4WWJpRVRwYklJY0lIZkljb2x1Z0RHUDBlUC1nUHBCY0JWT2tmcU0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T23:17:08Z",
-    "hash": "7988b5c573ec02daeb485cb27b2ee7efad51407f337553e0b4d2aeeda7711eeb",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "(BYD) Technical Data (BYD:CA) - news.stocktradersdaily.com",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHZWMk9NTXpLdHpSSExXOVJIWnpIRHRnaXl4SHB6R2pVaXVLRzA0d2tqRTdodVc1d0x3RnBIWS1XaXZBZWJCNmhja3pVRThPNXRrYXNMc1dIQkF5NGhBTDVSY3JSQXdyZXhrU1hoaUNjVnFLX2JndzVvX2RGejZmeXBn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T23:16:26Z",
-    "hash": "d896e1492fd0b85180259baf6e06a289d6f3294ed34c8c35198bd4b1f6bc8f3a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction 2025: Ripple Targets $13 as Bitcoin Strengthens Above $115K - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3BHUDBWMldsa0s4dEx4VUlwbVJQc2pYU09mX1JoeGZBRTdxd183LWF1SmxueDVKeEY1R3EyTHlCVVRyZHhJZjdMSzAzYWxRNHdkY0pmVVBYN3VMUlpITEw2TnFIMjhicGxyUFg5NU9jQ1cwUzNFNGR6UkdhTHBnd0ZqS3pYNHk5RHM4UWhmWEVDS0xDMGxLamhIeUF5alZvdE1iZg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T23:15:35Z",
-    "hash": "f676269a7faefb9cf410fe617423cff9e0ff5a8c296ba68aaec28f84c060a15f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Surges to $2.50, Litecoin Rockets Back, BullZilla Explodes Past $900K as the Best Cryptocurrencies to Buy Now - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTkNNeVl3anNNM1RHM3BpM19rdTNxRkZENG5sMHhOMFU4UHNTX1ZSWXROZkVlNlpmNmZ3dW4tOEJMVFRYMTlLQmZveDZEMm1kOWQ3MlRWS01RSlF3RTBtUG13SlN5Nm9wZ2xqcVNESl9BSnRrTE42XzB5QU5VM0JkV3N5Y0hMWVVlbTc4U1FkOEpBVUpwMjFKSTJ5SDRzVGs1UVJVOGNielc2SHpWNXltU0toazZCNUtJelJMM3psM2RvQXpGRm53dmVZY2Z5NE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T23:15:15Z",
-    "hash": "c4e28d889a68feb5e43c921b69e974aa2f96870a6888984eb7d96e23ebfa6230",
+    "published_at_utc": "2025-10-14T23:39:24Z",
+    "hash": "b386bd6d9b0d186a111c34c586fa5e25210df9062d1f0d9f2dfe26f478f11162",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia’s $4.5 Trillion AI Juggernaut: NVDA Stock Volatile After Record Rally - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkNJdGczTFlsc2Yzd0VuQXZJbUxQeFBnd0R6dGZPUUQwSHZXS3AzMlF5RHhKcXo0Vk5HWjN3dENBQWp0ZGxPUGxIRlU1ZHZMM01KSUhJNjRweUdZcUpvOXRJQ0Y3SU5fLVBmRldmQnd1MHFSZUJuN2FpU3BLdlMyenNzYjlxekRrd0ZGaW5KU2VoOVZRVjdkOVBR?oc=5",
+    "query": "NVIDIA",
+    "title": "IonQ CEO just threw a curveball at Nvidia - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWGdZLTAwNHprRzRCZmE3TV9jQXhDNXduaC0tdFRrQVUwcXkxU0JjMzRLaVcwdjlrdTFmTkxUR2E2b0hmT3VBN3hfcTh6Rk5oUXdUaThsS2xFMlhJSl96SWRtUV8xcmxJQS1uNm42MG83WU42OV9zVUNmUjg2V2plc1JzN1Y?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T23:15:11Z",
-    "hash": "0116d2e3e5868bed415927e9319b92763427d09156687baf2dff0b287f1823f5",
+    "published_at_utc": "2025-10-14T23:33:00Z",
+    "hash": "34f5b939a34ac0eeb9075fc1fd773f440521a77b8ca180086a0d4d9c00dbaf17",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ETH News: Ethereum Price Drops But Traders See Potential $10K Rally - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUEVoMjRxR1B1d0NJbV9SNWltVDVhWXZ4UVBmNTBnWUd5dnpPZDlWdjlub1dNaE9WWHdRY0VQOG5CdkNIb05JaHBHOVlmbXFHalJwYVd5QnFSQ3JEaTRWSFpvRnp0bFMxZE9BZkc4M3JjemxHQUlCNUFvLUJjeTBsdDhwNG9fRXM1LTR2ZnoySWJjYnJrUUw0X3o4dVNFbEk?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Options Officially Go Live on CME, Boosting Institutional Access - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSDFYaGVpc0ZGcTQ5c1g2SFhXS2pFa1dlZmhWMDYwY2ptMGh0ZXdMYzAwN0wwSk16ZTJrWVNkYVJ2MXFYQVB4UV94bFdHRjJ4TVBBZ095VURPUW9hc1V5Q1RvUXlzdk9sc0xubjRCcnJGZG1TSlIxUWRIRnFWaGRnbm9BLWRySDFHTENxUEtKY0hEaGFibzRBdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T22:57:10Z",
-    "hash": "bf8eed4a67483d666d37c976ce5fe990deed83a433a05944925d7203014ad2d4",
+    "published_at_utc": "2025-10-14T23:31:20Z",
+    "hash": "5a62896eeb5413b9976647ffdf8d17ae46b3326d31c6a15d1d127db4282638d5",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: Ripple’s Swell 2025 Event Could Change Everything – 3 Week Countdown Begins Now - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOck50RjVkZDZGS3I5RVluX1cwN3o3bkpOWXF6U1ZERndtTUl4aF9SbEhINHVSYklfMVhXMElaMV8xNHlFdnFMMXMySUx0ZHdqRlQ1bmFDSzBqRHNKMEFPdFY2SHkxcXZDVTBzZEFVYkIzcVdyd2F5QzRwNzZybm9oak1wTV90dkRveW1qazhGU0Y1NDRyYm1PQ2F5d2QxZmxYSUZITlFWQlQ1VjJ3SVhDRmxSaWVDMzJyY3kxTm5FZXVBT2E0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T23:31:00Z",
+    "hash": "aa7b8040c1b2c38a45055333fa7ea3a3e9ea4ad8859328e77d4eba59c7de6b54",
     "source": "gnews"
   }
 ]
