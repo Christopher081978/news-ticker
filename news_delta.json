@@ -1,122 +1,32 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "Ripple (XRP-USD) Holds $2.51 as $5.5B Whale Accumulation Offsets ETF Delays and Market Selloff - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzktWkZFTzcwU3Y5RFFWNk85aXhYWHhpSTlpeElfMWVTSnJjNjdGbzVXb2c4V293TWJCYkdwUFN6N1BzRm0wLWtqLTRjZk84VWZiS0hLMFgzYTg3M3RrRHVEOERBRFJFUFduczhCanNMamd1YmVMQmdOTXNiN08zM1B5cUFxQ0lrS2FlaGFQOHlmcWdKZHB1MFhwa3NJaWxBTUhNd19aT20wUk1WaWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T20:26:34Z",
-    "hash": "d2dfeca70bf3c0edcb47cf23b247d8a17940aeaa0de98754104a2df26bcd6dde",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk to acquire Akero Therapeutics for $5.2 billion - drugdiscoverytrends.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0UwLWJpQ2pkRjZaVUlQT3lYWGJFNl9VUXhQNnZiQWJKX1dxMTRZUV9RdE1oM1NSWEkwYU1aU0JnQ3d0NDJ6WEJjdjdZeTlFdUxPVVBzYldQWmlWLWNRRk1VR1ZjNW1yYlRZSXJVVzYyZkJyUjk0Y3ZtMDRObXFkczhCNlhCTEJ5WW9ZTl9aMzBDUTJJU2tvb2E4bw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T20:22:44Z",
-    "hash": "e1c2da23812fd2a379aa97ac5f41ec705c037e82980d8060efc51f0018f9cbd7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer continued losses for seven consecutive sessions - MSN",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVE9iTWV6dkJKU29sbmRGRFphc0JSbk10TXM2SDUyNVBCWlhJWmNlSllvaFpVeHBUOV81Rm0tV2gzSk5zQkdsZzkwcWFGMFc5UnlrRENIODQ1bmdUeG85T1FTb010WU9GOENGTGQyMDU1bEpoNEV0R3ctNlBhNC1wZGxHVXBoMXhVOXdadXdNR3JLRGhaZVMxeWpOMVVrLWJUWV9pMWlVMzRPckpDOGdGdkozUEVKYzVRSzRSd2NzM1lpVUI1U2E4R1ZlcEhYbzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T20:22:14Z",
-    "hash": "73818aede1f421cbc4673bacf15f3e5149b66e859378906d27f568b3cdcc393d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price News: Bounce on Powell's Remark; K33 Sees Constructive Setup Post-Crash - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcC1vU1FJdkw1aWlNeHhrTEdSOG9EZS1CYk1WZGtoM1R6RWFWUTRiTTRwYk16ZzRvaVh1a3ZsYTRfdUw0d3B6MlBla0xjR1BsZkY2a3EyekE5ZDFDejk2WHI4emxBdXprV29iODdSUjdVNE5zVHFGRnd0bVpNdDRnYS1iM0pYOHpicnJzLUZZZ1BiUjdwTWtjVUlyeGVvdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T20:21:25Z",
-    "hash": "66ec0bd8aa3d6a808bb8a2281afdd03ef524c026fe59142b35a066b8e3fc60c6",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Soared - Is MoonBull Next as the Best Crypto to Buy and Hold for Long-Term Growth? - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjJxandwOUhEQlRnUXQ5N2tOSjZXdV95aDhIdW80SEJkR0FIajFFQTJpU3RIWU5OOTZ4anhRdTdsMS16bEIyc0c5anN2T19CS0dielpPNVJNUDF0RnhkbGNSZ0k3NVJtenp0QmIwbHVub1h0UEc4dWY5YUZ3SmJENW11bGd5MDJsb2dGSlQ0cWdLU0pRLVBwMWV2aGdxeUsxMktn?oc=5",
+    "title": "Solmate Buys $50M in Solana Tokens to Power UAE Infrastructure Buildout - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzF0SEZoSURNbkd1RjRnZGFBRjFNX1oxQi1PY0pEZS15Y0xEeFRHamlBSTdSYXJsckRHa1VUQnRPbjdwVTItMUhoVFFldXBHMmhXMGZqRW9mMm84OEZMZ0h6M1VnLVZfcWVJeWNwNzl0RmlETXBDVVVvM3NocG5UUEM2a1cyUE9sakRidTh3blVrYjBaTFpGaENFeHU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T20:14:42Z",
-    "hash": "85ae31807deb7897f5a7ee24d55af2aa76412fb05a2f80651002a304ec9311e6",
+    "published_at_utc": "2025-10-14T20:37:10Z",
+    "hash": "6d1cd48d96ecd9f1b221b8103cc25afc5f6f1bc47029e5cf7212e14c17e7e1f5",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "CME Expands Crypto Offering with Options on Solana and XRP Futures - Finance Magnates",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSG04VEFJLUlqMDdpZWtQMG9YdWxvNWs1MXhJUzlsc0RpY1ZBN3NCSmdwYzI2VTlwTEgtNGxPQWM2OVR6aFR0bU9JN1VYYllSNElfaVl6Rm8zX0JEdjJzSWJnOHVhVEgxb3piZGhndE4yUnpvQ0dGdEpVNHpNcldwWmh5M3g5cGMtU2Q2c19DekRWUnVhN2VKTUp5XzltUmZqQTNPQVZqUjVMNm1QaGZZcF9QMXnSAboBQVVfeXFMT1ZRSzhfRFpNSEowNlAxTDg3NmNKeVNnQi1YMHMwN09TMUR5VU10WWhPZGdwMW9qazdtOUNvTzdMMFlwbjVOT1RtbmZjcHRmSjAzczlUUjFUMlBLeUdjTENSbi03VnkzZm5qeEtIaDY3eGNPMmxkUGUxQzBjeUtHMjZvU2lwYjlkQV90YVFHbmhVR1V2bWJmd3JvSnI0bUtrSmx6RXRDQ2ZyWUU1RWxGb29hRURUSEY0WUR3?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Dow Fades As Nasdaq Plunges As Trump Threatens 'Retribution' On China; Nvidia Partner Vaults 30% (Live Coverage) - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2swb3p1LWdmaWVVU2g3TV9FNkxObFZlNWNCUzV4LWpYcGx6Y2lxTGV0UkNuZnlETmlXS1VISU8ycnJNSGZIdXozWEdiZWpsVDhaSGpuM2lTa1pOQlpZOFNHZkNoVE8xSkNOelozNFA4MkU3X2dCTjZ3R3JqczZzLTRxYlNLWEFpUzYzaFFBdGlNX3doZGViVlVlZ0txMVY5aHZJV09id2dNam9YUHpYNW1nNHRoRU0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T20:11:22Z",
-    "hash": "b7171430ebd4f72dc28afe4eef4dea060716175f7ab21314f016184762038ba2",
+    "published_at_utc": "2025-10-14T20:37:00Z",
+    "hash": "23409c1d654ebd4547f4fa9db730d9949a766b41df93545c2513e9f428127c91",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "CME Expands Crypto Offering with Options on Solana and XRP Futures - Finance Magnates",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSG04VEFJLUlqMDdpZWtQMG9YdWxvNWs1MXhJUzlsc0RpY1ZBN3NCSmdwYzI2VTlwTEgtNGxPQWM2OVR6aFR0bU9JN1VYYllSNElfaVl6Rm8zX0JEdjJzSWJnOHVhVEgxb3piZGhndE4yUnpvQ0dGdEpVNHpNcldwWmh5M3g5cGMtU2Q2c19DekRWUnVhN2VKTUp5XzltUmZqQTNPQVZqUjVMNm1QaGZZcF9QMXnSAboBQVVfeXFMT1ZRSzhfRFpNSEowNlAxTDg3NmNKeVNnQi1YMHMwN09TMUR5VU10WWhPZGdwMW9qazdtOUNvTzdMMFlwbjVOT1RtbmZjcHRmSjAzczlUUjFUMlBLeUdjTENSbi03VnkzZm5qeEtIaDY3eGNPMmxkUGUxQzBjeUtHMjZvU2lwYjlkQV90YVFHbmhVR1V2bWJmd3JvSnI0bUtrSmx6RXRDQ2ZyWUU1RWxGb29hRURUSEY0WUR3?oc=5",
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Our Siemens Union Drive Lost. But We Need More Like It. - Labor Notes |",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHJpS2JFOThKN3B5d01fcmRMRjM1bmJTTlhhRjB5Yzh2VkJjZ0FNQUlMUF9FcDRVM2VfQlROcjlFcTdKTUNWSVBzU0t0ZXBsdHRPbnJ4bXdEWlJsSFZfYkhCd1MwaUVESXQ3eFl5ZFhNS2JaUC1vak56am1EMTlieG9zQk5mal9l?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T20:11:22Z",
-    "hash": "b7171430ebd4f72dc28afe4eef4dea060716175f7ab21314f016184762038ba2",
-    "source": "gnews"
-  },
-  {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "BASF downgraded to Sell at Berenberg with more cuts to consensus earnings estimates likely - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTUhyQkdfaC0ybXpoY0Rydnp5SC1vaXQwOXNobm5rMGxQZl92RmhXNmlfS3RfOFlvNDJmODRHZ1haNHg2ZVZxSjBxRnpXbnd5WTFwVmlvODdQajA2LXVLX2c4NzB2anBjRjZobHdqUXZrWUZZNDdRcDNmSWpEM3hLb1dlblBwOEpuRm55dE5FdF9XWm9iVzEzOHkxQWQ4UlZIRXFfUTdLd3ZhVUlCYzNJenlmcW95X0taMGRhSE52Z0hxYTN4NlR0VGlDQnNfQ2xGSTIycUl1WVdkeFVIVHhnVV9LWXRCbDJLckd2ank1YTVmTVdUb0NsRHg2aHRkakE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T20:01:57Z",
-    "hash": "f527a3989d277c2f4cb78ecf39861544f6754adcd6bbf521498d1d355b61cac9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana traders’ favorite metric flashes, but is $300 SOL by December possible? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRDhoZzFrYlJqa1huZ2ZHVDU2OUhwUTdlMmpLYTJsV1pmb2tzbW9qRXN3VjBQWVpCbTUzWU5VRFZuVlc0SVNuZEs0NGxJZFBfaExQSHk5c0t5dnJDcU13Q2NkTnhVZTl4eDFWZUZCR25CZV9GNXNiVzFlcUxYZGdJbFp2SnlpcTFlSExuWW1TNXFpcFNvcGtwTEtFbWJXRWVldjc1ZjJVY0FvVDg3akVyMGQya0t2QVlVZmlod0dfaUFfdlNZLXlOdEJ4c3ZPUko5ci1FcQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T20:00:33Z",
-    "hash": "46344d6267f8ba6655b0a502e51d3bd12044706c01c66dbc6423266c810c744f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP and Bitcoin Cash Spark a Comeback as MoonBull ($MOBU) - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkhGbk42ZTdNX1BkR2F2V2lQNm9ZVWozbU9PY2xDbUtSU1NwTXFXa002Qk11NjlaY2x2UkdhWDN3LUJkbUNSRG5EZGNpbHE2blN6WEwwaWoxS2ZOQjRFOFFXSGNqODMtSGRKVTJCQXIwVC1MS0wtWVdvc0h0dm5lcEc3UGJjbFU5RW1QUmVaS18yRWty?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T19:55:57Z",
-    "hash": "42380f5725b17feb9d92dffb2cb06d4d15c7f3ad4e29001bb489fcd2999f5902",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Amplify's New Ethereum ETFs Turn Crypto Chaos Into Cash Flow - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2JsQkNqbk1mSzF4OFBrMDUxTXF4ZUVCcUxpdHEzV0V6ai1Pc3Fud3p4NTBZWFJidHR3dEEwdkFfQVZsckFaeXBkQnlfVExwUnNla2NqczVFNFY3alV3Q1F0akFvUlc4ZjRnZUR5Y3YyNDRRRnRCblIxVkxoYnJRMUhrM01iVFFFZmNTZ2hPOG85WGNMckNZcmFsY2N1bTFTamJIUXdNR182dlRmRFFRanJGdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T19:51:43Z",
-    "hash": "5c197048f7f0d29c905839a966cc845456eb51cc3a163b9756a7315e65f28f42",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Targets $0.85 and TRUMP Coin Gains Buzz, but BlockDAG's - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVA5bjk1Y0pfaTNrUEZ2UTlDVTFVNXpoQVQ5SWNNeFc3TTNJV1pqblBQWVNZcWxSZVB1dzRsVmxnQmotWkNpX0EydXpZcWZjTE91eGxKSC1lbmNFanBDbEczRUZuUUlxenVuUU41MERVRXNCVVNCOWJkb1NHOVNRbHB4SVV1cnpiaFRaNkwxSUZuS2FpaHpwdA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T19:50:54Z",
-    "hash": "850ef1c2b1f8cfbe9ed250f7782b543d521d48e64dd03590e742137a22c95876",
+    "published_at_utc": "2025-10-14T20:34:48Z",
+    "hash": "be189b46cbd5661a620e3861076003b2a08d5e2246ea4659e97d13c73cabf593",
     "source": "gnews"
   }
 ]
