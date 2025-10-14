@@ -1,162 +1,62 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Could Be on Prowl for Prediction Market Acquisitions - Casino.org",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFFpZzU1TjJITWpocDFtd2tqNDRKNUZYNkVuVXpxalVwbGNPcXJxeVM4QzFISURXRkdVSGVka2RKUUlyYVY2YzVUR1FORmI1ZEhwVEtXQ01iaDRBLXVPYXdtbXZCM1V2RGt6cFNWRk5RT2d2cHdSeFZyaWltTG5wcnRHV3Zkek9nTk1ZblZZWHAxSTBpMlE?oc=5",
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Black Forest Labs : Zwei große US-Investoren wollen offenbar Freiburger KI-Firma finanzieren",
+    "url": "https://www.handelsblatt.com/technik/ki/black-forest-labs-zwei-grosse-us-investoren-wollen-offenbar-freiburger-ki-firma-finanzieren/100163069.html",
+    "summary": "Einem Bericht zufolge leiten Salesforce und AMP eine neue Finanzierungsrunde bei Black Forest Labs. Damit soll der Spezialist für KI-Bilder weiter mit Google mithalten können.",
+    "published_at_utc": "2025-10-14T02:52:44Z",
+    "hash": "a98d2e6d1574057ac75adec79f004fc447b09ef76394f841494c8fd85ce92141",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Sends Clear Message To Investors Ahead Of Earnings: AI Isn't Killing Search — It's Making It Stronger, Says Gene Munster - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPV1kxdG8wUDhpQ0hsMmxjd2R5RUw2VlpES2F3dk56YU9kOUlDdVRXNkdLQV96QmlweHhFWmJFQWs4SW1QMi1Kc3g1MWxJQUpYMWtPUTlvY3B0LVpzUWd4YTBzeDZhdWcwX1dScnAyTnVyOXRzM3lQZ1E5YlRoWG1jQ1Y1bUxUd2xvSm1JLWxxV1hEYnVYVEdvYnpVZENkLWNKZ29jelVTeEEyWklHU2g1WXR3dnVvMGNhZkF2OV9xOExLUTR6UU1vX2x4VXBKaFR6TXRxbVd5Wk1kR1RyNnVSQWpzOURWX1dfdXpReGZickVhNG9TQkNXX0tabGhIQ0c0M1pGdQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T01:43:35Z",
-    "hash": "1a150f9192fb683864418f8d70f19de9cf7b3527f9c0e8afbf8cfa0d4b42337e",
+    "published_at_utc": "2025-10-14T02:37:40Z",
+    "hash": "a724023d5475f19fbabc53fd637b7f52a4992eabbc1cbc68232f09d64e0f7f83",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Consolidates As Ethereum, Dogecoin And XRP Extend Gains: Analytics Firm Says 'Significant Upsides' Possible Long Term After Recent Sell-Off - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNajJEa3BtcTVpNW1Rb1l4R01ia1U1YXgyN2E4OEM5TkRpV3VMTW9sOVlrSGROM0ZaY1o4aUFtRGthb01hb3lneE9mSmRQSFoyanhQUmdkbktkelpJNUJzMnpoMndBMXhoenRPaHdyZkpUUHFOZWVRR1g2dllZOVlNTnJ6eGU2WUFZZnlYdm9fby1sMW9LN2FxcEMtbm9PT0xYRzlMbDZ1M0IzdnJSS09GV0YtV1JOQjlCNzhqS0Rud3lUWGZobWltMnY3Q1Q0c3hVd2xjX2h0YlZQTUxPTjM2VnlRRGxtZDE1UklPVjJmUEY0R1ZBY3VvOUVpR0hjeUNkUkdNRmtQZEp1V0Z1aGRfT0cxME5sb1loaWVJXzBtbmo2ZFU3MGVHWTM3N2VBZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T02:29:01Z",
+    "hash": "81f7cc5e7a2aac5d61bc1beb451f21663ef9c6aa3ab3e52b6563455099203e64",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin Consolidates As Ethereum, Dogecoin And XRP Extend Gains: Analytics Firm Says 'Significant Upsides' Possible Long Term After Recent Sell-Off - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNajJEa3BtcTVpNW1Rb1l4R01ia1U1YXgyN2E4OEM5TkRpV3VMTW9sOVlrSGROM0ZaY1o4aUFtRGthb01hb3lneE9mSmRQSFoyanhQUmdkbktkelpJNUJzMnpoMndBMXhoenRPaHdyZkpUUHFOZWVRR1g2dllZOVlNTnJ6eGU2WUFZZnlYdm9fby1sMW9LN2FxcEMtbm9PT0xYRzlMbDZ1M0IzdnJSS09GV0YtV1JOQjlCNzhqS0Rud3lUWGZobWltMnY3Q1Q0c3hVd2xjX2h0YlZQTUxPTjM2VnlRRGxtZDE1UklPVjJmUEY0R1ZBY3VvOUVpR0hjeUNkUkdNRmtQZEp1V0Z1aGRfT0cxME5sb1loaWVJXzBtbmo2ZFU3MGVHWTM3N2VBZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T02:29:01Z",
+    "hash": "81f7cc5e7a2aac5d61bc1beb451f21663ef9c6aa3ab3e52b6563455099203e64",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Why the World Needs Crypto: Coinbase CEO Ties Digital Assets to Economic Freedom - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVJkaEV1cUU3OEUtdWN6MGktLW9BSlhNWmZiWGdaNHNmZ1pEVmpINGNvM1dXZnVVUS1qaUszUkEwUk15X0Z0MU5PTTR6Q1pmNXpENktoTWNmVDAzM0ZmM2EtQjdQYlpMSnk0M0ZmWGM3aVM4Z0dBTUJubmliaU9qTHRGNXZMa1JpUkZpSkVLckYxazAzU3hQaDRGVlAtQ1BGc1dPbjNncDM?oc=5",
+    "query": "COIN",
+    "title": "BlockDAG on Track to Dominate Crypto Returns Over Pi Coin, Kaspa, and Worldcoin - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rM2s4bnJIS0dKYlFTaUpKYmFCLVk5UnlybkRqemdoYkstSGhTX3ZMbnhOQjZETGRHYlBCVFFMbDhqMGNTMEFIM3pKZGJkZnhjRlJkamdYZzJBVHJNYzVkMVIxdzg5RzQtN2pRMlQ3TVY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T01:31:38Z",
-    "hash": "63f7492e99d500b48a8d4897ccf0dc2cc0108c54d647f5005bd0ee1da60f97a2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "1 Unstoppable Stock Poised to Join Nvidia, Apple, Microsoft, Amazon, and Alphabet in the $2 Trillion Club by 2027 - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNDRWZUh0VUlsSnJ2anlyS2JtUTQzWG85VWZwdXZRcjB2QmVCNVFZNUhkVmdiUVlMV1ZPVXVOZ01FTFh3ek5PNzgxMGktOVZ4VERCQkZrMWU3OWFMMExOcXc2QzQ1M3puVVNuOWhZY09GTTJSbnFVT2RoR1k2OEd4ZA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T01:31:06Z",
-    "hash": "f8d39b1bb358e8fa0c5dc2e15ee5d4039273ed22193e6a8eea0350186afa28b1",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Daily Crypto Signals: Bitcoin and XRP Navigate Turbulent Market, Government Shutdown Delays ETF Approvals - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMExHTFNTTFBDWDNMOGc4RndKUENXanVoYzhHUUFZRkZkTDlqME5NRnNpeDlRajg3NEhvMU1fQ0NNb1I1dWphajhkcUlBTmNTd1ozOGp2QkYwdXk3cTFKanVTcmh6QWZCTHpLalhndWs5YjF3UU5nc0p4ODdhQXRuMndHZDg2N0YzTnZUVTduSnBGOHZ4dEpoWngzY3ZVWUlQQm15UEpDY2FSLTZidW0wS0RXcExVTzFUWmF3MHo3V2VnTGkyaG5DNnowSEpWbkxJWjYyaUQwVkFYVm5YNy1B?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T01:14:04Z",
-    "hash": "d9c610891e4ed60abe5220d2e39c048268c7d5182263ee67eb091dd806a8efa6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Invesco (IVZ): Evaluating Valuation as SEC Delays Solana ETF Decision on Regulatory Uncertainty - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSzVhTl8taVZJYnprTF9ZRE1zbnZkdGFvWVlyVG1EN0NRUnJOTllkdzh6OFhrT0hnU3JsTTE1UXRTVXIxUWdHYzFLZ2l3RWlhT2FINVdKYV9ZWnY2Q1NEN3hvaXhSSmVVT09nM2tXVzRnZmJxVG9qRmluVi1RclJrRHBhVG9DdHhXUHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T01:05:00Z",
-    "hash": "faba90d330d68d893a741783e67e4c54fbcaf099e587e31f732ef01ad0182ea9",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Key facts: BP sells North Sea assets for $232 million; announces share buyback; gasoline profit margins rise - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSGcxMk81MFpCOGZnaWg5MmlHOENxaXVzbkFSSTFFTHBnWDdTOFFnUEluckdYNkdxcUFYVVE0QzJwNGljb3FIVW5EMjVuMmJWVmZDZlZBUDVEZ0xPUE1QM00tRnl4R3JBVmh5Tk9QbzFtdG40eGFhS0x2OVZVYlV6VXpVS29hT3F3NTRaLTl6VXFmS2VZV08zV3pjbEhRT2RRRUc2d1llYTNlUE01eElVTjk4TkQzOUJONE9mRmw3dThyZVFzNFFZVmRLUy1YZEgxRjV3eTBpVXNZZzNhRDM0WFIxVzlVeV9qMEJOWjlJRVFpWXFIejZkd2xB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T01:03:00Z",
-    "hash": "da13fc40573dd2140e28668496aac4589e5ee62db99d48250f1cd0796b592b33",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "1 Unstoppable Stock Poised to Join Nvidia, Apple, Microsoft, Amazon, and Alphabet in the $2 Trillion Club by 2027 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDV5ODhhaThYR1JqWEd6dkhRMkNPYmRkd3kxZ1ZFSmZRZEpXSXFyOU5CR241QUpNc3I4azRfRGwwR2lzaUM1LWprWTRibUYzMHdWdFdmclJWaTFseHNfWXRZSXVUR3A0Y1ZvQ3ctZnc2V2J1WmVVT1I1T3VYSjhTbUZwc2x3NmJrVHNOTEFOUHpoLW1ueEpTeA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T01:02:00Z",
-    "hash": "820f7f5300ea3f67a4cb1693255f281460bc21c040c4ea48416dd4d4f2ec3b0a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Why Bitwise Investment Chief Says 'Solana The New Wall Street' - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMEROSHN4ZFpFN0phZ1dnSzlSemIwdmtqUzdnZjNGazlCMmJfV3ZQaWlDU3lsUHhmbnNmS0VqbmFYZE1idGN1aEFFQWRTVzBsdGlJd3VvY0ZMRm1tZWdoa1J1N1RnMWNTVzVEandsNmg5UERRdW1VZ3ptandVQ0xjWks1Y1BFdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T01:01:00Z",
-    "hash": "846ce121ae36ccf1f90fe6d5caef8aa5330ea6eabb099d9abc9334804fe76d12",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Next 100x Crypto: Mutuum Finance (MUTM) Joins Solana (SOL) Among Top Altcoins to Invest in 2025 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODZ4NEx3SFkzd3BJQlNia0FONFVnUkM0NlBvWlFBSmpoSGhnUlYtWDNJclZJYzFCRGxyNWNObElHUGpHMWl1RHJJUG9QSm8zNlo4a1A3NkRONWF4MW5tV1VzbVd1c3lKN3BDTlp0WXh6Uy1MVzBkd1g4UEZjTjB1YjMxT0lfdHl1UWZ1VFZzTWpzUFZRN2JSVEZBTWRlWWdwaUhFbnk5WXhEbE5wQ2loekJ6YXZVd245Q0llWjJn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T01:01:00Z",
-    "hash": "74c74c6f677c67bbbf296ac15606139ecab7367353ade688adac965222bd7703",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "CrowdStrike (CRWD) Valuation: Assessing Fair Value After Latest Momentum in Cybersecurity Shares - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVFvYmJyekctb1FkOWVTSVl6ZWd6cW9BME1iLW1ZUWhQbVUzSUVfMkFMbjl0U1ZjbVNQQUpLVEpkMkw1M1JVSjRIUDBQZ1FBUnlDNTE5LWpvSEZMQWhtRnNPb0tYbUo1cURKMWtzRzZiVE15OE56REttOVhqQXBqdk9JZl9mVDNiVnJxTHJKRURCMEhsQlo0QUtxWDh5b1ZUdFJ4MnpXNGlMdENCakl6RHNxU0NxLUFLRS1xYzAtcEdrWmpZM05BckQ5VXhwLWdjdnUweUx6RXItOVXSAdsBQVVfeXFMTUlRb2JicnpHLW9RZDllU0lZemVnenFvQTBNYi1tWVFoUG1VM0lFXzJBTG45dFNWY21TUEFKS1RKZDJMNTNSVUo0SFAwUGdRQVJ5QzUxOS1qb0hGTEFobUZzT29LWG1KNXFESjFrc0c2YlRNeThOekRLbTlYakFwanZPSWZfZlQzYlZycUxySkVEQjBIbEJaNEFLcVg4eW9WVHRSeDJ6VzRpTHRDQmpJekRzcVNDcS1BS0UtcWMwLXBHa1pqWTNOQXJEOVV4cC1nY3Z1MHlMekVyLTlV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T00:53:03Z",
-    "hash": "a88fb1bd4d59994a5ee06fb94470d69a8b5b8c74352900632a2b2ada74d1445d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Grayscale Updates XRP ETF Filing—GXRP Aims for NYSE Arca as Institutional Demand Accelerates - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjZjTFhGUHRoSjczbXB4X2l3aG52bkduTVE0dmJETDNKbThDSlVKOFhyczRJQ05qYlg4d0VUd3BtOHpNRGtvQU01R244dTU4SGVWMDczQkVKdGV0VF9aWDQtNWFESklzUUJDZHpaUXJnaExrMlBwMDFQR0VaclhCN1BKc2VIU3lieFhvZ1JsaF9wenhpR3ZnMEZoNkpXZE9tMTd4djhWb3ZTcUdFWTh3NWZyYVJJaVN6Unc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T00:42:18Z",
-    "hash": "20072bf3a87e14e465891d60e784185fabe1fc1f1e9b209784029413a0b96826",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Key facts: Solana ETF decision by October 16; SOLUSD below $200; Q3 2025 altcoin gains - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV3k2bk43V0NyLWk4THRES2tTekJzTWYySW5tUG5QS256NHZOZUw3OWxEd1dTMGR2dkY5YmF1czJYUjI1MjRndm9ZWl9lcE8zRzVIeUlhZXAxN3NJMWgtUU1PYll3RTA2TkRpQ09TLWJjR0FFRkhEVEhnT1RfeVplTk5ic3lYaG9LSFFack9PY3g4eWFWNHI3ZGluSEc2Y1NMZWdMNkktY3Y1aGNWdmlib1VER20zNWkxWVlWdTVhOE9rV0hUajlrSnpUcXo0RFFnd3BtejZpcE9JNW51?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T00:03:00Z",
-    "hash": "e34796c0475954fb901366cc5845e53fa4e64966ed7570114695bbe59a7a10d6",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: Spot ETF Buzz Builds as CFTC Options Launch Fuels Bullish Momentum - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWlraVJmbXByQlh4ckZQMWtzbXJLMGJnRVlSWm95cmxZNFBubEhCMFNaOW1QcnNXcnQzUGNSUngzUmVpOWNtcTlaUFpac3g2bkNVdWQ2enkzNGlnQzJVSkMzUVBleWFBWjY1MzVyWjdnUlNSaWlFUTRjVjVKRk8wZGI1MnJfYXZvQ2RzVHFQSm82NFQwN2t3VXFaTFFrTkJKQjBfWmd5ZTRMTk5WUm9zOTRUVkV4U21xRWFUSHA4V3pzYTBYT1ZBQXp2SEY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T00:02:00Z",
-    "hash": "84286806852e6dbd2cbe5a43ae2b17e6a95ffc53d7794f6631472bd2abad372a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Cardano, Solana, and MAGACOIN FINANCE Head 2025 Analyst Watchlist - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0dVakM0QU42U21SUW1CeXpuUWw3bWUxSDFHMEs2amR2ZzQ1VTVEWUVXUTJ5cV9veHhIWWM1N3puMkxTYnpBT0ttMjJsakJ0Mk02Z0ZGQnpzU3FEbzZ5d2lIckhxYWhuR1JpTWFKYTlKUktDMi1jQlZCVDkwbGNJR1g4QjlpRUMwS0hRaGlCWlZIWFpRczlWQVZNdnlGd2NubnRpUjRvSkVxVENzVi1idmZwZ0hfdTA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T00:01:32Z",
-    "hash": "772849d1649a37f734d330efdfc1d2d25ecea3d1f3beaf415fb6ffe447ec1431",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto Market Prediction: Is This Biggest XRP Comeback in History? Bitcoin (BTC) Breaks $115,000 Like It's Nothing, Shiba Inu (SHIB): Not Adding Zero - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNMTI1cUdzaEFWR1gwY3FtbTA2ZFlYOXFoaklVblprdThORUtJbkFjZHJQckJ2ZWRIUWtVZS05QTJSUU1pcEVxSFN4ampvTlpKZ21yUnFMVEV3M0dNbmRVWnltT0RmU0J3TmEwaEFvYWlQLTB5MDdWNFVJVHdocGhNVE1ScWRfbTRyejJpTmQyUFo5WUNyY0d5cDE0YXl3QkJ5SGlSaDlvWEVBLWNOeWNOZGo0S2wya25GZWNZc1I4TDMwb1dTcmJGLTlLYkRLZ191dW1hQ01fZHNnaTZfZ3hZcmlQcHRVbWoyM1plSnZUanBucDVucmZwTUNudHBEVzJKdy13bHUwRDVOUW9kbEt1bXBWOUhpNXF0WEJOZFZMWmlYc0Yy?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T00:01:00Z",
-    "hash": "f8358f1d3191bca55bd3b11597c3e788fe7ec14ae12c704fa9ced7d5a7f483ae",
+    "published_at_utc": "2025-10-14T02:22:24Z",
+    "hash": "aa9c9637291bdaa5d98e51212554e9e9cb8b5189a1b0cf466944258918ed0b08",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Crypto Market Prediction: Is This Biggest XRP Comeback in History? Bitcoin (BTC) Breaks $115,000 Like It's Nothing, Shiba Inu (SHIB): Not Adding Zero - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNMTI1cUdzaEFWR1gwY3FtbTA2ZFlYOXFoaklVblprdThORUtJbkFjZHJQckJ2ZWRIUWtVZS05QTJSUU1pcEVxSFN4ampvTlpKZ21yUnFMVEV3M0dNbmRVWnltT0RmU0J3TmEwaEFvYWlQLTB5MDdWNFVJVHdocGhNVE1ScWRfbTRyejJpTmQyUFo5WUNyY0d5cDE0YXl3QkJ5SGlSaDlvWEVBLWNOeWNOZGo0S2wya25GZWNZc1I4TDMwb1dTcmJGLTlLYkRLZ191dW1hQ01fZHNnaTZfZ3hZcmlQcHRVbWoyM1plSnZUanBucDVucmZwTUNudHBEVzJKdy13bHUwRDVOUW9kbEt1bXBWOUhpNXF0WEJOZFZMWmlYc0Yy?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T00:01:00Z",
-    "hash": "f8358f1d3191bca55bd3b11597c3e788fe7ec14ae12c704fa9ced7d5a7f483ae",
-    "source": "gnews"
+    "query": "GlobalFeed",
+    "title": "Ex-Commerzbank-Chef : Manfred Knof: „Banken müssen ihr Geschäftsmodell dramatisch verändern“",
+    "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/manfred-knof-banken-muessen-ihr-geschaeftsmodell-dramatisch-veraendern/100158955.html",
+    "summary": "Der Manager erwartet, dass Kryptowährungen wie der Bitcoin und Stablecoins die Finanzbranche umkrempeln. Im Interview spricht er auch über den Übernahmekampf um die Commerzbank.",
+    "published_at_utc": "2025-10-14T02:15:41Z",
+    "hash": "d1d67a88679ae407ae03f656b22ee07bf9779954a2357bc1a3599287ed142a74",
+    "source": "rss:handelsblatt.com"
   }
 ]
