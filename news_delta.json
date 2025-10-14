@@ -1,32 +1,142 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solmate Buys $50M in Solana Tokens to Power UAE Infrastructure Buildout - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzF0SEZoSURNbkd1RjRnZGFBRjFNX1oxQi1PY0pEZS15Y0xEeFRHamlBSTdSYXJsckRHa1VUQnRPbjdwVTItMUhoVFFldXBHMmhXMGZqRW9mMm84OEZMZ0h6M1VnLVZfcWVJeWNwNzl0RmlETXBDVVVvM3NocG5UUEM2a1cyUE9sakRidTh3blVrYjBaTFpGaENFeHU?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Is Coinbase Eyeing BVNK Buyout to Boost Stablecoin Expansion? - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWUhtd0R1OEtSMWJCSF8wTDJ2R1J4S3RvODlEdWFDMk5yUnZLb0dCZUpKb2JzQ0I5ejd3d1JnRGxnQzJhSUdGQ3VUY2R4a2VDOWRjbzQ4czZhZGc2THJ0X3U1X2FaZlJKN2twVW9zeE50dUk4TnRjQ2dGV1FYNFZhVllwUVZxajYyTjlqNmRxWjFqNVQ2OVQ2UFUzVE1Wblk5QkN3eEYzaGhVQ21VWkxYM2IzNnhHd0hpeU5XTmJhRFU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T20:37:10Z",
-    "hash": "6d1cd48d96ecd9f1b221b8103cc25afc5f6f1bc47029e5cf7212e14c17e7e1f5",
+    "published_at_utc": "2025-10-14T21:22:03Z",
+    "hash": "26cc283e809e467322ebbdd6ee859c1fc23c1a54a0038de8a9b0fa55acf67eaa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer (PFE) Faces Continued Losses Despite Bullish Analyst Rati - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWtqb2FKc1p0NjRFWU5rdWNaMTRPV0VXam1WMHJuUFFaOGJQYmdvWElmUkNyN0t1YXhjd0ZGb0p1MEZyWHVzUzY4cndmRDB3LWJqWi12NlFiQUVOT21qRjZSckN4SFIyLTg1WUlOUlhHSVpjSVlNcWtOUk5Zc3hCWDYzczV4b3JKRWwwMW95VFJKRWhMbDUxc3NCTWgwd1JrdUtESnJmaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T21:15:57Z",
+    "hash": "6ddb11ae1d69428f2376b8d5cf2fbcc760073ef5ecfe7c6156a1c89939328276",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stock Market Today: Dow Fades As Nasdaq Plunges As Trump Threatens 'Retribution' On China; Nvidia Partner Vaults 30% (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2swb3p1LWdmaWVVU2g3TV9FNkxObFZlNWNCUzV4LWpYcGx6Y2lxTGV0UkNuZnlETmlXS1VISU8ycnJNSGZIdXozWEdiZWpsVDhaSGpuM2lTa1pOQlpZOFNHZkNoVE8xSkNOelozNFA4MkU3X2dCTjZ3R3JqczZzLTRxYlNLWEFpUzYzaFFBdGlNX3doZGViVlVlZ0txMVY5aHZJV09id2dNam9YUHpYNW1nNHRoRU0?oc=5",
+    "title": "Why Nvidia Is Shying Away From the ‘Lead Investor’ Mantle - The Information",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUVYOElmUzN3M0JtbWg2YjZYYWtUUTAyMkJEbnhkdzVaVFlDdXppdVlBUnZ6a3VmcGp5c1VLLXRPTDJibzJ6RVhRd05kMVd3WTBCTTRkTmtleGFjS1phb3VMM1VVZGRlNERCWTA3TVF3TTc1UmpldkhOM0Rvb282RkZia2YtZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T20:37:00Z",
-    "hash": "23409c1d654ebd4547f4fa9db730d9949a766b41df93545c2513e9f428127c91",
+    "published_at_utc": "2025-10-14T21:11:00Z",
+    "hash": "00d2c18a10d601a57b897f42602c26795d00bd84ddb8d97c6d62f39d92bfc530",
     "source": "gnews"
   },
   {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Our Siemens Union Drive Lost. But We Need More Like It. - Labor Notes |",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHJpS2JFOThKN3B5d01fcmRMRjM1bmJTTlhhRjB5Yzh2VkJjZ0FNQUlMUF9FcDRVM2VfQlROcjlFcTdKTUNWSVBzU0t0ZXBsdHRPbnJ4bXdEWlJsSFZfYkhCd1MwaUVESXQ3eFl5ZFhNS2JaUC1vak56am1EMTlieG9zQk5mal9l?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Broadcom makes bid to knock off Nvidia with new networking chip - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aZnIwanZIYlYydTdEcUtDSWhZeVpVSm01QTlWSFRCbXdFZFlEcU5NVFZRR1RuNkgta2d3S2U4Q0dKOHU3NkpsWFpCR0tVcXRBd25kMjFyWm9zdjBsODJyVHE3bTJBb1EycV9TSnZPeGl2TTdtN2lEYmNzY2s?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T20:34:48Z",
-    "hash": "be189b46cbd5661a620e3861076003b2a08d5e2246ea4659e97d13c73cabf593",
+    "published_at_utc": "2025-10-14T21:04:00Z",
+    "hash": "b409e8400ca5d0a061d4f4d0595a1e0f29d25d40cc7e42ccc4da575dfeffce3e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: ETF Approval Week, Solana Rebounds, DeepSnitch AI Presale at $0.01877 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYm1XYklBTkR2aEVqbTVpNFhZUWpzYjM3dmxSdjBMNkRpa3A2S1JGS0huQ21ZUXp0b0IyMUtIZkhLdE5ZeDlBTjlLRjlzemlJQmFaMHZXcFVTT2NKaDR5dzJzM1J6aURKQVllWndtTWFocW9ZajhLamFvajJJWnpRa2hUdGpVeFhQREVHRWZDN3FISm9tdm9ZdDAyUFp1Xzg5empOLXBsaEx0T0ViQ2NB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T21:03:04Z",
+    "hash": "e4f427a412ab943b8c4c06375e8a450900ed86795f48402901f0292278c13d66",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "XRP Price Prediction: ETF Approval Week, Solana Rebounds, DeepSnitch AI Presale at $0.01877 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYm1XYklBTkR2aEVqbTVpNFhZUWpzYjM3dmxSdjBMNkRpa3A2S1JGS0huQ21ZUXp0b0IyMUtIZkhLdE5ZeDlBTjlLRjlzemlJQmFaMHZXcFVTT2NKaDR5dzJzM1J6aURKQVllWndtTWFocW9ZajhLamFvajJJWnpRa2hUdGpVeFhQREVHRWZDN3FISm9tdm9ZdDAyUFp1Xzg5empOLXBsaEx0T0ViQ2NB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T21:03:04Z",
+    "hash": "e4f427a412ab943b8c4c06375e8a450900ed86795f48402901f0292278c13d66",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia’s (NVDA) Relentless Deal Flow Opens Door to $250 Price Target - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXg0SS14d0Rhbm9EblJ6WHF4eXU2VmJnOElmWlc2TkNualBPaHJseWthcE1KQ3VFSmFSTXJRRmNJNE85WDhhX3lpUDFBNk9yalp3TmRDTmg5SXhkbGhzdlJFZ09KUUw5VUFjZ094bUNNN0FHU3c2OGg5VXpmRTlhZ1FEd2k1R3lkV0JfLUNiWnBvUzE5U0N5TE1n?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T21:02:17Z",
+    "hash": "58cdddd7dbd67380324541404ccd02b6e716d04d89bac10c1ce659403698ca56",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab (NASDAQ:RKLB) Trading Up 4% on Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVR3UjJZejdGdTZKeHJuTEIyd0RrdXNhRTcxbUo2R3VGNzJZSUxmQWszVkVzTExiRTdWNmpXcEY0WHlFQjZKS0s0M1FSN2w0NWNLMWpRcVQ3ZDE4Q1BSRHloUXZybWVXQmpIYTB0VE1Sbmh1VG1hRU5KY3pObS1jY3pCdG9KZ1N2ajJEWGNiZWFCeGdPdXU3WWZjWDA3U1huZFotVzZ0Y1ltS2s?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T21:02:01Z",
+    "hash": "0a3af0771c637634c3eb3c1192fe91c517fa08589d9437ed1cbc4ef6c11f7a0a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Mean-Looking Ford F-150 Takes on a Stock F-150, Hides a Secret Under the Hood - autoevolution",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUs1U0V4MVZ0YmRWdXF0UjlhOEpTRFpubVd1bkxxQ3RWZGZWYl9TZVl2X3c1d29Ob1ZqNXlWSE1zYVhxTFlhcDBjQkw3X3VoUVpnTXN0R05rVmZfcmNqNXhsY0pZOWN6Z0lydHlkeE1HaDJETTZRaGZ3UFFSYWlNY1NaMV81NG96ZnJYQzhjUVI1dGhxdzM3bmVvcFM5c19KZExEb1pwaWc1X0R1b18ycUprWm8tWGdvNmFqbmk3b2E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T21:00:01Z",
+    "hash": "57b3168c08e714459d2b9eecdee609b4b8ff8f86271a4971bcbcbe54ab87ada4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Navigates Turbulent Waters as Nasdaq Dips Amidst Intensifying Trade Tensions - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQd2I2WHJ4YmJ1RGR3ckdCRF9oMTFlb1hiaGRBWmN3SldETGZDaS1IeHFreDBHaVgwTlhDQzVHOGRzZ0N0ZlRQdFFFWncxd3llR05qSW9EQzdqY19VOHJlLWlUU3ZadDVvUFZKQnI5bXl6X3VpQ0YzNFFVOUlDT2NDUWxnYWlvRklFdlFadUdFWU9QTU9WRlpsMjFnREpRQUdNWTdHRzh1dmdZNVQwNGJhNEtUNVpQY210ZF9nUThWN25hVXc1ckwyMGpJTWVkZFEzZm54cDY3LWFERzdweXA3TWNOYmRoLUl0NEhJUWxLUEY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T20:56:00Z",
+    "hash": "e4ddc0b1c5315c4a8c14f7f0129d430d9bdc7cdbd9dc53bb78aee0b17b7e100d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Swell Sneak Peek: Ripple Update To Hike XRP Price To $8? - DailyCoin",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3VqcTlPRzRFdUVLX1k2YmRsVWRRVkNNTGJFajM3LU0zcFhCbDYzRWY0V01jRG5aaFZpdE45OGM4TWg4MnBYUzdxT2dTa3c5Qm94WndRSXRzeDEwbXc3Mlk2SzBsSkN3NG52dnlHUFkzYWZUSmtNdFNZYUtlUWg5b3pR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T20:55:00Z",
+    "hash": "d0bb44e25ad875da32f87589c6851473d16161c3ab95fbdd1dfab38edd031263",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum Wins Fast Company Tech Award - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ3dDVmRpY0V0eFd5V1Z1RmljMDFHbG9nLU5hNGdHcDdlNDh5cm1sQzJQMlBXZjhEcTZXbWNvbnpHM3l2UWRDOXhYX2dVYUx5X2V2V3ltYTNQMnNjd1Y1WkN1T0NlbDRwNUpsWGVPLVVxTTlrbHJKRGRJZ0VlLTJDNkZKbUk3cmdRWFlPWjJOR3ZFRGJFMEluZy1MVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T20:53:52Z",
+    "hash": "895a49497da8848ecb1ea1a2fe592227f11949268bc4f89e12010d85f4718a2b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dow Jones Futures: Stocks Volatile On China, Powell; Nvidia Skids, Walmart Leads New Buys - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVDlIMDdsQzRaMTFyOFFDdi0yMUQ0dm5vLVVhdGlURVRpaWJ3cDVpT29CUXNRbk5helVGM2h1S25MWDVoTUd1TnNrMTJULVhjWnN6NG1VQU1iOWVEVXVxSWI1c2dtRTYtRi01ZU1lVWRjYmtXbEZROUNnVWs1MmUtTFhvMnIzUVVOeGU5RVZzMHJTeFUySWZqYjMyYk5Lc0tvTHJZRDh4TXlpYV9jYl9YUWtXcVFxTjJQc25DNF8tUXA4RVF2?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T20:53:00Z",
+    "hash": "fe2e5837b5248c884625afc76edd5c1a683b6196c9024b004f9fd5d269f8e0c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana and Stellar Gain Momentum, But BullZilla Is the One Everyone's Watching as the Next Big Crypto in 2025 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkI1ZlI2Vm83LWlsUVVDOHo5UHNMX1FuZjhfNS1IbWdVbkJTR0FHdGstMHVyb3REMEJIT0NzRkRIOEdwbTdGWVE4YXl0SmhQMXhOTjBWYndKRXVrc3cwY0NWaTVsOTF3Q01kWHNtMlh4VUlXMkpVU1N2YkRVaW1wUEdjNG9xdnB6QUNyNEE2ZnBGdE9Hank5eA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T20:52:37Z",
+    "hash": "d9572eeff758588c7f06316056c36b0665f5b0af5fc07ca671e6752e8e3ca37d",
     "source": "gnews"
   }
 ]
