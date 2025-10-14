@@ -1,62 +1,122 @@
 [
   {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google announces $15B investment in AI hub in India meant to drive digital transformation - CityNews Halifax",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQnhRYlJtck5sZFhSbHpjSzZsZzlNY0VYaWVWNUhGQ29LNXhaNWt1dVR4N1RaWFFSV3dkYzRxV0RDTC0wN2ctV1BkWVJpd1lISnVoQ3ROcGVBeEk5TE9CUVJ5OW9FQ1JOaUtCRmIybC1zMWttRmE1TWNYLTh1NW9HWHphcWd1MWxjS2xhZUJxa2pxSFNHUEd1X2ZQYkR2cnZFc25QRDVMYlZmdVJrRU5TdE1GUVRMeDRFcnZ6YmFqR2NMQzgxa2hj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T11:16:07Z",
+    "hash": "a8bc52ec664a8a8ceaa4ca8e543f140f8dbaa8c8bda07bfc42021a687cbc77de",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Investition : Google will KI-Rechenzentrum in Indien errichten",
+    "url": "https://www.handelsblatt.com/unternehmen/it-medien/investition-google-will-ki-rechenzentrum-in-indien-errichten/100163364.html",
+    "summary": "Google investiert rund 15 Milliarden Dollar in ein neues KI-Rechenzentrum an Indiens Ostküste. Was der Technologiekonzern mit dem Großprojekt erreichen will.",
+    "published_at_utc": "2025-10-14T11:12:22Z",
+    "hash": "090a1a6c0d50fa6c25133b892873a3cd13c0b99247e1d220e189fd7eb9e920ad",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Crypto Crash 2.0 Alert!! After record $19B wipeout, investors rush to hedge — Bitcoin, Ether options see m - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQUndESFNkRkkyZHRIcHJ5TmMzMWtGdDVRYVNWYVUyVTAzSGlQWUdRMzlraWlGczlJR0tjVTItVVBRM3JFNWZuazRkRGtrSXBZV2ZOSU4xTll4UktCX19KQUwxRktHRUhPdFB5UmdFUmdqTGlpUU94d1REQXZKclRXUkNrX2FBVGh1Ykp3enVqRm9hTnpXVVpoejBpT1pyUURZQnFvTzNrM3Q5Ql9IQjJ3TTc3dWZNanF5cjA3Uktfd05PUEZScTRUbVdDbTJndHJod21hMlUwdHItakZKNDRVbWhiWnZ6OGhwSU53NHhnVTlNYU9XQnR3OW1vazloS0xhQUt5RzQ4bVpfa1ZqdlRKczVIYmFkaG1fcG9FQnhTWGFmaFBTSFdxVEhuMjdha3I4Tmkxc25VRnpnREVZV01wbXZwTzFXdTlfejQzaHkwNkRZcXhOa2JtV2VvdzhTYXdidWdZ0gHoAkFVX3lxTE1STTlvc1NnWTNZVDFFak9rZkU2SmxNSndhZzZkdEhfMGQ5c3lROUhxSWdOcmJhczRVbGZzd1dQb2x6QTRKXzRnUldJWS0yRmpTdXlBZkFMSk9kdGY2Rm5vZXhDTGZMQWdHdDNhbm9iWldONXhqVUFwYVB1S04tbTlVc2lQSk84LWp4Q0YzNmNtZjdJWWxrSVVieWl1MkstZVhLSDVRaUhDNHNYMHZwTHo0dk1hZDRWZ2VTV0E5RGZSV2t5NnY0d2hDTDh3V2hKVmpuQ3ZhbEJVSG1vNlRidlA2SWtRa1FvQXV1VnZNby12emdndU5CYXB4bHJUcGF6LUlwcndBSXhhbWhhZEJ0Wk00Zl8tZU9PdVBwQ240UjlyTGx4ZVk3YllFb2JvaUJZRllXWGdZX09FbFV3U3FXRDd3Mk81ZFNSQXZpTm5IZ2hxblhObmlaTHRKOTVZdlk1RkFYV05MRFJsUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T11:06:46Z",
+    "hash": "ccd7151a739dcf74a812116422ba63f4341d58b7a977ad089568c9964ee9c81c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Key $170 Support and EMA200 Retest Define This Week’s Critical Setup - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN3ZGOG12d3BpT3ppWHhucDJVd1FhUE9QUE1tczYtckFzYi1LZS03Wk5ZLTNDRkRpSnFQZWljNnNPaDdJTmgwVVNqd1VNYkt6YmxrRTdDUkgzX1g1WmF0UzNUWnlZVDJEQXlFUUY5SFlqS0VpNnNHX2F1ZEZWVGhISXkzZlNKMVlQQXk2T3d1cXVVT3g5ZmR2V1hRSE05WmZvOXBmSk54RXprX3U4Wk1Fc0tja0ttVWxjWjRuTzk5bnFLdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T11:06:14Z",
+    "hash": "80d1f3deee27d1ab439faed7beeeb8bcde017a0c672781da678d3006b35a7127",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Can XRP Price Reach $4? Here’s What This Top Investor Expects - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWZHNmQ5a3kxaE4xZmhENE5oZ0pCT2VBOTR4anQ1TEV0Uk1kcWFwdElDcXlSTl8wYl9JYlA0M1JITjItcjlaMDZEWW1tenlVNG1DVTNyelIwT0RuT1EwamRXM3pVUDJNczl0eGJSZkQ1aWp3TVlmZEt4ekdBcUx3Q1ZycFhxWTFKS3RHM1BKNDMxUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T11:02:42Z",
+    "hash": "717ee8702f8fcf3a078eb95f72514faaa8c6ec4006653ebf0ed7c51f567aa072",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction 2025: Ripple and Cardano Face Market Pressure, Why AlphaPepe Is the Best Crypto to Buy Now - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdHlmWDJiNktQT1FGOWxJVnVtbVYzVTJOTC1hc1BjTW1pTkZnVE5xdXNhaWIxVkdwXy00UzVJZUttamtSQlpoNkZEZTFkdHlXRVdPUFZhSGExdm93NWxLa0gxQk9QUDVrQ0VEQ1RWeDBCRjRVajhqTHBvLWhrRlhPU0YwX0Fza010elZqSy1HMzRMWF9VdlRqd3dfR1ZLdjJYb0VHNW1sX2dYOTM2QW1HRmJpVUdXLXFVeXpWTm5say1VaTE5UEVaVkI4eFFxV0k?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T11:00:11Z",
+    "hash": "3ecd7a25e83ddf7a5419c3d429c129cccb669c201c4f2f9bb00305cfba7c3ab0",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum Joins Q-Alliance for Quantum Hub - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3dPMGdORmE2dmRlc3dMdzFGYWtETnJNbFJkdmVYbnpzVUozeVZ0SEZZZndZVC1PSzhORGVxUHVTd2kzN1c2ZDFqSzVIX2hNMXk0eEhqWmZkQXB2OXlfNk9YYzI1SE4xOHV3dFNRVFpiZDZOcHBZdm5wa0sxalNXMlp2X2VfMnh2MjBSMHA0R2prZEhyeDN0dDY2c0FkT29s?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T10:57:40Z",
+    "hash": "4be9048825a036d4f37b8c96c4f29d827b308e13d1b173d0d9643e674bf3d8c2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer’s breast cancer drug shows promise in first-line treatment - Investing.com India",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzQzZlM4ZVVoSzd3SVVEZk5fazhKSUZzTWdtYkFIclhBTC1SSTlLU09NTHJtVjY4dTZqZDV2UExDOUxpbm9mU25ZZV92bkllVmV2UUItNGJsTUllLURHUnh2dEpLRm1CVHIzSTN5ZmJXbUlmOVN2TWRoRnhlRm5Uci04NGRyaU9aUEVsSl9wbnBaMnJDZE9Kb21fQk9vc1VTUElQZ3dvaVVIWFdkN2NfMU1MS1M4OUtwU2Yw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T10:54:30Z",
+    "hash": "8de36ecf3a59da9484a77678ecb576a7f1c066f557950e066b2cc646dd4f987b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP ETF Launch Delayed: October 19b-4 Filings Are Procedural Steps - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWpsZThFblpIdC1oY1JzU1huRE9rYnhMQjNZbjZ2cEN3TWh6X2tlNjc4SkZOZnNSUkR5Z3piQTB3NUlMRVZpRURNc0xtVXNaTUtqVl9WaHp2NkR0ZFNLaERhWVJyN0RseDd6elh6bG0xNDJWektjOEJFdHlHcm5aNFFSWDU1a2tQaE5EOEktTldMWWJT?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-14T10:54:19Z",
+    "hash": "8c8bacfb5161dbbab7de38017e8103f5af1a1535a09687d4471a31f66383ff4f",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Navitas Semiconductor Stock (NVTS): Soars on Nvidia Deal—But Can It Deliver? - Value The Markets",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2d0TDdfZTFLZWpfQ2tjU0pNY2RkSjMxX3ZKd3FROXFGQVozcllrU3gzZzNFWDM3T3FBYWtWeDJVTFcxdDA0Yy1EMHhfU1BRX3JiUWY0UXVpZVBtSVpTVlpxRloyOVczNTRKWHFDdGIyZ3NMNmltQ1RDMTVYRE0xQW05OHZiVkt2aWhmWHc4RXFwYnkwZ0JoaDVn?oc=5",
+    "title": "Why Nvidia stock could be sensitive to a correction in coming months - Fool UK",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWFZPS1FhNUx1ME1hTjRTQ2E5QU9MVnh0QWp1YlhqU2VVbGYweG1QZi01c3ZFNGNaNXNUaWpCYjdYLW0zQWt3RWkwRWhiQkRWektSeWtjbGxaUjFOMjVGYzMtTmpud0dOLTlYRGZ4UlBlTURZSDlXMXVKUFRVQjJMZlMxOWlqWWtFSF9hVEZRemdfX09tQjNxRkdHZ1VBNzRDVXRPd2Rn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T10:44:19Z",
-    "hash": "7433b80ea3bb1259bf79cd36a253df0cbf764e626f3ba5c0fa7d553fe37f31d5",
+    "published_at_utc": "2025-10-14T10:54:00Z",
+    "hash": "bf69872f3d49af6cc6861d60b38df6efd534c49cb6b7f0a805dab0d1685f777a",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple (XRP) and Little Pepe (LILPEPE) Price Forecast if Ethereum (ETH) Soars to $7,500 as Citibank Predicts - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGh6ZmxDY0tsazNGZ2UzUTh3WHowMHgwV0ZwcWNiUk1aQXpVMVNCQXI3SkloSDVMMWRCTC1YRWstTnhqTlJnOVNfTHJ5MTVIMHV1eW5UNXNTUDgzOHFTdUd0UklKRF92eW55TTNYdEs0d3N5a0J0cjlad19HbzAxQmZXdDVhQTR1TklkalpBWGtIQQ?oc=5",
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet stock trades lower as profit-taking offsets optimism over AI investment plans - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmtTQWp4TzFTU2lEeDdhZ1FDMEFQdDhfdm9MTkdYNkdLT1dLSFYtaFhqV2VpNk9CRXdQYjNvSm1IZHB6bWlsTXF4ajJtYnMyZk9uRzlIR184XzFJMnF3ekV2N05sckZYVG03WUc4NmZnNFdkTGlYV09MeFFMQWxlMDU4dDNUUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T10:43:32Z",
-    "hash": "0716b513e90d59510660c634af266f3baa7d666250ca7df61454bfa6b5029acf",
+    "published_at_utc": "2025-10-14T10:50:51Z",
+    "hash": "a1d5ba488b4da2ddac54969692bda9aacae1d4b41866f888142fcf5e6b9a15fc",
     "source": "gnews"
   },
   {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever: Magnum split could unlock value on both sides - Proactive financial news",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPczh1bmNudEYweEZoODE3ZC0zNmlDMWVPbE5jeU9ISGpJRmpBUzFGZ1VzSkU2MXdJZHBteTZrSEphaXR1Q2k1dzBIRzlKT3NrME8wTVhXYjdVT3otYVFnTXd4a0daRC0zNFo2OUZFc0FVLUctcmt2UXdnUExGSjNpcWVXU1hBeDZITzRyZGFhTTdVUW9uQ09lRDVyNm1RNG9peFY0S2Nuay1jRlpJYXh6dUdBZndLZmxtZ3V1R01manNsZEE?oc=5",
+    "asset": "Sprott Physical Silver Trust",
+    "query": "PSLV",
+    "title": "(PSLV.U) Trading Advice (PSLV.U:CA) - news.stocktradersdaily.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZDZMZ3Zqb05NQnhjWUJPREZ2TXg5Qkc5eGp2WlZqNllUYVpVM0o5OU1XTGJaMWp4RkM5YlNfZTdBdGx0TlZCakI2QXdzckFMd2NkUE00Mi16by03TUNaNnZVY3RrNDNIVFZrWUlOOWJOaFd1ZWJrMVJLLWw5ZkJEM1JjZV8?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-14T10:43:04Z",
-    "hash": "2e6cdef2ddcd84cdba52441ac34e1d733fdc01e4b27fa6d6b90ea571671e8fbf",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Best Crypto to Buy as XRP Amps Up for Rally: Ripple's Bank Integration Could Change Everything - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWmNMajJkajctSllSbFhtbWl2WmxBWTBjUjY3OW5xNEMweEFGNGl6WmZkRHkyYy1pU1ZGb1hPcEJ6dWVoWV9qdXhhbUtnVTBfN3BhQUJXVmJmSTFpeS12emhKZGJFazRTRmlJT1BZa3RuT3RCSmlpVWpzbVIyTUcyQW91TQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T10:39:05Z",
-    "hash": "68c2d1cefba76105f4fe3d9cbc1649e31dc046d647357219a50c22ad0f9d1c51",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "BNB Buy The Dip Traders Celebrate Big Wins as Bitcoin (BTC) Climbs and LivLive ($LIVE) Becomes Top Trending Token - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWxiODg5VUFFS0staXJFN1c0eFpvdUxHdG55OHMtc2JiM2c4WU8yTktzLU9QOXRSMlV2bTJ2WWc4bGNYSTN1N0VZX3Zwczc5dXEzeWlSQVdrOVdUbjh3SlVfeVhZdUlrTFBqRzR1M1NjX3FJSWRRTy1HcWRMWXAyXzF6aHd6QzNFUEpfaFFSbFlKaDJzVGdfdWVwOTFPTmFFRnYxQk4xaXdqczV6alZ4bmUzak1SVG5nUk1iQTNoUmo4NVBVMUtkN0hmY3BXUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T10:35:03Z",
-    "hash": "8f7c038935324ae0619e337a241eea3e964a4ffe34dbf96c52100f3e370a699c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin falters again causing $200B wipeout: Will BTC hold $110k or break to $104k? - CryptoSlate",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQWgwYkZsZW5WaGhYQ09YeDFiRlQ2LXpYUzA2ZG5VRHZCZW90amVEQi1SRy1XdEpFT3pOWlVBYUFENE9HMlc5ZlVNMWxadzBGbVpPcDBfZ3hBcEdpTGRpNnZHY184V1FNVzFsX3BrXzB6SzNzVHFKb2lsb0FUOU9PREVXMXFQTHdNT2xaengtb1lKSGQ0MDNGTHpPbjI1NE91VkdFREFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-14T10:35:02Z",
-    "hash": "39377ffc92de9db29ca482e9eb823da8aa99956b88ed1eb87d4beb059a9230a3",
+    "published_at_utc": "2025-10-14T10:50:26Z",
+    "hash": "d1676df3b752f0fa206eadcd07b0a73e28319986729e4917ad79817698526d24",
     "source": "gnews"
   }
 ]
