@@ -1,272 +1,42 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Crypto still volatile, but increasingly resilient: Coinbase VP - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmtXUDNtcXhEcGhZNElwbllsdFRhenVCaGEwSmM4VnpDWUlsV0Z4MGNUVmJUdzBuMS1XcnJjWm5KaWQ5VGUtQmFsWHNYYzVwNDRwT2pJVWpaMGlkV3dxLUpubnhwb21hT1FfcXFpclR6N3BXTlY4ZmYzd0xuU0FRbmpyNUI1RVptUnpncHZpTlV6eTN0bDQtVGdOMzJwclNVRzA0TF92U1NxNHd3VXVTU1hldUFWMUhhVkRNUkdCcGRYdTRzMmU4QlBFb0lYUW5Q?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:11Z",
-    "hash": "cafe0c6e368d7d4cea34ea93573456ffd8590140e245afaac39a075ad1f5ece2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "26,098 Shares in NVIDIA Corporation $NVDA Purchased by White Pine Investment CO - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3J5M1lDRjRZZTg5UnN2QWlxR0k0MDgxWmlIcHVqYTVod2hxak9kYmN6SGpJRG1YT2xqZkpCQ2lER0NzTUJ5eGxlV1ltd19tbUgxaUYwY0pjSzRaYnh5TGJnZi1HbHJLbE1EbWlwZnBHSUdJT1Y3c2pfUGgxaVJuOE9oelZ0dURuOVpDZEhEdmw5dHV2MWl3ZWNjRXo3VDJYSkV6OTBwNjJ4SDRxbzRpSjBZZTR1dG5md1NneFlIbjh4U25RMHFxbzZibEt5bmNsZVZiSw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "4175db7fcf23d4b254b495f2bf84aaf0e10adf0ad6d4f4d1b1d0c01a572de98e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "HCR Wealth Advisors Grows Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYmZaWVJNaFpRelVSa3dFcjZxcjVMVGxYc0hrMHFXbW9MblQyLVJQdWtSSEM4dGU4U2pIUURLMnBiMk50V2ZBUk9QNXpMdFpsM2pQTktqQUtyX1c3WHc4QkY4MlZXVGVqWVZRYUJUeVBuUDFKY3c0TktsZDJEY3BUbklXOEVFZHVUQ0NhRzAzRFpOamhmdjNiTE11SjRSRnFqUFdYS1hZOU9veDRvbHo3S3BUS2hhVWN5Z1FtNlZBdWV3TVVRQm1r?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "3535d2940b8ecac937eb6079c76adbbe0c813543c6370d151a5711b9257321a0",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA is Park Place Capital Corp's 10th Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQN2V1LTlVMmJkVEZTTE9GVHlTZjRRQzhmWkczU3pVN0dKMnNpOFkzUFAwZjhldG95bldKUVM1UVc2aWJVRzNGeWtuR0ZqZ2prVkxSRVMxaXJlVjFUSEZQV2dKdlVOMXhWamFXZ0g2bHVpalBMdzFBMjBRRU05U2E4V2xpaXVSdUlzam9SWlBKdVFSN0pPOVNiVHlOYlJsbTdPRnh6YUhLN0dMQkw2MHZ6alQ0NTYxYU1nRVVOUXZZbkZYa0FvbWl1aHdBNVNWdk0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "350168f10505b1f5b70ae2ec09588c6d6cdb8800d14bf4f4877c927305604db8",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Legacy Wealth Management Inc Sells 1,959 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTWhCMmtIV2tLUDdHdnAyT1NWLWhrUGFsYlBlOGpHYzJFcjdEQkI4UmtrTWxlc1ZuYWM5TjFUQnd4Uk5sdkM5MDZYTUhVXzJYNS1QNF9PWUJsY1hrbmpXRUMxRkhQSVItbGhrMnMybWJMUnFQb2s0dzg1cnZ5RGRyWWJvSFRlNkZEc0ROREVIR2Q2QS1pNFFjVUhRUlZaYXMwTm1iWlEtMGl0TlRtdEdrRUFUaEdralJVbUhjS3h3bThRdXVYS2FXQmZaNHNqSUU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "9c697a5cfbe3affce8d1c9a832998efae67e9eca874ddeeca13c59b56942bfe4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Paradiem LLC Sells 8,680 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGZZempNZU5EajFyLXdTLS1aRmlkMnEtaktKRlRpZUplN1JrSm4yOUo0UEtQdUJoeS0ycGVnY21jWW1uR0lSbjdYSnNLOGpSdHFSZHpPOV83YkhLZEZ1c2dZR1pOMnBsdVpfOTJvX0dQWUo0R1FVd01rWmpkdDEyZXhmOEpBU0xFLXBPV05BVVJiT3Q0X19YdktVVFpBb2RwS2JCWmZrZkdqTHFnSVJhZ2xzS25sSkI4cmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "fcbfc2d78e5a0f0ab56cd6cfbdb6f3634ae960cdb678ade952cc1cde71d7436f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA Shares Acquired by Oak Family Advisors LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFNBRVRlSDE3TjNqYnVMMU90R1o4YUl0OUNmTklWNVl4Vkk4Z0N0NGF4YXAxcXd0X3FjZWVHV2MzTjRDWE42Z2tHdndodVhDYktNeG12c1YxNktoYWhvX1ZiRktzTFQ0SWpFLU9VUWNic3NaUm9sc0UtbkVfZXJFblJVZ1E5Y0xFa3dnY1cwUC1UMWtwNmo1MHlNM2x6emM0TW1aNFJuOXhQa2hWaFhtLXpuZURUSmczZk53ZnZsdndXVGQyY0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "8ef78118fd396597382f9931d15bd9fe88e621dab6408e1ed3db4a19eed9d80b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Cornerstone Wealth Advisors Inc. Lowers Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUNHLUV0cGZwcGVGZlpnaEdSSFlVWjF0UGxKNHdhU1pDak1RRHBZRXBzWXlfV0JYN1ByaV9nVTJ6S0dGaGhIZWs0eGNOOUU2WlZjbUdicGFfbUNPcHJ6cWl6dmlSRFp6MWFEY0NYQlhSTHdJVHdacUNPVkZHTXpBdjN3Mkl3ODlpUGNpZnVIZ0FCUDNMZVotUzBVVHUxSVlOckxZYldwZFluRk1kdmNHVDFCeTNwd2c4R0tyN1BnZW1JOXJnMmk2LXlOLUhFblBU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "09f0d0e309fbcae006eeb640287f408b4bbb70eb1c7d6db91c5b2d6feb77fdb7",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA Shares Acquired by Mokosak Advisory Group LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYk9rVHoyLW55bG5KN2owdll5TUVsR2txTXBYc2VERFZsbWZoazV4LW9udVpERDViYTNlaUpIUTB4RGF2WVRKRGFuLXQzWXRWb21lUG9IcnhZRGlqcTk1dnhmVkViMVdlaFM0TGQzT1lvRXNBOGdPZEhUU1BhQ1JCV2RibXV6NnlfVjdZb3p5bHRHTVp5dU90dE95XzhCWG14TWxyZkhubnNCYjQ4ekxpS2lUNUY1c25rdEwzQ1o3RWVmNmNKUmotS0x3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "7496b2bf90a269cfb68b815e527608e835eed6da93fb7be18392f2733eb74f9d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA Shares Acquired by Hamilton Capital Partners LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa01ZamRmSXdnZXdxZm1KckJGOUw5aWNLalRaSnJCOE1YbzBkVHVNSDVGUnFhTVJUWTUwNlhmWmpYa0NWWmhFRXV0U0RCb0swbHpkMlZJRk1rNEpnak05b3NtWVNvYVI2dXhuYVh2SjVyYTBRTm1adzNSZ3E4aVdaWm41cENyemlwYmg1NUdzTXVoSW52a2FnXy1HSDVlUXlya3pUalBEZUc0QVhRRmZrNzhpcW1ma3FOa2Q1NWNNUVcwRTFfV2ZzQTBaUloxZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:10Z",
-    "hash": "aa79b09b257b91a965395156b0dcf38f905a738ee31f4009d026373f44a989fd",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Emerald Advisors LLC Increases Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObXNNR2V3X25vaGo3WDVXZWdxczV4S2t5eUVlcnk1X2FPZUR6dERZS0dYcy13M0dncE1ibG9NTzFTLTZPbk9YelJQN0FfOEdyTVVfTEJJU253QWpkMGEwX1pVZ1paTnFia0E0NmxUbFJsQnBvMnIwQmNMSEpyWFluckRQN05ZckVZbXU2d1V5YjdTR3NPb2Y0SkhFbU9zQ3M3SmZva0xFWnBQblJXc0JEeWNFYUlYSGE4b1pvUFVBdnJqTEpBQ0hQNWRhS3dsUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:09Z",
-    "hash": "1ec6d5fcd49d917569d87b6ca6e0c4ba59fb5c41ad01cadc891fcfa6c8b56d9a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA Shares Bought by Lee Johnson Capital Management LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnVXT0hFUGJtc2NQT1NsSlcxQlo1d2pHc0hZb19qZFVQaGQtZ2hVUGl2RkttUWE0UDhxWVI5UEdEc2FZWkNPTlFzSVBTT3VNc1ZCejRTR3BHYjl1dDIxZmdlODAxX2VrX1g5NjdaRGdLWjBVOXkzRG43ZmhST3RUTk9RWnhiNVJ4R2xyWThmbmZuVUtkN0JmSHl0RnIwLWEtM2RwUURTZDYyeHhIY0g4UDMtcXZsNW1FeGtWR3Vtb0plWFFoSjBvNFVLaF9hdk1BbkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:09Z",
-    "hash": "2132e184db603ca00c28ef36295cade6a34e626c34bfd023096ace6b437b9701",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Poinciana Advisors Group LLC Acquires 2,340 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGFTcmdMcW02TjdKVWs0dm5yVW9aZXRGdThKY3lzMWZaajVXdVVzQzNTU01hYnlOVmtYeTZ2Y1FVLUZCaHFudTg1MUVXbWlMT3kzc0l2N2QtU1I2UlJhUjBnVDdEOWxRbGVMTGdfTnhvN0ZBa1E2eVdKamxkNzAzUUlVMU9lcXROM2FoUXlxVmt6d09xdWdYbFdNOGdjU0pDOHV5eE83LWJORWl2M2tub2o1VjctRlFQcnBlQ2dudzM2TkViUm53WFNYMjdfS0xxM0M0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:09Z",
-    "hash": "0b416d8e8b9e80d9615795c7468d8ca324a54c6c3787f9fb8af1379db863dbdf",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA Shares Bought by Bluesphere Advisors LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1Q1Rk5McXJSMXdidnh3Zm81blhZUFVwV0ZVU1k1UEJPRDVuVzJad0x0LVVMazJNLVNzSHdWN011LXpiN204OUpXUk9KUjdPZlV6Q01CSjhBaUY2NDZDLU02X05abnB1ZW0zb04yajJ2N1FxYTZiNGQyVWlsbkRxZU9lVHlBemYzYkhDcU4zVDVXenhvenNjUG5hNWcxTGdmb1M3TmF4VFY4aTBoZW9aQ2luVGxDMkx5WC02QVBQNEtVQUk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:19:09Z",
-    "hash": "f8129ceb07b97604d7f59dbb047c17259c7b9227df46e9c228b8ba3dfa3f38b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin, S&P 500 Outlook: Wall Street Volatility Rattles BTC - FOREX.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFZvNmlHZExPRUF5eWlPV1F6TDJ4dUdVcFpDdGZpT2pJREJPdlR0OXItdWF3SWo4RjBqSERKRmNZNkJGbjNjQTExa0tuUGxySEJYS3loRnE1RUlnVlUzajNSUUNmbmFRUG5WN0lrYnREODdoQU9LdGRIbnhHN0syc1h2Zm1OQUZKN2lvcDZCMFBaNEM3S09UWmRFWlIyRjlzV19NdUhMUEo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:17:48Z",
-    "hash": "8bf9c0cc7a9925f744f42c4c9906f5d6ee044695040f90bbe79fa32f8075f9f0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Invests in India's CoinDCX at $2.45B Valuation - blockhead.co",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWnRJWlFDZ0NPWDlVclNranB2OGpSNUg5M1BDd2RCajdDWXR3eG5YYVZWekdfc1lhbnowcWt4RjlCaUhpRGNBeUtJNFFyaGg4WE12Y2Q4V3ZnVk5RaFZTaDFYRUNOZWJFTUswUzFMdHlLTEtrVEJUTk8tRDNQTmtIZW03V2g2TVhxdzlzaW9jeXlKWUha?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:08:39Z",
-    "hash": "e69b48b687e7394230def3e99f9d958ca49256237c360ba6071f1b6d96b9cdeb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Acquires CoinDCX to Access 100M+ Crypto Owners in India and the Middle East - BanklessTimes",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjVzU2FXQzVEanZRXy15TU1tNVdrNjFlOERyOUN0NHBWTVhCTC1SOVpmOXNOZUQ5Tnk1TjBjZXluTU5FbVBZQ2c1bnpKcVdWSEY2VndpSnRkNjVEMklaVEpGMXZoT2s2dlVSWDBQT1Z3dWxjbmd6WndJSWIxckxCeWZVcmgtVjJFcGktVHVSYkhqYWFhQUZXRjRCZWhqd3MtQ0RsTGRvallzeDdiMXh3bGtVa0ZEZE9ub2FkUDFrT2ttcDRVYnB3ZXI4aUtLb28?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:07:17Z",
-    "hash": "2833e23bd95935fe518fa4a086495965f852a0bd9b3d987daee4707fe053c799",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Beyond the Hype: 4 Monumental Risks to Quantum Computing Pure-Plays IonQ, Rigetti Computing, and D-Wave Quantum - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1ltTW8wY3NWcF9lYnNLZEtMblBsMXB6MmtDa2kyeHNpU1NRQ3ljRmNCa3lCd3VZcWRqQVhKRDZXTEpFLTVZZ1RtQ2Q1RnJOU0o4bE50blhKb2NYdERRT0dvbGVfWmR4QldhdU1vTHpGZzJFNlpPeGVyTG1ISjB6aXh4OWFVQVNFVDJ5T3A1QmdYRkJUSEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:06:00Z",
-    "hash": "ec81f9d4f87b83b0ed9860032e3c58c65c1c25c5ec43a1f85d36ca31dfd19305",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase parks money in India’s CoinDCX at $2.45B valuation (COIN:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQlFoNUZITkdrYzFFNEdHRW5wVDYwS3hoOFVuV09ZcTN4UEt5Uy1PSWhxY1JHQi1vNUNHLWJMZHBNUVZYWk9kMWJ0eGp5bG5odFBkMXh2OVo3U1NZUmtyV1phc25zVHUyYzU5QVVwc191OUtLQWZmekRjNzJ3c2FRRVlXWklNSzJWN0VHVUpUS2c0N09XbTlaRlh3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:05:30Z",
-    "hash": "94920b4ffb84127cd191cb24d01d4548e85e75187df2258a588f938b3679ed80",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Insanely Risky 5x XRP ETF Proposed by Volatility Shares - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQXhsd29tNV9ESzJ1V2NYYW8xVGdsVkdzcnZTb3U0TE9oXzVQVVV1S0lyUW9xNDlZWWVJVU5vb25FNTdaVlpLNTVNWXZOdHBlMVRxaUNHMDJPZW9XRUIwdC05cU1iQmhYSjc3cTZwaFFDUVAtdFlGRC1aSl8xektnN2RhM2p3N3VEclpDNldKeEljcVRLUHJyTTI3eEN2MUVVc3E2dXdybGJyQzdHTWJFdkpYQQ?oc=5",
+    "title": "LIVE: XRP Price Prediction Ahead of Ripple Swell 2025 - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUs5Mm5FNFg1ajRLd29FZ0JZTmdwT1AwclZSMmYyYVgyWUhYZlp1d2Q3Mk9uV0tSaWIzcVBaLXhMNVBHcEdFRk5IZGRfX0M4SVM3RGxEcEFldmlQdUFZcEY5QTJIeVBpWnNEM1J3ZC1EMlktMWtpZHVnb0xMNXptTDZENkpPeUlhalpF?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T07:04:16Z",
-    "hash": "0a0bbdc49ba86c95d7a538366198703d0ddb6d8f31e0c3083a871efefe65d477",
+    "published_at_utc": "2025-10-15T07:41:40Z",
+    "hash": "ea3af82fbb20029406dea502d2ea18331a025d84e19ee4bc97e7bd6659b44036",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "JD.com",
+    "title": "Callan Family Office LLC Buys New Position in JD.com, Inc. $JD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXRJQUVmaHU5RnBLVURJU09fZG44MjdVNGV5alNyNnNEaUNESTRpa3FseUZUMVBqekFSM3k1MEVNdFNrQlFuNVR6Z2hqdGxkbjVoUG80UjRTa2J3WVBxbjV5aUxvVFVhRndnTUdJSnItcV9SNWQwOUIwaDU4Z2RnQUxwODRDUXFZbTFWWUg0NUNNTjFWUFNjM0hhcVVZS055dTZqTmk3TTgwMUlwTzFfWjMxSXYwNjdtR3pZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T07:41:34Z",
+    "hash": "78055114430d8ac054223a231bf04e1e012d60438a348988e151bbef6bcd0c50",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price: Two Crypto Legends Bet Big on $10K Target - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVZseG1wSHhMR3NjS0Y5V3V1TGZmRGpySkVPcGJ6OUhjbUhkSU5naDdlckwtTmNVSkU4SGdxaE05bVF2OUZyd2RYaEFhTURScWZITTJEQTZCMTh6bklQZ0l6dDZKWGszWVpHYlF4bDhaRWhKaFRuOWFsbTNWanlBYjZLajNQb3RT?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T07:36:37Z",
+    "hash": "f542302ab69e42f40605c42223f8e646d4745217b59876368dc9792764da9ca8",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana sees $169M whale outflows as price rebounds to $229 showing strength - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFVsb050TlVxZzBaZTl2TF9PbFhYcDBzaGpOQzNBTTBhVnJIalpvQUtsa2VVc1VhTzlkWFVzRjZFR2F0VXB3QW8xYk02WFpxNU9MMmpjOTNKbm15Sl9xX1h2X2o5aVRqTklSTkhHdFg2dU41ZC14VzQ2WHJkWFY4eGtKSTdPd2M3bUp4THhXN1NxalRrUDJiaU94a0JmX0E?oc=5",
+    "title": "Why Traders Are Confident Mutuum Finance (MUTM) Will Live Up to the “Solana 2.0” Tag - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGFmN1lPWTBOZFh1ZGZXQ2Z0eWU3d29DU3k0UWkyOFREVGdITmc5M2lvdEN3N2xXeDF5cVgwS2ZENUl3b1d6OE9xLWdBeG1DRXlnZVdOa0hlWncyd3RWNGtCOEdiSmRBODhVRlJKZFcwS0x0ME5DQ1I2NTdpdnFvVkpZaHpLd3JwQVBFaENaUktRY1duZURlUnRvX3JYQ0ZULWE0NnZ6ZURVc1JaekpHMg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T07:02:43Z",
-    "hash": "284a3cde56e7c115e1ccf9073260d1bb2874c4cf90bd4673fca807c292a1d07c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Crypto News: Solmate Lands $50M Discounted SOL Deal with Solana Foundation and Ark Invest - livebitcoinnews.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmFzYW9rTGFTT2g3NXFZTlJqcDYxY0xUYnBUeWFNUjVyUkE0cjZIYWpra0NVWmpJM2JvcHpDVkNGTGpER3VVSUVFNzRrZVRIWEdKUUdIMkU1bEFtYjZYazBFVlNkamNhUW50V0xpQ3V3eGV3Y0FsLTMzbzNaNmNMUk1UMTlmV0wweTVLQnhkcTU0em9uc0d6U2xYdGhZV2NhVVc0aVluUzUwNlNGeWRiR2FaaWhTb2FfSGVKZQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:00:03Z",
-    "hash": "cdc099050364053ea61dfd896bd7a223ee4ea2d5ddddfd09016525ebba16b53f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Andhra Pradesh Offers Rs 22,000 Crore Incentives To Google's Raiden Infotech For Building Data Centres - ETV Bharat",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVzg0STVtb2dWUTlRWFoyYUJiLVZkT1hMQnBkZFNOYnlkeTRWV1ExZEtob0hqTi1YN1BaaGdNTVZPNFliZm45cllNUWdXSVhPbTRTazQwNVFwbWVJMzZqdDVWRXVNRm54WUlDR19nMDlpSERza0llb0xmUHRtaWVINGZfbjV5R3Z3aUJYVlU4LWZlcjA4MlFHano1a04yVTdOQjltQ25QbE45a2VZVi1vQzM1TWprYTc1ejlsblF1aS1VTm1XdnEtVGNKLWc5a2JQQnBuLUJ1aGFzdjhiSl9j0gHkAUFVX3lxTE85UWJPT3lnREo0Um4wX0k3eWpfdG10YllVUXRpM3pPNEVNS2dLdDE5VTJlWGpWejYweTNydEY3aTJ3QjQxbDlFaWlJVDhHRHpfNTJJLVl5RTI5bzNaV2s2OWlZR0FCNTdiZmZBVVRUY1JGZE5jY2U5emkwcDhpS2tKVkE4V2F4dGNwRjVxQncycTVTdlBwZ0tyNDFib1drUzJYSy1Td1dOMXgyMWllOXE3N3VFMFBDbGRNNkZVUElDNjE4TnJrQUltUW84MEVuUlZlejZRNFQzcGNrY1FUWUVIR0pDag?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T06:58:19Z",
-    "hash": "686ba6de54a1c7ea955276a164852888f17d7b8e043a8ea56b4f1ea8c8352b53",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum(QBTS) Stock: Accelerates on Recognition for Real-World Quantum Supremacy Breakthrough - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSktSallTTTlIajZGeVJ3SmRhWkMtVl9JNnFFUzNEV3NpbkRGdHVCenI0SGFra05sQTdmUmRoeUhGMk03dFl3cTRnWDlxMFhHUkxGSmcyRnZNclo1M1VfaERwZ0c4UkhvNWRtR2xoellfek11UFZLeDU0X0hKbHBFNUtHRHFORWc3bWJpc1pHTlFtbXd5S1lIMmd3VW1qR01zMFZ0czB5Um5fR3AyWGc0dGF5bndYNk44TnJneXM0YkVUdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T06:48:55Z",
-    "hash": "fe13927090f0ba72b8a03f0ae69f7274aa0c35b97aa15cfe5efb4c19707faf8b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Crypto News Today: Coinbase to Increase Its Investment in Indian Exchange CoinDCX - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVBfd0UyMk9LNjJickVhXzJOT1ZYUElVY0JfLWlMQ0puZHRoX2tCZEc0YVh6RlhnWWlMUkRmMWktQ29oV3oyeW94ek9NaUttSW9kRzNNbzVZMnVsSUJZZ0ZkNmUxcnlMUXVwNi15dGdSX1pXbGlIZVdvZUR6bWZLNWN3Ti0yYTFvN3NNT04zQXBZVnc1cE9FTl9PVjNJQmZEcXN3QmhQaHd5M1llTWJKLUJ2N1VLcUNXQ1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T06:48:34Z",
-    "hash": "7b3dceb1f25160318f3be1195b3318bcbd6746f294b154b32e618c9541d6cefa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Makes Fresh Investment in India-Based CoinDCX - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlU5YmFiQjlNZzA2aG5YbnVEWkptZ3c1STEyeTJUYVdaa3ViVGRlSWVrNFZxNXV5UTFMTW1MOC1pdWFOUUVpSmhhMldEYm1BY2x6R3Y1T0dBLW1MT0ZYQmZ4eGxpbU84dmdRalRUaTFsc1BDU05YbGtobUhXSmtkdHBFNTg2NDZuZmY2aWtQaVR0WlpPUUFqbkkxOHFZRzZLRWVKZjk3SFRpMk5zVEVkMkFQZl9Jc1Rj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T06:43:38Z",
-    "hash": "6c5a542f46c760aa150d1feeed4ebab96d98bf1191356c3aaab06082f5a3eb97",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Back to black: can a refocus on fossil fuels save the BP share price? - Fool UK",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUldtclllZThvMHhWZS1JSTRqNXBSZFh2TXNXOU9NU2JNRWFGZGNrZzBHQ19udjltX1VjX0hjMU94TFNlWkFlUHlreWlSc21QYTFfMUVpT1pOUHlOWk50VTVoYUNQSkRvQjlUaDBtQ3J2SmNoZGt3RXBmanRvVVdxcGJsdjRPTlA1MzZvQ05EWWNkRjc0OWljZGpUTnozSUJZdGZTRA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T06:43:00Z",
-    "hash": "314e811b392f2cc145d6c60bf776af2fbbc4c0127c546e8609f9df3b74bd1560",
+    "published_at_utc": "2025-10-15T07:31:00Z",
+    "hash": "86183694c602a4ba7a20d2eaad5c5d66549379412f882e31cce47ea6d751a468",
     "source": "gnews"
   }
 ]
