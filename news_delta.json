@@ -1,192 +1,122 @@
 [
   {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana steadies above $207 as ETF update and inflows signal renewed investor confidence - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3ZNNXhVMHFMVlBWWTFpWjBxYkphbXNQWWU4RWhyWVI2dFoyRVZmVjZrQndGaURSaTBHZGw2YURqcEtXbldWdXA4Wk9xcHFJajBBSXJMX1ZfTHJaemVtbnBwdWFvb2NqRG45MVdla21SN3lhdTR0ZGJRdDBYRVFmWDRPbmhtRUl5YXBjSTdvM0tiOE9RejZ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T09:16:07Z",
+    "hash": "0c30708e9eb3964933c6713cdd11be0869b6aa3ce437213afb428fbb8635f0cb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "SOL-USD",
+    "title": "SOL USD Fights For $200 Lifeline: New Presale to Buy If Solana Breaks Out - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU2NKSDQ2d0JkVTJKOWZsS0RNekhYeW94ZFgxV2NCeWZUT2hCeGZzNUdaYmxZTjk5WDE1VkVoZkdOX1N4bzMxVXhDVmlkWllrWHZ6djBJTmlsYWVhZjdsb09SVjhtX01rWFJhU3A4Z3pKNjQ0V3RZZTJSX0w1R3RTSUZxX3otY1NjeVRybjlPUXVyVkhhTjBWclNYVHNuTFlFbkV2bWFMNk5CcUVRZUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T09:15:15Z",
+    "hash": "fef74007278ad402deb733c45adfa6e1f9c1f44706c8bb022e800ad29cb1ab57",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "This Could Be Nvidia's Next Trillion-Dollar Market - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczR0MVphcEhOWVhCTUk3WkdkNllZQ0VMNE1wSGlnb1QzejktZldYRUpOSUJ5N1B0MTJlejRRVkprQ1c3MVZXTHdpWHdiNW9WVkJRdGN5aE56OG43cTZmWHh3UGo4eE1OWGJVQ1RoQzE3bU1OWXQ1VnFYZEZHRmdNcFhqb1BKVnN2cmx1VWRzZ1J4SXJjbzA4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T09:15:00Z",
+    "hash": "06ba22ecdcd8b31d6e167f9a1f4e0d594a1ed9fb4ad4ac2415068ee3f059ea86",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSM Stock Surges Over 4.5% Ahead of Q3 Earnings Release - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZS00cDRtZ0JnQk1hYnRKZFZ2d29IVHlhenl2aXBmUlZNd19JNHFQRUUyMkxEUjFUX2pnWXZYdkZIdUcxSXBqbmhlWU5JX20yRWNiVldXcDZaOV8tRklXQm9SOHhXamwzNmk4LU9nWERQOUw2OTFaUHN0VzVFdGdhMkhiYnZQMXVocUh6UmQ4djZSSGN0X1Jv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T09:13:40Z",
+    "hash": "c8a0f8f8e35e11f50f947b4ff2193728aa3631b3727516303fab801f10911485",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Corporate Bitcoin Holdings Surge 40%, But BTC Stays Flat-Why the Disconnect? - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYklMVVVVbm9qWlJSR2pEQndHcjEyREJhalVKX0JXYXJQSjAyb3c4aV9nWXZMUWs4UC1ldnlXaG1VUHZNcUdqTjJNY3lnU2E1dzBXaHl2cVd3bEJHakZ3eG9QVXR1WXFiUm5QSXJVQjhlajNoNmtOTzNLcVUyX0pKZWhJSk5SR2Z5WGNTMWZjZFcxZnFDdUVWYnluTUJwQmJkb3E5Wk5EUWI0Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T09:10:57Z",
+    "hash": "d86e3b04d56f810f87bae17c910f257aad5d4da5d150b9133532072334476ff6",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is It All Over For XRP After Crypto Flash Crash? XRP USD Price Tumbles – Will Ripple Recover? - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYzJ4bURkcEdfSVV5dThpUUZLdDNNekZpRmpJUUNiUDBFVkNELUxUa3M4SWJ5NWRiZVEwcVota01tVnBOdUNLYlEwd3E4RnVTeDd4cFQyS2h0RlBQdTJxMXpDYl9vcko5OUxad1ZaamNlMG9nZ1R6US1GRmNkMHA2cTdCTHYwLTd0dlZyRVU0dFlPLUtqeFE4d2R2bDZpUC1fdmEwLVdMend0dTVSU2hYdWhra0hLSGQ4VGlqaVliblF5Nngxanc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T09:09:15Z",
+    "hash": "4885e224b46728746fa1449829e491bb4f696753e97c79c60dcce61337dfa38c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Where Will Rocket Lab Be in 5 Years? My Best Guess - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUNPUm1hWHdrdWRyWWd1YmRLX09fNnFPc2ZzZ0FpWE9nTm5vTXlkSllBMjZFZmF2ZXdVdzJJREQ4bEZiRGM1Z000NEl0MnJWVVhaODVFV01udkNBOVI4RnJ3RFJjNmItQUJJc0xUXy1hLU9YX2ZObWVMTXY2dnBNRlFxZDY5NHBGQV8tMDRCdVFzMzhVX2I4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T09:05:00Z",
+    "hash": "670e100f81ff9738acd35ffb0d9e6868b8664cb5ebd9c8bdc25931cf21fe0aa0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "How Solana and XRP Holders Are Flipping Gains Into Ozak AI Early - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnJGTTN4WkcxUldRQ0NoMGV6YUQxNUlzRllGc2VuMUJGUXo0MDZHZ09vSUlDVVhZb21iSjI3QXM1d3UyTi1VMkZBYl82NlZjeEt4b3VRa01jOHdnNUZncVA0dm04ZjdVSjkyM2NoWFJtQVE3RWpoaEtOQ25qaVRlclk4Zzk0Y2ZaR19VdDRjbEtCTWs?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T08:57:25Z",
+    "hash": "d292b66427a0da6826c2f9b91289458db10e5ff0268713d6ab9ee1f202552ec8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Forecast: BTC recovery capped amid US-China trade tensions, prolonged government shutdown - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR0NzR3prYW1tUWdJNWhsd0dmbUJTX3RaR3V3Q3JqRGlQM2hVOGZoZExfdTJuZ05XOEN6MEpFaF9RQ2ZUaVVYTFhOd1VBcDBFYW9BcDIzb3p3M3N0STh3TFlGVDBiOS1reDBUY21NVzJtekZXREtYQlh3eFF0dFBxU194V2ljY2ZZMTRzUF96SThwM2dyNEIydVpLdkdaM3ZVRjFwSTJaRDZiMzl5ODNqMm5BalpvNHdaX1NzUXVNZVVTeThjd3gtelJkc2ZaZ0xlbWVINWowMTJmMGtnQUlqbDVHZFRSWTJDMHMwTTE1aDhQQmPSAfgBQVVfeXFMUGR1cnRTS1dHR2VKMWc5TzNFQ3B2QnlIZTl3ZHZYSUJkdXFwZ0ZQYjVpMjluMjVGWkV4MGdvcEg1Tl8ycm55WGNhMVZUTjF1YzFveVlFMDBCX1RqZGpQZzVlREJFaGhwdHJmMUFsT1JZYm5GX3dCQWY5bmNoTG1seU1mN08wMnZVcWN5UkNXZTVLU2NkOWs2bWhKS0ttR3NBYW9lM3pzTlE3UlFiYTNuamRPWEdjX0ZwX0lRVmVQTG4wN2pRNWJKWVhFM0J4RDdJU043NndFT0RHXy1UNGdFbm1Xd1IzQ1ZESlNVcVd0djJWQ2lLTThfdXk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T08:53:58Z",
+    "hash": "c8848ca63c4ec67134b8758c9f9dda054d988fb10ca6a8117c62a11c5f74f921",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC Price Dips After U.S.-China Tensions Reignite - ICOBench.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWpUbTNTb1B4Vmc1ZWFHUG5lODlxU0ZSZDM0Mmo0MXZKZkh5T1JZRXVZNFZwMWM1RjJpdzZtX1p0X0ZTejVSTlFYc3dpbFdvWHViYnU0TjFsX0dhYnh2R2RpMmE3X0k5cjlHcS1kV1FENGhhOVlUR0FDTVhRNDJabnVJUExpYzRqeXlqaWZ5WkJQcXJXeVdNVnowVXYxbXRQX2c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T08:47:48Z",
+    "hash": "ab03084eedefb34b7ce385d35e45ab7a49d0991ff8bd62b9fdba3a87a56863af",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "US-based crypto major Coinbase increases investment in CoinDCX at $2.45 billion post-money valuation - Fortune India",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWRUdUxlYUN2ZGdnaVFOYlRUeExidEJRd1JLTUlsOGdHbXZsQURPNnN3UHJmenBUaURyRzlNNlQzaDJDTFpSRGRhckpwZXYyNDc0RGN6X1ZRc3VhRHU0RENVbU9FQndSOHppWG8tOVRyUmoxM3JHeldpbm9tdEtMbDJkU2ptN2JleFV0b09uQ1l3QkVUdGxCNXowSU5Pa1k3OEtLS1lCY18wblhxMTJTXzVwV0QwVFVrY2lIRk55VXlBVFdqS3BqZjQ1Wm00dXVIdDZ6MjZJZENpbjhPcDRBM2N30gHvAUFVX3lxTE5fTFJDcWJZNTE5R2wxbjBYd21EMzFpM3ctcXBYVm13VThtSDNYMVFCcWxZQWJveXdfVTEtM1V1RFdpYTUydDdxam9wb3pPS0lsOThhUkZQWEV5UFU5dk5JeDB0TkFoUUtUamRyaVUzYnlScHJLOUVuNjlPODNzc3REUE9lWUR0QVpKcHZ0VXJTajVSOXFZa2FrMVdCWmptVVY0TVVNd2NGbk9vR3ZwVDFTZm9TT3N0dUR2YUV3ZXlMa3Ric2ZHNGZsdXg0dVZZZm9YSGxXeHFnMHpCVmx1S1JmZ1ZiSUJlTmgzSnYzSXM4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-15T08:44:24Z",
+    "hash": "bdab212c21e683e0b03d4b86bd9571d358938030ea35037e23192663e14f0fd0",
+    "source": "gnews"
+  },
+  {
     "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Atria Wealth Solutions Inc. Cuts Holdings in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMzN6d2lSbVlWekhuNmI5YjBpa2xkSndnLVVVam03VnNRT3BNLUE0QWw2YnBVRTVHbHVQZGdHMFNjMThlQ3Q4bUhXbDNTQ2VXNzY3T09uLXhJM1RkeFFOQ2NCTnVkX0pLamlkT1Q1cTlrNk9xNWN1cEV2alhxb1drQ05HaWV6UU80V19iUFFIRmx1UnRGY0FkQmN3RjVGc01BVF9fai1QY0liLTJMckpmTzdoV081NUhJdi1VQQ?oc=5",
+    "query": "UL",
+    "title": "Envestnet Portfolio Solutions Inc. Reduces Stock Position in Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPay1tNjVOdllRNzJEQzllMEVWYXBhTFNWZnEyU29DNDhTNnBkWkhOb2FIR1RZakV5elIzc05EQVZSYXY3X1Rta01FSFhIYVQ5OFVKQXFic1JLbWtiTm1GTjFseS1MZkdRSm1yWDdfcTBVTDhTODF3cmpTRlMxSjM0aUYxZEZUa2JqNnJWcDdpdm1fSFFnOC0wYUZwVXhfOWpGcFY3MVgyZ2oyb3VrUWI1U3YyVUFUZTdabmhVYWRDanNfaC1DWEs2Rk5RNDNpaGNDcFE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T08:36:46Z",
-    "hash": "b2883ab1a6717c4099a884024c25eaae3d30100582eba880e92aba84cd2c378a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Plunged 20% Amid Significant Whale Inflows to Binance - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlBuYnBOeU4xc3VMMHFQdzdqTXRRRFZvYTJQWGNTdVRCOENUYTZSbmhqTTdVOVdZcFl4ckM5d0tKOUwyTGk5RU9BaW8taHhINkx4MWR4THBIeFNENVoybnFGZ1VodFZLckpsel9LMVEyQmpvS3pkZ193QU5IcldzTnNEeW8tQXlidG05d3Y3NWYwQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:32:00Z",
-    "hash": "42319001129bc8eff436ffd3c79b167d18416b6be3d773d73a83f16120149603",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Inside Novo Nordisk’s ‘Club 5,000’ as Danish staff cuts gain pace - WHTC",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1VSTGl0T2dBVTlpNV90ZXJGTVdXVEdEc3dSZVk3RDN6aVc0NXBpQ2dtVktHOXk1R0FEQU5OempEeGJQSWQxMzhfNDZ4VUUwbDFyamVlZk9iQ0s3TjdPNkRtbDVMMWlQTWpoa3VvTEtXRDBQenhDd3k0dHk1NS1ZVnhBczlaYjhlX1AzeDVJSlJHdndr?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:28:59Z",
-    "hash": "ca389770bc1bb42b5085e09a6f4258deba2859be51d5e8e30bcf6b1b024262f7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Powell Speech Bolsters BTC USD: Best Crypto to Buy Now Before CPI? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlhfbUlnNXB3SkZUSnZCYkNOQ0dEOE9ka2wtLVIwc2xQVWR2cmQwTXNtbFpBTVpQVjZlVzI2M1VTei15dE14anBQa00zaXNiSTNDM1Jhc2pvbWg3TEZkQXJ0cjdZdjB4VkpsUmJ0N1dkMFFMODRNUVFWSWNCTlhGVnRaeUVPX2pNUktLM2VIZ3VuVDVBMW9RdmFtbXczUGdHR243Yg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:25:10Z",
-    "hash": "6e9506d542e062197fe21f0ccb690e8142df144075b9521b6928b3848749c471",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer CEO touts China's 'dramatic speed' in biopharma, calls for U.S. collaboration - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbWVhbzJ2LVM5ZFJrLUw4MVE4LUFvQTUwTWg4T3RGakdydzljeWRUTmtZZ3BXREliNWQ0ZnRBOFp3MEQ4TGgyUElONjY1Z2ZYNzNPUjZndlhlLVpFSzdxUE16bHdlVTV4VEZqbVN1VjZjYU1kRTZNSTE5MEdNNXNyc0NMUXg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:22:30Z",
-    "hash": "e87a1187b5e1991b769eab5645945164fb8b3297ab7a5206f9d4d31760a20b87",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Forecast: Technical, On-chain Data Signal 15% Drop in October - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNemVlbGRScTNBX3NwdFRTbHk4ejg3aWlEOF9yalh3Rm9MX0k4UkhIM3pSNFk2N0dYME5wOXgxel9FSUhtRDFEN3Exd0plMjlCQWR1LUNHTE5pYVViODRaanZFS0d4amtZOF9LM21JQU8xQVdaWHN3RFJXOVJyal94cGdDaUFHQy14dVZiRTBqVVBpT0Juekp2cTdYM3AzV29GTFBYXzR6c2RYLXgtV3hDQy1IZ1AyMHlmak1fRA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:22:00Z",
-    "hash": "0bbfdc2659d22f1270f57700aed9d85cc78762c25c521d1507d3feb2585b31bb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Cardano, Solana and Remittix: Which Are Experts Calling The Best Crypto To Buy Now - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXBYRVl5a2d5NVN6SEZPbEEwdG1CWU54ZWVyV2ktaTlNX2JucjNwcHg1RFRrTTdxMHFUeE9icUZ6QzJTazhlUTdKV0NCTHJWZjNPeGxtUGZ6RjFxV1NPSGVEWGdTaWhjaHhIaHR4ZzZSRHdzME40dHVJN3BFT2d5M2dmUzdDU2lKZUJQcVZSd0tZSzlDOEhyR05HSTFkS2lmRTNISWNYd2lZWm1qMDd6SUI1RDZ4dWhfNnVjVXlVNFNrc1A0Rl9PVE53RXNoNjlQeXVkb2owbzI3NkptQlhDc2ZGWHpMdTVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:20:00Z",
-    "hash": "96d04e7ea6f785a5966539b1db36e784c5f2136522ee59fdf7a12848e9cdbb2d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bearish Bitcoin (BTC) Sentiment Persists Despite Powell’s Signal That QT May Be Nearing End - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS0liVW9tcThJWUJIZUdTTzNWYjZpQ2MzQjFEUFV4QXRWVTdBMl9DRTBiY2N5UHd2WXd2RWZlTFFUOE1NZ2wyb3U0dlRLbExISTA4clhSY0lhVS1hNlB6LTgwbzBlSl9lQTduLTd0aWllTE5SYTdHamlvYnRtWkZ6QkhDQWhDeVg3MGRMd3JrNFc4VENra0lIWHp5blVPN0hYMjFCU0MyeWY5VGV3QThMa0huYWlaajh1WTNtQ0MzbUQ1cmRrb1pFNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:15:36Z",
-    "hash": "aebc5046c5977a5274a923b008a3a2b07e10462c2b996b4b6c8f3a307046b1fb",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP ETF Speculation Rises — Solana and Ethereum Named Best Altcoins for Q4 Rotation - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazIyeHVKaEZzOVNOVEwzMDMzaVJFUlRIdkVPYmNGbERjbmkzVnBnNmNYdTVuQXNIUkRIVGNETjg2RkFWOFpaWk5KWG13T3NpVlE4aHNKTmFHS0R6MHJHM01SR2c4VzdKTGZDdGlETkRlX3BVS3c4NUhuSVY0b3g0V3VzVHpJQXJaV3VUTjBtMk10WUpMWmlnNHFoVjNkWjI0cGh1ZVVYcDBJQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:15:07Z",
-    "hash": "677f4f486fd2376a3076ee8f523fda7007d00ac2c3bee681807f8df6e19253f1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "XRP ETF Speculation Rises — Solana and Ethereum Named Best Altcoins for Q4 Rotation - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazIyeHVKaEZzOVNOVEwzMDMzaVJFUlRIdkVPYmNGbERjbmkzVnBnNmNYdTVuQXNIUkRIVGNETjg2RkFWOFpaWk5KWG13T3NpVlE4aHNKTmFHS0R6MHJHM01SR2c4VzdKTGZDdGlETkRlX3BVS3c4NUhuSVY0b3g0V3VzVHpJQXJaV3VUTjBtMk10WUpMWmlnNHFoVjNkWjI0cGh1ZVVYcDBJQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:15:07Z",
-    "hash": "677f4f486fd2376a3076ee8f523fda7007d00ac2c3bee681807f8df6e19253f1",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Broadcom Stock Investors Just Got Good News From OpenAI -- Is Nvidia Losing Its Edge in AI Chips? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemgxeExmX2lIVWNmUndtRlhwTTRrSkJrTmJBVlBtVkxkNExuUFFxUXNnVHVsSW9ybXFORjFZT183SEF2bTAwNDFPVnJpVnFwUTh4cHVqMUtnLUoxSUl5TEQwOF9Nd0ZZVzE2UU1CWjlKTmJWUFBkaU5MUmdRRlpSc2pBNERFMDRrYUdLRmZLdUFKVFp5RGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:15:00Z",
-    "hash": "b8ff7e58f41a021857e4a4d0e8f33cd0771223f31be3cdebf09669ddf744fa39",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin price prediction: BTC 110,000 support vulnerable to renewed trade dispute - Traders Union",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjFVQ09ETWtUZVhiejk4d3NyV3ZUcXlfUGxiVjhBeVNmd3VMbWpZNWNIbDJRLVhDUHFGUjU5eGYyYU5seE1IMnFWaGdzNXg0dFRGVnJwQW1hVk01dll2OGhzSGtUazRFRlRiV0ZMRElBMHlSNGtlOWdMLThzSmVlcmhHc1hxN25uNmNtWnMtV0xzQm84NzBZU184aWJrVzQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:13:13Z",
-    "hash": "3c3335028f3663c4779939b135594d67fa0d114636476fb279101346b53ef74f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Should You Reconsider NVIDIA After Microsoft Taps Its Latest AI Chips for Data Centers? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFFubEtVdDQ0UzRzT0Fvb19nck9Pd21reUs2LWhfZzJOWk1LUm02WnhjUVgzOTBHTDVBV0hvRkxTaU5JUEtCUUx0dzhQZkg0NFoteHVOeFVqVnFoN1lDclZTOU1oWnNTNWhUaFlxN3NYOGR4Nk9hY0dUaVgyR2U3UXZna0tfR3M5Rl9KM1NLbkxXaTJBQTRoQXExUHNtREZaVk1ETkdiRkFNVW42V21vMnJSOXkzRjBSMlVaQjNQdVAyTmM0TlhXLXdLQdIB0AFBVV95cUxNNkFJNzBzeDdfRHozM2JHYnJkc2RtT2NxMFpyeDJDRWdQazFZVHNiY0VpYkZ3Ty1yZ196VWEwY1h4clppSzJTaWRnbGxLTVVFREE4UU9nRWVCUHNJMkRUenRBeUlZYzVnTnc4RDVOLXJJVGJUWmwxNVpXb3FpeVJMdE1RZ3R1OU0xMjR5LTNHLTNNVGpQVUlNZXJKUnNwSURnZTJ5ZWZBZ1ZqaTh1TFYyVjZhTEYzTzFtZjV5eU53R3VTWm82cG56VDU0Si1oUktH?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:06:09Z",
-    "hash": "c0c2ee8ef0e2420620af88f01fe9f6514086d3e6f7ee7483f87ec2db57d442db",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "If they're inefficient, what can I do: Nara Lokesh's Karnataka jab over Google deal - India Today",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQUgtNFN5OHZzV0RQSUswNTlUMUZyb0JBd0UwTUFSa0dfQms1b1RKdmJvbFItV1c1cnl1NzRTQlJPdGU0eVk4NjdCS1lSUl9ZTTRHSXRHRWRhbTFMczdYOU4zZDBaZE95VXJaSEtjUlhESlBleElhZmxqZktDY2lZa09vZ2dWb2xIa1RVUjMzSFM1UHVFVVNmZlRrcHN4TUR1ejZOeFFoWnhBYmp1R0NJX2xHQjRsWktKMzVmSHN6bE9ZeUxWUEJ6V0RycXdWLXBtcWcyTDFWVGVsaDA20gHiAUFVX3lxTE9kUHpQMDFPUjQ4RXUtc1kzblRrVTAxd3ZCeHFhT2prVVdxbkJCbmFWYTVreE1yOGNabERyVkZ4UlhhbzNMME44VmVvVlBhbUdnVVl4anljaG5GS0xGVEdnS09jWlhHS2VSN0gtWmU0UHdwYmZSV2dCeEtFS0QwTXBVMEowQWVucFl4VXFIcGp6MDlwYXM1TENMNmJ5bHR5aktzbDRKR2hEeTFDbURRazJfZmRHOGc5TFRYcGZpRFlxS1JmZU8wbFhqVTE2NVpZMVRfZTJhTXUxaU44WV9CcUxVdWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:05:38Z",
-    "hash": "43a58d70948e927676bc3f1dbea965ac056cad51d7df1c2458c67fd6d1882fd6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "CoinDCX secures fresh investment from Coinbase at $2.45 bn valuation - VCCircle",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEJEUkp3VEtGTWRiakFFOGVFakFlQjJtQUlhQTlUeVM2R1B3WTdOVXJLUktUOC11Skp1M2ZMRlEyOUFneV9pM1FpV2JBNGJUQmJ0cm9kM0h4UVRacXRwbjlMendueW9MZzlod0hsQUlfR0NwOE1BY3ZVZTdJTGtEVnlkeW9OaWVkM0VSMURTMXRSbXIzWlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:03:45Z",
-    "hash": "7b58fb79cd205eaacee10554166c57823830cf4d2553a3a39867e84e0b22031d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction 2025: BTC Holds Around $112,800, AlphaPepe Emerges as the Best Crypto to Buy Now - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLU1mVko4UWFYMXhFejNmTTUwbk1UbzJPWVJxRHVJTktraHJhYkhvUEtNamdCM3NiRFBucVVfY0hZa1NQMGJ2cGhyZ1lJeWJSalpMLUtkZ2hFR2U3S1pxb0l3MmZ1c3IxUjRoUGcwOFpZa215SGowRm5BR3BXZEdlUl9hSW1DX0hBclZLU05JbVF4VDFZbVVzYjdUTzZLS3ZpRHN4YXNHSjZfM3cyeUdxWmVQSjFTMFIySTBWWEM5bnVocmR6NDdHYjFYbWxWQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T08:02:23Z",
-    "hash": "ac2acd113d7635b0ed737bd5df3965e7bc64bbb3ed484294c253ccdce965edb8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase to Woo India’s 100 Million Crypto Owners With CoinDCX Investment - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbXhoaURTdmFKZUFlaW95dGQ4d2tZTU1ZTkliSTRVb2NoS1hBdnJlcWFYSmxSeFlNTmFrdmItMmw2dmxreW9oa0hJRldHSHp4M2dkbHhyQUtIZlQybmpWZ3JPd0tnNW9URU02RzF5TG1lNUFWcW9kWGRrOTRGS3BOZTJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:51:17Z",
-    "hash": "91f343ea46abe4a0a29ae95f81e5635e97d7da4cd393f3580214a039af221f71",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Could Coinbase Investment Restore Confidence in CoinCDX? - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LRjRjSlhZQmljeS0xRTVYN2ZublI4eXpNV1ZadHRlVTQ3QzZKb3hVLWswQzFSbkNUMW0wS0Fjc2o4QlA0NTlWWVVFOVVNZk5fcTBBQlJvNVFKb0RXbjM0NktadmJ4U09KczhRZllmZ3dVZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:51:00Z",
-    "hash": "624323240300a235892edda038ce472e044fa66bda21dc38142b8d7b372d8504",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Beyond the Hype: 4 Monumental Risks to Quantum Computing Pure-Plays IonQ, Rigetti Computing, and D-Wave Quantum - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNRmdPUzZPcUNGVjh1QUtCd0M4NF9uNnNXaHYyaVVsNkZrdWE1TGxMdm9NX1lIQWhONExBWFZtdl9JUTBTSXNkSFVBLTF0TGdJd2dxaTJKYWNsTGNLNFZjN3B5LVNMMU5yeXBEYVRFZWNWeFVldmdKT3RYY2hldzg1bmlFQlg4akkzZmhvSWs2bkR6eUJ1Nzh2OFVNV0hNcElhUk9HbGZHX194d3MtYW9sOW5FUDlKNXhjdXNsNWNUbnMzWGo1RFhWUENGbFd4bmZNazJnVFctWVp6SWhXSms3ZmI0OVRSREMzakl5ZmF0T1lGZ0tURTlGUk5DMS10R3U5aTdwTU1qeGdpNDJvTTB0MWY1NU5Tb2ZTdFA0aG4tSFFWQUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T07:49:11Z",
-    "hash": "ae38ddbf005329467b7ec245301c825bc847f78c4d30f915a9cad2574d524732",
+    "published_at_utc": "2025-10-15T08:40:37Z",
+    "hash": "12615012615558e55977eb26a8025254bf1f7151f92ae114a07192d5a443a641",
     "source": "gnews"
   }
 ]
