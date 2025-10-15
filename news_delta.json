@@ -1,122 +1,12 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price (BTC) Analysis: Catch-Up to Gold Coming - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR1JGVVpEVndxeUNhN2NOb3dBam9PNkR4bVJ6ejEwcjRpM2RFSHNXaUlDVWw5dWFwNXB6U29ReUpodVQ2Zi1SMjNTSWZvWXhtZkFaVjcwVFlWMFFENmc4aGtLak80aUh5dnd1SHhKUzdRSHZjT1hIYlpGM2g5QlR6cFROUWpZd25sbnhvNEh3Zk54Wmp4emhlQlJjS0NHU3NSdjU4aElzN0E2Y2FUYVJNY1NUS0ZUa04xMUFWZmlB?oc=5",
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Stock (GOOGL) Soars 10% Weekly as Fresh Alphabet Investment Drive Confidence - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSDZocEFfUGo0ZlJEYUZzRF9WODdQY1VpMGw4cDU5OTRaZUlqaFpJekZwZTNCVkZRWDhaTzFnNl9LSElya2hRRXRTQkliLW1CNWRla015VTY1Ni03UkdGamhkZjl4VVlaU1Mycy1SZTktVllnNkt0LUYzRmNYMWlkMXFHR1QzLTZYdEdxQ1gzR2RwU0p6Z1dUMm5JVkRwUjM5ZGlWV2ZmUTJmaUo4OE9pc3JtYjRQRW8xTjFXUERvTzU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T20:29:51Z",
-    "hash": "49e6333bc120b63b3287956c6fe52fd4b2ef5de81c2b08ba93905eaba29e816f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stocks Pare Strong Early Gains. Google, FTAI Aviation, Nvidia In Focus. - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUVqZFFuWjV6RkxiZTJYeDc2aWtOQzNNMHVVTjV6TUtkTHpOeVQ5MTZWcHhScFlvM1R4X1RGZ19aVWpQZDVKT3loS01pcmhGXzRKMkR1Q1J2aDJ6OTktNmJQNmtKSTN3NU1EcTZ1VEkxbjA3UXBDcmVFeXlJWE9ydDRncjdheUtKMTBJeTd2bWs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:28:00Z",
-    "hash": "aba71bbb1d805b2b975ed7b15880af927f530483e79cc24f16a4a5b11b6ef573",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Forecast: ETH risks $3,500 drop amid Ethereum Foundation deposit into Morpho - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPb1lHdTd0ZlQyQ1JXMFA5NXNuTVVENEZKeHVBZDFhTUNqaFZNb25GR0YyU0JYSV9wWGNWWVRuVmRpUE5QRW1KcE56cUlIMndtRWJMUU50TWZwUG1MSkZzRXBhRXZvR2pqbk0wc1lTNjhWYVd4clVPbkNwR0F1MUlFdlFxOFcwc1hXMDQzZ3N0bnRFYmh0X0hYTE5CMEVDMlhKei02dWtiTENSalFVUXVUbTFpbkdKNVBJaVpHaUkzOUx4YzFjdjBxanFMVi1XTldqbWUyR0l6bUxtSGdqOU1GU0lKYkx1SXFGRUdDV0hmeU5PdU9vaG9QRkwxZ9IBgAJBVV95cUxOSGVqWHNILW12RENDa2hmQ2RjbV8tMnY3RGQ1N08ta2FudW5zNTlfMTBTV1lnUmR5ZlJZUXFhTy0xSlMxbTE4ckMya3FuQWE3b0VWSHVsclBfU3Jmb0huYjRPOVpPU1BzbFRZTTlnZFhJaGlaUjF4TmtVTjI4ZVJmWlJ5eFoyX21acUdBMDFzaXRTOVBGUHZTNjdUbE5yM28wNXByRWlMa2E0VjdNZHZFTXlORTJJT2o3aFpEemNzYUVNMFo2RllKUzRhVjBRRXoyMmdZbzgtUUtsY2ZBdVZoZklEcVNPamwyM2EyRktqdk9FRDhORUdCdTE0TURILVB5?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:25:56Z",
-    "hash": "aa675374e3600ef3ab0a47030cd5ce58f063252145e1e6debd4bba1b41b9de88",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: XRP Supertrend Setup Mirrors Historic Rallies, $27 Target Gains Momentum - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRm4wT3ZBa0lrMEhrRTJsZ05wcXFDd3BJTmN4Q2ktNDl1bFFIYzlfNkFTUjdZZ05Jdmg3Z0tYRlp1NlQ3NG1TNFJRd0FPd1V5Z3hSb1ZyeDlZV2U0NG5VaFBQSEh1b2MyRDN5VlVaSHlvUnJXNEZfZEJRUVA2d3gzMTVobnFvYnVLY01NcXBDWF9YV2pkZWhlS0x1WkQyOWlZNkEyQjNRUE5IT2c3U3JVT2ZzczFSUmdwTGI4V2hBaEdHSU0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:17:39Z",
-    "hash": "a8ee53facecb0ed151cdde7e2946a0a8e0726dc3917a471c470e43989b34618b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk’s Akero Therapeutics Buy Targets Eli Lilly’s Lead - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZU1Oa3o4RTdrZDducWdPV1NkbGVQaUdVUWh3dlpkY085Qm5xdDh3eF9oRnRiQVZYUElwR0lPTGZpNVpHVkhla0xnOXZ3UzRpU1VZRWppRFVXVk9tZ2V1VUxhT2NSU251LVBNUFg2eDFfVmNpOXFiZHFaY0k3NHRMemFjdUZraWlxSW0wY1Y1VHgteDkwVGZWSEU4SWNNT3pTT1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:16:32Z",
-    "hash": "c56275a46e1e1d3086464794c0c2ba7ecde88aa4794746a68b5fd27981137deb",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Bank of America, Morgan Stanley, ASML, AMD, Nvidia, and More Stock Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPOVk4M0lHUkl4M0JrTGZXbWxhTVlkc2ZqUFhaY3VIY0c0c0dqeTVzd1h1TXZ0ZVFmMU5qRVpKb1VoRlVtM1pwdmxxVFhzbE1LM0stYW9USXVvLXZfa0pZTDkxcU9KVzdLc1R0MlFPdHAzZ2Q3NlhpSF81VWFUVkxGUG40UFRsQ09rYmFzMmtRNHV2R0dIZDdtVm1Wcm8zcm5OS01xZTg1d2F1c2V6SXlxcktUenlhbEtUM21fU0N2WmpObGtwSC1TNFdZdkplbDZEQVQ3MEVJZmNoNXhRNXZkV0p1dkwxQkZfS003eVg2Vjk1b3h5YS1qTUtFWXl2aXVXV1o1RWJKWHJMZERtbU9pNFlHNUQxcUhxa2hRVVVYY1ZWcXhEWlBMb1I0YUgwX190ZnFIcU1zcDJpM2I2ZzhnbkNURTV3M0hUaGl3RmhMLUc2WG9vQXJOQUhMTm5MRDdzcldiYnpGVFFBZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:16:00Z",
-    "hash": "415af30347f98c1b3b58b0630c70d25df96091a2faeac42c7be821c6ff05170f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ETHZilla Stock Falls After Ethereum Treasury Firm Reveals 1-for-10 Reverse Stock Split - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWdaNklGUnFnQmRGVWd5MXd4b0JmaEQyZDBDOWdtTzZKR1VyMDRKNzhQOWhpa2ctM0NSc05qWmRDUjZ5LWRKc2U2akZjVEhvcU9laGN3R3NIWV9nQmpPX2RDZURkR3N2LUFiSlNaLXBXQ0JjSmREa2VrNTNsYTdiSTV2bTZVVDVNRkxsQw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:15:28Z",
-    "hash": "5a4d444586b90534e7524a2bb7a3c1a135fd3f36750e811f4172c6a04e49bcc9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "ETHZilla Stock Falls After Ethereum Treasury Firm Reveals 1-for-10 Reverse Stock Split - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXljSm9EMGtJXzYxbmduTFRFdDkxTzJNZ0JrOFNzbjNUNENYbDZuUlhBbDNHSlhmQ3JNRzBIU3VoLVRDQnNhYThDOGhjNGM3YWhLbXpXeEx3bUpRMmhtRm4tSU00cGZqdUFPVlBnamFQeFhZN0dDMzE5VVBaVnVfanVUMmdwV0dxMGFaYUhYQWd6RDjSAZsBQVVfeXFMTUpjZWkzcGoyMTl4OXYwekVtbXZpcC1UR1dsc3lZSkhBVC0xdG9tSEF1Z2tGRXVPYlU1SGdPLXpzcVY3c1YwTmdHVTRVVV93WERYd2lyLXozWk12X096NE0zVUNnTHdQdnVua3dGcDIyNjVSb1k3ZUUwWGNqQ3RGWVhHRzNwTGxUUVp5WE9Eb09JUDVXampJazRtTzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:15:28Z",
-    "hash": "da594e6434a93b51d90d460c127685292e1423de2b4ffbc7d124c76a6aac84b4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Tesla, Nvidia And Rigetti Lead Single-Stock ETF Surge - IonQ (NYSE:IONQ), AST SpaceMobile (NASDAQ:ASTS) - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY0s4aFFZT3RNQUMwazY3VXdSTHdvS3JKN2RFWlE1ZGhFeW5EOUp0cmZfNXZQZFVmMkJERl9aeVUtclBSM19fWGtJNmVxSjZObEZaMUxfUTVTS01nd3Z3MDJCNmhVTFV1WEFxY3JpNG9HZHpqTXgtTFFyX0ZfUDdrQzAxek5VSVNlTUJpMGZ2V2Q0M2ZUVV9YbDZEMEVXald0S1JuWUxVZ1dXMnEyLTRscE5tS0FfbVgwSTFkSUVhUExjSzhvQzkzLUdaT0dlVkVJSTdrbjBCZGVpR09tbUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:06:45Z",
-    "hash": "e4d1b7d23a58a239aee29ce6bdc8ffe8b771827555477560782eb2e61e6ddac6",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto News: Ripple (XRP) ETF Countdown Heats up as Mutuum Finance (MUTM) is Named Top Crypto to Buy This Week - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUkyU3ZGZk9IY2Q3eDNIcXJWWEhIajdNWHJuT2NxSWNzaTltOUU0OWNDRURCOE8tX3hlRWpHZ0NZUkV2MzM1V2ZHTWI2dk45RmRnbUV4VWxRYU5mbDlmVHhTMWZmem85NFp0d0hHUElNT09HX0lONFV2Rlo3dzRwZnQ5LUpxbjFRc1UzdEprQmh5bkc2Tm1CRTRZQW1LWnZ6Rk8yTVRXbC1ibWxRVDIzaWx4Njk0bHZuRklVN1JHNHdDay1peF9sazNzRzlteHlGelE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T20:01:00Z",
-    "hash": "8e4424cda80c6d5592627dcf4ffef0e072b072b01da3bb115c7fac3951a100c7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Just Signed a Key Drug Deal With Omeros. Is There Any Room Left for OMER Stock to Run? - Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSlYwUmJBNkc2VWoxVnlkeVVQYTFqQjFaZ3JTa1lGQ3NwRGhuaU9TTXY3VWd4ZzZvRHVmSEdEVkZOOGFJTkhLTEdxQUlfaHRvSHdtR0xudXN1dUhUVWZ4cjAyUThwT1docERGaVJqaUVrczQwN2hCRHFRbTNwNGx0dXdpUmIwMERMN25WT1ZaTDFJUkludm5IYWtTS1ZHamlpQUg3a2lkUUpoekJNelJoWF9odDYtTlBLOUdWVGFua19SWVhpeEcxNjFxUU9OZDM3UkJtQjZzVE5MZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T19:58:13Z",
-    "hash": "f97cce816dd92e7d68da51f31dc98022a76abf1af7410da0770786e83847d21a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Zeta Network partners with Solv Bitcoin to build out a $230 million BTC and SolvBTC treasury - theblock.co",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWG1WSUwxcnFVWlFyRVZlSmo2c3hiWlY2cWl2NkpQZzdhRUQ2dWdJZzhGRlZfZ0piZGRpOHByZEFVeTMtbXZpNk5KSHh3Zy1Wc0I3R1JlSXNSaFctOTNPaEFVQ0plTkt5dUVXWUlkdlJYY0FFcHpUTW4zcXY5MGM2eHppYlRiTVU4QkNjYlBSU21KVTI5bU9iYXo2M3BFNXRoWFZ6M19Uc2lDZWhtR2ZnZlp1NXNwa0RCcmJsXzBTR0NjblpWT0pIeGRySC1GTlIzYWdPaWV6QmVfNUM4cFROWENiZDV1azd0TDl2ZzRWLWhUWTdy0gHLAUFVX3lxTE1VU2RYZm95OWxzSHRscWZRaXd6cF9leFVkemN1QkJBZURiNHdXcjZxbGwtU2xsdzJ4VFU3bk8yODE1YVdPOUZtSWNULU5tOHB4eVlNT3BSZjF4UzY3OWo0VlJJaldDNG1QS1JxT2swdC1oLW1XS09ObU5mREZodjdKM3NjMGxHa2VhVFRIZkpTelFyVVR4M19qRGxsNGI4T0NONlB6c3VXaVVMWDhRMHY5a1EtWFNUaUNycmE5aGJBTmFJeEVsZnZOWGJz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T19:52:20Z",
-    "hash": "1bd7b68010ad7e149ed8adf0df057915bd0197b4daa1e900e504a086525fdab5",
+    "published_at_utc": "2025-10-15T20:44:53Z",
+    "hash": "1bbfccb04006c948f934df0f7fce289e4d34677f40c8fb514f1721ddf303c4a2",
     "source": "gnews"
   }
 ]
