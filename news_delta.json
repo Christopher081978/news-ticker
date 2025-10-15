@@ -1,112 +1,42 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Sharplink CEO Joseph Chalom says company aims to be the MicroStrategy of Ethereum - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX053WlBOWFQ1eXRCSGwyZkRZT1dMbGlNcDVBSnVVYWNLdFA3cEMxb2ZGZUFnaHJQbk93bW5MYzV5ckhidGhUeUtxd2hLd3RiZG5RbUpGQjNmMGV4RGVyNDVhZWRUc09iaVlRcnVub3RnUGJha1Bxem8zUVk0cVNQMUNnd1B6anFKVFE?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia upgrade, Arista, Apollo & Papa John's: Trending Tickers - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnEwT3MxV2pUMlJnSTUyZUlqTTdOaDIwZ3A0Y29rSW5Ga1UtWm40cENETnhZazZ5dENoWWljYlFnaklHelh5WmlENEpOYzBTRXI1MHRRZzFVUFVWUklYUlQ1M2FuaEQ3SUFDMldXMnNiWWxkQXR5dS1Iekp3UUhaZC1pWDhTVUZXSjJz?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T19:15:34Z",
-    "hash": "41149c4a10d17c892b7c8a30b85e136022276f9eedee3f5fd8dd0a8d5e743d80",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Backs CoinDCX in Landmark Deal, Crypto Exchange Hits $2.45B Valuation - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaU1fT2ZYa0FoMnl6dHFxeEotVmpYWWNFbFkyZlQ0aWoyQWIycVVaM29mWUM1THNRTU54UXBOWlRVMjIyOWNNcjJORE1FYkpOSEpOWllrYm9Oa3E1UUUzRGdteFBObnZ0WHV1cnZnSjJITTVyNVNKY1FUVUFHdzJ3MWZFb01QLWlPdU8xeXR1Q2tObTNzVkRSRFpmakpldDhtdjdzRmJTWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T19:13:52Z",
-    "hash": "30fd2d832b7db7c9aa88581b20e7c6ec5afc907320b573453929b7fe6a49cae3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Massachusetts opposes Robinhood bid to block enforcement of state gambling laws - Yogonet",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUW5jQVR3UG9QMk55cHlQT3NXTkE2VVFpNTdfV2g2WmhHMlRsU3RTbnhJU2JjZ0ZkbW5udmFYZmV2QjhWenU2TUxPb3lTRDNBaVlKYWxKOXJOWVRwNFlUZ1ZoWUJENEtzck1tRkREbDFwemFIUFE0bldKUXBCM3Z2OUNwbURGWEt5ZzVYRk5mWXhLWU5Na0p5eS1yV3pSZHhheHpILTVteUQtM0lsSERUZ09BUzl5ekU0VGlmWmVPU3VlZkRQQXF2Y2UtQkZWTlVXUnoxSzZkUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T19:12:10Z",
-    "hash": "22ff7af04779028fa4b1439ddf56889716b648661fb440539cd2049ef8fe25b0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETH Targets $7,000 While $MOBU Turns - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHh6c3Myckx6aE81R0RVdFM1bWRhTWJ4Qzc2UzZrNGF1RmZBUzhfSkNqOFBoNzJPTWNWLURtOGw1czZ1S0I5THF2eFY2Q2RVWE0wSk8xZnNuSS1EQWkxbll0N2l2Umdpa3FsTExqSWdyYUFGWDJhbElqZkRLcHg3bFNjU0gxZXZTSEoybW5NaGZ4TGhkekpVUXdTc3o?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T19:11:48Z",
-    "hash": "7a68b430356dbe1873664e24bf4572f636155c9deffee0feb156dd5c454c1407",
+    "published_at_utc": "2025-10-15T19:37:00Z",
+    "hash": "b6b187cbd7f5c4061b94607210ad72a93e34929da4943d07ea1cec9dd1bc4704",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Bitcoin Struggles At $111,000 As Ethereum, XRP, Dogecoin Sentiment Dips To 'Fear' - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTm83c0FheDNPNndSVFkxYnNCZ01VMlZJR1hsdklLdms5QkcyYlFycW81U3VSdDdUUUJNRDdCcTFaY2ZQdDdJdkRuejMyNVRaR0gtRUcwbXlfS3BDZ0pybkZwOWExZDhfcGtQdDEyZ2ZWeVFOMTVTY0stN2dTNDRtdkRyeHhaa2NFNExWWkhNbFdjNl9JZFFObDNtMzRWb3VJbEtEelV4OHZrTTZISzZnWTNpQ19sWHZjU296THBKV2RBV1FMNHVZQ0Z2cmlRNFpxS0JR?oc=5",
+    "title": "XRP Not Bearish Despite Crash, Says Analyst Citing Strong Support Zone - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX05UX1pmdVlHbmtvUFdlNFEwcUxXUHNBQVFhelZhVGlIZ0FZVDZCRVhUNTRKMzZHeFJSc25wdExIWE5qbHBjdEFLMXltNlFjQWpJVEFWSkNCbmY2amNrRk54c1N2V1BKNVlWQ2dnWFNnMURQZzZJc2ZBMEZ1a1hTN09zaFc2Z21Ec1BDN1ZaWWR5SEVFdTZEY0F3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T19:03:36Z",
-    "hash": "ada7c3c0886f5e19c5b217a5d167215ceb72ad756a3974048347790be708e719",
+    "published_at_utc": "2025-10-15T19:35:50Z",
+    "hash": "93a6c7c8c073288efe627a833bb3742283b43a608037cb10703fd3fe9cc9627f",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitcoin Struggles At $111,000 As Ethereum, XRP, Dogecoin Sentiment Dips To 'Fear' - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTm83c0FheDNPNndSVFkxYnNCZ01VMlZJR1hsdklLdms5QkcyYlFycW81U3VSdDdUUUJNRDdCcTFaY2ZQdDdJdkRuejMyNVRaR0gtRUcwbXlfS3BDZ0pybkZwOWExZDhfcGtQdDEyZ2ZWeVFOMTVTY0stN2dTNDRtdkRyeHhaa2NFNExWWkhNbFdjNl9JZFFObDNtMzRWb3VJbEtEelV4OHZrTTZISzZnWTNpQ19sWHZjU296THBKV2RBV1FMNHVZQ0Z2cmlRNFpxS0JR?oc=5",
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google's $15 Billion investment in India - Kerala Kaumudi",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kX3R2UTJVdkczdjNrQXM0d3JqY0FZUUNKLThNLUlGbkpnSkVsM1ZWQ1RMSjhGYk9TSXd2cU9IRGFzQmJSb3FCNmt1c1N2YzZtSm5hWTBZWVpKUndUdS1zTXBtaEsyUWfSAXZBVV95cUxQMEd5TjctdjNZY21QZWZWdGxhSUx2LUl4SkVka1AyNl9UZk5OUjZCZnM5WmUzYnlrejFNWFAxZWxDX1U3WVpNZHl4dnRaSmlfYVA4Y3U3MlFLaWZpNnl2SUZ1aGUydUNzRVNHQjJoUXp0NHFFeHF3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T19:03:36Z",
-    "hash": "ada7c3c0886f5e19c5b217a5d167215ceb72ad756a3974048347790be708e719",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Struggles At $111,000 As Ethereum, XRP, Dogecoin Sentiment Dips To 'Fear' - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTm83c0FheDNPNndSVFkxYnNCZ01VMlZJR1hsdklLdms5QkcyYlFycW81U3VSdDdUUUJNRDdCcTFaY2ZQdDdJdkRuejMyNVRaR0gtRUcwbXlfS3BDZ0pybkZwOWExZDhfcGtQdDEyZ2ZWeVFOMTVTY0stN2dTNDRtdkRyeHhaa2NFNExWWkhNbFdjNl9JZFFObDNtMzRWb3VJbEtEelV4OHZrTTZISzZnWTNpQ19sWHZjU296THBKV2RBV1FMNHVZQ0Z2cmlRNFpxS0JR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T19:03:36Z",
-    "hash": "ada7c3c0886f5e19c5b217a5d167215ceb72ad756a3974048347790be708e719",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Cardano Price Prediction: Will This New Crypto Coin Reach $2 From $0.006 Before ADA - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMkFaR3J2OEVwdGwzZG9XWWZGdnBBSHgtRXJ3RUludlFZeEk1TEE5akJpQTA5VU1DN3pXbWpFZFlORmNiSzdWa0RobG54bEN6amhrYnZfZVMyRW1ZV2hDSlEzbGEzcjJzd2NXSVJsUnZueXAzUzZzUEJhOWQ0dHFwd1k4RmN5X0VzTVcxcFM3aVNYaEVOdFhJT3BrR1I5UXloaGtMR01TV3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T19:00:45Z",
-    "hash": "128329c4cc929a3faca088d65f85abb4ca82b4581cb017c321db70dc4f69fd64",
+    "published_at_utc": "2025-10-15T19:30:00Z",
+    "hash": "46102904738f6c26e5d18ca402326de80dfb59b57ccdda5877c214ab63e6bf8b",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Omeros Skyrockets On $2.1B Novo Nordisk Rare Disease Deal - Novo Nordisk (NYSE:NVO), Omeros (NASDAQ:OMER) - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT2FONFlHSTF1eUxZSnNqWDJWV2Z3NFRYNWo2NUxnRzUtVXA5T1JNU2dDWmE4cGhRUTROa2s0bHE4MnFjZHo2Mmpmbzl4emlIbU5sRFBsSUVCbmNySXlCTjRZSUZjd29kSnp3NmctYXhFZnp1amtacE5XM05heDhKcUxFTFdORWxLVmF1ZjN2NGRLN0hRbWhhS3hDSjVqVEFnY1lNMDlhYmNsRk84bzd6ZWRKV09xMUhTMzBTUzlWODlOazNCODMyc3JQczJRY2M5?oc=5",
+    "title": "Novo Nordisk Makes $2.1 Billion Rare-Disease Bet After Losing Ground in Obesity Race - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhcnFCSWFrWWR5Y0JwdUF3bXF4RURTMlhnd3EyY25yMXktZHl6WUh2YTBfN1c4UEI5aDlHOXExa3ZBZXE2bGF2bGlhWkhvck9vWGR0Ri1wWXhCSER6TEdPN29CcHkxUGhySll0V2w2QkxxRkM4RmQ0bllBdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T18:58:04Z",
-    "hash": "e8847bc704fb6755f72110f8bc15ea81795a1e5959a6b5ddb6f6fed8ae22a451",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Peter Schiff Takes A Victory Lap: For Bitcoin, 'The Party Is Over' - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHVsYnFvc1BpQ2dyT0prelpwb3NmWlJmaVhmbXlUNTRFcy1WU0ZvVjEwb1NxcGRhR3QyY1NmTTFTd1dxYVh3M3dQQUdma0xnOUE0ckQzSm9xU3lzQnhXVl9qWnNORFR4Y1dlWnZVOHl1T0N6cGZUVzRKMTFHNC1UZFRIQUpkbXVzUkQtN0ZuMVpET05xRWIzazZmQnpXcV9oQ2VmWVhqQnZ6RWFucGJSNWhKM3M3T2NHVVdhWTJZUTQyZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T18:45:52Z",
-    "hash": "aa8559e1b52a73f1237de43e4785d9fb23b7bbeb8c294f11f4475d293063e1e0",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth: Headwinds Overshadow Low Multiples (NYSE:UNH) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGQtYXdBVXhMeUJmWUlSM3QtTkFQR0FaLUlwMmpNUUJ0cDcybTRpYXRyODMxcVlOMzRLTXlkcFJIajYtSjVDOUNlZTVxMy1IVDl2cWZkSXFMTG00QXgzWmZiNGtNeFJFWDJ1bWFHdUp0Nkp3VVVubEZ2MjVwci1PTy1hQVNBRVl4MVZyM2dYWUhWUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T18:43:05Z",
-    "hash": "ed4b65054f2d093f700a4dacdb94a2c960983d35a66ed5a201a062f1405d0603",
+    "published_at_utc": "2025-10-15T19:26:01Z",
+    "hash": "30977888eeb4eccca905db79bfb87270c2276675e6155e67588046bb72d48f61",
     "source": "gnews"
   }
 ]
