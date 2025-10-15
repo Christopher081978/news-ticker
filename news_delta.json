@@ -1,142 +1,42 @@
 [
   {
     "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "US crypto base Coinbase invests in CoinDCX at $2.45 billion valuation - Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZkdZSWZtMjg3RHF1MjBqV0IxMWJIYXdqdXR5NDMtNVhObEQxdmg2dU1PUU8yc1NUa3N6MnNWMl9HVGEwVm5KZXVSaVM4UVRQMkJfcC1NZ2RydmNqa21PTUhnaTRKMjFEWW1IUUVxQ0VYOTlwVUJCRDRZbndFU0ZWcWUyVW51YzZ4NG5lQlY5RFRTNU9HbF8xQUtLX1drc2tEb0JpV0laVmtBMGxEMWRXYUYxUlhhSUYycXlFUUh1LVZWR1dXMGEwaG1UMk5jbUFTRWdF0gHYAUFVX3lxTE1fZG5vc1dsbHBoR09PZnNWamlGVDVDV05OYXFVcTlzZWc4eDlPMmZVenlPVnY1MHdiLVl2NEpFdlY0d3YxbTZsV2FiNUx6RFJ5QVppelpKNUhpd1hUQ1lQZGdJNEtDX2NPYU5jNFFHbkRlcm9MTGZwNFhMZ1hocmZNY3gxTWlicGpqWHJNY3FVWDNTTWRUYTYzQ1gwT3Vfa251eDhJYm9MUDFzSS1mWW9pM2ZhTlBXeUEyQ1lGOEFzeDlvV0Y0M2VpMmo2Tkh6QkF1RzByemNyUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T16:29:45Z",
-    "hash": "088c3a3ced3b88217d47695769960383cdb543668897e93f7c827742a4b1638d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETF Inflows Turn Positive Again – Is ETH Ready for a Comeback? - icobench.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQczQxTDYwMFhPTzJMY3Axd2pqbS0zQjdCUy1Rb2FYUTRCbDNBNmJyaU1jbXI2NHdWcXlYTUZJUlMyelk1emVDTVZBZXVkaVU0OFRkWnczOGpTWkxPMEc4S01fOER3bWJ0dHJsUGJ5SkdfSEVPUjhMazhsaXEtQml1b0lCSDVDVUZjRkMxSjVZMTdpbDd3ZVhIVENsZUo5NlVTbkhFWFZnZEtyVmdTMWUtUkV3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T16:28:09Z",
-    "hash": "2f157de6a2cedbd279ec5191c8b1cfd0d2844936776605cc3c8432ab076c8ced",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase invests in CoinDCX, valuing crypto exchange at $2.45B - Blockworks",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VldUNWZnV0lhRlh0TVZNYXlrSHpRYkY1V1VVLWRiWE1xaDQ0Wlcya0ZaRzh2V3VOb0k4Q1M3bmFRVThCb1BGbFBJT3lkMXRGTmtlZG90Mmtob3dNSFlJVw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T16:25:11Z",
-    "hash": "36b673239417f30803dee78d73ea4a0d7c294c9dd0b7ce6d043f29cc23a24505",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Can OMER stock retain Novo Nordisk driven gains over the long-term? - Invezz",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVlJRjlkdnF2OVBiN1FMRWdsZDBsTFZpVmdsSzVTMl9UYUpwcVVfb283bHlXalBOS05uVHhOdTAza2gxRW9IeWVhV3VFSG01VVUzczVWME5WdHo4dWRhZ0o3ZWdFZUdIUVNfd1pMVjRGQTMzbG56U3BTd19qUGQ3UVlBRVlsME12Z2MwLThrblFTRlBKTEZQTnktYWtfOVJ4S1B5Ng?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T16:20:47Z",
-    "hash": "ac6a12be8a40279a16a20a9d8e013e6b551e58e02e3a87b8b514499a35a30ac5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
     "query": "COIN",
-    "title": "Coinbase Is Eyeing a Stablecoin Acquisition. Should You Buy COIN Stock Here? - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTjljTnFvTUVYdUpFVnc2aFRUODhJM2x6YkJ0SDRoMEJNUVN0bF9WaUpqSmt2WDhvTkEtd2xZcWRvY0tqMW9obHVrM1NYUVBzXzR0UTZMQkhwYnlmeElxNDR2UEdzRWFFZWRTTlRyLXMyV3I0c3NYeTlMVkJNOWp4ajhjaU5peENNY3p4WTB5Ykh2b3RJQzdsdm1TZ2RzR3R4TUdoQmFKcHFGRHNncUNQNjRaaXY2dnVWYkpWN1YwVXgteVdNd2l5WU5jdndMUW9BblNNX25zOXU2aExrdk1Lc3N6M2tsR3M?oc=5",
+    "title": "Missed Binance Coin’s 1000x Run? This Best Crypto Presale Could Be Your Second Chance at Millionaire Gains - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQl9DWjVLRDFIUWNRdE1GX1VmaldRRHNfeWlCRVEwRWF5RURrcm9fQXY1a0t4TFYzUGlEZXFUa2E2QXFEQnRXYm9mVDBiX1BsNFQxekhvc3h6VmQ2OU4wdmhyS3gwN2xXRTBoMGkwVnhOTGp4elpZdUQ0V0Jjc0g5bVZvQVNsLWFwUTRsa21CNkJmcXM4WDlwSktReHRYWjBseG9NcXhIMnhpTXhpbkl6UHdJZWNMdEN2QWZOM1puUUJ1akcwaWFPZnMtY04?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T16:08:47Z",
-    "hash": "4f616a2825ef1afae027376eb4edbe68675c14a17567aa2cac635352ce1320ca",
+    "published_at_utc": "2025-10-15T16:45:59Z",
+    "hash": "e3e6b9d3a24a406b7306d0d0a6468699b0ee571cab2284c4d7ac7f0b64815529",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Price Consolidating Before A Breakout: New ATH Soon? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOak5OWXkyLVZfQUtvdHNIdWpRaUlqQ3p0T05yRTJQdmJBSHBvSzkxNzQ1ZVUtdGtlZ01qZXBvRW9PdHdrTUd2cGtjLUxPNEdFUExJN2RPcWRUXzZZU1hXRFhYSFU5MjlUYXE5a2h3Vkx0RVFlUVZjTFZHWlhxeGY3UzdYMFNhSTNQMEhzMk9yd0IxV01jRXpMNVdfTQ?oc=5",
+    "title": "Next Crypto to Explode? New Solana Bot Snorter Raises $4.7M With Just 5 Days Until Presale Ends - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSm54NHIwc1dBdjhnbHlZbUFHaEN5ei10YXJWTXpESDFTVjMyUDNWbGJmdkdKVDc5U0YzWUtMeFVNMWhteHdCU2FEb3BJS3BJVFN3OVkzVmxhVmNsV3lnNDNhOThaaFFObmNVelVWY2J4NHFqWk1CcVplZ1JWeEQwYVBKbThFeDZMaHI1U01Kc3NnNE16ZkdRRWw4NGpLUUhkODFkaWVRYk1KSERrbjBOWjVEWGpqOXdOZ2c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T16:07:38Z",
-    "hash": "8afbc51c2ec8516efca95573316d0d1ec0a7a26e36fde508368f57c267f931b3",
+    "published_at_utc": "2025-10-15T16:42:11Z",
+    "hash": "a3ea7b94f5c3d4b8b27ca23aab52f322261080a5eb3ecf34c7a4cf9dd0bfeea6",
     "source": "gnews"
   },
   {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk has begun U.S. layoffs (NVO:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvS2xXcS01b0x0U3NGT1B3eWNoMmhubU1YdGRXUmkweGVscjlKbHhSV05SdDBOQzlxT2Nja0piVFBmY00yMmVOTHZTcC1nS0V0Qm9DQXdTdGZnNTJ5b29BZ1NUUnJnMGxhQjJOWHBCNGFXSllWMEVpdVo5WWc?oc=5",
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CRWD: WestPark Capital Reiterates Hold Rating on CrowdStrike | C - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDc2TjJ0Rk5GOEFIczVVUm55U2V4TEItRXBLdVA4dFJNcU9LVjhDcndlTG9mc1Jabk9Vdi11bF9QbDY3MS00TzJUQWIwcjY2VFpSa1c2d3VFVmFWMF9hQUg3S3Y0MldTajk1blBldWkwRF9zTXNGeGpLODU2VlZoMTJkQjJjM3ZabjBPQ3czUll0R1NRclQxN1U2N0ZVTlk3aHhpVjhITW5WYWhZYUdRMTRtZWw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T16:05:24Z",
-    "hash": "173aef2f0e7e17035b9e1fd7e0861caa43f343280385f3861430d1c970eafe09",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Grayscale Ethereum Mini Trust ETF Stands Up To Crypto Crash - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVlCdFk1MmdwV0dKOXhzUGY5VGhWcEF2ckVpYmloOUtrNm9mNHg1NFA2b3hwU2gyc1BEVV8wMnlNMTNpbUJieGt6eUtRaTdEYUNqZE1ySTdWRGpFY3hwZjFjNWh6ckQ3VnZ3cGUtbWowTk1kM0R0WFZ6WldzQV9qbXlUOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T16:03:36Z",
-    "hash": "1e785e9becc257c9f6cb83d09f2f791a7676a45fe625d3dce01af6f82c76625f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Stock Rebounds On Latest Data Center Deal - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVmNHd29BTzNpbkpaMHkzR3pVTUpLam4xeTI5ZlFrZG5nRkFwRDFrUXJRaWxsRFJOb1JrdFZLamNyR0hfUEZEYk1kUHBrVF9XSGRXbWlOOEp6dVh1VXBJZk1iazFQaUlsTjg3R25mNnhHVjhRajVrY2FqSlowUUtzR09FU0htNWNQX2JVbHg0M3Nidw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T16:01:00Z",
-    "hash": "f23e5e4ff496922594079511241dd1b583f0b075988c0145032eee81b04ef14d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETH Attempts Recovery as Open Interest Hits $46.8B - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONndGSlVxbW90dGtsOTNkWmo5Z1lDMW1QQ05WX05zN0JucGJObHFwRzdZcVRJWGNrRE9wYzdBUXJuZzQwTlBwaHdiVDJkeV9veUdRaVZHSGJHNUpnMzUyN0x6dEl3VVVPbGdoSDlKSGFCRkNkTnlvQzRCaDZ0XzFnRmpqSWdnRVFSWEVJMVZLSVlMX21HTk1UOXJKQjJqS1Y1Z1JnRG1UNWc1b29zZUU5bERybw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T15:58:25Z",
-    "hash": "bc6c127a65aa34b7a7e43052ed2dcf91de7ee7156c9afee380cfb1ed77df2d98",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet Approaching Breakout As Stock (GOOGL) Nears All-Time High - AskTraders.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWNjdlpieVJhV2ZjVmtaU2RTSGluc2NWOXFQZkxPcUxSYy1SdWFGZFBURExDZmJHLW9pOUMwSlJqRVlOaGthUkFHWHBpSW9IOHQ1WTVQZDNleGpxajdkdFZuRnlBZ2VBUzhVMUFpejB6M1poV19TYjc2QlQxRzdMazAxTmdXeGtnaTdhREpIWVIyTEhTaGRKNFpWYkZCTVNPZXow?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T15:55:59Z",
-    "hash": "abe7bf6bdceaf1e6ceeac29f0df4d07fcb18f21926857797abd660bac5ab53ba",
+    "published_at_utc": "2025-10-15T16:41:03Z",
+    "hash": "6cf0e26a2af4a535eb08b4eeb8890920743aa758890c547d23d05df5d5a4bf45",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin: What Lies Behind God's Candle (Cryptocurrency:BTC-USD) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVo5eWcwV2NGalFOQTlPTFN6MHdpWUo2NWd5WDZxRFEtaXZGRU1Md2Y5ZmtrV3A0dlV4TVFCSktRd1dLb1I3UmFhaElhOWZFU0xZMU5MQkE0MHR0RllHMFQ3ZF9oeDZzZG9nTnR1Zlg0NTVrNzdkZTlUZzdZRXN5TndTZw?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Mystery Deepens Around 16,237 BTC Moved From Lubian Wallets Amid $36B US Bitcoin Cluster - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNazF6c016WGVJUjJSQUl6dllBTE94Rzc5Snl1eXpxaEZBcG43YTlUcjN0SVd1cUs5ZEt2WC16c2tTSlItYTJ1RkNQSG1QRDZiTnhPMUdGRzc2M0hPN2l1VHc0bXpwWFZTYk0wejkxZGdaWjZmVzFiaTlkR0hSVUlrcGNYbmQ1aHNsUUpOcGVBaXo1V291QWVCRFkwM3JRa3ZCMnBwaGpsVXc4R1ZvTU9kSEdn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-15T15:52:01Z",
-    "hash": "f13133d46cc14065d0386e2739d349ff24d2d32843d5ac6c37daabcd6bf4d55d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Bitcoin Is Crashing, But Tapzi Might Be the Best Crypto to Invest Today - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzh1bUpRR29PekpGdkNnQTNNNzYwNWtrRDRiV0FTWFJjZXNfMjl3U1RRRENZSzFrQmtjVFA0WWRDTkN5RFlRSlBJaUpOTWt2d2ttLUpMYTZjbjBvLV90YkxlcjljVmhlbnI1eVQ5NzBmd0o5RmZiRVo4RFkxZ0VlWklfYVFtV0I2dGp6RF9oOEhESXpnWUJYVm05Yw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T15:50:17Z",
-    "hash": "66650f11acad6cc73046e6728fbf221f6ca8bf09dc626c07c6e156e4fa51abfb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Omeros Stock (OMER) Surges 140% on Novo Nordisk (NVO) Deal - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeTRQTl9hUWZDQUticGkxSDYyT3hxZ3NLV1JGYXQ1VVp6U053T3lIeW1feXEtRnRXWmhSNGsxOC1RZ0VvRE9nUnpkeTJNWm1CaU5GcjJKNmhVRTZ5bmg5SVR3bmpYR3dWYmxjSGxfMU1hSkltT1p0NjdRbjFCclM4dWoyaVRzN3dGX0Fv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-15T15:49:17Z",
-    "hash": "bf5825a4d38cc334858f3d9446172180e05f99399dfc9c845ff55cac683162a2",
+    "published_at_utc": "2025-10-15T16:39:03Z",
+    "hash": "4d52508d0aa91ce9c698a8077768d0753ac302b7a251ba1ac81e9ad370a57cb9",
     "source": "gnews"
   }
 ]
