@@ -1,12 +1,42 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "(NVDA) Advanced Trading Insights (NVDA:CA) - news.stocktradersdaily.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWFCV2lOQmdfZmlvYzc3TXR1MF9nelF6LVZwZW1yRnhSa1N1QkZRTEhtS2hQS0t2SFQ5ZVZkbHBlYjU5d3VoVXpPdngtbjFxNlpKTmIyWTlhOGVLVDlpc05mM1gycEpKczk5c09qZ2dqbTZqQUx5Y0doNFVpZjlkYld6SkEwUjJsR19BeDdEYVk5UQ?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Company Stock Plunges 40% After SOL Price Drop Hits Treasury Value - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTXFFcUxha2lCbmVaQ0VuRHJ3eC1JUXJwNi1KbGlvRmV6NDZMUFhfTkVUcHlEQThHRGFNTkpLSGYyX0FmVEE0OWZfWGtNX2pZQTBQU04xSXJnXzRjNml6VGpUeUVtQndmb1YxSnlaLU9jZUhqaHhOZ0lNUkIzMkNqNmFIcVRpREFmU0Zna3dxVjlrYjM5aVZQWG0yeTZUMVhsOS1xdEVjbEdGdDBnNk1STG5qNnNLTG1ZRTRkbDFqRVBPMWtPY1BVcWdWM0d3aFh4cEJ3UUo5MXVKYVJQOU12d0RTS09TNEU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T16:48:47Z",
-    "hash": "ed8b54b598658076bd8301305d764caf82336c344e2dd4f4849d34a3d100b648",
+    "published_at_utc": "2025-10-16T17:20:25Z",
+    "hash": "36477e6e50181504dfa9df5eb0c680b2f0ba23e6f477e4c28c5f6dcec98d73b4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP Price Forecast - XRP-USD Jumps to $2.50 Ahead of Swell 2025 - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWZZUVJLWkYwXzJDMTZpTFdKWUtmY3p5bm8yR3lrVk9ZTEt5MzdXVnBic2k1ZHZOc2tWazZXVzdWUlRaOWVXbGRzUlUzcTBLN2lTTGNEU20wMGdlOE5tZlF3dGowQTR5YnhCUm4ta2lMTTllVzY1cnRGeTNVa0VJSElLWGxkQlJIS3EtQlZYU3VYNExwb1ZtYXlvTDFmbzlWVDVCRnhXSzRFdXg2NU5xVXpkamgwdmZGWkQ4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T17:20:02Z",
+    "hash": "61ea00e7fe7af13b2262f53c8f2b8076f4f1c1932bdee8997399b7d0055d78a6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Stock Price Forecast - Google Surges to $252 — $85B CapEx and Cloud Boom Drive Growth - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2Jwb1pJM3psV1h0Z1JlaFlSTktQcWttZU8zeXFZelRYX3MtS1hqdFlmT25Zb2xFbVIzSGVnVDZLZ3k3MHBjb21xRVhwalpoeDFnZEdWbkVINU9ETDdmakx0UDBQbENJWkM4XzJ1N0NuVFFkdks2ODYyWXhjclU5SE9kSWtWYmp6cUlfVmlibDV0dllZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T17:00:02Z",
+    "hash": "b8970c7c5f3768cc00680c6f327552fa28bd0a31d143e952f0fab015f5c5b3b0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Could Hit $6,000 as Tokenized Finance Booms: RockawayX - The Defiant",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUpBQTdCa0QzMS1YT3BoU2RIdXR2bDBhVWozNTFlNHlLZGRKR2c5MWdoa3RjV0o1YkFoNVh4TkJEUzBLenh5NW9ibVZpaE5tNll5RlpKc1VsZ09KaWhNRVNmeUkwajNfTE1xSEtIMVY3bUtXa0oydnFuVDFiNG9zeWZvZ0FzRDdZZzljc0Z0cWF0OXlaTVRfd05Xcjc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T16:59:57Z",
+    "hash": "de2d48efea36440c9bb644219431e6cccb35d65e50d621a244f2173c4c6a10ef",
     "source": "gnews"
   }
 ]
