@@ -1,42 +1,52 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple acquires GTreasury for $1 billion in XRP - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53SmZlSzY1dDJLNWR4X3VmWUlVandzbHVDdnpSTDZNd1VOekxnSkZTUXdHQ2wxTlFoNDhUTzdkenB4YTBSdFB5dmt2dkQ4dFN1dUlMSHU3T2RBc3FldUhhQ2xCdVNMVV9wZkEzTDIzbXpya244YmNUQXJn?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Is Bitcoin’s Popularity Undermining Its Use For Hedging Stock Market Risk? - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQkhZUDNKMklKQ1ZGS2F1eXBZRTB4cndBTUlDZGtDNDdtTGZDa09hUzNWOTA4TDNJMHdnak9ERm1NUUdrVXBrY0ZOYnRsQ1lSeU5BVWtGNGhILTIybW90YWhPNkQ1Y1FfbFVlVUdTbTRPeDJ5TXdJRENuLWpWcWExVzliRGY5N3dxVjNFeGhOcTgyNDlLWkpnZmRCZDFxSDVwWElxOXlaV19wTnQxYjI4Zzln?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T23:13:00Z",
-    "hash": "f3dd86ed9a00bcf2fc4570194a28f95bda6bcfbaf5be395994eb12da32c3a573",
+    "published_at_utc": "2025-10-16T23:40:00Z",
+    "hash": "81c4d9bac17b8d2d76aabf6bab280bcb918cfd5fadcfa3530b53a34b3dd8714c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Why Is Crypto Crashing? Did Robinhood Just Mark the End of the Cycle? - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWQ3OE9fSTF1VV9mMmJ6aHIwWEduSU5NbHRDd284Q01SRFlVb0wwZjhuWHRLNkFDN0hWVWxvLWdVVlotZUJ6TGo3dHZ2MFItRlc3bHlvLUtzalZjTlExYUxjaDlPTXl4ZzVXZjFDSVhTTTVaVXFYWWx0NmhaLXZSMUJiVWZVVzFuVzVmZUxkeG56a0ZCN2M5NTFJQ3Q?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T23:35:28Z",
+    "hash": "bec14b82975b6fe24d1779125daa557a3866dfebc36a0c2386d7b24956ee3969",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Digital Dollars and Gold Just Landed on SOL – Is Wall Street Coming to Solana? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnRGdWdYbnVsZDdYT3FVY0Zrc25nZ3dUNmlOVVY0azJVLUYySU04dTdkUC1sVmtMTC1JWnZmWWZreTlDdlhaVlVCcktLbjdxcTIyQ0t0RGtFV1oyXzJqSlI2Q1VNZTJLQkFWZm1ucWVsQW1maVQtN0d0cG9FY0FlOVhrOUhsWHVIQjRhTGo1TlVFNDctV2dHWTZYaUd6c2NLSHM3NkE2SGdDb1NWbU1tS0VMQktGenpUOURJMDZsaDczQVhDeTdn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T23:34:00Z",
+    "hash": "d249c6b4a93ae36c66aeb7eb96a078ec2e9f2ed40a40dcf578f419c031187f5f",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "China DeepSeek AI Predicts 2025 Prices for XRP, Ethereum, and Cardano Coin - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVFxM2doVUNJNl9SaFdLVzFtNEVYZmREUTBlSVBFeF9TbzNDSFU5WnZINHdYSklaX3dDWWp4SjBqVk96djliVnJBbFNyS3l1UENFMFZwaFR3WEdzVkpLTXlMZldkV29ESmNTMV9zNUVudEJHNmJFejFDNGxGZGFuY1c0M0JfSUYxYkxMdjV4cTIxakw4eng4SDFWZEFvSThmc1UwN0lUekFhaVFIZ3cw?oc=5",
+    "title": "Crypto Price Prediction Today 16 October – XRP, Tether Gold, PEPE - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR1VGakx1OHo3OUZGbUtyRmtoQ29oOURiX1ZCS0lPT09sSEpZc1NVS0FxQnAtTUh3RzFudGFiQjh3eGZfUDYyYXZlVmpPcDAtQWFtQlZFTVU5VXVnbU5DLUlpOXBqaG9KOUVUaEhKV2RyZlNYLTNLeS1FUkhwY3FXQV9yaFl6aHViQmFWMDdPcGl6dFI5?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T23:02:11Z",
-    "hash": "6e892b2a1eeca9d3ee8c2c2368caef081ba2d395a27d3ffbdaef5423d98c98a6",
+    "published_at_utc": "2025-10-16T23:30:00Z",
+    "hash": "4ccdff412239ba6439f7ce5a3e1a9eb5e02e8e541ef877b0d9abf7eb6f7fe5f4",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Reflection AI Lands $2 Billion From Nvidia, Eric Schmidt To Build Open Alternative To ChatGPT And Gemini Models - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcU5oTUI3WkpkdkdULU55X0dhUTl0ejQwdDBLcHFYajV5UnBDOGE4WWRVRXJ4RjVVT1g0TGxJZVZHclJlWWxSeGNRMFplbndwLV9TY3pOSHJ6V1hiekRwSlc4dndob1paZHAxa1ZtMkliaFdydU5Gd2RNVnZpQ2lsYw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: 5x ETF Filing Could Supercharge Gains – Are We About to See $100 XRP? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmNLaEhQcDk3d1RxcVNiN2h4RkpvY2s1YjJ1QzBBcGZIVEN0N1JoeVBTSXJldDJkZHlRVTByYmJDNlNKcThyVmZqcFhScGxoTl9JU0NORjJQRFFjRlh6TS1fc0l0NDk1RG1SVlg3MVZZb1JSTUZYS2FvRHJVX0xNWnRHdWo5NXZqcmNob05oTnMtc1JaY2pDd3QzaWU3SVNsQW5UMjRtYXlKZWdjcm5aeS1wTzlPQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T23:01:03Z",
-    "hash": "321757d86f28ef85dc532e81a3db400873a9b12e0d0d44bc29d3c2cdcc83158d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase Global (COIN) Stock: Dips Slightly as Crypto Giant Expands With ‘Business’ Platform Offering 4.1% APY on USDC - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcW1Qc2RTUzdOazd0MHBoZ2s4X3FwQzFOS0QwSlpQaV9BUTNXeGZ0c3BBXzJxcFR2WEF3MVdCVkRndllVeEltMDRETklka1pVdGdXS2R4dFZweE5Kc05DVzFqUmlCT1FOZzcxem1rMjhHVnh1cF9UdHl1MHBKaExUUGFDaVpRc21IbjdxOG5Oc2tLeEJ2Z3Fsd0RhQUJfYnE2UXVmWWY2cmVHTjRpS2tURmFjYmhucFBXQTJpRVhxWm1vOUJ4V0w0Q29iNENkYWs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-16T22:50:53Z",
-    "hash": "26d3eca039feef7880f4f60ba9bb61bccaffe1fa1e317617279277dbc70ab761",
+    "published_at_utc": "2025-10-16T23:27:00Z",
+    "hash": "b09801cac5c53062fe640d7d1967b452a28c1028fb621fe07341c95ed8b31cf4",
     "source": "gnews"
   }
 ]
