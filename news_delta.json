@@ -1,42 +1,92 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Company Stock Plunges 40% After SOL Price Drop Hits Treasury Value - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTXFFcUxha2lCbmVaQ0VuRHJ3eC1JUXJwNi1KbGlvRmV6NDZMUFhfTkVUcHlEQThHRGFNTkpLSGYyX0FmVEE0OWZfWGtNX2pZQTBQU04xSXJnXzRjNml6VGpUeUVtQndmb1YxSnlaLU9jZUhqaHhOZ0lNUkIzMkNqNmFIcVRpREFmU0Zna3dxVjlrYjM5aVZQWG0yeTZUMVhsOS1xdEVjbEdGdDBnNk1STG5qNnNLTG1ZRTRkbDFqRVBPMWtPY1BVcWdWM0d3aFh4cEJ3UUo5MXVKYVJQOU12d0RTS09TNEU?oc=5",
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood Adds Aster XPL and Virtuals Protocol to Its Crypto Platform - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmUzcjVZQmJKY3F1Uk55UzJlS3FkUHVxMkw1cHlIeC1EcUZESHRxbVczU3RqTll2VDN4d3VBNXVTcE05S0tMdXBmakVmUHJ2UG9iZDhzRUVVaHhHdU1idGNUaTNzQVp0QmR4XzNqUWN5MmtDUlVYZU5UaEJWTGYyQ2ZRX2IwN04yTlVRSVZ4QVRKc25BZ2ttY3l3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T17:20:25Z",
-    "hash": "36477e6e50181504dfa9df5eb0c680b2f0ba23e6f477e4c28c5f6dcec98d73b4",
+    "published_at_utc": "2025-10-16T17:42:35Z",
+    "hash": "508bc4f2c4ee1c97a1d3013f4d0d51e56fae354ae899a58748dcfa135797d8ca",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "XRP Price Forecast - XRP-USD Jumps to $2.50 Ahead of Swell 2025 - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWZZUVJLWkYwXzJDMTZpTFdKWUtmY3p5bm8yR3lrVk9ZTEt5MzdXVnBic2k1ZHZOc2tWazZXVzdWUlRaOWVXbGRzUlUzcTBLN2lTTGNEU20wMGdlOE5tZlF3dGowQTR5YnhCUm4ta2lMTTllVzY1cnRGeTNVa0VJSElLWGxkQlJIS3EtQlZYU3VYNExwb1ZtYXlvTDFmbzlWVDVCRnhXSzRFdXg2NU5xVXpkamgwdmZGWkQ4?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Launches Global Stablecoin Payment Suite - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVRac2Y3dWV1Y2dFQ2E4eXlHMUFJNVhSNDNaZlk2c0dZMTIxdEN6dElHMnA5alpGbVVWSWxYdEtoSzhxd3M4bmVtX2I5RDl2SmtfS01pdGVZcG45VzU4SThaS2pydUdHdlRIekNzY3JfdlN5c0x0QmRraG4zNUtBaHl0cVowcng4aUQtWlhxNnFDckZfdlJDTVEtNzNoUmVl?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T17:20:02Z",
-    "hash": "61ea00e7fe7af13b2262f53c8f2b8076f4f1c1932bdee8997399b7d0055d78a6",
+    "published_at_utc": "2025-10-16T17:35:21Z",
+    "hash": "4c4827028787fb2c739535913e5edfd632673eeb4c69ded31daef69ddb1d0987",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "LLY vs. NVO: Which Is the Better Buy-Low Weight-Loss Drug Stock? - Cabot Wealth Network",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZV9LTlM2S3JFTjlQSGYtRmlBaEdLcGxHS0s5RF9HMUF3enRfNEluUi1PeWpLWjB2VklkWDZ0NTFHLWpxam9QNFA1djM3MWJ1UGo0emdSc3QzZEk0VFJnT2wwU2ZLelBDQVhpZFVvVmdHSk8zaGtMNG1GdHVOOEpVLTU2SEcxTVdydjF6b2JUdGhMMEtmdEZ3aktFcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T17:34:47Z",
+    "hash": "5d43a030204ab79f961f80f477e9751db42ba4c91f913c44092a6f987b7dc5ce",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia Stock Skyrockets on $100B AI Deal – Will NVDA Hit $320 Target? - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTRtRzJUME52V3AybV9Wb3Q1UTNZOEdZWGoxbjBNYmVjdklveFZPVGtLZTVxTHh1WTZoOHlMU1NzRVVJQmRBNGxiNmNRRG9mQ2VRWl9qUXluLUhuMmVmOXMxNTFoa3hXTVgtSU1aV0tDSjduUWNaNnI0TWRCOWxLcmlDRjAzd0hMeWtzRFNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T17:33:09Z",
+    "hash": "5bf6fb8d0383a2dabbcc47339d63c24b225cfb8dd06652b1e81c47abfdaca801",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Andreessen Horowitz’s a16z crypto bets $50 million on Solana’s Jito - Invezz",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEN5OHY0X0dLSE41ZkxTVmQzaHAzcHQ4ckEtNE1MR3NoY216cFNjN0c2ZVlQcFpqX2dRTDdQN0h3UlBIX2gweE8zUTdxZjV5eFFZVHBZLUd6a2dBWi04UHJjem5kQ1VxWXdVR0tyVS1DUWVuUUhuTlYxZ2ZUTDNRZ2NTOWgzSVRVR1JkT1VYakc2RENJTm5sWUVFYzQ4ZEU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T17:33:08Z",
+    "hash": "97b7c90fe8e9a37f0324200fa9ea3e51a47cf84490b6bac4f500a8efa04b0704",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Staking Protocol, Jito (JTO) Gets $50M Investment from $46B AUM Andreessen Horowitz - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMC1KWVNWNi02bldqd19IQWxmcWJRSTgzeFNFSUhwUnYteHU4WXJoeEhVOEk2VVlMMDNGTjZHUndpQ2FubDRaVzFOMzJUVURGMDVlU0ZnSDczay1vNEtRbWZlVy1fb3Awd1FoeHRLMkNDYWlzRDlkSlF3TWV0NzY2d1JCLUJNVXFUOHlNSlJUREpfZThxYUI2dlBZazNlMWwtY0Q4Ymx1V1RXVUEyMDN5TXJyYnrSAdMCQVVfeXFMT2tKNVlIM0h0V2dhcDRQVmQzaUxFel9ISUpWTURYNDFQVjZXeVlPbFRCT2l0Q09aVVc3bWNsMl9NLXdaNlFjcFlHeDBKeHNNQU54clp5emVWWHVmdWUzMDNQSTNzRzFFQ1NwT0x5N29PNTB6cURkbmhWZ2VsUTVIcUt4Sm9kMmEtQnVweTA0WlBqak1XVHAxMlZOcU9HblBablBjYWdpX3pPUjZKRWI3c2M1dlF5Y1doVUhsclFyeGlSNlBaY2tZdGFBajM5aU96ZlllS1p0MXpQVHJzQUNLR2R6M09nSUhSOTBuM0EtSG9wak1tMWJ5eTZZOTRfR0gwZWZOMHhERE5CUTNsWFd5OHN0ai1HNUpQNWV0RFZIa2JqcWFDdTVHdXc1RDBqbVZsRnpsWG8tU2pseHJCU3NzOVgxc21XX2RsbDBLWTd5VjJfRTIw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T17:32:40Z",
+    "hash": "cdd66c6893412e8de000efc8a5d840cc3108a26e76d819a59d1aac20b2770f81",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Google",
-    "title": "Alphabet Stock Price Forecast - Google Surges to $252 — $85B CapEx and Cloud Boom Drive Growth - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2Jwb1pJM3psV1h0Z1JlaFlSTktQcWttZU8zeXFZelRYX3MtS1hqdFlmT25Zb2xFbVIzSGVnVDZLZ3k3MHBjb21xRVhwalpoeDFnZEdWbkVINU9ETDdmakx0UDBQbENJWkM4XzJ1N0NuVFFkdks2ODYyWXhjclU5SE9kSWtWYmp6cUlfVmlibDV0dllZ?oc=5",
+    "title": "Alphabet: The AI Leader OpenAI Is Still Chasing (NASDAQ:GOOG) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZGNQcTJZRWZ5dzZzYm5KZ2VKN0xYNlhjSEdPR3F1RnIxY0IwY3NlVWM1ZU5zYXA2MmlQdkkxNXVKYXpCLWd4Mm9HMWhfa3phWkMwUVlBcGtLNTg1am9McmlVWFdvTEJwZFJNYTVWYk8tYWNNUGRvWlAyd0xreEdoN3hnVGlpTE9HcFdDZ19NWmE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T17:00:02Z",
-    "hash": "b8970c7c5f3768cc00680c6f327552fa28bd0a31d143e952f0fab015f5c5b3b0",
+    "published_at_utc": "2025-10-16T17:30:12Z",
+    "hash": "5945f8358b65d68d91856caf366b9039860f2fb0dc4356f990cc1360a9224990",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Could BTC Reach $250,000 in 2025? Here’s What Experts Think - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWTB3OWJiQ0NuYWx5NFZqSUoxekhLdGRmSjdES1BuZW9Nb2VUNVN0VFhKeVk3aHNlZkVUamZocTBrLS1EOHo4andteDhweDNoeGVZdV9GUGdaSXg1NHN0NW45NXI1TnMxTVpaQTZQWGtlSlY0cmRvYkI1N1hXWTRhcjQ5ZWVOSFdPM0F5ZkZjU3lGdUNIWVMxRkNpSXF2Uk5GaFNxUkpzWU8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-16T17:30:05Z",
+    "hash": "063f3427c7b99198f80a7e36202ed7e14b8b8f8d38773c4c30a33ee4c8bce135",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Could Hit $6,000 as Tokenized Finance Booms: RockawayX - The Defiant",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeUpBQTdCa0QzMS1YT3BoU2RIdXR2bDBhVWozNTFlNHlLZGRKR2c5MWdoa3RjV0o1YkFoNVh4TkJEUzBLenh5NW9ibVZpaE5tNll5RlpKc1VsZ09KaWhNRVNmeUkwajNfTE1xSEtIMVY3bUtXa0oydnFuVDFiNG9zeWZvZ0FzRDdZZzljc0Z0cWF0OXlaTVRfd05Xcjc?oc=5",
+    "title": "Next Crypto to Explode: Sorare Calls Solana an ‘Upgrade’ from Ethereum; Could DeepSnitch AI Be the Next 10,000% Gainer? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDlfLVJuTUl5QUwxeC1qRlZDaFBKMVNPLXR4SGxiemVlVkNTZThrMGhPdXpTbnd1LXl4VGNoaS1qUmtDbWlsaWtSLVdib1ptOG1qcEY0cERxcFplR1JBNU94MEIwanFBUnZqalZNVEw1VzV3SnpBOE1rZGR2UFJtM3FTT1l0bmFaN0xqdmZPSk1ITnRjZUZ0TGUxcWFMWHJsNS1kdEhtUVlMOXdLNnpVSE1ZQTRfRWp0YjVCUG9mUWlKSUNDWWpUVDNqeUFDNGsxZllJ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-16T16:59:57Z",
-    "hash": "de2d48efea36440c9bb644219431e6cccb35d65e50d621a244f2173c4c6a10ef",
+    "published_at_utc": "2025-10-16T17:28:42Z",
+    "hash": "4d706525890529ee7ed667018d5429283ab3c77b063fbb8aacdc1e15a7866618",
     "source": "gnews"
   }
 ]
