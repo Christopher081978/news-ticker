@@ -1,62 +1,172 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Stock Falls. What’s Dragging on the AI Chip Maker. - MSN",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSVE5SGMtN0lBSnVnS1FUTklacjhNTkJ2U3FlV3YwTm51cWlsdnp3MjBmTmtVZ3JGRjFXeVhmSnVONmlvcGIxVEV4cklZQUNOQ2xYblZIa1pTN2k4T283UHdOQTFtU0ZhdXhRZXc0aXhWVWFnV3B2VXlsa3ZRY3RmQ3lVQU5sOG5xNUp5eTVZT01RbnR5QkJTUkdtX0ZFckdTY1RLMFZoZ0F6cGgwT3g5THFUNzI2ZkZYbE5QWHB4QjFDbm5YOTJzWjQtUUxwdw?oc=5",
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD Announces Massive Recall of Over 115,000 Vehicles Due to Safety Concerns - scanx.trade",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbmxabllrSWx1S0VMSkxnanZzaGFsazdOeHVNV0lMaGh0dUlJSlE3MW1WTm1lMGhqd2xQVm5GMkhwUUc1dVFDaEZ3QllrcWlZQmNWOXVydHVKTHRnY3poNzhwU1RRd3FxU09TeEZfY3JabHJQQ3hkeWJuZFlRMVROQ3REZkxwa01xenlKMHV0X2Z4X2JGRDQzYzZjVkdkSkMzNWQwUHZrOFQ4Qk1wZTZUZGw0YjBON0hub2RMZ1hVakFNU25zUkZRMmJ3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-17T09:41:57Z",
-    "hash": "3eb03a494f9db998f5f55b9e1e9f7c5d4fe775610ea25a3b02ea5d326ffcd2b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Trump Coin Joins Newsmax Treasury as Board OKs $5M Crypto Purchase - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblNvTUNJSGNFcVVzeTVhUm85VmJWbHBYZ083OVMwcnliTFBmbThKanFDZEZhUHB0cXQxVnZCQVcxemdWRkxiUWZKY2VHQVJwTDd3Z0p5c1JFbTBPYmtMM3BnODNycjVZaE5EeVBhal9lazJGeGxnbGMteW02OFYzODJoUTRJWlhKcmd4ZHd3Q3R2MEtx?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-17T09:41:37Z",
-    "hash": "7f25b1602d3cecf135f021ae6181eb8d7b842af8b8e249457b0e14592274b7ee",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "France Hits Binance and Coinbase with AML Checks Ahead of EU License Decisions - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFRTOUUxWWFjbUFuWk16WVAtT0JoZkNfeklXQXNFbTcxR3pmRVo1LUJFcjJESjM2ZHh1ODBsVnBDYnUwSUtPX25yb25ONjdXYTdvRWFaeGZqdmVRd2dpRGIwN214bDFuWFdNODBIc2FYZndiNDluaHlTWWpvTWxWTW04VmdBeFpyWkdIbHRSdWg3NFV5QS1LOHg4UDFTWl84WmlEUnJhRHNkRlU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-17T09:37:51Z",
-    "hash": "609ef1babe07c57571666b5c9c99b453c1ed6514b8dd5fbc2ad8d22e1b39535f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Gold’s Market Cap Hits $30T, Yet Bitcoin’s 15X Catch-Up Challenge Just Got Tougher - CCN.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTNJc1QzWl8zTVhEYms5RTl6NTF1bmtUaUFicjhZSEhUYnhIQVBseEZZME9RX1liSnZlT1JxbEhLY2FrN2dXVWVIYnlfWksySE5WeHdSS3NUd3RqWG90WFNITm40anNYa0V1RlpGaVRQVHllN3ZPWkJHaDF1WkV5VWdUNkFyUkxKN1Boa0RWWVpvaW43M0RmbG9Obw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-17T09:35:21Z",
-    "hash": "40e98100e34434fce9cfcbedeaee3329788cbd1d64386968a0c5bbd69ed79e77",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk, Eli Lilly slide after Trump comments on weight loss drug pricing - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOelpPR1ZDNndNUDVSVWU4QW14UTZiMU1LTXBIX2p2VWxTdE9PdGR0NmNnc2RPOUM2a1NubUFaV1MzQkVoMTVfX1A3TUYyendiNTNvQjljOTdrTXBHY0Q4aTVfWmFiVWgtQ2NaUWE3NnV5ZWpsSF91amUtOFJlZEwwb2pDZ3N3c21zNjg5U3hqd1Z6cFotZ25CUmZScnM2ZlN6MEtCVHZUM2lMMVZmc25nT0NvME5HS3YwQURfaV9yUEQ5emluRF9EOENORWRsQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-17T09:33:45Z",
-    "hash": "b74ea1bafdb5fc8f1548a03e49f6dcbbd33e03f2084324a2e0791fc25d09226c",
+    "published_at_utc": "2025-10-17T10:28:32Z",
+    "hash": "d05bd790a82aca684d1362f0b90dc694b388443a6b6a3aa439565b5b424143f0",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "VanEck Files for Lido-Staked Ethereum ETF With US SEC - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LQkxVV3R2WndJSXVsblVaYktRMmFoZXNvSEtfRFk0RC1fY0lObklsZFRFQzJ0N1JmOVlHcGZKZmJhZWx6d2RidmtXeWxFQ3lSVktlOFcwNXBNVXJUOWhHYlBGYzhjc0R1amJQONIBckFVX3lxTFBKX1NRbHZzcHNkSFZQMTg4bU83aHY2aXUzOTRmMG5TUUEzWFRvbmd5RWZHRTBvcDRsQTFnaG5NOE5NbmVscVo0a1lyajdRc3V0TGpxcHZtaHQybGx0dnFYY1B2U210WDZqU0RWZEFHNlZPZw?oc=5",
+    "title": "Ripple's (XRP) Price Dump, Ethereum (ETH) Searches for Bottom, and More: Bits Recap Oct 17 - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHE3UENsYy1YVW1qVE9XSF9xY1AwUG5vektfc0VKWWhOX3VkUFZUdGY3dnR3VloxRk52QmVJZGQ2ZFFISlB1T0MyRjJrazIzUlg2MmwyUjNLYXN1Y2o4MnNkTG9teTdfMjR6cHU0WW1ONVVyY2syelF3NEVfTnhUUEdKZHM1RG15TFh6M1A1Z3h4THZsaUhDRFhKNnVYT2hqTnVpc3hnNVpTNVIy?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-17T09:32:05Z",
-    "hash": "d984aca081efad6ca39c74460fd5c4e082c15c7e214ddf5b813605dcaee4f524",
+    "published_at_utc": "2025-10-17T10:23:00Z",
+    "hash": "59890ab83486a4aefc16afc7c3b049d03bdac196ca87e236e079062d14be325b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Outlook: BTC is Showing Signs of Bottoming Near $105K - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaWVORWhaQXlNTmhyTnR1eVpXUEwzNlExd3RyMXF2TmVkZDk4MFRVOENpWHZPczVYY2d5WGttYVJFRHFHM2lKSWtqVjBIX1gyZllpaTB0RDZKcm1OUVFxWFZ3V21sQ2JUdm5mT1NqdVJsXzJGdzZnaUdzMTJvUVNibkFkSnRyd0Q3d1I4Z19JaHZVOVlFZTBuSERiLWVJNXNuVUp2RHdQbVlZcEJ4SEN6N1hpVTRFMjQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:19:00Z",
+    "hash": "925bb656eaea40070540cccc0564c57d109ee148f482cc61242ee019f8d1b3e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "DeFi Development Corp Expands Solana Treasury with $16 Million - Ventureburn",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VRFJWeFpPX2lpUUFjVF9URUdqbGN4OENzdjJ4akt1TGQ5QkI3Wm9HNm1jRHZGd1dJTWhwbndQdkxJd3pWejB3cFp2a2pCTUJmMl95MDY3MGRYQU9oWXM2dkhrZkRnMXRv0gFoQVVfeXFMT1VEUlZ4Wk9faWlRQWNUX1RFR2psY3g4Q3N2MnhqS3VMZDlCQjdab0c2bWNEdkZ3V0lNaHBud1B2TEl3elZ6MHdwWnZrakJNQmYyX3kwNjcwZFhBT2hZczZ2SGtmRGcxdG8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:17:25Z",
+    "hash": "bc45a3c3be2a08ea835ad40b7f74b8e2be0b453983f4d89ff8f8a0dd95d5dc36",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Baird R W Upgrades Rocket Lab (NASDAQ:RKLB) to Strong-Buy - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcTA2ZldleDJ6S2w4RENOdlJuamZTTnFFbFFRTVpsSXVjcDJVUmdxYzFwMEwwV1RLcDd0UGVaV0JvZ1NKQy14NW14cE83SVJfTnlhLUkyOEt4QUNqbDBUZnowcnlJa0hOVk5BTVpMdWtQMnNxVlZWeUtjaTlscXhzYWV3cy11bzRFNTYtWkR3MmVuV0NOUGFiVGN4NVdEMW5raFRJZmhoMVZHWl8x?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:17:24Z",
+    "hash": "508bcf9eb032e50b84555f97a2a7df733a9e51e7defc4a80e5fb3ebf43fd139b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Stock Hits 52-Week High on AI Hype, Nears $3 Trillion Mark – What’s Next? - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVFSSEJyaHAwQUVWT2pSb3lnbl9LT1Q2cVpva2s5Y1NTdS11QnBPZVI3WXNDNHpWa3l1QUM0YUNqODYySW5XMHFqejdwLW9fMGlnVzl1dVNpTUdnTzZFMDlTV09BZmNhZC1lbDRDUzhJelhUNm00ZFE3TWRSZHBtbm5PdGhUcllZRTNZV3pONDJDV0szbkE0UnY1NA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:13:07Z",
+    "hash": "3d22fa7b7c7b637624eef8ad941e450889c3bfb078f9370c92ed6530c9c47e4c",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth stock price target raised to $409 from $317 at Jefferies - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0xDUjRPQkJTWmFrVmlvdEdHaFRTRWJEeklzekdRcmxyZ3h6V1lHTFRjZFVwQk1Qd0FELXBiUW10ckUtU0ZhaWRtd2phTnJvX0hXSWhoMnZ2S0pXMXJ4Xzg5UTZpNVBJVFJPdDdsbVlrTVhzcjNmMFphUldRODhQTFhyOUlEUTB2UzMtRm5WSW5BXzVfRkZpQzRLYlE2MkUzRlNnYXl6OGc5S2E0enJ2aHM5WDNIVk9kNERXNzM3LXpEME54R1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:12:39Z",
+    "hash": "76c588a6b886e408a5715076e637048e706dea2370b019f99fc4475abe1a6593",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "China’s BYD makes largest recall of 115,000 cars over design issues - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXc2eEViaHdXSTRDMjc4QjhoaGlkbjJrb19WMTFWTVZQUG5TTzhSNnBxLXlRd1JuSzNQUnlJSmNTLW9rYWJkOC1GOTlYaENvWFJfVXFYZWRqcDYtZjZDNl8wUWpTWDJDdzdTT2ktWU9XRXB2QkNuN25XSXB4ckMyLVBwN1hVUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:08:34Z",
+    "hash": "5511b62e36576c9713e63334c92996fdbaac6d10591676b2b2f38222d17d54c5",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor-Heavy ETFs in Focus on Upbeat Earnings - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzcxWkRVSFhsaXJIcmlMUzRoaV9neEFKczJjdEdGVXdyUVMzdmtWSFMxbEpFMFEtd21SbmxJd1ZUV01fRmtoWVRDZ2ctNFRiaVdJMF94b293WWJGMHplZE1QUDZSalVGWHE3ZmpzdjBRWlFrUG9icEFwalV6N0h4dzI2NUN5UG5sWHllQXYyMmd0SExCYlZULUg3ZDhCM1FybXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:03:46Z",
+    "hash": "a151bd27a88476ef1f329a41b87198a1f62f1ee39215745298f7564a361e9d70",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana and XRP Show Bullish Divergence — Traders List Them as the Best Altcoins to Buy in October - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlo3Q1RnOHk3eXNaYzJHU3BNNkJCUXRuamFBeUtkdHVjeUJOT0t0RlV4WUVLdlVlUXI2VlIyNnI0ekQxMzhJV0ZqR2lKRU0tRjRzMXR5dG8zZG9NYUFnRkVyczVxRUlpQkNlaGRnQlJUNGhVaGIyUTUyWWJnTGlRZG5td3FsT204RzBIaFpKdFh3TG9iaVlFSnViUXVPcTEzeGFaVk9MZzRNakpmOU90cXZIVVhXcWhoUjZFZnNfb1o?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:02:44Z",
+    "hash": "0dc4653a0e29f7f3cd56bde3f788d3450a97dd0afc99d272c61bf1f87dd666f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "‘Chinese Tesla’ BYD invests billions in SA expansion - ITWeb",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21ISzZ0UUcxd2JBSnFMME5jLTNTZUlEbm1ZTm5oOGZlMEFPV1p5N3ZBZDZ6WExaeHdSYktZMWJCYUp1ZW1rX1lBeVZmb2wxRWZtRm5jWWdINHdkQk85bzRaNmZiSlNxZ0hTdklZYjhUUHlNd1ZBYlRLbWdXd1YtV1BzbHlmY0RtNzRVSXVJeklMNWhDSzZDRVhCY1BYbHVw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:01:28Z",
+    "hash": "821db6a1f357f9a980ead523c9a222781d509c54e71266c0b2061b504a21a4f4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Can BTC Surge to $150K as Blazpay’s Presale Nears 70% Sell-Out by January 2026? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaC1wdy1wSkhDdnNxaUpHNUFDWEEwU05wNzJpUHNBSm8zM1FjS3ZfbUFvQndtX003OUpqemEzYno3R3VJandGaFN4cWdHM3FIakE1aVNReHA4ODBNZzU5S2ZPVFp0RG1LcjI1bTdTZ2ZXNFZMekhHNkU2VElHNVNUeGplVE5EMU56OW9jUFppMmg4N2x3TXdqVzB1UlRTb1RCRy1FdkEzem5yWmRYbG5hVmNCOTJrbGpzN3p4ZGs1ZG44REk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T10:00:53Z",
+    "hash": "b3871552707b0695bfbb5d16be2cd5f920d87cf780790938beb94d76ba673e7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Zions Bancorp, Oracle, Novo Nordisk, Eli Lilly, Interactive Brokers, Amex, and More Stock Market Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNTVlDNXlXbUZEUmpwOUh3ODNzQXdnMUhGUTJqTDFYYWNBb2hyM3B5Vmo2d18tbHhGVnJCcGxzM0RfREJfMkw2OHFwNVp6V2pqX21xaTk0bnhsNDg0OVp1VDduaWdHNzFISTZDbEpNVEhCdVRVaUNFcFBXY3VjbEFJRnJiY2Uxdy00SmVMWTdCcjY1bnY5aF8xSU5QcjZwVVFFbEotUFN2YUtHR3VYQmkyZUotWmN0NVIxYTBVRUp6akZHOXUzZGg2Z09idlRPLUpya1VZVjZlbFg5dnhnSHU4M0xVQmptdWFfSlVnQkZQaHZDSVFpcm9nZ09BZ2I2cTA4MkdzbFdqcmRneWMxSjBpdnlVSTFmdndTUUxSeG5OeVRTZVJScTdGYS12SlpIY0N2djNNeWdpcnJDdkJ6N1ZQUHpwaFNQeVdtWnhLaGg0OGJNRTl2T3BCdnVzV0RLa0tHeXJsbk0zRVNzUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T09:56:00Z",
+    "hash": "7614c47ad6982fc7ab8a82f5d1621ccf058d36c1528e5b5ca1d087f5d79af8ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSMC (TSM): New Buy Recommendation for This Technology Giant - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON2tHdU5KdVczb0taOXBGZ2xLdFprYW8zTXUzQjJHSGNLQWcyMVFRdDg3bzZieG1uZ3RrRVp2MUZEMnFYUXNwcUJaa2lqNjN2bzdDWEJHQzJKZjVCUXVYRU9NUjRrRWV4alRrankzSGhQOElzaFJPS1czOFpsU3NLUmZVcGEwVmtPQW82czlINm1nQ1M3MkhBOXZfNllsY1BpV2Jua096UWFGSVNQbVRtQ2Z3YlpsOXhzczdMZU16ZkFINzBVZXB2OUJULUdCcGRjb2V5cE9meGZKZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T09:51:12Z",
+    "hash": "3f47fcc2c0fb253e9fe0b2169365c81c8c0847b382bd29f4928b413d76df09ad",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: Can XRP Really Reach $8 by 2030 or Is BlockchainFX’s Top Crypto Presale the Better Moonshot? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3gyaEFTN0pxbEZIbzdWRFB2cFFfN3VUNU9vakh1VlNjNHRQQlRwVGdaNlZscFh4N0d3WnhneTg2YTFidVZ0R042Z1NvT1gyTEhBd28zWG0xN0txaVU2dzY1TjBJb0JYbXVzdHhHbXdWMVVUbW4yMnYzY1RGR0l6dERHWEljelRyOC1hbFhZNjFCOEphYzVTbC0zdkwtcndGOExFbUYxUXctQWQwS3M3SHN1MmpfQ3NMSmtBLTRXQzNTS3NWNndsQ2ZSV21VWkM2?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T09:50:31Z",
+    "hash": "93550967ef321575d6779d6dda7ba00dee2d9f02b71be3e5bb88b8fa87a28e1c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "WCM Investment Management LLC Takes Position in Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdGo0d3JyX1FBVjlKalpQVktucUJHQ1UwM3ExRTZyUUgyczRPbk5VbzFlVVRkWUVzaWhlSmtBRDBNaFFNa25DUUpKa3dleWs5QUVLeWFfUjdaX1EydE9ZRld5ai1Jb1BTM0E3QXUwUlFhMW1WODdZT1hISG55NFk0dEh5Q2lTM2stNXM0aExRQjlXeGJvTDhyRjkwWkNZSnVWcTZMcmlmYzhiTTVlcTJja0dVY0owX1hETlFHYXBWdVdDQmdJYU0zMHhNQ1ZUeTBOUVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T09:50:25Z",
+    "hash": "57e9fc16d31286df67be7ac5e5adba146d3922cd79a0343b222af5d7c58133e8",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD's Stella Li champions South Africa's EV future - Bizcommunity",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTVEMzVwLVpqVWNsaGkzWWJqSng3bXg3VEdmUnBlS1lid2d0SlMyNUJrbmhNd2d4MHNXaktGVmJGSTVQTHVzM3lxcFlBalZPd0R0VUs5RDBMbExPczBZUEhKUXoyWDVlUW1HeUFpd1B5eWJEeExTajFLSUl2TWo0bHRrY3UwaUZpMG0ySkRNOFh6bmJrdVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T09:49:39Z",
+    "hash": "255825b5fd06050dae21e47bed4651ddcaed0dd0d37706e1b894e37daaf0177b",
     "source": "gnews"
   }
 ]
