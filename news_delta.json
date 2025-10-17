@@ -1,42 +1,152 @@
 [
   {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana (SOL) Price: Tether Brings $175B Liquidity as First ETF Launches - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaVpGQTVtQ053QzZXMTMwck1oeldVaDNCR2lJUWdsQkpnVEU5OHQxcU5PeVBSYVVZRThFZExUNDk0NUFlTnJrQ19aM243Z0puSzNaZzlELVBpdFFGUndwYkFicWdqRV9FclgwZlI4cmRkbTFOVEsySzdxZ0lKUmZuS1oyVmZhaTVNUlNnUXRzNXVmVmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:33:04Z",
+    "hash": "a82e9ef49560410f263a51321d7bc2b0734b2e53e5a519fd3fa16ea48bdd478e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC Eyes $128K Rebound as AlphaPepe Becomes the Best Crypto to Buy Now - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXNJYU1Qdkh4cGdkY2RhM3FxQ1Fadmx5WEFGNjYtZFJERVJHMTgzNjJIUVpJajRqT0lFNlVMWTAzNF83bnM2NmRWaU9lSW9yNFFTcUF5d2JRdUVJbzBlZ0FfenNUNFpzd29qOU5TX3A3ZTZxbnJEcjIyckZrdFRHbGt3YzJfNlFScFpSYzdnb0wwbThGZG10LWU2UW40U2RkcE9DZU9mZjhsYzdUXzJENHppY2lmY2pVSGkwNXpWLXV4LUZm?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:32:48Z",
+    "hash": "4cd74b3b70eb89d9ca57f9f8fb2d8bd391841bcf70320ee1becafc48b1be6747",
+    "source": "gnews"
+  },
+  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple Labs Reportedly Leading $1B Fundraise for XRP Treasury - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa05iOU9iYTBCcDVsMjVxVUdvYmRRb0VUekEwZFhtMU90OVEzNjk0TTVabkljWFVaQlFCRWJxc1duNENwRjNZSUlxWlJUSG51TEV5MExEZFJlYWhPZEJNeTFYQmhHMzNWckJ1RG8tbXdHM25RVFg3Q0dfUXdBbVMtbC12R3VQanpCaEE2LUpJTQ?oc=5",
+    "title": "XRP News Today: Cardano Price Prediction & Remittix Crypto Presale Updates - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMVI4TC1YdElYMlQ0TVp6Z0xPSzFPbU5qYTNzd3BzZkN6MWs5V2NUUUVtTXRrSGNmaTFwZ2VIbjhzcHBJOFFDOENjNWVNNC1pbnJWTGJsby1Yd3doRi1zN1JUVmhJMFNyU1hvTE8yVk4xZHN6b1liNk5uYTdZQ1hBWTg0Z095RFgxZWNqRWRzdjJKQVVtMmtRQXdOREJBUlQ4akh5aA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-17T07:37:00Z",
-    "hash": "6ccaeded99155a42bfd33fe3db3a5393f5fc95c0c34d6289d0b32980b66b8e1f",
+    "published_at_utc": "2025-10-17T08:28:00Z",
+    "hash": "d78e545d8451f0d0ac560c3da75065a2418b33a63e9200fade6263b158cbc7cd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "9 Best Meme Coins with Potential Upside - The Next Big Crypto Wave - Digital Journal",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjV5RXNVdFVzN282T0RSbWJYUmpOUVB3SEdtX0pLdVl5ZGl6RnI4Z3ZWaUw1WGNsdndnV3pqYXJQSEtHTXdJM2VRN0g3S0FuY3JLdEppTzh5ejhMVTNLaW85NzdQMTFUek1RN3lOajBoZXNUYmpSWFBCaU0zV0pycmhvR0VTUkJLNVZOSFp3a0JMbW9VV29FRTl3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:25:18Z",
+    "hash": "15333ae4c499753f65920327cab617142ec546ef5f34dba8c83f8adc1c75a7e3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price: BitMine Bets Big With $417M Buy Despite Market Weakness - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSHBzZnJ0bjdDNGQ5WkZkMllRSGRCVExobkxKQl9nUFlkMXhiZ2pKRnl5clZvWEpLQW1NZjdPWV95V1pQVm81eDFVYlo1bUw0VWVWdGdzbVYySkNlNmFFWVdIMDFwSW5GNkpXWVZkd3FLekRkVXhFOU44dWZzOWRCLTNQVE1ETklLbzlMV3d3ZERwTHVWM2Y4QnVHUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:20:31Z",
+    "hash": "ebede9bf2f320872aa699dea15a5bbc81e9b5acd444741fe5e858b5905e99c0f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Labs Is Leading A $1 Billion Fundraise To Establish XRP-Centered Treasury: Report - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS1pBcUNQSXllckEtclVGQTBlSF84VWJid0h4ZkRDUVFuUjA1b3BTZUw4R3cxTkFPY0Yza1hRNVJKc3JDbEpZMXgyNFh3RGlTZTVJVWZqR3JSYTYtSFc4RVkydDA5Uk5VWXFBcTZBMnh3SklOYnJMekhrQS1oVVNNRURUNlZCVXRJd0U3Zjh0cEs2WTRFWU0wQ1lYbVRMRHBndmU1OS1RcDI5ZW5BX1Y2TENaR0ZpdjRscjZMSXlFWVUtN0RIMVdNR1lCQllRUzBvOWJYR2J3NUVDcUpFX1RhUkZB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:11:32Z",
+    "hash": "5be70e155e89b2273941c47783d24cc0097b39550601c762014131bf7fff10e5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: 75% Of Investors Expect ETH To Top $12,000 In 2026 - Here's Why - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXpoNXI2d012S2NnblRtN3I2MTZ4bU1sMkJVTlJmS25TTXFBRGxDSGxxUmVjdEswSkdnN3N2VHJuNHVfdVBuOHNPRmttcVhLVGVHa05rVDY2aXdHUVJoTWh5ZE8yWllCQV9YbHk3dC1QSUhCaFdMUWxQS2xUUkxCM0ZlYW5ncGxNYXdZdEFfanN2VWFYNzlTVnZ3Yw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:06:59Z",
+    "hash": "79937d5ed1f82deb94dd8cec7faeead098d70479ca66979fe571956066be40d8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk, Eli Lilly slide after Trump pledges 'much lower' Ozempic price (NVO:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUVtWXVGMi1MdmpiOWtxMkFralpHQ0E3TFNvdjhNZ0tKZXdKMURnQVlkLWxKXzVDdmd3NjFLXy1NaUdtQ19pdG93VTh0NC1ycnFEZVFKWnFBY3Iwcms5cUstRkh4UkN5ZU5VUFoxTWYzbFNqNVZDUHY0NVQwVHpraTl1N2QtZTFrQ0h3N25fR2hWekFXa0x3SC15MlRUd1REMk5URFBvN0VQYWZKaGMxSw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:05:58Z",
+    "hash": "c88efe7f8ceee95fe192df54046bdf34a39287ccf5f52738823f804cb763396e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC Drops Below $108,000 As Selling Pressure Extends - ICOBench.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRnE0VjZnbk1pMDR0V1NOUExnOW9lWmU2LW00cFZCVXdqWVp0bHVRTU5tUWhBRmlsQlgwMFAza1dNckVtT1RWbzdFc1BMZW5LcTF4eUVqT19MLXFwbVN0YzA5U0hpVVBXV2RWbk40NEhkcE5acmQ5T1Vra3B2NjB0bEJxdGhNVzFzLVlOWXd1TFJNcFBnbzZLVzlwdnJ1WnN4b2ZxNg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T08:03:16Z",
+    "hash": "f42e67c21511a50fa5429687f36e66f9983d02b12f9a9ea36c003fb15355a1b9",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana (SOL) and Mutuum Finance (MUTM) Are the 2 Top Cryptos You Should Have in Your Portfolio in Q4 2025 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzk2c18yTmRTRGVwampaS3ctV19tODFiWEVVYWxLVFFDR1hMVWhfQkZ0d0Y3eVI2NTBwaU13TXNJOTFybHlnY05lc1hXYm5BX0QwUHVncXdmeVFYbGEzbU56M3JKS1pVZ2FpTGcwbGJhTVFlYTVVYkI1OE53MzkwMnE1X21QdGY5SHY5YUU1S0RESVZfdTNmbldhM215UUx2NHNHSi1MZUV2UWQyWnZHZnJKTzd1T2ZhMGNtT2dhbXZ2WUIyY0NEX2sxVTg?oc=5",
+    "title": "Solana Just Crashed 14%, and Now There's a New Reason to Buy It - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHpubTVTSnhaa2ZDT1RYUlhXejRZWXlpNG1vTGpZSjZUSUN4STRMd1F3c01XaWdteUlVdWI1UklmdTBPOFUtczl6cFNENzZLQVJnU1JIVTZsRWRIQmlUQTVLU01Idk1LV0h4NmhHZGhOU1luX3FEcUgwRGZYaVpvZzJjUkhyN2tuY0pSOG1UTm1ZQUlVT1IxSg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-17T07:31:00Z",
-    "hash": "348e3e1d5b6f33f3f1567e97728116ebf4b23c97d4c815fd14208a5927ea085f",
+    "published_at_utc": "2025-10-17T08:00:00Z",
+    "hash": "3a2d828307a8715500726747fba296f7915b84b3652dc2be36fff15aa8a0fa5d",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stock Market Today: Dow, S&P 500, Nasdaq Set to Open Down; Nvidia, Micron, HP, More Movers; Bank Loan Fears - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOS1NSWmg1ck9Wd3gwMXBDTDBnN2NjTDRHWkxSaXRoM1J3UEZCcnFkNFBJVnk0eEV1dnREeXRYYUN2NjliOV9Fek9vVFFrNTBfc3ZJT0syUkpFNkotaGw2TDJFVElSSmFEUDRPdHRDckdiT0FXQVdrNkJsR084Q1dkYzZLbklUaWFlNWdUUXk2TC1BcVlvVnRGWGplMU9KSEpPNlZhMlQ1SFp4dlJFUHpfQ3U3cTVhZlo1S1pGUHZEb3FEVmNjeXNlQktVZTlwZGthV2NfQ0k1X3laTXd4VDBqWEEyMkRSWU1uU0JmdDVJakNKZWliZDhSWGMwMzdCUWxHay1manpvdm9sUTRuM1FzUk45ZlhfQVJsSHl3TXd3bzVsZmhIcVFsRFJ4NS14ejlLTUpwei1tNUNIMnJaUTAyYnVKbnkxUk1HTmltU19jc3lGVU5TelpYUjR0T3hXTXpIajIyTGVCRkIxMUg3WEpEM0lNTFV5LXlyTVM4?oc=5",
+    "title": "NVIDIA CEO Says U.S. Sanctions Cut Advanced Chip Market Share in China from 95% to 0% - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVDM3RV9qcTdwRzQyZ1hKVk1TdUdhUkJaTnVGbkc3aHVhaEIyUXFhREtwQWd0OUpJTnFEQUlRRFUyOV9oSGUyNlZYbnVVZ3Y1RDZBUVQ4dTZEU3JWNzA5ZkEyNGRGNHhjNGR6ZDVLUTlsWnZ2ZDFxUHUzTThYeVFqaFAyNE9PaXpk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-17T07:30:00Z",
-    "hash": "3189ee27042fbcb02894ce0330d9751e6158477d518765d28ef79bc96577af3e",
+    "published_at_utc": "2025-10-17T07:59:57Z",
+    "hash": "ae5ef99732a29455cb93a4441d94c1ff1143a0d00d1da03ed4ca733a12113ab5",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple Labs To Build Its Own $1B XRP Treasury as Rivals Draw Outside Institutional Demand - CCN.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmlsNkpWTDVMcUlCS0x1b1JkNTBNSFpUU2FIZ0lwTnVuYVhHZTlRZllKRmlTeTVLNFV5cGpfcmJkcUFDRmViMnQwUTBVamhpSWJNd3FyZ1QtNVZqaG40LWdHVGo1aE13cktqaFN4dnk1eU8yRWlLYjJTd3RiSVJQUS1COFNONnRuc293YUVaSWVnRFh2aFJiYjhB?oc=5",
+    "title": "Is XRP's Current Struggle a Sign For Startups? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwNm1RUExHTVBVNG9tUlNqVDU4WDk2cEJPX0FxUlJKUENSQjRVZUd4VG13N1RoTG5MUlV4bVZOY2ZYU2JkS241UWF5TUEtM2ZPUkNHSnpOa2N0bzNQbnFHbHFHS2gzVnF4NFVmMGhLWVRRWVZLRTBv?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-17T07:29:56Z",
-    "hash": "8b255feabb6b6c39a85d5794e7a556e574901b665aa215048fd84fa01b91e96e",
+    "published_at_utc": "2025-10-17T07:58:00Z",
+    "hash": "2d49802e3b63cc3b605efcc0bee7cb429f16c31867a3e1886a1fa5de39635654",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Pepe Coin Price Prediction: Which Crypto Could Make Higher Returns Than PEPE In 2025 - TechFinancials",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnhJWE1RN2FYTVJhdjhGUER4R0ZkZjBuUkJBTllzQ01PTkY1NGxEQTZ5RlJRZTBFSjVDSmdPMk9xN0dGSmszSUV0MDlBRWNsWm5HS1B1d0RPZjRpSjRBNDFZQThPTFhqT09JRFp6VXBqamNtTUhNSmwxX0F1UDFRMUxFN3VmbTljVEY5YlEwMld2MS1MU0RwZWxQanJIZEJ4ejRSMFBidjNQWDhTXzNJSHRQaGtFankxMFFZaEhVazdGUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T07:54:56Z",
+    "hash": "a9cd6a32ce795a8c01b906f20d3292a3173a53fc55eeeb55cb4877357c7e4f46",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "IonQ, Rigetti Computing, D-Wave Quantum, and Quantum Computing, Inc. Have Served Up an $875 Million Warning to Wall Street - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczVzeFRucGJKYzJBbzVmNVFzQTNOUmVONGxMX2R5SWlRa19JdzBreHlsUVI3dVNENVBkVElFSFkwRTVWOW52Z0xwU3N4N0JDVTdvYWlpSVNGMDZURVZTX0hVT05BSHZMVkt6OU1CWHUxTUJJUWhUTHl0UDRpdFE3MWd6VHZlZEZZa19BVXFEZ09RaGNMb0YweQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T07:51:00Z",
+    "hash": "66d401ca793f69687e570a213db94681501cc8afcbebae837496666529df2fe6",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Down 27%, This AI Stock Is a Screaming Buy Right Now (Hint: It's Not Nvidia) - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVpKMFZRTWNCa294UUVYSWhQREFTdmQ4QnBHY014QXozUlNyZWM2MHZVS1lvV2xYMGtpMlhLQXRoWE9aRmd0SXJKSzZPU0U0N3JIczJ4clhjN3NjOGE0RHpoWFdoODNwVGpsU2J3Y2tzNm1kLWQwVUJFV290X2tqdTdMUWhmTHJ2YWUzX2FiLUU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T07:50:00Z",
+    "hash": "c72f772d6d189fd3e879637e334d39c3f7193cf30d2b482fa3d68367dafdde27",
     "source": "gnews"
   }
 ]
