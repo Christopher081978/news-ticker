@@ -1,12 +1,32 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Newsmax Stock Pops As Company Plans To Buy Bitcoin, Trump Coin - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZERGSFQydURranBPZ3Q5emt6a0lENmhDVHRGNHZHdFBGS3NtOFFjeU9tTlBLWHNKd2xwR1AwbWZBTll5N2FhZGt3R0didnR5dFY2V0tEVEhneDR1aDZOd05UQXM0WnNGRVN4WHlXY1FpRkpFUHNJakR6XzBhdjdzRmFkVHU?oc=5",
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Institutions Are Fueling CrowdStrike’s Next Leg Higher - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaE02elo1SWlBbmRaR3o1RFZHdHBJaTJqSVFGRmctbktvLUxQaG5ya2Z3TFFmX0xqckhxX2F4eW9vME1wOFloYjV0ZkxBTkJTQTdoOWp5cHBuTFp3ZXlqN0MzUU0teWx4eUh6LWhoRmVLMHd0cmVsN2RMaHhTWFFVeGQ5dFZLTElaZUxIUDhISDdkZ3lGOWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-17T20:32:08Z",
-    "hash": "519d7346064aa0f0b4dc942220128f2e37180fc7f26314d5e054ec34f4b641f7",
+    "published_at_utc": "2025-10-17T21:21:46Z",
+    "hash": "52fdface7cc6d0ae256d25b8ed3a5b5ea0669ada1012ec1f18d273f6ac4c2cf0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "The largest Bitcoin seizure in US history: 127,000 BTC worth over $35 billion to this surprising business hold - Diario AS",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUzkxcVhKX01ralRucVBFZ1d6MFA1U0M4dFpwbXVvQVRlTHNGal9VSE9POUZsQXlUS0NFLTd2bTU2UDZnVk40U0hRWFZma0tKT3BaUlVVa05DNFUwZXZ2MWFQV1Y3UGw4VC1VLXlWSEstdnhLczc5dVVyMW82YVFyRnpUbjFYV3FnT0VVR2RpYkdlVWMyczVpTV9haFlBZlZEWVZlUGtBMHJYRjR6YWdheXg2SDJMSU40OGROalhpN3N4Mm81NTBmU1BUZEpneEFvNmlrczV6dXdTbllOVGpYbkVDa1E5NWhiSEJlSmhjNzjSAYQCQVVfeXFMT010dkRPZEtNQklhZG85dW9NMlVORnd2ZXRXNmwyNGlwZHdpUU9DZl9xZGVGRVh2SlA2ZkFNU1U0OUJiNV9YY1VMMmRJdmlXSEpMOFZFTWRwNlBvcmRMYU1sNjlOUndrakpEdmlwZzBEM2ZGbWU2R2hTZkhuWklmQXlQaG95eUE5WUlEVFdnalVELTVtVkNrNTIzMXYtak5ZMFdPbDFRWG1wSlNZMmZheUoxeUxfWlRtbTNnYms2dTVnNTlFZmFhSTNtY1R5cDM5YXJYSWtlTlF1VWlNdGNEUUJkTTJkVEM2Ni1fdzlJZFlTS0ZrQWIzQUR1R0d0VVBWbmpaX00?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T20:55:01Z",
+    "hash": "ac3246de84c5b3f63a7ebcf89be2e4708326a1508197ee6d6fe28ca687050fbe",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia’s Strategic Billions: How its VC Arm is Forging an AI Empire - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnQzam5XLXlNeXBrQTNkb3hVaFR2SUhHMmtTRmFHci03Rnh0bzFTNnRmS1VVNnlwMlJqUE16Yi1UM2VSUkltcTZZYkRNaDRrWVBqTjJaTTA0eHBEMlVUTXV6bzdyWkowSmpJNzJFTWhfNUpsdV9hX1IwN3FrUE5TT0VEVXVjaEtPYndLZ3MyNzRzVUlGVHNoWWhtdVJpNGhmNnh0b2xUbUduLXU3b29fbjJTam13R2ZtQWR5cEJVRUZOeGYyTVlkZkhkcENodGxuSmdKOQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-17T20:51:00Z",
+    "hash": "c6dee3eea991b1d2f95c685d5521c8a2be5fbd40650aff8dd73ba09de24653d7",
     "source": "gnews"
   }
 ]
