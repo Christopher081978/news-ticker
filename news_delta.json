@@ -1,102 +1,22 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia just scored a massive AI win, but Jensen Huang has regrets - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHJWSWhGZDhkMzd4ZWJQSU9hclVHWHFEbWZMcmgzOTMwOGxGcmw4TFYwbVdmd1g0UHZ6X2dCNVJodVdTSUIxdUlDTlV3V2NmaG1BTWZhQkFsTTN2ekZwTXFfNzFhR2NLLVBJSjBJZktZcGctd3ZVRmFyZkhvclBBanJvOXVEVF9KQ2xJVlBSeE5zbXgwSXhXVGc4UTZyYXRqZ0E?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast - ETH-USD Holds $3,880 as $1B Asia Treasury Sparks Breakout Hopes - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHI3Y2dNSGlpMGVmd3VRN05fbDgwOGJIRjB2V3J4N1IxVlcwbzhWbVhDRjFtZzZvNnQzejYzYzRhSm9GWktKWXpGV0o0QW16c3lacWdWYVRWY0wzMVhSdko1WE9CMFA1Z1Z6c0tubmZmamszdEU4NkpPTDc0cjVkNk5pOEF1VGZhRHl3c3Z3WUhKRk5SNUEwbHN3ZENrRS1mR0pZMUd6aUxoUkx0RzhEdGxzX1QzTEhwUEJLX0hMZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-18T15:17:00Z",
-    "hash": "eb3a9ad361794a723b02d2f2ee40e88367988c7c66825c3dd868bee4be3725f7",
+    "published_at_utc": "2025-10-18T16:10:19Z",
+    "hash": "3b5ccdf7a967209c5c8cd0afe88322681d99eac9b2da837b0148e1e3ae8b91cf",
     "source": "gnews"
   },
   {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Stock Market Update - Dow 46,190 as AXP, DE, ORCL, NVO, MU Move Markets; Gold $4,213 - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWFRbnJiQ1RORUhoSVFxMVhDdnhMemlJc1NvQU5qeTBIR3RDR1BhNEFoWlEwaHBxVjEtb2hyajUxazBrSE1mUGFEWmVfbG9iSGViQWZGZXNESTJneFZOTE9iaEVqT3A2Rng0QVBlaVFvVFJRSVdNeUtNLXVoaTBtc2hwTERVZTJHdDdBYnMtM09pUEd1azhKNVNB?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "BNB Outperforms Wide Market on Growing RWA Adoption, Potential Coinbase Listing - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejFzMGpHcmYtaTZHMHNUb1NaaUN0enhJTmlBdXlmaFlTcUF2a0JsNm5VSHJhbHFJRmZEdWdrVDMxTllqM3BmWGkyMFowcW1ZY1F1TGRlakVBWEFUd0lpVXVUR2tiTDZPR3lrTmM3RlEtaGpvX19fTWNFVWZxYlBjdjdxc2JybF9wTDEydkRYQUhmWEMtTDY5TDRYSWNPWWc5T2ZieDlibjd6Z3BzUlB5UzFqU0VYT3R3MVBJNnJsQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-18T15:15:18Z",
-    "hash": "af5144747be226500415cfe60a21a925f727be38bd8cbde5edc7d4164567ca39",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia’s AI Dominance Sparks Investor Optimism - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSUY4MTZuX2NXRUxaWXBjMUgxUmhnYTA0eDV6dXVXeXAtU2dmTFZsU3h0ZWpURzMxRC1FelhWa3B5SnBVcUFpdVpwOXA1UXAtMjMybTUzeHRvVWFDMHVzdFZENXJReUhXcTBINVFfaUJBUFJXU3RuYnNHVEVKenlteWo4MndzV3V2ekxUTU1mWXYzckxLZkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T15:07:32Z",
-    "hash": "9d2922a2a8bf43268cea2231639c7578c0859776bc7e76999bf156c136dea642",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, Ethereum and XRP Crash as the 4-Year Cycle Shows Cracks - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDAtQk50ai05X3hKV2hHenprUDgwdlN0Y2JvT0ViNE9Dd2hXaTJpNzVCd3RCa1FjQ1dMbmt6dm9CUHVwMHdFS3NnaThzNkhFSDRwSWpEOTZLbldndGFibU5QdWZUSHlwLWpEOFpoY0R2eGdnbmFKNjFtdm9NTEVQdUZKa0tKWWdDMk5aX1hjb0xsUDc3ZW9WbF8xTnhrejA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T15:05:00Z",
-    "hash": "20b687c822627a5a35d778f5769e14803069335454367cad14a0f7c647b1ec82",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "DOGE & XRP Prices Rebound? Experts Back $TAP for 10X Gain - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbXVzNmpOcEU2VDBjUkNKNFdhUzdXem1qenBRN09KOTlWX0p6OEM3Zkt5SjlJNXY2UnBkTndiRzRRZWxCUlRCcnFuUThRdWRaV0tSSHgzTExLaHByaExLcFJvZ3hhNEh6QUR4cmhCWkpIMThvZEMwVjg5UHBOT0FjS19SYUpDYjFodmp6RGItYkN1MXIyZllBZ0NjWkF6WC12TS14ZHhKRjMyVFBjTFJFYTdQbzFMamVVemd0SWVkNW5IVVJXMzlJLVBqQXNYM1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T15:02:24Z",
-    "hash": "2cb8373b3adb34092a66207e08deef72056eb24c335ec8e7ee77d1d24bc33114",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Is $91K Next for Bitcoin’s Price If it Fails to Reclaim This Crucial Resistance? - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmJxWXBTZDhqRGxNeFo1TmdtYVpEWGI2X002NlVMODFPZTQwRmVGMEVTOVI0N1dnWEpjMlZyUmVaNEdLWU5zeGFzemFNRWh2WE44Z3FOM0lYenVVWmJEa2R1QXF4dzF2SE9zc1J3azRRVFRYUnY5QVk2LXFYQmFfSUdYejZLNnUzSzR5cTZLY255Wlh1d1Zua2lWdHBFalpfOWd5cEZR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T15:02:00Z",
-    "hash": "0fcb652c9d31ed8ad69997382a2a2f0de895f8244278e53269a2a55523697778",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Bleeds 15% As Digitap ($TAP) Steals the Cross-Border Payments Trade - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHZxeURVTUxqek1JV3NrODkxSlJxQ0ZibEY5aG1kczBuM05FcG1obWpxLWxVUVhQUWNpMWx6UVJHVXA4eVpKN2ViNWxlRHdTRGdzb2pLQzZpajlOcmphQzh1S0lHMWVCN3JMYThYRlZNc3p1Z2hWaDVVTHJ0OWt3c3FOVml4TEIzLTFMYnphNW9aRE9HUXNlaE1qQ2hSMGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T15:01:00Z",
-    "hash": "a79e1bc9a1b75b7a54b7f16e7752dddb61ee6b6d309c42bc8e89d90ff8ca7323",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana (SOL) Falls 14% in a Week as This $0.035 Altcoin Targets a Swift 50x Bull Move - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDRYcC05SExfQjAyT0ZPVFB4UkZLUHBKUVB0WTg2bzlRazU2dElzY0lEbzhMLUVEdE43SG9wRUVQZUpQQzFScE83TnJHRXZjQlZNUWV1Wjc5a1dXamF4cXJoVk05QnN6UEJSYzd4OHVwSU9MdVh6SjJGa0lRNTEwS0J5QnNOdkFSOHAxVzhRakM1NWFPOWlBcW5pTDU2RkdYR1dYLWt5Rng5cEJPcXJWdW9B?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T15:01:00Z",
-    "hash": "9639b94752aad8b731222e6b8c2508926916d6c0ce8e49fa85536c4694b007b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Here’s Why Solana Price May Crash and Hit $150 Soon - BanklessTimes",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0o3b1B4NmFZUXlZTmZSV2RGT2JBcU1OeEtrMjNZZWxPTmk3Sm02d1FWamlOY3BsbDNueEdITm1qRE50NnhXbFI5TzZOUDB4N05hUlNSc2tDU2xVUGtGeWFic1A3R2duVjJDYk1aUlczZkxfTE5mWl9XNm5DRUpUVEVZQ0RUaVI4Q2Vhc1FEMGxEdGprdlB1Zm43dS01Q0pzaWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T14:52:58Z",
-    "hash": "6fb8526a8a997070f9d91bc203f17b96957b9c4a1f63f6c3b2c776a7ce811bf5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Analysis: First Bearish Signs Appear as BTC Falls by $20K From ATH - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb1NFSXFmOHVGVlYzRURrZFIxaDdWbG9obHNSMjliU3lVeUxYcVZJSkRJeGZobXNTREFPMWM0SDNfcmxJX1lkY2JEU3RxUVpxbzE1Ql9HS2hta2U3QlFoTWZ4Q3VTZk8wZ2FDUkZ4YzNNUk1UeG9RQVlxcVMzNDE2V3Q3djVtdmU5UTdZWWZCcDN2d0J4eUg0bjNveE1PRWs4dTlsTnlOSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T14:49:00Z",
-    "hash": "45c28eacd3b5f6dda3f18e3deb449ae0fae3b77f6111c6bca8abce64fd1c70d1",
+    "published_at_utc": "2025-10-18T16:04:44Z",
+    "hash": "84ed016f1a370a8161243654c4b108ef1071e41cf38b94f38bd99ff30df9d875",
     "source": "gnews"
   }
 ]
