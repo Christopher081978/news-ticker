@@ -1,42 +1,22 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Grayscale calls Solana ‘crypto’s financial bazaar’: Does the data back it up? - CryptoSlate",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUlEbjRpemdzUUVMMGN3NTgwS2xTbFpmVk8zRUN1TG0teEp6OGVGUkpQaXg5RXVURERQVnA2di1Vc29sLVE0QlEyMENlZG1YQlhxTkxINmRCU2dQa0xtMDY0ZkRadGtCWmdiSDlXNm1mUkg1aFczV1RJaEVnUnBEV20zQ0xwMGVxczBNTTR6bk5LTXZ6aHM2NVFqdmo1Zw?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Weekly Stock Market Update: Apple, Taiwan Semiconductor and Novo Nordisk - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckZRU1FmYVJUQkU0NnlSM25kMFhLTERoSVFTMWhzQW4xUGlLX2lJNUJwMW1mR09aTG5wVFlkMmlYR2p1RE5OWEZDYUt3bkRvdHVybjRUaTVCd3pnOEtsaTRONkh2VFozSVpuVFoyVmtDV01KNmFOWnpKOFVyTHNydE1Td0lzcVU2YU43SDRnMTg2MEUzV3JxX2l2X2lLcmRpR3lweEVUQXMyM29KTGw4T2hjNA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-18T23:09:58Z",
-    "hash": "26f5b9a47a9e817fa3db04a27d5ddcefcddaf17f5c069f515eca33cf8bd07c7c",
+    "published_at_utc": "2025-10-18T23:37:33Z",
+    "hash": "df95a9cf273f057f6b6304e4ad431c8d03dcc05a98321c0645ead04c99e9d141",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab (RKLB): Evaluating Valuation After Exceptional Share Price Gains - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmQwZm5LLXVRRDdlQk92RUE2Y25od2xVU2VXNFI5cFlubzRremg0QmxialpLZERUNm9keE5qeEk4SkUtUVhqU1hiaHJBcWt5V0k2Q0xlb2hPM0o0VjB4YUxRUFBDWTlGaGo3QkM4VW1BaTNWOWpTbTlFRVhMejVfV3VFWGNIQWxSRUdVb0dB?oc=5",
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Weekly Stock Market Update: Apple, Taiwan Semiconductor and Novo Nordisk - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckZRU1FmYVJUQkU0NnlSM25kMFhLTERoSVFTMWhzQW4xUGlLX2lJNUJwMW1mR09aTG5wVFlkMmlYR2p1RE5OWEZDYUt3bkRvdHVybjRUaTVCd3pnOEtsaTRONkh2VFozSVpuVFoyVmtDV01KNmFOWnpKOFVyTHNydE1Td0lzcVU2YU43SDRnMTg2MEUzV3JxX2l2X2lLcmRpR3lweEVUQXMyM29KTGw4T2hjNA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-18T23:06:55Z",
-    "hash": "90e492cde0f32acd836633184862e5afc0c0601506626dbf52a6b9f12b5471ea",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Top Crypto to Buy: BlockDAG, Hyperliquid, Binance Coin, and TRON Drive October’s Excitement - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5ORkpFQVYweW5SSk1KVy0wMFR6MEpWQnIyWFNGTHMzTktiRmk3NWpsTzZTZ3ljbFRKWWFkNWxmcFJHX3RZMDNqanlnRTVVcFJpd1loN0g0NWwzdGl3Y2tjR21EVktKTnVHN1puS2lINTNteGlxc3FvWlNtdUhncUFfcVZ0TXl5LWx0bFFmN1VsTTBXT3o3Z0hPYTI3LXItaXR3RjVHMXRLbGlXbVpyNkNSYUs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T23:01:52Z",
-    "hash": "8a2ae69dc66786ef92e09a570fd15abea84f2ca9d715a12fc337a696b7ba87f8",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "HSBC: NVIDIA’s (NVDA) AI GPU Market to Keep Expanding Beyond Hyperscalers - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUkNOc3Z5RC1hVTJKREVGWFVaNW1iVWdTZ0Z6SWxobGVhcmRzN1Y3M3RubzVja2VrZjg0T3ZXbWpwU2szYU9rR0lfanRLZl9KNFZKczV3OGJxaEJ6VDJzQUw3Mm1oRFlrYV9rQ0hZRE9tRThTeU80bmV3b19qU2U4TUNpWW9iSTFkdFp4LThnWW80REIzcUhuYlZ4MEc3czRTMzNqYl81S3o4eVJGdy1NMklnT1RTY1ByTVh6WnRRel95ZHRDT0VRMHBBRGNmZjBVSjNvQm1XWVlPNHFRRGRqZzZqVHk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T22:50:10Z",
-    "hash": "2da5fd050db084f9f41b0c0edcde63e8a707f32cdf3d8a80f2cbb0fc46296feb",
+    "published_at_utc": "2025-10-18T23:37:33Z",
+    "hash": "df95a9cf273f057f6b6304e4ad431c8d03dcc05a98321c0645ead04c99e9d141",
     "source": "gnews"
   }
 ]
