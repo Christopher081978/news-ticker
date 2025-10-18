@@ -1,142 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Crypto News Today, October 18: Gold Dumped as Bitcoin Price Reverses | Is Wealth Rotating to BTC USD? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMGhPeUNDSkVwZkZGZHhYMFJ0ZnFISFVjS0JTZGpMUXN0SWtPcjMxSnBuVXJCQWtJQmZQbEVvakxUWHREb1FCWDZmQUxncFV5MzdCVmU3Nm1NcHdZNjNkNnYxZHd1eGRxM2xUb2FXbmpFbF9ua2VLVjhQRnFsUTU1MHdTbnRxellJZVE3YV9rNWhTS3VOdXo3Tm15QXRhUkJmOGZFb1huNHBIMDNLTUFVbDRhS0JyT0NQdm0wSWJZMTBpdV9UWFlyUGRrMW4wWjhxOGZtUGtR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T10:22:58Z",
-    "hash": "cbaeb31415785b6fa9d735dab21501e6af6ff8e95ed61c20a9220aa93eac55b1",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "TSMC: The AI Bottleneck (NYSE:TSM) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxRFd1Unljd2lpa1YzYjlTNFZwalpzQ3MwV1MzY1gxNDZrUGtoUkVXMWh3bkhacmducVVONDFDb3FCazUwdGhUbFZhc3VLVUxRS0RzM1RFQ3hoM2pqeTdVZkZ3UFFDM0tOZVZmM0d1ODM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T10:21:55Z",
-    "hash": "fc05d1f8602abaec2335e5eb3fd992ef38a1b641e0bea0998495bbfb13389797",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "$1.2B Left BTC ETFs This Week, but Not All is Lost for Bitcoin Price - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzQwYUpzNXlrSmZPdHVTRndfMTdKMEg5c1JlYnNoYlVHcXoyT2VXOFFjNU5tYmFzVE5EREVDd2J5RHZucnpJaE56cG1vcUhMLXU0MlJMZVNvOHBFOUhBaHU0RlA2Q0tObm5pcm1EVEw4U0ZvcDN5NjR5bmgzSkZlVGtGWW9MT3BhTU82YloyR0ZOSnZPM1dSRmx2a9IBoAFBVV95cUxOSFBxX29Cd2hpVWpGUEJma2dkbDM2N2lzZXN3SWFxajN5WTVPc1k3d2dUMmxZdnhLTVotWXhyTzJOdzdlei04UFFvVFRuUlZpLVpYVzM0U0s1TlJsNlcxTHJpdHdmSWlSSVFhcHRXUmJJVkE5S3J6dWFBU0swQUI4S0d0cm14WVBibWFfWDVza2J3dzVEc0hWbHlkaWVpQWdS?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T10:18:24Z",
-    "hash": "6860ab5309e10c4d10b9fdcd5a2071ac5c3b121094da4a4e0c24eb5123ef199b",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Huntleigh Advisors Inc. Purchases 1,186 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNHpDUGFXN0E5VVJBYm5DVDNKT3lJTUhNYlNqenhZcjZmdHMxSEI5bUdCaTVVTTRUMFY4Q2tGMTZqakFINHViV0tqQ1dpZ0hYOTBkczIyaDBZc09DdDVXbE50dVY4aTF1eXByelE2UUp4TTdzVmlNcWI5N3FSTTczeU1yNlNaUVRoQU9KUmtocGNSdzRBd0RMWnFmSUVUbHlwQVVSNDhUbEtOSExXNGVFTDRGbHlpb3RMRGFVTmNEVmNycWVVMUJLRnNndVVST29yd0M4bUtEbEs0N1U0aE1zR1psa0JZU0REXzRKdUpSWUM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T10:10:15Z",
-    "hash": "8fce9bb106516c7678852d83d13ad870c66ce4e62bf888e57651b2a15c59fca5",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "JTC Employer Solutions Trustee Ltd Has $13.83 Million Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPdGhOSVR0d09SeGtjbTdROEl3czgwMVBlRUFiX1k0S0VUN3JMcDJGNE5EOTJFSXVRbXNUZ0hZbV96NlZTRkpPUDNlVEFlV2Zlekx1TFdERlRDbkY2SEFxTWpxVGUwdDk3VDdra3E3cjl0NjhsYjNLRFJlbmYtbi1kbml2VS1HWlpoOTJPRWkyd0VXdTR0R3hUZS1XZ3hJay1hNzRXSzNPX0xrUW8taklJeGJ3YmY0ZWF2SWQ1b09NbTNiTXJPeDVDeWVseFBkdzVRY21SVlhrM3daRWFWUG5kcVgzQWlVaTNxMUNvdktmZVpOSXkyRVhEWUFYcENRTlA3dmdfV2RB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T10:10:13Z",
-    "hash": "35cb11192aa142281ff714cfa188e77679ce98b34cece20bf3c58efa7516d0f0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Dale Q Rice Investment Management Ltd Takes Position in Rocket Lab Corporation $RKLB - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORDV2T3VFZzNGTnlTbkRCVXgwMjRFc0JLdXB6SjFReXFCOXM1cS1ybjM2WVo3N3NDejdjM3VZenpKQURfSDJWVDJvbHVDdUZONnlUdlFBb2I5c3EyejFzQXp5d19NOEQ2NjNJLXk1OVNRdzdGR0s5bElUSHpDdlJRdm1qbnlFYXpTY2JQVEIteGR1bmJTMDF1ZUd4M3pCYVVjVEtCQ19jOE1xYUk5c19FdEdzenVJNEFNR0ZtQzc4anJBWlRMNVBxU0ROWGV0RktwTVd1ZUV0UkVYNER4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T10:04:07Z",
-    "hash": "e735c2a20b6afe7ee0331d22a75b00db102675a7f1fd90fa4f6464517909c274",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "ASTER, VIRTUALS XPL Crash After Robinhood Debut: October Comeback Ahead - CCN.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUExRcEJNNnVRZlhjUnVnNHhnUGdTanlDWm82YWxsMEZRT1pfcjVEZVE5dkhyUGNsT3EwZDI1LVJrbUl1S3ktOU1ocnNLRmM3YkxqakluQTRsNmFtRnozT2gtNnBLQTY2MGJ6X01EbExTWFFJRlZ4VE0wVW5vNk9ZSEFLYVU0cm9ZWlZtZGNYME43dlpRTElBYUx4bWo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T10:02:15Z",
-    "hash": "284e2222c076333fa4fe6321d693081b9204386ca66901c8ad5899fb8adf1637",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Better Artificial Intelligence (AI) Stock: Palantir vs. Nvidia - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLUwtd2ZIOXlPc2lHN1lkOEo2OU1rakU5di1HblZucHhQSExZTkJjNWJ3azBfSHNXR2lfM1p4MHQxeEFGQ2NYUVZRaGQxQ19nd2NSbE51UTZ0V1hpTEhOWlZJYnYzMFEwUDlrbERSZURJcEtBUVV4VjNxN2taX3N1bUVNX0drZ1VmeTdyU0xULXhDMFpxaEtLLQ?oc=5",
+    "title": "Nvidia Boss Says AI Surge Is Just Beginning Despite Soft Outlook - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdVpVMW9WWi1PRjhqbEFiU2FFVFZ4cUNobGJZb1ZHQ2JJeWhMNW1kR0F2VW5aRlRtYXltcjdFTWZvc0R3anE5R2NoTnl5N3Fuc2tqTVVOXzYyZUtGNnY3bFBWRVRFd0ZOazFibFB1RGp2ZTZiN3FIeU0yYnNMU0xZbjFtSEUzSkxsczA1eDA0Zm90VEcxd0QxSGZYLXFqWkpRWjh6RV9JVDhwOGxFT3ZNUE44RlljQVV0LVM5MGZnMHZoa0FZTnF1dVpOX3l5ODJtdkh0S3ZUUTAxQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-18T10:00:00Z",
-    "hash": "5c5b5fe3fc868bc58fb705238ef5cf6e9ef42d21a44de4c3282f500a672f7365",
+    "published_at_utc": "2025-10-18T10:37:34Z",
+    "hash": "fd83ccc3a579f5709fa69925ad64b6990ab9c592265c5151a779b672667da93d",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "What Is the Best Cryptocurrency to Invest In Right Now? Analysts Narrow It to This Coin - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOEVZdlZ6ZUlYYWQ3R3AwM1ZiWk1VUDZpVFhjY25EMEVZSUdiWDBVWk9iX1U5anNmb09uc0M1SFNfSTAzeTRVSXNjZ1l1T0VVWTdXUUJ1SHNTSUNEcDk0bDA2RU93NzRmSGRhOTdjNlkyYTVJZG1OR1Rvc3hwTXhKeHF2S2ppSFdjWUNFUExuVXZYSHZ6U3d2aU5FLXczUFE2RmhjMWdqYzNtSjRqQmRmSnRMNDQ?oc=5",
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "RWQ Financial Management Services Inc. Reduces Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUnpmSlVHQWtrT2FObHdlRG1fYmJNWUJZdEVYa291ZS1hVGVERE40ekFDQ2pNWEc5dVY5LXA2SVZ6aHlRZzF0QzFZaVZEMWctZFh6R2JZUWo3QlA4aGlJalB3cWpDd1VKbFQwUG0xLU8xcTROMm5Ec0x5SkdjaF9OenZ1QnFUMWRkMDRWY1VyNUpjT2ktTVdQR09xa3A3U2hJdFdSN3BJYkE0dzBmY250ZGFjWEJvbnhtMGduSGU3YVlnUWtNLTlLbC14dEhfcF9FU2dVbEowa0drVXplMHd1Vmp1ajJkTFdVZ3o1MTlqR3k5aDdwXzR6eV9UZVRsZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-18T09:58:38Z",
-    "hash": "87195d6333d3fe14efc896ce30700d99245155d0d29ac652e1f00c4fea1ca0b6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "Unilever PLC $UL Stock Position Raised by Chevy Chase Trust Holdings LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHZPOUgyLXBORHQ1VkQ3a29XMzJkMzQ5aW9EcjZac2lfaldlNnRxTThVdTRjYzcwS3hpcnJad1diaEZielFGdE85TlByUjB6Y28xZEU1djNCTDdqTW1iSkpJRWttRWcxMXR6RHZ4Y2xMNWJhZmlEa2tNRVM4bHlPYnB6Rk85enBsRGN1QWJncEptN3ByblhYdzVhcENIMjBxdUVpRUEwYm1LR1ZDSFE3YWxLVlF5U2dTdmUwV2VJSGZackZLdXpzb2wyZnM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T09:58:09Z",
-    "hash": "fcc89cc68cb4bdb793cd3889557a95337eed4d8789c26a7aa81d676f80f55789",
+    "published_at_utc": "2025-10-18T10:30:13Z",
+    "hash": "b4bf08f9c2b7cad8cc2dd305657083e494034c9bf17fcbb0bd9f54906df045c9",
     "source": "gnews"
   },
   {
     "asset": "Unilever",
-    "query": "UL",
-    "title": "Easterly Investment Partners LLC Buys New Shares in Unilever PLC $UL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaE0teHRmSUp3eV9KY3VBNW1kTFZmX0tGZ3JXX0NZQ0VwS0RNWkpSZTVCT082ekpVZGdGWGxUbGtvZFB3d2NFMW5IXzY4bzJ6Vkh4a19sT0ZmcEdhN2F3X0JEaUlWbFRqODd1ZDhWQ2tPU3lSM0Vnb29SaWJtdTQ5MENQN2o1MmR0LWxsYmhmSzRhS3lWcEJ4VFY2QVJ0eGI1N29Ecjk5OXBhdUl4N21UWTZaTU94dVRQMFYxYWpBZFFlcjVyZFR3?oc=5",
+    "query": "Unilever",
+    "title": "Hamlin Capital Management LLC Acquires 14,711 Shares of Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeURySFpjWXRrMExtdmd6eTBBZVBlblRTUWlRLWF3c0M1Q0dya29FNXEzcDdrWVlBTXhBOG9ybEVMRnljNUFzaldvWFdQYnBZTkMzZGxDUEoxN2dkN2QyTWdIdFpvN2IyRS1IVlZiS0tON1FHek0tS3JtdlBYeFRrVFdqdS0waGN3bWh2bkhaSWgxWTVDcnBKZ1psbmVNLXJpdEVjdzdJWVFqbWNMOUNqWnRNakp6ekRhVkVaSXZjRkNKR0FDNlgyNU1XOA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-18T09:58:09Z",
-    "hash": "9b6a323a3a6513d40792bc2071269ceac1286834a264f2d88e79010e40386710",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "61,959 Shares in Robinhood Markets, Inc. $HOOD Purchased by Hartline Investment Corp - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOU9seHQ0RjZ4ZlQtN3p3TWlOb2NIU2ZHTXRvZVFFc3djSzBjOGNkcVRtRklZZWJIakV4X21IMDMwNk5JTG81R2FhcEpUMHBzVEtOemZrTk5HSWYzWlAwdlVRM2R5b1BCNURzODQ2cVM4NlVHVWNZcUd3TmJSY0Q1eUZ0YTJPcWlOSjRFbDlKYkE1bEdnSDR5X0NKWXVwYjhaSTZJNzk1NmdfS3Zjb2VTeEZ0bXd4YkV4Zm83WlBKUDVDN041d0NBUWhrNHM1RUJmY05UeGdtREw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T09:58:09Z",
-    "hash": "c317fb96b8c255e0660890a1ddc5d8e392b53c5d808272946f0773d6f8d01dc2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction, Solana Latest News and the Best Crypto to Buy Now - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWs2VGpSVlBpNWNRQ1BYYzYxMnV4emJpWmU1em5hMXM2Mlp6amQzTm9XRDBZMVhzOTBXdlQ5ZThUeTUySmpYeEc2ZUFDaEg4YVFxUW5sckVjNHBCamRoRkRnaWZ5VHRLNi1IWmZSUk9tR0RPYzBvdkdTYmxMbXFGeTRpUDlvbURoMFU2a0hta0hVN2hvYVEwS0prYjM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T09:53:40Z",
-    "hash": "7bdb42b6ae2f79f68db44a1ba61e85a98aa311e9f0ac6dc059389501b755a6c0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "XRP Price Prediction, Solana Latest News and the Best Crypto to Buy Now - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWs2VGpSVlBpNWNRQ1BYYzYxMnV4emJpWmU1em5hMXM2Mlp6amQzTm9XRDBZMVhzOTBXdlQ5ZThUeTUySmpYeEc2ZUFDaEg4YVFxUW5sckVjNHBCamRoRkRnaWZ5VHRLNi1IWmZSUk9tR0RPYzBvdkdTYmxMbXFGeTRpUDlvbURoMFU2a0hta0hVN2hvYVEwS0prYjM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-18T09:53:40Z",
-    "hash": "7bdb42b6ae2f79f68db44a1ba61e85a98aa311e9f0ac6dc059389501b755a6c0",
+    "published_at_utc": "2025-10-18T10:30:11Z",
+    "hash": "dadbcdc2d050247e759cabe2ae3ae8e724c55c67e68dd281b80d03a02f6e1d7b",
     "source": "gnews"
   }
 ]
