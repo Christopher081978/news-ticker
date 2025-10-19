@@ -1,92 +1,42 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Is Robinhood’s Valuation Justified After Surging Over 380% in the Past Year? - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1FBYkF0WGVLaU50LUNDdFRaczhZNkZwMnVsZ01rQmZOTkdybjhNcTdjZXNlQUxQTlNaYXFWeExDWWx0QU1YS0s4eUMxb0N6ODhjR3BWRzBUVDBad1N2YlRXVzlRSFlTdEQ5WTFIYlp3Vzg2T1kzXzZaOHlTckJRZWppY0NHTURkTlBrQjdDT3dSWlJmVEE?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Decoding Solana’s Market Moves for Crypto Payroll - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTUzdE85QllZMlVkV013aFJZYTN5U1BGZTFza3FlYmVlUG02SE5hV3dIcDMxLVpaaWJSNGJLRVBQTnpKemtTczdGWUctV05Ca0N6bUFhVUpWMTUwbHpDczF5TmFOM2dpNzB3ZEpwYm9BVjNwVHZrOXoxeUR4YjZlRmhGMVpiUHM2SGRTSXhZU1k1Unc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-19T02:05:00Z",
-    "hash": "8c5f4769cd52b356a90895ca957f3c5ea5b15e9ce8cd7d6da98802eac1f01449",
+    "published_at_utc": "2025-10-19T03:34:21Z",
+    "hash": "8a70567840469a352a2b3ea90e283001098873564f7718e70c8f4ee0807d8c15",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum & Cardano Whales Load Up — Best Crypto to Buy Before the $5K ETH Recovery Rally - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOUpzRTRHTy1TLWNsV0hPbnZFUHVzOV9WMVZmWmhUeFkwUWVOSlZKN3JieXMydGU1YmdPcWRBdmNWSEg1SnNnRC1BNmlna1NIXzI4NlNLb0JCdGxKZGVuMWdJajF6eXFnSl94ang0NHVFc1otZTlURkpScGZzWFBOWHdaY056QWQ3MzdINDlWc2ZiOG1pUV9IWUQ2LTlwNVAwOVVjRG43cUprQ1dGYWtTOA?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO Jensen Huang to attend APEC CEO Summit in South Korea - Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVk2Y2MwMlJNR05kcmVLSVJpTGxvbTZWTEl2dUhicWh5YjU1UWpHR3ZsZ3Y4ODJxZ3ZHT01KOWlWVFRWa0tjNjVtaEptbzlrcWphRzd5aTRqeUVmLWcyekxBYjdtalpaTG5wRGl0bU5Sd2ZJRXp3N0d4eE5xeVYwSWo1WDZYdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-19T02:01:50Z",
-    "hash": "c9973d93bf6ecb54e13f6376de5b6e7a322645ee3dcc75fd1f30e8a6d3d6d1a0",
+    "published_at_utc": "2025-10-19T03:03:00Z",
+    "hash": "7609b3865f0896651d42f191b707c72b7f2fbe466c11934aee0d97096a57d443",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Salesforce Stock (NYSE:CRM) Jumps on Bullish $60B Forecast and Google Gemini AI Partnership - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDcweFZ3b2ZZczNEQ09QZHQ3SVQ1Zlk2elhoR01fbkFkdEs5NURuMExZTjl0cE5RcnRncVVWZmVJaG9TLXNSY1RMRXYxZy05eFl6MmUzNElGSU1OZmxhekh0dWNQUW00bzhlVTI1V0RnMkFLRTJVOFB2SnVsWUs3dGxoOGxTZVVnUU1NRUVUOTU2S19vNFU2VGQ1ckZIN0hNQ2pwWEZzRmxsSkZpU2R4WnpYeUp6SDh0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-19T02:41:26Z",
+    "hash": "2d2d47bbb2c7b72e0289fbe114db063b2de0fdb372615219e5c33edf9665465e",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Crypto Weekly Recap: ETH Eyes $5k; Fear Grips Crypto Market; Coinbase Eyes BNB Listing; Ripple Plans $1B Treasury Fund; And More (Oct 12–18, 2025) - BanklessTimes",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWTVMcHpaX3hhNlB0a2QwY3hkN2YycGNubGEzVEhLTGVPNzAtMHZQNEV4cE5SZ3lrdzQ2RGdnMU96c0U0Z1NNa0pvYnZYSG5RN0wxSzJxOFVyM2RWcGkzQmNXRk5oaDBKU1o5U3RUZVVkaWVCcXp4V1A5ckJOQ25JY1l2ZTZGQlhBdjQ3RERkVDlkTVUzbjB2M25CVTBmc2VRRGFWa3hNTWVDeUxGNS1IZm9YQTFqRUtoWWtjakY3QVBfSExjdWhsSnVMRjduZ0xWTlR2ZzBqemR4cTVvVm50VmFuQnNMYUFscGdydmEzeGR1R21oMGFMWmoxTW9fTFotcWEwLVVvdDJaSV9ZeWREa1BPenRsUQ?oc=5",
+    "query": "COIN",
+    "title": "Pepe Coin Price Prediction: A $90k Opportunity in DeepSnitch AI - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOenV0NElxSzE5YTJtSTRxRldtQVpGajJxVVQySXRjczF5b0dLN1NEVTBOYUg4QS1tbWxyOThIb2FwUjBTdjBid0xvWk01YVpaR25saWZ5aFR3blV3MzY0LTc2dTFXQUhzZnNKekRiczRlV3NhODN1X3d0NUMwUUpJV3l5bmFFaUVqYjdGMlY2cmRVZDhPU1VfR2locm1vVEdEN2p3YWs1R29oSkNGajZacFlQUzFpY25lOThBUk5fOHE4ZmNLcm01NldaNEhmcGltZEYxVWFaY3RGTkNxcGFRM3h0WHNvLXhYTzdiVmZkUF84Yzg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-19T01:54:07Z",
-    "hash": "51c1250a2dd241ec1d027b5afc982c6826ada39949a15de4b160b589daaeb0d3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "$1.5M Bitcoin in Sight: Billionaire Says BTC Will Go up at Least 14x From Here - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYnJ6T1EweDVycEpnMGpyLTlCV1dKN1VTcW1EaDYtOXZ4SUlxMUl1T1ZHblNiRklDN3RsMTJxbTA4ZG93ekpneWNmbkFfRTBDNVZBSnNHb3NPYURsTkliRkdyeFdYWFp0OEpCN0JUVFdnZEQzbVhZQW9LQ2xwcVFJX1I3RGJ0MmtyQlQ5T2dMcWdyeG9fc214bUw0NkVtTlJBd3dmaQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T01:31:50Z",
-    "hash": "0d5a92684fc4a1ad568aa169268829607dae07939eaff31f537eb534b507ceb7",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ethereum and XRP Rebound as MAGACOIN FINANCE Gains Investor Focus - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOFVCLUFLY3lJYXBBSXVIOWlHSmtiejJ3V3VOR3Nweld3YWxFRlR2UmtVVUZlQjY2TnZYWnp4S0pnSV85dlZUaXpYdGRMZldQTmYtRzBNXzR6b1dYNnJjOThKYVdrWHA5RWJBSUk3QllvaS1GTVJUS01iZ1BvOXZXeWhYLXc3S0lMMkVZV2JXazlTZW9YLVBBUGNSOXpfNkRMRElaQkpnd2o1NWlCSWlLN1dn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T00:31:49Z",
-    "hash": "e3a60d2aff0a5d281757548a65597ff90ae33207b5f0d49d90cf0ab6575ea251",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Key facts: XRP Price Volatility Follows $19B Liquidation; Ripple Seeks $1B - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZk5kYmpyajZfTnJRczNkR1JyMmlwZjNkdjRWUlM3amRBUGc3N0x2Nk45bFZ2QXNIdlhSUWZLdnljNXdweExYdUdXbG1PSGU5dnJBX2IxbWNHV2Y2cmtKUEZsamRlVW9jVDY1bXJuVC1JYWktVjhhOHFlY2ZTdVhUcWV0RG11aFFZc0tKVmZNTFhKNl9DdU4yV3k0ZFpSR1IyMFY5ZE94SWItVFFDWW9xUHAwbW9qSWhhUXdSeG0tWWVET0M3ZU5ZcU1ORzc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T00:03:00Z",
-    "hash": "14947789b335454e094aa78684ceaefaa6dd17aa7623addb2c9005a9b98dbbda",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Key facts: Agave v3.0 boosts Solana; Yakovenko backs $3.2M Ryder funding - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHRab1Q4cWRZb1F2cW1VT2JaLVA2Y0J5MGZNVGp1Tm8zcTlJS0xfWGpnd1BieUV3ZWVKX05ZME1ETk5SZFdpQ19yODVWSkdpUVplajg3UkFkc0lyZTFCQmYyT1VpSEdDY0VHQ0c5eC1iaWo2Q3JBVGRhTmRnWThzYVBmZWV3MXZ3ZmdQdEpUQlp0YzlJX3lNZ2l3QUxOWDBDZzBoaFh2aEFHbXYxMkFveW5Cc2pHZmxKd3JXeXdmQW5tRVFzSnlkTk41dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T00:03:00Z",
-    "hash": "5e3bcad107e61401fdf44f5eb90e0e7b6d68b081b9809eb3dba8ce8b847d634f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple leads $1 billion investment to create XRP Treasury. Investors flock to Arc Miner to earn 5,000 XRP per day. - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdHpzTGJZellweVNWamowaHlWX0w1SXFoOXlVV2QxWmx6MGl0MjBTUFhXZnFwVmI5N0w0dWpqbkpsWXJEcWJ4enpjYzZMVldobVdVSHFDVGtFNl9hWDZSWGhZWHlyc2hYRmk0QXNEVjZNUlJ6N2VVeDZ0ZXR2RVc3VVRrZG9YOFNUTlg2NmU5Z3Nhd0wyeDQ3RXJPTkRJTHpOWjlqUWN3TVBNQmxjUHJOVnpHbEZENklhSnJTR0RTelFoRG5ZSGtDdzl0RXRmU0to?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T00:02:58Z",
-    "hash": "872585e74c54773258730465b1168589ca4b01fc291f45a4a8b8c9996e62cb31",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Crypto News: Robinhood Nears 500 Tokenized Assets on Arbitrum - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY19QcEdqZ0QtUW1zVF9sbUd1ZGVUYTN0YWd2M2t2akZwNTFfTjRxdXBoZHZ3dGJEdXlwU01XREF0TzI5UDRTOUNvZ1JFZ1VVYzA1OEJyVGdrelN4blQ4Tm9EMzg5RFF6bkhnUm43OUs4RU5GRF95OHRmLWNETG5ZaWR1UGtvb0hhZktvVnJNU1I5d2l1N0p2YQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T00:00:28Z",
-    "hash": "10f75a9001585012675eb5a9bc246903898554d8bbb610bc6ad4fd59ef8028b3",
+    "published_at_utc": "2025-10-19T02:25:49Z",
+    "hash": "ed22aba8be62c66cfcc72c8a1ede745885e5c61fae28ba155c87944cf253037f",
     "source": "gnews"
   }
 ]
