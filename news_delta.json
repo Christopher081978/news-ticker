@@ -1,52 +1,22 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Jensen Huang Just Announced Bad News for Nvidia's Rivals - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObll4UlNhVEphaGpndnJfMHRsY2FXVnByTUh5TjYtaUxVWm55NFBRQ3V4aHpCa3BfQTRyTkJFLWZhdHFiSHgtN29zNWo3d1c0eWxQUjFaVExwRkkwRThLS0owLTJiOHdzZzB3ZFo5TDNlVzBqN3lGR1lKMjhsX3FpZS12eURzbElpMFg2bUZR?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Uniswap Expands to Solana: A Major Step Toward True Cross-Chain DeFi - Castle Crypto",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81RndhVkpmZEE2Z3Bqa3dQSWFGdHk0cG82clhfZW5ERVJEZFlVTFVobTRzSDJiTF9VMlRla1BQdWxFdTh1ZXN2Vm1JajJzcVB0N0h4Q2w0cWtER256STVVbUZBUHVhZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-19T17:15:00Z",
-    "hash": "e2c45c0d779df2ce1e4481cb4e62f58a67bddaa88766c4d7eb5899374e3a761f",
+    "published_at_utc": "2025-10-19T17:40:44Z",
+    "hash": "df4e632f3db203329b028f9c0aa47f672477abd5e6fe0806604a0adfdc0a0f79",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coin Burn In Crypto Market - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wVzU4V3NqVU5OTDhPNGs2em9TSHM3VUJPRjJ3Nkpqcmd0WU00S1JmVjFlNGxfUzQyd1J6SDRHZDZMcEhfNEZqSklnOXdTUTBMYVRMMnFnVlpQR3NiUmlTMEVnYTlENVJyRFE?oc=5",
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Europe’s Tokenization Boom: Robinhood Leads the Charge - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEpQc1hKMVpUdjgzN19LZ3ZFUXloQklkVU9qc2FmaWJyT3RmZ2Q3cHJQdWtLLU02SlhqRkpHekxtOFh4TVBtdEt3M1h6ZjJRbndOZE1CNEFmMG5hVTlYMDFpdWVSOWpDNF8xUGlJM1dWTnhXNWFCSl9saU84SHJ2bjJmcV8?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-19T17:01:33Z",
-    "hash": "95864d93b25b7af0bcde6c4428a651d2134ac0d820f958ea8ada074305c919ec",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Professor Coin: Bitcoin, Energy and the Future of Sustainable Crypto - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmRLQU1CdDVsS0padEFNYllHZW1pUHJ6b2FsNi1WcHpGR0xvSTN0eDBKZ3laeks5YnF1dUFEQnF4c2ZMUFRrNldlU1RtSmxGeUhIaU5kNXlmU1p4eTZBMDFXN3FHeHRlSFJTeklGSkJoYlNzZm9LZTJxVmtaV2JTc2xTZV9HNnZ1dmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T17:01:03Z",
-    "hash": "8e78987b1b4a3717b52111e83136d347cc1d21ed6115cba3c6639e42bb8c86d7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Professor Coin: Bitcoin, Energy and the Future of Sustainable Crypto - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmRLQU1CdDVsS0padEFNYllHZW1pUHJ6b2FsNi1WcHpGR0xvSTN0eDBKZ3laeks5YnF1dUFEQnF4c2ZMUFRrNldlU1RtSmxGeUhIaU5kNXlmU1p4eTZBMDFXN3FHeHRlSFJTeklGSkJoYlNzZm9LZTJxVmtaV2JTc2xTZV9HNnZ1dmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T17:01:03Z",
-    "hash": "8e78987b1b4a3717b52111e83136d347cc1d21ed6115cba3c6639e42bb8c86d7",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Bullish Options Spike Signals Massive Altcoin Rotation from BTC/ETH to XRP and SOL - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFdEMXVjZDZ3SC0xb3RDMHlGNEpsdF9DUjFJQ3lGcndha2paaFZuVS0xR1E4dG5wTjRRUmVPcFFfWUdYN0RpeGxuUHZsaTl1NHNTZF9ycE5FeS1BZk1qTkx1cXZ5bXpwQmZkNzg1Sk1kQmpodjlhY1lFbmtIV3RGXzdjODFzUWNMaU5PcmNEQ1RqOXZYQllacEtNaWdaRXNTZGpxM0MwWG1URm04akVYcUx1UWQyZjZWYXFwRTdSeFlrMTRONmUwSkhyTU8?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-19T16:55:57Z",
-    "hash": "7cd423682c96437d8506a33b596f1a5f96ded3271359849f104f7d79fbf7b6af",
+    "published_at_utc": "2025-10-19T17:29:10Z",
+    "hash": "298f4cca5978a3130ffc850955a112c258e30c95b5f703b80ce0464f89b780dd",
     "source": "gnews"
   }
 ]
