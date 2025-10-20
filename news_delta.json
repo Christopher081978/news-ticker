@@ -1,12 +1,62 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: DeFi Stalls, DeepSnitch AI Surges - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUHAxT0NtLVdPa3dwclV6RC1INVhJQmJWZktqTjYzYURFWTFFS1ZuWVIzSGxLdll6Wkl5N2FsWFFic25DMk1jcE9LdGNXRUwyRkJEbFdNYVpjV1Rycy0tWU45aXlpcUd1M1BJMlRxRGJWMTA4NDFQbE1tQi1lenRrUkhDMGpudGZOLUd2NDVjSnJPNFhJU1FPcTR4QnZjeHM2Z1oycTkwa2JmUy1uRjNVWHJDNGEzcXYtTnFjS0Q1R2ZWZGYyUFV6eDB1bHJjeTVZdS1yNmtvcjcyRzhaN0g0ZA?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction 2025: Could a Ripple 55x Rally Follow ETF Approval? - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNREN4TjNoenBIQnV6Tktpd1dacW9CUzl1WFExcjZndUJOLW1wc1RhUE5fYWQzQVpYckh5eDFkaHJQc09aRjR1YnNXQnkyWENWX1RCa3lnd1FWel9hZFJ6QnJKeHlLSDVwU1RfWE4wSGtYeHBFbHMxd1Z3NnpMWV8zT1pOR1JYX2dZWlNfcmRMcXhFaW14ODRXbEdEZ0NPVkd0OGFpbXlHUy1hZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-19T22:46:52Z",
-    "hash": "7e47e9bb2f94ad371a8467a1c595b22541753e1244e1da1c1332ef3ff48752c6",
+    "published_at_utc": "2025-10-20T02:00:39Z",
+    "hash": "9772596dbdf94372405c00c41886f7ccf5a0daa09509a189c9d9caca9b4aee88",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "HRI-Konjunkturausblick : Sommer der Stagnation – Deutschland verliert das nächste Quartal",
+    "url": "https://www.handelsblatt.com/politik/research_institute/hri-konjunkturausblick-sommer-der-stagnation-deutschland-verliert-das-naechste-quartal/100162915.html",
+    "summary": "Nach Ansicht der Bundesbank verpasste die deutsche Volkswirtschaft auch im dritten Quartal den Weg zu neuem Wachstum. Das Handelsblatt Research Institute bleibt ebenfalls skeptisch.",
+    "published_at_utc": "2025-10-20T02:00:08Z",
+    "hash": "ce0bf6b0d18dc0d45fe2447e82cfeb59b4e1e48509a52cf6668159b1689cff3e",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Peter Schiff Warns of Staggering Crypto Losses With Imminent Bitcoin and Ether Crash - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3M4djN0MEsxb0FUTmY3N3M4WDNMN19NM2lKUXZIMm52aHo5aFVlLWtFSE9UUlpERjZ1bGpZQWtLdVU3WmtNUXY0UURoZFE1c1J3MlZoMlM2TnpSU2ZHbTlfdlZBWlRmX1JkbEsyRnplRVl3NG5teDh1T1VhY21fVkVGQ3h5U3dYeDZqOWpEVEs4eFdiUkNrSXBzSVZXbVpoLTJuNTlyTWRyWjJGblo4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T01:41:55Z",
+    "hash": "246a65f89a0d23732e99ef5054c8335b4dd1efd517623986c9a5f6d9378ec8f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike Stock Rises on AI Demand and Investor Confidence - Zoom Bangla News",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaTdmTUNQRVZuQ1dRN3ZkaVhYSGVteTg4RkVlSGpzenl5Mk1NX3RiNm5TRmxnRzlMd3MyNWVvd2hHY3pGcGVfTUJyQW9IV1EzODRjaGZkLTV6MFpnTTh5Ylp6U3F5LW91U05nM3dLVEN6Znp0X2ZpRWpkT1NUUm52VlBPcERKalB6UE81UFY3MHVabEN6?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T00:42:57Z",
+    "hash": "152f08f99df2b650127a7446b8a255763c3cd0a664833c0ea03b4ccf41972428",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP at Core of Ripple’s Massive $1B Treasury Plan for Institutional Expansion: Report - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTFnYTc2emx3WTRGOVlVOWI4c0RkOHl3TVZrdXFySllvcG5kdmNoRE5hMGQtcjVLWHdWNmx1bk9HRk0zeXpaWTROUzZ6QVRPZEEtV3Fwd0RDcXhIbENDakFpOU9nZWVmLWpISmNud0ZuXzQyWHZBOUo0UUllakRaaGVCVXI5TkJLXzBreXlfZEVDVkVRLUJ5NWdxRHFvVGNrYlRjbFZ5YUQxR1dO?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T00:31:36Z",
+    "hash": "41f66548e798d2da29deac1d95f40149fb1ebc9ddd97a2d8cf4c7505b8b47d28",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Binance Coin, XRP, and BullZilla: Best Cryptos to Invest in October 2025 - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3lfNV9uMTNXTXI1VmxyTndCa2dUX0lCcjcxc0otOXlIZEd6S2ZuQmxsTktyRlF3QWRVUzRLYnVRaGV0RFNHQkM1QkhDbDk3VlU5Q1VKZVY0Yjh6cTljVkh1Q3NiX0hpRUp5b0NsSWlRMVNBV2U2ZDZad2JSSV9GXzBzNEtsRW5UZzZYUXRkcExNV2M5YWpFVFpsSkdCbXZLLU9VaWNnQ0FJejhFaVY0cEpweUN6ZWJF?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T00:15:37Z",
+    "hash": "e0e6db3d4ff49ee6fb3554e4c3798058e15a760b1e261edbebf250aa26a68f72",
     "source": "gnews"
   }
 ]
