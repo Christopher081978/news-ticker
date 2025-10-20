@@ -1,82 +1,62 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Wall Street Analyst Says Sell BTC, Bitcoin And Ethereum Whales Are Moving Into Paydax (PDP) At $0.015 And Expecting 30,000% Gains - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZDRJVk1FXzJfTFRuNnV6N21aNFNGc3FXWkdwc3JhWkptSzBENzd5TXN6LUZBUzVRRVRvckZiemVXWFMwakltTHd5Yi1oakVCdVlrNlUySWpqSkZqdHZzRVk0ZGxmSmlNbHowckhYeERTZzFueXdQZTVaOWtwU0xBUjlsbEE3ck9LQlhVN3E5YkViOVAzcm8ycGlrMUdiOF9wLWpFVE16cS1kZU82M2ZlbjAxcHY4UkxwUnRwNWRiOFdZWFBSMU16bVRHTmQzaDZGeUE4TVU5V2Ixd1J4Rlp1NzgwZ0Zydw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "MSP Miner Launches Smartphone Cloud Mining App Supporting XRP And ETH - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUhHOEJGVjYyUk1lR0dNMW42b0l2RlJfdDRWQ2dDREVxd3IzcFJrM21VaUxyMzNNU2pFNkxvc21DZHp4aTlqSHgtUHBwNVBISWI5U0VfdVViQm53aklpdUdBRW1OLWhLcG9CNlpiaXNVaGJMX2hZd1RobDBvMTNxdg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-20T21:16:28Z",
-    "hash": "20bf42eec29c6ddff88798c722b186c79bb7771ce61e5e691969ba8080769ab0",
+    "published_at_utc": "2025-10-20T21:41:59Z",
+    "hash": "c37f0549ea3c54351a55f474a5dd5b5de8fbd8cbe6b2af222aba58b194ed1c8a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Are Meme Stocks and Short Squeezes Actually Good Business for Robinhood and Its Investors? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTkktR3VERzNtRHI0aDRZLWFhTlIxT1hVb05NSEpwSmE4bDRjOTBLZ2tycXNTdl9FRjZOa2VLNXVaT0NDUEVlbnVmN3c3YTBkTVl2WmEzT3hVMlUzMzE1RUJOWW9oR0dzMnVvYzZuVWJxdHlsaTJQWE41SDdqLWI2X2toX3NMRk1MUmVKRzMtcXVYdU9ES2pCcDRodHlzSXBOem53X2JyZEx1ekUyOWhjY3NvcWFvaHk5eDhqQ2ljQkR3OHFBZTVPcjZCNkp5YWE3UEhGTHVXUUR3S3FQNWR5ckxqZU9vTU9iNm4yM2pzbnlFMkUxUmZac2N3T1RtUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T21:32:34Z",
+    "hash": "85a8b689181a0b16aacf15b8119dfe8c7e3d8fcc9689a232e4e9a7ac0ca94e8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy AG Unsponsored ADR (OTCMKTS:SMNEY) Short Interest Update - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEZnR1NFdHc3N2ptVWJDZUFldVNVTy14S08zb1BBVFlod0d2TGdMMFNISGJjdnNSZk5jQm83WTNOVE13T2tTd0xpcloxRGxfeVNvRERRMnRfdnVfbm40OE55dmFYelNCT25lUXhMbnBVc1RvOEtfRV9xRlFWazM4M011UnFKYXJrRlNkVmstNkVoeVB1d3huazk4VVYzVjBLRG5ramlKUWcyOWhvN0FDMzBPVmR4UjhSYjdmYk9Zdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T21:30:32Z",
+    "hash": "995d6e8963062c653a31692fb7b7e0f50720e842f7c3639eba7a353d654fca2f",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike (NASDAQ:CRWD) Trading 3.9% Higher Following Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVE9QRG9tOHBWc3p0QjNtdFplSXh2UDYwRjdfd2YyX2szWkhzX3FoalRoNl9xMGNTcVk5c2pQajVxZGdNTUE3RlhFb3ZBc3VhTlFnVzFTQ3NXaGJ3dG9SOXZqYUZXblRXX0RqUlBmZjNyOS1fQ2x6ZnNyRjM2UFVMRWlzLTlCQVdNNlZQcXpPbVNhUVR4TDZDdm1kV0RGOHZjTXI1ODNQLUNLdnNTeWlZeUswekN1RlYyNUdDUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T21:30:28Z",
+    "hash": "a566fd4511a187aeedd039107991e39e922599ee8684d2bdd044739dbce27282",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Bitcoin Bounce Stalls as XRP, Zcash Lead Gains; Arca Says Rally Not a Dead-Cat Bounce - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ21wN0xpUWZib2pqNHQxY1JFNjMyVmRBU2UzN1dsMTVHQmJYWU5aRjdJT2tXOXBpZENsa2tHSWZoY0ZGUkdYMl9CVXlKQWhfck1MbTBiTGctZGhjRGlOVzhRTW44RFgwaGJNWnkweEpOX0lyc3RPcTVfaEtrVmVuX2I3NG5GYVpxXzJ0WTBtY0RZeHpqZXVaUFhMVnFyOEFVSDRuZDQ4c3JEcDh4aGY1eFpLMnRPUV8zY2I3Mnl1d0hHZFEzWVE?oc=5",
+    "title": "Ripple-backed Evernorth to launch largest XRP treasury with $1 billion US public listing - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hOV8xZ3pfMHp4d08xazIzTVFjYmRwcFFnRUZpbGU3OFY1ZnBweHNhOE10STBmWDNYdWo5UlNXNTVpUFhwWE1Bc0c4aDJjV2VRendUSmRjVGhtVEZWZ2phaTRJUi00SnNxV2tUeUJtZnRfakJ0Q0txaktRYw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-20T21:06:39Z",
-    "hash": "a7c2595d45447b98e2f5f7ba36fb20d44b22348be45d6cbd057ef60604e72c4b",
+    "published_at_utc": "2025-10-20T21:30:00Z",
+    "hash": "5a42164c57275efe353dd0d5cf210e4898d0867762ad7dd8779c4643bbb1a264",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Bounce Stalls as XRP, Zcash Lead Gains; Arca Says Rally Not a Dead-Cat Bounce - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ21wN0xpUWZib2pqNHQxY1JFNjMyVmRBU2UzN1dsMTVHQmJYWU5aRjdJT2tXOXBpZENsa2tHSWZoY0ZGUkdYMl9CVXlKQWhfck1MbTBiTGctZGhjRGlOVzhRTW44RFgwaGJNWnkweEpOX0lyc3RPcTVfaEtrVmVuX2I3NG5GYVpxXzJ0WTBtY0RZeHpqZXVaUFhMVnFyOEFVSDRuZDQ4c3JEcDh4aGY1eFpLMnRPUV8zY2I3Mnl1d0hHZFEzWVE?oc=5",
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab (Nasdaq: RKLB) sets Nov 5 Electron launch for QPS-SAR-14, sixth iQPS mission - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWotVmJRRUd2eGd0ektQb3lHUy1NVFpIYnk1T292SF9xaDkzcGdycmRTaXh4cE9ZVVFQTkZ2c1dwd3ZjNVpjNC00Z25wUTIxNWhWelgtSnhCaWhDM2hBdXJLa3Y5WUZNSUJzZWV0SXllcWY3Tl83VXZrRzgtR2lfc0tvWGdDdWlROHVUZkp2RHJRWGpRNjlYV3dEQXNKY2ZCUlpFdGtfX1FJZWRXS2VKc1k4Yjk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-20T21:06:39Z",
-    "hash": "a7c2595d45447b98e2f5f7ba36fb20d44b22348be45d6cbd057ef60604e72c4b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "XRP ETF Momentum Builds: XRPI and XRPR Surge as Ripple (XRP-USD) Holds $2.40 Ahead of SEC Decision - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0NjeUozd2NMQlBvYXQ3U3Y5TVIyeTJ4aDhQRUlqaHF0SEhVRjRQdkM0U2N2azh4dFNhX21ieGNyRGdieHNIVjh6S2V6YmtKNXRyMm1ndERwSEtfcDhFd1JEQmdVREplQlh0WjU5NXdpODlOYjZWRElwOU1zNXA3cFlmREZ5YnhtSDRBNU1rTXRaUUhWN05kX2xCa2JxbVFL?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T21:05:33Z",
-    "hash": "0b04a1b518afdde031b70770c8a2cc221bf03754596f27c648705a544c1150c5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Dow Jones Futures: Apple, Google, Netflix, Tesla Make Bullish Moves, But Oracle Dives - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEtLY212R2w5cGZuU2F2SVpZREpZMG5IejFUcEhsNlpBMzI1SVJLQ0FCZTdWYUQ2c29ncm56d1ZMWXNQb0NsajQxZWpDVFdMUXJFY0VqR0l4YXJpeUE2eTdLMEI2TElJMlVpVFZKQW1fNDNUZzk1MHgxdW9nV214YU92ajR1LVlSRkY1QUV5ZFlNdnB4ajNNeFNfV184TlY3aUp2NzhZYzZaMFZ6enZSaE5PUHk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T21:01:00Z",
-    "hash": "bda007db3db11cb02e7c5abde028a75edae0f8f54e36441a8643dc21a2436b74",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "BP confirms oil and gas discovery in Namibia’s offshore Orange Basin (BP:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGVUWGMtZ0gzSDM3QXJ0cU1fbldVTEJ3WlFoQzJLRWNVOGVPVFVIMzFUQkN6UmluVk1zbGQwbktYOS05azUyaW9Md0o1REhZZk5YVDEzaTR4ekNka1NvMklic0NEb0pQREhQSkNpUjlDejNJSVVFaHJ6X2ptdUtWSk1kcG5LN3VKa0VCTlNBMm02V0dCdmd4VFRkeHlUS1pEOUE2WVpTQVo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:57:21Z",
-    "hash": "2f63bc23cbbcd3f75b10f7f41267348708adb301340f0835934a225bc5b894ed",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Soars: AI Dominance Continues to Fuel Market Enthusiasm - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOckVLcC01M2dvR0x6N1BWd3kxUFVMUTVnMl9IT1o2OXdjT052MEI1Ykt1Vi1lQ0ZkcHNiZ1owS2dEdlowbE1jWHRIZGxJaURTaUxaYTJWVno0ZFdVVi13cmZfZjNESTE2Y25WVG43TUR6ellRNElyNjZDN0w1LVREWVBQWEpxeFFGVzZSWHNIZ3JIVzVKWmQ2YTRBVjNwVnprdHZDal8wUzgzTlpEMXlFa3NMVkNxcGlTT2RDVDAzM1Y4cWtKVDNUR094X0k2cUJqU1NSRUdxUWV3Zw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:56:00Z",
-    "hash": "dcd0a4220d97a44260fd823c83e85197376d0f86fd05fbe5bb2ed2c95c54e52c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Lobbying Update: $2,730,000 of PFIZER INC. lobbying was just disclosed - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMk9YRnVJX1hMZmItazJtUVE5enlSVndOZDhEV0ZCdnl5eGsxbjZBd0dCbWFoVnJhUUtCZTFQVGZySzk1aEg3VnJuR19Pa0hpeGUwNzhQaHlsMTFrOEVRWGY0SW5RSFU1UDRXdW16OE9OVWp5cTZNSVp6MThQRUpLMnlhV1BjNFVTck1IWkdYWlVQMWpaLVZOLWFpa3ZJczdRcklLQzRjREh3YmZjZU9KTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:50:00Z",
-    "hash": "2687d6555eba69d61d9367b14cf15f6c7da123f4ca683ff7512740824d499639",
+    "published_at_utc": "2025-10-20T21:30:00Z",
+    "hash": "eb8f0e26220cf1e025361766398f33a515f062a1a711c0dfffe3c269e4c863b8",
     "source": "gnews"
   }
 ]
