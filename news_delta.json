@@ -1,22 +1,82 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Ethereum Inflows And Derivatives Activity Signal Cautious Rebound (Cryptocurrency:ETH-USD) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFRGNG1FTkV0WmIzeEFrUldTNXpGWFVTdENqRzlxLVdpYkFSOGVwdHczNkNqQzZlNlVTMHhxazB5TUY3RFZJMlpBSlpmRzFtZTZlSmduM0x0clJTdGd4SUpqLVNnejNNTElYdW1CMmVhS3F0VEgzWk9zVllvbGlJVDdEYUpIVEFnNmp6ekRIT1MwVlp1YW5RNkxhRVFmQWs0LWJqNmhXNGF1dw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Wall Street Analyst Says Sell BTC, Bitcoin And Ethereum Whales Are Moving Into Paydax (PDP) At $0.015 And Expecting 30,000% Gains - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZDRJVk1FXzJfTFRuNnV6N21aNFNGc3FXWkdwc3JhWkptSzBENzd5TXN6LUZBUzVRRVRvckZiemVXWFMwakltTHd5Yi1oakVCdVlrNlUySWpqSkZqdHZzRVk0ZGxmSmlNbHowckhYeERTZzFueXdQZTVaOWtwU0xBUjlsbEE3ck9LQlhVN3E5YkViOVAzcm8ycGlrMUdiOF9wLWpFVE16cS1kZU82M2ZlbjAxcHY4UkxwUnRwNWRiOFdZWFBSMU16bVRHTmQzaDZGeUE4TVU5V2Ixd1J4Rlp1NzgwZ0Zydw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-20T20:42:00Z",
-    "hash": "ed3ba0d20992470a6515377555689b13a51cf59a4aa856d252e564e1461f04bc",
+    "published_at_utc": "2025-10-20T21:16:28Z",
+    "hash": "20bf42eec29c6ddff88798c722b186c79bb7771ce61e5e691969ba8080769ab0",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Amazon AWS struggles to fix global internet outage affecting Snapchat, Robinhood, Coinbase - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQUk3eEhlX0JLRTJJaXgyc2lxQTdSMklsdE5ZN3lzV0ZOVVdwclBqRm0xUl9fRVBfakFGZThUUlo2V1ZfRzMtYjdVYzg4SGxCaWtNckp3dHJqZ3pCWEo4VG80aVJRejV6S3VQRnpUMUJNTUZTS1NhM1RBU0s?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Bounce Stalls as XRP, Zcash Lead Gains; Arca Says Rally Not a Dead-Cat Bounce - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ21wN0xpUWZib2pqNHQxY1JFNjMyVmRBU2UzN1dsMTVHQmJYWU5aRjdJT2tXOXBpZENsa2tHSWZoY0ZGUkdYMl9CVXlKQWhfck1MbTBiTGctZGhjRGlOVzhRTW44RFgwaGJNWnkweEpOX0lyc3RPcTVfaEtrVmVuX2I3NG5GYVpxXzJ0WTBtY0RZeHpqZXVaUFhMVnFyOEFVSDRuZDQ4c3JEcDh4aGY1eFpLMnRPUV8zY2I3Mnl1d0hHZFEzWVE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-20T20:39:00Z",
-    "hash": "2480e739ed8f4b736bb90038fd6fc56bb4ed4b4ce32e99c6ac16380cd669c385",
+    "published_at_utc": "2025-10-20T21:06:39Z",
+    "hash": "a7c2595d45447b98e2f5f7ba36fb20d44b22348be45d6cbd057ef60604e72c4b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Bounce Stalls as XRP, Zcash Lead Gains; Arca Says Rally Not a Dead-Cat Bounce - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ21wN0xpUWZib2pqNHQxY1JFNjMyVmRBU2UzN1dsMTVHQmJYWU5aRjdJT2tXOXBpZENsa2tHSWZoY0ZGUkdYMl9CVXlKQWhfck1MbTBiTGctZGhjRGlOVzhRTW44RFgwaGJNWnkweEpOX0lyc3RPcTVfaEtrVmVuX2I3NG5GYVpxXzJ0WTBtY0RZeHpqZXVaUFhMVnFyOEFVSDRuZDQ4c3JEcDh4aGY1eFpLMnRPUV8zY2I3Mnl1d0hHZFEzWVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T21:06:39Z",
+    "hash": "a7c2595d45447b98e2f5f7ba36fb20d44b22348be45d6cbd057ef60604e72c4b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP ETF Momentum Builds: XRPI and XRPR Surge as Ripple (XRP-USD) Holds $2.40 Ahead of SEC Decision - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0NjeUozd2NMQlBvYXQ3U3Y5TVIyeTJ4aDhQRUlqaHF0SEhVRjRQdkM0U2N2azh4dFNhX21ieGNyRGdieHNIVjh6S2V6YmtKNXRyMm1ndERwSEtfcDhFd1JEQmdVREplQlh0WjU5NXdpODlOYjZWRElwOU1zNXA3cFlmREZ5YnhtSDRBNU1rTXRaUUhWN05kX2xCa2JxbVFL?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T21:05:33Z",
+    "hash": "0b04a1b518afdde031b70770c8a2cc221bf03754596f27c648705a544c1150c5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Dow Jones Futures: Apple, Google, Netflix, Tesla Make Bullish Moves, But Oracle Dives - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcEtLY212R2w5cGZuU2F2SVpZREpZMG5IejFUcEhsNlpBMzI1SVJLQ0FCZTdWYUQ2c29ncm56d1ZMWXNQb0NsajQxZWpDVFdMUXJFY0VqR0l4YXJpeUE2eTdLMEI2TElJMlVpVFZKQW1fNDNUZzk1MHgxdW9nV214YU92ajR1LVlSRkY1QUV5ZFlNdnB4ajNNeFNfV184TlY3aUp2NzhZYzZaMFZ6enZSaE5PUHk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T21:01:00Z",
+    "hash": "bda007db3db11cb02e7c5abde028a75edae0f8f54e36441a8643dc21a2436b74",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP confirms oil and gas discovery in Namibia’s offshore Orange Basin (BP:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVGVUWGMtZ0gzSDM3QXJ0cU1fbldVTEJ3WlFoQzJLRWNVOGVPVFVIMzFUQkN6UmluVk1zbGQwbktYOS05azUyaW9Md0o1REhZZk5YVDEzaTR4ekNka1NvMklic0NEb0pQREhQSkNpUjlDejNJSVVFaHJ6X2ptdUtWSk1kcG5LN3VKa0VCTlNBMm02V0dCdmd4VFRkeHlUS1pEOUE2WVpTQVo?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T20:57:21Z",
+    "hash": "2f63bc23cbbcd3f75b10f7f41267348708adb301340f0835934a225bc5b894ed",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Soars: AI Dominance Continues to Fuel Market Enthusiasm - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOckVLcC01M2dvR0x6N1BWd3kxUFVMUTVnMl9IT1o2OXdjT052MEI1Ykt1Vi1lQ0ZkcHNiZ1owS2dEdlowbE1jWHRIZGxJaURTaUxaYTJWVno0ZFdVVi13cmZfZjNESTE2Y25WVG43TUR6ellRNElyNjZDN0w1LVREWVBQWEpxeFFGVzZSWHNIZ3JIVzVKWmQ2YTRBVjNwVnprdHZDal8wUzgzTlpEMXlFa3NMVkNxcGlTT2RDVDAzM1Y4cWtKVDNUR094X0k2cUJqU1NSRUdxUWV3Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T20:56:00Z",
+    "hash": "dcd0a4220d97a44260fd823c83e85197376d0f86fd05fbe5bb2ed2c95c54e52c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Lobbying Update: $2,730,000 of PFIZER INC. lobbying was just disclosed - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMk9YRnVJX1hMZmItazJtUVE5enlSVndOZDhEV0ZCdnl5eGsxbjZBd0dCbWFoVnJhUUtCZTFQVGZySzk1aEg3VnJuR19Pa0hpeGUwNzhQaHlsMTFrOEVRWGY0SW5RSFU1UDRXdW16OE9OVWp5cTZNSVp6MThQRUpLMnlhV1BjNFVTck1IWkdYWlVQMWpaLVZOLWFpa3ZJczdRcklLQzRjREh3YmZjZU9KTw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-20T20:50:00Z",
+    "hash": "2687d6555eba69d61d9367b14cf15f6c7da123f4ca683ff7512740824d499639",
     "source": "gnews"
   }
 ]
