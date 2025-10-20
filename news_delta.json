@@ -1,132 +1,22 @@
 [
   {
-    "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana Price Forecast - SOL-USD Targets $300 as ETF Approval, $8.6B Open Interest, and 21% DEX Growth - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3c4UnY3NDc0MDFGNzZIeHp4aE4tcllwWHgxSzhjLVRBUjNJSnZnS2UzdlMwZVRGT21KbGJzTVNfeFpFME5Pb0VxWVFja1FORDA4bFctRG4yYS1fWjJYSUhLVTNDeTJRZUpBcDJtUUhQX3RITXliVFJIdDFQbl9tckV2Tm54TFE?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum Inflows And Derivatives Activity Signal Cautious Rebound (Cryptocurrency:ETH-USD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFRGNG1FTkV0WmIzeEFrUldTNXpGWFVTdENqRzlxLVdpYkFSOGVwdHczNkNqQzZlNlVTMHhxazB5TUY3RFZJMlpBSlpmRzFtZTZlSmduM0x0clJTdGd4SUpqLVNnejNNTElYdW1CMmVhS3F0VEgzWk9zVllvbGlJVDdEYUpIVEFnNmp6ekRIT1MwVlp1YW5RNkxhRVFmQWs0LWJqNmhXNGF1dw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-20T20:29:01Z",
-    "hash": "92da0e7158849fa33ad0dd22bae8b225001d680732ec5391e01d056bd4990bea",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "Quantum Crash: QBTS Stock Collapse Deepens as D-Wave’s $3 Billion Selloff Sparks Panic - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjRjWFR0bXFGNXhsY01GU1psTUxtejZrWE85c1haRnM5ZE91LTJzODdLa0E3RGM4NXRhcnJZSm9PRDhzX1pfc2NYd2pSU0tzc2xBbURqMzdYSE05S09yMFJDbnhiOC1ldVpUWUVZWnRGLU1XdXhBMXhFTDhKSnFpSU1CYmxUWEhETjNZX3BZRGMxYzQ4SjltckFKakQ0VVFJMVFBN0hMYWkzSXo2Q2tGcjZGSlhjaWk1Z0R4TmJyanRwOWJv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:28:30Z",
-    "hash": "4c2891b64d0656082917e88847f6eff2f4412b3e952a51efaf1d0ab1c12520ff",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Symmetrical Triangle Breakout Looms as XRP Targets $2.80 Resistance Zone - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWnUzcWlZT0QyaERHQUZlWEVqNWJxbFkySEZGRzhZcjYwT3ExSnAyRW1CZG1NUnBzQXdpbkxkNUs0RnpPRzFoazFSYVJGSzdhZ3JsREZtalBGS2VpSUdmMW03bS1Nekk0T3U2c01uX25KQkIyX0htb2ZxN1VNWm9FdXM0UHhIZnJyRktaenVpNkNmOFdYQWJJejEwMzdiNEFoajJTVDdCOXJrWGhmWGdPdmhMeHpGbTQycmhJWldIOF94S1Y4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:23:58Z",
-    "hash": "1960a80ff5c6dda6135224460639f464434f136920a3475c1854f57db804af53",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price Prediction: Bitcoin’s $20B Short Trap Sets Stage for Explosive Rally Toward $130K - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbWFSSWdnS2tDdFJ5U1ZHSF9TUzgza25LeWh4b3FhRmREaWRnakdHb09BQ3RHSlhYUFNMSzJ5bDZJRjU5ajFwWXJnMmJBQXhQaWpKNExGdFRMcVQ2Mm8waUxVbTZBT1MyV3UwaW5PRTJJWVE0VTNEc0VQWElhTjFCY2lURmlJdUJfa29DRmE0LWdQbnVMYjQtSFdLQ1RsWjJxaUxMblF5N0xuSTNnck0yTmFLR3VSZ0h1U0pGM1hBQ0FXTGdQN1JGMQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:23:56Z",
-    "hash": "a18349202825111e3f72e1e9209be2b44fa9fe3588b514df077e12997496e07b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Company Evernorth Plans $1 Billion SPAC - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMTBaMklHSmJWdnRQMlIzR19ha2RNa3ZTUE5QZ1VONE91SjR6QWFUbVZjcHBCc0R1SHJQUXN4bWVnak90bmdENzYwbEE0QTlQR0EzUFRyczMtbWZUeFBNTWxtaHlPekRVT0Z0N3h0elRZN2RzQzFUb2ZOc25KbEFkYXZB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:21:37Z",
-    "hash": "5e82039d696a5578738917db3d802c65f0f7781af392a1cba4bde12e8913c4c2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow Jumps As Nvidia Eyes Entry; Apple Among Warren Buffett Stocks Near Buy Points (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVpBOXpXbENfdHRtWndLbTduMkRoNjF0bHRaSmpTeXJXS2FoZ2cybFRYZ2hNMUxxZWdySDg1RmJDYnR3Nk4tajlqeWpxSTBQVGltSDdHR2hEZVhkYndmMC1RTjR1NFZLVlRKX29zczZQV0JtaHZNd2Rfd3BjVVFiUGhIRFdYT3dMSGRkWnVDRVE0VllRcTBIYjJwamREV245NEY3ZTJMVDNNUHA3bTRBSTlxQkVDQ1pRRVdYa1JEajdtNFk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:20:00Z",
-    "hash": "428d8cc4add4e35ff1fedc9524ee84b33fcf939c0b886d5780684d504ca6da46",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "CrowdStrike Stock Price - CRWD Shares Climbs to $503.94 as Falcon Flex and $1.17B Revenue Reinforce Bullish Momentum - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPak1TbTlfWHVjREczTXc4UWVjVkM1cjZwVDZsUEtRZEhxUGR3SHdtdGZKdllFQXUxMU5VS2ZMcnZpeUpjRnhndWh1SmZBMTlOcTJRamg4ZU9Md19jS2pUN0Y4a3BITDV3S2stZXVnR2J4T2xjWHdGVEF0dFVEVmxKTFlYRHNrUjFsSkMzNVJzZjY1WVptdzZ4UUVSN1VBWkViYzVrTVpTcXlaaVhQMkNlTFJCbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:15:33Z",
-    "hash": "0536b74dc5a89a027f22c9e2b2e721a78192c4872a7efca38f12ef49c03ea4b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Evernorth to Build World’s Largest Institutional XRP Treasury via $1B SPAC Merger - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmZBWjJfU2RHRVpBV3Fkb2I2WWtVcDdrVzFseTBjdk5iX0xpTmNLZW1qcDlpbkZkWGFhVVdRaTh2cU81MG9zN19Cd2pkY2F1S2ZkUFVXM2lvNmtJOElYeXJOZ2hhRjBKYTNYbDlyX1BDS1RsaHpfTWowTi1GV3ExMlUwdlRKUHRoLW1KcW1aZVN1UXRCOHAwcWdkY1B2S1o0QWp2VlBrN1V6cEJ60gGyAUFVX3lxTE5zeWpsT1d1dG5tSUdSTmFOaWJ4SWt0MlVBVmlSbDlTb2NuNlNKMTlsa0ZDRkdiYkNMdFRqejB5eGNWRm9GUl9zRGtYUG1JVm14OHRUWXV0MWtsaW5HaHE0a1hUblhrdTdpNHlSd3JvdnMwTjFmMk8yS2xmbDlObXkzWDR4WFp6ZlBWWHItSTBTUGxfU3I1c2JvNkVYRWFQclRLUm1FX1N5dHNKd0JocHRhdlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:08:14Z",
-    "hash": "d89c114ca2facef0d3cfa1b4dc85eecc6f5a88f1d08167e8d350d896aba0e6b8",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "Quantum Gold Rush: D-Wave (QBTS) Stock Skyrockets on Quantum Breakthroughs & Hype – What’s Next? - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGdrdUxxVFBONW9KN3N6alNULXdlVGotbWtQQXJOUGNvR2tic2xubGNJc0NBMHVhZW50YnBkZktnbElzUUhlTEZGdFNad1hIM2NMbWlyQjBkNEw0NDBNYk5NUnNvUWNFbW1wWVlvbXhyR0w4c01LQkFYX0VSYi1yWGNNVHRhNW5IYmlhdkw4Y0hvUm9JYlR0OVRwQUxaakZOR1g3a0I2NUVzSm9O?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:03:19Z",
-    "hash": "10af9fa46bf77717488003e4331cae4c99a3828c608a2ad1e1f3c306372a41fd",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple’s $1B XRP Treasury Sends Social Metrics Soaring, According to LunarCrush Metrics - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeTBlYlBzYUl1VjRTVEJzRm9VejFrUTBXMlF1NnM2TTktR2VTOGhQSzFnSnZRVXV0QUk2N05EOWZ1WV8zRnZDSVhEbGlEalZTcDZrUzd1cnVuUkxVQ2ZvR0NBejNxVWFnRUdlVHBfQjRORWhBMXFfQ0liQmJKT0JqRGpsTXF1Z1BUZW9JZk4zS0Rta0REUmJVQWtqMGN4amFxZjZ6eGN6cjZkamxWakYzUnRSUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:02:44Z",
-    "hash": "0afd56ba2075ffea58a8671c66caf4f16ac21f93bbc64f6f1788989f1f8abb19",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum Inc. (QBTS) Stock: Sharp 11% Drop as Company Announces Warrant Redemption - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX2N2a3pEZVNmZFBqZDNCbzRsZzFnNHZjT3dPS2szanhFTW1DNXkyendUa0luTVFsS1NCZ2ZtbGs5ZWRkN3Q0ZHZ4TURYaGZFSlUwYm5kNHRGeTMwZ2RxNFhnZ1RneWNHbEZjMzhsdzNaMnhoNWgxSHpicWp3WlFjT3pkSnY5LVBnZ25GZkhzWkN5T0dPWV9VVUQtSmJNLWFBMmNXS0FnNFg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T20:00:17Z",
-    "hash": "84971f95b21bbec168548e7f32b5b09dfa328cc6c3bafa094f40c348b90e6168",
+    "published_at_utc": "2025-10-20T20:42:00Z",
+    "hash": "ed3ba0d20992470a6515377555689b13a51cf59a4aa856d252e564e1461f04bc",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "AWS Outage Takes Down Coinbase - The Defiant",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBENVREa2RUVHlwYXR0LXpQazBualA5al9RSDFadzVydHE4VHFqY0hsRTlWUkMxblp2NlFxb2ZsY0E4aTM4WkVHbWthR010WU1zczg5VllSZ2NidWpIM3RBNzNWLVRxV0Q4bVpQcjBqbW1ibExLYldUMWZTVDJuRUk?oc=5",
+    "title": "Amazon AWS struggles to fix global internet outage affecting Snapchat, Robinhood, Coinbase - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nQUk3eEhlX0JLRTJJaXgyc2lxQTdSMklsdE5ZN3lzV0ZOVVdwclBqRm0xUl9fRVBfakFGZThUUlo2V1ZfRzMtYjdVYzg4SGxCaWtNckp3dHJqZ3pCWEo4VG80aVJRejV6S3VQRnpUMUJNTUZTS1NhM1RBU0s?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-20T19:56:23Z",
-    "hash": "9ed394f224340987cffb569e0c4822b06d05a3121dc9db1eeddc9bb535acd7a8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "CONL Turbocharges Coinbase Shares With Leverage: Beware The Risks (NASDAQ:CONL) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUFCR1dDZDlJc3h2Z05lT2cxN2wtQ3F2VExuTWxndVRGTUJZOE5kbmdGa1lIbGFVWVdSeEE2bEhEV29jYXE0bkJnOTNPQmFrcU5xazJkUWk2dFlVMVBfV3dmejUtSHRPLWctWGlEcGZvYTE5eWpBRDVJUWNwTmNyOC1tMWJrTnRDZnJzaTRuRWNIVlVuOW9ES2htU1Y3X0k3WTFkRDIxZnE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-20T19:46:10Z",
-    "hash": "2845725236ea8da0e946289a56eaea43a2305f531369eaa33671d5b6bb540e92",
+    "published_at_utc": "2025-10-20T20:39:00Z",
+    "hash": "2480e739ed8f4b736bb90038fd6fc56bb4ed4b4ce32e99c6ac16380cd669c385",
     "source": "gnews"
   }
 ]
