@@ -1,22 +1,312 @@
 [
   {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price: CZ Predicts BTC Will Surpass Gold’s Market Cap – Here’s Why - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUnVpR2xMb003UnlUNnY3TUNxUHFQX2hVZUpKWjJMZm1MMklONk4tSkdLb1B2OUJGOWlHN3lNUW5NZktQWWZRUU53Nlp4bkVPQjRHQjJTVm11T3N3MFduNVo4ck5pQ0VybTk0VjUxYXFYYzlYdkRpOU4wcXhxT1N2aUVGcUMwckNkR0JoSWVhV0poR1U0QWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:35:00Z",
+    "hash": "d732a0b1b4ceac5043482d6304c579ef340a68d3732fd1e264477971b1f3cf18",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Inc. $GOOG Shares Sold by JTC Employer Solutions Trustee Ltd - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEVYQWQ1U0NodU4wcUZEb3oyWGZoOUtwZVdCbGxHRnE4TkNrU0piQjlpa1NxR0tOYS0zbmM1bmRrX2p2VFVwNDNNNFlIWml6b0NnR2Z4MlljRWZiNl90dlAxdDc3U0UxU1pKUXVYVDVxb256emIxb0pfSVQwSkwzcGw2cVd4TV81MnlNQ2wwbkVrYk5rUkFHMVZrVEVLMFJCY2R4bk5OeVR3QzNiWkxaRVcyS1N1SkhJNUMwQmpzM3Vadzl5RG40?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:04Z",
+    "hash": "5b0cecbe451e392f287b81fac5b99699e7cfab29be450d3a2c0532fcc4de1cb9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Carmel Capital Partners LLC Has $2.48 Million Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX1VOWVhocVU2MkxwaUd2bnd3Y0xfRTlhQ3pIUlN0dS1TMExISEt2UzgtdjVLYTBLNVhjOFdnUV93TzVWRmRFZkFZcmxtY0ItN0g3Rmp2ZmRCM2R6T2ZETmoyYUUyWm02YnpVQzNHZkI3eml0bkZwd1hlYXoyUXNRa25Oel9BaENGMmU0ZmVnTldvQ0lxZ2tNRk81aE9OeWVjS04zWjRJSXU4SkdXRzVOUG45dXRKZlREZFhESThlbFZrQzZlbHNyYXdWN0tWUTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:04Z",
+    "hash": "267c1d4c7b155ac8ef396c5b1860c23dcb059dc1972fd7c7d6294eba76ec00c1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Stordahl Capital Management Inc. Buys New Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXNIWDMwUnl4Q0pKakZFOTRaUGF2U0xidmJwZXViM3BwVHZZSmsxdFZUZUNfbWRURmlwem1mZkNMMlJNS3hocFp4cEZaTlk5X0Q4NC1xWVVyUWV5RHZJTHgtSWJIcE1wY090MDJVX0dsR1RpdDhsQVphQUxZdEMyamFWcjFoejNjS3E3TnloWU9yZzZIMlZySUNLZWg4Z0xyTWNrWWtXTTU2Q1pRN3hlUndvdDBfMDR1eGZSbU0wd0JiQ0xpMjhSd2xEWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:04Z",
+    "hash": "c976d8feeed12109833191169b1e660b1ec35c6e3fa2dbd0f6e820eaacb0ef42",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Inc. $GOOG Shares Purchased by Manchester Financial Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEpKMkQyOUEwOGxRTU43a0VyUHNXbmhHVlkySlFlN1BrX1p4VWFUeExISm5SNTRXU0NFM0pkS0pXM3owRXVoVnlHRHJFRHo2UDRYOFE4QnRiXzl3eFFiZmxwalFfcVE4VjdHVzA2cnRnemh1Zks1ZDB6eUNZdTJlVDZEVl90Yy16UkgxbnJKTHJjdlZvMWRTVG1FM0gySGI5MG9jQ05wZWRUR0V5U1dIVWF1ZV95enllV0dTNUU2T1Y?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:03Z",
+    "hash": "46f61640c09e5391bdd28e1be2fad8df4514137e7ccb589efa103be03299946b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Huntleigh Advisors Inc. Increases Stock Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWcyNGxleW0ycEhQd2tjMFpqV1FCZmZ4azVCZmlrUXdhaWdTRFRDSUlOMkNaZjk3ZmtHSWJfbnZiZVh0TE80b09aWGtwY2xUWmt4REljVlZKRVBEUFhmTGNPSk0xLXhEQjhyb0RUZXR5cnZSWlNMLW1PMkhzZHFPeGZMNjBzazVKbENhTmJvQWtPcm9USDcxWHNrZ1FnMk9OTjBsVUFtemxMMGNMN3BKZm1xVlNNX1g0a1JRYjM0ZHloWUlrMlkwbQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:02Z",
+    "hash": "77800b5ee47f9aff3155bfd16eb2f07f2e1e29c64b2081f2a634cc6c64b380f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Inc. $GOOG Shares Sold by Dale Q Rice Investment Management Ltd - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblRxOTNXOEk1eE9uNXJfVy1mQW9tbGo0SUVvN2ExMzJUNGRXZFFVTDJlTGF4enJDUlZFMmFwNHdvaFhaSzRHV1hzMHpNb2tDNmRFMWxuajl3REJ2YjIzYmdLUEFFMURVYndCNjhCRWRYVXhKZzU2YlJkREdpVWJqaVVFUTdIeHE3VGUyN2trdkpEZVEyYk5nQkhVN0pDZmZSWW5ZUjJINklJQ2NXMzZiOEdrMGtkRTFDSmRYWGhaNDRIc1FpX1Uwa25JYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:02Z",
+    "hash": "a9c8454058f8edcad1ef7756f994c6e31394f492585a33f465bbc4b948a3ff28",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Albert D Mason Inc. Sells 1,165 Shares of Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcDdfbFBJMVhCOTJwZW1PWGZZMEZuTEZVZ0JTSENILUpwU01pak1xVU9pQkFUNUpqVDQyZ3NlQnE3azJiMFFob2V3RHE4YTRxWHhnRUtVdVB1cE5LaEdYUmRzTzdpT3dxV1VFejFvaDh2aHBjbWNRM2RScTUxTm5uUEFhN1Q5c3JlMnJEVzZMOUR1NE1zc21zaUI5S2syeFQzOVFlY1RaVXVKUmt1QTVlV2FPOXV0YklYdkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:02Z",
+    "hash": "6b8f4e84ba36088a736e61acc7f09dd9061233c09d29b47aa4bacc5bdc38b52d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "First National Bank of Hutchinson Lowers Stake in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTcxcmc0T3NKbnZHZVVLY0RFUGJobWhFQ3FSTnRvZGxTcFZ2dHJQMS14Y3cyOFNJVnJLelFfenRNMm51MFN1X25UOGdzTUJ1ZVotY1BrQi0xZ0o4Tm81V09ENmcycTVvaWdjc1k0REZic1JFSUdXX25IUFJuaHBtOFRnbTFVNVpwT250Zjd3eW5fQWo5RXRXLUJkVnp5LTB5MFVFV3kzREFlUjZGTGRSSmdRdkVBUE5MYTRnTjdnTXliU0VWWDRz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:02Z",
+    "hash": "19d3e224a702a27cce6b43d7cfd817bfc6b76a4fa895e05cfbbb6a643804fe54",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Mutual of America Capital Management LLC Sells 11,356 Shares of Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbGQ1QXJDY0swVkJOUDhyalBjdkc1QVZRMlU1bTJjemlBYTNXV0d4a3luNlpleWNWTmpZWlNhSXRCd0tYNlNBUGlVUndjVXpoSjRtcHVEdVpOUUxfaVJWMXFqMmdxMXAteldwd0d0cmhMLVA4REZCZThsc2Z0TmFBc1dnamRJdmRlVldWY0xkY0poZ3J3VmhaRzR5bzh1ZzlUMkY0dm5aQl9IaDliUDNEUFo3ZkRJNWo2YzNkMHN3Y0VGelVZTVlFUWNRdXc4NmRFYWN4MG1Kb0U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:02Z",
+    "hash": "03ec4fa390406fdf654b13c0682d4957fc3983a26f12708edc512b1bf84da60f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "William Blair Investment Management LLC Raises Holdings in Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2w5MGF4YmlkVnZXcV9fdjdfZHpBUE1QSV9Yd1dfMUJvYjZLdGxnT0xXTi1HdkYyaTdKQjBFQ3J0Wm5yM0NrZ25ZTE1QQkMyUVRhNkU5US1VcEtMaGZVLU9OWi13TmJVcVV5VnR4VzhnejZTczZSWG5hT09TX2N3ZDlyT2N0VkN3Szd3bTM1bXFXVW1RQktIeXpLN1Z2Z2FmcDFYaHhXR1RZZnBpR1VfaUV0M3RvRk9ibEN0cmJjeTdBRFhneTh6c29wemxGVlZD?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:01Z",
+    "hash": "3420bcfb492333d1f91033c296c5399d20fad00eb7d2f5408c5c61826ecab560",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Foster & Motley Inc. Raises Stock Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONEhBLXVKVlZSZEdDMTJuVUVDYzFvX1ZtdUtYOFRleXVHcWROVmRQLTBSeU1QZ1BGdGp5MFFTZ1Y0bEc5ME4yX3pwU3BsLWlVbTJMWkY2bEZ0S1A0SVBXVUJ0d2xnOXdXZlZaWjZ6Y0U0dHRuME5oVmNxeF9GX0x1UVE1TXZYS0piNC1sN25KVlB1ZHJaVDRVNWpVLTlxRXhtb1JQb0pBM1BpaEl4WURiR2dLWVVqUmdWM1pYQkxR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:01Z",
+    "hash": "c829d3d5d47f233c761021aed381fb152b1d3665bb0be7bd3b85ffb8e60869f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Progressive Investment Management Corp Has $19.24 Million Position in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSUhubzJ3Q0hGdkoxRWEtOWtjSHgybXNwajJnZzBIZEN6NlFsR0RmZWpsMXQ3c1NRYzZ2N0EzNFlKUFJKcDNUTGJ6Y2I2eUE5aDdDeEswVkZKTnZRaF9ramFKQmRMWmxlX2RVb09mczZtNWozb0F5bVZyYUNZdlZyN0Y3eTBkZGZmTE0yOGdLY0pLQ0h0MS1vdEdwbE1EUzQ3akM2eEdaMFRmRGx6SjBlaHhNSmFoNmtUOUxHa2xvTm9WODlIS0Q0SlJXSmVIdWh4UXk4eEV5dXRLZGdGVzNz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:33:00Z",
+    "hash": "ba209f7532b2c981bf9c0f43c3ad81a901fb540467b8f95d123c5ea986264db4",
+    "source": "gnews"
+  },
+  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Top Crypto Coins for 1000x Gains: Solana Gains Speed, ADA Builds - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPazg2bkdSS19zNEhmWmhBdU1uNFhQUlNyeXdTck5jSHpaU0pWQ0NvbVhDdC15RjBVTTYtRVZCbGFhWTZ2eElvY082a3BOdS1nS3lzUmJrbjl2RjQ3OHNIemZHSVJjaUk1QWNjWXA5YjdudTI0YU9uZGtUQkltTXlTSzZGNDROd0hCdi13c0JjMFBtc0FfZFp2cFhKQUJYVW8?oc=5",
+    "title": "Solana Price Prediction: SOL Founder Shares DEX Code as Snorter Crosses $5.3 Million - ICOBench.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXNxWXZpYXRKbkVKV0ZIZDlqdXRadG9YdGVhTTNTSER4QzR4YkRpdm54SDRteG1FdHp5LVRyamVyOEJCb2NybXdNM2Z4c1Rwanl0NE1TYWZIVWMwTGc2b3VDSUpYUHZJNnI5YXZkWDNNZ25XbmdoaWV2Y3FpX2E2TEpKMlRJMmd1b3piS1MzRU50QVRDbE12WDBlMXdYU3g5WVFSV1pRZnpkQ1A0akE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-21T07:37:30Z",
-    "hash": "66e9919d09c8b2a4b5ff9d0368c5130ac28ed5e81eab40dd50a3e9fda9692d78",
+    "published_at_utc": "2025-10-21T08:32:06Z",
+    "hash": "02d40f882b267c3c062e67516b69cb75324df5fb00c83c57e0d61671d4e9eac7",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP price declines, volume increases - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblJNMXJKVHBzMFJGc3NFZ2F2dXloRHI4RTNuS2lld1RDYVlyai1qS01qOWNTN1FyeUhXbm5ONEphYURUOTlzb1ZINUZuSzBveml3X1V2MFFueUNWWlJLNGxKRWZsVDBQNDZLcXkyTVhmTTdJVEZ6UWVNNXpRZ0xtNG1CdnlqR2FpUm1yU1JyWjc4RXY4QV9IaEJWa9IBoAFBVV95cUxNdjBfdjY0T2Jnc2JxbVkzaUpxWVhOY1ZHZFp0RjRzbUlhM3U5Q0dxMVd5ekZaN3cyQmE2dC1tcG43YlE5bHJZU0pSVmRDV0Q1LTBCZkJUUGVDOWVDU1ltUUdXaEJScEJfS18xUlQ4c0labTM2cDJ1X1V5YjRhSjNCZFhuUjRWTW5PZ3NHMU1veGdhRi1meXZrdl9tcjRVWVJi?oc=5",
+    "title": "Evernorth to Go Public as First $1 Billion 'Active' XRP‑Linked Investment Vehicle - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSmt0bkpmTml2djFnS3paelVTQ1BXWHZ4bFNOSDlJQ3JvaDRqbjZfM2JLZm5nY2lwdDlnd3RXY2hBZF9QU2JIbzR0LVUwZU5ldl9heHMyMXFRZzJuLVpQQTctOW11dkRoMzR6NDE2QkpuVnRRQmd6YVplSTFtZzY1UGFJUXNibFlLdnJrQV9mSHdnX0dmWGtmVWxERnRxeVFBTVczVEZrcldFWDhTR205OVJ3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-21T07:32:23Z",
-    "hash": "9454a9164e9776d6d5fe02a1c771e33ad54c9fcfa4a811c90d1c34d139b71fe3",
+    "published_at_utc": "2025-10-21T08:31:50Z",
+    "hash": "64f74ff08e4749177c747a890790d0f10506f860261e56bda7cf3cbbd8c07a63",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Chevy Chase Trust Holdings LLC Has $614.28 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2hfQl95THhPNGZCWlRKeEI2N1J0dF91cVllS3plbzRQVDVZSWhobVJ5SGVfbFpYaVdONXg0eEdLMnp6V0YxZURSb0RNRUtpMHpIUjZLTTdWWU95X3VSZjRjQkk5UTVoY2VjVkFHOUliQmNMcTh0X1lZcmNBMi1DZXFubS1JMGFRWnJMcWNYc2lsZHkySkM0a0FWcFNEeG5NVFpkZTUtaVQ1X2huTXFSSE40bDJGcUdzQU9XN05nUEpoN1dFdF81RjIxWFpnU3NIQWdkczQ0MERjaE1JaFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:24:51Z",
+    "hash": "1c50562ad385ca5f0d36acc93044f6a49d0010bcd74e94aee6e531f7acbbafa1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Arista Wealth Management LLC Grows Stock Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR1Rpa2ZUeE1hYWZrT1hDdWpfaEg1OUNleDlWMDBTVnFLa25RMjB4eGJJQ0pHUERtYS1WYnpDVkZRcVp0bkd3S1g0TzRZRk81RzRhZVF6YmluS2gxalRtcVR6bUdzcjZkNmE3SkllQ3VzRXc1WHAtUUxaeHE2cjRHakFmODE4RERubzJTVDhRb202Wm1pbG1IUVpVU2FwcXMwcEVHM3RzUHFRSnpsZzdndlRRc1owOVhOMWVUWnV4YXR2MmpOVlhZY3FZaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:24:46Z",
+    "hash": "9727013b1d3b6c607e4486b6e9074065cd657dffa74e29b2cddb4caa778a616c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Company’s resale registration triggers over 55% HSDT stock sell-off - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQd0ZGVWlmUFdHQnF0V0Zwc2o2Sm9lUldMRFV2T3dZR1lUdXhNemludGkxcHpCV1hJZlNqVEZNZGRUTXk2cjBEWjUzTG1yQWR5TlFjV2JrRDROWmx6Ymd1V20tb2tCMXF3X1U4TklvWUNMajA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:24:00Z",
+    "hash": "3131a7265922515442353e0b7bdad05ee2cd958a8b9e6a17782729cdb5248006",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Easterly Investment Partners LLC Invests $727,000 in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeXY4Q25seElaQjZEanh3OE1jWFFfaDlvY1AwTWtsaVR0V3hYTVhSbm5ib1ZxdW90bEl5TWw1YjdPZmFNSG1DMHc4Q3Z4Yzk3TVV0dGJvOWttSjYtX2p5c3pMX3lPZjB6N09iYWpmNEVjb0lhNXF0alVBWXdlSnIxb1k4NE5YUFRlT1dSbzk2QzhXcTNLcFpWazZiSEtibDFiSUQtV2VzVEdtM2QwZm54dW0zT01GcTlUR0ZLbmJWQnFmUHRadHFFeg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:22:42Z",
+    "hash": "148db7aa67feed0e4c92ff31addb15e446190742f0699d0f41db6b72ccb24862",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Inc. $GOOG Holdings Decreased by Tweedy Browne Co LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGxZNXdpcUNBd053bjJ3d3dXYWQ5VG5OTW93QkwyVjlKdmc0LXdkcUxIcUVtcURvMWZtbTJpcDUxUE52MURpUW9HdUh6VGJJNFJlX0NiSHN6MTFROUdna3Z1clVPS0ppVmV2X2RnbkZfZlZoOHlxN0VlTnh1SEFjZFgwVGlpN0VBRXRPdXJMTHluaUk4LXhuZTBxM0FfUVhWY1NiankzOTEwdm1mbHYzNG9Pb0RONHc0UTh6cERR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:22:33Z",
+    "hash": "db9272127cd2100c65f7add69c2abb305061d768ef3a505eaf3265453f960d2f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Stratos Wealth Partners LTD. Has $35.26 Million Stake in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV1U5UEdVUmdzZGRoeFlXYUhqWnNMNHdybjR6REM3dVpCUERzcnB0X2Z5aldkRXNVN0t4TU5WTTVKYXRZYWFVZDhaaTFrSTJhNVpCaFJGUnZkRjJZdzRSRjJqVE1lMG9iR29tLS04NXNLLWlqa0pkR052eTl1MThmZnhnNlZiUFB4c1BLTlZud2hiaXk3NjUwWmdUWEdvcl9fcGhpdFNDaUhXVm5XM0ptOHJ5TG1qSno2YVgtY2ZlbTk2dmx5c1dEYlcta3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:22:33Z",
+    "hash": "5c04eb2e489811f655c7503e21f933f54ff49d9b2d3641d68273a89791ce93fa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "GlobalFeed",
+    "title": "Bitcoin-Investor : Warum Michael Saylor Nachahmer findet – auch in Deutschland",
+    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/bitcoin-investor-warum-michael-saylor-nachahmer-findet-auch-in-deutschland/100159209.html",
+    "summary": "Mit schuldenfinanzierten Bitcoin-Käufen ist der US-Unternehmer zum Star einer ganzen Bewegung geworden. Warum sich ihn eine Firma aus Dresden zum Vorbild nimmt und welche Risiken es für Anleger gibt.",
+    "published_at_utc": "2025-10-21T08:19:39Z",
+    "hash": "6ccf2e4f38102cbd17b6a9f023694909ed8e443128fed8830415985dd9b78c34",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens donates former train carriage to enhance emergency service training - Siemens",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTlldUJlX2JKWEFVNHFGZXROTEZwRzRoTE9QSVp0ci1FWjlFV1RIWmNNSmtoYlZOWUg4QnpOdy1sRE5OWVFXMXZXVVZpRGJ6VXhYUkRDbEUxV05WNlRmZ1J2bUVfY3lhdVE5am5fYWRkSjR0N2hIYUJUelhGU1U0VC16UVdyQ3FvT2preUN4ajZDMkJBSXluWHVlQTNUSXB6UzEwYTdZTjR6OTlpZDRndjk4YlVwMkU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:13:31Z",
+    "hash": "21c1d801f6270549c6329aaca2d0613bf2069aeddbe8783206b1b9ee7f09e38f",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "This Under-the-Radar Stock Recently Joined the S&P 500, and It's Obliterating Nvidia This Year - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnpCMV9ic2lnWVUtcUFHOUtsTzZ0eE5rLWRtRThSMXYzdi1mb2F6QzFvM25teFdmTXVIcXpBSEVtdmVxZlNZUGRqT3dQNU41RGZCcHJVMTJ6c0E0cVlHTFFiUXFIYlRoQVJ6SUVGVl9qaG9vZlhZbmFaRGRyRVgxZ3BDTDhmbG5tNFRfa2poVzZtbUpoSkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:13:00Z",
+    "hash": "2cc48ab4714b64e50cd0e023ad63e743759112ec21e3c694fc2b7b2d9050bfb1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "AIADMK Mocks MK Stalin As Google Picks Andhra For $15 Billion AI Project - NDTV",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2Z0bTBJTXJHejRTYjNhbUR1SE1kMFlnX0QwVjZRQXlyR1V4eVlSZHV1c2dhNE53MmpCRlVxRFlXRTFfMjY3VU1KWV9wVkt0TmIzdXBjOWk3R2VvcllhZ1NIdlIyWWIxbUJNS1FVVkc3Zll1TFhYR0hJT181RmstVHhwUVdqMU1pVkZ0WFVOSFhkcUJiOWJaUE05R19vNnBiTFJxd3llY0ZNUi1SZVowUWdGc1dybkRPdC10VmhjeVNiRUpRN3NDUFB6ajV3QVlFZW1ucXVn0gHeAUFVX3lxTE5xdGQxcVYxRWRpVE44NlVaR203NG1FOHZaWlJDZTljV24yandhTkVKakdhSV8zRXpkV2FMR1N5VjFKNjc3Q25xSEZMdnVYaU1IYmxwUnRIcWY5WVNraDJNUUItcDZ2a1NaQkRwRC11UHBveGhYTTdxbXQzTDFaQkFidzJmOTNvNkNHM2ctZlo0ZnctNnR4cXF2LWpReVNGajQ3MjdsUGpkUURCWDFwUVViRXBDaDlXcjlzTUo4VUVPV1JYVDFfaDBfNzBrY2REelctZkhzTi14MnZEQS0xQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:07:11Z",
+    "hash": "53805df969a7e34f67e64acb3c2fb9a2769407eeedae68f213bbfbba52765756",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever postpones $15bn Magnum demerger amid US government shutdown - FoodBev Media",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOME44cjhjbWZJZVg4NkZnd2JPYkx6T2xrRW1mSVRiX2hMcVJVN2gyNk5wYkFtMFVMTjJUdGJHVEZJYjdMWmJBa0xud0ZqWm1oaFloWjRzY0tqQWFvWWZwS1hac3Y5VElYbFNkM1doRXVYa1ZKOEpvQkNiWWhEd205T1dfY245Q0g5ZHhqNlhWZVIxbEFyVmlhZTA2TFU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:03:59Z",
+    "hash": "8c5bd9d763d17325ac0dc2c129e14b3f699153d4065cf273bd72e29137838340",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Mobility to raise share of low-carbon steel in rail vehicle production - Yieh Corp.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjk2NUxYb0hwWFBmMGp6TGlZVUlrSWhpXzVhUDhFM09LMGNiRXdrY0lTRmd6VV90cDFQZkl6V0ZIMkJxT19ZT2JRVVFqQ0NSWFZkdmVjSkdnMkttYzBhY3BmZlgxUTEtUnRBV0Y5ZF93MnJRODhvaFlZWVRwOUZLWnV1VndOTG9TcnZVdVdaSkVJNllhTjZNVHRsX0YteVhxdjFvS1M5VmhiZ0gyMy0w?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T08:00:26Z",
+    "hash": "a567b1d1a30042ca630380774c962967635a49a754e4a8ee21e0feb7527eb341",
+    "source": "gnews"
+  },
+  {
+    "asset": "VanEck MOAT UCITS",
+    "query": "MOAT",
+    "title": "Why VanEck Morningstar Wide Moat ETF stock trades below fair value - Stop Loss & Growth Focused Stock Pick Reports - newser.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQndvWElyMG1KZFFoRjZzbHZ5RjUzMVVxNnRjMzFOUHdUdzZSRGdYMnRYeVIybGpkRlFES0tnMF9nRWcyZUlLUExxa2hYcUlFY3o5Q2tqVnhvbm9SQld4WjBsdHJMYmR3S2o0ZjBLa3lWdEV3OGlJSHZPOEIyYjBkVHhVY0ltZTVQRDZ3SThsNXA1OW9DREEtakpmd0FJOHdibzA4Mg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T07:53:25Z",
+    "hash": "e70fe0b5ce303e7decf6921fec34abef2605ccded0467600c625661eca4da126",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Billionaire Stanley Druckenmiller Dumped His Fund's Stakes in Nvidia and Palantir to Pile Into an International Growth Stock That's Rallied 243% in 2 Years - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQa0k1UXFUWXpCTXZNb3dCSWtFVXpQRmtlT0w2ekVlLWN3VWpYb2d1V1I5YjlZTTdqUVpQcE9wbHM2Q1FFMnJ3S3RINFQ0SWtHWll1eW04Y1NUeGt5VThJd05UUGFRN3hsTTNJYVdVUDVfSGlzWC1tbzQ0dGtibEJsUy0zNDBWenVtZ1lsQnhWelc5Z2FMTjJsdkI4dlg1ZnAxMVVCNldzSm1nX1lHMXBKRjdOTnV3WEdZb08tZktIRVJXUGg1VEhicHBIdlhMQlVSY0NmVFhIMllUZC1FeWZ2WnE5RXlGUEs1X0pjaV9nTTdaX3JQUU5weVVoZWxGN1lNak03WFFQT2VaU0ttUGFvVkpDMDFJNGZycXR6Sm5pOUQxVDZUZVp0M0VQdFU4RjNOUE5DWmxqM0RmbDR3MkJZS0s0dHdTeXcyY0FLR3JHbXVUdlltalJ0bVZCVXAxMlk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T07:51:15Z",
+    "hash": "fae4adf4aa01522cf86223e54209672e7a676432b1659cbe3fd920c3c6c01b3a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Billionaire Stanley Druckenmiller Dumped His Fund's Stakes in Nvidia and Palantir to Pile Into an International Growth Stock That's Rallied 243% in 2 Years - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQkNVYjFQT2NlWDFFRFdsWFdRZFA5a05LblIxQ2o2Z05WeFhLeUk3S2c2ZzlUX0V1akRLSHc0Wk5JcjlkOFRyZWczUTkxdXdzUXdKMTctbzUxWDRTZXk5UTMxWGJHWS05S1pFSUt0UkV6bEhmQVVxbHF4bTZiSHVjTEkxdFlqbDB0ZjV1dUthODVkUjFPMlRxVA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T07:51:00Z",
+    "hash": "b65d7ba07ed537894fe97a70fd146e8db02f1c033937399cf0d23c3d136bcfef",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "US government shutdown delays Unilever's Magnum ice cream spin-off - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTm96NmxBcnVEVS1QV01iYWlnN3dPTjlZQW9PTU12TWE0b20wVXk3UGJoZ1ZQUGJQcHNKT200czNzejNsaTVzQTRQRUN5YmMySU9EOVJORWotY3YxRF9wNTFVZ0U5V3htZW1mOHh5eUl0cU81aXRzNDFqbHltX0JJSGVib3R0NDY4c091d0Q3Y1JwZzhfNUg0aUR0d3dxSjRfMzJDU0dDazVDU3NF?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-21T07:50:07Z",
+    "hash": "39977bb950213ffc9232c1ea2bc11ccf9eaff242bd32065faa18d8a357f751e8",
     "source": "gnews"
   }
 ]
