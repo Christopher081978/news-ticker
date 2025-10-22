@@ -1,142 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price Forecast - BTC-USD Slides to $108K as Gold Crash Triggers 0.85 Correlation Shock - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTJ2NGVvMThpYTlyVm40VDVVSTlWcjVlQkpfRU5tcXdNUHNiVHFUNWJxVXYwQUVlOHdQcmgwbjNvU0J3d1NXWmprbmI5TjVibkZUWjJfcVE5ME9NamozY2stXzlHRG1Fdzg0YmxST2EtTEdjcVEyMF80RU8zS1NIdHVSU2J5UUJCVkJxbFkzSTVoendWVVVVc2JremdXTXE3UXlvNkhTTGtHNms?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Mixed options sentiment in Novo Nordisk with shares down 2.58% - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVllc2RsVktMUEY1VDVRb1ZRWW56cTByZWJnNTRDa0FaY3JKMTl3dUNGWDcwdWxDcEpXc1JCaFNfVTIyNXlRVFZNUjJxbXV0QUJyTFp3YjNfZUsyS0JxcDVFeVdDWW96anNaYVNqc2piU09KOHJxanFPSXBsbFFvQzBoWjlHZUR0WEViczE4OUFRbVAwWGg1M01QUHg1a2dpbk9HVXZncWlfZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-22T15:25:50Z",
-    "hash": "ad190810db1385aa90522782413d44f7593075f4f2807fea546c58fd202cba88",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "GlobalFeed",
-    "title": "Märkte Insight: Eine Frage entscheidet über die Zukunft des Bitcoins",
-    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/bitcoin-eine-frage-entscheidet-ueber-die-zukunft-der-kryptowaehrung/100164581.html",
-    "summary": "Die wichtigste Cyberdevise gilt unter ihren Befürwortern als digitale Form von Gold. In der Praxis trifft das aber nicht zu, meint Handelsblatt-Redakteur Andreas Neuhaus.",
-    "published_at_utc": "2025-10-22T15:15:19Z",
-    "hash": "89f4b6d6cf23c58136f7b720f405f244d858a8856963ae890cce60394fdf1cdf",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "What's next as XRP technical structure confirms bearish signals? - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRnhVcXJMTXJGZzJUZGhhVWpBOHdBS2tqTnJZbURUcGcyOGhFTjY2TDg1VUV4M3M2a3p3YjlwaTZOMktyT2hmUEtDWXlIdFNBLTZobWl0M3JDaDJyUXg5SnhoWHg0d1pIZHZyYnloZ1MwSnlXYU1CMFFzWE95NGpXQ1RSNjRZU2tIckVMcTlGS2xOTHo1dlhwZEU1dmRLdlRmQ3JMV0dUT1RubExoWUk1MVF0YU44Q21HaGtObjMyUG5SUTNNeERIeXZYT3lMQdIB0wFBVV95cUxNV3lDbFFJYTQzYXN4WFRWRHN5cU9lam1sUDFsVFBvV05KZWhWdVBma2ZVdEY2TWlzZ3l3Sm9iMGZTU3hxQkViQTl4ZlFiX0UxMnk5dVV0T3h1THdYRnUycjFidUo4TXhac0NxQXhXcm9SRU8xX01tUm1Zb3VCaFAzQ2hlbnp5NGc0a3dBU3JyazFPT0twbkgtWTdVd0ZhTnBoZmM5cW9jWU5xMGdXX3k1eVF5OUpuRmZxMUZUTGo0R0lPUEVjTmpsTEN0U2xld2dObHpv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T15:15:00Z",
-    "hash": "129274a485baa5b17b2767c94779e5ad47cbe5d69b5ae3e0ed0b6d1ab55d8909",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet CEO says quantum chip has achieved 'first-ever verifiable quantum advantage' (GOOG:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcjdPdW1kX0hVaEt3aUw1MjAwMDdXQjV0SF8yb0ZXS2NoWUFlT1ZGd3lPRFlGMHVyQlZ3QW9Tc3UxQWNveTFpZGtNOE9Od28zX2lYeHZCWXNpWDQtYk1ObmNWY3BFUGNBdlNyaU1NVjZvUGJtZ0R0SlY2NjU1Tnk5dTA1VWVwUkQwLTZxTVdfWnpsUE10Rk4zSnFOVWoxbFF0d0hIRzUwc0stVW5yWUVtM01scDczRVlHeUQ3Q3RR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T15:14:52Z",
-    "hash": "72cf09e688f8d020e2aded7abae79050e0b58a240f61e1665361482f781688dd",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia stock: is the Dominican Republic’s AI hub a new catalyst for NVDA? - Invezz",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3RhdEdOc1hNZ1lsSUJtckpHdG81c25DN0VkclFwd3hxSTNqZFFuTzc1Tnd1aThYS1FvTnRyMlBYMFFXSjZ4T3RoWVJ2a19BZ1pxRjk0S05odTQyVjdWZHJrZm9XSFphcnp0cFh0LWkzTXdYZnMyWE1LbkN3M2QzT29NSUdCOEQ4ZV82cWQ3b2ZXYWg5bDNDME56anhKb3lzSWxkc0dsbDh3QQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T15:13:20Z",
-    "hash": "a9adb4f6320b0a9ada9e8a697d62f2d6e77999d0431cf90c1b69a9d0c805ad50",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Aker BP Concludes Employee Share Purchase Program - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXd4Ry1Ba0dlX0pucmM1bm1IdnFfZmtUbnlwN1ZHTTlhSlV2Q1M1SlBmYzhOTGdFanBYdG1rbnAxQlBnbV8tWHctSEtMWFJ2SWx2clhoNE9BeFB6WjVqRHd0NWhITi1xVVBoSk1ISGFEQ0tVb3ZTUi0yMzRRMVgtcl9PZVA5ZjBmNVI3WHFtdW9zelRGcWZWWHJZYlpqZDlWa3Jr?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T15:06:07Z",
-    "hash": "2f9c0ee62745d18e08b45ad3816d1a093ff48dfc1ba9e1e4bd764f4e449c41c8",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA, Snowflake Back Uniphore's $260M Enterprise AI Funding - CMSWire",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSnZzdmNIMS12ZkFySXpmcnpibFBXSWxvaWhuT1RVbWZXMU15dFV1bkZ5NXhkdWNSYkppa25oeFJtb1FyWE1IVnY1XzdoQlZTUUp2YVpTN1hGR3dHbGtQb3ZwcFhzZUFNSm9VRVJkSFBxSjFuRDExYTF2V0hZMlMxdUlwOXNWNXpKU1MweFBqR3NqbE94MGhLaERjRF9idEV3UFRudGtRQzA4N1BudWJBVHNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T15:05:57Z",
-    "hash": "918a3ac8c2fd40fec95fea16ef24457e0f6592a50b85db49e48c7911007dc0b0",
+    "published_at_utc": "2025-10-22T15:44:37Z",
+    "hash": "4d98cd72a7da71d7fcfab38e5c586fac08ed7a06179fc1f2e24c6e4084e62a20",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "SpaceX Makes a Major Bitcoin Move Amid Market Calm - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM1hWN2lpa2xvelF1RTlfVW42bWtzOW5lMUpUNHV2YmNmMVZ6OVlER3JoaUY2WXdmdGg4NTg5d2NZZllKeGRBd3dFUEFoTWRjbTYxanJ2ckNrbkl4MkZPSmtEU0RhMDVJMG90MXBTY1pxTHctakt4SGkyUS1NSEpFeGQweVl6MFZVNnJxZjhPeHBYalpZQ2FmWEVlRTZ4NkllMGJMRXhNaWp1RVdTV0RwQ0NvVzlONWdWZ0Zwcg?oc=5",
+    "title": "Ziliqa 2.0 Hard Fork Today: Is ZIL Coin Next 1000x Crypto? - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUtBb3VrQkk5dEdpY3VWTm9uWllvcXN0RUt1azF1SEtubElBUDVBYkxnblhSN1A0TDhMTWxpSTZQMEgtTkgyV281REhkVEJscEcwcGFSbGZOVlNnMjFaVGllUW5yR0MxaXc4b3p4UlMzR2xaM2dTb3lvYno2a2JSV2t4U3ZQcWVRd2xkcVZoTjA5UWhsclM1OXQ3eFRxLTJld1d3bUFOYXI5eHQtdmVpTUFB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-22T15:05:00Z",
-    "hash": "4264cbebbd12a372becb476ed038c9c343e7811c1a233babc7a66a3eaa1daaf5",
+    "published_at_utc": "2025-10-22T15:40:12Z",
+    "hash": "1986decacf469c8569472d1a068708fe7bc0077bb3999283f8c3d4d0ab39e0f1",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Institutions Continue To Buy The Ethereum Dip, While Retail Is Buying This New ETH Token - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2E2ZDlLbVVLZEZ4OEpZTHVWU0FUWEx0NmlsbWtBUWRRM1hLeVE4NnlXdm54LXVHZk5TSkdCSG92WS1NMXVxQVBLcGkxNllOUVNUekdlZllWSDlJYXhiVERMOFM2akZLMmNRa0JVZmx5WXZQdE5rV3V2MEYtNnVkSUdKeVpDdmsySklZc2o2eTMzdjZNUVhZX19nc0JiLTBIRW5sODhYdVBsT1lYcmQ5STdiQzBNZE9tTkE?oc=5",
+    "asset": "BP",
+    "query": "BP",
+    "title": "The Zacks Analyst Blog Highlights BP, Cheniere Energy, Archrock and TechnipFMC - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGtpeG5TLU1qcV9ZUUd3VFVOcFJxdnB1V19OcXJLMzRTOHJPOTBlQlVVZk15NS1rdUJmNDhlOVlxLXNuRi1YWW1fTlRmSlJBMjJibzJkMkc2MG5TSE5sXzVsejdMWU40UHUycW9tQTNuYmR1bXl0X3hUeV9fZFB5dGlfcXBuLWdEMjdMZThicGYzZ2xTcHplVVdaSHl4NGlhUm5qZVlEZzktTGlZZV83eThTb2o0Y3dkMENiUXplaUItYW1wOVlrdldzcEd1TGxBYTZQdFVB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-22T15:05:00Z",
-    "hash": "7c3c73a2c5cbd4f196fa7c4855b163266cf026b014553153370abb73fce437dd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Hong Kong Greenlights First Solana ETF, SOL Trading Volume Soars 40% - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uY0liR20xamtXTDhITG5yWTVlREh4NGlteVFDMmdJU3VaMnJNbERyUXFFQ3hiWHg3Y2FKcWtNNlBiNTgzM3NiS2g1UzZKdEozanQ1T2FRRVNVdDhSUDlRTHh5YWdGWDRVNWFoSng3VlZid9IBd0FVX3lxTE9FbE1wTTN5cVJ2WGJ3Q3R3RFdWY3VTMzBSckI0THA1enlkNEMxYk9PR2kxWml1TUlPYlhZTFdieEN1R3ZjT2YzY1k5bERxRnlaVExuSThUek05bmFxV0ZTOXdWZlI0Ulg3QUxZc0NRb2FsaXN6S2ww?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T15:01:37Z",
-    "hash": "04b2491b7d9797b892952e920ffc2b3b6cd51287d790d18a1773e766a0663875",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Daily Price Prediction After Fed Crypto Meeting – Are XRP, ETH and ADA About to Explode? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3hLUkQ0NndLbmF6UnlYUGdhYWtlZDJDLWo3MFRrMjFqc0pIbENNRTY3RVJ3aFgtOFNra1BPaVFoVGhZMS1EVGtNVnZNeU9CTXNKN1ZvVGdXWmxBQTBxejNmeVlkR3o3SHR4WExNWVZvMVM4N0p1cnZtRmxMdlNSeG1uVzZJSjVoS29ndEdkZHJNN2NwZ1lRQURtRGd0dEJUeUlJeVI1RXk0NnlyNHh1ZjF0OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T14:59:10Z",
-    "hash": "7cf70621bcb6afa4628cf1b113c6fca028ca4e8b404c4fefdfc77c7155bfe151",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Key Levels to Watch as SOL Struggles to Rise to $200 - ICOBench.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnJpXzZkREVSR1RhUXc0RmdtMzludkJsaVJ1TWFpeGtJMmVJUkEwb3hETXlZOV93Ui0wQ0tQREY2NjJDTGNMM1pocHBWcU1sQ0hTZVRVVEg1QTNQVE5IaTBURVJFZGd2M3VObm9yNUxKRzhma1ZJbGJmVXBfdDJISHFZaHRtVUhOMUhZbUg0R00wM2FoYlJnWFE2eW9jcllDa3JMVg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T14:57:05Z",
-    "hash": "2d89ab5afef79bd23548fd533dfa1895cc989ac41cf4b3f71616a7c9ea64180e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Hackers move $1.8 billion in bitcoin stolen from Chinese mining pool LuBian to four wallets: onchain analysts - theblock.co",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOb1paZ2dYWTVHQW5BRDhBXzlmV2FobERUQkw5cUJYeGtTY0VqeXQ4eUVaUTV1WGZmUmw3RURNTDBzVi1sMjZmZDd3T242blg1M01JZ0ZmejRSR2M3V3dwSVBlTHhQdkhvZHdtU3JRWng4bnIwcVJwNHRXMkx5emZRTFlmN1BBZV9lRnNJaTVYUFM2bVhGX1ZtX3dRbE42NW1uLTIyckdMMUdHTmY4QTRLOFZheHAxLW53NTI1M3UxY19talpJNUp4UUdacmR2bHp4VjI5WUp6em85R0XSAeABQVVfeXFMTnlzRXFRYXpWdGdXZDloUlE1aWxORFNzTktVWU43OThNcUN2S09TZ2hlZkhIbGpGaTVyYU42VzFEV2paaU9NWjRQY0k5dWFabGlINVlNWmIzb0NTblMxcmc3Tk5fRkpjaHZZOXg4X09fMENyR1Y2cFFCU2FiYnkzN0ZpRW42Qm1wSXVMWV9EYm95MDkwcWZKNWlSeXk3R1AtcGZMUnZkMGdzc0NSZzB2MkVjLVpzR05KMUJrQVdnNllMdElWU0hObkZiYjVSVGppclRJOTc0OFBxUnc5YTdEYkY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T14:55:09Z",
-    "hash": "e8de5ca21d098f516ee5abed030086a47d582ad229d1341a2460f1b25168ddd4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab Doubled, But The Real Lift-Off Is Ahead (NASDAQ:RKLB) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0tGVVFzQ1NRVWhXYnRjajFISS05RWpad1Rha1hSeXBxR3lrY3ZxN2N0bEJ6YlRxSzczMms3NVFJX0VhcnBCSU5BNTJ3TGRLXzFOWkpQT1Q1UEhCM0VjVWFENHdkTTI2SjhGN3gtUjNacWVsUnFYLVluYmoxMnlmVmRwSUZFZTE2cTVqV1p1ZHc1R2hE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T14:54:06Z",
-    "hash": "c7e63ea3c221b34c9f77e041898817772f08b8f32a13b4c718fbe6a0036805ad",
+    "published_at_utc": "2025-10-22T15:33:01Z",
+    "hash": "f9c3db574c8f7f925ffd53fae021c2caec8f3f643094ede28c08255d01a6bf3c",
     "source": "gnews"
   }
 ]
