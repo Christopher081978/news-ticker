@@ -1,92 +1,42 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "(COIN) Advanced Trading Insights (COIN:CA) - news.stocktradersdaily.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXBfY3VuZzFwOFV2VFJBWkJBM2FPcDM0T3MzNU1FTlBZNzFfQi11T0RhTDR3OGRTejJCSmswQmxfMjlSb2pRS1VlZ2ZPNlpvc0o3MUgxMU80Qnd2eVR0aW55dWtpa09PUmFLWlA0czhzc0kwd25kMDNFdVZGNHV5dlhBU2lMUWJXOFZKTTNaSENTQQ?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Perplexity AI Predicts BNB, XRP, Solana Prices for 2025 - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM2NyZ19RQUo1cm9ZVXVSS0w4eXctc19lWS1mZUgybkJFOXh5c2ctRm9lbEhCdjBFYldMazlKcDRKVHdWdE9SM3RkSF81eVV1RmxXTW1CQWJ2OVNXWVZvUnBpeV96dUotMmtUUFpUZ3MwQkdneFltZFI5TXpCMEt5RVFwNy1LOXdaUlp5ZWNzdHk3d3NVeFF3ZDhnNjZ3RUwtYnFRWDZ0NW5jUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-22T22:14:38Z",
-    "hash": "fb186b4c003977f66f3312c41e2bed39492b372890b4968859a6384319db607f",
+    "published_at_utc": "2025-10-22T22:35:00Z",
+    "hash": "0c8a1128bf4ff01db13051bcfc2d9c4db3e6c8cfc1000f1f75a404883b8f7326",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google claims breakthrough in quantum computing - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hMW54YmZ2c0NUbVlmTWVCYzRDUXcxbVVDVG9LYnBYSnBLbXU1RDdvQTZvcnNaWmc0cXpGYjMwVS1Ga0dHUkUxVWNPQlUzUERSeEpIX1RYcEpSLV9jcnZqSmVMYkNYTzBrOGFJRjNyWnhudVJpQXdzY2llOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T22:14:00Z",
-    "hash": "65c3180736a8d0accd96cc04d720e40e83b3bc6371ce4fd102bfe45bdb318878",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk A/S (NVO): A Bull Case Theory - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaFZPQ0p4eWVmODQ0NUpIaGxnVEhWTEpvMjJVSGxmX3lHU3huSnFjSGRwMk8yTDZGOEpZekJjMk9qUlQxX2lOVGNRY3NYTklUQzA4NEloUEpLd3p5eVpTTDZhNXhJVHphUlhUWDRremRCaW5KbjU2Z1ZfZnFwcXBPTlFpWnp3QS1xR2VydFdCUdIBlwFBVV95cUxPZ1hncWRnV01QMllpZ0JoRHhGN09SckU1RHczT0Nqa21OY1FvbTZwTDZMX0V3eEpOdWpXZHpBcjVveVJhblRkeEpPa25KazF0M29fcDlyUjdqM0xqWDRIb3RUZDFEU2FUb1FtRlZNUmlRbi1DTGZMelR1UDl0cEdJcENhZEZRZFNWcEhYd1dhWWVNT0RQcmJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T22:04:57Z",
-    "hash": "efc2bc957244dd9b49009808b16793c2f535dc6d5ae6e8e6e47ca4aa9a170527",
-    "source": "gnews"
+    "query": "GlobalFeed",
+    "title": "Durchbruch bei Quanten-Code: Google stellt Super-Algorithmus für Quantencomputer vor",
+    "url": "https://www.handelsblatt.com/dpa/durchbruch-bei-quanten-code-google-stellt-super-algorithmus-fuer-quantencomputer-vor/100167134.html",
+    "summary": "13.000 Mal schneller als bisher: Googles „Quantum Echoes“ soll Moleküle besser sichtbar machen und KI völlig neu trainieren. Warum ein frisch gekürter Nobelpreisträger von einem Meilenstein spricht.",
+    "published_at_utc": "2025-10-22T22:30:07Z",
+    "hash": "29a8e165ee378c12dad18733b821a083981a29e7cf8761e2a51057b2772e2767",
+    "source": "rss:handelsblatt.com"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple (XRP) Wallets Holding Over 10,000 Tokens Hit New Highs as Price Recovers, While Mutuum Finance (MUTM) Rises as the Top Crypto to Buy - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPU0tRNFF0cXlmX1lUaFZRREdwQzNXeVppT1dDMU5jUFMzVlh3b3ZjaVZiaWZyTkQybUdORjBrWW1GMHc0WVRqNl9LX1Q2YVJPbjZvdjRNRnoyb0ZucU5qNHFKeTZ2ZTVCcWNtVk1BN19mVU02RDI2OERzbWdFSFRKa0gycGpFemhGU2NIMkxCQVc0VHhuazhaZktlR3M4OU5hUTI0dW83aHpNTnhkUGlVUDExNGdFa2hPM1gzVmdTZlVMVjRCVVZsQzdxYWNrNEViMkJVREg1RzhlU2loYkdpRTBidFpYeG56R2NaNlB0M1JvWHc3SkhZ?oc=5",
+    "title": "Best Crypto to Buy Now, Oct. 22: XRP, Solana, TRON - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmdUbFRObGVQU29ERWxkNm01MHJQbGlPN1FJMmY4Ym00dnVTaEM0NUNUbXlPQkRycnF1a3J5Sl9UaDNXLXBqZmYtT1RweFlWdTBWU21aZlJOT3hKRXdCX2YzeTdfQWxVVXUycUdpUnljeGFRVTVKWVNGYUNqajdxY3BlXy0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-22T22:01:00Z",
-    "hash": "42f2d86427f33204574cc0bb9b0c21e7fc79ac49fb46b4a3803c3b68748a4911",
+    "published_at_utc": "2025-10-22T22:30:00Z",
+    "hash": "1e00d50bdf5e615ae861dd47d81669cc3c275d55e8922bb0d82d9e6ef722d7da",
     "source": "gnews"
   },
   {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Stock Skyrockets 1,360% as Billionaires Pile In - TECHi",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPemRQMkZPU0U5SGpkNHFuTEg0cXExcjgybUFWVVdXQVF1RFhnTUNDVjNibVhXZXlVenFyMVdMd0FkUllvekNiTExoeVBDZk1MQkhVVG1iMmY4ZVhzR0JyUW5yOXk2OUJFcEI3eXhQaFh4VHJRWXhoNm9yQmNvTWRoSnJyVQ?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy Now, Oct. 22: XRP, Solana, TRON - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmdUbFRObGVQU29ERWxkNm01MHJQbGlPN1FJMmY4Ym00dnVTaEM0NUNUbXlPQkRycnF1a3J5Sl9UaDNXLXBqZmYtT1RweFlWdTBWU21aZlJOT3hKRXdCX2YzeTdfQWxVVXUycUdpUnljeGFRVTVKWVNGYUNqajdxY3BlXy0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-22T21:55:53Z",
-    "hash": "3e98ea519a25c0640ae60075ca65ebd0de2334f257cb069abe41fe42d7c5ece1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Top Meme Coins to Invest in October 2025: BullZilla Presale Outshines Bonk and FLOKI - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2E0UzBaYnVzU3k4emtYNXpXaGtIaExOZzN6eFBnaEFqZ0ZEUGZZRlp0NXg2QkNwM3luS25RVDljZEZzZlhBb19QQVpUOTJCUFI3MkNWUjJOemtYZmRGT0UtYnE3U0t3dXhBX1FXUldrNnE1M0VPZlptaGJuT2p1cEFzdVBJZlJzUWJmVi1uZnktWDJXVk5qSllvcFU2SEdQSFJpMXNBaUp5Z0ZXMS1LSA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T21:54:35Z",
-    "hash": "6184cd8465b9ff0c163b391eb45b1ae8273d185157d3dd566ad884c86235495b",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Shares Down 1.9% - Here's Why - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGxSTlVOVUZnazR5cXB4VXVWZGNVNVFjbmdCQkVGVGpoN19EMEpvVVdxX0RiRjN1b3dMeGMzVTI4S0pSbDVGSE5DaWhnT0RnUm9NcmZlSVZrV21vZ1ZYcTh6NUEyQWc0WmRZeEY2RnBNUXh0OWNLZEpGcncyYV9TMEtyN1hOSTh6Q0NhZmlockM4d0sxVUhQQTJDTThMM3ZsdHVHU0JzNHpqMTZ4dnpsWVR3Q1JZUHZOc3NNdkh3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T21:53:47Z",
-    "hash": "de7dc42010d7157d8524be4e7802ac393b671341a5adbd289a953e8a88f7b615",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab (NASDAQ:RKLB) Stock Price Down 7.4% - Time to Sell? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaExYc2NILWtIbzI1eU5uSkVSY3ZFSVgtOWd5OVFPSnBraGxYZFllbXdfQWUxZnVFNzRacTBsSGFEU3k1Q2hXY2cxamc1YXdtc3ZVMldhRGg1TWU1ajJNWUI3ODlIaGRUd0NPOGhxczRNNG8ySjQ0aWJfSXFDN2loQWRsdFlHbXpJc1BJdE9qVVV4WmpYbXBZTHJXbFVwQTlwd0VydFZaRGI5TTE1?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T21:53:47Z",
-    "hash": "2c897479d68d483df8ece253ba4614e8296778fcc0f68a520549acbccac1b7c7",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum (NYSE:QBTS) Stock Price Down 15.4% - Time to Sell? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFJOWHNYc3lyNFFPWDJlWktKSzdscHBMem9oZkdtdm1aeC1kODdyYzVtT1B6eldiZDlnZ0ZvMFctMmdxLWlTQ0syS0pPSWc4cVpoUmN6ODJyeFFzRnNKdEtRekJxVHlPdXFPYUFrRUEwQkt4ZjdmQWt2dnVscWFzQ2owekJIRnNkUi1id2p4cWQ1dGdKZjRGQ0dWT2tLaEFqb001akZXMFRtazNVb3Yyag?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-22T21:51:45Z",
-    "hash": "c0541adaf69c76ef30c15e86f536b4f5a60faa5eb73f1ae76b8bd6de76ad2f37",
+    "published_at_utc": "2025-10-22T22:30:00Z",
+    "hash": "1e00d50bdf5e615ae861dd47d81669cc3c275d55e8922bb0d82d9e6ef722d7da",
     "source": "gnews"
   }
 ]
