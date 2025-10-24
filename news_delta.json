@@ -1,52 +1,22 @@
 [
   {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever Hits Day Low at Rs 2475.2 Amid Price Pressure - Markets Mojo",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORG9hVENxeDBVUDJrTVNlZjJ6WWZGZjFUdHktNVJRVllHdXdxN1RtUE9PNkpJZzhCamNrQklqVV9NendjUU1JNUZwVVZWNTA1NkJYRldNaWNHWWI1R1I0VkVOYXJCeHVNTE1aOWotOUFRVFpITWtOeEZzbVJYcnJ5WWtTYVB6bE4yaUxJbkxSVUV5Z2FPTEszNEd6NUgzV19DUUhxNUNtNmVrR0FWOEpLakNxUTBFU1FCV2tkZzl3?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO sees major progress toward U.S. crypto regulatory clarity - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzVuZklDcjh0QVdjeXN1dTVPTXBTWVk2aWhjaGZNWUMtWm5WOEdXZnlqbUo0YU9FblhHT0FBLXNTa0poT1RaUEItU25ZdjR3c05SZG1mQkFHU3Z0ZUJvWGszSHZlQWVhUUpsanVLUEVQS1o3TWRoaVd1SFVmN0dlR1hMYVRPU3VrOGh0ZWdxdGE4ZU9aV3drczBwRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-24T04:25:52Z",
-    "hash": "6fe8315141fc31707ae2f599c9e6e3ef1bacd705942a739f2d0d0ff664a34299",
+    "published_at_utc": "2025-10-24T05:04:32Z",
+    "hash": "a5ffa6dce0ad89dac1931db8ed0dcfc94294cf372c6b86a6ac2167c74840a623",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "PLTR vs. NVDA: Which AI Stock Is a Better Pick, According to Analysts? - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeFNXVzk5MlBqOFZzeHdwSWtCVnBlTHBubmZjTGVBZklueVplakVibFc1NkFQRkhoWWJ4cF9RVGU2ZHp1ZEp1Nkl1N193bC1MQTQ3Yk5vc0VhYWlBQk9GazBLcFZQbElhd1pXOHhkQ0JlakhSOFBOR19tVk8xVnI2UXcwaElzaHVyT3JlZzZhdmcwTEhkZVBweEhGdUk?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Has Listed Two New Altcoins This Week - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LSFBsNTg1d2s4cVdHenctaVRYUGUzc1J0YkN3WXVqZTAyOUVFdV8xTGlOU0lCWnMtaXBaNzZEY1o1RkkxdS10MlNyZ1MzQkpZV2RnSkExcTdsd3diaDFZc3hkcUwxTFU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-24T04:14:41Z",
-    "hash": "eb11faefbc120b965904ce0aa395ad3b1dc3aa06e1dba363a9c78e6b6477832a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Trump-Backed World Liberty Financial Token Rallies 12%, Leaves Bitcoin, Ethereum Trailing In The Dust - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObDlhZjQtd3hob1EzZ0l3Xzk2aWR6eTc0TTZzOTRObVczbk9MdTJTVVF2WEZSRElKaWl4dHFlZjdPenZNOUtMbk1TVEpIWGRVU3REbXRueTRaY181X1ROblNfWUl6VEs0R3l3WGJfRVN6MTlHdXpuOVpwV05SdWxDa1V0dExuT1lBc1U5ZUZwYUswYXdIdkZKaXRCNWxVN0hOdWlSMVo0Wk1na3lZdjdTdXhaV1lfUTBHN0tRSWp2WEhVOTFkSkNCNS1ldnRBTzlobjBCdi1sNmx0SzBDRUpBWGxXdmV4QUlYRWdiT2M2WDFGQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-24T04:08:40Z",
-    "hash": "1f51902bfcf5b42a4cac2918870440e7d507ff7109ffa8956723796c535af423",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Fidelity Rolls Out Solana Trading Access for US-Based Investors - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdENCOUc2MDIxRnUwVTZ4dmoxOFZoYUpzNHhDWVFwTkJVd3ZBdWxnSUpvSnpXMzZnZGJMNHBQczhzckhtakFnT1NfSzl6b0h0TXUxa0czeU9rQ293a2dKd0tid1pLVXlRcDhPc0xrOVJJYzNtcE4wSk9KMFIwUGZ3RTRQbUUtd2s5dl9PNkp6S21CQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-24T04:08:26Z",
-    "hash": "a2743c1e58246e39e21e9f331c385e5ff1fb90257dd0fcb3cac815b3dbc6210e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Company (HSDT) teams up with Helius and Anchorage Digital for staking - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zYjdyTGhhS2psUWdzUVkyUDJGM3dNenNQN1ZKUnFyb2tpc2F6bmUzZzdPTEFfNkFrTmdlTjBUc1hMOW42UDlxcHFzdlBFVklCbkJQYmNBZjBNbTUxSWtQLU9uZVdsM0p2WXo4MXdjdlc3Ti1kSDRnWjFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-24T04:03:00Z",
-    "hash": "b374d572564b81f295b25113dcb599cc54d9b0bfdc97b2c13988872f8c9af632",
+    "published_at_utc": "2025-10-24T04:56:00Z",
+    "hash": "82da44ecb8fcd15708d58ed1bb4c8b5fa8eff322476f658b7c39e5c3b825977f",
     "source": "gnews"
   }
 ]
