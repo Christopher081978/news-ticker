@@ -1,62 +1,92 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Ethereum Price Forecast - ETH-USD Holds $3,876 as Breakout Eyes $7,500 Target - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnN5MlB4M2Y1TEhLQVd5SWJYbm02Z0ExT04yWTM2TmR4dW9lLXliN3A0eGZzX2pOVEtEQnpmRm5HLWhfVHJfNU42dXlLUnBPY181aUxyOWEtQ1NxX2psbEdPVzJabDF4QVJ2WjBLSkVsek9YX1hub1BmcGF1WXVfaVQyYmJIRUpNRWxNUl9nWGZtQzNkbmM2d2VTcmZ3V0I1Rlp0WmphaXo0TDA0NHR0RnNtVlZ3QQ?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "CME Group’s XRP Futures Surge to $26B: Is an XRP ETF Coming Soon? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX181TjNRbjBJZlpHMjdfWFVMZG8wbXIyTEo5ZEd5WmY1TzhJeVN3RklTSmFJRFVKbEdIaXI5VkF3aWtKckJXcTlBTjJPbkxpNXoxVWxFbEprZjlLTE9xNkRjMWluN2R4TVRUQ1dYYVRwSWQtMzF0SlR3bnh5WDB5NDdnX0FydGJta3dTb2JiVQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-24T16:46:42Z",
-    "hash": "517d617a0da8cf4ab4ad604aad966c9986335fb587d9d42fa32e97c91a60e241",
+    "published_at_utc": "2025-10-24T17:25:15Z",
+    "hash": "226aaa6d03921fe500648e0d19de9d0c641e76ade15715ee6e185fbb6b4054f2",
     "source": "gnews"
   },
   {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Why Pfizer’s Headwinds May Already Be In The Price (NYSE:PFE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZk1yNl8tUk9mOTNZUEplWHdKQmFWMmh4X1BzYzZvM0lMWlRfWVlJekFLanVPenpwd0JHUVN4dXJPRUQ3UVYtdUx1akROMWhfcGJKVTctaGxhdFZEYmNNN1RoR2ZFQUtfdWIwZTZ4NVVIS2ZUbU5MdGF6S2Jrb2hLSEhJMDdsX1NIODR0R3E5Z2NjX0xq?oc=5",
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet Q3 Earnings Preview: Anthropic Deal Signals Next Phase Of Acceleration (GOOG) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcko5ckJRcE54azRPcnVVQjNadk5ZOTJxSDhkcXZOdVhZWTg1Qm40SnRDTWREYkNIWHJ2ZFdUWmc5UlA1dFJBbDFtZ2VUQlFBa2pudm9UR1JaVUtCcTdPZXdHMzhvN1pMMXl5cks3aXVtVmxkRTBScjY3bFlIci1PRnE2OGlkTlNaS04yMXFmQnVUUTZpRVBkeUpBYU5TQUw1WnZpeU1jNHJsVjVnVC0yR2U3SWpRSkNCbzgwSDEzU0dJQ3lpOTd1Vy1ELXdhZTU0NDNMM3VGQ2VKakpFeEJwdjlzSQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-24T16:45:54Z",
-    "hash": "977fee71501984dc7b23d662bc286bcd8f89faec986bd36ddddbba48c64bc20e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Chipmakers Nvidia, AMD, Intel Climb Following Strong Quarterly Tech Reports - Yahoo",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQzVXbWJQeGFXT0JxYXF1NE5JU2QyZW96Qm5SM3l3U1diSnhUY3YxTzhmMW9xRDg4c1NqODVrNUlSMkY1ZXZ6d1dhcThvR3BmWmNfN2pvb3hZVXhWRjlTcVYtZEhoQVhxTGU1S3lxbmFOeFRCazhYTGhTYmdva0dXMElRQmlXMUNpNlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-24T16:45:03Z",
-    "hash": "f7571f871c8ce360ed19a822a0e8de75facf0d2ae68b99bdf4bdd91a0506ae3a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Stock Rises After JPMorgan Upgrades To Overweight - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTFd6b3o1YkpEU1JmZGU2alVxNjBZak9SRnkzRWdVdVQtZ2hLOTlMV1ZJeUJaLUVaYVZPMWlTQ3dtb1Q2b281ZUdqSUtUVXQ2bHFSUW5IcldodUdJQ3JVVlgwTk9yb0MycGdVVDZKdnZpSW9PZDU0bndya0RhUVVlTDFaYXR5NGZLVUc2ZktZS3RDRTFQaFp3VERvSjl3cFByaWRsYXVHcFVkWlNzY3pVb2MzUkNMR0N1elNB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-24T16:44:00Z",
-    "hash": "25a98339ee730cd461af028434f016ad2921ba4240935e45df92df6dc771331e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Hyper Named 2025’s Best Crypto Presale as Investors Rally Behind New Bitcoin Layer 2 - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHNWQXAyTkdQNzNfMDl5SV9YZHpyTHZxeFFNS2MwZHRMYzhnSHJJR3BQTnZjeTBiOUpUa1U2ejl2bkpNNmNiY0s2dHZQLWNWdF82a0VFcWVGaVVYamdoejBwcEk0Wk5UcWdaQkpiMU41eWlHbDFYV3VUcGlMdXc4TWpKZVZtYjNHWEF6VHY2aXdPWG5CZjdzVjJGSEZPX2tKOTlMUWZBZnVQdXF6cm9lTVZ2TzJxdEVP?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-24T16:43:36Z",
-    "hash": "7b915dadc6bc55dc7b6b758b1b6b68e144377a42df8de431becfec820e0e9c93",
+    "published_at_utc": "2025-10-24T17:22:08Z",
+    "hash": "8257ccdfca3b226221d3ea8811701f9a3fb0a4c66bc330b4a8c9bb3a42a05306",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Google",
-    "title": "Alphabet Stock Hits Fresh All-Time Highs Today: Raymond James Boosts Price Target To $275 - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUmhfR0lqVTF4LVhXcFFpc0ZvdmZ0M1pOR2wzTHFRRXh6YW5aUEI5RjNDdFVjXzFLSjFyZ00yUTdYSkFMVnh1aDY0NFZfNHdqTWc5b05OdkozUzFGRTFpQ1E3M2kxcDBxaTBKTDJsbUc4dWFtOXA0MDVxZHl5cy1MSGJtY2RJLU44RDI3c0tzTDRDN0lpa2RjV1JJcWUzRjhoQ3JjZGlwWlRQM09MSE5CNE1wLWZ4dzB4bzAwY0hXbXpLTFQ4cUZKWVVab2VNN2pYRGxGNjlrQ0R0VzlMZF9iNlFxYXQzUQ?oc=5",
+    "title": "Google Parent Alphabet Shares Are Trading Higher Friday: What's Going On? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZGN5eW9iUHl2aGl3ZjRsYmJjdmFITC14UUJ5UFpTa2J0cjFaMnlGMGR2WllEOF84VG5yWks4RnBsWmpvME1CQUlhZnRqbGU0eExVYjNCX3VtVHdnbjBNSC0tM3d6UWQ1SVRoNmF2RlBodG5uSGVrQ3lXTmhCcUN5UVlDYWVYN3FwTDZWLW81TmsxVHVwdWpwc3ZfWktCNG9LUE9aNEZXdWRUWTlZSlRBd1hpbGdlY3RzX3JQSFhzV1hFRHZkS3lDdkJMQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-24T16:40:30Z",
-    "hash": "993d6242eb97742d9b4e553b28deaad9972d44e91766411974a90962eddcd6e0",
+    "published_at_utc": "2025-10-24T17:13:52Z",
+    "hash": "711c54682d754fe8d149d31f7e4f100b5001fe207f6e6bd6317c1613325737e7",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth's Optum UK Draws Interest As Private Equity Firms Circle - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHRQS0kwSU5BM0RER2xRZXJwLU5JZ2RWdmd5WHgxTjdTS3ZkVXROWV9EYnZLaUZKVkREMF9zUWNPd2xsVTJIemJDb04wenprcUtxU2dLeFExd3d1TGZST1M5cGN5LWZaQWxpU2pBUzFCcWFJSWthSFpSNEJPT2NweWlqN25XRlRibTdOS2VlMXBxLWVtbzJTQy1rTWRFcVdiMXFMWHFPX1Rfa1ZoSWZiWElR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-24T17:13:34Z",
+    "hash": "7f601755500a1e61aaa15678c2aae8f55816af087815e334145ca8de9c2a6eef",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "How XRP’s renewed role is driving crypto-fiat settlement and innovation worldwide - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb21GODI1M1VvMG9tczR4TjVRZHM0Mkd2LUZxRkU0cmJUa21yMzhfeVlzcXdyeFB5NzZ3X21XdzF0Q1RSS0JEVVoxZ2hSTnlWSkszSC1xT1plS2JETW83OWhuVWVJQS12aURHLTFkdmR2TkdLZEJuR0Q2R2xCdGRnUWxYV2xpOVJhR3BGd0J2MXFQMmNZOXN0Wk52emhmOUZZMTdfa1ZsQ2o?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-24T17:11:36Z",
+    "hash": "447591ea3fc6014bdea41ce7ea0140dbf8a8f38c13a9811578e737e64762155e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "The Daily: JPMorgan's BTC and ETH pledge, Polymarket's token and airdrop plans, OG bitcoin miner's 14-year dormancy ends, and more - theblock.co",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVmRUOE9kWnhidkJBNEFRTWNMN1JiaU9mLXIwRE5HWHlQWG9nVVJ2VVFYWlZZSUVNaGRYdHgyZjd3ZlhkSVF0Yl9JWXFibVNzbmFHVHBPemMzQU5yeF9CVEhlV0tSVnpQR2VMSmUtWkRWaDR5N3FXWURsaWJLUkpIVExZbDJ4OUVEZDBEVjNWTFdxcEVEZG0xNl9GcmdXT0Noc0p0em81b2ZKczl3NDBITjAyWE5aSkdhNm9oQzIyU3ZaN2NlNTJFQk1URUtHVjBoSDRzelI5c0dEZVRQSVhaU01CXzVkWmlhdWhSRVVnVGrSAfYBQVVfeXFMT0VtUXlTa1hFZnlyYXNNR002bmpZTnlPODc2U3NCakM3N1lySEJkMlRNTFM2eDdScjVJQ0JyNGVnd1hMSTRwRUxiZk84RTRIM2hEbGZCd3dKcUkxalplcXlwTjlCYmJqVTJCbVBfdDBXb1ZKQ2tvUDI0ZXV5TEFDanp1VXdZSV9xdDN5dlFNeW1uTE83dzJqZVVuZzh0LTJ3Zy1NLVYwaWY5WkhRTl9WMEV6NVlvVnpHWUZkbS1pQ0ltSnp0SC01bFdLQnRRclN6ZS13YXBPX2V5ZUJKNEREaGd0MTZ2NHlXNFY4VkFDSFAwdEY1MFln?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-24T17:07:33Z",
+    "hash": "97627c084c63066063ea61c144d6f11b1d4da6124fb1ca6c6c74b88eb2dabd6c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Presale Crypto with 1K+ Holders: Super Pepe Meme Coin - The Next 100X Winner in Crypto Presales - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVl0cERWRVhGTjVfeTF0a1F2TGJBTC0yT1JkdUw5UktXOTNnNjRxeEZqbkNUZ0swYUpGallybERSRTQwSVE1VElJTXBfSzFtalFuVkZtcVg2czlJb0pmYURicU1mNC04d2xJLVgwRzY5STlXMVVtUEd3UHhmNXQ0TzVieFYySmZjSkRrY3liSnZ1N2FBdXJXY3BtM2g?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-24T17:06:42Z",
+    "hash": "6b4fadf0ff0195ea2a17c980566da57f2086d8e3f54ddf92d131154ef4b834c5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "The Best Crypto Coins Right Now: How BlockDAG, XRP, Pi Coin, and Pepe Are Powering 2025’s Next Big Wave - Analytics Insight",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTHBKdWFQSkkxUGtBX253Q3Rzd0ZCTFdpMjg1a2xiUXkyTmhYc3JLdVowYXRMWFpySkQ2T2hGWG5CVS13SC1qVV9OcU9XSkx1RE9VY2xuR2R6YzdlcnlDSi1OT25fSlFNY3ptMTgxWmQySnFLYVgtM3JyWngyT2dMbVluT2ozYjB6NkFWaUdISTFUYlVaMFNfT0kxNGJyM3lTakRsb1VULTdUaEREOEU4bEdkVWRZakhkZmh0c1B3c0VoSVVPTlFMMEd2U280TUZ5LUV0bnhBaFVMdHlGRklQQWFOblM1d3drYlQ1NUhzTzRQZzZ3UDRv0gGEAkFVX3lxTE5tTGpiMUYtZE01S2FXcU0zclNMZVBnS1BpRWRqQ1ZlSzdBR1l0WmNkSlhKYUkwV1ZSbEJjSHVtWTlqUl81T01rZU5mUkJBVTgza3diVGJvd1I3OHJFZGRBUTB6MHpLazVqV1JBYkIyX1YxZldWbC1HWEN1Tl9sT3lQdWh4LVluaFZJcmhHdlowWlFxNzVBdmRHRjJBSFlMenk4U3RWcDVQN2R2bGZQMUZxaVhnMVJDVm4xWmtPNDFfYmVGWUxIbnFZS2lhandHblhaa2o0MW55dzJ2eDJhTk1mRFdYdUstb293Z3dfN2thNkg5MmdJTXlJOVVQdDlCZlFFX0FJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-24T17:00:00Z",
+    "hash": "9e2d4af3e2f1f17432a149c149e7645e1635ffa87fc308cee3dc59590fd4bc6d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto Exchanges Post Strong Q3 Recovery Amid ETF Inflows - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWTZ4blBlLTNQMThRckNTNVl3YzQ0bWV3dUh6S0FSV0x3VDhneC1RWklGWE9fVFM0OGtDaFNMQl9kNXdsOHAxQnotRUx4N21LWTlyNzFMbklweDBsemNISWc3Y2RDZjUyanB2c1k1RE42REloaUJyX2hPT2hrb3dKNnk3TElXbm5icThj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-24T16:56:05Z",
+    "hash": "715e26f83654a2dabb858b66c7bbb1aa3f28ffc3b8dbde7a6f1b57708a3890f8",
     "source": "gnews"
   }
 ]
