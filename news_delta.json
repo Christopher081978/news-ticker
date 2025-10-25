@@ -1,132 +1,82 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price Today: BTC USD Chart Set To Explode As Inflation Data Comes In Lower Than Forecast - Digital Journal",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFdad3RGNW1nWkRTdXJsbmwtTnNOSHZrcG1Ta0hNdXRremE3aHdCdkVMQmhFNzFEMnd2LWhudEF3TXNHVjJlVXFUM0RDaklJSVRzMDBBWHQ2QlpiM0dEWnBDVFpYYjVwMkwyaklWNGY1WUY4bURfaWpNY3RWc1FWdDk3OWpSRXdVU1MwSGY1NmhlV3A0WnFMLVdn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:30:48Z",
-    "hash": "e41792493343004fc6e54ed5a39dd2f642953a81c515ff783a9e668e5a1b443f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price - BTC-USD Holds $111,600, JPMorgan Embraces Crypto Loans, and $120K Forecast - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjFQSVZtdTV4S2sybjlTX1NNT3RqU09kWFJ5cDJtdjJzcVk5VFpaVGVZaTlyVDlKaHdaVlZ5M1haLTdmeGF1YXdNQjdjTGI5Z0Y4dS1FRmM3RWl0UE9mU291d1RYc1VyNzFaNGVCdGNzMDZnb2hMTlc4RlQzMnQzS3V5OUhPVkVDc0Q5dUd5aDV5Q2E0aTRCZjVqbFJQa1NQWW9zZXhBeUU0LVFfeWZwbWdwRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:16:43Z",
-    "hash": "31ad513505d0a923c1d9af7406e2a47db251f130b0f712cc98fe4a83f0a994c4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Crypto.com seeks OCC federal charter, joining Coinbase, Ripple, and others - theblock.co",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYzh4b0tJalotdEkyc0ZKRTRZdEh0b1JzWFBBclZldU53RFFmWko4bGgyY2QyLUtLZWNMVzk0dHNJR1lISHkweDVkN2laUG1pSXkzZTNnNmlBTjZSVk9xLXN2UVdycGkxek5yTklENC1YNUhGaTVnTnlqQnBONy1TTzRWSVQ2NWRjT2MzTHFwUlY0N3B2anE3RkZ4TDZBYmtKclNhcUxfdk9VSmwyRmtFa0w4aDJQOUxiRmVNM1pjUVpNbUJWdldwM0RiUUl0bHNObzh2Yk9BZUVGQXlQSUFZeNIBsAFBVV95cUxQWm15dkVOVkVCdHdEdTRQUnpEVTVDdFJleXpyR3dMenZVTjVnZWtXNEhTUWVCajhXZkhPOXJyMk9CaUNZZ2pOdXA5UVl5NmdEUXU0ajJyWGZIWWJIVHpvMGZyRXc2Y0gzTmwzTUVFaDBTNnVLeW9FM1ZoMEZpbHFBdUE0ODc0ZnVBZ2FCQVNXRl9MSlZUQUd3MjZ3UUF1V3ZERThCZms3WHA5c1VJV21Tcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:14:42Z",
-    "hash": "6fce5ead0169331d499999b17e41d596cf926e6805f3ca1049938039ed592e69",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Stock Market News: Dow Tops 47,000, S&P 500 Hits 6,792 as CPI Cools and Ford, Alphabet, AMD, Intel Rally - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX3UteWNzbUZVT3BiVVlTaW5ybTgtY3lfdE1tM2wwZmxrRmFVN2NVNVJ2b3RPS0tjY2Y2M3NMYnRpSFYxMC1wRXRLQ1NTandRNTJNNmhKbWh0NGRGTHktSHpWak05RUhEemptOG45T2h3RFZSRFJqLWY5WDczSi1jZU9QR1BkdWhKQTZiWW1DaXVYRk5IOXlIdlBoQS1MYVZtcUh1dzNqakZmMF9Od2VlNEE5SXlGQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:10:59Z",
-    "hash": "b29560b5e826ec46e95863c0591662133676a4fd2081fadfbd6c1f9473d1d0b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "BlockDAG's Alleged Kraken Deal and Coinbase Listing Leaks Ignite Market Frenzy, Reshaping Altcoin Landscape - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbmJRQV9ibldWdnhtT0dNUHlaaFhWR1ZyMnd0U3drbW94M184blVDb0E2dTNFa3VSdVM5V0JfcTZCOUViTXVvdFFYUGJTbHZISnp6NDVobXkxNWs4UXFnaUo0eFVaSUJ3MGFlR3pQbTBjd1FoUXBneFpaaGtCb2NCSXFSYmpPSElxcE9rcC13eWduR2xGdGpzTFBJM0FTOENfMFc1LWtEc3RBSU9LM1BmNGdHMDlVc010UUR5eTZQV2s3dW1iOTgtNmM4YkV3TTd6WmZiQWhNcmZOaVRkY2ZZVVFYc3BVWlJISnBXSUlLRGF4dDJVajZaWmdhVGNzb2hsR25QaDVTOG9MX1g5eXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:07:00Z",
-    "hash": "f12b304cb5876e0fefcbe259fe1ec05dace36390e9568305eb10dcf8dff7e71c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Tapzi Presale Ignites Buzz As XRP Targets $10 Surge - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaU9DZkI1MTkxVmJBQVZrZ2NsUVA4QWFGa1VrbGR1QlBoUmUxejdfV0ZaVXA3b29VYzg2YU5ZSlVRQkt2aGdVYjExeDB6NFJSTE9QUnBPaEZsU3o4ckFnOHM1ekhka3Z2MWpsc2NiOURzUWlVa3VjXzhfU2ZaVkt0dWRxbE8yaU81aFlVd0FuTlJZbmJBb3dzRmVteENtNHVfSjJpWTMzMHBSOHdoUGowazFqZlpxSW9hQUVZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:05:46Z",
-    "hash": "05627499c3a1fa7548f278e80d1e7983636634c86c2965e23c54a9e5ba9d01e6",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP is Retreating, Is Now a Good Time to Enter MUTM? - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGdLc1pHOGVCTXY0cS1SUU53U1oyU0lLOTFKSUNhX1ZDcGRURHF3VWF0X0NJZ3gtRDBWUnphdWJ2RlFWTXBMMUo4UFpjZE9ZNWhyMVJmdU1adFQ2UUswQTAwN1B1TXVSME1MSXdaYzN6UWR0SGxaS1ZjZDQyWWVadzhyR2EyeW5O?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:01:00Z",
-    "hash": "2db2244995f3d484178eabe374d472ee6bc3d9f0d879029c0a08810b4dd1e368",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Kraken & Coinbase Rumors Spark Frenzy: Leaked Listings Hint BlockDAG Will Be the Next Crypto to Explode - Coin Edition",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2stNUw3OWwxeV9INjFDRE9PMkN5Wl92a040UmRHSi02Nkh2TWJ6VFpqek1tOHpBUHBYYklLMDN6TjhpbklxcmVSN1ZpT0M4Wi1mSHNJZFJZYk12N3JMcXYwY1pyOFUtQUxkeUhWY2lkb2JTU3RMalQ2emt5Z3lJaF9lSTRMM1RxS3FyYUpidDBmbFliYzZsM0lsUFJ3QzdFb1kzVFpydXc4SENEb1lfdXZsOW5ucnJ0T1NLVGdQUVhqTVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T16:00:00Z",
-    "hash": "245f398d7ded3354ba01ed7097ab478a680f67998c1cdc0ac1d530e06619ec3d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "ETH Holds $4k & Tron Surges - Crypto Rover's Leak on Coinbase & - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2ZCb2REY1JCTmJIQ2ZrX1JPeWdpWkhhYWhWQk9LMkhUbFJ0TE54cUpPTG5DNWxtQllTTE5oQlhuNEhHU3NfOVFpU2Q5UGI0eFQ4WVI2dWlwSWNUckdMTDk3SU1Qb0lkVGFFMVM3ZlRodVhwcHlUd0RrOUt1ZnBtYWhpOHF5NEMwR1dJZi1xM2ZJbzVBcHU0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T15:56:32Z",
-    "hash": "b7b0a61b48305fb6cc91347a1851ba051a4657ecefde83656b844018060385a2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Experts Discuss MoonBull’s Market Momentum as XRP and Solana See Increased Activity — October 2025 Update - Tribune India",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamtubzI4MlpOZ21jU3hJazI5V3ZtNV9pLUUtbXd1a0RMaEViNnc1Z1RXdG5fdmFsdW4ybmcwRk9ubC1PajdtMjBmQ2pJOWkwSWFXMlFUejJNS1hiRE5aWlBBN21YdXdibnNpWnJRMjN0aXJtdWpSbFRmU29kR1VyRVhWQkZONVhSTzBCazlicU56Tjl2Yno2S0dLVkp2RDhreGdwZDFuOFhMR2Z6M19sZlNFZUFWSDV5VmktN3hlaTNLaEdTMURfWDdfZWJtU3NYXzhjY29NMFRONkpYYTBXOGMzcENGZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T15:53:00Z",
-    "hash": "362f12b88fd0aaa56542b18ad77d9a8b11e85c679ea54328104a1c18111068e8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Experts Discuss MoonBull’s Market Momentum as XRP and Solana See Increased Activity — October 2025 Update - Tribune India",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOamtubzI4MlpOZ21jU3hJazI5V3ZtNV9pLUUtbXd1a0RMaEViNnc1Z1RXdG5fdmFsdW4ybmcwRk9ubC1PajdtMjBmQ2pJOWkwSWFXMlFUejJNS1hiRE5aWlBBN21YdXdibnNpWnJRMjN0aXJtdWpSbFRmU29kR1VyRVhWQkZONVhSTzBCazlicU56Tjl2Yno2S0dLVkp2RDhreGdwZDFuOFhMR2Z6M19sZlNFZUFWSDV5VmktN3hlaTNLaEdTMURfWDdfZWJtU3NYXzhjY29NMFRONkpYYTBXOGMzcENGZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-25T15:53:00Z",
-    "hash": "362f12b88fd0aaa56542b18ad77d9a8b11e85c679ea54328104a1c18111068e8",
-    "source": "gnews"
-  },
-  {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "OnlyFans beat Apple, Nvidia, Google, Meta and Microsoft in this revenue metric: What is it and how it hap - Times of India",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcDY4WmJMc2kzZkdneUVTRVVnWWZKdTdTc08wVFpOUGxlcUx2WGd6S0lMQlJZRHZ5ZC1QUkdMVURuV2JSVXd2cUxtdmU1S2JqWkpGNUJRRzFlemEwLXdrZDBiNGRYMjhoblYtQXFxbUdmQ0xIZUhIVHU0R0hERFJBa0o0RE1tR1Itc2NmV0tOZEtiNlZoZFdXeVY2ZVNCLVA2N1BxQnpWWExNdi1femNUUEZxc1hJQ3ZtWUhDU3dCSXc5eXZCUFZKZ3FjQXZUb3pDRnpfSTdxam0tcVJlM3NDTmZPLV9xSm1XSmpUZUVMNU5JUTloUm95Z3FzelpCRlBpRHhKWFRHcEk0Z9IBjwJBVV95cUxNNG11MThLcHJfdGJ5WVRYWnFkMDhNSGtHWlRvemRQYl9lbmx2RmQ4SzhXZzJWREtlN1RMRTJUaTF6RVFmVnkzeTBocEFXcE43RFRuXzVoN1lNZ2E4TVFJRlRxOVlUNV9FVnFDdGJJa1V0UUtsekNuNDZtOEMwX2Z5dUJyUTZOdjlEV1RNaGx2QUo2ajlpTVF2clVFNXpka1VlNnYxYTA4VVQzT0JvZ2hseWN6TkRpbzFQUWdKNmdpekhOQ2xBZ3lZMFdaQmN5SVhIdmJGUWtIZFFNZV9aR3o5dE5tNUlITVhHOFdwQkdJdFlDMnpvSGJ2V2ZtTkJBVlVxdFRwbzFwa2tiMU53blhv?oc=5",
+    "title": "Wall Street’s 3rd Q3 earnings week will feature rockstars Apple, Meta, Google, and Amazon - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuU3g5Ulc4djlSNFIwSktfYkk0cWdLNnoteVdxaFI4Rk5CSmQtd3RwNHZia2tyUk1ERUVJLWdFaVdQdW55Nnp5LTFrX3UxZkFLTGt6amdxaW94c3MydTduVUUxSWRtQ1lyclRnRWhtZzQ4Zw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-25T15:48:00Z",
-    "hash": "a4bf26e861e8c54f228766254e709aed5b07f1a1590105281ad6deee15343ebf",
+    "published_at_utc": "2025-10-25T17:05:00Z",
+    "hash": "16ad7497ab62176678143af9154e3c7581927574654a6a2d32e6f4e54e51d427",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Jumps After JPMorgan Upgrade, $34B Base Potential Seen - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGtJcFoyZFdtcDJVWUZKRVl5ZGk4VmJnQ1lhRFVueGxsSl9CaGtOMVl3UlhlbnNMeWxnU0dSa1VxMlVmckpfeXR4ejhfYzNYSnZRMkhrWGJFOVBSU2VxTERid0lDaHlCUFRlOWlUOWJaVXJXX3ZTdTVqU0J0a0RTRlZ4dk1xZ2RSbkRBMWlzUkJOWngtWnp3ZHMxUk1fVkNMeGlpa1FKcmRwTHVCLVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-25T17:05:00Z",
+    "hash": "9c95a39eac7965b02d8b5ecfe5b27a4f0af2623a1f0773f2cd215ddd97e23bc1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum tops Bitcoin as ETH ETF inflows hit record $9B! - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmRFUnhLMW5PMHBRZ0xycHB1dzNENjZqX01mRjJnZ2FjMXJZRWVsNF9MaklITzQ0NDM4c2ZSYVFDb0p5V0F4b3hORTZGNnhFYmhnTl82WmZwaGEzenM2eEtOU3hDQmZvR2pPejJfNE1xWE5peXJ5dE11ZHpIbmVEVEQtSTZUMTN40gGOAUFVX3lxTE9wNElHdjVublo1ZmE4SzFfSkVtZ3hHMzRYRkZuVlVlNDZBcUZNMDkxeGhVYVRtMDQwdmV2VnJUaGRjWm9vTlFtZzdiakd4NEhvamo5amxJSHMwUGhYX0llTVlVQ3pwU19hQlI0SWNzd1V3T1Q0akh0R0FJS1phSUNxc252b1FiYTlldjlrN1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-25T17:04:35Z",
+    "hash": "3f7c8790cd652c22ad1df13a497b255d65221820ed143f7b7a32a613f4bf08df",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "OnlyFans beat Apple, Nvidia, Google, Meta and Microsoft in this revenue metric: What is it and how it hap - Times of India",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcDY4WmJMc2kzZkdneUVTRVVnWWZKdTdTc08wVFpOUGxlcUx2WGd6S0lMQlJZRHZ5ZC1QUkdMVURuV2JSVXd2cUxtdmU1S2JqWkpGNUJRRzFlemEwLXdrZDBiNGRYMjhoblYtQXFxbUdmQ0xIZUhIVHU0R0hERFJBa0o0RE1tR1Itc2NmV0tOZEtiNlZoZFdXeVY2ZVNCLVA2N1BxQnpWWExNdi1femNUUEZxc1hJQ3ZtWUhDU3dCSXc5eXZCUFZKZ3FjQXZUb3pDRnpfSTdxam0tcVJlM3NDTmZPLV9xSm1XSmpUZUVMNU5JUTloUm95Z3FzelpCRlBpRHhKWFRHcEk0Z9IBjwJBVV95cUxNNG11MThLcHJfdGJ5WVRYWnFkMDhNSGtHWlRvemRQYl9lbmx2RmQ4SzhXZzJWREtlN1RMRTJUaTF6RVFmVnkzeTBocEFXcE43RFRuXzVoN1lNZ2E4TVFJRlRxOVlUNV9FVnFDdGJJa1V0UUtsekNuNDZtOEMwX2Z5dUJyUTZOdjlEV1RNaGx2QUo2ajlpTVF2clVFNXpka1VlNnYxYTA4VVQzT0JvZ2hseWN6TkRpbzFQUWdKNmdpekhOQ2xBZ3lZMFdaQmN5SVhIdmJGUWtIZFFNZV9aR3o5dE5tNUlITVhHOFdwQkdJdFlDMnpvSGJ2V2ZtTkJBVlVxdFRwbzFwa2tiMU53blhv?oc=5",
+    "title": "Is Broadcom Stock the Next Nvidia? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xR1hvYS1aQ2N6bzZjZUpxVUdZbVFoZmNXQ3hOU0FkWWVlejRTTUcyNVVqOU5zRmF0MEZna0ZNM1Z2ak5HZTBCY3gwSGlJa05UQXZVazl6SThvWlRMRy04M01tWHA1bkEzNVNSY0YwT083WGM4MWk5S1NRZGk4QQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-25T15:48:00Z",
-    "hash": "a4bf26e861e8c54f228766254e709aed5b07f1a1590105281ad6deee15343ebf",
+    "published_at_utc": "2025-10-25T17:02:00Z",
+    "hash": "d1c806d8b93faf3f01a96f42ea31c1f19a2c162ac2fff8918d2b3133e95bc546",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "BlockDAG Rumors Shake the Market: Why Coinbase & Kraken Listings Make It the Top Crypto to Buy Now? - Coin Edition",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLWFRTnpZRzU1R3FzRnBkLWVqb3JKMEFKeE9xVzB1clNWVnA4NjlJaU1UN2pkREoxMUlRWnprSnk0QlJBaEpsQkpPRnhVZlpLRzRqZVRxRG1LdERHMmlOQXdIa3dsOVdaQ1I5bEdjZkg1Wnd6TDNhX1IxMG1Hd0FKWE1UQlU4TG9KR1N2Y0lUSERIel94TnlhYzdMZWh2WmNWOS10SXJkRVNJcjBLZGZfbE9jT0NEanVVdnJqYQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-25T17:00:00Z",
+    "hash": "e29e3921828d42f0ebfb9f023af3125a4681f2c3746fa2a6e489ec8c5b3db04c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "JPMorgan: $34bn Base token, waning DEX threat, could boost Coinbase stock - dlnews.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORXAzLTVtLVRXbUxIU3d0UFktbFduLXV3OVlNNVRyVTRQWFFoN0pqMTRxck4yZkJmYlF3M2IwaGM5RGFCZVQzZ2NlajRKSENjWUFBVE56RDNTZ3FoZUVPdnRCVkFaN3JYYUxuUEgyZXpuUENfc2dsTUo5clZUaVBnM0hfNjBNQjhoSXRuUXlmU29uS0JrdUpidU9WVjVzZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-25T16:55:28Z",
+    "hash": "5bf8150190d16ac5306ab7e814ae940783438e4accd66758a069473650cb62c0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast: ETH Holds $3,930 as ETF Inflows Surge $141M, JPMorgan Collateral Plan - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkNobVpDTDl4c0l5TVZrMU5XcmFFb1ZxZnQ5blZ5aWJmNnpxeTl5eHVoaVBmZ29hS2hjZlRSTzBvTXlDYU1RbEFyelBYbWxTZWQ3YmN1WUdKY1ZWUjlLZ1lyTU12T2RyUV9fMXhIcmRBTGdfbkx6UWRrRVdXNnFrTEFlaXljcldBemFFZVlxR3VtQkdMa2lsVURSS242UGdQMkZfeHJJSVR3Y2dZZTVLWWNUdFJtUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-25T16:51:43Z",
+    "hash": "c39ab3e676007a78a31de624f5e6edfa25bdd4f7efcb0f9046827995298bdcd9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Meme Coins to Watch As a16z Crypto Calls For Stricter Token Rules - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHRjNUVtY09rTm43VUVrbzM3UzlET3pyMF9JRmFWanN2Ty0xb2ZudDFndnVkVE1hZEpQSW5ST0JnLWtXeEh2d3BMUFhabUlKb01EbkloTE9PSjNIWl9iU2lLcHpFMC1VdkoyZVJJSGg3dlNEdWhjZ0FHNS1zRkdCazFLVVJ5NXVaVThIRVFOYklEdG9TX2wtc3ctMUU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-25T16:49:35Z",
+    "hash": "2ecf67203d322cde86a6b8c014afd9b17820ae1a3f30ba8818dc50f8433ed508",
     "source": "gnews"
   }
 ]
