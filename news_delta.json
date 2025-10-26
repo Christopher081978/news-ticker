@@ -1,12 +1,22 @@
 [
   {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "Unilever Stock Proves Consumer Staples Can Still Grow Volume (NYSE:UL) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2VBS1lGTU5YYVc5emJWY051SUZSWnFOaTBYRE8tSEFiUlp1VVY5ejgwX0xqU2hQRnVMcTNNdzQxVzN0TmxINlV0d1VQS3V2QnloTFdGYnZyUHZoNUpKR2dNU2R0QnBaLWNlT2RiUkV6Q3lDMzh2ZHJLWkFLUTNtd2tvcVI1dkhBUFdkalFud1NoejVoMGZSY2dEQQ?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Rises Above $110K as ETF Inflows Boost Sentiment - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUThLSkZzV3RiZ19TTVZuYmZUaEx1ZHFJaE9VYTBrbXh0VjNHN0VnOTBoSmRQUkNqUVRxbmFINzV4WjJ1V3dFZC1TTjE0d3Npem1PRVFGRlhTa2cyOXRyMjdvTTFKUVptbU8yV2NhQ3VJSkRBS0F0QmlxOFEteHhOcnNyUVJsdmtwc0JsQ0s4T2owalFhRjFkdjc4MWpoQzY2NzhaR0VlZDR4VDQ1QWY0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T03:45:00Z",
-    "hash": "fc1de5b1c99f883f99dc5d1a1fb172bbe66d421fd205cdcecfffab2181aeb53a",
+    "published_at_utc": "2025-10-26T05:15:00Z",
+    "hash": "4d2a35b27f3a45979fe4038dc8c7a7c5d1242286f9cfe597739d149fc82ef036",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever, L'Oral report strong growth from India's qcom, online channels - Business Standard",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWGlMcTZEcjFua0xqelN6S3U2SVh6aV9obWlqVnk1dmI4cXRmbnNQZE1rajlPQy1SWk55UnhqVURncjlCYVNMR1dsR0xrcXlHRjJONWhJb0ZqUzNpQk51UXI5X0hJel9rV2daS3FETmJIQ3IxQzFiUEx5SHBla3FrSG5PY0RFX0JTVUJlUUQtZW4wSXZvTTE0TkdUWlJFeGxqcVpNcjdPRUhMVVRjamFtdExNeGd6bnFKeF9JY0JfTXQ5d2V3bGo1R250eU9UMi1ZdjRBRUpaQVBUUWJCUzkyRFVjUk9qQ1VDSEc5Tzd6WUZhLW_SAfgBQVVfeXFMT2RzcU5nTHRjZkF1U2JQY18wZkJtSmlQVXM0Z05mR3k4YmZIUHhyTnFxdVRhWXRUYUNvb3dDaUdmN2dsc3JEMzZGQlNTc3VkVGlVS0NpWG8tOHJFN3F5cWFCN2I0eUwwMktWWno2NE5nUW56S1llYXViYVZvYV8tMEZNOWxlSjlhb0Jad0JzZ1dndDY2VTRWR1k2QUN2ZThreVV6Z2V4QzFYb2x3Wl9YTE1Nck4ybTZOeWJyQTdfMDhFNGd1VWR2LUNwOERqcVpnYlNtcWVrUW1NMFA0YjRNSFZZZ3F6eHBZYW00dENNb3kxeWRmNXBDbzE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T05:08:19Z",
+    "hash": "21030f30c12dd3afeb8aad4df558492ad5f6a7c490f24c320703785c2d0aa4be",
     "source": "gnews"
   }
 ]
