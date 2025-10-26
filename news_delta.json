@@ -1,22 +1,82 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "BIP Wealth LLC Invests $227,000 in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQV2RLV3hzbkRmenRraURYeFFZMXJmcktfdW9vQzZsdmxNMlBrYWNSak9ramI2bmp0aGRwU1Rub0tzUER5OFlBcnhHTlZLYU5Ra2V5d2NPTk83ZExuTDAtZHluaTBPbEFQX2xqMjU3VU9ieE9RYi0tSldscHFhOW9zc3RubV90ZWk0bmRzQWFhRHAzSThJWldubEVpcUw1ejZjRndKZExVSURyLW54Ny0yNW9jTUJkcVBLUmh0RGh5RlJxQWNnSFpHS2tlY2FSTWFTa2tCbkhVTk9oS2py?oc=5",
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Exchange News: Coinbase Stock Soars on JPMorgan Upgrade Sparks Frenzy - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEgzcG1TLUJITFVmU1kybURhV25lYzFQajJkTG1wcEE1dGM5VXl6V0xueXVfV0JCZHBQaE9FekNZd215enRiNmRoNC0teFd2RDZPaVRVSm43MUR3RnNiM1hhQ0xEd25ET1dvM2Z4aU9iOGlTWWhiejFYMko4U1pDaEtvRkhGejZvd2E3bFpFc1N1cVJySjBySjdhWVgtbC1hLUNZ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T10:32:10Z",
-    "hash": "c5a623e230c3f9b6070edf443c53981051d85ae0c9d72b983e6f362b730d7c80",
+    "published_at_utc": "2025-10-26T11:15:15Z",
+    "hash": "750573d2520de9766e2c950c95a863ef88a96000231550ed8a0e863080cdc1df",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction: What It Means That 317,500 Wallets Now Hold 10,000+ XRP Tokens - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXY0ekNiMGpHR1A3eTk4Z29vTXNVaWpfSjAweGtDTmVWQ1BXY1NrcU9XYmNiMFIxcFFuc21pUERITlNEVDAyX2NQVFo0Zkoxb1B5bjJWbFFhc19wREpncVEzRGw4NUgwNk1SVUVmRTV2UE15NkRiOVJBOEVRT29jdU11S0lGUm1qcy1WTlRYbkNlTUtBaVhwaVpKVS1NMWhXNV9jYnUyNUUyNVBMUmVNMWdn?oc=5",
+    "title": "XRP Price Analysis: Ripple Flashes First Signals of a Bullish Breakout - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUVxRVM3Z3JwUGtnMXVwRldrb0tfQkV0Qjhhc1VNV21taVVUb1BQNzlYSXRuR0NfZy16U3JLVFA1aDNjQnJYNFJVSklzMFhzbWxNNzRUT2dHR1FrX0FyWER0YklXd2M2UFF1ZE1CVnc4b3JsLTJYNU5jVlFpMnZqV2NHRHAzWWVDdzBDVVJTZnVTXzZHZlhBclVqUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T10:30:23Z",
-    "hash": "e956c97192163949625f3cf40f75748771fdb475f4485e0d111fa54185895cc0",
+    "published_at_utc": "2025-10-26T11:07:00Z",
+    "hash": "dc16dd2e38a3f4ff1a92a3dcb3f2c2e54c270d12e1f4c6a4e6e0ecbaead247f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Sentiment Shift: XRP Among Top Picks While Others Lag - Coin Edition",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEFYbDY2YTd6TXVZcVRnTEZOWmFlcHRyYnA3N21jYXRjV2pVSVpfbGtsck9ZYl9Qc3FPZWJVcXo1THI0YUFKMWMyUlR2eE5hbmpDMUxMR2xLMVptRmlPR2d6T2d6M244ZnQ0N05BMXBtMGQ4c3RKSlVWYkU3VG5RX2lBb09iZmdaTE1fZQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T11:05:04Z",
+    "hash": "4a5134e21b7760daac5e88c7ed905134b48a6239564f4e6457e9144fa451bf17",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Boyd Gaming: Market Got This 7% Drop Wrong (NYSE:BYD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT2Q4UWcyUnprYWViaDEtRnlJNTNIOElOcFhaeWRqNGxSYkJRSFRjaUZ0MUloOGxjeVZDbWZJMy1HRTlBRndKczhQa2tFYk84Q1pCSVU0aHhZWXpnZWZ6cGhtT1Q3VzNwTDdIeVZVZWZiRGVEcEhPZkhBRDFEVWpGZHJKMEd5TFZ4dThTTWN6SnZMTU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T11:03:56Z",
+    "hash": "d27c1751c68f7b4a5620934fe3441541732a897cfc296d28b4983f9de5fb6499",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple CEO Ignites Bullish Fever — XRP Targets $3–$3.45 Breakout - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2lzMXJRN01qWVh1V3FXY3BNMjhCeGJaNmI0NVpUTzQ4MU5ya2RpN2Fjd2xvZThrY2FDYzI1aFBQTkhUalFpMUczcnhPdlk4TE5fTWo2R2xPVFptT2FRRkJCZmJmNzhaeEpJVUdscGxiZ19DTkdqNGJkWEpOaXR3akZvYTcwUjhmV2ZOc3BvaF81dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T11:01:14Z",
+    "hash": "d0c8257a417a523db945adbbc4599d1218507028605484090593557b87594876",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Analysis: Path to New ATH Opens Up if BTC Reclaims This Key Level - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWxfY0NrcC05MXp3XzdTYlB3b1JYZnFOLVJBR2tiRzFxSlkwRDJlZk9LNlF0V3c1aXBoVzdSRm1BS1V4dmk5aEFfNzdicXVoU3hOWWFyWmJJazZ1bkRQMEhoUENuWElpU2VQa2hpZmpTRnd6cDd5cHBkdEdNT2RwZEstQkhDSWI5QWcwNzg3UzFWd3YyNUE3UDBfWmhvNWl4UjV1Y2FSYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T11:01:00Z",
+    "hash": "a3cad82399ffcef80c6fc2bffbfdd59a743abc2654deb60638100c3cb12370e1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Coin News: Solana Holds Steady at $189, Eyes New Wave of Highs - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm5OdmJJSmZlZExSY0xNdWRkbnJPaUxFam0ybWEzeXMtMU9zY2FWUVJZbnczQkJIT3lEXzludU5yNEhpSnZKcXJrclNqazlOZ25BcW5heHNYNndoa3E5NHFhUk9xTHNqeEE4RG44MUdJYUhIdTFrRktMR2V0WmZWck5aVGF1di1iOFlVTUhoeE1uWGwtdEtKdktJc3hRMTF2?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T11:00:30Z",
+    "hash": "30566055601315ddc032d7d73bc08e66411b80218e13c6822fbadcf0d067df4a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Whale Accumulation in Solana: A Catalyst for Crypto Payroll Solutions in SMEs - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzdqdjYwVlBNSVBGaXA1U1pVVjJFUGwzLTdmYnNTNW1MUFgyNkJjbDNYbDRJUmo3U1VqUEpOdUJHT3ptZ01lVTZvZHVDdmluRkFMOUJoLUtYalB2cWZPNE4wWTh5aFNDYjJjV0hnYVl3MTUzdlRwamhnSEZlWFRXVUo0M18?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T10:54:42Z",
+    "hash": "1a9ac8b67ca186684fcf21d0cd29ad95d6a6e9956a0a25b6d980ecd999ed651c",
     "source": "gnews"
   }
 ]
