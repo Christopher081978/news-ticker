@@ -1,12 +1,72 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin’s Bull Cycle Isn’t Over Yet, Says Cryptoquant’s Onchain Data - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRlkycDJ1OXJQdlU4WkpPakcyOU9UdlNINEhENTBrREdLMFVHQ3p1TU9LVXNsTmp1cmNxalFQdFNIYTZqbGJiekhZRDloZmtOQ0VGM0s2WHhZZ2JiVF94ckhkSEdhamY3cVkzVEs4Mm4xeE90dHlCTFk3VzRNcGZST3p3cGFTV2pZX01PM1RpOTM3NkN4?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Should You Buy Solana While It's Under $200? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWVLRnQ4aWRfZHNJSTRjRWNneWljNFJkVl82TjFDVzBzQXFISnE4TzUzbm92SG5ha2JhcWExOVRCQkkxNW1HZXcyQ0o0LXNraTBmSFNjQ2I2dFI5TVRnbFlOTldaUnQ1cGxpQWthaDdGTF94cVNhWE43V25ac2JHMWd5YVVMUl9BOXhISw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T15:32:04Z",
-    "hash": "687c556399dd36058b450d219018977dec020010fa675d9a76f748343e65c728",
+    "published_at_utc": "2025-10-26T16:20:00Z",
+    "hash": "3194df9b05c31d6a45712ce5f202bfeeb85e6f032cd6fc550bb18ff45ba428c1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "MSFT vs. GOOGL: Which ‘Magnificent 7’ AI Stock Will Impress Wall Street This Earnings Season? - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGFuNXU1YVlFekFBblJIWnhaWGwwZ2NtajRnS3A0aHZqc3JhLVRIcEFaenpkbEhyYVVSU2tjMjdVUUkyWlpyZ3poUThPT29Ma3VoRjQ0TFh3cDRpRGRtNU1XUkZYbWlTcklZMHVpWHFZM3BhR2pEV3NMSkIteElINU5lV3FPVmtPQktvaWt0WXVRa3EwYzlpaEZ5b3A0S0FGVXVuYU1n?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T16:19:15Z",
+    "hash": "b5d2b8a33b106ce62ef70d147fe1289279b561aecaca9e78f90fcfe074155907",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: Why ETH's Correction Could Actually Be the Calm Before the Storm - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGI1YTdnV1FNMDRVUzZyR25QVHpYYWZSRFA3VnZMNVFVNkFROXh5UDZNYVVIQmdLSVJESzFqczYwNWx1VnZ4NW5RWkVUZFNGWE5JMlBOWUt3X0lIeEREOHVFdDE5cUpqTzNFMVh2UU9haHUwZlpCSVE4bTFxQkk5V19WME51N1FrT3otUWZ2MFNFMWZ1XzlDQ1lGRldhdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T16:09:26Z",
+    "hash": "8ecc98a28d6a2dfca910ccae93991a332aa2d96929bc813bd99edb4a97da145c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP’s Dynamic Price Movement: What Retail Traders Expect in the Short-Term - Coin Edition",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDhZaDY1VFkzRkxtNUZwVE9jOG80ckk2S2tWaHRVVVpzTXhlTjNEZWJSbExtbWNEQ2JIN2JfQTNLWVVJcWk2a0tmbEU4cm9ubFlZMWYtdHNVSENlRkZNNHF0aDFPZm1RZTN1cHk5Ym5OdFVsQURtMW45MnpWUGVvZnNScnVRbkFPYmRhTC1DQ21IekRfMUdHUldPb1Rzdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T16:05:00Z",
+    "hash": "41cf2653f4edf7faff2d44fb1c14343ad8fef998bf36294f3ce82be6c3c7fa6e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Forecast: SOL Price Target $1,000? Why Some Analysts Believe It's Possible - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFNTN003MzNHYUdyMVdXTGlyZGJTWWpaRDhNS3NwVXNVS2N5ZHZGRGNzU1RpUDRkTjVTTDFOcXlKUVFsNFhDUDdMY3pQWGJXVHBKYkp4VHY3UzVmSnZZV1loSl82QkhYMjhIemg4eG1HUVUwLXpuRVFiRnZmNmpWbi1IdFk4Y2w3NGNnWmJGR09VaWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T16:01:50Z",
+    "hash": "537678bb6906db1bc69c88020eac8af2131ac833f166e311729d478b0b17cae6",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "ETC Mining Launches Mobile App for XRP, BTC, and ETH Cloud Mining - The Arizona Republic",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmx2VFg5WC1peHdQVU5Xdk1LQkZpeUliYnZHS2tSbzVOUXc2bUUxOXhZLVdKWmN2cnhOakJiUDh2dm10azM1STBoelA2dERtZUFETXVLbGRyN19MZlNoR1k5eUZkNDI1b0xlUUJ4RHM2cm9TQkNZQkNsZEtBeXlTdjZWRi1uenp2b0pHLWJIRFVsbkpPbWNFOXVTWVVVOFA2NmYwanotclNBcnMxT2ZKSFRFMUlhaGs?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T16:01:38Z",
+    "hash": "18d669558248135932743a53d47d3ac839988af405e7c54e708b9108bdf7a4de",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Upcoming SOL Upgrade + Institutional Inflow Could Propel Solana to $300 If $200 Resistance Breaks - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2VkUmpfdkhtYzJkN1NSZ1VOMTFyOHBSTWl0Z3ZTVVBQam9XTEdhSktiS1FJZkNZMnFkSkhpMG44VmJmd2lXaG9hY2JrZDFmNVBhNHlVWFEwVl9rX1ZaVS1JUVM1bFNUcTRRXzNuLTRadnVWR1N1bkNNZjdic1pLemxOQXd5LXh3WUQ5TmxCX1l4RFY2b251Y21EMXA2UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T15:54:57Z",
+    "hash": "85d9179c4d4cd4d04b48fe83d8d5a9b5cc9a0246ef3b0382e2155bb9dcf174ac",
     "source": "gnews"
   }
 ]
