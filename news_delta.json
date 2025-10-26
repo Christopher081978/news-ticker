@@ -1,12 +1,52 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Crypto Reclaims #3 Spot, Overtakes BNB: Institutional XRP News on Verge of Going Parabolic - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWJSYzZCaHFSblpIWWRYVXZjNzEyNHpQaEIzWVB3RmV6dmxxNG5POWVvR1V4YjJhckcya0RPOWFxVHd2MElNQjRpQmExcG1yanNlNVZRYWpLNGRGRjFzUmdGQWQ0S1I0a0RmZWIwZ0NSY29xd3NBZHpKeE5udDJyTTBKR0hhU3MtT1VGSDVOMkFhWDh3YUhYRVc5YnZNRjFBWlBmZHZOaWlhei1kSi1wZXRKWEZjYVdNZDNZczlaejEtRWdGN0xfZQ?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum bull Tom Lee insists ETH is still in a supercycle - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfOE1oQ1JnVjNhempuQ1lLUkJlV2hiX3MtOGlJVXRKWlVJcHNxdlRmZFNhVjFmWmtid2E5S3NxaF95bGhtOVlDdjJOdG5ab1pvN0xjYzBLMTVNQzg3NGYtT1FIVW5OVEdIVDRnck5qd0FsOVNTVEtIUFA1bjRGQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T19:32:36Z",
-    "hash": "5747671e1bc4d2e9bf78782c4821dac4b2bbedb24a0a83490414b8df5c10a47d",
+    "published_at_utc": "2025-10-26T20:22:00Z",
+    "hash": "d2e27ef0f31a97d75f9c8b6326f8f9dbdeaf2d6b988c84c265c2060f0356068f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "GlobalFeed",
+    "title": "Attacke aus Amerika: Wie Trump das Finanzsystem umbaut",
+    "url": "https://www.faz.net/aktuell/finanzen/bitcoin-co-so-baut-trump-das-finanzsystem-um-110748182.html",
+    "summary": "Der US-Präsident nimmt Änderungen am Finanzsystem vor – mithilfe von Bitcoin und Co. Das kann gefährlich werden.",
+    "published_at_utc": "2025-10-26T20:21:06Z",
+    "hash": "6909a7f503297cf182336a7b6b3ce558ef731fd6b62a4d82f2300de7d7c658fd",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Key facts: Alphabet to report Q3 earnings; Google invests $15B in AI; Pichai to attend APEC 2025 - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWkJMWGFBWlY2aGM5NVJwNlRxYmhOd0hUNDdZT05rYUVEc0pudXZMMWI3M0dMSFFqSGN0Tm5ibW9mbmM4bzJUY3J6cXVIRWlPY2Z6cXU3b2c0aXdlOUFQcE1QVzhKTGhXczJhMzBJRGZ4NWZDcHQ5Vk9lVFB5TUl0cVBRZ0VpS3dwU2JsX0c4YkxKSEF5R2hMaWd4UmFMZVZCaEFVTnIyam5OR3hJUnM2d3JqdExicUUxXzRPbUlyNkxra2JBRHJvS1NIUVQ0WmlCaE1QazNqOHJwa09iZFJyeHZQd042RWFweWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T20:03:05Z",
+    "hash": "1d7b42d476a225c6a78a710373f0cd03418a66511b5e520cf4ffdc7f4f8c583d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Pi Coin Price Stalls Again — Can Investors Help It Break Free? - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jMHdNWG1WbWxEaW5ESXYzbjBBZTlZaUFocnZWcTZRbmNQSnk4WlBqM2c0LTR1bDFrMjRiSHhRZ2dYX2I4cmtlRDVoMVlad0tHVG9VSE1JWUdMdFJEa3pfdm9zREVqcTJqX1BzYndrZHVEWkgw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T19:57:00Z",
+    "hash": "7e409ae7071ef0c612bbd20a9a60dbd26218b848bd1122a96e5bfe231eee13a0",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "Why D-Wave Quantum Stock Plummeted This Week - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DRWtnR25jNnZIbGJBNWxfSTJ1UVhGS3h6eDNOdkZKOG8tdGxvTlluVlk4OTA1Xy1LZ3ctY3U1bS1KejNkVUVSa25GSThicWJ3RFhPMnVfLTN0aE8xT3pJMFd3NWFsRFRFYjZldWt3cE5YRGU0SnlQZTBB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T19:45:00Z",
+    "hash": "5eeeb26aacef33f3d950e2d3c152b3594e0824342daae9842acf38f969dc9890",
     "source": "gnews"
   }
 ]
