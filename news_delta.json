@@ -1,22 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin ETF Inflows Hit $4.21B in October as BTC (BTC-USD) Rebounds to $111K — BlackRock and Fidelity Lead Institutional Surge - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDBrWW15UkpKajJ2eWp3TlpJYWR6M3hCZ3pGX0l6VXdwLWg4bXNTRXZuYURTdDNVVjA5TFg0QVdSZlFBcDJubEF2M3lyNU9vcjVPa1pOYkdFWnEzbHF1TEZGUDZDbmQ4dVlhQXo0X0RWc2dTU01LR2tMNmN6X2pHU0xRNGlHSUV2a1dDYjNCVWRkVUZlRS1V?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP/BTC Retests Six-Year Breakout Trendline, Analyst Calls For A Decoupling - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0ZsaDlfODY0VnNDNGFTSXEydWpvUWhZd1djZVpYektNWUZkRzYzaHQ0d0VQNV91NmU1NjdTVzhkcEhtam96MDl4UWNIaWZFN3JvbnBlSWZISk04X2dIV3hqZDMzcEtPcUpPT1BOODdjSmNFTTJiTmt0X0Z0RXZEVnpocEZwVGQzdkx5cHhqa0FjNEItZF9EMTZ3UG5OVV9OM0x6TUR5ZHpMX3prOVJKRzF5ZnlPZ0swLVhxWWhYR0ltOGgwa2s2YzdRVWU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T20:36:45Z",
-    "hash": "32c35837abb9651aa41ae03ff67bc6c872fec35628ae3951615df4b8a2f6d2e9",
+    "published_at_utc": "2025-10-26T21:00:34Z",
+    "hash": "f8ff349ebab94681524cb2a039796698d37711bb200350fac408f17197701ea0",
     "source": "gnews"
   },
   {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Why D-Wave Quantum Stock Plummeted This Week - MSN",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSzN5Z0NWcjFfR3N4dUN6WEthRWFWWWZZZ2JwSnM0czU4YVFKSnFvZmRkRHQ2enVjaWtPNldDSm9KRGNtMkpFT0NuMHRJRkc2MUZ5Q2s0TUVXNmhUNlUxQ3BPbXlRa1FETTk4RGtoRVRLZTh4aWNNdm5raUctbzIzV0hhUHc1OE82MVNXcFNoXzh3bkpqYXlYZEJQeEpXREVXZEJraUc4cklqVF92ZFlhbDBaMVpsTS04NVFJb1FzOUh0RWRCU1BOR25VR1Vodw?oc=5",
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP ETFs XRPR and XRPI Surge Past $100M as XRP (XRP-USD) Jumps to $2.64 — - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZldpX2FfRVQ1WDFVZ2hNUzl1UDVYZUFnRXhDbEdCeW1Lb25FVzhzSnhNMnFGNGhDQ3RBX3NMNHNuekQ3ZTlrQXEzTnBvVVFBNi1xMWU5Z2ttZjVGNVJOeHI0OUtlSTJVWXlwRVB3U3Q2b1JvOXJiWmlDSXdkcUgtcnAwazVoUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T20:33:24Z",
-    "hash": "3f97a96dd83b41f737aa6135d84d9927c99fef62882a2e5dc8ff8314217bf49d",
+    "published_at_utc": "2025-10-26T20:56:45Z",
+    "hash": "1c1672e8c277e02df5df4e0f2ac29423bcab061961a1a6779b8c9d3df3017e2f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Institutional Adoption Surges After Fidelity Investments Adds SOL to its Crypto Suite - Digital Journal",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlgzMy1SM0paMzJwNGdJVGdsYWZqdlZDa2xsZWt6Q2hxcEI2aDRqVEhCbUp6N3Z3b2dnMkNPMmVZRzM1YklzVjRLVV9lMUgzMmhnLXk0cVdyRUlqQTlJR0R0RVJHWXNhcXphQTVSOUwzSlBpOVpaVXNGOFJ1TEhnQ1pSc2VFaVdHaVJmTE05SU1TN2NCa1A1bXVHNkpTNHh1cTZjY1V4VG5waDRsa2JJLTd3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T20:51:08Z",
+    "hash": "6228a68d7558910e2c33d11f4733c6117babe4107fdd3fd8aa96e6b0600cc613",
     "source": "gnews"
   }
 ]
