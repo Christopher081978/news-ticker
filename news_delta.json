@@ -1,22 +1,72 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google Stock To $300? - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2lIWG8xeFhwRXZ2N1hGZ2RoanM3M0JLTGx4a1M0VWFzMGFqVjdxaVpaaGpHT1ZsNVAxSGNoMWNMbUtfaUd1Nk1EeXJoc05OaFFYLTRzc1Q1YzQ5Z2ZwUmhCVHFreTlEaXpNekhlMHF1Y0oyMlBXUzQwTVRVdnp4a2NUN1Q?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia Stock Soars on AI Mega-Deals – Will NVDA Hit $300 Amid Boom and Bubble Fears? - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM1E2eDdzOTdYRlRLemQ2dXVQRDdmS3o1Q1ljRTlKVFhNeWhYeG1uYTdQaW91cTJfc2dyZXFaYmtmSnItRXhLU2Y3V2dRNVY1ajUyaTdkTVduZWUtdVZnb21WY0FYRF8tY0U5S3NNTHlWM09pTUozQVVFT1oxZXVRTVhrbWtfZWtUb2l1V1N4QlVIMExudnJ3bXlUTGZMdWtXWmhN?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T13:39:09Z",
-    "hash": "6d2f8cd55611e61cfa2932491a494b2b22ebd157316775a513fdd750df88bba6",
+    "published_at_utc": "2025-10-26T14:20:48Z",
+    "hash": "f31458a51c66acee9e6f05b63a55829af71a502a74b2dc8db8c901d8e7d9d7bf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "700% Surge: BitMine Immersion’s $13B Ethereum Gamble – Boom or Bubble? - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEpyNTFVM0t3OHMxY18tajFHa05xSDNmZ08xT0poS001ZFNDc0g2R2xLZVNYX1FyNG5WQ19kd3Y1ZDQtdVlqYWxwSVJuSGJPU09ubGo2allOQ2lQTWk3NmpMekNmMUYxX2hxWGt3R09RWkRDMHFUSGNEWHBKNzZnR1R2VW1TZWJhM3lGZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T14:18:48Z",
+    "hash": "7a533db0e4048db972cfb23edcb0765aa64b647267f501d753fd0fb9fb63c624",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Russia Advances Crypto Use in Foreign Trade Amid Sanctions and Dollar Diversification Push - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaElEb1FOME12bS1QNVk3Mmozc3RPRXVOaDVidmhpYThQcjY0eU1wWkc1VGRRMGlVVjRPT0FicWo3WUc4Sm9DbllfVl9RMkozbWNrZ3RpamhrWFN3OVh3Q0xlNDJ2OXNCTzdCbnZieDJBRTBOMEJUbU9jbkRpcmltUUc4WGZmNWc4dWJyVkVldXMtWnhtd0EybDhOeGFaanJMdXRJSGdBeG9UVlpMUzdhQ0IwTG5NRHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T14:06:21Z",
+    "hash": "bdb3e2f62c3b48edae7297c3225f35ea8363ed5767b9440d648ad9350ddcefc8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Analysis: Gold Rally Takes Breather in Boost for BTC Bulls - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdW5UdFNnU2lkSG1UZmt3WTlyclVIazIyeTBNc1lnVnlnUzNoeUk5b2dmQXdVN3dBWHZwajZtZTFtd3ZXRmpmQnFXdVViYkZydGVrTnNZR0I0cXUwazJ0X0xaRVkzdGw4UlRfczg2b0Iya1c3UmRoTFlDRHhsaFNxNnpCSlpfbGc0MWRvRl9JNG9ESjdTR3dNRjcybzNyaV8xWHVrTlZzZlRWejEtbmt2aVRCeG9mQ2tGZFlCeWE3TQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T14:00:25Z",
+    "hash": "e8cdf5832050666c0539d9bda5a03244982bfb240ad10342c70fee2961de0674",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto to Buy: Little Pepe (LILPEPE) Projected to Explode and Become a Top 3 Meme Coin Faster Than Pepe Coin Did - Analytics Insight",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVkViU0MtallsWldoV2JxMVBfZXdrYXg1RWswNVhLZTRUUEsyczBTc05zNkhsWVBFWDk2V1F4SnRSUkxubVdjeHRtVjROMEVEaUMyOUdMQnpFaXZqOEVRWW50d3lzaGY4U1lvZ0ZielYweTFMMktmbFZEYnFyMmtHb3ZLRGp2MDZ5WENyTUxtT3R5WF9RZE14RkR6WmNid01XMnlHbUZqVndnMVNqX1B5WHlWNllvbDNKZzFSblA3ZjdIdTU1TTJ5eDdfZkRsUGc5NDRXWU9CRC1oYW1vWUs3LWt3UHlvNG1nc1dkeHRHRWJIQ3RfbnV0NDZIMmFzMEdnTXhiUWdWRDhuNjlL0gGaAkFVX3lxTFBna3BkV1BUMkJhb1g1LUt4RGRMVHJReDE3ZElROG05ZlpKWW1QNXFTeVFyV0hIRnpqMTFvVTFDdG1Jd2J0Q3daUTF1ZG1KcVBsVkdmOHJNUll6dDhRUjJqN3hrdE85ZmdJbkNacWFlYTNJV2lwSW9NMnVtUGVLa0l3UGZLdXBGQ0xXd2d2ZmI1cXo5YmdMenViLVgtM2Vkc2xyam1MTGRQUVlVUnpudFpmMXdYRWcwek9ZRm41MXVYUTVIdm9KOExQZUlxcmhTWWl6Ui1WSlJnRnVILV8tWXU0REx2U0lnSFQxMmtIcDF1d24tUlhPV0dTZkVjYWxHUFhTVXVMLU5fVS1ld0RRdXQ1YUhJT1FzdGlRdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T14:00:00Z",
+    "hash": "f795d6a3d431fd753d335c2ce27b4f015a5b3ee7a36c83fd52510e3fe1832d19",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Breaks Out Above $3,800 – Real Rally or Bull Trap? - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWw0TE1NZkZWcEtPUUdfd0ZVbVU0RHMxRlY5bTIxTm5hejNGVjl0d2xZcFI0b1dkTVU5czhpTGdLMDZyZ3gtXzRmMWlGZzZIbzdQRl8yaktQVVVNS0VITzVraTgxaWVCU25fS1BmVVphQ3Q2VXVyYmFqaDZkMngwbDlIZENOLXM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-26T14:00:00Z",
+    "hash": "2fc78d0a165cb50fb8442590c80a358ee9e05fd252c028dc66bd170db98defe0",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "CryptoEasily Expands Mobile-Based Mining Access for BTC, XRP, and ETH Holders - Azat TV",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2g1ZWJmSG9aRTJsRnlhSGliSzlkaWM5NkppLXk3c09sLXNBTlFhd095OXp6anR1b1B4QnA2ajAtbzRVWkdQQUl6cnVQQzlSaElJR2pMSE5hcTBBYU9rMUJxNi13dHNlQ2NnZVNObXRvS29FQy1nNTZUWDJNMEU0dm5sbjY3V05ESWRBNlFjdWhkUldtZGg4RlJwMA?oc=5",
+    "title": "XRP Predicted To Soar 20–60% If ETF Greenlight Hits, But This New PayFi Rival Could Soar Over 600% - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLUhqOUJvQXo4dml3YjI0UmoxRExGUUNmRG1kS0REa1V1WktBdVVVQXRTQUxBVnBCNnVsdE13eDFrWEEyQzZ3cUNnalNtdDBVWXpVUzNmZXcxdGMwa3BFMHhqWUNMMVZxVVpjb1hTOGQ3eGo0eVZaOThiS2VxRThhTjZtOVk2QjdDYnc0MjVkekdOc3d3b0FmRnlyR2Yxd1AzU1Z6d0pYMDFNLVJkMGlHYnFHMHJDUWNqeEVwcWR2Zk8?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-26T13:36:53Z",
-    "hash": "57342ac053317a6ed8887fd14d8b314440a862261a287f3b98915a7359fb88ed",
+    "published_at_utc": "2025-10-26T13:58:58Z",
+    "hash": "cc342378acff05c75b5447127c85a1c6c1dc6b1061e2f569aaa6fb4e3edae242",
     "source": "gnews"
   }
 ]
