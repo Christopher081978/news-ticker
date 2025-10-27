@@ -1,82 +1,42 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Exchange News: Coinbase’s x402 Logs 500K Transactions in a Week - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjBhdHIzU3p2LXMzTEJNZGpwclVpZXlJQWwxSW5VeUxmemdCU2xrSlhKcklRXzJHQmVXalkwRklmUWJxZlB1aXFLczFmSFE5emsyUHZjWVBGZTNmbEtQaTN2RUpjZVFrWUZ6T2c2cUZXSDF0MENYZnhkUXdoX2FWdDcwSDlwUWJVX0hPcTlEYVpodjA5dVJfakVB?oc=5",
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "KLN Named Exclusive Distributor for Siemens Healthineers - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1N2UTJTV0FwUEhCZ2lDMllFdE9FbGdCU250bkhVWG9YeC1paGpqZ0JBWTkxZnprd3puUTBXTGEyS3hPWmFqc3VVekVHbFBuMFpZTHRDTXdKVGhlaTRRbW1EbktFUjdXazYzaF96b19XN3RjMkpDMnR2TVB0STFuNnY1aDJrUXZ3UE9NLWxrUDhwZnVrSHV2clAyWThOOEx2OGVZQzZWc2tUd0xKbklIVWw5VzhVU1E1ZVJyYl9Zal9BampyNXpR0gHMAUFVX3lxTE9KaXhWU2tEUzdTUEF6dUdEOUpiRHNEc0xxZ1l0V0hmLUlqeWMzeEJMSDVNWHVaTFFyM2Zpa2N0OW1UWGFHUTdRWjF0WGNHWGQzeVJiNTh2UlpJWUZ0Tkt6OFV5LXhuRWl0RjJuTjFWN1lEWWpZRXA1RFBFaGVUc3NGTEdlYnB6dUtvQlRtRnE5OUcwTTFfNDdLMGhWaXFVTTFPeDZyelp3VlhwMDdxVWFxZnhQclViZ2xQZ3QxT2NnWUhyLVR6RzRYV2RHMw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-27T03:30:06Z",
-    "hash": "022b9399257dcfc07c3bbeb1b4d2fb8cebb728f4afbc4ebfbf4346306432a8da",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, and XRP extend gains, gear up for another bullish week - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYU5WVG1hN3ctQVNuaVNabm1wb01hU3I2ZDVQZHk5NUpWdkwzY1pUMko3QUVfclNqS3FCM3dfbm1iWGZVd3FCNUhXOWw4ak51RnZCLUk4YmtnbF83YmMzTmtPQlRFa1gwNkE1a0VtNnRPTXVRY1BWLXkwaWlwdlk0dVVaUExMa052SnNfbEVmZGdtdFc1akJzOVJEUEtyWWdiRGdlaDVNdHB5ZjlSR1lSQUI1eDl2R2MxVnZ1XzQ3czRiYUd0eGFuVF9mMEx5VlNPU0FwaDBEU01oN1ZtX0hFX0VDZUV4ekY1N0c1aHpnM3RTcnNRLWx3NjJKeFnSAYICQVVfeXFMUGViRmtzUVVPTFFocmJ0MjFFRThFamphckdvR0QtUEZqSWctSWhRaVV1azhrenhXcnVoOXd1dVRRbWdoY1dSX3h0VTJndWZUcFNzWDhnWUlUNlFac0ctcGxRSEhpMXdhOUYyRW5uSURULUZMdktkS3Q4U2F5LVVLSDZ4YnZvc0YyX2xtb2hxaXg3b19vdnNjbUhYV1lqNERMN3dPN1FLZjdHN2R3UkFjYWtEQlNMTnpfM2dWTjVwM0VVckk3TE9PTmlxdnN3ZjRJTXhKNDFMTW5OdUtmLXBYbWhNNU8xbVQ2QkhqSURNbThtSDJOd2dVTmh1V2xMNDZzLXpB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-27T03:30:00Z",
-    "hash": "98cd1c667aefe1f4317d2424d3860f4096747b572b54fcdc8788754d8a101cc3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, and XRP extend gains, gear up for another bullish week - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYU5WVG1hN3ctQVNuaVNabm1wb01hU3I2ZDVQZHk5NUpWdkwzY1pUMko3QUVfclNqS3FCM3dfbm1iWGZVd3FCNUhXOWw4ak51RnZCLUk4YmtnbF83YmMzTmtPQlRFa1gwNkE1a0VtNnRPTXVRY1BWLXkwaWlwdlk0dVVaUExMa052SnNfbEVmZGdtdFc1akJzOVJEUEtyWWdiRGdlaDVNdHB5ZjlSR1lSQUI1eDl2R2MxVnZ1XzQ3czRiYUd0eGFuVF9mMEx5VlNPU0FwaDBEU01oN1ZtX0hFX0VDZUV4ekY1N0c1aHpnM3RTcnNRLWx3NjJKeFnSAYICQVVfeXFMUGViRmtzUVVPTFFocmJ0MjFFRThFamphckdvR0QtUEZqSWctSWhRaVV1azhrenhXcnVoOXd1dVRRbWdoY1dSX3h0VTJndWZUcFNzWDhnWUlUNlFac0ctcGxRSEhpMXdhOUYyRW5uSURULUZMdktkS3Q4U2F5LVVLSDZ4YnZvc0YyX2xtb2hxaXg3b19vdnNjbUhYV1lqNERMN3dPN1FLZjdHN2R3UkFjYWtEQlNMTnpfM2dWTjVwM0VVckk3TE9PTmlxdnN3ZjRJTXhKNDFMTW5OdUtmLXBYbWhNNU8xbVQ2QkhqSURNbThtSDJOd2dVTmh1V2xMNDZzLXpB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-27T03:30:00Z",
-    "hash": "98cd1c667aefe1f4317d2424d3860f4096747b572b54fcdc8788754d8a101cc3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH, and XRP extend gains, gear up for another bullish week - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYU5WVG1hN3ctQVNuaVNabm1wb01hU3I2ZDVQZHk5NUpWdkwzY1pUMko3QUVfclNqS3FCM3dfbm1iWGZVd3FCNUhXOWw4ak51RnZCLUk4YmtnbF83YmMzTmtPQlRFa1gwNkE1a0VtNnRPTXVRY1BWLXkwaWlwdlk0dVVaUExMa052SnNfbEVmZGdtdFc1akJzOVJEUEtyWWdiRGdlaDVNdHB5ZjlSR1lSQUI1eDl2R2MxVnZ1XzQ3czRiYUd0eGFuVF9mMEx5VlNPU0FwaDBEU01oN1ZtX0hFX0VDZUV4ekY1N0c1aHpnM3RTcnNRLWx3NjJKeFnSAYICQVVfeXFMUGViRmtzUVVPTFFocmJ0MjFFRThFamphckdvR0QtUEZqSWctSWhRaVV1azhrenhXcnVoOXd1dVRRbWdoY1dSX3h0VTJndWZUcFNzWDhnWUlUNlFac0ctcGxRSEhpMXdhOUYyRW5uSURULUZMdktkS3Q4U2F5LVVLSDZ4YnZvc0YyX2xtb2hxaXg3b19vdnNjbUhYV1lqNERMN3dPN1FLZjdHN2R3UkFjYWtEQlNMTnpfM2dWTjVwM0VVckk3TE9PTmlxdnN3ZjRJTXhKNDFMTW5OdUtmLXBYbWhNNU8xbVQ2QkhqSURNbThtSDJOd2dVTmh1V2xMNDZzLXpB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-27T03:30:00Z",
-    "hash": "98cd1c667aefe1f4317d2424d3860f4096747b572b54fcdc8788754d8a101cc3",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "US Tech Mega Week: Mag 7 Earnings Reports, NVIDIA GTC Conference – Will Tech Stocks Continue to Lead the US Market? - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMjNuNHMta2ZKREJ1b3k0OXB1ZnlBSVFkNkRaOGJkUTNOeEM0VDhKdnNKdWc3WU1kdVBNRzNKN0xiWVFkT210bkg5QnU0U2F6a3V1RXJyYVdMMUIwc2hySWwyM3ZaMzBRc0RLZ3BOZHVUeWRrZDR2NWtCak02Q3pkaE5Ubm8wQkFpRWJHTjFBemcyM1BITXI4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-27T03:17:05Z",
-    "hash": "8396988871dfcc89950438e2bfed290f184118f86a1e3e8db26f2f00a9deafdc",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "What To Expect From UnitedHealth’s (UNH) Q3 Earnings - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmNnblI5VHowdVBQVFZqdGRqWVR6N1hUUzFnZE1wSDYtaGdEYjdtb0d5NjFCa3Nld29vUEtyUTQxYTZtQ1dEMllROTUtdkhPczhmU1BiRzFmODR2T05MTTMxX1hRVWlTdFVmX1pwdWJLUmlkUmRVaVBSQXFhRjZPbUlvUDc4S0dSVFVJeWUzRndXZGNhS1pjM19wRl9ZaDZRdHVmMXhra0ZzMktjUkFjWFBqRDFLVWdJdWs2VkNwV0k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-27T03:15:00Z",
-    "hash": "b3c5244d077df11602d628f91b3a7d155b85b44993569b9d2943c4f529b09f33",
+    "published_at_utc": "2025-10-27T04:30:29Z",
+    "hash": "6213faa6f7f58fda88f1530d8cbeb9e19448d8e80cd31b7d519cc38d9b6df786",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC-USD",
-    "title": "BTC/USD Breaks Higher. Is the Bitcoin Tide Turning? - FOREX.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRXBkQkh4QkF6Z19VTDk2d1Vic2ktdDRSNldWRmhFWTc0b2tsTXJpUjNmX0Q5Y0ZVMGRjbGx3ZkRFSlQtLUxPUERGQXRIS3AzdWNwRjRtN042MXF5bFpzelRDbXVXUXB5MkFMRVNodzZlTWdKRDlkQmJyTGdQUlNjVDhoYjlYamIyUTZBcUUwU0lQSFY3MVBhLTFhazk?oc=5",
+    "title": "Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVp4Z1lJUEUxVlY0Z1hEWTJneVpLX2VBcVpkVE5pWWJOUU14UDBKVlVfR1BOSGNvN1hETTNnVThDT05BNUE0MXdSblMxQTMxemtFcVVQank4ZW5GUlNaMnVqM1RWYW9WMjVGUVRZVnItcUFjYUhDSmNlbExpeFNWQW9Fckl3YXhaU0tGalpwWlZPWW93cXlkX2FvYi1meThWYVhqVmRKV3BHWkdQaVA0M0pXUEE5b1c0aV9KVg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-27T02:57:20Z",
-    "hash": "557ef8459d4de8f0e4fd16b8c35212be721c0754f617bea43075fc04e87bf010",
+    "published_at_utc": "2025-10-27T04:25:00Z",
+    "hash": "5dc434ee9f508c70f2e044fa505cdf0f5f43ec89f271f35ff432526ee9c388c9",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "I Believe Rocket Lab Could Lose Half Its Value, Buy It Then (NASDAQ:RKLB) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTGVjemlmY1pTSENJR0E5VnViVlFyVVE1QTRZeWhqU1NTMVp3dUtFcS10T3VRQVhQbDFnVWNQWHAwcWFoR0dlZWFSMUJ5UXRMWlVacW1xMWtid2pWMDVXQlN0UzVsQVhVRm1TSy1qdnI3a0I0WExrRURYWFpfWGQ3X1V3c2FuU0lWWXZoRzVwbDE1UUd3N09hSmlSS0hIUGwwU1VMWjFQTQ?oc=5",
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "OnlyFans outperforms Apple, Nvidia, Google, Meta and Microsoft in revenue per employee - Moneycontrol",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRmxETFVPd1RHclZqZlBvY2t1NDVsSUZMXzNIanI5VnVkM2RBcUswRnpIVXFJTmhTcDRmMXluUGN0d3pjQkRNN3paMndVMDJfcGdFcWR3ZF9ZdEttSkc5LUVjYW1xOXJ6V2diZUJpX0t4ZWkxUVJVR1lPUFJubGhxNEtFWUFzTU9Lcmdrb0ZyOXBsYmRZSUs1VDI2a0ZENi04R09lamc4cmNTWXA5VDEwM3BMQ1pkaTlkTk8wYTJHMlpsWFBmZTctZW1xb0JCanBuSHNPbW9xeVlJenhyeVHSAeMBQVVfeXFMTkp5YWJ6bF9CQTlJWHlScF80dlhNYUJCamVjd2N5T2tocE5UUUpwMEhKS2tGcWVTVDl4NF9OZmZQX1pxNWxYVlBSOWROaXh3dkJFTEx0SXptYUx4MEs4cEIzeURmSFpnVGNpbE5PUUFnY0hOUTBoaktYY0ktZ3B1TXNGbTVheTdvc3JObFl5cExTQXF2VloxNXJablFTYWZCcjBCaXdiNEVNRnFxM3psVFk1THN2Q1gyQ0UybzJEYlgtbWtZQ01aV3BSUGwtOUpZdlR2eXN3YVludDNFUGN5N3p2dk0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-27T02:28:19Z",
-    "hash": "9f4df293411981ed66ca008ecea94c2a939f5c929d4affde6b2b51d92057b315",
+    "published_at_utc": "2025-10-27T04:09:19Z",
+    "hash": "568597c7f524e8ef2d344e3f894031671136e842b2ef54c5bca0f3eabb11da36",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: Nvidia Will Form the $5 Trillion Club Before 2026, Followed by This \"Ten Titans\" Growth Stock in 2027 - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSk9XMHRsUjdvc0hMOU9iQnplWGRyNDhqd0hIRE01SkxsS3o5TjV5Nk5yeHlKLXp2MUU2VFMza0s5engwdDVXTVFUSEZHaG9TNUpoN2x1bTFHamlWQ1F4QnQ1Zm5lTWF3RkdUOFZXdHBzZFY2V2RJckIwN2FVbGh6bm55anZ2d085dDg0d3hfTHZvZkJnRldxaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T04:00:00Z",
+    "hash": "61f66b81bc39e57c25f7e7a4c93719f082fdecdc13b842e2629fe3aeae75d375",
     "source": "gnews"
   }
 ]
