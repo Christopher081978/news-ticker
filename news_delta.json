@@ -1,32 +1,122 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia + OpenAI Bet: The AI Investment Surge You’re Watching - Mint",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZEVVS190ckNHYUluUkVpQ0hPdkNvdkdJVTNGZ2FDSXJUT0tzN2F0cXJWNVV2M2Noc0hTZVV3bkJaNFVtS3lubzlnRXJzb1phYl8yWTRyTHJEN3hRcDBDOHNZT1c5Tk4zdktWUUF2VnprOEFtQUhheThBWmFTTVNqYzRnbllVNXg2dG5XU2hVb0Rnc1Zyb3EyY3B3WHdOUHdsak5VREk0NTRuVGpV?oc=5",
+    "asset": "Rheinmetall",
+    "query": "GlobalFeed",
+    "title": "Rheinmetall-Chef: Herr Papperger, was würde ein Ende des Ukraine-Kriegs für Ihren Börsenkurs bedeuten?",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/rheinmetall-was-wuerde-frieden-in-der-ukraine-fuer-ihren-boersenkurs-bedeuten-01/100166937.html",
+    "summary": "Armin Papperger spricht im Handelsblatt-Interview über den Boom seiner Branche durch den russischen Angriffskrieg, einen möglichen Satelliten-Deal – und wie er Wladimir Putins strategische Ziele einschätzt.",
+    "published_at_utc": "2025-10-27T06:33:00Z",
+    "hash": "77e8102044844c8f2eb6ec27f16420e7bc85bc73b6df90d11bba7e7470d05ac3",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Wedbush Has Positive Outlook for Alphabet FY2025 Earnings - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0k0c1RFMkdud2x1Z3Qya3NZUHNuTjJtM0tpMExwSE9XUm1majJwZGdra1FaS0pPTXZHZzNkckdmRUx1NzJMYXdJWVVMSGJQd3B6SjRnMUJfb1ppS0FtWnptSVZ2b2JEdDRwZXNLYkNlSFdUUXdsSWpKeGhkMUxfcTdSelE5WFBJZC12dWQyTHNweFJySUFjVG5TdmRVZkhIY1F6UGh1WkNjVkxxSUJnSA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-27T05:41:45Z",
-    "hash": "509acc0af911704ce766898f4cfa73742a8327991b715709b77fd86fc0c3f776",
+    "published_at_utc": "2025-10-27T06:20:40Z",
+    "hash": "89a689ee5c4ece3d872814a8c80d99364bf22d2e4913f453a3f032857eb889de",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Wedbush Has Strong Forecast for Alphabet FY2025 Earnings - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlh3c3p2VDkyazhydTFUVlROS3dFR0pNTnhKVHpJS2FrUGNuOFNmYjdMUWpGYW92WHZxX3pBUHA4TUs0bWx4X3dFcEJMclhjQ3hZd0VZNUJaejlBUkdQYlRpaXRjMjRxTGNuM05qR0Nkejh3NTFfNGtfY1Q4cVcwUGZQNlVuZ1o2bWFUbnNUNlNIYkxUa0JYVGppLTlsUTMzamF3WUE4OXlYa1BTdjV3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T06:20:39Z",
+    "hash": "500e75781e292db9a54ae026f471eb9e50a188c995cfa66baa4b6885dd6454c7",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple Acquires Hidden Road and Relaunches It as Ripple Prime, Hints New XRP Utilities - Crypto News Australia",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLTg0MFVSSlZXSllLbGNGRkdLN0xUSmI2ZjRLY0R1ZzRpYzdIVUdCdndUX1ZIV3B5MG1XY2ZhaW5UOHVlM0I0cEh6ZjNWaWVVOVVqNzNjX1FhT2dsN3lFeFU1U3F1Z3c3R3hPMGhSS0FybmZJMW5DOHJnajN0RzdQeVJoMVk4TGtPWVo0UngwMmxUcEJnT1pFVm5EZENfbENYVU9hcGRPRGFGLWhxcGhZY0t0dmJjMXpuTndMRkJkR21ZQQ?oc=5",
+    "title": "News Explorer — Indian Court Recognizes Crypto As Property, Protects User's XRP from WazirX's Redistribution Plan - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTTBGdlZTZEVmV2RXbHpoQzJSdXdaTGVwd2ZvT2lQdTU5LTNrYldNZkM1dGQyb3JxRDFXWFE0WThLNzlZSUk4S3pnUFp4dkFSeU56OVNEdThYOVBXMjhiQlRnMXR4LUJFSzFxanBzRC0zZUhNNTJiRFROYjFYNUR5VGJsekViaWZ4Q1JsdU9CQXlpdHFHNS0tVU9CLWkzRXpJbDZYX09OcFZHTDNOaVcyZ1FuaFZjY1lQM21KWk9KZUFpWnBfN1BSSTZvRFl6UTdSN011ZU5ZTnYxODlmN3kwRGhn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-27T05:38:42Z",
-    "hash": "67cf745c8be7e3d280a56a9b0d104eaabf5d3650cdabff340704512fd47f0f92",
+    "published_at_utc": "2025-10-27T06:18:43Z",
+    "hash": "9ac29c986fa450d365d390fdbe5533eabe8db1af65d8d387f824a0c3fdc57d24",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) Price: Whales Accumulate 218K ETH as U.S-China Tensions Ease - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcy1hWllNUDd4QVdHVUVreElhNVVMSWdFMkxwTW1pQ1BZZlpjOHFkTHFSNUNCSEJwZEd5U01aekhFMUl5S2d6c3NXZWJyck1YbnJSdTEwZk5QNUR6RzNNOXJiMXhaMnRIZUNsdVV5bVpuRmRvc1QtV2dnYmNaTXJ4X3AwVDhGVUJNQ3lqMWduSTh4RlNPT1RVUlRWN19JUQ?oc=5",
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Why RBC sees limited upside for Unilever despite ice cream demerger? - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1N5enVUdFk4dFkwSkh2cktKbWpmamN6WHBXT3pJdDBxeWo5X0xDc2VXSEg2VUswNHZDZ202QmNMaG1HcnpINDlJTmdET0NFZE5EZERfTC03U0NYallaX1VsNzhTZlJnbU9LZlBnVGxGSU0xblhJMFBmNGF0eUx6eDhmM1QtVnZkTm02YUI0dHFMcFlhSFlrYWR5X053R2VFeHVxRUNHc1BCYV9FQk8xQUZiR3laeUhJR2djTWhkOUlPQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-27T05:38:27Z",
-    "hash": "2bca0bed20ddbc4b4c71918300ad93a2b208f3f86311bfda3807d1f5ee2d1c9a",
+    "published_at_utc": "2025-10-27T06:18:11Z",
+    "hash": "18466d9eab3f6d115dbc7d4bca8213b18f06c414ec408273781847b6938c7bd1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever, L’Oréal ride India’s ecommerce boom - Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GazQ2aVNSTElKcnVrd1JuUzhxeU1XRzFENVBaRmFQb3lqdVlaOXNvX3AyVWxIMmQwV3hzQzB0OVFSYWc3NHlocGdsRm5HaDVpcTlfNG1TZXJXeWU0V3F0a2Fra01uTWV1NWJacGpCSUpjQ00wbDYzdHZCUGdYTzA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T06:10:00Z",
+    "hash": "f52944055110c77b3d4f3ff1899a09ae689c980a8760b10bf0393dad6efffa96",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Watch out for $2.60 to $2.70 XRP Price Range Today as Institutional Adoption Accelerates - Coin Edition",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTdJOXFHSXlZd1JzRmlwb0xQdzhEajREQk0zbFI5aHM2QzI3ZU4ySHVLUVNHNkJ6cm45S1djclRZOUVsMzd1OEFyVFNxTVJTaHRyeFVSdm1pNWZBMjh3REduWkRxcDYzZmpiVHV6WHFnS2ZsdFNVaEdfbVFoNkpIZ3JITEdkVEoxWTJKOFRwQXF6NWlBeVR1Yjl0VXFsYWFOeHpadlRvcmdHNVNkM1BUUw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T06:05:00Z",
+    "hash": "2e0b2ca8ffba03f8657fea05d09364b8552a7d63d62f5f3681ff684e5a45803b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "WazirX Barred from Redistributing XRP as Indian Court Affirms Crypto as Property - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczJMTE1rQjFzbDhWMXBJOUtFV00zME9YTzRFM2V1d0xfeVhXNzdPa3FoMjBpMjVwT1hsamhDZVdmc1dNYS1hSmdlUzBlMmN1Qlg3aXVJMHlOdUpsdkE4bzZxNC12amNjQnRFZThnN3c3UzN2MmhJQ2JiX0E2X0hyTndFOS1mRUtfcU5CLUM2Z1pxNmVPZmt4MHhERdIBowFBVV95cUxNTTdDajZha2I4WWNDS1AwVThhUGQxcmV3el9lMmd1U2lwdGNyUzQ2eWZvenhBenc1Wm5GUGZoTnJVelBUSlNBcHhNSThyalNiVUxuS01EUU5kMFpxa2RodzdkOFpNRUNXS25hb3pxUjhHSm1DaE84aHRNNEsxVExZRGdLZmJzZUhOYTF1S3Jyc1BUa09HemJrMnJDTzB3YXFsUjVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T06:03:56Z",
+    "hash": "45243e1ada8332357d114c9e37e408bd48ed25254dd6cb840b47b1caf7ce46a4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple XRP Price: Token Gains 12% in Biggest Weekly Rally Since July – Time To Buy? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2pnQkFqaHpzVWNIODFkSEZiaDFnb2VxTDYzQU5GaWVnTVVJLTRJcGZUaklqYUFSN0ZwYlQxMWRHWXZzMDdyT2h6UThtd1duMkFWUzRPS3ZVYTR2MkdrSnJkckV6TGxSeEpvQXpkR2tfSzNfR0NVLTctMVNVS3dfWnRpSGYwMDNMT1hOMGhnNkZkRWg5S054M1hPYnZRS09wUnFVeDNn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T06:02:50Z",
+    "hash": "617c003aba3336213dbf6cb3a3af02cf07100841bf77e35b7dfdd3a686adb854",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "WazirX Barred from Redistributing XRP as Indian Court Affirms Crypto as Property - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTVYOFk3a2lySEY2YVljU1VnS0N2T2tpZVg4TjRWWWgwTXRWZXhGOEljZktONUZMVDRvT1RRN2J3QlNEUnlhRndYYmI5Z21XWVZVV083dWEyNEpCdzBnYkdaR0VTRlhvYlVvSEU2UUhQZndxN2VrRFIzUHhobmhXLWdIRE43SktHWVpCcDRR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T06:02:00Z",
+    "hash": "3cb69a2e3bb1938fa5397c47f2e3876fb35f0cf77d17b3f24bbc61735ed832bd",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "US Central Bank Validates Ripple’s XRP in Payment Systems - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbms5TVo2X0NpTkVWb2Y1UWRTdFY1QUhtMWFLUGRXVzZ2Q0pyT1JUVjI4OFQ4YWVLT2RqWlBfMHphaUpEcFBlM1J4MzQ1bkpwZ29yX2xJZ0NRVnpIUEQtN1hxek1NRkhUWmRlY2JVbXRlM2kwbG1hM2FFYWs3WjJZVHY2X29nMW4tVHRxemZGZmYwTnRhZGdXRUp1V3N5ZmRz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T05:54:17Z",
+    "hash": "fff05fee47872ee64e5ceed888d4feb61487bc82578a0d282937425fe292bd95",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO: Crypto Investment Accessible Despite High Bitcoin Prices - scanx.trade",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlJUdlFXOWprWW5MT0RDZ2pJQ1BWZ2JFeVhFMmw1ZVhMYlU5M08yMkRtM0JmYVptVHdlYjF3UFhRd1lLRjI5RU85MFJKZkhzTWRSWmlhTklyemxPOXRSY0pPOGo5Q0NQUXhZZy01REF6ZlBYTndraEhHXzVhRlVGcHFiSHBILUV4Wm9KUGYwOTdsWWtHSTRKTWJHeTJJOWhXY0tzN2dPSUpvYTFDMWE1TWVJekFTNmF4Z0ZrSzZLN0g?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-27T05:49:30Z",
+    "hash": "60485d960f0d531f5b0b5f92f84615d3adf2a12af4a0a388451edede15031c3f",
     "source": "gnews"
   }
 ]
