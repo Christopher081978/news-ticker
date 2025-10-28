@@ -1,92 +1,272 @@
 [
   {
+    "asset": "Solana",
+    "query": "SOL-USD",
+    "title": "Solana Price Forecast - SOL-USD Hits $200.19 as ETFs Go Live - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGdlek1oV0NHZ0hkSnBfbklBcnZ5RXY2Z1NJVVptc1pXTlNuaXRSS2hmQVFBWmQ1RXFfYkJoVnpfZlZFTmhwN3Y3MUlmbXFHMnE5SDlRME83QlVhWGlmS3YtTUJxTGhpbjJYUmNtNTJUdUk0VG9KSV9sX3V0aC0xbjJsNTcxZFpvU2FUZHlsYkoyNG1SdUJIWWNWbEx0U1pGWXpTaQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:28:36Z",
+    "hash": "5a7839f2ad0b7b0f92ab0ee07f0a85338982dbb55e794f198914e01b3b3cf616",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSMC Stock Price Forecast - TSM Surges to $301.53 After Record $33.1B Revenue and AI Boom Fuels 2026 Outlook - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWkxkUkFYRVNUdWZPemdGSTBxNThFUDhsT09wcGVaMmgyS20wVDVhdi1kbXhyTTlnaDJhQ2lzT0NERGl2LUhXWG5XRUJTLWtqdHRpMHhvREY0bUFFS0l5TXlITGZncWY1cG1DRDJyVVhZMkZqczgwRmk1UlJfUjU5OWhtcGJ4eFFiQ2h0V1JSX3BzSHRSSUw3b25IWVVnSzhBdG9mY010eWU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:28:16Z",
+    "hash": "beb5d2c13924c5382830b9434d29b11f70bd129c35de2ef268a395fe7e94f62b",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVDA",
-    "title": "Wolfe Research on NVIDIA (NVDA): 'Our total CY25+CY26 DC GPU revenue is for $360bn' - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSmNXdThPRW5RZW00QWM5QllRaV80Wm9kNzJkdk00RDdHQjhDR3FUYWNKQ1FxNXE2eXcwUXV4dVQzWUN0X01EejlvcUZNV0ZMY0w1VDJRMU1nX0dKN21IYVd4NzlvUU5HRDB6cUMzMS10WnlHTEk5aW9OeDdHZjZBWXdCZmdjNWZCb0JHb1lkalE2VURWZ09xa0pYX3VtOUJZeVBfY0h6Nk1UN1hrX0tZSzBKNkZsX3pWZy00ZFF3ck5QR2l6R01XdENOcnBLZkk0enNZUg?oc=5",
+    "title": "NVIDIA Corporation (NVDA) Stock: Gains 4.98% After Unveiling NVQLink Quantum Supercomputing Platform - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2doYmlWdWlleWMzaDNfTTg5bHRFbkFRM1p5S21IQnpPTjhKby00SnRucW02a0lKdjhnUGpyaXJmR0Z2R3NHUkVuakFEUkp4TzBBWDhtNl9ubW0tZ3kydG9qcEdGUmNZb0lfR25TWEJTN01XOThERDF4RzFIcTdDdm5MVVV1X2ZITzJHZnBpVUxiLW5CUHYzbFlZQmJ5NmlYQzhKNloyX3lKalg2U21mdDVCVl94TVJlS1AxZVRB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T19:39:15Z",
-    "hash": "81ab7059f7e648b30436fe88010378e5f6b752b4573d6a80d0d965522248b8db",
+    "published_at_utc": "2025-10-28T20:26:39Z",
+    "hash": "e91780c9842725decef8fd157f8ac2388c8d2f8a6f4480d1a6ae0c6fd78e02f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Blockchain Focus: DL Mining Now Supports XRP and BTC Free Cloud Mining, Daily Passive Income Up to $6,000 - North Penn Now",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZTVuWlZZcHhveVJQT1I1RTkxYXAtMlFZWktPNDhsOE9rZHpOMlNMRExaYkhkU0ZPOThFamhVb0szUnBBRDNqUWhkLWxyTHAwekxhVmtpWmgzWnEyZV9YV1A5RnI4RUVUczdPS3NzNWdqc1dqT2dJOXd6aVNvOXB3ZUEwelNJYlU2cDlab3ZYbUd3UWh1NGJtcHlxckFKZVRMYklaeEx5WVFWY3dtOHNSeF9FT19nZGExX2RuZ2FkaFlLMmcteWZjeFB0VTFSLXE3VnRFYkFVdXluUnNm?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:26:20Z",
+    "hash": "807a68b4ad2bd38eae2124833e3403c0f0c357a6eba51961bdadfe852a0aba27",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "NVIDIA Invests $1 Billion in Nokia - Futuriom",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWZ5Nl9LY2x2am1KVjQxelNIUUFlSllKTTVfSUxaWGQzYzBWZUdzNTNBSzRYdFZiNWJHSkQweVhUS0ZsU3ZkeTFmWF9SYzZkeVg4emdiT0k2eThwMUtwWWtQYlhxaFRlbmgyVzNCSkhMTlg4Qi16empXLWJxYVpDeVlLVFYwdmNLTmJ1aC14OVZteXhwbUZObGhCRQ?oc=5",
+    "title": "Nvidia Stock Jumps As AI Chipmaker Touts Made-In-America Technology - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGZ2VmNUQld1OTcwSFBFVjJ1RTlmSjR6MTFVZEVVQzNOMXFUZ1F3d3JvTzlWREVLVGZoTk1wY1U5ZlExRkFjYW5EdVNURi1BWVpiYXdnTnJrUXRvMktYbEhDZ2trUy15NW1DTHkzcXpKckoxMkpmWHpXTHZRMzlkOHdDRU5LRjBuaXhDcg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T19:38:55Z",
-    "hash": "33e0fbafcacf5ac2c96806c538acdf10bfff7ae21e425528084dfb8691e1de04",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "The Coinbase (COIN) stock: Slides as Coinbase Prime Deepens DeFi Roots with Figment - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3Myc3lyUHVDTnRnaDlyVDJrakVOMjA0YXFSZkFuT0lqWUlpQTExZjVPcEpsZVZia0ZIdDJmME8xcEdlbjU1YWxfR0V6Q1ZkMHZCWE9oNDVTRHlzdnN5Slp5RzRUWC1JM1RLcHR3cWFaRVNJdnJObV9IWS16bVFHYmNRMkJUcEdDTHZLMExySkp2eWhQZmlXNWNqWkZBVUZfWGh4YXM0bjA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T19:37:08Z",
-    "hash": "9676e3cdf8c40824bdf0a88a3a33bbab53123c04571046732203a459171d069d",
+    "published_at_utc": "2025-10-28T20:25:11Z",
+    "hash": "77b906df024e2fe7aa62e06d4b35657f11e57518f7d1f49d27192a1846ed5446",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Dow Jones Today: Stock Indexes Hit Fresh Records; Nvidia Shares Set New All-Time High - Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuY3FMZXhrYVJabW1wRzhVWXVQOGpiTFduUjVidGlYdzhuOHZKSEJYOTBSTnlaVWhmOUJWdFZRVDlpRlc2bEprakNxZ2JtbUItQVgwZjNQcVhMaUIxU0pxNUNxZlJMUUFTN0VYQ0FQdw?oc=5",
+    "title": "Joby Aviation stock climbs after NVIDIA partnership for autonomous flight - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWUtodDNJaEtpV2lRalFVYXpaS2oydU1tTDlOdjRCaHNkV0c0QnNDanBJUl84M0tZR29MT1d4NWxEQWN1dldqdXV1bWQzeWM5aXVYOE9NenEyLVZwNHRaVWtUbEs5SGNUWFppUEs4WEJsR2tNMHlkQ0kxNG1MdmtHVmJMSjRPVTJHNjMySTd5TDZVTHE1bDh5Nk84TklRaHdKanB3LS1xeVhNZDdhUGJCZFF5bmZ2RndjWWZ1SmRxZ0JvTUFkNVNUV1lyOU5CSTFK?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T19:34:49Z",
-    "hash": "5938f77acc4c44e5535e5c50ee5ce037af46ce60d120760b91dcd5a01e29f2e1",
+    "published_at_utc": "2025-10-28T20:19:20Z",
+    "hash": "62c0eddf00b367a2a9c6674d6424e4083f961319a3df33c87ef54f1f9daa2dc3",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia will build AI supercomputers for US Department of Energy - Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdE9KNVUtLXlYd1BrZ1JfZ0d2X2FmaEsya21pd3QzNGFSTDJtWjhQcUpzQ0hEOE9pb3RYZ2V2ZGRjTlRGYWpTc3JlZDBXVHZmcGJLcEF0NnpKamNTOUZIRjdQeHRyN3d4TWlNSHlxUUJ5V0hCQ1ctWG1QWkFYY3k3V2Y4RTJpbWt0d3ZLam1iUjNEdTRSQ1RfUzctSTNsTzQ2dnVXdlFkYW5BOTl40gGyAUFVX3lxTE1DYTRVWUlrZ3h6dUN2LVZLb1hhc19Cc3V5MklrTHJDODA5NnlGY3l5eFNtUVBycXoxWkVvVTJJN3ZreVdrLU5uaVJjM3JkS2t5MTN1bDBYMmpmY2dfMjgzZGJVNGFLNFVXbEctZm1ZeXJLaTZtd0FWSTJoTzg1MmhZYTNGMF9sZTRiTXJJZFNDYmc1NDYzamdsOTZoMlcwUzhKMWFjSkdXdzNzU2Q2dzBZcGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:10:51Z",
+    "hash": "9f33662971048e6e0a04c99815ab5f61817497f527f33c6f6c4abaa296b50e05",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO Rebuts Fears of AI Bubble as He Lines Up Partners - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVGFhMzhKYUNJME5xd0R5T0FwdV9VbzFYaUk2ejRTOEtMcXFZaHljUEdhbE9BQTRrR1lhS3F5bkVBenljU1FyZ0MwTmduZFcyT1EtWm9RUDNtSTdQbVhQMWRPU2pvMzhOOE1ZZUo1cm5WS1JXSkFWbVUyRGx3TUhIX3VSYnYyWjFBOW9BcU5ES0V3OG1LazhURzZReUNwMFV5blkyR2NYVzlJd0x0QlRvZi11SnQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:10:11Z",
+    "hash": "05104083781d4f2766634bac66cb88cc1c7186c6fa0f3bf96517783245268b74",
+    "source": "gnews"
+  },
+  {
+    "asset": "Sprott Physical Silver Trust",
+    "query": "PSLV",
+    "title": "(PSLV.U) Investment Analysis (PSLV.U:CA) - news.stocktradersdaily.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMU9jT0k4NllPb3JIY1J0YWo2Sk1LSWtUUVVnRFNBSmhad2lYdVZxdkdlOUdkb1I3YmxQTVpSSDJWRm5aTlJWR1AxSVEzVXRnV2JxREk5MjZXTm5Cb3hEZlJVOEFQdzVENHRKY3owM0JfVFItRWFRVXVXWWd5VnBzNXZCMnZjWXZmTTVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:10:02Z",
+    "hash": "418f937956e3cab5322769d5879a89e1b081ea404b560dd7d48b120f6b091635",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Inside Bitwise’s milestone solana ETF launch - Blockworks",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGdWcwQ1dWQ1ozUGtqN25zZlA3MVpiNXdrY3VPRHFtbjlFVWlkY01xSlRoNnFuVzJhdHpxbmpGaW4wUURBRGdad2l1dkRST18yTXJMQjVzM1p0ejhVN1ZacmFn?oc=5",
+    "title": "Western Union to Launch USDPT Stablecoin on Solana in 2026 - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWFWRGlMM0c5MzFQQktndkZPWFYxYi16dUxiVzR0N2xFeTVnVFZmd0g0VWo0OWxIYWk1aWdudkxtazBsVjRURWlIbXR5RGs4UjBOa1NSSEJHUzVVLUxWOENRUFpQc3M1aTJyRExSVGhvYmJObkJ6ZW05U1paVVNVd1FxNTlzY1NESzlIWWdfbw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T19:33:21Z",
-    "hash": "3c2b67cdd2b86fd103cb4cee74df15411683ca7028579facb16d2e9cbc468d5e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow, S&P 500, Nasdaq Rise; Qorvo, Wayfair, Nvidia, Tesla and More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxONVR4R3kwekVqZnEyVVh1aGVqeGRyYmo3LTQ1elk2dHptX0tOZTJId2hsamZVZV81bFJNelByQUl4TlZHZjR1ODRNRmFrNHpYMFByT3d0ZHFXNXdsUkdObGVUV3BnUGxtSFBpLWVFMkkwR01jVFB5cTFrSjZranJQWncxOTNWNTFyajR4clJJc3I4TFFSYWlVTGZSSGxhMmtMZllGQ1dzcXdlSHZMRkhVcm5PcU9BaGYyLWJtTlktUzlwT19BX2VxUzVxSDNmSXlEUHA3bXk0LWdYRjJwLURUbjJzWS1iM005dXJ6S0U1M0VMYXFlZGlkc0lRc1dTZ1pfdFRsUWpqc0dnWEpiRnZJMmJ2bVZOOFpvelNDbnBMb2U5Yl9ybDA1eV9IUF9wMGo2VFpmajc4aTNxN0tNTk42N1RIUWJqUkFEdnE3RUU3b3VJZzR6czhUdUNkZW1vR042d0c5NDhnTmlFMUhqZThBWXRXd0FLZVJRajNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T19:30:38Z",
-    "hash": "b672a1286815016df404ce5f75204b0afd85fbdf615b81f1b0c6b3440304e693",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA's (NVDA) CEO Huang: company's share of AI chip market in China down to zero - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWhMaGM5b1JES2FBdEdnUWtZMjFNWW90dmF1MFYyOENnWWFMYjBIV2tCV2N1RDY3RmlRS0hJVVlHTkk3NmtHYWg1QUxtZWNMcjl5TGxaRVVadF9ZSkY5WGNiaXZOSVRUbHRueGE3RThnSnhzUUpSRUVIelR6b1lHQmdWcWlNSGx3eVp3MUZyZlFXckp0VTdRWkg2ZC1CR3lfNFEzTDZudEJiU1cxek5XSEZKVlF6MnVYdGoxeGtQYzlfQXFjaWhLMm1DbnFkb2FGVi1PLXpYT2JyYUxGLVd3SThqeWU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T19:30:26Z",
-    "hash": "007095ff1ed6f1bdb810ebc10dc1e90022ca83acdc21456b0f3103723f423043",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "CrowdStrike Stock Climbing After NVIDIA Partnership Announcement - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzZYRFZnLVFSLVZZc01waGM0UGlVYTFmSUdHbkkwMVNHeFM5YTJpZnVfV19BNkR4a2RMNWtraGxua0lhZWVvMXZ5YUh1T1hZTnBVLXJxZmNZQ1hNeGNxVEZaSHpkam5aelZJZzdYMG9WRkVhZ0k3WGZEX29MdC1BN21jbnByOE8xZ3Y5QUluZUZqQWplQ2xJajlaLUdZbHhubmU2X3ZfVXpYd2d5R2Q0Q0ZuekRFZ1dlb2hNWVNObnJLWXM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T19:28:28Z",
-    "hash": "4f507b1e98600132b11b2e32b3b16ba0d4ec03c456e98e92197d28cb8fec52c7",
+    "published_at_utc": "2025-10-28T20:09:34Z",
+    "hash": "cd4c159f07767a8a304558d581f9619309fb2608ee4fa2a9a82109ab7933a3be",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "All eyes on Google Search revenue - Sherwood News",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14WVpEbUhRWVVhcldOUHhfbHdMdExHMV9GLS03Y1RoZURjTzcyMHlJMldLWlRWUEh1aG5TVHpoNHJvc0pzYUtGbjhNeHZmTVVMeUVZYU5ETTlIMzNOUUdvTGY0cjRCYnBadjA2RENn?oc=5",
+    "query": "Alphabet Google",
+    "title": "Alphabet Stock: 3 Reasons to Buy This Quantum Computing Leader - TECHi",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBTkNHNzA3NnN5OE5NbDhhdnVPaHRBLVBlcHpTYU0yR2JYYzlfSVoxaWY0elJBNEFCNDNTSzdBdF9OUm00ZndjaVl4dVhrTHgxNHY1dndNeF9Nb2JyYmJPLTZpTDRlZGVWQzJHTzg2V0YycWFqWHdiV3NR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T19:26:05Z",
-    "hash": "6d4f1402cfe2aba7d563699c70dbd040f8bbef99ef80fd02eb9fcd0cfeb67b9b",
+    "published_at_utc": "2025-10-28T20:09:03Z",
+    "hash": "7ac8a122dce7697a72fb8560049b1c959a721bca8a7938bf076e4ef36d602fcd",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Joby (NYSE: JOBY) and NVIDIA advance Superpilot autonomy using IGX Thor - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMDc0RkNoV0JEQmtHcTVNeHNoS0NNbVBqaHR4TFpLSzNpRy1zVU5HR1FMY2ZzRFpQcUZESGFfT2t2WHNJVU53SVIyUEVPb3liWjRFZ3FrTE9TV0VKei11YmU1My1PeVYtRjRKREJhVjFydnhVVHE5QkJoZldWVDVtTW1fVmpvOFhGSUpFczJjYWNUZzVZd3NoNUltTFpaOW9LUWE3NklJUDJVeGVpQzRMWmx2a0pHZ2M4eFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:05:00Z",
+    "hash": "4c76aaa3e44e3dc54a645db6e616a854948d408e1da606f926bef15b68cecef1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock market today: Dow, S&P 500, Nasdaq notch fresh records as Nvidia soars ahead of Fed rate decision - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVdwbnlGLWExVFpYSXhIYnNtYWFYNnlXLWcyblJKWmQzNE1BdUpDeEIyWFkyTEJTNGZmVW5zUjZUbC1HVGN6VmctZmVuTXVaMkE5S2RkQUFpemhYTmV1SmdvOHZnckF6RDkwdHRvLVNleXNId0FwM093Ykt3SzM5UVp1NGFHWV9YUnBjWnRCeWNkaUxVbEFRZy1JZ1NCOFNpbV80eE9NaWZlQ1QxTk1fbjM3allPQXJJODNoYktLbFZFTWllZVVmVTFKUXBEQTdUcnRoTDVWaU0yM3gxOVk4QU9DaWg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:03:55Z",
+    "hash": "067b393e0d1faa49cee7857ad77d071eed1bd88dcb95fba57916adcb23d74a4a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Wall Street indexes post records as Nvidia jumps, megacap earnings ahead - MarketScreener",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVjk4dXluYVNsNG55SDdlQ1FiYXFfRW1qUU11b2hYVjU2WGJwQWF3UmJwdVY0VVA2ai16R2UyN280V2ZxMU5QR2pZNVh6a1M1Z0Rqek50MUZsV0pXeVhFVWRRTEE1dEJkNXRidFRjZEJ2V3FRbm84ZDZZSUdsamE3VjdvRjdrWHNLOXZEY05GOWQzZGduRkw1NlBPUG9VSW1SQ01taU1NSTl2VjJ0Zi1LM2IwMXZQV2hDRnNzZ2Y0UndBUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:03:22Z",
+    "hash": "ba5c69abffefd94921f317d9388e7065b0b841ab437f2376f66a5e048348c692",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth wants to employ more of its doctors - statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEhfUTU1TXBFaTJ0OGJ5dHNnS0kyV0NsM1Z2NGpNRWlqMTBEUURoRFRNam91aVQ1cFcySE0zckl5aDZCWDJPdzIzVEllWjFOSmJMTWpjTVJJS3FMT3RvUlNSYTdaUERROXBRV3RCZkhKZEw1ckVoTkd0SUI4TDI5a2kzakNjRVgwYmgtbG13?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:01:41Z",
+    "hash": "e6fe69e8e349b3607686a4d19738db33b271a4e5f2fa8bf973e33830153c07c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction and the Best Cryptocurrency to Invest in Now for Fast Gains - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenRYMGZxWlN3VjNvWnpwV1BxZVplVzlmZWJidXA0OUVGTVpCVVdFUjRLWmtIUXhxdlh0MmxRVElCVGhIdWxYQTJNelY0SEQ0UUpWRVQzNTc2XzhpUUo2dGdYWVNPWVFyalVia29mRVZRZ0tPdFBldU5sWHY2RXFqMkZPTUd6YjRndFM0c3FHYUxHZER0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T20:01:00Z",
+    "hash": "ba133294a99a0d04ae8a90a62147a211028fcbccd47458865b335c4cc3ef893d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Evernorth Moves Closer to Nasdaq with $1 Billion in XRP Holdings - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHRGaElBRGFmVHRHZkh6bDFLcU1odERNNU1SR216STJQc3JOdHlHUjl1aWlVSmhpVmRIMFdORjVrd0xWTF9kNjktLWRwaElqUktPX1huZXhWZFdEcUhZLXRsUDM1eHgyV0R6VjAxdWxoTVlkdDFfbkZWN25qZ2xVeEU0TUJpRWxxTEJCX2p3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:57:04Z",
+    "hash": "c7627e592e692d5040099ca24b567ddf53e82f72a33bdfb42018523951530fb7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Defends Key Support, Can It Hit $250 in November 2025? - OKX",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWVFwMGZ4ZzE1WGh4VVY5RUtlcFBnMVppZWRXNDlwTU5xT2s4cDJlZjBMZ1NIdzdHanRZQ09PNHpGeHhqSVlwNlJia3RhWlVpdFhjT0ZrM2JGcHdPandoX1I0ZjdCVUduaTNtcnJUN0VKZ2M0dGpVOUNtUHhSWnRiODBZeGxGellKNG8tRE5xYzFSWmJXTnNxOVk5by04SXVTMTFqWVBUcm9aemNXVTRrUTcwdkNkNW9CNnBwTWhYeXJIaUZTOGIzLTJlaThSLWtsS2h3WDV1cm03dXFOdHR1M0tB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:56:29Z",
+    "hash": "8598a98277baad9396fc527b4ff87d0d371279b69d61f20308bf25dd49cfdc10",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Revenue Rises 12% Amid AI Investments - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzRtV1llcXFXUXkzN0NGNnlnSkY2d0ZkWDJLS1FrQ21oRGJHby01ZmZTaV96MHZOdnFab3dCNXlDVzROUmRPTE9DODc1WnduY1dXbml6Szk2NzFPREhxMkMyRmotNHZZSlFUeUtHYnM2SUpSaXkzaUs2NURlX0JzS2MwS0JiVkdINVBfN2FFbmk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:53:04Z",
+    "hash": "0cb7e5ea4b70d94303acf0aaf4b824971b1489cff6e33cc15b57dbd663b60d94",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "As it reaches $200, Nvidia stock is less than 2% away from $5 trillion market cap - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0ZEQmdhQ1I3eE01OVF2YnNuWDliak1WVUJxLThfZHZscVp2Q0V2NkEzX3RhZnpvbmhucGtJc2x3UGM0ZnFVZGRGcTRlN2NmQXdMdzZNc0pkRy1MWTZ5U3E4eGZVa0JsdG9YNklXTV91S3Q4Z1Mybk5BcEllMF9NeThsT2ZSaU1LVG5PLTJEcmItX3A5U2l2aHJ1b2g1SlNzRkFVZUlKalRQTVBH0gGyAUFVX3lxTE5GbzNVNzUwenBvV2xZVjJRdkRkdFZpQUVEYmt0MnVSYU5rRkxYNXdQc0FaVDFJQWNnN3RNNjgxTzZGbkZXNEl2eUgwRkFiN2RLaXMteG50S0kxakI5VktXZE5CMTlmR200dGNpcUdueURTSkF2REJ2ZDVaa04tWUg4Zm0yei1VUWI2OFpYY2phbVVkMzRNQ2lDS3RqQXNYZlVWb3hJTWYxTkVWTURDY3VxM3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:52:43Z",
+    "hash": "edc470aab1be81f69b9d98ca6ca2fcaf8ef14b9d517919ff28d22ca671c42c60",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nokia Shares Soar After Nvidia Agrees to Invest $1 Billion in Finnish Telecom Giant - MarketScreener",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNGpKa200QUl0QU9YQXowaHh1eVZzLVJiaVpTWk5YWVVZUVNBMXJ4Qnl1MEl2ZzhaeDBrcmlxRjdKeXFZUXNDWW5PbFpJV1E2d0VxdWVpNFprb1NHZGVVNEdueElmUGpOdnZSUUJObWdyS2lMSzA2UEtha2ozY2s5R1dsaUFIeDY2M1BnblFXcGVlYUlZTjY2eDM2OXZrUzBjbVdEN2VFeDU0Y3hTdWZubzNieThqMWFBejQ1YmtTQkQwaURFZnE3VXdtVlJlaGJw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:51:12Z",
+    "hash": "ae9fd383701992f55f7fb83bd213b3703de29ded0f2cad2ed1eb30720c9fde8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, XRP Stay Range-Bound As Ethereum, Dogecoin Slip 2% Ahead Of Fed Meeting - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVVhN2lyTHBBa1RZTEJfN0NHZ0N0LWJKamFzYmFDWGFvV2dtNzJuRGRGaEU3Z1BsbnBzbXVpbFd2VkwtdmpYWGZtOWsyVHIyeXN3VkF3dUdOTmxfamdJbE14V2dURF96UXp0b1laU0VLd1JKZTI0T3hQS2pCOUNyVnVILU1fbUhuWDFtdnRiQUdTX3FEejNhZjdUX2tRQTNLMFBqYVhUaGFFdHYtblRtaHN2dWZVTU5jRHprUGJjdWtfVTY4VnB6OFdSOGhUbm9DN0E0RjN3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:51:08Z",
+    "hash": "1ddcb9c38b27e7adda85a43c42741228eb3750eeec22a7ef7ba384d7183329ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin, XRP Stay Range-Bound As Ethereum, Dogecoin Slip 2% Ahead Of Fed Meeting - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVVhN2lyTHBBa1RZTEJfN0NHZ0N0LWJKamFzYmFDWGFvV2dtNzJuRGRGaEU3Z1BsbnBzbXVpbFd2VkwtdmpYWGZtOWsyVHIyeXN3VkF3dUdOTmxfamdJbE14V2dURF96UXp0b1laU0VLd1JKZTI0T3hQS2pCOUNyVnVILU1fbUhuWDFtdnRiQUdTX3FEejNhZjdUX2tRQTNLMFBqYVhUaGFFdHYtblRtaHN2dWZVTU5jRHprUGJjdWtfVTY4VnB6OFdSOGhUbm9DN0E0RjN3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:51:08Z",
+    "hash": "1ddcb9c38b27e7adda85a43c42741228eb3750eeec22a7ef7ba384d7183329ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin, XRP Stay Range-Bound As Ethereum, Dogecoin Slip 2% Ahead Of Fed Meeting - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVVhN2lyTHBBa1RZTEJfN0NHZ0N0LWJKamFzYmFDWGFvV2dtNzJuRGRGaEU3Z1BsbnBzbXVpbFd2VkwtdmpYWGZtOWsyVHIyeXN3VkF3dUdOTmxfamdJbE14V2dURF96UXp0b1laU0VLd1JKZTI0T3hQS2pCOUNyVnVILU1fbUhuWDFtdnRiQUdTX3FEejNhZjdUX2tRQTNLMFBqYVhUaGFFdHYtblRtaHN2dWZVTU5jRHprUGJjdWtfVTY4VnB6OFdSOGhUbm9DN0E0RjN3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:51:08Z",
+    "hash": "1ddcb9c38b27e7adda85a43c42741228eb3750eeec22a7ef7ba384d7183329ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Alibaba’s Qwen AI With Explosive 3-Month XRP Price Prediction - Could XRP Hit $4.20 By January 2026? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQlBwQTJMLXpKOHoxYS05M096OFBxbTR2VFNKWkFpMG9JN0Z6VHlRMndsbEFxRmVBTGx4V2VSYlp1YXdWWjdFZnlheFJtNDBlUE5jNGo4dDdIYUEyNjRrMnFtbGRuOWpSSjNNcGlraG4xNUpMOVdscG5oVndwNWdPaEhLWGlsQ0otcW96ZGN6aUpDZGhueTZHVVYyTkJ6dmhwMnRiV0NOd3huRGR2dHA1dzQ5ZHlyRE5YSk1iRXpQLWZsQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:50:42Z",
+    "hash": "e5a9bedf16a2ae02c9eb5e0a4c1006cd9c36e9ebfbb659b49387a42882b522a7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Uptober Cliffhanger: Will BTC Close the Month Green? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLUtjTjI4Uk05Z1lSZTN2OFFydFlNLThfUkRDS2lMbFFpSkpMUlpEVEVmVHUtbUMzNzFzaXdpNEI0bm90elNvYXBZdjNmb2x6NE9zUmJLQzFBT3p3Z0hISnM3NnlxZ0xzZWF0aXVSeWhKREFKSVZkanE4RzNFaC1iMnhMTUZ0UUdReDdN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:49:11Z",
+    "hash": "ae28d738c1a3896b783b288301bd9467433daaecdc92517f95ef5a7ba9c5d344",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Uptober Cliffhanger: Will BTC Close the Month Green? - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9scHU4Uk1rUjRJRDlEY1VVcHBhRVBZYW9WdFBYTUkwcVp4VHFsOU1XSFhjWjZucFlhaERlT21aN3F4eWx4aVNHWkpBeE5vUDZvdlRNeDZEc3p5ZG5YOUhMbXZuQ3p0Nk5wb1NMUEdNWkJCdXZna2pv0gF_QVVfeXFMT09acURobXpVczBDV3ROcGVSSjVILWdTNjR3RTdBMWNGWDRTU0RZdmRLOTZybmFURmVTaEVpOUx1bi1CZzctenJuWmNHeW9SYWhTcGM0d29HVl8zM2pxa3MyYWxzcDd5cGtWd1hjUGNOdDVEOFZTbk9SSGE1eEx3VQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T19:49:11Z",
+    "hash": "1d2c219ce0912228b6946ed297ebbe97d33a5dedddc0aed9a2a14219398bdae4",
     "source": "gnews"
   }
 ]
