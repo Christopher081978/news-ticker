@@ -1,52 +1,472 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Cathie Wood's ARK Invest Sells AMD and Shopify While Adding Block and Robinhood Shares - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV2hDWnpPSGZIUzZ4Z1ZPVkpISG5iQzVSRVdRR0FPRWxOVEgxMFZIQ1JWa3d2Rm1JZGJLSDVBaTMzdWJNYjF5a2d1OFZRUEJLNW8xamlwSU1LOFRfWVFkNExzMGVEaUJUOC02MF85dGJLUU5hRndsRzVtSHZVOGRjaXh0cjAxMDR1RUZDN0Eza1pCNTAyVG1hVTdXNVlqT0lQNVhuZnZVZHpTLXhjMkY0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T09:38:16Z",
-    "hash": "92e73e241af4a34205d208f92ca3c8de042fa3cdbb9d5b3fdca53ecaded28438",
-    "source": "gnews"
-  },
-  {
-    "asset": "Panasonic",
-    "query": "Panasonic",
-    "title": "Cambodia Wins Prestigious KWN Panasonic Award in Primary School Category - Cambodia Investment Review",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUZZejlld0V0OS0tMnNDMzMteUduSTNiNUsyZklnRFltd3lfUEk2Nk9mMFI0ZF82MWx1bXVwQWRfbjhzVGVweVlnSWtWOUNLbmxWQkp3UUZqYThRX3BEQURWTUR1cHRhLU1TekFNeXJRVkVTVzQ2Q1Zsb1drcll0M0c1dUZLU1RfMjEtV19qcUdCZHljUF9SLTRaUmg2THpuc0xjaTNVNnlWVFlpXzc4RXpoVi1KQzl4VEQ3YzJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T09:36:12Z",
-    "hash": "4f78ea397d95978bdb98c43ea8404aa6382f6e9ecc0fdad651d5401403eb2aa9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ETFs to Attract $6B in First Year as SOL Enters Top Crypto Assets - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzBCamdSaHcxZmpZNWRpM2oyTl93MDNULWhMOUVIT2hQb0RHaFlBc1dGYjVRRnFEWld2cWdCUG9CWW1MbnJNNVFBdXo0OTBIbUx6Slo5bWRPc3hYenpZd3BFVzhpcThWVGVMR0Z3V2I3MjhpU1k3Tnp2VXItMUZVQnM3cXMtdlFxeEo0YjZpZ1cyd1V4elFKWXF3cGM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T09:35:32Z",
-    "hash": "da292fcd5f2a288f14758a03d765d2c334a3bc7657ea2704ac764286a1f31b55",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Weakens While Traders Eye PepeNode (PEPENODE) Surge - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3MxaE1PSDJNV0lWWF9RZ2UyZFlrOE1jY0ZpbEpaYU1ub3YxbDh2V2hkWmUtV25xekp1TkZHZW1CSDdxUFMyZ2tqblFoLXEtUVFSYlV0UlEwOXZ3bXAwWUQ3TWZuY1pDbGZPTDlqYml4N1ZaWjNFbk80d1RwNjRyYzM1X21ERzlFM3ROdm96a0VnckY3SUZn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T09:33:44Z",
-    "hash": "a16fd24dde2d5b1d2756558659a6620166abbefcaaf21df53829e09922151be1",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Hyper Hits $25M Milestone: Is It the Best Crypto to Buy Now as BTC Price Flatlines? - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHlDRmFyZ3o4WXhRcmc1U0Rrc0toWUFJWjRrQXVSMnp5ODdxbmFEa3ctdTR1SHFob1ZBYnRkUXZWN0FlcHBWT3pWazZaZzlSVk9WNWVpOG5JYzJEVjlnNFhqMHZFNHFDRDI3UklKU3ZwVUdIQXU0YUdTLVgxaHRic3NDTFlnZXVRNm1CajE1YlQtSC0wUElOamhLdWZwY2ZCcDI3Y1c5UERwbjc2QjRpbWpZa1JQd00?oc=5",
+    "title": "American Bitcoin Corp (ABTC) Stock: Fueled by 1,414 New BTC, Value Per Share Rises - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGREMEJuNUZqWFl3bFViNVV4Y3RtX3FHLWVGU2tJcERLOWpNbDVZM0lRTWdqRFpNa0ZDRG9GVEw5bjRhY0hqZEVUbjZGX3E2TkM1NmZob0hWOGZzaHJ6ME1QVUItXzRmYUhFVXFvWXZReEJMdjZsNmFaTEZfRmJpWDA1dm1VNnpWNExMMVRzS3puaGg2YUlDaHhIY2liLVd4TVRZRw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T09:33:34Z",
-    "hash": "fc48afdacf522740ec93a630263a33197d01d2c4233011742ef79ff98ee45e75",
+    "published_at_utc": "2025-10-28T10:27:03Z",
+    "hash": "12403a95e5e54e05ac79b5d6c1c5191b79aabf5b0103557beb44e402bc083044",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth shares jump after earnings beat, higher profit forecast - Latest news from Azerbaijan",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRDF4dmpoT2lUZ0pCRE45VzNXejY5emdaeFQzbHJTV25zanZuZFV4YkRvelc1cUNsVEs5WHMxelRpTnJwcjJpRlFHNnZVTG5pQ01pS0x2VVhnVkV4RkIwbnRINVNEeEROemlTNV9zbnlCem55NDFQbHBMRnQyb1RzZl80Y0llYXNvWUh0VEVmS0pKQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:26:58Z",
+    "hash": "a582a6ac0fc8399982888c3888ccc911b02625d568a7d436777e57bd2add57e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Says Bitcoin Treasuries Are ‘Ghosting’, But Two Firms Just Bought $205M - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaEYyUFJkY2ZWYzZtSkRzanQ1UDZqNEFlem44RnNFQ1hNOGRLNG1aSlFMN3dsbEI1TlloUGhVM3Vzb21ZeDFYaFdtTDR0VWZmaThRQ1hXRjNocXhrRXhibHkxWDJYWXVubVRyc2tfSXlmU00ydlgzRi1sMGJ6TVpwcnFTYzVMMFdhS3V0dGhmQXptd2xwbW9lWXNGYWNMMGdYdkdfMkVDRVY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:18:04Z",
+    "hash": "9ec3ea9715d1085b93eb8b651d6a7a679adda609b344732bab80a45037fcec5a",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "Motley Fool Asset Management LLC Has $6.46 Million Stock Position in CrowdStrike $CRWD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT1l5c3NWQ3c4OTlOdktaTmdmdmg0LXVLZGlLTDYyUkp3b1AyNWVoTEdZWUEyRk5ZT29UaTBrUklLcXFYYXg3WmVjaG1pY0lXWlFBby1lLUxueGRNOWJIWjVpSXNpS0prNkE0TW5DUjhnX29mOWU4LUkydnVjeVcwM2dpWm1fR244MzJTV0gyMG9CWE5aTnp0Wmlid1pHSGE1N1NNdDZvY19HT1JWMUJPdTJaUUpiblZjeUdwUFFRZXpFMEJYWkp6M21hVWlBdV9OcjczYTNTRHppM01n?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:17:30Z",
+    "hash": "82a2ffe885b59abd7bad6be92e87c6f19866410a7171f734f545434c652f0b40",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Motley Fool Wealth Management LLC Sells 5,392 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeUJCWHJWMVZublU2TUhkTDVTNXlCV2pLa0JiSkhoYXVWU2xScE9nMFpoUXotekhRaU5QLVdyM2dwT2puRVhBelZWMl9QQ181MS1EcEhwbHkwWWtfbUVFMDdTanI4SG5idm05blp3Si1tOUZmNE5zNHJnNHNrZnVRdlJuSW4zVXdyclNibGpQSlU3MVJ5YjdpZm1KWWROWnZBMVhJS0czekRjR1VjVHVqX2VZZjk0TWVkXzhuRV9uWUdWUWhielJqaFBQUEk3dXIyeDRYcHY5M1prLVZyNV9VbzlGS2hPSjVoUXl0Uk1XZDVGVEtkLTFnV29n?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:17:30Z",
+    "hash": "6477cc10c332b462ccc0e6c0ac09d22656e74dbf4d74b90e1907559ae337641d",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Unitedhealth Group, Inc. Q3 Profit Decreases, But Beats Estimates - Nasdaq",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkIwYmJ3MVBSOTNJaExNNkxvQXlYa01xUUhlbE1NZ3RKeFRuUjBZeFVFeW9WUzlZWS1RNnZGbWtNNC1ENkY4bjRtaTJmMHgzZnRpZEw1dTBDZTVQMmo2MF94aDZsQ05mWEhrTTFhUHh0Q3B2NFdQeGh2WWZLZUJYeS1ob190UG4xMENRbERiZDlhd2Q4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:16:00Z",
+    "hash": "f718563db87445b3509e314d6272c4c2ef33ed00114492b14c0d45d94739a4e5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Is This the Start of a Solana Gold Rush? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLWI2WjBpVXBQZVlRSEo3YldtMUlWWmNMZ1J0ZUZ2NmVKdUxwNDRNWG1mYlR5R1Y0SmFncEVjZDB4RDViQ1VSU3dLeFpkVE5oSVQyRE42eVIyb0N2MzF6aUp0VzdIVFRkVnZ3WXoyamtuZlB1c1V2Q1R2S0RvQi1nTUVzMm1MMWp5M3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:15:00Z",
+    "hash": "84c85711fecfac3a9d0e4ac0761cbb295d3612ae3368b7f3c7ed42c25060466f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "The Best Altcoins to Buy Today: Maxi Doge, XRP, ADA, and Dogecoin Gain Momentum - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTWk1ZVRYRGhYN3RsZ1hLZ0hSZ1hGTndDTmxrX212WENsMzhRWW1WTVl5WU9kamE0VjFpV0ZUc1dUbTZmb2xUMVd4UXEzUkhSTEU2bnQ1UEYySW9GdUhENWpVUmR1TUhBdHc1aWVSUWRwRENycXY3ZlI3WTVUUDRaU0ZHaFpYcUdVSUxPZWgxcUo0UWZGS3VqM2FyZHdKdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:14:19Z",
+    "hash": "9b3af36b5288d3791ebaf93c4fc4061b974c332656a9afe985930f08e6f9c9d7",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth (UNH) Delivers Solid Q3 Results and Upgrades 2025 Targets - Tokenist",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcE1fVHlQX0xuc2cxYWdjSUtLNkprUVZNLUptWUluVjE3a2RrU0JXeEp1SFlGcGI4cmVYQ3lQcFZxT1ZucEhuSXZEaV85WGhHOG13N0hBWFRPZ1NyN216MW4xYUZNU2xWOHk5NklMa0FLVTJnV2FpcmNyTWVtZ0ZHcFlJV25OdHlTREIwR1FxcnM4R2Rw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:13:21Z",
+    "hash": "0fc363952557b5ece5de931417c213833b6ca010ae06b4bc07d218373abdfac5",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth rises on Q3 beats, raised guidance (UNH:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2NIMG50eHZ2T0RremE2UnNTdld5WlpCV1N3aUxOTVhEbEZnM1NxbUFCVl9NSlFDR0JQaV9DS0U5QUFUM2wtUlhVZGk0aXRXbG56b2xpNzBUQzkzZHZLUDRTTjU1SWtKbXBNSlFRS0JLN0F6cmpkbUVYR1ZJNUczbXd3WUJ0dXkwWGtLaA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:11:18Z",
+    "hash": "1fae2f1aa525b24ab69d629d23e45d84fd139411745acd822f1dae3d84cbc22e",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth raises full-year adjusted income guidance - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnRLYnR2bkFBVFFTSm42Z1d3NVVYendvUkc5dllhZTlIWDc5V2NtcmVnRGZIMFFLSVdRQXA5LTdoYXZsTkk0TWVoVEV6NWJlelAwNThMeGFrZ0FhTE54UF9nbllsak5IVkRlZ0ZEajEzbjJYNlVTenJaWXBUSjJfRFZ4T3hKOWZYQzBiNVIxWnJ6LS00b2kzeGVRd1dHN1hHTXhB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:10:22Z",
+    "hash": "f06b9d26044ea719566ebcec6d760b9b885b58b33f988690e99a63dfbf4d4515",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Investors Look to DC ‘Super Bowl’ to Juice Sluggish Stock - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFJIWG1qQTEwYXZJVnhnQnZIcTJUWjMzUXJZb1AtSTFwOWJWdFB6ZnZNb05Oal9UaDg0Um4zS2RLRzRYX3pYbElnYlhwZHdDWFRZeGM5UzhZYXJLQTRZbVBWVGh2ZlBOUlZIT1J0SmZaQlpMR2FNVDZTZEk0RmZRaFNtVGU3RURCNGMwMDZEYXpiVEpKMzhBcEV1VklnUVQtZVVuV1pUVU1LSFVubFZ0NlpRVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:09:56Z",
+    "hash": "d167a15985c4c96a987c39bc7b0d52cc50d74aa32795e307fe06635493337ed5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Logan Capital Management Inc. Purchases 5,658 Shares of Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEppWVFkOWEtY3NrZ2lKXzNNNzQ5ZTNuNEczN1laZGJUcnlFSE13RjB1VlhmdXpYZkZZeWFpZElBN0RvMWhLQTRPQVFpR1JNWXRPbXlnaVZYZXUxSzdtZWpnNGlueG9LdWItMG9rdDlKdXVDNDg3MHB0Nkp1RUhncjRrM1JuOGxXeXVxS3BMZUI4X0RFSWotSFlUWU1RdVhfaUJ5MU82RWo2MjZ0eXJQbjhkVnRIQ0RKbWJ3VVlZa2Eycmd3MjR3dERR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:09:34Z",
+    "hash": "de679602e48d0b803a49ed501666d04971364ac4de49f154398f9d1c2908cf7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Insurer UnitedHealth's Q3 profit beats; raises FY earnings forecast - MarketScreener",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenRLaGxJdmlKODBYWTNaQ2lkZW1KMjRrbzVjd1l6UDF0Uk9NMzNQNGhhZTVERE93ZXhWS25lZ0hQZUlJdlZMb0wwd3RwMGI0M01JMTVGamhWSERrRm1OM1diRzlaUzFIeUN6N1pVd1Mta095T0ZRQ0swS0FJaTVhSmtkWWMyc2lXRjRqa0NoTkZmSXNOU1V0MGZOelB3VEJ4bmViSXl0Z2NTUnlNM1pYakllQUx6ak5ZX0tz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:08:35Z",
+    "hash": "7f4564e8106c1f970b673cf453349f7216b09ae8c72c52da62edc994fa2688f0",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UNH in charts: Optum +8.2% Y/Y, UnitedHealthcare revenue jumps 16.3% to over $87B in Q3 - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQelFpSWZKUjNjMXZ0M0prTDJsOHc3Vm92eDFDMHB6eTBsMlJrRGJ6N2d3OHhhYVZDMzlmSnZZNFl5NG5GNVhqMWRzZjFIV2xxYzNPajZSMWNrbFVGV2FHVmsxRTRKMDdMS2RGb01BQ2RaSzJPX1g2YzdoVlZ0ZjV1SDg2ai1ndDNMZ1ZPRXJ6UjU4bGpXbzRnYmk4eU05SU93ZXctTnVKUWp2eTN3M01HZkxlSGtiak92czdUU2RmeE40QnM1T21V?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:08:21Z",
+    "hash": "b618cbb41caa83a705795c4186d2ce159f481f9f0489eb5ce700f040130dfc68",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Petra Financial Advisors Inc. Makes New Investment in CrowdStrike $CRWD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXpZVVZndENYYUctV2FqdGktZG1vUm5XNUw4WWI4cF9NaG5meDNiZ2Rtd21RelZ2TjNlbnZhdHZEV2RWTVAwZE9qY3VydEJoczVhTGNOTUQydEpVZ0tROG1qRmUzbnJfczQycENQbmpqT3FpeWtONHk4NExjQjdOMG1DZlc0blZra1M1eEpwemQtZlhKNGt1ckdUZW1oYVZHbzMtZHVLeTdtODBBZUFIZTNESkZVNTV2SWpiVjhMRGhhUllVMG1WLWJ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:29Z",
+    "hash": "5bf5a1f2aeeefccf6cc3dfc921760e8338fae1e35aa5d42068e58ffecaef1954",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Petra Financial Advisors Inc. Takes $895,000 Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMHo3N3VKOHpiTmd6aVd4QW95Wk81aERmTTBId25jS1RuVmRxWVhnejdXYll5Vkt0a0ZWcG01TXE2VENQWnBXWHAzRkZhQ1M5eGxfZTE5M1U0U0V5dlQ2c3RuWEZfQksxQXN5WjFqX2hBTXk2aXYySHNGMUh1SHVic0JvZ2Y5Ujh5TVpYdS13cHpVY1VRMk9jaFNpdk0wQ2FKcmlISXkzSVlJaUJYUUpCT182LXZGVFNBbDg2NnYtY0tON3E2Y2M4LVUtZ2tvRmNOU2R0NGxNcFFFOUJZWGFWN2ZsR2VkZ1JDanlYb3R2TnRHVkZzVUx1UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:29Z",
+    "hash": "6336d45f286e5b7d5ac4e4550b0652396b695ef48e554a19a1c1a825365a58d8",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Bought by IQ EQ FUND MANAGEMENT IRELAND Ltd - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUHBCOHNJc29iNnRuXzZCZ3NqLXZBLXhxT1R0VjZqYi01d2k0UUdsT1BveFNBYTlJYzJGRDVRYkxMeGtwdjMySlVHcjFpUEZ2RFdtamNfUUpPVjIxMWd3LU0zQnoyVFBvaU9nTFl3OWZqbHoyQ2V4VXhzYVhtaXJ3WXFhMWM4SWFvUmIwaThBYURnY1h2NUdRcWpYR2VDWlBCeWhVck5FQ1hfNU1NcTZEWlFyNmZqOVlZbTNnT0JTZHMwMkZsVGk0bm1RSzJNWnh2b0hDQ2ZTd2VSbmVHTUlxNHlPdUFGbWtpemxDdzFMMW9ZcXhW?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:28Z",
+    "hash": "a025cae3e30c1251f0cdeb7dccb1b2a71eac15f8dac45bd7c589d2d7619bdc41",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "May Hill Capital LLC Has $1.51 Million Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZ0ZtQlVpc3Y2MU9KRnV5aHdocVNEamsweTBsXzRDZFdWdzhPZS1ZYnplLUdMeHVGcGh1aDVzMkVMWmQxYkVUWjFqaE1nYkQ4cFZWV1VvLUV4ei00ZTA1cVk2eS14RWZmcEJMNlpHTC1QNmU1MEJDaGowWDk3SVZtX2VveHVtMThQUTctYTFNU3hWaEtaeFl6VXM0WG91WElHdXVOSmRlNjNaZkg4M0J5VDVXQzJpOXZXWWJqaEgwa29QOFhCcXNXQ3ZTcWo5UGNVWkwyeXZ0OUxJbUdJZG03SXp4bVY3ZzkzSFBiSHlsY3RBemotTG9uN0Nn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:26Z",
+    "hash": "838b2939cb654a7f20ca480198a907952ff85b2465401a110d5795ef41d875dc",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike $CRWD Shares Sold by IQ EQ FUND MANAGEMENT IRELAND Ltd - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNemlrTi1EaGhfbWVaZzZpOEFrME5zSVZrRC1IVUpTR1hUc2pVVmRCOVljal81anRvTWdhM1lkMXlVUHE4OFp6UkctakhFMEVGTUdJWEkybkpMZ1BmMUlvclM2RWtUM09ZR0VsaTlNSjduTkxUT0ZkcHpnTV9RdzRPZWNreUlCWkZYTGZxZV80QmRNNTVXYWRRVmZUNkE0TlUxMFBTeHRnU1o0NWJFZlE0SkU4R3VueV9ORlpCT2RPemhMWE8t?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:25Z",
+    "hash": "e10a6e2d6a8eac555212223d7e5bfbd691692be2fc4d9223d28c76767f6eb76d",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Lifts Profit Forecast After Turnaround Quarter - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUZjMWc2RWlsSDlYdHNIbWljVnpMY0NaUkFZN0ZnckE3Sm55YmxVMC12RS1zYlR0QmJmU2hNMF9YSHlqYUJsdmYxdWdHR1pCR0pxc0RKNjVEYnNna21ES1Y1bjRsRFFmVW91bV9BNVZ1T0k3VTFDUTEwWHdUUldnVUxrSDhLU21sRWg3YkpTeFo4UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:09Z",
+    "hash": "c35e9e3d75e59bc68598ea3b4b810292b9d6e93ae6e553fc9679b9998bc5ce2b",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Revenue Rises as Turnaround Efforts Continue - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPZU1MNGFDc0dWY3NzX2NvZnhvQlV3WmxISjJDYlhud1dYenUzQ21NMHVaS1UwRE5sNWx5bXI4R1hYZUx6UldhazkzanJ0N2lPbXFSWWZhMEpSWlozWE93LXMteHZoMm1BRmV1Yl9ZQW9RZWpEbzFHckc3MW1kR1BVcUNMMWlTRVI1RWp4VmU3VDZxY09BM2VPV3pGZmhEaVQ3bzl6aWhzRHBuaGJNZFNNXzAwN0xzQlVrdjBmUTU1LWJpMEpiTlNRS2tqVW5sNlMtZWN5Y0RDYnlreDNqYnRFODEtUkNiXzYwTzYteEk5T0EzY0cyZU1Ob2pCT3dMSEk3dUlnTmtUbnNlTU5ldkdNXy1xZ3ROb3ptekc3cU9TREdacF84UUVwMXhpN0tXcjN3Zkk4WERYRC1hc3F2aWpzcjE5dDczUTRyeXBjcl81ZGlMcV9XMmlVa2JlNEIxWW1PWVlCdERSdWd1Q1R5NEVtZ2VMV3ZnNERvbDJLYkdUdzIyYWU5Z1lVQmNfdUxxQVg0X3ZVb1VUQmlQa25uVlBjRUlmT2tNM2xkXzlIMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:00Z",
+    "hash": "1874a3f1caae0d12655be39ae79ea42a87f0f37d80294e8e2b0ff3c8a52b21af",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "UnitedHealth Revenue Rises as Turnaround Efforts Continue - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxONEk5UVNSajUtd3pTc1pjVm43OEFkSk1CRnRORm5hTHFyaWxhdjFjaEhIUFRSYkNreEN0SzBod3dSaFN3VjJLaXBTYlhpSzBQUWZtWWI0UGc3djVYU3R2ZW0xRDEzV2xOVUQyWEtkRVlKa08tbUJ0a21MQU5QU09uNWFvOXdac1RCc0Vud25mVGZHZHdBbl9lcUxWRW5JdDRSaUlEQ3BzeGlISi1jUG5udEs2YXRLZ1FpdXhKOUtFODlzRzlnak5mY01sb0pQdWNXd1VpRnRlekpFMWtJcUlzc0JQZzhKMU1oXzRiSFJlQ3I5N25MZ04zSmlYTnJPNlQyTHRPN2E0X1ZEWEw5VFFPenBLa2hKQk5wc3pZTG54enZhVFN5Y2dCSWFoOC1vbVdOSjRjQ1dpWlA2dTU3QV9ZM1gxclBlajdNNEhFeFZqQlhQd2FvMno4Wml0Wnd6cEd5Q2RJbmFMb3VtS1ItYS1OZVBYY1Fhak1sVlRYdk1CVGtfYkhEMHBuckIyaVZTS2xZLXRYYUpTS0lzb01FUmVRUHl1WDhqcnZSZ1NuUg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:07:00Z",
+    "hash": "c396e6aefc32225f27355b1ee884e4be280461136668b2fed0ed170bbbde02a7",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Group Q3 2025 Financial Results - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN3JSUEs0MnZmb3M0S256akZaR0h6eTJIeXdEX2hEc0lTNHBFU0xhWHRTY2Vzc1I0WHBXUVlRb3hiMFVCV05lc3V6Qi1YTVg2VkV6WHA5SDZRMS1BU0R4VENyX3hKUEt2Vk5XQmZwbDRWRGw3NTVtWk01akdiUEY0OWwxWk5ORWZoY2ZDVXlxQmtfMVpfUFFUMTByQ1M0RzZseWtNRGwxYVJldw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:05:00Z",
+    "hash": "274666c80fdb6e0cff0c3ea034f56e1e4a9d0372b49af2ed2861cd94e8f8b8c1",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Group Beats Estimates And Lifts Its 2025 Outlook - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORk5BSmlpMi1TNS1DVV9hQWd1RmxlRkxrUDU5dXlwSGpuMXUwN0JncEE5M0lKdEhNS3VybnJRV2xSZWd1Q05NV0tzbVhtYnlBOGs1UF9PYlhtNy1DM18tN0UwcldlMk5ZSHFMYm9qODdHTkJhZ2dPeUk2cTFZNHZELURCQ054UEl0amotYTE0emhnZmdH?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:03:43Z",
+    "hash": "b527a6cb612e32cb62088cd5dd99a22d73743fd6fb78c768e607321cca6cfe1c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "IQ EQ FUND MANAGEMENT IRELAND Ltd Buys 67,353 Shares of Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGxjbnhNVlQ4VmRYbG9lMGZhUXNtSGdfSHB2TnV0dUp0NFozVDRxZ1FNM1NzanVQeTlrQWU2azVVRHI4akg1a3VWOVFTNV83elYyXzJtVEk3TWZIeUZDQzluMTlJbGx4aHZmQXNsaWV0VU9YT2llNG5yWG1qOTNiMGY1VGYzV1BZbmI4b3Q5ZVZxX1RKRzFCaTYyaFNPNHR3WHdFRHVJOEw3VEIwWHU4MFp0LTRUaWMzaWxYcWFOb3ZfRjlSVllzUUFobkMwemQ0a3MyUmtOV2J3dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:03:25Z",
+    "hash": "3374e0ac731db36c4c8d01b14ec5b761a255d9230f2dba0df868cec7464d9224",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth: Q3 Earnings Snapshot - KING5.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTI5eGtDbGp3RHRfODFWYzdQdTZqQzY5b1BRb1JzeS01bUhWRVFlaXlmdnFhNEpaYlNneEFRS2huSDcxZ3hzMEU3SDZCcWlsdjdsY053NWFySmFYbURrVW95Z013ZzNIUHA0a3d1cFVTUXZfRDRvWWYxR01aMFRMU0dMOFhYLUZrdFNXTDJNN3BmWEU1WUhqRzlNOEFGQ2tqVE1ZSTlvMXl2N3d6R0tKNVFFUVZuRld4WmR0N1A2ODJTWjB2YnMtMENocko?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:02:00Z",
+    "hash": "fa7116f2c5bb74bc174f6edd82fb10970d57ccb694534172a75819d271c9b8d8",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Sees Growth in 2026, Beats Wall Street Expectations - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUThIZGVGN2ZZSHVWelFsNWZPSndacWxhQXZ6TTRxZ1FlNk1aNlo0ZjZhckt5cTMwdGx0dF9SMW9JRncyV0FjR2JwRUp3SDV1V2NUVC1IUGxiMFZ3SWFBU1I5U2hnNlpVUnIxTVhtN3U3U3U0TjZGQkhiUjZPcEp4a2trc3RrUkZ0em1VdXJwNGpxTHlGUlowZlhxUnRjaUEwS3ZyM1NJVmgyZlBHSGNZdHR2cmo?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:01:19Z",
+    "hash": "64b662132b091321194b6a7277547a45260ea15dc53155a479195e079d4e6e3e",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth earnings beat by $0.11, revenue topped estimates - Investing.com Canada",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTEdmb1phbE91MGVHdUMzNGpwLW8zS3p6RnpuWERtTUhFODFlYmNmdFk1QjVERDRBNmEzN3VCdkYxVldZNGxhQXBIUWtMSjVKWEp1WF81bkFzb3YwQ3owQUF0S2VPM2w0UXJWTTZjUmtWZEZFOVZkWlc4X29iMC1RN3k4Nnh1V1VFeTdLVGdLWHByLTVTNGhURmhyaDQzUG9ZeTJIdTdVVHI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:01:03Z",
+    "hash": "14a6f79aefafde48b6cbdce3bb9fe384016139e2d9127368eaa698c5ffa73f85",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Binance Whales Loading Tundra Bags – Retail Investors Left Behind - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONS0xZk82ZHI0UmF0ZVVTTVgxM1NWMWY2TUlxdmpFUldqaFpNUmxfbll2VWpHcXI0YlFncFFfR0NsSmRROHRsTUJra1NNalozLVVsQVhWMUZJVk5FcG1PVm54UkdySUw3bzNrQms4YjdKZ2tKdDhoNEdXY2Z4U0dkQ2VNTkUzdDBoZFEyYmNjbk5UTEV2NHNWMmhtdlBqWU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:01:00Z",
+    "hash": "6f8bd7c3eb0c663a69a1c9d822cf298721d2956fd6ad9f34a29c2ae1b0a268de",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth earnings beat by $0.11, revenue topped estimates - Investing.com India",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYndBQnNqTHdCYnYwMDg1RENWWVUzMnhUWHRHMjc5eFJaaWx6QzRBeENrUHNMRHgyOTJSNmcwb3RlbTVRUnRHQ0xadlpSM05ETmhyUWFxZENMREFoVDZIdEVUYlhaUmhES1FGeXJpUHBrNjYyc2pHcmVBdW52ZXh4Qk1MbFdPMmdCdlk5VHJuXzFyWWV6NldmQWNwN0VlYnFpQ04zV2g0WG8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:00:52Z",
+    "hash": "04ecc9d8db3e93f27a4b400ca4409bbb0ff1b3129bc5285fa2871d2333c46304",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "UnitedHealth Group Profits Fall To $2.3 Billion But Recovery Signs Emerge - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeDZZUUEyZjIxdmNjNVFzNzJSNlJCNFl0M0s5ZHRBZTg0djZ0djE2N1VtQjFqUWZaWmtCZ0Y0dHpSVEhidmFkREVfQ1JBaGNTVlRxeWd1dzh4MmVpaXFRZEljUEhyU3pkQ3dqc3Q5LW0zcGxySTJCYzM4QnpENGxsUlZud3hWb1hUQ1RXZmRuZUxkRmZSQk5SRFBwbi1aZERiWk1TMEZsSkFpQ0JrYk5zWUl2ZGF0TU5CcGhmOXA4QUNoZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:00:00Z",
+    "hash": "61cb3bedd3f75938ce8367d17e8d5dab6b5a1ccade082e2ceda8b12175dd8b1e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP vs SEC Victory Momentum Boosts Tundra Platform Interest - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeC1sNGxNME84TWd1WUpUNWxMLWVvUXFDbVRoMGRPcG1pVDVWWXpxSjNZaElwWDdSdG5lR1EyT0t3cE5wbnAtNGdpVFpNLUN0ZHY3X0JzYkRicE9OV1Y0RDkzTXQ1NkhuMFNYUWg1bTNkTFdRbkdJTy1LN0dsUXNHeE1CSXM1eDBoaEJTakdR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:00:00Z",
+    "hash": "8bffa22474dda20d8caeedaffc49aa12ea71b2669fbebbe3052b05b8815395e1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Should You Buy Intel Stock After Nvidia Investment, Government, and SoftBank Investment? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGJkVmw4UlBqck0zUU51NnM1RkJrTm9SSFdZNU1JWmg2YU9FdXdqVF9UT0NUeHlSbDQ0ck9IdUQteFA5aVRZM29hYUhUX1VUcjJsc1cwM1BTc2ZRTkRDSWhMU19FbGlNWW44R0ZFOTQ4eW1rNEkySkh0LTF5cXBGVi1DSXRxeWQ3aGw0czZWckRid290OHVZWg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T10:00:00Z",
+    "hash": "d51fc688b410a0c354e99fdd21186f1b5785b9b5fe44d71e75ec2088805d5a92",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth earnings beat by $0.11, revenue topped estimates - Investing.com UK",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM2x2QlBIbjJ3T2VQS2MwM1VMQWFUNGlpMFlsVHNsRGd6N3VCMGhhd1FYbGNHSEZuODVfQVJxU0VfcXpTcDAzMjNTTWZEVjJOTnpRSW9zLUFYX2RKZHJSNHY0Ukc4R3JDZ25Qc01oT0hnWTVaTlRVdEJzb3AzTHFlT1VqbmFkVk5aY1pJdzZBYzRvNVFzSlctY2RscjZKX0VKSkNTWE1FRGM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:59:00Z",
+    "hash": "0027fcd35208b449ed98659fea906ad35e4813baebc501123ea791a46d5b0a9a",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group (UNH) Tops Q3 EPS by 11c, Beats on Revenue; Offers FY25 EPS Guidance - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRUZNRmt4UnpsRkdVaVJzUGk2bkVjeldLZy1hZ3czNjlBZGJVMnZhdnB3NlY5RllCMzFPM1FOMjlyNXM0d043YjZZZWtWbjVlcWxqSExqNnlIaUJ6emRTR2JrRmhuUUFaeTlOODJpc0NybHFnaXRWZnFmdVc4SFRUQVdpakdwM1lnMG1YaDE4dFZRVER5NTNUT0VpeDdoc3BvVmV0OHhTRV85ZUU3NkVUcmFJQ254Q1lWNkw5eXhzdGZuVjVMM1lLdmxBNzRNczNFZlhuckl6eFVIY295RDh3X3dB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:58:22Z",
+    "hash": "f9f5556bdddfff8a8a190532e6bbee8e8ceb467059a3b271fb92510e57dcfa3f",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth's Q3 revenue rises 12% to $113.2B - breakingthenews.net",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0hXdEw5SW4tSmVBVGxXQnRUeWZVb0otdlFseFFCLXltdjNPUHNZNld2b2FFNnhYcHg3eU1YTF95aEh0enM2RVEtOVF4b21rNTZvc3p0RXU0Z0xWNWFoRFZsUE9ualZsYm5qb19sb1BKeEpmZTVMY0dzenRDWGtDdjJwUDJPNTJ2MXE3TERid2Z1ZERWOEw0M0UyYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:58:00Z",
+    "hash": "cff84d2d60dabd15371c0876a7c3a2e420157479e71ad552b9eeda6212e6663f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "The Zacks Analyst Blog Highlights Microsoft, Alphabet, Berkshire Hathaway, C&F Financial and Syntec Optics - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd1ZZektUVVpUQ1ZtcU8zOVc5a19tbnhEYm1OeEtkUWFRdDlOWVVoVkVDZU14clRGZ2p4YVBvM3Y2bFd3bkRaMGpiNGtTcE1kTnViWVJfd0FDU0E2UkJzYmpwb2JkNVlTUzZ3bVVhVURuYloxanAxVGxuU1ZXVFdLdlZ1VERSSUE4YnlHS0FBZ2wtbi1nR2YxMVlXb2RJVnplVld5dVVIaVdyWjY4bHRXRDBlRmEyaldKOUJlQmE2LU1lenRUMzdOdnJHQ29ZVXpMSFgzYnJHQkxWdlVEVWFrVm1vQ1MxejVoeUktcFUwTE8wZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:56:34Z",
+    "hash": "6256523aee38ddeae0d7f35a59f1eee3e7c0e191f41ad83c5c4356f0c287a8ba",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Zacks.com featured highlights include Vertiv, Taiwan Semiconductor, Oracle, Lam Research and Elbit Systems - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSUpsaWtHN3hTRXZUM0dCbTlUR1NiRndEU0tfZzRMMmZXaFJuOUdINFJqS0xjXzJuNHdKWUU5cmtCN29oVGd1UVlveFFTODZHNGN1UEJveXM3TDVBeTBmSW9BQlR0bTVBNXpocEhtQkZWNlRIQUZnMHhvSnl2NjdCWUV2ZDlqUWlTZFZqaUtrMmpCUlpySnFVSGZKSmxZLThfV2wyQzM1Tk81eWcxbVZiazRKQmdmcGV6andaSVBhY2tKb1pFX3NDdGZzczVNLVpqNnZwWFVDSnlHX01zT2l0SjVtaWIwbTI2dzY5UVFXWnZpRWY3MG9CWUl0LW9fajh2bWh3QlE0cWVURHBJVDNZVkVPRzIzQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:55:41Z",
+    "hash": "d65a29dec1c0472e432ab00684a312f4ab0ebff43b348cdd7eb11bd83ed180e8",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth (NYSE: UNH) raises 2025 EPS to at least $14.90; adjusted at least $16.25 - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYjMxVVo2cUdDdl9NRmxHck5BdXdCM05Nclhrb3AwNmxsRGpST2VQZDZVcFdaNTRQaTVoUjdfR0FLTlo4U043ZkV1X2k3VFIyMlRuM1ZlN2J6dFFJRnpOYjdHdWp4LUp4cnFCTlpwRS14RTBHTS0zVDFfWXU0WlB0N01xbGphLVZDNUQ1UzZUMXh3Z0dqYWk0bV9keXpGNWE4a0piaGhaS0cyOXlZZU55NDN5V1VPeVpwT1Jz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:55:00Z",
+    "hash": "a5d7984c9294638d9ef3818b51c83ad748cc5bcb6b95045ee239b3f926471425",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Group Reports Third Quarter 2025 Results and Raises Full Year 2025 Earnings Outlook - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOY3RDczZ0SFFNSEt4UEJsV25RNUJyTjVwdjJoY2YzT25TY0lyZHhVZW1qVm1KNGRSbk15Zy1ndVFYVFRmWlNlNF9iNy12aW9VcUV0d1pyVTFnekVZVmFIYUxPMlpybUt2cWJoSldkbU1nUmotQmhPaHpJVTlMM183SlQyTndNbFJwX1dla1pBdmo4d0hZYzg4MXNXTXVuekt0OWktbU41cVRHN2Vqc0g4Snk1V0MwcWlNNEdLOUNsSG1TU2V0UGhDa1JvOGllZFVKaFpxT25sTkVDUmVRTnUxbThmcWdqNWUt?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:55:00Z",
+    "hash": "5c5c4580c88cfc57adc55f4432bf6509800ba492754ef246019d6100bb64ba3c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "2 Bullish Signals for XRP - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CdjJPSmJuRlFiLThhTF9fSnFNOVhoT0VwSzR0aEpsdzBkS2dZdEZQb2I0QzhGai1WX2ZLY0R1blBmMzhGWEFYemJyYWZib2dTUDEyWmtkQ2l5c0pjZlJNck82SXRMVVB0VTc0ZTM2Q3VGaWhFWU0w?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:55:00Z",
+    "hash": "91ede34d98fe9dd514a740b51307a639bd1b9f24001a1719a6887ad84e3e1c40",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "2 Bullish Signals for XRP - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KV0tjYlg5eUxHeFJEbmZ1YWVBbnJnM3M1ck9SZm5WQWtBbWM3ZUJmYmRHSmZVaG5wQTlHVjBuWUZLY3A4ZnRKSF9udFJhRmtFeGJhdTY3U1VmSHM4Vi1CVExDNVp3bkxnSS1hNnZyTXRrSkpuMGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:55:00Z",
+    "hash": "2f601701e1a532cdb252dd01eb883382f1b00f2a5cf87b3baccfa3a403921766",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Stock Market Today: Dow Jones Futures Slip, Nasdaq Rises Amid Mixed Trade—United Parcel Service, UnitedHealth, 3D Systems In Focus - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMDlhV1Zjc2p4cEhTSzNfakFJaHJmYzZSTHBQMTAtMjRLbG5EMVRoaUpXMlpjeklwVjlZeTB2NDRFSDIzaEpHTjdLTV9uMjRxcFQ3UUxseVdvRThyRXVFWm42Y2xxWlFCWXlkUHVjUXNiN24wU2txX05ldmpUU0YyWmJoczBsVXp1TzdkTkR0SDdnYXNlRVdsZVptbVZtcko1RUhVejh4RW5LbmhjTWpZbE51bU5YaEpHWS1EaHNCMTE5cDJmQkY2SUdQWldLbHJmTVNJLVVaRUJlQ21XN1ZhN2QxWThyYVdiSWdqaE05RDlVQ2FXbHVWS2JNbjdKN1ZpV21ZZmk2emk0bXZsbVNJaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:53:29Z",
+    "hash": "7dcd957ce8793312b1de1449ea7562dc3ad2b50a6876d41112f0e85d0af8a092",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "A Look Ahead in One Chart: With Bullish Sentiment on the Rise, Will Google’s Earnings Report Propel Its Stock to New Highs? - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdDc2WjdmdWNGRUVoNXh4ZDVKcGxFSndZZlA1X1FlNGNkQlhoX29TMGtMNWk4RHlpekd3bXF4LTVCLVdKdDhNS2xUT1BFUWFoT3poSi1OX3VjV01zdFhiQVFTWXd1UVVUVjluTnpLaUFrcW5WV1RrSjEwOFFaZWlrY3N2NkJrSk1YblllWnpzc2Jjblo5Q1M0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:53:20Z",
+    "hash": "7a8ad9ea891c28be61e6973f2ece16c37454728589ded92d57ef83cfc1abfccf",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Cup-and-Handle Ignites XRP — $4 in Sight Amid 20-Day Moving Average Reclaim - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMjR1bHREZ240Z3NZYnR5YVRJSHJZeVVoSGt4MTFVckhsT3BIc2twakZQRHAwWlVpUWhRcW44UFVaeWIxM1J4bUZDbjdQZEZFQkV1Y09tVjg1ZjRSbWxJZTk1c0VGb0tzOTJ6d3hZejMwYjNWcjhmZXQ3dE1yc2YtTzljNm41dGFRMFZEODg5azUxbnFBOUpWeEpkQjFBNkFYaEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:52:57Z",
+    "hash": "c7c82032898589aa6fe635a2d4976a02b210c5d95b8fef4bcda048f964400538",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Newmont, Qorvo, Qualcomm, NextEra Energy, UnitedHealth, and More Stock Market Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSV81ZGRRMEdIR2FVM1ZQNXRNVlZPN0FIaTRmOWk2eG12cE9QeVM5YkZJS2VoZVBLajZsbk5sNTd5ZUNmQmRlVFB4MU9TRHZBOHF5QkxONzE4S1cwNThjRnBmRDRXUUpLSTlPa1hzZ0c5WEhTQVY4akI4NUVzR1dRdjVsVjMyalpwY25nM0I2OTNFbFN3WXZmNWI4b2lPSEV4QVltem45SW4xWUpOdERCQUJlSHpEQ2ZCRjJEdjloNkdOd19ORFByWVdFb1Q0S1Y0c1ItS0d2bnd2Q0V0U1BHdDFYemJFNjd0N1ZjVlVrQ2FlM3EzbVBFOWI1TDNORXFWZEU1X2xCdi1qOUdRcjlPVUdMTXpBcWZhTTZXU2RXWjJpdHhEclZzQ3psOGJhNXBWbGx1bHotRDZzVzl0dGJ1dld0cmFXZ21Ea0VsRG9FQmhqTkxBNExKeGtwSDZKMWw1YlFmUGo0NGJvZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-28T09:51:00Z",
+    "hash": "54fc7004628469bb14ee4306d66c58fb22970d8c96d6b3fc1625dcc3317c2fd1",
     "source": "gnews"
   }
 ]
