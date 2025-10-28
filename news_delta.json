@@ -1,332 +1,42 @@
 [
   {
     "asset": "Alphabet",
-    "query": "Google",
-    "title": "TeraWulf (WULF) News: Google-Backed HPC Deal Sends Stock Sharply Higher - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdTlpVzgxZE9ObUdRajhIdEtSMHA4UHZtRlNLek5vckRNWDEydEYwdnVRTnZXdzlyUTFWXzFnYnA5X1VvYUtYd3djUjA4RVFKbC1UN1VnaGpJWmVXX0RvbW9PQTFMbERnYzdZTWlxcmdJUV9Jd3BwOEFNVENwQ0gxOVM2TmF4YU9KTC1qcEU2Y1h6OGRJSXRtRW1SSmNGLXZXVW0xVDFsVGk1LWJhSW4yODVUMEZXMDltN21BSDk4dmlNZ09WTmtWZA?oc=5",
+    "query": "Alphabet Inc",
+    "title": "Analyst on Alphabet (GOOGL): Market Reaction to Apple’s Eddie Cue’s Comments on Google Search Decline Was Wrong - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONEduVHk4RTdEaV9Dc24wQlRrRzVnZDJSaTl3d1puWUFhMkh6OWtjZEozZmhSSHBfX3d2MVk0eVJZb0NEY3c1aTFUY3RIODl3aGUySng5aExuRmRQNTNkSmhjRmhPNE5MckdDVTUwaF96b3IxM045dHEzRkVTSE42a1YzSno3ZnFwTjV5U2Z2SHRMbGlyTlZJNVZtbkNPOVJ6dGhBWUNudHBKZmtqYTBVSnhXdEdBeXFWWnAtejdUdDJ4cENkY0JiVFRBX05UUDNVODRPUTVKdzk4bDYtSVJiZXNWLW3SAewBQVVfeXFMTWVpOU5uOUx3MjYydmtPT1hLOVg2OHJXNndMX09BMDZzTzNuRkZpMktxYnBCQ01uTUxEclI5MUVsMG9GQmR6R3ZtTWl6Z29rUGFwTHY4ZHhxNWNteWV0TVR4bHNRLWhRalhUbFRCR3JMQlBxcXRJTWZBRkxoZ0F3VEl3SllwU2tIbzRJcm5MeWUtNExJenQtaXZkRjR2MkE3ZEc2RDY0VWlKUDdHRkhrcjdxV3ZDb29RX2hfaVI0T2YyNzFkb3Z2UU1VMjdYSmJmVjBHYnp3Z2xCV1ZRRTZCWXRIS1I4YkJFWXd0X2w?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T14:21:51Z",
-    "hash": "13f473a3a5e05b4881d429e2e822bf7b7792353c3f6827317ca3cf8972d21b66",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Bulgaria's Borissov Announces Second Ammunition Plant Following Rheinmetall Deal - Novinite.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVQ5Mi14eFU3VGV2M09FY2k2TjNzOUx5WjExLUZta0EtZmpYM19QczJnV2NZb0gyTTdRN3ZNc1VGSUpCMDJtNFNYMlVjUWlKcFBzYnNUZnNvVEJmUlpiTDkySWVqdC1VTktTTjl6N2c1UU9oZVpOSzBleDlFdUZtSm1IT1Q3ejFxRTVyY0pnQW9Cd1FnQmJqeG5MVFRJZVVpMXpZUUQ5dW1rZm4yS1BfU0JqSVZfNU9nakRHdW9jYkY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:15:00Z",
-    "hash": "d0ab2185f9440e94403f668b53d3056ea45e3470b051e0e3e0d3181c45e11102",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Citi Partners With Coinbase to Pilot Stablecoin Payment Services - unchainedcrypto.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1RpNXBaa3hud25JQnl2cHBadmcwcDFhT2wwRWRUaGtoYWpkbWw2TG5ZbjBKRFpoSlJtSmtWLXFuZ2ZtWWdEOUlQaUhDOFN5WWl3SjI5YkFRaE05OUxGZGtCQXhvbzlzY1plajdnYXlSekxzWG1sWVFiNk0yUU9IcG1XYmFCZ0pkYnRBOGFNR2J6ZFVDN0VKUw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:14:54Z",
-    "hash": "1e8c86ec9cc5c593e2174d1a8443b71ed65a6cd897f2d4c48cfb469f3aae5f0f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Bitwise Launches First Spot Solana Staking ETF on NYSE - CoinLaw",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mYTBZbDZKREdjY0EwZnEzUWIxUXcxODFDQkJ0a0xIU1R0QW1uM3pmb29Gc0RMdld3SnZMS1NkenNDUzB3TFBvSVlsbU54aVAyNXZnU3AxM0ltaXdjaTNTWVh3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:14:34Z",
-    "hash": "c356c9754cb08e617421c9133227af6324b61727762b78e34190bb00c830eb17",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "PayPal Q3 Earnings: Looking Under The Hood (NASDAQ:PYPL) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDRXNW5TczFRVHhoSm02aUdVR1VBYjNKVUZCTXJnTDRoYWV3cGRfd3pYdk9aOGxQOG1PTnl3VlpUUjVGeUN6bkV3RERCbUVuT1NYS0EwRWhHWkZleXJEWWFsWXhzbTBPOXBFbEd4SFdLUVR3dzRodWlQNWVKWjdTSDNDTGZ5UTJwTXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:13:52Z",
-    "hash": "2dc2b4b0c93213a8334b46237f914b7abe12a9c5525790a12c4cd2ac7a15557f",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth stock’s dramatic turnaround defies all odds - Rolling Out",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15alNWNEJwaUdFMm5hMVdhUy1tVVc2QUdqVGRtR2ZCaUZRdWVvcFZ1M0lFdkU1YXF0emVkV0l3Q1UtWk9WWVZrakNIUmRDcUNlbFMtRHI5aWViWm5hRGxaTktxNmg5dl9jVjY0RE9LaXRpaW94V2RLclZSNXdLTUU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:12:14Z",
-    "hash": "e4bdd39d02ee65e1e74e1b6d83249e89156db365faa04240f604dd337022ae4d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "First litecoin and hedera ETFs launch along with new solana ETF - Sherwood News",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXVSMkxqSmp0Ulhib3owUlAwMlZSeHlPQlZkdHhHMlpoTkxUVW5ob1UzaVJVTjZYSXBTNjBCYUM1M0RhNkk5VmRmWFM4TnUzcjhrY3V2cWdOLXlqTFhHWXFDVFdBSGlJOTA4Wlo2eWtlSXVpeThsUllRb0tyYWlBYkNDc1duLUtjY3NzSWp4ZllsX0RTZmUzTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:12:10Z",
-    "hash": "df451b3c695f545e5a45dbaed86e7dfe7fbbf92f7f00606e21b0904dc3006c55",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA): Exploring Valuation After Recent Steady Share Price Gains - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlByQTczSkdRdWk5bWpzNE5ZMW1OMnVJRzFEUDVnakx3N05lbTlqUkhkdHhiaFpRdURibEJ0cEt5TmVZM01yWDlCamhEYWdpSnNMVnlfX3hhcmpfam05RUljdTFTZTZiSW9pMWVoWkEwY3hLSUVzejBIN2dxOW9EaTRNdnRkNFZselJzeA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:11:38Z",
-    "hash": "754b7ad0454ec2cd95cc3c0c8c17636451d59a57db3c08b9dbd3525643de7cd2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "NextEra stock rare pattern points to jump to $122 after Google deal - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTlpKdk5kRzdjWjd5RFdVTlAySWlkNjYxSWpLRlRqc2hMaTJ1Tl9wUE5mbHFHdmFUZUNIeGxjbjBMdXFjaXUzQk51QmlMdHMyTXU2LVktdEN2Q1R0Zm5xeHpHRzJKVlZrRU1LcHVLNk8wbEo1M0pLY2o2VmdDZzFiOWlYUTdRVVMtWlRCbVBueW03OFduXzZDM04yWll0T3lWYk56R1U5SQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:10:16Z",
-    "hash": "43b8a9ade61c2eeb29d7046cc3f0827341b75f32b24d3ae79226ea1bf207a085",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Shares Experience Market Turbulence - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQy00bUlvZnIzajlkLWloZkxfWkxiZjU0X0hkUV9LWk1FTWdwMFhYbEoxZnlXTGZ3dkswVHVDV2tXblhwckx4anRGSTE2dUQ4WEtZOEo4QjdTNk5Fd0FKWm1RVUpObm9vb1dZd0N3dTZ5YUx5NGNMZDJMeUtZVU9ZcFJqT1JSYmF6emItdEJVTE96OE5wd2FCa21kYjFQVFBGMExwUGw0bDQxcUlKUUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:10:05Z",
-    "hash": "2a1d94c91b0da9edfe5aaa26b4fb6f29f3ac8fd49750c3fb6993bbf511f86b7a",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UPS, PayPal, Microsoft, UnitedHealth, Qorvo, Royal Caribbean, Wayfair, Cameco, and More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSUtPUDJVRjgzb1BaSXRBVjJTd2t1UTMwQ1VxR1NrX3p0czVZV3FBS2l6eV9uWmVjMVBSZlJiaVBSTG1faTNPeWNJSjlEcC1mTDZMZVR6YS1zejFwTl94Tl9SUXdJY1dHMFZLTGNrODNVS1lyaWRVTnRfZjY2TVZqZlh3RE1jTVVQNnpFME9rdWI1YlpXOVRIZm44UXhUQzVTQ3VnQkFZVWNiM2dRZ3E3X1ZxZlNLZ3hHS0s2V3RnY1ZMbmNfVG1JU29VLWNWLTFsWlVReVY0OWxTQ0I2aHZtYkJXdmtnVzlBMV9mNVU4OVJhRjdXcHpUdF9EQ2NnU2FPNThKdlR3Q0VHcHR6WlpldDR3eVlRVmxXOG9BTDRfTVhybms0MXRVaDRwS29aSGdDN3g0d1RVU2hSSUVqWmZLSzl3QUZBc1hjS0JOenJHcUc2bkVkcmJkQ3pfN3VwckkxcHpNZ0loQjlqQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:10:00Z",
-    "hash": "7d4424db14005dde360fe511754ed953dae96f7351f47e47822a8fbb7bb1fa06",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth (UNH) Recovery Continues -- Beats Earnings, Raises Outlook - Money Morning",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUG9pQV9fVFkzVE5ubnUwTjBCeF9XTDNBUXBYX2w5b3BuY1Q4WnpSMzlIX1JJUmdSN2x6VzVqdlpOWWRuMzZHaVZndkNvV01fYW1LNTJxYVVYcmRHQ3A3dHpEMGxjZHBFM0lPTDJjLTdlU0FLeWxMeERCRFU2aXZsRXhfNmFNUkZYUmdiRjJGNHdKcDlvdHdXXzRDRHhsMlkxdTA2ZdIBqgFBVV95cUxPZXFqTTVQU0tJbWdJTXR5ZHFQZGJOTkg2VUh5T2QwbDNWbTF0VjlyWXNOQnVTTklzNUk0MjliRkszTjFUWUhseW5sT0VtNjl2c0lZaFhtUVlIXzJ4bU83WmVIM2x2NW5vTW1kam43MDRNOVVMYVE5UkdKNXFoa0hvaDhSY1RiVVd2M2tSLTdFd21Fc2k2TlBzRXZhNm1fOFYwSkFjdGhtVkpxdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:08:51Z",
-    "hash": "a7311daf9521e6a2ccfb6ea92784966c40949b7e0d2e2492061c0c186f11dc35",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "JPMorgan revamps Google stock target on quiet game-changer - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFZlcDdKem1Ia1V3eVZJeDVxNENCNmI1UUhERDVJb0liVS1zQlBFLU50RlVFTXlsS1EzR01rb0tsUTVidkx6aTNRUjZXNGE1SVFwRDN1elExc1B0YjJ2QnBIdkpnM2J1bGh3UVRUME8tc2w3Y01GTmpyX2FHWXpuREdYYURnWnVDTlotLWQxRlhqRVFpYU11YU1qZzBrcVVXUUM0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:07:00Z",
-    "hash": "4659e2b5816ec21f825b9d6c3c7b38143de044bbd81f860a281bfa663dbbd5e5",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "UnitedHealth Delivers The Quarter Tepper, Burry Have Been Waiting For - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkR5RHQ2eDUzY0xvakZROGhueXJsVzZJemZDcFBIZHNraURMQ1NPNzkydWROZnNSQVBxWmVnLWNGRFA4alZ2TW5DenY2Z3ZONXpBZ3h1UkxrNVZqUTF0OFhVa3FKMTBQRFkwT0UwUVItQ1NlVmUzQlF2ZTF0S0pvNlV3b09hbEo1RGFsSkMzRGRUa3haRTlYYjVVNVVndjljQUViQnMxcnVrZEFQb2o3YUI0Q2pCMDRBVmZqTDNpRUxqWk9UVG9hVg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:05:22Z",
-    "hash": "6085f6a44090406c9f8d146efd15ef49e63fb761f53d864b513b4804585e5f0a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "SoFi to Launch Bitcoin and Crypto Trading, Eyes Record Year - Bitcoin Magazine",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CM2NOdXNiQmZGSmpWVjRNRnUwdlQyeVIzaUZGZ3NXbnhVeU5TcG4weUVBcS1zTWFFTEN3bGsyNE1RSFFtU29JUldPd3NvMllFaEpONXJBNkx1QUxvR2ctOU5DSDlSYjdma3B5bXQ0NVl3b2hwWkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:02:28Z",
-    "hash": "24038d3931e2e575ccbcfef73eca0852a9e09b1de53a0b9563e8c7369ebf1d03",
-    "source": "gnews"
-  },
-  {
-    "asset": "Air Liquide",
-    "query": "Air Liquide",
-    "title": "Air Liquide ‘can manage impact’ of cheaper helium in Asia, says Jackow - gasworld",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzBKMzBaeXk4SzdPU3ZfX3o4T0lRbGZGRVhDX1JFRjVRb0tud1E5OURUVVRQU1VUa0pCNGhxT3ltWF8tWkhYdmV5czQ1dWFUR2RmdzZlQUZnZXhnaTVzUm40aFFCS0lmNzVnZHhIazFMY1N1aldPUDhVWmhnNnBLMG9vMUZ2NFFVc0dSNWdoZ1ZxbHNDVDhtc0ZnR093WEp1OXFWZERCRUhLNjRLeTVBM09tTVpfdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:00:57Z",
-    "hash": "abb9fb4b9512e4e890c23061a936c5aea018f57b5e17fdef6488affb1890de47",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "5 stocks to watch on Tuesday: UNH, V, SOFI, AMZN, MSFT - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOHR5b01TdXVlZDEwUnBKZW1kS1VXQnQya3RGc2Q2NW9kRkRBUFlPajJzVFFMaERNLUZPN19QWHFCaGNlR0JhNHJ6ZmlDQWJqdktwZWNxMGJGbU03WmRqZTFZVnVTT0hLQUxYWU14cHBrTDNNTE51SDZRSk1UbXIxQmFGckgxal9vdHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:00:56Z",
-    "hash": "c1ce8e58d5f483cd3408bea12fd05164a109d270f8b2fb33ab040d5735abd21c",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Earnings Roundup Today: PayPal, UPS, UnitedHealth - The Wall Street Journal",
-    "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOeVdHanhjazZMY3J2V0FaYnJNdHE4aVpYOGIwZ1R0ZTVkQ0ZEV1I3QzJ3bDFael9Eby1tSGRuVW9PcU83bHZkYnlqNzVyOGwtMDFPOGFvbENuMWI0ODJXdGtMejBzOGF2SzUzYlJUVUpKSVJvZ1dyNVg0RjNUelVnWkR5Z2NEVks4eU1femh2bE5kOUNZWXJrQnB2dFZiLWgzNGc2T0dxdEdwQ01RZTV3VEtEdEZUNkpEcXdkUGNFeWRwbTlmN3R3ODFQRnV6UjJ4ZkpNZWlzQXkwdGVGRWdGOElIb3NVYjJvcy02R2N0Ql94U3dIQ19rTV9jU01mclFTSnpoQmNHRUJ0c0dhUFpuXzl3c3ZrTE0zTUJBRmhVNmtSeklxZWkwXzlrWWhLM1BMdFhBWTYtejlOandndWlOaktQNWJ2Wm1zMEpkNVoyMDVDU0RYbG5hdFJMN2ZuclFmZ0FHR3BmNnRhb2dtZjU4NjV1eXdBZ245U3ZKUVhZUzVYOUNZWGw0cng2S1IyUDZrZllvN3dzc0xTTXBVdmZHaGZxRzRiZWtMZEVEUTFSallOVEJiWWZNYWhXQnE1OXNvUVVnNm5MV3hybGxOV0NJcGt5RVcwV2pjeG9qTWZ5cWNIb0IwQloxMUVuZmtGc2tp?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:00:04Z",
-    "hash": "39a053300250a150452c31b10c485c82fdd4f562d351af496f04a93a98214f85",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Most large cryptocurrencies rise as Solana climbs - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQMmJrNkY4dy10TGVpQXFBRUx3UlUxeE1VdG9HSW5WNWxxUUxTYUlic0tsMG1CeWlCNjRnNnQ3cXZkX3p4azQzTmRJSGRXV25pcmF0dlJGNGhvUTR4b016c1F1eUxrdDdGRDFOdXJ6NGpiSi1zYzROcjlDNnB6dU1tWTNZMG9qM3R1QUdKZ09iV1lZeEUwTFdmX1hUZDNRbHZ4ZlA1R3lETnJvamRiRTBIbFR2NDkxQmtDalBSS1hFQXg0TmxabjNFbmFhNXhfYlBnMThpek9LYWV5enhYOC1qSnhKMFlMZEFaT0FidXhmOHJ0WXFsdVdMZ3NrSE9wRUU0WVBiWndRT2lHZzhSUW1aTktPWUgxYm9uQ3JzYmFqa25EUHEtOFhXMFFRcGpFN2Jpb1JqQUM2TmxuaHNsWHU0LVlJckRaQ0htZzB4aEhidjdxMUhieDAzclc5MEZmdzg3OG5fVURFRHZIUThpVGVYU1dVY0pNRmt4dTdzUkdWNWVUY3JTcFFDZ0pGOEM1WUFhS29SaTdwQVcxbThMQ1czMUNuTzhaTWlULVpmQ1Z1NlFwZzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T14:00:00Z",
-    "hash": "84f87bd24e259cf05b71f51af6d353c23c17f951fb4dff73a4d57a9164b57659",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA (NASDAQ: NVDA) Price Prediction and Forecast 2025-2030 for October 28 - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1d4TGpiUDFvWVlVdDlEN0FJZlhqMkpiRTNTZ0NNZV80RGh0M2I5dkRJY3hPaTVPLWtCYU5rdkhyVkhqV2RVa2RDOWRqd1gtRFZsSGVqSVJsckdEdkw4dDg3N1YzeC11ZlJvd29aRVZ2eEVSLW4zNlBtSk1DUjV2eHZKcnF1UFotbXdYS1VB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:58:23Z",
-    "hash": "420dcdb377a2a390a296ccb964c5bf26e3fa421fa359c87adbf5de6fed79bfc8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Morning Minute: Solana Staking ETF Goes Live Today - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQekxJblU2VkllbDZvVEZMOXQzQU5ZWDMxNTBkR2dmQkRYa0oxZWFDZFhiajY4NV9VaXJJODVRS1lQY2Y4MTBiZ2JwdThOM25RRGo3SUdOWk9fMWFheC1PTUtXOFRiNVlTX09hMnppVTh4Wkw1MGVaZTJmMGNSWmFxONIBiAFBVV95cUxQRGU2cHRvQk5WVlBvVG16VG9lbk12OF9PNGdJLTdqTjBqXzhmUk9wajM5NGxkYUJyTnRxcGNzX2FZQVo0Wm5XcWFDcXozdE9QS3ppWDg4NXRaVDhlNnlyWWJBWC1vUWRVbHk5Y0d1N2NXRm9IWkdPeC1pRjJUZzJJTW1WUjdXbzN4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:57:34Z",
-    "hash": "741ec42bfe2e26c05f6e8b9a7f83a8369ddcef7e420b3b759d0d04ed869ea958",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Group (UNH) tests resistance, but will earnings beat fuel a breakout? - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ2pfODdud2pOeHExSFdic3hab0V1TkhiT2RBd1pjSU9XNF92QU5iaEZvMFU1djVEbnViOXB4UFQ1alNFM2lDTnJRaHhBTDBkR0FlbUFKY1lFMHBHYVRqdjlWMFJNOWJYd210MXcyWmNVckxmZXJ0S2NXN25icWlLWHNqV1VJYXhrcmR6LVlVcFdlTThiU0dKTHhLLVdHQWRDeUp2SXVIamdzVkJFQWFGWDk1UWVhWHIyYmhRRGpn0gHDAUFVX3lxTE9Gck10N3A5ZmJIWk1KbWRuTEthTDBVbUQ5eGs0WkpvckxXUDJLTU4xdm5uSXBZTFhVMksyM05sdWRTTFRibThmY3pBaU9uLWRKNnZzcUtFMnh2Q1hSaHBYTWdRSWhLV2JJSlliOEZBOFJUZG5COHJRZnFwYTdFdml3TFJWcEZWdzUtVGNLeTBqbWt4dHBIMTFnQkZKLXVybjBNTUFsNkZmVnZPeWMxeC1PakMwT3ZtRER0VnhOVU9rN2ItWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:57:18Z",
-    "hash": "4fa1068ce665f415e2c8e74c8453f451d8c21c3e61c3e48917a675229b19834b",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "UnitedHealth Group's shares up over 4% amid higher 2025 profit forecast, aims for growth in 2026 - Mint",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbkN0enAwSHBsQnIwRlozTmJxdjFPMzNQMGxQVkktVjNOUEs5bllzTEF6TnhNYlFraGlEY3E0d0dqVkZfZXBiTEpNbElRT1FjLVhYU3o3Z0FqZER2eTZCNlZXNVQ2MFRBQ2pKakRDaDl0dW9NS0dGVWNQMU5YNmFjVWFiTVJoaWpQdmU2S0FMb0ZtX0JkWnlxQ1ZIRWxJWlV4TUxCNGpkaElQZXNiWUJLTHhmWmlvVFZ2TExaUEl1SUdjSGpCR3U5Q1A3eWhBeVJaZlVzOEhOODVyXzYzanVQVWw0YlExVzJUN1A4LUw5SERHam5mTmtRMFZkdlpOc2tQX2toZTFmSzRiZ9IBjwJBVV95cUxPYnhSaDRNUE0yd0lKMFlGZlktWTNJWkgxVlRFajRERDNjamhoZk1qSzVERnF3bGgyNjNEYjMxMHZsclpDU2ZPUk9KQmcxSy1MbEtHWkxtaFV6dFU2V2JHeXlhNE1zTHZsTFFrX2pGTHJNcGpZdzRJeVZ5Slpfa3FkVUkzcTdyTXZlSHB2YnVFUVU5SHZVdGExQVA5MEhBZjBnRi14RFFvTjl1eG1lNERIek1CSzB1U0p4ekk4YW0yb1dHRUtXejl4bHhla1dhZGJpMEhTLWRObkRaWjZEZ0dOQmdGZTFzQzRiOTcxQ2YxTFNCeFVxSUtfbWdVbm5hOEFnOXo3OTNhYUhkSGxaOWxZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:54:02Z",
-    "hash": "d4b98d765e0e1cb1c4bdbe30ddaf6ea47ed0a901168293ba10af987a51643a47",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple-backed Evernorth Set to Debut XRP Treasury on Markets - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnZ0MlkzMjhXZjVNT1pzQmg2ODNDU0FJQ2dSQVp1MWtqOGQyVzdNT2lOWVpiR1JyNDg1NjFGQ2tSN3pUaHVzQTd3bFBnejlFVE1mYzFxYVpNempBQnk5ZWk4Xy1QN1BlVXVMal9HaEk3TlRPSEVOaWNuejhYQ0hUMlpiRWlNQ0JaMDFSbGVRQWZpUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:53:42Z",
-    "hash": "df730151864659d6f6cdba38ddc754d5abfdc01642a3612fc30b4fa972c7ce4f",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth’s Stock Surge: Should You Buy? - timothysykes.com",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFBELUNxTU9EdzV1N1VFdHczelN0U0RzeVItUWhXRjludkg0Z1VEV1I2MjQ5MHp2SDRaLWdlMXpjeEhFQVhNR1lvSk12UUltOXdQenJNVWU5RTNSLUNUTXZManZLV0tXYXBodmhxRy1vZnRCaGxYQ0JYek1DLTN4eENyMzVrVDNQWnpvUnJleXY0UTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:53:20Z",
-    "hash": "8d95794eb8af7c61b6b5cffd4e57f7d6de2cfce9cd3c0102cb7ac406ba696c1b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Set to Skyrocket? Ripple’s Legal Victory & ETF Hype Fuel Bold $5 Forecast - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMlBlNEFaQmU3UXNZcEVyb2lhQlo3VVR2dXdwTnNadHpFWGM0SWN5anVXTUc4Zjk5V0tMbHpDYmc3bEF1UmlKLW0wc0hlVUwtMENJeW40UUdGRlBpc19NWkFZZkY3R29ndzF0R19obnBoUzJrUVp2VmwzVGhGX2w5bWIxSDh2aER1S1Z5NHBtRlJZVlhTSlYyc0pJd0J4OWpX?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:52:01Z",
-    "hash": "be67a03317b79f77b71b1493f8e1d2cf6af6c4c066603e2d7b043e9bb107db21",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "US stocks tick further into record heights as UPS and UnitedHealth help lead the market - Chicago Tribune",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zUk5fUXhKS0Q1V08wSlFDc0w2bkpaU2xoeV9uTGdpN25adVUxcW0yU2F4LWMzU0xuRDd5VXdyLXMzbGFwQVRpTlJERUlJakU1bVlxNWJGMlNfT3RJYWxyOUNhTTZVSnFpV184Wk5rbXFMdlNZM0xRQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:50:21Z",
-    "hash": "93ab0321e5b78c18e2a138665dd0a914ba98bfdcf791585e2796c8ba690408ee",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "High risk futures trading is now available to retail investors via Robinhood - This is Money",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmo2OExQMG1GN3RMa29jY1Y0cWM4YkJEejV2S01DZGRWRktoNmdTWHlIV1B2ZTVJSC1uQVZ5TjlzZTJvTk9DZ0lHeUkwTlFVekszc1dlWnRQSnRxYzNDU2laMUlVWEJ1QmR5bHVlREEyemxGdGttWnFjNU51Z1NVMnRpYVdsSHdaSG85bDA3cXVGYzB6SzZhcmpaNmItcjlrQzc5V1FTYk9MWmVaeEtjZktwR0FGcDNsV2xST3A2WGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:49:00Z",
-    "hash": "9b2664161a9570c6496c9d059c19adeb72cc6722582f050589cafb267d8ea1c3",
+    "published_at_utc": "2025-10-28T14:48:17Z",
+    "hash": "cf7ec395bf88a5045908c17ce59046898fc62aad0eecd705e118f2934aacef8a",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Metaplanet's Announces $500M Bitcoin Buybacks: Can It Lift BTC Above $116,000? - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMERuRm1fNDB2NmNjNEY2X2tjRFdvV3FhQ2xiWjFWbHpINFotd2w5dzFSZFJ3cXYxMlRrX3JnelJ6QTBDazkxcXZDOExPeDEzMmhBYjl1MmdWZnhOR3FJZWhVcDhCVXlETTVCQXFYQmRtZldjeGhpNlhjdWxuTmQySXozbFZCa056Tl92SnlGbXBjc0cwVGxtU0MtbXdIZzFlOTI4TXUxYVVHdlEzVzZUVWpnY0VLaWZwblVjS01yX3VfQkdGWjdqRTh4aTFkQTg?oc=5",
+    "title": "BTC News Today: Prenetics Secures $48M to Fuel Bitcoin Treasury and IM8 Brand Growth - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaTkzYURIZURBaHZ3Y3dhQmlCenEzeUdUdnhkTWpPQUdJZzlra0xkMzhtVjV4YWZCSkFORVdFcEZBUHkwaXBjOHhMeDI1cWlaQlVWY2JYWkRVb0x4WnF5T1RraDhDOWZqZThhTmF0dWFHVVh1ZlpiLVlYekNodzRld2NBWTV2cTJWcTRGRkFWRXZZVDJwamJqbk5lY3p3bWtBS2Z2ZDdrazQ2cTQyOElDSEtmWDBWUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T13:47:56Z",
-    "hash": "6f910c9628e23c45bddeed657f064d857f5da71323227a5ad4be47bde2092b42",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "BJP leader congratulates CM on Google investment in Visakhapatnam - The Hindu",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM0lManZhYm1OTGMzN253VEd0N1h4T2hWVjZjOXZXSHVwek5idGxfVF9LbEl5YjVSZ2Vub3VxYVBWcndtYzlsRE1GMVZUMjZoTXFQaUdiOTZNMFRzVlNYYmd1OFZvM3FlTG0zVjhMelBuYVBwblFBUGhfVHZGU3ZLdl9JUXRXbzQ0N1RkdjgtcXRHLWxkSmFpWXNDS083RGtpemtCbW0tTWZzYUNIWDJCRGZac25MSFhLOUZoVUZBQnhrdV81TVN1MzhMckJYZHFQN2V3UURB0gHcAUFVX3lxTE9MeXRIZC1XN1h1MDhvMmNKVExsVXBTMmU0YTBnWGd2RldkUVBlZkxRRGZPMHlWNk9HaEZ0VHJ4Rndza0NncHZIdHEwOUdqSG9jMkFpZm0yX0dIRG5OeUVXdHhqN2U2SC1ZQmVtWFNmZ2RmMThXc29GM2dmMWd6NF9yZGlWbE1GWXM2U19YaTBRVVpCeklyZEgyMjAzUWFTRmFaQUNiTENrM0ZOTVVDRXJDRl9DVjR4X1VZOGdteVZmZmRBTGxXU3VmQ0tDb0g1U1ZtSEEtZkFSRE1fUGQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:46:00Z",
-    "hash": "bf3e76d7981b0700b1c68a1306c4e59b6b626eaef063801bfa23fadce6994143",
+    "published_at_utc": "2025-10-28T14:45:47Z",
+    "hash": "f0ac34ef05e7b180cba78b290c39782b8987688fa50f7a61f8213c44f73aa129",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVDA",
-    "title": "What is the Next NVIDIA (NVDA)? Brad Gerstner Answers - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMEt1UERrbnFOb2MweV9pdk15SGRCdGJ2alpzbFVlTnNYaEhkZ1doNzJFUm90LUttUmZkUktaNm9VR19SbUF4Mm5rdUZ6eDExU3g0TGF5SGJ4OXpSa3lQM3F4VC0yR0g1VGFnSENWY3pNaFctVVdtc1F2NE1JSWl6LVhYZkQ2eGZYRnA1bUlHNmt2Yk44X1g3T2hR0gGiAUFVX3lxTE05WWtCR2htLXVEbEdRU1k3Z29ycWc5eENOQmlLOGVqNG1SRlN5U0NtZS02QzdCa2Ztd2I2dll3dEQ0WjV4Sl9SNTZvNC1WbEpCZnFPQkc1SG9Hb0UyLS1Tbm1NaEd3T1RrQk9GUmpYcDl4a1dnakpJVG01YURLekUtR1lBaTVYOFYyeTBXdl9hb1dBck1TRlYxaGJQTEFyMVBNdw?oc=5",
+    "title": "Semiconductor stocks mixed amid flurry of news, earnings (NVDA:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3FqYk9ucUlzdjVkYS1xSnNlOU5Mb1hlVHN2UkJlRnlKNzJiOXRTSkpHMi1vanItQkVJVWJTcnFfRzZEeEZhM1N3Ql9Bb1l2N3E5QVpZcVRvQzd3dnRmcDM5Q0JVRllaNEJNYnNYODlmYkRPRzQ3bTdva2VZb3F5a3BIcjdKUE4xOGRGZDNOU1lYeGo3TmdsTA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T13:45:58Z",
-    "hash": "461b05525aea86227832ccd0d062bc38684b78b5d86dc2ee275c7f741dcd5f6b",
+    "published_at_utc": "2025-10-28T14:42:27Z",
+    "hash": "ef9b6ed34863daa49011c20c2b56aee6d4f1123b7d6c814aafc8be9500c47dd9",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Disrupts Bitcoin Backed Lending With Low Bar for Servicing Americans - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVVhLUFXOUtqWmNqTTd4Y1h6UUNvYks1dlV4OTd2YnNpQWw3aU05R3RoWU1tNHlDRzRKR2hRWUduc3o1WWowck0wUVh6OWY5c2F0Nm14eEY4M3pXTWVXdG9OWDhmbENzejVieW1fOXFlUDBSWUdQWmFPU2tVc2w1SVJsQW1BMlRQbmF6NkZCT05adUg1ZV9LMEFB0gGiAUFVX3lxTFBWcjZkSzVja0RXRENFZ3ZWMUZJRGc3RklJbFExdElSZmZXaWxTVERkVVBqdEFWbVlKbUwyQ0xfNjJibGNmREkyVDVZaXZkZ0pHUXY1eGVLeGVscU5HZkxvOHIzYWwzc0Q1N0llTWlfVEN2Zi1yaWpUbW04T0VtYmRlM2VxdnFNSk5xX3ZYQ0JBbWlBZWF3RnhPMkV0S1oyemUwZw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Eyes $5 While Blazpay Targets 100x Surge in 2025's AI Crypto Boom - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSktncm9xZS0ya19TOGZ3N1g4WVlMdEozUEdkOW1BVGIxNmRCN09mUzl1V2JaUGxIa280MURETVhqbktjTDF6Zl9Oa05uVm41X3BpdlRMYVdyR1hBbnFOTzZoakNHQVJqaHBRaVUtT0tsX0NRemNjOGVUaWRSbjVOYkdFUjlKZER2Y2pUY25rWnlOaU9QQk03Y2xUWm1YM3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-28T13:42:02Z",
-    "hash": "f529005d0b7004423b7bfdb271d067a8a5c83c3e4529a93e62617f201f710b38",
-    "source": "gnews"
-  },
-  {
-    "asset": "Air Liquide",
-    "query": "Air Liquide",
-    "title": "Air Liquide confirms industrial hydrogen as core growth driver - gasworld",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc25URjdXZXUzTTRfTnFDa1c3MWNyVTlibnk3M01MXzc4bnh0NFZYZm9WeFkxUm1LU18wLUwtb05idm5FTnh0QWFYMEk0cXdtekc3bDQ3TmV4dWY3SnlIRUpGZ19tWTFSeWh5MGpLN21DTlhnYmlrdkE1WDR3V2lFMG85VkxGTDdZdWh5TGhJR1lxN09vdzFReUhzUHVpUHFnN29zaWdheHV3LVdmNTVR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-28T13:41:34Z",
-    "hash": "60d576708cfe6e2871f266e00dfd22acdc336be5b8550c5b22883967d2b54fe9",
+    "published_at_utc": "2025-10-28T14:38:07Z",
+    "hash": "440da9b838c5513f99fc27cf5a940200386b0df2896884af88f2b311c84820cd",
     "source": "gnews"
   }
 ]
