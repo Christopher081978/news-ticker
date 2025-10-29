@@ -1,282 +1,52 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Grayscale Launches First Solana Staking ETF on NYSE Arca - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNREV1NHdMY053WmszOTNkSUdIZFQ3U0ZFS1hlNmx2OGdvWXpFa3VSbnV2MzYwN182V1dRQkF5QXlhaUxrdFpYaFM2R1VhNnlqWHpSbUJYT3VEQ05nck51Q2tubV9OUGppdTZiWXM2NjlGVFRZMzNhWlFrT3M3S2FBbmlMUHlSbW14?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:25:31Z",
-    "hash": "100fd1edc2c410b92678bfff83babf3ac88337e0822ceb07cf482bb741bf45c6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever Pakistan foods reports sales growth amid profit squeeze - Profit by Pakistan Today",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEVoNXotSzBReTk4Wk5Pc1dNU01jQ1Z3Z1VxVVR2LWNYOGVQMWtya2lXRGJGTC04TV9zSDJhYkhtUk9DTnNMVHNKWW1nZHo5YW10VWVoeGs3UTJRczBfTGdrejR1bmYwZ3dRbnc3eWREOUFZS2l5ZjNWWFZjcW42TGtDdjVFcGlwVV9xM1o0dHVuaExNbnI5TE1tbE92eVdNOXcxemxKaWJuTXBFaW1hYktn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:23:42Z",
-    "hash": "9f7de871c459fddede083e54d03e401254d16850ea0f5c33178f029acb94fb99",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum treasuries overtake Bitcoin reserve firms in total supply percentage held - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lYjBNbDRDR0R6bE54UjNDam5KYllwMHFtU1Q2cnZVQmt2N1NNYzJ1ZHBnR0xFLUVIaGZYRVlhRkZia2c3S1Zpd2VVem1ZLTdSczJ6R29FaXVRSThlZlhZczdHb2RKYUd0SmN3ajVNX2MtbUhGck9DcGJBc0dsUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:22:00Z",
-    "hash": "fa5f721dda47a4cec9b74af69520f8ba4a98d356add7e8fa8886878b9b1c6ae2",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stocks rise to records as traders await Fed rate decision; Nvidia climbs: Live updates - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yYUstbXpjYlc5dUY5d3duQzhHdENxVkRVTlNDaEpBczFmdUVNMi1wcnVCanlaRGdRaUZQblVUN2g4ZzB5bUtaU010UngyU2NfUDdyOGI1c0JRdDg2T2lUdDNUQzNWSHpRYUtBaVhCWXhwU0FhOTJaNdIBfkFVX3lxTFBTV0ZEcUtTekx3ZmdKMHRDN3h6OHA0VWozLTFIUVItMU5Vd2Zza3I0R3JHN3EwZ1pYd0lvZVVDUC1ndnBXaGtHXzA2NnNTdmJoTUtFZG81ejJOLVh0RnplRGxyZlpsSDlsWG90RlhQajNHX3QwNmxaZ2dQNXpBQQ?oc=5",
+    "title": "Stock Movers: Nvidia Hits $5 Trillion, Fiserv Plunges, Caterpillar Jumps - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUFDN3ZkLXphajFOSy12eEpiRGZ4M2JTUUE1QUg1MWpNbXFEakxGYlJ5dEtSVzdyNXVKMG9LeVFQU19Oek5MSWJXVGJuQnU2aHBmR0ljWXZqWVlPUEkwUHZNeXh2Tk0wMEROSmVmZm9BTHBlZ255SldkVEV2dU51dmlzSHlacHVTTFdrNmE5TnA5X1Jmc1dkT1hCXzlGYktiSmQw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-29T14:20:00Z",
-    "hash": "fbcf37a76e85f395e5c625d61c9e18fd6b866c77ffe2dd60cb83b83cf7f616a1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Grayscale Launches Solana Trust ETF with Staking Rewards on NYSE Arca - Coin Edition",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObU5HaDhCTEx1aTJUbGhOQzU1LXhxd2NMX2phTWR0bmxVdTc1RWNrZGVHbG5qQ00yQlF3NnpvTUI5UzhfU3hNa3Vzd3NpcVdmbE9WUW1FYm1rZjh3UFRncFFyZDdpay0wMHlHVXFvUXJnTlc2RmdiS2d0ZnA5anFoTlhQZGl4RUFyWTRuelJEV3dBUjFCNWM5LTl3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:17:48Z",
-    "hash": "9ee62b929f8a0ebaac5be3157f69e6c0f6abbe197365989c8995a31e72d95a92",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's Market Cap Tops $5 Trillion - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxPX21uUjl5OGJpdXZRcXhBbXc0bWpkT2RMNmVFdlBaczVsdkdUQ1p5em5mdXlBZnRQV1JrR0s1MEF5bURjUjRiZUZmSm5VUTZjVURWeXhsOHpwVjhVQ3k2dkZaWWpGbS01VFllemJUUm1pQVVPblR2UDJjamlpR3BtcjhqYkhEazZYZVZaQ3huc0Rvd0F6Nkt4TVktRDhPb3VMY3FZZURMZGt5T1Mtc0I0ejQ5SUZYcDZETlZyV0J2NmhfdVBMU09reUVKcjBqeFkxR2tSMWd4RnJVM3FzX0ttS2M2RjFOZXF4NEYyM25UYUg2VHZFUE81S2tCcU51MWJtNWQxLW5YeUFUbnJWeE96dlpuMExmbG5Fd1g2cU1jYk83a2FZVlI2NDRrSWZIVGM3ZlptNFJnQWpzdGp3cGh5Y0VQaGJ6bXBRYTI3eW5UeUctUmxuY1VMT0pueU1LX0hKRWJlTWFDOVc3UUlLYzlndU85d1RzeGVBb2c3RkJWNGx5T05YREtBQ2pTNlZJMW0tZFUxUGRKUEtWWlU0UWdLLXNhZ19kMld2ZVhUV0ZtZGlscjFObGxYME5ZeFZDbFZUWjhXVmxBWEtIZmx5dEFMZ1lHQTBKdWM4MkIydQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:17:28Z",
-    "hash": "f452bc522da4d55fb737fb2d1be29f0ccb59e7b340465267428cdcd5cf1081a6",
-    "source": "gnews"
-  },
-  {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "BASF Group Issues 3Q 2025 Quarterly Statement - Ink World magazine -",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWZfSmZfUTEwbTFzZjBrQ0o0NTVPdm9ISVltRGlEUUxJNF9JaUxQTzlQeXh6V3VJRGhuOUtTRWlZR1YyYlhVQVFESkRZb3I4eWhDX3h1OURJZjhnajRaVTB2NUc1Q0JqVy0yYVcwRUItZnRYZVZxVEoycnFzdkZYUmxqdDlRNXptLXhLdFFrbGNzYkpNYWJJag?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:16:38Z",
-    "hash": "2d2ac87fb86d8ba37c102fe01bf200c3c1ece628b6d83f094de37d68b50ad00d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Why Did Nvidia GTC News Spook Quantum Computing Stocks? - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWVFNZ0NlM1FDWHBuVlpTSG93SGgyUm1YYzRvQTRSWllONFFRekdzUUNSbXdIT0ZFaF9JdUQ5UjRpekdGUjlIM2w0NGVhdE9XbmtsTGxsNTQxTGNGdmhBdm9remh1SXRRYlJrZzJoRmZ1RkdtcnhPaHljMngzMk5TTmpJcTJVOW8wWEZMV3dKSXFmYWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:15:31Z",
-    "hash": "4d28646f0327e1f4ea047ab4959585610a5a7e7dae9f36b2e1ea89b02b1212d6",
+    "published_at_utc": "2025-10-29T14:47:43Z",
+    "hash": "9631334ae626dd595c2c19006867802c3b7e1e51b2808423bb76296e5e0a7e80",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Q4 Momentum Builds for Ripple (XRP) and Cardano (ADA), Lyno - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWtpSkt1SUpKdFVROVVxaHE0cHhDa2hQbExZcTFrWUM5SWxheTJmTXZyeXlnQ3N5MC1DTzNiUFAtZXJ2TnhZSkhnTkNtRXo1d014RFZhemVFc1ZyMFFEU0pBQWRrcHhPaXlCODkxcXBOQVRBaWREbWMyVnQyeldzaW43dEx2WlNvVVpmSFFuSzNHMkgy?oc=5",
+    "title": "BNB Price Today Drops 0.24% While XRP Latest News Signals Strong Liquidity: Can BlockchainFX Be the Best Crypto Presale - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV0xOZUxCYXFqLTFrZ2dCTG1rUklZYy04X0xXTW5YTnpSTWV6QTlaalU4VzItMWYtR0Z5cmJramgzYThfOEFSNjVBZ2c2TlctQzU4elV0VmFfRThzOGJvRGlIN2tYR25BR0xQTWZaZkJYUDdNZXEtUUtGaEFRRFNHQjRuWTZRTmdSOWlTSmhmU3EwMFRZOEFlVl9UMDI1d0o3Y2NCLVBaRlRoXzFacWVSUTRCaHZPcEJ6Uk5zcm1GbFMzbURUWG5YNS0ybU1qU0dKUHk4Z1pYdmFXUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-29T14:13:52Z",
-    "hash": "ce24abc1b3ac6c4c7399f4b48b6d6d4849cc67f70688e4e98031ef43fa150816",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia becomes world’s first $5tn company amid stock market and AI boom - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3ZUVlNkNVpFZkY3QTI3UmVrLURmSW55aFZmaXExWmc2NDZIN3pNN0FScDhvUldMZGVCbFdZX2M4WGptejctTWdJdVNrYjhkLXR5aTdKOWRBU2pPbDlIWTNRd080cGY3OG5xTUtlVFlGNy1YeXJZZXhSaHo4QVhOM0NjeDQzRFZPcWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:13:00Z",
-    "hash": "a75540cd481740d3b13a93492b459442ee82bebbb797d7fa922ccf634c87564c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Nvidia hopes run high, with Fed decision on deck - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdV82RkdlS3MxV09PRWtDS2RoVkk3dEhEaWszb25oN1FRVnZJMnNOTmZSNjlnYjJVWE5UanYwSnp4cnVNNTNOVllHRUVtYWNSNGktejRlS3BMaEVzMV9xLVFIcUp0NHpERTJ3dzNoMDNYSkJCcWxNWGxkU0dleUtza3EwM0h5d2cyWlZLQVpPcmFGNUNBNWlKakhrTHV3QjVUUTExenVUUzlwaFIxUXlSdERKT3NYQjdNNmsySnlQWmVJS1p6UWFqcjZCMWt2bUw0Z2xqMmsxMlA2UG8?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:10:37Z",
-    "hash": "f4e73cd8d29e2d42dd215c1c6cb3e61b5cf317f82b6083d1525b89632c998829",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia makes history as it shatters $5T market cap ceiling (NVDA:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON19xWExHN1kwSjNDOWdIa3BfVmpaZnRXT2phR053MUE3TVg3ZkFDZlNZeWVqRDRjVFpCVTVjQjFGUmoxMk1PYS05bWFoaVVPWTE1ZW1lWGEwR0xudFgwR0RLUmI1c2dnVmhpakRjVVJZUnU0a0MwVmdHUGoyeGxxVDFaQ0Z2VW1laFhheXpmaWxQbDE1SmdXRXc0MA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:05:12Z",
-    "hash": "11399fba453adb600eee34d0085d8bcd9141574f2c18b4b95c55559ec3f1d937",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google announces $2.85M funding for AI skilling in SA - Connecting Africa",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcnZ2VWlZUERjTzgyOXl4aXZpY20yVW53Ti01emo3bEZxUE9mOUtPVThIMGxqSHdtelQzUUYxbUtoZXRLMlZRUFRLMEEyMFNUWVdMd2hYeG1MR1NpT3R3U1lSVndOV3pBYmhUWnZlUE1tVm82ZkZLOHVyeFdGQnMxUDVKVWlpcEZzRGxRVVcyZTJKcDZuYzB2SmhmcGpEUGNzS2d6d0pZSVVMZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:04:23Z",
-    "hash": "e663a9a2a8ce779b2a3ad08ee470a71b1d0140de8b86023938e79a34424aaacd",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Stands Out as Wall Street Reaffirms AI Leadership Ahead of Mega Cap Earnings - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPejI5c0Z4R0lZQTM2UjZNTVBVNENJdjBRYVpBQlYtdGM1ZW1sa2lZN2hua2lmdnVUNU1YbUdqWkt6U0dJQS00cmhCUlFnNTZYaUdZU3NCZnRsbnB5OG5CckhKbTUxM2FLNlRhSjhXMmExWnpDVExnSENFTXdiZWVRRlVUM1VVRWJJbktRQ3pQanVQWE9NSTV2TVNiMUxhVG9Kb2xyaTQzWjhyQTAwUGRpUUdGcHlXU3Y2aWwwOGkwQkVnN3pZRmRJeE9Ob0TSAdQBQVVfeXFMTzZCTVlyRWs5TVFXYWdUMzNuaXFhbnFWVHpTZ1U3QkhTRzJFbl9SNHNVYUcyU2pSTXF5R2w4Uko5WHA1V3dQbHFzVGdheFZsUS1VbEdUdUh2c2tfOW91b3BESll6S3VXUTItTkF2dGhsTXNtVDBVLXR3bllBN29XNmdwMW91WHRNeEUwNnNzYmpOdGZZWjhQeXh3cWthLXBfclV2TW9oVkFvUEtEeFNpWXlTOUtXSW94ZUVFRWcwTVQzUFZobldZbjRjZEEyeENxNmpnaV8?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:01:19Z",
-    "hash": "6bb724ca3550a435899e1da4e0939a4c0bb4ed657f4501b6bcb62ecae0136f50",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "More Money In The Bank For Robinhood Markets Insiders Who Divested US$133m - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWnppUHAxZDVQRTM0eFFDWThZQ1RCaENhMGhkMzNlZndOcDBlU2NCRzREOGxzQWcyUmpCTEU3ODBBWEkwdjlodXBpTDVyV1hJbE9jSWlOVGZtY3BhOU5iQ3dvNWpSSU9KRk5KOHVlUS1TOUZtaklxekc3ZWZ2QVo2MlEzRG1kUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T14:00:24Z",
-    "hash": "1269e5c1c2adc1e3528c39a3eb24a987bb6a701dcd76c531d226daf92682bb57",
+    "published_at_utc": "2025-10-29T14:45:39Z",
+    "hash": "e7564b4b72857880f83d86d07c0471183b0404d6491bca75dafdb93cf9d100b1",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Large cryptocurrencies rise as Solana rallies - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPcXBmOHRDa3h4Ml9mb0tXenRGZDRuSXNMdklRN3F3MmJBeWRTSWZiNVhlTnl6VUpUaFF6OHdjd093VlZRZGx2aHBEdEkyLVJMQnVoZ1hJajFWQ19sMEU1UlJwMzdvNTRieF9fc1NCclZXZU42bFY0RUcwQ1pzckhqY2c1SjRtM1V0VWdtbXlJXzBCR3lON3Q3R09hS1lsVHI3TzloeDN0aXFNQ3J4VC1tMkN0Zm1xbGYxZWdGclM5MC1rUlprZE1rRk9SazFzREk5U19FZ3NyNUpxaEw2RUJxa1lzU1hMNklFdGhVLTFxeUQzTGFNeG93OUxQZUVSSDY0NkZYSk4wa3BremJYdHRqV0I4U3VYdUljdXQ4YWlpTDk5MWhmcWp3SVJ3TEVhSHU5dDJ4WGdmN0JlOEU0MC1QZndHUzJsR3MycUVTWTRQN0ZybUU4SWtQOVFqZ2kyS0lZbG16ZzlpTHNUUmtLOUE0SFM2WHU2aTlIVVNUaFFqcVNtTEY5MzJQWmVLYzl1VGYtcGpISDZ1a0x6THNvZlRCM1RRcG15S2VJbUhUajR3?oc=5",
+    "title": "Grayscale launches solana ETF, a day after Bitwise’s record-breaking ETF launch - Sherwood News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0JRNTlkRm54cHlvRFlESnNfdm5BM0VaX2k2YzF6bHpxV0xkbFNKLXRCS0hrM1kyRVF2OTJIajN6VmdkWkQzeEZpazZJWXlHZ1QzMzRWeEk5WGlIWkpGNy1OVm9lWGJlWHlJTUNab3E2enVfNWJXdEE4YUF3bXJMcktPMVhCczFHUmM1eFBpdDlNcEcwVmlQcVRkWElwSWlWU0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-29T14:00:00Z",
-    "hash": "d245473d1e132eec96059b0aaed811a9c320b9fda3eb387dc68a33b214223046",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Joby Stock Gets AI Shine From Autonomous-Flight Deal With Nvidia - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOUnZVd3BoSkVXQ2Jxc2cyeDhkMkc2UGNVamdRT1JvOElmTGR6bjZDcEpfOFVRN3FHOGJ3VHpfTmRua0I3Rm9zTHRqWk05UjNEdENZSFBCdzlaVHk0WEJXZEV1cnRDNXJxVWUtMTJ6QmhGb2c1eXhSN3ZmeFZCUEJFSEtmZ3J6ajJqaWFiZGdabGdxRmRGaHdTME9VQll0SkwxeVRudUlvNWVRVmZVMEdCbG84Um82TVpoeF9mcjFqaU5pWmgxOEZyMUZHNDBhdERSdjhnR3lhSnpIVDhrNG83dDZGeF9SMU0tLThfRFRSZHc1SGloeDB6aG5UeTMzT0dYemNZUnp3allkeWx5VmRHbjE2anFvLVZVMVV5UnFGVk9LWm5iczJRcFpfM3N4X3lhblh5Z0FfUTQ4cVdlNEVXeGlVY0lhMnZnUm5Nc1dINmNEdk44cTdrMUlqeE9vdl9NbUVRak04a2hPSE1mSDVodDVqNWYxLXM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:59:00Z",
-    "hash": "d7589ceaa7206d6756d8f9561c085e3814f3b255b281c711b3f59f0e82beee50",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dow Jones Today: Stock Indexes Set Fresh Records Ahead of Fed Interest-Rate Decision, Big Tech Earnings; Nvidia Hits $5 Trillion Market Cap - Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vYUF5RzVCdDFQSkRjajBFYXhEMnBqWGdVZHNSU1VKRWI4ekNtcXlvd1RRM0NtLUhXc0RUZFp3ZTBXYm50eG9oa0ZtRFZTbi1wTExEZUVlMUhWRTRhYWp6Rk15NW1CRC1pTm9GMVJrMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:58:50Z",
-    "hash": "e0d2b90c88ea8437ae346e9a4512c0ff7219224cc769dc57f85bb662aaaaccd6",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Shares Soar as Trump Fuels Hopes of China Blackwell Sales - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHJqcXBVb2pmLTNLNzJ5enFUV1hzVGdYTF9tQ1JPUU9zcFYyMV9IUndxU1hJOTgzaFgyb1RLU01VU0RWVVJxVTNKQVFFM2hEX3QxZDN4Y0Z2SUkxcHBpY3BaX0laeGlub213YzFHclBHTmk0QVduY1lRd2FLUnJ0VTNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:58:31Z",
-    "hash": "07b84354610aabb0edc03a5a993032eccdf43db51ace5f6134d930306c2875ef",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Peter Schiff: Bitcoin Depends On 'Growing Supply Of Fools'—And Technical Analysis Says He's Not Wrong - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW9fY1gwYkNwTHVMNTdmR21NM0NObU01ZHJhUU93V292Y1JZOEVTWlo4OVdSRlZtRmpHOG0tbUt2SXhmX3BmV2V1Tlp5aFpuQTZCcWYxZTFWbzh2Vlo4Uy1WaWtYRmtHV0dNV3pxUHhpMTRfR2dtaUhkLWNwTG5SYlBXTl9uNVRvZm5XcmJoQ2RGTFFFV1ZHMmtVUlJjWUR3TGZ4SXJHSER0MXZkcGlaYjhQeHdGc1Z1?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:51:50Z",
-    "hash": "f0f7732a008271a7c35408ac09be176bf96883a67611472dd75b6b959801feca",
+    "published_at_utc": "2025-10-29T14:40:24Z",
+    "hash": "df27619131a053f9aeac7ed6732eedd6bac2f434676428c812935a89677ea4a7",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "AI Spending Is What Matters Most in Alphabet, Microsoft Earnings - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG5YNGIxY2dfUHljN241U1NJVncwNXhBSUF5Q01LcUoxdGtQeHQtajE0alpwQnBrbFd4R0dTZDNXU3pRdzRHTHJLc0F3ME9DNEZqaUlSWHFCRnNYY0xYMnV1Z2dVZy1wSVNjZmRCSi1JVnIxTy1lRUFITTBXVTNlQ21LaE1fdGx4Z0swQldTbm4xa1ZKUDc4dUFEUUVuRk5zS1NZOU5Ya2pRak4yWVFNTUxMa1g?oc=5",
+    "query": "Alphabet Inc",
+    "title": "Alphabet 3Q25 preview - what can we expect? - XTB.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS05jSlRZcklrZU9FUTM0YTF0LTdnZXN5S3gzSWhETWc2S2ZxVVBFR0lBbGJCdHA4SHI4UEhzQ1R4TmFYbG1RT1pRYWo5MjF5eklEZmxaaElEN05YdzFodHY0bFVzdFYyZ2RJV1h4N2FwRHl3ZWRaUVRHcmwxcVE1SF9BckYxTHdFUnlFbGNZODhVd252Q25Cc0VpbnZEeDg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-29T13:50:43Z",
-    "hash": "fbc18875e6913457b5b40f1736a52d34f5e6453e7394d52c6503333a2fb64594",
+    "published_at_utc": "2025-10-29T14:39:36Z",
+    "hash": "eb688116fc69a5c2f2164c3773c0af6df1419eabbea76c9fc8c25def45709236",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nokia Surges as Nvidia Bets $1 Billion on Its AI Future - Trefis",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdEdXNUdESmhMYVNSTG1oX2RhYTI3ZXlvdUJ1ZmZJVkI2SWF4QjE1S1JKUkZNakNVblh0ZHJIRGZiaVFpMTYtR3gzdHZWVmRISEFNMVoxNmNRR2dLQmd3cjlzcFRVY0taczJjMW1ITExkbUZvVDg1STB1d0ZEN3BJMUljWS1xVG4wVWRBTWFFdV9pVjJkOUZVTXNPYnV1ZWpnbVF4MDZEdUU5U3hlT2NaOFM2WnU?oc=5",
+    "title": "Stock Market Today: Dow Rises As Nvidia Hits $5 Trillion Market Cap; Fed Rate Decision Ahead (Live Coverage) - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT1BBM01JVzBBYWlySkZkanhSR1ptOXRiZWNMbF9ZUXdTeHlWLU9wbGhjRjFZY1RaQTgxTG5EcVVEbC1SOTM1Y2lCMDQySHJfWE1yZGgyeXJYNE1FZTRxMS1HUzlrUWNwWWVXVXJFZmVfYkZLVUpSazV2ZlVMQ3JQLThWcXd5NjlsMTVQeElNV192Q2ZVRk5FWDdIcVV1anlzVC1yZVRURkRLZGduVEVoYTd3a0lLNklETUpJdVBB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-29T13:50:40Z",
-    "hash": "638c075ba0bf1e32372262b44ca2cde7a3a3ce4bc862d171950500521c8bf60f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia storms past $5 trillion valuation as AI boom powers meteoric rise - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ2NmOG10bnlnajRENXk1eTlMZEd5VFZuRkx4LUVXcmp2Q1pyTWZNMWk4RzFjX2t3dUZfLTlpRUpnc1lUVWZwdW1jUWlyS1Q4WjBSQjlBTF9ORndaSGxHaEl2bEVTY2tiV3N4M2xwekhBeUNocVBzRmZSc18wQ295TUxySGR6Q1d6NzJDN0xudldob1lRUGVFZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:50:24Z",
-    "hash": "8a5656323169f64745f2f0557370f0ee9c7e92f016f92c137b688722a338b3fd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Will ETH Price Recover to $5,000 as Spot Ethereum ETF Inflows Pick Up? - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hSU5keW9kLWJpVlFKeldNODFyb1VaMjZ5V2pBck9aS3pSdWNmTFRsSGtUSDFERm9SNWZYQUVQcmZvM2F2WjZIRVJxTk14UjV3QU5vMm40dDk5c1k1OXNPb1FLbEtyZk9nTDdF0gFwQVVfeXFMTTNwT2ptR1ZtUG1RQmdiVEcxcnBEODZ2MFNfd1ViYWhTMzlqdVVXcGVycXNpMWNkd2JHalFPWnFxLUZMOUQxeXM5TjJ3YzQ3MzZGX1BSSjF2Vk1JSXoxbkd5aUduNmlUOVFwSEZlcE16SQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:50:22Z",
-    "hash": "0298f4ec489b8f1c92b8bf697e093cd8aeeb0586f5b22ea9117605700da3f0c5",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Stock Cracks $5 Trillion as Trump Says He’ll Talk Chips With China - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNZlk4bXN5d2FVQ0lpVnB3enVlSEtvWnhUQmFtT3BIVmZCbnV3LXFhZU9rLXVkVi1wZUFSLVduQ2dpQUpRTlVrNnc2eDBiaHd1cWMxbi1rV0Nncm10b3ZFZU5UNUJteHFhd3RyYkJpMkpmWnl5aWpiSjc3OXV4ZmtGWVJaOUl2bjdoZVN0ZDZFVG5xMG5tWVhtWUFuVkJJdWdKWGhLLUF0OVdWYWxDSGlRQUNaVkJUQzZtbmdpRS1kT19ObjNPaXd6QWphUmpzTkpDRzVKYkxGaDlvRUZRZVdWSGpxS3V2bzdrREVBNTNWb2l0a2FDWklwbFdkTjR6SXJpQW1GcUc3aUhNaVJucTVRVXV1TGtjamRGMWszWk0xT2pTRXNXeDBQaXFJOVhrcDNJSTA5NF9oNlliMmhkWU5DTTdHZ2VTMk9teGFCVTN4ckdBOE5UdTZkSGlfaldIdGlsSF9IX3ZlclllUGVEMml6VmhxUnJvdzFqNGVEeXhlVUFRbjZUM2k2TWdzdU1QcG5NUHpycEQ0Yko?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:50:00Z",
-    "hash": "6df673a1f18a7895c717ae899cde3285100cb50b44d46e6bb956f61ff01ade05",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP price prediction: Traders brace for $3 target as XRP coils near breakout zone - Traders Union",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2t3WmdoVFVSOF8tbmhzaTFaS3JSeEpqT091anlfTW5tWkc5ZEp4N05PNTh0cDlGMWZzdjNaZkdsZ2hmSmhvQ2FpU2Rfamdmd2FZN3ZiSEJHbGF2U3RYRzMxd0M4ZHlWdVRxVV8tMXdmY0VMZk9vUTRYdjhLTEdwSl8tZ0NpaEg0bF9v?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:48:22Z",
-    "hash": "f5569d88692f6bcbbbb0daf11db308daf9b05eb76062e14da4a311b5144cf5c4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Just Became the First $5 Trillion Company—Monitor These Crucial Stock Price Levels - Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTGozVmY3M05LQWQtTk1KSGV3X1BfQklObjBDS2p4aVNEV0UzOXZrc2VWRE15eGxGVUM3bVdUZWVFajFmUnY3c05TVWhuV1luV08zS2FFTjBkMG5Zcl9XU2NLYmctZVd4eWFlT3ZadXdOZ2NuNndJZ19zQW10aXZ2Qmlab2pRRzdnUWNzdEtYQXVYVkhJSzRLZWg0T2pNa1htS1lTWEJpbUpEQTBWVXJKd1BTSUlFNWpSSFNFSm1oekljZnJXal9WLQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:45:45Z",
-    "hash": "3952540fb08c28f35a9ab7a3914b0592d9fb2fb6b29bb17ed431fed7ed554af1",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Becomes First $5 Trillion Company - The Wall Street Journal",
-    "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOVmJhSXlWX3NUWlB5WGZ1VUxkcTFxeTkyQ0VfNVltYVFhUi1tUmRuUWlDdXFlbElVQTdsNWZFOGdiT0RDZ2tjZ2JXWVBPSnJRN3p3MkhKd00ya0NwUlR3TzV5Zk5iWG9Ec3dVeVBFNXhXRE5zaDdKVC1zYlV3UERpd1R6ZmxnZFdtWHpuLWtFR1AtaTljN3d0THI3N19ZQTYtVFBpVDVuS2pVbFl2YXpnblRWcEo1UkNnYmVYdENZZXZHWEg1ZFNmMkY4emRoNDRvamtDUEJudTNkRWNPUUFsbldJZ2dxTzAwSGVhTjVTTjFXc2xWXy1RcmN4b2RuZDJ0VVpqRFRxSzdpelN0ZWtVWmtxdUhYQ2VUeGtlNjBnRkRHN1RVM2NqSWZwZEt5OGRBWkkxX3ctbU84WUNrN3JiM2N4NUVJZjBEN2Y0UXQ1dHlQZk11THpfWlBxTFRyVzFUNldLbG55a3h1dDlBQmtVdkIxZU9oMU9GQjhfZzMtcHJWcmNieGhyRDlRNHZ1MWJwLUsw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-29T13:43:00Z",
-    "hash": "a4c92a77ed3fa85221d56bac85d039edf1fbbc9de618108b8cafa0e9ef235a72",
+    "published_at_utc": "2025-10-29T14:35:50Z",
+    "hash": "2ef49119a49406f2c86c262e5e67dec8d560a2e411c0b76debfdd2cbc47705b8",
     "source": "gnews"
   }
 ]
