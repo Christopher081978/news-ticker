@@ -1,112 +1,152 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet reaches $102.3 billion in quarterly revenue milestone - PPC Land",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXR3dkg5WnZlWlNDSEk3WFN1a0NYcG5IVHhvZjAtQkhjRjM2MXRwY2cwSjRDWDFKQXBDazVQNGIyRVdmSkIxalN1UFBLTExjTlFvREo5a1l4Q19SOENwVTREUTV4eWtxRWVsb1M5cF80dzAzZUkyTzRMWHE1M0ZaZVhUZlNTZw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitwise Solana ETF Extends Record-Breaking Debut with US$72M in Second-Day Trading - Crypto News Australia",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQk5DdjN4V3Q3bTI2R0pxeHR0OElxeklMSUxoSXhBNDBZMmlhZFhGTlRYbEN4cnNYcVRTMTBpVENNSmUxZ3ZYUE1SWjhSOWIyMENhQi1FX0RVTXlMemNCaWlyV2lIektqcVE1SDZwXzkzeERqbUJVUjVqMDFsQ3NZZy1TMXpJSTlaeHZrYld1TGwwZmt3OU1FM0ZoVWdvbkN4QUtlcjItMHlXUHR4T25XaTZsSW01dmRGUkFhUg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-30T06:38:18Z",
-    "hash": "80098528ba663e4175e6a2941ab9f125c2d34bc91114ae1fbb2830d12b4ee1f4",
+    "published_at_utc": "2025-10-30T07:23:25Z",
+    "hash": "be751c3e4e98d4774c7c7f5bbed87a934099f13eac044e0f6cef0024b2bfbaef",
     "source": "gnews"
-  },
-  {
-    "asset": "Panasonic",
-    "query": "IR/Press",
-    "title": "Panasonic Holdings Reports Consolidated Financial Results for Six Months Ended September 30, 2025",
-    "url": "https://news.panasonic.com/global/press/en251030-4",
-    "summary": "",
-    "published_at_utc": "2025-10-30T06:30:00Z",
-    "hash": "5d9948e608384029a38b9d119149c819104d05454e15636ccf27287104b81c23",
-    "source": "rss:news.panasonic.com"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP, SOL, ETH, DOGE News: Traders Take on $800M Liquidations as Fed’s Caution Sparks ‘Sell-the-News’ Reversal - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTWJreUJqTUtZUkV5Z1hzcUFCZVhYdHA4UXNXeVB0VHVwc0hIWTJyYkZMS2l3S3BXVWNhSE1QUEZlb0VIRi14b0hQM09rZDFmb0VWajVqUXlCbllaY3J0TGtOMG1zUUNxSWYzX3RoTGxvMnIwX2YxbkZZSDE4alRzdVl3N3lmMnN1Tnh6WmlDX21jbXRUendqOUZMSm1jMDN0blR6cE4yVkY5TlNIcEZTaElPT25CMmhtZXhQZUVUdEZvWDlZcEszcDRCdUlFakk?oc=5",
+    "title": "XRP vs. Solana: Navigating the ETF Landscape - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BNDZFMlgzNHhBa0FZbUZ2ZU1tNlVmLVVfVk9GYkZFdGJoaVUtY3REUlhKUDBZNGNHVnFUREVSdnhSQkdTczg4N0lQT050OE9LbzlscHFqcnNYWnpsZFNsNlRBZ1E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-30T06:27:42Z",
-    "hash": "5c990bcb58d98c04bc98ba42c8898a805b09bd06c32af8336624b0693b1e3864",
+    "published_at_utc": "2025-10-30T07:22:56Z",
+    "hash": "99577e0e83d7616051e4e6949d34909cd37466e1cbe83f42d84effe7803a1a2d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "XRP vs. Solana: Navigating the ETF Landscape - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BNDZFMlgzNHhBa0FZbUZ2ZU1tNlVmLVVfVk9GYkZFdGJoaVUtY3REUlhKUDBZNGNHVnFUREVSdnhSQkdTczg4N0lQT050OE9LbzlscHFqcnNYWnpsZFNsNlRBZ1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T07:22:56Z",
+    "hash": "99577e0e83d7616051e4e6949d34909cd37466e1cbe83f42d84effe7803a1a2d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Air Liquide",
+    "query": "Air Liquide",
+    "title": "Air Liquide completes multi-tranche bond issue - MarketScreener",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3pjZ3gyUldlYnN2eTdjMzhNY2xGUWFJMFo0cHpOOHBQRTJwcFlsV2pmZTBCalVIM3EzY3l0X3RLY1JYbF9wc280cUIzbXhxTGpiZGU2ZEFxcnhPN2UwNHdhUjRDejRTX2RockxzVk12NU1PXzJtZjhGN0lWdjdqRjBfaGZOWEpHQmNnMEpSTWQyRVVkWUlmY1F1T2dNYkN1bzVmWGNKbGZ3c3FUVGxQbUZMa1hNZlFua1VURDFB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T07:18:17Z",
+    "hash": "f378817e5c5003d4ebbfefbd44eab5166b2cae2e7a411fd9a86fca17212ca45c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto Coin to Buy Now: BullZilla vs.Pudgy penguins vs. Official Trump - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaGYwT3l0OXFzM3htc0FUZnVQQzB6MVVGQmdIMXlWMXMzaVh1aWpXS1ZWRmRJNTZLWlpZTDdpVkV2dlpiTjUwd2stTkdYdm1fNUxhbzdKMzVhUUtKaXBQVVJmeU9kckdZREwxQ2UzNTdzeW4zMXY4a21GQTR1LWhfT3lBNUpzV1N2SzZfUmVLNFhMdVFSUGpKXzRSZXlkbEZrU0oxbGJzRXFIVkFYTUNfTDAwa2tERXBxeTZFa1JhYi1KTk1IbVgwemRjdU9XeDVFb1ZqODFYQThHQk9tck1N?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T07:16:44Z",
+    "hash": "4eae3f94885c246e7bb0e23829c437beaa5d712901158761027025fa175ffea1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia: We’re Impressed With Visibility Into 2026 Revenue; Raising Fair Value - Morningstar Canada",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmREQTdmUTEzSVMyNW5RdEFvVDNQNHdKNi1kajdCN0JUb3lDZm9hUlhXT1plWnZTSlpaWmRRS1NvLTZrT2JMZ1l5VXd5OWNDQjJFdGFvcHdHMFh5VHJRZEs1cGJ0Y3lUUVJoUHV2VzNvaDFudGx2UGRjdkJmZlVrRlo4WlYtNWFhamNIdzhHcldfNlMzOW1jQnJtRUdtSlZiaEVaX1lrbUJIU3doTExoWGcwSVlCbTdvTlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T07:12:43Z",
+    "hash": "d51f834a95efb5964b05d8b0380f2f6861caa7f74e9cb0892786bcda8bde4dd6",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia Stock (NVDA) Hits $5 Trillion Valuation — What’s Next for the Stock? - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUzVYcjN6eVBOOFdnSVNqY0pjSnRLcHpId1JyMkhCY3VpVEYtelRSRExoaFljTUZXMXBjRGl5X0hQQjYyRVBMczcyRlY0ZVRVbGNLWG9NcjhBSlFxVHVZczZBbmpuT1pIWldyU1pIaXBGZzRwZ1RpcUg2WHY2YUZvNVJCR3prRlNCUTF0bzFwVWtIS1VjbUFGR21DMU9oUzA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T07:01:55Z",
+    "hash": "76764c399a18e02505d6fcaca3b799f6a3fb2a1e8ad281cae56427bce0595f27",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BlockDAG Surges Ahead of XRP and Aster in Top Crypto Coins - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUE5jV1oxRFhYcmVTbERCeXN6RVVOd3ZrOE1UR09Bbzkza09VMVFEbk9CLTEtWHRSMFc2dGJfS2JYSlhJM2tZbzhWZzctSG1UOHB6VlFQMHpqMUdJY3VmOWFqMFpzV3NnNVFyMVVIQzFreWZCZDd3NFlQYk83YXdsNDd6YTlSTnU0ZEJYdGUxY0hUU0xHcVB1SmhQTWl3WmV2MXZvb1QyTmhQYUp4RHlqenRpSDdDZzlueW9SNHk3T3R5YUZ4OHR4NkdYQzU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T07:01:50Z",
+    "hash": "095ce2653ed19fcdb219ee50e9504fb5098beb5b5a88a230e713a49ba88766f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana ETF Rumors Swirl: Is Now the Moment to Load Up Before Wall Street Joins the Party? - TechFinancials",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUjFjVFQ3eWlralowaHRXb3I2b1hFZ29RazBCWk5IQWZMQmozZU5CazF6Tzhyby1VbEk0SVJ5X2dCQkkyNlpISVhYSHpuRlN3VEF5M0FDaHpSNG1ZcWFxdmN2RmtvanFOdnY1WHZyVDNyUTRyRWVlVG92bW1Eems5MTQ2ODFTRlRYcUdpcmJwX19OWlZhVXdmWDVseGY3d2JkVFhHS2oxRlNjQnN1OHQ1UURrV25EdWNHOTFiMFdGLWlmY203akFR0gHPAUFVX3lxTE9RX3F3OHphMGdxTjlTZEVHRHAtQjR1b2JwU1FZcHdxV2wya3UxTjJfSnZ0Qkh1MHlGejc1cllvcGJZcUN3UTNCZnZPdDRXZldoR1FLcFY1eTZuTDZ6YkFqeUhpNjc2RzhvRkE4ekhxYUJRQmlqaDFSYVB4dmRXcVE5UzU2cGVNQ1lWdUpyMkJqQlpleElvRXNfZFgwTWZMZEtuUlFQZkozcG4zMGZFTlB4RTNvOFZaT0l0aEtBMjgwdFdSellIRzVjRWVPZXFSQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T07:00:05Z",
+    "hash": "7ed7ba62c3b759b967f0e183fa6018dac6aa0ccdb9277ba75e94d18c9b5c50ad",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Dismisses Concerns That Stablecoins Threaten US Bank Deposits - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlYtUnIySDZmcXdFOUdWUlhFT1kzOXFKcHFDNE96YlFUZVZmUnZvZVVLaGVfTng2SFBpelprZHJtNWhZd2RfU1paenpyUkN2WmJxR1VIeUhYMHZFc1k4RXIzLXliTF9naGdlN0tKVmExbDVIUGRwWWg2ZG9kWUJoYzB5WExpbTlMVElyQl9sWkx0ZG45cmQzSGhjeDJ3SUpS?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T06:49:22Z",
+    "hash": "e314912f9a1abe375b71c541a57038de1a7b8e0538bc8b374041b8b273b5a30a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitwise’s Solana Staking ETF Could Change How Institutions Invest in Crypto - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNckllb0lUcUpaOW0wa0V2N0FkcWNVcGZZVzdFVVdSY1dqdEZ3cWF0am5UN3VKaGpER0lBYVFVaXVIOV9HOUZDTFFrR1Y5ck05YjNzQy1qNzZxblJoNVE1NmM0WElKYTExQXl2aXZGNEQzd2k5RzRzamdUTHgwcmprTU45aVJBQl9kOW1NMEVGbVV3c0ZERlBRZTVrbXRkYjRYSEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T06:45:19Z",
+    "hash": "747cca61daa7794b9c97cd4df8f274bdadc2cee54f138e801e9a3a630615d03e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana latest news: ETF inflows surge, but SOL faces resistance near $203 and $212 - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlRJUDVHUXZtd0lmTnVqdWphRGdyaUpON0xYZExqc1dkcjUtUE5hYmlmTXl4T3M3c19DRTlqZXpQVWF0SjZPRmRMZzczbmpnV3Y1QnZEUXo2ZkMwclZWNEliUFF2UVJZYUtRVi1DVEFWRjBiWkdhZVNLWVNBUVB6b1VuMjRfMlllaHhoVjVLZHQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T06:45:04Z",
+    "hash": "42e48ce444bc26ad066f73629de75166984ef26f9b1f3b9dc324a21d066ab2b6",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "Can the BP share price survive the coming oil glut? - Fool UK",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzFKTndRVWk5cnc5bnU5RnBGS3gyTmlqRFkwSDdRamoyd29fNVd2dV9KWmpJOE5hYnc4cnAxNGpjdlFWR0J0Zk1xMlRRaDIzRGsyYWd2MzFmX3FZdkdZdnl1QTNNWGdGWjZfRTFlMXNJNVFGSkNCQUhUTDM1c0lFSXcwUmdSWDlGZFF3eVBn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-30T06:45:00Z",
+    "hash": "d690857d1b738e1a7af8b91adb779e036702ae23dd457d72801ae80b0d06b82a",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction: Why The Likely BTC Outcome In November Is $150K, But This Is The Best Crypto To Buy Now - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGtBcGVMdm1MWFJPblo1QW5QcVEtbmphN2tISWltLWFzMl9iZWdsa1diV2xpa0NKNFZtekVIa0p4cUdRcGJDRklXZlhTeHh3bWVMUHhtcWtCNGJRRzRPX3BtV3NnNGdIMFRWQklNLWlmNzc0NlNRQmJBSk9aa2lYeU5JLXllbkR5TUdyY0ttM3l0SGgxeXNrWk4wTFFqdW9oYUo3Wk93ODhpbEF0VkFOaGFqRm9SeXc?oc=5",
+    "title": "SpaceX Transfers $31 Million in Bitcoin: What’s Left of Musk’s Companies’ BTC Holdings? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXJhSk5VbkY0VmxRSW5saldPTEVHVTMtcGFhWEdNMDBzVldpQWJjc2toSlI0Q3l4VEJQSGQxd1hkUmtkMWVkV0otRHRqdU1DV21hZTJYelBWclVXY0ZvNkNPcXhFWnVNa2ZxQmZBeGRzODBDMlJhdGwzTkZidWV5NG9COFg4WVpC?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-30T06:26:00Z",
-    "hash": "4d0d20c84d972b8808364a85dc57d4c98c4e1c89c655c094dc4ed194708232b5",
+    "published_at_utc": "2025-10-30T06:45:00Z",
+    "hash": "f977bbc63ce43473455904902652b85f64238742d79371616b0f678d5617ac16",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Google parent Alphabet reports $100 billion revenue - Social Samosa",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94OWVUQ3hRVERrMktsX0ZKMXF2ZEtaaDNpTk9iRE5YcTZsWFgyRmlHZXlZcmxUcjNNaFhXckdGZV9YZ3hNWURYOEdtUnIyYXJsbWp4c2VpRWNJb0pnT1NZblRHV0ltOER2clktTkJUSG10MlB4VmpUYnp30gF6QVVfeXFMT3g5ZVRDeFFURGsyS2xfRkoxcXZkS1poM2lOT2JETlhxNmxYWDJGaUdleVlybFRyM01oWFdyR0ZlX1hneE1ZRFg4R21ScjJhcmxtanhzZWlFY0lvSmdPU1luVEdXSW04RHZyWS1OQlRIbXQyUHhWalRienc?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "SpaceX Bitcoin Transfer Sparks Speculation - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMXlRRVoydGwtdDhKT1FxZjFIamo4WU1ZOEZkR2E5bkZ2aUdZeWJSNFJ0aFhMbTFwTTRIUG15OTZ2UXQ2cE04Q0tmZ3FEQzlzLWNMcG9xSjd0cVV4RnpKZmV4bHkybDVOXzRrYmR0TzY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-30T06:25:28Z",
-    "hash": "05bff549a3c23bc37caa5447dae17d8f136cd285551965ee5b2be17b88ddabf5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google Stock Earnings: Alphabet Surges as Q3 Results Smash Expectations - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0l6NVJMUmFpaHRROXVVZ3BqNUw5WFpWZC1ITmZGb1lJSTBYLXNBNlFUOU5mYk5sa2luVENhWU85MkpESGtNNEd0dU5TUWpYdlBQaXl1RVRsRmx3Zl9GdzR4V0h3TkVrc1Y0N2JQNVV1VHZaam4za2RWa1E2SjFrdzM4N3BITXNjbXBUWDRLNngwYWxqalgzQ29qOURxNnRM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-30T06:22:08Z",
-    "hash": "ee3447d9314feae37e5884f0c1c13ee78be2a2c17fc8478cb2802b8144c2dc07",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Microsoft CFO Amy Hood Says Cloud Revenue Figures 'Could Be Higher,' But Azure Is 'Short On Capacity' As AI Demand Soars - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZHhJT3QzZFRMQ0dfczd3VjVVY1F3SzlXeTkxVkpQNGFWdE5ReHJIY2xUZjdIU2syTXVpYnZwUXpkeGZpQ2RXMTRNYlh6RlpJSS1qS1Bac3k0TjFMZ3U0MVV5NFZfV2xjTkdnR1FVbVFueGlrMk9Ic0k5VnlEcDBDaTF4bGRQYTBmVDNkdjd4LWFjbk1lOUt2Y2R2c0pSUHJNRlh2R0tmazdhQUNJaUJvQk9TV2EwZl9DdWZDT2w0S1hrLXA2cDl5SWI2NXhTRVk2NkhhdkdhUUpYdXJQUGVHVHFMNUI3X2Myc1VpZWJTRnozQk9Gc2MwSHZ6SVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-30T06:21:31Z",
-    "hash": "f396bebaab9c2796d702f551763e2104455d22f4af04443c42b86e0cc686621c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "GlobalFeed",
-    "title": "Waffenhersteller: Führungskarriere bei Rüstungsunternehmen – so gelingt der Quereinstieg",
-    "url": "https://www.handelsblatt.com/karriere/fuehrung-welche-talente-sind-fuer-ruestungsunternehmen-besonders-interessant-01/100152182.html",
-    "summary": "Die Rüstungsbranche boomt und sucht intensiv nach Führungskräften. Welche Qualifikationen bei Konzernen wie Rheinmetall, Thyssen-Krupp Marine Systems oder Hensoldt gefragt sind.",
-    "published_at_utc": "2025-10-30T06:17:00Z",
-    "hash": "e3862d057c7e06d1acdd221d6b42fd6456db692442ea682cde1b3fe3a6e28445",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "$MOBU Dominates as Next Meme Coin to Explode With Top Picks - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXdBMTcxcXd1ZXlUM21DaWUwclZ0UmR5X3kycUxBX0tqTkRTRFZQVW51b3V2THFkakFDdzIxTjdXQ04yVHFuU201QXlreVpVS0dQREJpOHdEbGw3SmZ3T2RwM3N1cGxrNEJPbVNhQTBFeTI3WlkycW91b3VDUklJdjNXMF9fMVBlWlRGdEtGdUxnRDJ2R3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-30T06:16:49Z",
-    "hash": "a71eb5ae002498c417f6526206fea04ded3e813a4b9add4f61e91ce25b4e389c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet (NASDAQ:GOOG) Reaches New 1-Year High After Earnings Beat - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG1lblV1VWd2WmRlWnFrU056dzRZZFlXSThhQmh4Rm9OVGl6VUdjNGlHOVRaRFRDSmdSNXpqUnlPUWd1UzNpVGNsS1puNUNjTXYzQXMyaVJqZGE1RFhzMkY5ejQ2cUxVWGN4T2M4NmwyTEdvMGlYZDhFTzVxUzc1NWxuSWxodTlyU2ktNHhXdWhGZHhiWDAzV1ZKc2lsaVJ4Vy1FTzhpcVYwTDJiZ0ZPdjBfTmcybzQ0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-30T06:04:13Z",
-    "hash": "d7d0a964b7476b0fe330e601e1d03a68f7e47c519be1b957468d7e7eb8b26f8b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Q3 revenue soars to $102.3 bn; Google Search ads hit $56.6 bn, YouTube ads jump to $10.3 bn - Storyboard18",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSXJyVEE4MENGWUNkRVF3UXZjRk1fUktvMmRDV1A1MnBZYXI0UUhVN1hjTjQyRHd2MXJZOGxOM1g2M1dFaGNGbnRfWUdJX0FlWlR5TUdkWklLNWNiUnE5UUpFWWkyTDBSZHVHYkNZQkRhWk5rUXNaZkZyY2JTa25lcm4xd3lTT1dQR1ctdWlFVkRmNUpYQ1VlYW03NHdsaHl5X0JXYXhLa19LS2Z4TjZiVm1ENEFHNTgwZ2xOSWNpb09GX2h4azZGT25rQVlIWG5pSUttR1ZGQl9UTi1uaENqSXA0S3ZLQdIB6wFBVV95cUxNeVVxQWhnd1ZTRU4zYmlLaWpyZVczRHRMVF94R1JRZEg4MzMyUVJJTmVZWGZzeUVadmgyUUtaUUduaFNLWUJ5c3hBZV9uZVhyQ2FWRXI0QzVVNjNmQTJ3TEJ1TVhpNEIzaUFyUTQ0QTh0NlNfRUtkQm80bVJQelEwd3RhVmZONTRJSVh5c0h0b2NvZnYtNzNlY25iYnhFUXRZTkYyVGQ0TnpyZVY5bHdTT1FkeUNsS3hjQlZBd25Eb3NHSTRhWWdPWU5zZ2c5RHBuM0puQlJqTHpvRXhVSFlqWlh6c3Z2OU9RYzE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-30T06:00:33Z",
-    "hash": "8bcc8c8894063b4820aa6c32ad221e6cdbe73da72e6e8f4089884aa761c7118f",
+    "published_at_utc": "2025-10-30T06:45:00Z",
+    "hash": "f815e1289a5de2baf5b7e14fbebbad1a9695f60479463e046ad3653314496496",
     "source": "gnews"
   }
 ]
