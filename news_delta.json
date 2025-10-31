@@ -1,62 +1,152 @@
 [
   {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever gets ₹1,987 cr tax notice for FY21 from authorities - Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY2V2S0RlSmtLV1dxQmFRblNaMk9meDR6eVBMbjdOcGNfV2JUSUoxM2ZBT2N2eTN2ZVB6ZTQ3N2lvQlF5VUJmZ1FlZjA5aFJFamZ3TXkyUTBTY01xNVNKT1RRS2Fjem1TbFdtT2EzYXZaWFA3aGUzU3NhcHBnemVUcGJJemlYUkVqMjBNZE1YM2Z6OTBwd1hqaDVkZ3FFd0Q1ZFk0SVU4NzJTZnItaFhLQ3hYZjZLc1dRY2IzaVVTcDJqX2RzWXN4a3FCSHMyQnFBd2M0Zg?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Webull Adds Dogecoin and Solana to Crypto Futures Trading Platform - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVk4zaHFDQXpGNVdDdEQxWWx1X2ZQb0U2QjBYcWtxdExKLVhVdThjdzNmVTluSzMxR3ZZSXktNXluWWZQcjZlSWRsR2RlTU5IeDZ6SmRvSklfWHJCWXlOTFIxemdNZ1NUVVAtMnFVUE5yRkllZjN0SVBrbGJnd3A4cmsyaFQ0R21fWVBIVVVFdENnRVlfYlE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-31T16:48:57Z",
-    "hash": "69d52ba7b3bd724f8895d9b24d4f3a866d5e94141cdfc99efc105efd44cca9bd",
+    "published_at_utc": "2025-10-31T17:24:05Z",
+    "hash": "753e82bf45fb56319d00aa16afb26c66453c079bfb1b25dc74a7dc76e2e9ea39",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Tech Voices: Nvidia CEO on AI growth, China; Netflix's stock split - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ2IybHJSVDhkeWIydG4wZENVQXVNZVNoVnpnQkVXNHB3RzFCRm12ajdPMy00Rmhsa3c5UGRvaTQ4M3gwdlpydllOVHVMMWpDVzhYNnk4d0VqVk9vRUxSZTk3N1lkazZ5NGlsNFduTFNKS3dqeERiRkdLMzliaGE5S09GVU5fRkQxTUozaUtMOU5UaTJFTnpyazY5MXJGa0VNVEtpd2sxekZOU0NLRGJMUWNrY0ZWQ2NSbHBsM2tGT0E2akVkSDNGbzBMb2Q5TC1fWTdGZjFKSHY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:21:36Z",
+    "hash": "ab25c4eb73e865270d322e79e175b155ae4216a688b0d4dadcb025bf1521f197",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Eyes $3,500 as Experts Warn: ‘Drawdowns Remain Possible’ | Altcoins November Report - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1Zna1duZnFUQTd6NF9Kc05VUnpRSWhNa0FxZl83cG16Ym5hWks2Nms5akNmVjlSU2FVR2pRN1EyNzRwZFpTYVhEX3hsTUFLekFWRDZuMVk1cjdrRUxrSTM3aHllTk1STFRqX2Zib2VoUTFydVNjTWlPWlRuVWV5WUx3OFRNX2ktdDc1blg1U0hyRWdTdkhvNTNyM3JmdktEclBwM3BZWXhhSjFNN3pTajBBcXktOFZr?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:16:21Z",
+    "hash": "f5d32d57ddaa18b259a3f3b19db708210afa72c189d7d13957333cae138fcb3b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO hopes to sell Blackwell in China, Netflix stock split - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWM3YjM5Qk1yMUZ6QzVCRUV3OE9kMm1yeFpydjE5RUx1MGhFRWFVWmZFZE9BRHZJaWVfTU1DYi1mZnp5ZU8walhOZWd6MjJaM2hPUXlMcUJCbXYzMnNUaUFPMkxzcTdGVHlqTWNfR0tsYVNHYm5wWFZCcTJfYWxHNTVQSUM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:12:23Z",
+    "hash": "a9bd83c3e17790dfa8db0d20d8ed828faf813cfb5c74dadc7a22d7f4537aa731",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "BTC News: Bitcoin Ends October in the Red, Breaking a 7-Year Bullish Streak - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3VUd1k4aG9DTkV2eFFzNnJhalF5NUpSRFlmekl4QUxiSWdIYjcwV2N1cXR1TWlpQzFYS1Zubms5TjlhTDIxQnJoVDVWclRwLXBQYXljbm50Y2ljNXRNU3pFaW9RR1lyRUVhYUQyT2RXaGZieEpncEpHZmpFRjJjLS1JdkxTc2VUNUZZQnVDb0stUGZuTHFrMUdoTDVQT29RcE5IOUtBWll5dw?oc=5",
+    "title": "Steak 'n Shake Bitcoin Burger Comes With Actual BTC, Thanks to Fold - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNenVraEJZcV9RUERDUE94QmNTcGJpeVo5Y1NWUmR1UEtRYnFneDVKX0JYeURiYUJCSktkQmxNUHZoQWpzMTBpNjgtQ0dhZzZVSTZHTUVPU1RZVWU3RnNydVYxdEdWaWx5c1RHZFp3SHZ3MkRCc2pBc2V5NC0xOVNoMVNPTXpfSEVj0gGQAUFVX3lxTE9UU09hcElBU2ZJT210cWxieXJ0R0Z5S1huanN6Q3dzT0FmRHlmQnVCUmxRaTZrZWNrQzZHS1prbzVSNlk5STFfWlVGckhycVZjb0xLdmEyVVZEc2hFN01hbFNVdUdNUV9jSEh1T0psdVJjQnNXVzhSWk5XcDZueVNvQlgzQ2tnLV8yQjNvZjdwUg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-31T16:45:55Z",
-    "hash": "e25557073584314e0fe2af7a09b00093c64588548fd491aedd8e18c0771d532a",
+    "published_at_utc": "2025-10-31T17:09:29Z",
+    "hash": "7386cc853787ef4fec96bbb5ca748e16c23fa5678d3c4e73ce9bed1028ad77b1",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase Adds $300M in Bitcoin While Advancing Exchange Vision - CoinMarketCap",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0ZWWEZUSXJrYVNHSTFIZTF3ZFlQd0Y3RGlwWjk3ZHBkLXZUTk41VkNTaWJwck01dFJkTmQ3SVdzd1ZFUDdSQ21JUGhjaGRlemw0aHhKYVBib2x0V2czOVZNeTRyMHR3MHpsVjhVSnVPdXB2LUc0a0hJNXVWd2dqc2JSLVBqV0VOTG5wVWNXMFYxbVpEU0hONmc2Ny1HRno5eHk1aEVQZnVNT1lnN1E?oc=5",
+    "title": "Biggest Stock Gainers Friday: Western Digital, Twilio & Coinbase Rally Hard - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbFRHNkMtbi1YNFZLRi1rVVBUUWlwekNfdFZiR2hsMDNRS3RzbnI3M0ZkVXpIdTZyRHVkLWpweU16clI0enpROWpKdnU5WHUwNGl4WjlkX25ITVRTMFF3TUtjRE45N1U0M19US1FSR1FvYno3M25KMGFGdGVpN04xcFdNNXhZa3lOb0JLTFJHVzJ0V2JRdzc3Ums4QUxnVmJ2UzB5QzNzczEzV1RHQUlJ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-31T16:45:45Z",
-    "hash": "c6673d00d4311afb7f70ff492f82a86e1d1656863a822904672a24d6347aa6a8",
+    "published_at_utc": "2025-10-31T17:06:56Z",
+    "hash": "2af5893a5033239738d003106c7eaf8eabf38e8d031e4161b9cffc6a6c986dcf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer Q3 Earnings Loom: Buy, Sell or Hold PFE Stock Ahead of Results? - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWDIybHJDeVM3SmpvYU9Lc09DRG1qa2Uzd19GTFoyOTBITmR1bDBpdWU1QkNnVVZaRWdOUjhBb0JteFBha1U2VkFXMG1aWFlqZGRYaUFITzJnQWJOZDAyRThfM0tObXc4QU1teDVkNWNsYWdnYXVNYi1ubzRuRm1mT1N4T1hLZG9halVCQW9HRDJiZXdGMDYwcFlGNFk0ZS12LTNHSlRwYmtRUEV4MEJUNWFxYlJjZzRHTHB5dDhScG5Ma0ROQUczMmVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:02:11Z",
+    "hash": "10298d0751c7c49c5a7d4d5f704ea1a94409df4a30fe1483dd67b2c372ce20e0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Crypto’s second wave of ETFs arrives, investors snap up new Solana offering - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUQxRDR3d0ZaZ2ppTFZhT2RFRncwb2ZPeC0zUEgtLTJJUUtJZDJZVWlHVkFnaWg1N3g1c1d2N3ZiN1BFamRqQUFHZkhRNlVlazVQa2RJOXQxWEdUM0t3ZmNRRWcycE9hZVFXN3Y2aS1NQTBWbndXRGdvVGJCcGliWTdqSDRNZnozMHA5STY1UlJNZThMeElLaTdnRklvXzdocExZczZ4dFBPdFA2NHB1Y1ZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:01:00Z",
+    "hash": "08ebfa664fad53d3eaea5fd18a30b8ad320196880a674416c5dabcf242209635",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Why Is Robinhood (HOOD) Stock Soaring Today - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXF6R0dyMXJUWHJxV0VFM01hMEgzM3ZlcTNneDB2VEd6UkVjY040MlJ0YXJ3VGJvMzA4ckUwQ2RWLXBWQ0lYOGYxQU4tOWg1WElLQWE1RVZ1MkppaW00dUJLeV9rR2RHVmxtc2p0RzNkN2xNdmlPV2pwclNDc2czaWx3aUdFOTh4OU5RVldOOUxtSmZOTm9GV1NuanBDZEFobmQtalNSWmxvZDJVSVRKNVg4aw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:01:00Z",
+    "hash": "2a973e35b97af1d86d6688a1a65a28fe8d77b52b6f97af855f58ea216cd7a238",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "9 Crypto Coins to Explode – Blazpay’s Presale Dominates as Solana Reaches $196.75 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHZDRUc5MGlEU3phRmM0ZGw0WV9ZVFJfWFBkaFRtT211dDY3ZHFWLUxTY2pQMDMxWXl6NDR6ZjltRGw3cVpWLWc0VWhrd0xiTWxaNUE4clNnRXVNYlNJVjdPa2ZOYVY0ZVhLSlVrY1dWZHNWelpaWUVaMzM0a005b1hSc3pvekZmT0FueG1oeVQzX2I3NEs1cklUekJXSGFGTzZ5YQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:00:48Z",
+    "hash": "973b5a08227d42123554d8521f7cd0647ba1c5694dd48311d88716ed36d06c8f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "9 Crypto Coins to Explode – Blazpay’s Presale Dominates as Solana Reaches $196.75 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWHZDRUc5MGlEU3phRmM0ZGw0WV9ZVFJfWFBkaFRtT211dDY3ZHFWLUxTY2pQMDMxWXl6NDR6ZjltRGw3cVpWLWc0VWhrd0xiTWxaNUE4clNnRXVNYlNJVjdPa2ZOYVY0ZVhLSlVrY1dWZHNWelpaWUVaMzM0a005b1hSc3pvekZmT0FueG1oeVQzX2I3NEs1cklUekJXSGFGTzZ5YQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:00:48Z",
+    "hash": "973b5a08227d42123554d8521f7cd0647ba1c5694dd48311d88716ed36d06c8f",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Tech Voices: Nvidia CEO on AI growth, China; Netflix's stock split - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV1pKRlF2cjMza1JJaUctbi1yeldCUWN2WHBuUlZ3NE91cWxHQjE4S0N5WG1lTHpZLTBPdE4zVGFaQmZCREJzNXFBc2dTTHpFZi1Vai1NRlJGYlU4ajVLbDF6cjl3SWtTSm1abGRqOUxCWW4xX1BwWDFEY285b3hKeXhaSnJVRjRGZ3Z6LUVVUmVjeDduMnBCd1FON3FuT2ZNWkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T17:00:22Z",
+    "hash": "0f3c1307048efb7ae75f38e05e00ab051d7debedd4ca547193d4d540746d10a9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto Coins To Buy Before 2026: Presales Offering Massive Bonuses And Returns - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcWJOWE9WUWs4b3ZRZ2NublJiUFA4R1djT0VKdE1pbGk3QWM4MllmQ3dvR1JkR3JRY1NpamdWaVBqRkVOd184WmlDVzRlM1Z6TVpsY0Y4TGsxT0FuOFU2NzRudE5BcHhBeUtPY2xWcGFONVQ4aUVvOFlPeE1Ebm9LSURmdzdrNmhNaUIwLWJ3SGRtUG1NQUI2cUVjVTlKR1pXX3BsTjNONEkzRERadHZBR0dfblc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T16:58:56Z",
+    "hash": "e84dbabba5f03bb5375678a3993518f8a0275c0d15ce5f1a5bb1d7f048854359",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Time to Buy Ethereum (ETH)? Key Support Zone Tested - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nS05xRGpOekc4eldYdVIzbVNDb1o1WFdMWEZySTdETFNlaHVwd002UThRT3NQcXJjdjM1RjlFRk5pQ2N5SUFJOG1JaDVSRUxLdTdlNzZXQkNaV2ZkN1M5cFBNZ0xlQkhZZS1fdEVZcmlrT1piRFB6YlNHOW5nRHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T16:57:00Z",
+    "hash": "3cdc00fb87933dfb8a90e525707af1d32f39e55de6c837b4552238cb31bcab92",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase poised to gain from Wall Street's adoption of tokenization - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEduV09RQ3p2LVI2a09pdGNGWHdxcEg3V1pEdWtNbWhjcV90ZHlnRjhOMW1Wc1RkSDZEcVlPRmJwRFdYRU5TNW4xSW9KOGgxYlJoTEh3cVlpRW96TUMyLWx3TmFDekhBbFB0ZFZ6NzRYWlJXb0MtM2Y4M2ZOY0pyRS12QTlvY28?oc=5",
+    "title": "Coinbase Results Overshadowed By Brian Armstrong Stunt - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHNLcHVnbGU4aHd4ZnA1Q0dubHdaRXFPWTJQdUowb1lSdXdkXzNRVWpXdXpzMkowU3ROZ3JrRTZEaS16Vl96TEtsQ1NsbGt4R0tZdHRVZ0tBR1ZtaVlFQk9YZ2w4M19pMG9hbWdXdUNuTXBxVk1McGxnM2FNenJ2dlhNVlk5MWdHTWxCTENEOVNSU3M?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-31T16:45:00Z",
-    "hash": "907fa9c2341b35cb04f8f637e7736cb1cc7d01da8f91365e87a2b0575bf60ed5",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Holders Find New Momentum as BAY Miner Offers AI-Optimized Cloud Mining Returns Up to 11% - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOTczVUZMbUt6X2pTMWs4a2xlMUVMZkRaNHhZZTR2R09Tek1QUXctWjdzQnlBR1l3R2d1Z256VjZIVERwQXI3b0p3U0gwZHhZeHZCLXFYWktBWnNMN2x5MGN3ekFpS0c1R2ZrNFNqRjVVT3ZMS0lnWEFodTlVdnpvWGV5eXJLSkhkZlhpQVpPcmwxbUZPaWxGaHBWVG5wb0ctTUtQVDg2TExFYVUyRmozdUNpQi00RnJ0TnN1d3hyazdPWW1hRDVINU9uTy1RdDI1MXZmcXhWQVBsaUxsbmRrVk82a3IwQllJSG9NU2VXdFY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T16:42:02Z",
-    "hash": "849c9950e357bb69ac9654d57b007124675526db97a9877048465cf038367605",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever receives ₹1,986 crore tax demand notice for FY2020-21. Here's why - livemint.com",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR2pXbFcwS25XZ2VpWXQydDNVeVo1R1ZOWUZmcWNhVkRNLURuaEdSSWxjaWRlV2VaVndVR0lXTVp0QWNfZlZCOVBhSnVxcG53ODI5UHlxQ2lkNUN6enpQcExSbXpYQnhOMUM0MzBwcXMwbEJmbzJMRnFWZjd0WmdIU0ducGtEUktiOGtIS1VyNDAwS0ZHOUpMOHhYbHExd2FYMGpMV3dQWVh4bW0zLTlhVERld3JzTUpuREJlQlFkQ1dkc19XUlVzUkNoZmRFWi1uVnRlOHV1cktrdDlB0gHiAUFVX3lxTFBzNHJ2eUFpZzlOUGhGNjUyeTdrNGtSc0FuUlRjTDgtLTY4RmxzMHZFYlBmb0JnTHJab2FSdEVNSE02dFZCZnYyTTk0LVQ5ZmFPNlA5eU9PeW5GMUhjbWw5ZEhXUmFFYjNRbjRtMmFtTzRMVnJlbmRpS3RuM0RmOThrTUtZLWpSaDNVNllQWlljRnlMa042Uk9zRWcyeXIzREN2UkJJanJ4M2Z0YVFrTnFudFAyLTg2d2dIOEM2aDNSNmVUMzc3dF9VOVhaZnR6T2N3c1Btb3pLZGgxUUNfVXlIdnc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T16:37:53Z",
-    "hash": "386b138bbc88cd87aace0e6be7fc18f225fb14605ffc2a57d532462b85cf606d",
+    "published_at_utc": "2025-10-31T16:56:10Z",
+    "hash": "a2eaf1ff72e62771f11ed9f58c9ce19fe77b130c4214ce5cbc06e13e1f7349f2",
     "source": "gnews"
   }
 ]
