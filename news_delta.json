@@ -1,72 +1,12 @@
 [
   {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer Sues Novo, Metsera Over $6.5 Billion Bid - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEVKeDJyaS1Ka3AxcVFyR2N0UkZ2dy12OUIzblNQMmRabUdxTUhvWEM5Zkw4aXkwTHBTQzREQnZwbUZ4Tmt1MVVuYXBGWjhGT0hJV2JIVDgydVFZbEFFUnFycGRhSGN1TUZIaXhPY2JfVEotY2dhRmlMT3c2eDluMVJmQ0o?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Guide to Ethereum Staking - Coinbase",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVJlbi13bW5KSWgyNVpmSWd3TEVwaXowdk1XQ1pELXRkWU81S0lETVNLOGlzSWY5THhaUjlwZ24yWW9fRUpVaDF2a2hTcGtYbGdLSHM0STZqbThrcXNCUkEyM0pKOG5fb0RjX0FCQUI0SDdvb2kwVzBhRlRmMVQzdVo4aUh5MnhHNElqR0xzV0g5ME4zRkwyeWZacjhaLVFQNWZvRw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-31T22:21:30Z",
-    "hash": "61567fefa6e9148d4b7de37c16286e65c3ecc090d32762eae2b5a0c64ae65904",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk A/S (NYSE:NVO) Stock Price Down 1.3% - Should You Sell? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDhScDYtWHBqdTRWRGpPN2ZDSER2U2pvSVh3U2N5YlM2UUhxRkJOLW8zcW9qeW80UC1iM01nU3QyOVlhQlg4eWRPSTNQSndCM2dEa1lqQTk2cVdsM2FrdGJCbGY0REZZaDBpVkdrMV9XZElWYW51OUxIMlpCUzA5RGFwdV9YYmRldHU4ajlTNk0wX0ZzREg0SmNvN1l6UGFqQ2o3aUpMN0ZBTXJnNy0tb2d2VQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T22:13:44Z",
-    "hash": "1c7d81ebe15c3afc828a5d1c5e15af1c5bd6cbf00e9bce7d5a22bda65bac14d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE) Sues Metsera and Novo Nordisk Over Disputed Obesity Drug Merger - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN0p1UXRnMHJ5TTN1TDluNWJueEpYSWRscldyMmo1cU51T0NlLXM3Y2JtQW5XOWFIX1piU0xpRjFRbXloVlhJZzZIeGJ2LXVBWTRaWXBDMHhPemdRQmstX195LXhMNFI4cWlGVFQzcFkwalhaTk9OTjlnZGRHb2ozOWxaX2gtMzM1WjJGYUdKM0pMLU4yT0FGV1M5MmJoSW9iVHpWMDJmcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T22:05:07Z",
-    "hash": "ac9c7d18c3d80e237c15ea9ee21f76c677e31f09b3ee4f05c05437035208e5c4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Everyone Predicted Google's Death in 2024, Google Hit 95% Market Share Instead - Android Headlines",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2lXU1Byb3I1YXpVNVloMm91STFpdU8zcVk3SFEzVmpkMlROVk5KV2NINGE4UlZQQnB6bjBMTGsyWEFGTDR2bS1PU05Rc0pnNTNCNVp2SFdSVm5fZU1ENjlaeDRicHJQOXN5R01HdE5BRE91LXRSc25oZzQycDZxa21FV0t5V2hHVW51Ukk5Qnhram9CNUgyaXlWY2QzN213dXdWUDNKOWlWVkQ5NkgyZGZnQnNmSkhORnJZNXZ3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T22:01:30Z",
-    "hash": "1fcad24006edf5ea8c537d0efda33f7f2e21b2ffd94da38005bb6490ebba2f18",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Best Performing Crypto Today: BlockDAG, XRP, Cardano, and Ethereum Shape 2025’s Sustainable Growth Cycle - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeEFDRWd0OEoxTUkyZkFvaWxmR0tEZHRJZE1MVno0T21tbUMtTFNRZ0FlbFpXWHlnRGNwZFBSRmV6ZjJuYmhVQU5YN3NHS01PdWxKZjFpZFQ1aldaWFJCZDBwRzk2dTJ5U1c5aHFENHFlRFBFQWctNkNOV2FBQ1pvOUIzM09Ybnp3QlZTQnRGVlpoN3F4UXRhSFFxSFhMUlNJMWtSRDlMWG1oa2JmMnR0c3lBdkl4azlCRjN5YXhpZS16TV80cGo1bVFocXA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T22:00:37Z",
-    "hash": "c2911b9831467a1eff04660e6e87f10160d13d3e2e9305173397d5463ee83325",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Pantera's Cosmo Jiang talks new spot Solana ETF hitting the market - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdklnWjR3MDJYQVNKOFloUldHUGRBYWNGSnE5dVVMeXQyUXRKU2lMV29zaWlPNmN5c1V5RENFZ0VnX0JSU0dxVlBMSGR3Z3g4ajlpNGwyUlNYSGdGLXdCQTVTYW81ZHpVSVlqbVhMam5kV0pCU2NMSXp3RlM5REd3NERFTEczeHBRS0xNVXJ4dTNqYUZOdFNXZC1xbHhVaUItSHEyOWJxNk9MZlo1?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T21:58:31Z",
-    "hash": "6d35ebbd1983f6e87e4aca4351f214327399fcaae864b810cffc3cf7d46715d0",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Stock-Split Watch: Is D-Wave Quantum Next? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlQtZWhDMzZDcjJUcmtmRlRSbGRib09HRXJmSS00cFFDbWdLTVd4T2RVb1lXMFNlSWR0NDZtWDZ5TTVmeE9LRm1adW9GTU1DZVU5QUw3V0lBX0wwUGsyVkxBUUZaVXZSc042NU1IbWljLUxsYVFFd1ZiY3laNTFmb1Y4U2E5SHJUM2NZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-10-31T21:45:00Z",
-    "hash": "cc4ce076c1cc2825127135d36c18cc0c21f4309ae1f8aa0a44f088b7ffae1729",
+    "published_at_utc": "2025-10-31T22:38:07Z",
+    "hash": "1fdcbdddbbc7ecbba01cc5a0d82a955779a0679f970f945eacf77dde25509ecd",
     "source": "gnews"
   }
 ]
