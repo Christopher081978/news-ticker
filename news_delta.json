@@ -1,12 +1,132 @@
 [
   {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Breaking: Pfizer sues to stop Novo’s Metsera takeover attempt - Endpoints News",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkZ5NlkzY2lndjZMTENlSnNieHhGUGxwTXl5aGtpa1lJaHlsYzdXem9HR2poUVhpMDExa2k5MEdoTWdrbE02T2tsbjFVQ0hidFdpeDFlYmM0MnBGT0NQblhxanpHNXZESVRHQmowVlZ4ZjN3QjdpT05TdXF5RTM4enlOMk1ZMk50ZlRR?oc=5",
+    "asset": "Solana",
+    "query": "SOL-USD",
+    "title": "Solana Price Forecast - SOL-USD Holds Above $180 as ETF Assets Top $700M - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWZUNjEzb3NQbThQamo2MDFLRkMtZk5XWGR1ZTBNUGlJUFktVnpwRk5FUjNtVVQxNGNaMURSWkZzZDg0SjhoM0lDazA4UkN6bHRiR0FUSzlCaU4zb1RqNnhXS0JaYklza3FLOEhmLXlNbmVHSmxzZk9TY2Z6b3l3MGxuTnFTSTg5NFZwbnZPX2VQUWtsWklvTXM3elltV2pzVGltUk1qV05ZRmRx?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-31T20:41:00Z",
-    "hash": "74528b85a7b3a16b27573148306a39d811bb914d1847ff17ca5ed8eef7c7c569",
+    "published_at_utc": "2025-10-31T21:18:22Z",
+    "hash": "1537cf583dedc2417b0d9ffb76bc6b83dbeb0e855e3d6c3a618ba582c8692444",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Today: Nasdaq Leads Charge As Nvidia Sees 'AI Virtuous Cycle' (Live Coverage) - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkNhMkRrRmo0UDMybzVSMWlvTnljZGZzQU9uVEFxeS1JYmJqVzFOLWYwVl83SFJkSDlobHdQdXdrdFZha2k2ekpkM19BMzdmcEdtUHNWemljNjFFQWlNaktkdWp6NjRRSDB6VHhpaVY3eW1HSXg2YURMTmVxcnZKd3pFSUw3LUpCSzlGd1FZN2ZtdWJ5dk5wM1VtMjNnOU8tYU85amxFMUtCXzBCdlNVbV9DVFBjRmZpVUZZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T21:14:00Z",
+    "hash": "4b7db04ab4256ea439b5b47d288ed1898336889f4c3bd542664e8e1a103fa4c1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO Pulls Up Predictions Market During Earnings Call and Rattles Off Words People Were Betting He'd Say - Futurism",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcExuUFJLbU1vekQ1cTdSbzEyOEo4b01Da3h2MllNVlNoTEVGbElubzFacUFzSkRVYlBKdnZHZm9Nampkb0xycHZLNGJGbWhEZF8zNFd4RFc0R3pjTkZyb2dsaktMWnl4cU40YS1oX1owZDlPRXpNZF9YRTJVTG1SQ3lGMEw5TU9sTFAzUVE0ZGE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T21:05:00Z",
+    "hash": "07a1406f9873e8dfdddff2f44f7538e63b0fa201f3f9b9edd9b1c788adc791d2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Trading Up 6.3% Following Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTllSOEZYaDZDZ01rbW1RMXBtb04zMDBvamYzSXl4RGxLREc2LVo5ZFlJMFRuaWxTM3REY2pDc25uZ3g2Y1BOUUhieGZhbXhyeEtyYmNvQ0MwTzlSR00yNjBrZjNLTzVPVkt4bVlMYkNGUGJHa0ZEcGpQdVJJVDB1RzJlTy1UbHdmcWxFRXAyaXptRkJNak9TbjUwUVUzcnh5ZlU0UG1KXzVTMnR4T3RjWDdBYkUyYUE0M2c1ekYtOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T21:04:19Z",
+    "hash": "c5f4120600adff74479343f0d0769fc7f49ccadab372081d4855af87186b10de",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase and Strategy Report Strong Q3 Earnings - unchainedcrypto.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnU3Tk12cFpRN3VXaUx3emtRQTBLdVlpWGdZNkpjclNWS1dYd282Z0NZa3R5bWdacGRSekpNdnV2cDhYLThzSjNRUmMxQVd3QjlzU1NzeEVpNXlwQmVQWWEwSEVDN1pxQXJ6N2M2U3QwVUdHdDJkYjRVM0hFTm9wUTVvalFEbUlkMXJpUk0xT2RjWURXUzBrakVWblNnSDU5eGFnOFAtd2U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T21:02:11Z",
+    "hash": "dfb33fe36aa5c19bc48b35af03c110a2c61c932358b4b9d733f67554b0044031",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Dow Jones Futures: Palantir, Robinhood, AMD Lead Earnings After Trick-Or-Treat October - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeXdXU2dqLWl4VVVYWDJkQ2E1eU9rYUtNSGp1YkdLS3lsN25UbzdkeEFjTHo4SU1hWXg4cnZOck1QNUkxSmZvdXg0Y3B6eXlZVnUtWUxTM1lPWV8wdWdYUk5NYjcwdTFRNmFsR1o1NXZESXpEOWlCTE15RDZRRUctelJ0eWdzM3pRd1FJaU5RMk1ZUldPLWcyeVp1RHV4em9ESFhreURYNXJJZGU3VWRRRmJWOVk4SkxXcmNjZHlYT3lDRGNvR2kzOURhZFgzdXJOWUVCYTNmYVpVNXpGQ2JRUG1vcmY3RHNQT09RYVh6WXR0RTF0R3BaSTg5YjZBOHozSUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T21:01:36Z",
+    "hash": "b253bff71434fc921d7124162f4465eb7f6e82a268fece5fe38e37d581c985d6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Pfizer sues Metsera, Novo Nordisk over breach of merger deal By Reuters - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVRHWjNuREFweTFTUTNtLXBiWjQ1TDh5ekwzX1h1NEdoVmlROGhycmFrQ3czMEtWU3dRa2JhZVItOE4waExmVFBGRDhJNlV0T0cyZ1A5US1ORWRBeHJMcVlWaHQwUFpVUWpTdm0td2FZN3dYSGFkUXdLUUxHSlhWd2l2Y0wtVUhnRGhSc29JajJXbVNnYkFuYmJ6azJxeTJzMXpXYnZEeVZ0Vk1WaGNSWmlWZ08yQTA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T20:51:41Z",
+    "hash": "86c1c4e39430875c92ac6addfec4eb0a8966c2dd31f53208eddb703483d7b7eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "​​Why Is XRP Price Crashing? Crypto Market Bloodbath, But RTX Volume Holds Up - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjdJVTZPYUVDM01xQkFCQ2trckNwbFI5c2hYazFtbHlNY2hsdFg1cTBWZjlmQlBPODZic2duMEZCY3lKWktpekhMQV9QSHUwd1J3b2I1NE1LOE9KUkVEZlpOY2Z6eWxQYmoyN2VWWHhJMlFXLXI4UjA2NGRqT3FqVmU2WTVJeG9TQkVyQ3ZKb2hyZl8wb2ZoWnZVVDVPYlk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T20:50:46Z",
+    "hash": "bbdd0d0419991020ab1515daa0f8758397300e4ccec53976d7449036ca06b70c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO Garners Praise, Pushback for Prediction Market Shoutouts in Earnings Call - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVJRRFpfRC14MzV1YW81cTdMdThuZjV2cGJIamtLZWdZWTJvZnNZc3Fncl83TWs4dFJWSVVhU1cyLUpvNnVObmxiSGVBY0FmdUl0dWtGcjc5Vlp4ZlFWNnVlQ0hYVzEzRUMya2NwQVhfNFVRdE5wV3J2c2hnTVRQNi1jRWxoRjRNSXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T20:50:19Z",
+    "hash": "6939f055ee45987eba74328ea116f9956eb16f601c5152b12ff45fa680b0436f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO Garners Praise, Pushback for Prediction Market Shoutouts in Earnings Call - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ2plUzdnTThvcjY0a1ZnQ0hoU3AzdHIyNVhDTXdGM3BjeVlxTVdlZkpSZm54S3FuNXFnZER4REtLVHhPdXN0V1JvbFZtTlFZdDJpWmNSOEdQTU1tMmVLc0dKSi1nVFlXdWEyTTN4bnl4aXJfa3dNanJ5QUNUUE8zazR1OFo0bm5ZLXpENXFjNzdEbDY3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T20:50:19Z",
+    "hash": "7733e957fee7593aa37347834f2592c6b04e479d31baf95b0111dccecc8d2cd6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "This Wall Street Analyst Just Upgraded Coinbase to a Buy. Here Are 4 Tailwinds Fueling the Stock. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHNPNGpNdzNSb0lyblQ2Z3d2NGNteS1vbmtwT2VaSnlIaHJwTnlmNURXOHJaeHdWaEpOdXk1enNuV1FDLUg1RnR4OURZTWl5QWk2WmRiYUtocGNnRmlwLUxUNmxFS3h0anFpeklwXzFLYmpLenBzMXMtVUVTaEt5ZnUwRDNHWmZxdkYtcmxRQ1FFR0NzVmpB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T20:46:00Z",
+    "hash": "59febfdea5ada6f7b1367914891723ca542589447f328f90a7a145e624c40c50",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "This Wall Street Analyst Just Upgraded Coinbase to a Buy. Here Are 4 Tailwinds Fueling the Stock. - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkRyZWRianZOSjVrZ3ZYbHM4SldMU0h4d2I2SzBRQlpmdmZpWWY4UXNJRUFLRGl3NEVRTG5XUTZTNmxXQWU4T0c5NWJSUUZVRDBXdXhJd1BBNEgyNGRXQ0pKdlZNMGpmOTZkZDVKTXBzaFgtSEk4Q2FndHpnZDloUUdpUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T20:46:00Z",
+    "hash": "ecc2ca0aa08ab0a7c9ca6a971fff72d8e97bf9f2cd522e6c73961bcc3ad91daa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk (NVO) in Pursuit of Metsera Amid Pfizer's Regulator - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUJ3a3U0U1c0c1BKWUVfMHhqWW1ZcHU3RlNVOV9KX1RBNkxKdU9CRlU5YjRqVFRuLTJQUWlOMG5sVHZyLTFUTUIwLXROTXI1b0dHUlNfX1VDYl9oSXYzdGgwbEdhX2U3RHlfYnNDZC1iMHQzX3o3RWhoSUZlU0V3TUVCYjd3SWROZE55b1RGV0NWQ3VXcl9senNtdVlmYWE1NWpBelMyd2J0VFozY1hn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T20:45:49Z",
+    "hash": "93dd5d6c0724e8517610dba6aef690b94662a2ed13fb133ca9b0bb4a881e118d",
     "source": "gnews"
   }
 ]
