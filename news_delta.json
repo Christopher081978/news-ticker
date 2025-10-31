@@ -1,22 +1,92 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Bitwise Solana Staking ETF Records $72 Million Second-Day Volume - blockhead.co",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVllNUFKeU5CbmNfMTlraUdlR1ZQb3dHaDlubDg4aDhNSl9Vc0ZUaHhOLTRxUXpaZnBadm5JeE56NlVFb2xGclA5Z2FMU2xCdTVOZnpaSEZGVmhhT09femw1aVFIQ196ZHZ5SVpZNF9tVGg0Xzg1T3VoSzVwLVAzaWQxdDNINVFXdlY0cFNQWEFNTElKZmRlelBwY0ZsMm9wUldKc2NYTllfdw?oc=5",
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD Electronic Reports Modest Growth Amid Challenges - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeG9ZdzYtdXYxaWFxY1JCVHRHdmFJZmQ3ckVfTnI1MGVwYkJJeGxqd3JXVnRnSmRVQkZ1al9wSGVlelRFX0ROcjBEQjVCRlBOUi1rbVJHSUxGbWtPSTBPUjdqYm5tZHBpMzM2OWR6NkxiRG5pRkdiMlc4R0xxNXBNcExjbEVZd0toQzlBbldWZVNIeXFtZ29JN1VpSmpGWkwwaGhHa2lWOA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-10-31T04:48:29Z",
-    "hash": "d7c4e5b1e84168c439d93a0585f69a74d2ce18b4f6b65200f715299e5390fa8d",
+    "published_at_utc": "2025-10-31T05:21:00Z",
+    "hash": "11bdb6eb394d2a288b606bd7701904b9aa23d8519e8fe2c64c6fb450cf7ba4ae",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price News: Drops 5% to $2.47 as Bears Break Key Support Level - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDZfQUFSVFZjYi1ra0hKcktPWWdnSjNLclVuNnVNa0UzNHh3aUgzRFhYcWhxQzVBY0laZGUtT0FWTVktQ2RuWFVSLUtJN3pxcE1nTGg0ZDRrSzlNbDVPaURJWFRVVVZvNGJ2dVJLdENTOGhULWtiT05xb3BQQzdyQ2hGbWxZN0VyRFVDc0hzc0FrRkNvR3I1Nm1ObVdHbXhv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T05:13:19Z",
+    "hash": "5b481e676a3739ef657de7628c6abc13ad057c7d4486bc95a7434a84b7a00393",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "What Could Send Pfizer Stock Soaring - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDY2YmV4dGVRaENZZ1BJWjZVSGhDamQ4TTFwRnJ3ZWh4UV9Fb2tsVHNKZEh4dXl1cEVuRkVGV2xwX0FLMUZkd2ZXeHNzV2k2OWhpOG5XOUI4dG1aYkZ3WHJ4VHF1Ri16aHBzeHVSc0hEem1hWHhRa2xIVEdKTmFmdlVNdmNad05jSUxkNFNENVU5RXNhQ2FmamRvVXdlS2stcnV3UV90Q3k?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T05:11:42Z",
+    "hash": "88e7a2ae9d4dee275d95b31627b7b99db97a74f2ad6641df71aed2fcfa36d9dc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Reports Strong Q3 2025 Earnings Growth - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZW9rSl90X1UwUWkyZ0daRXJxQVlYc1g4dTVTcnhSYmhhMGRNNUlobTQ4dDJFVVVONl84QnVTOHJjU3U4LW9qYWU4Wk1UcnIwX2dkdGwwQ1hoVDRGQUtGVWs5QUlDajY2dXZCUWd3WXFLSlM4OFFtdk1ESnFpUXJqdDdfTmpUZHhUU3hqM2w3RWZTZGpWLWN6d3lVZGE0UHJn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T05:08:49Z",
+    "hash": "fb78ece9e3c87d01bf0261e49f89a2157a174846f948cd145fcf443f7e39424b",
+    "source": "gnews"
+  },
+  {
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "BASF (XTRA:BAS) Turns Profitable, but One-Off Loss Raises Doubts on Earnings Quality - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNWM2RUdGTERPclBaOWRyNlpKY01aTml5RXp6VDN3dGlMOXRTX1pSQzN0R1hKQkpIQUZMTy1XUHFJMlNWaFZaa18tQ2FIZ2ZuY2FFaVlHX2o1VjQ2NGM4Y3FkMUtDY1pRazZHRzhQYkx5dEJyTGFoeFdMZ2hxU25RLS1kR0xtWWhteWpJNXhVa2l5ZmtUdmhHYXUyV0REaUdCdlJrZ2Vpa0p6VlZoT1RlTXV4UTR2MDdyMlZlUzhqMW5iN0lCeUHSAcsBQVVfeXFMTk1Ud3ItNlFIQWFmTTJhaG1MZm1IUzhiNkpOeWpfeC1TOFpPQ2VHcDlqSTQwZklVMFphWFRwYjBNRUY1TXNiS1VaY0NGMFhhc2lrX3IwamRwcVRfMnF2dkxRbFFWNjNOVldfT1NudDBiYS1rTjk2QkF2WE5HNVROYnR0eFhEVi1la1pVVndlVlNneXFCM2d1N3ZPSjFSVlZhcFFZTkFPZ0xOWno1bXpKRzYxaDROaG1yc0YzdC1aeXZiejB4cmpqVlZtNmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T05:02:49Z",
+    "hash": "92ea3a2248591140655da0f5c26d3e3b17fb159c3a40dc36a378e9d7738d91f1",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD Q3: Profit Slumps, Overseas Expansion Accelerates, R&D Outpaces Earnings - Azat TV",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUt4TXVLYnlDY1ZTVXpnMEdHWmtnUTlnOFlLaHpKQTRJSS1BOVQ5bnBOVVJhTnJjYm1KaXJkQ1d1TldxZVdZbDhOSEE2VTVaMEpZMlZtNzJiVElMWWhPdTkzRXFzYldFY2IwVllzTUo5dmdjME1WMG5mTXN0WUtNbGVROHh1OTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T05:00:02Z",
+    "hash": "8861f2aacbfab0b62d8b0fe71938f6c8574ea604a9dcfc6cee491ecfdd5d00d5",
     "source": "gnews"
   },
   {
     "asset": "Panasonic",
-    "query": "6752.T",
-    "title": "Panasonic cuts full-year profit forecast on weaker outlook for auto battery business - Batteries News",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWEtzeGxiMDZTX0V4TnBwaVZrSkNsdmVQbkdQT20tOVRiSUN2SW5oeURxOXRMUHNSZVhyNlVRcnEwZ0dWRWhEQzRyLXZKUXNPQzBxOWhoYk9rTmZGdkpaU1A2bkxDV2w5TU1uQ1lTVHhwMldfcWJiTV9YclFIMl93cklxT3pHVmZSZWpYNUVPV2s1bE1TYS13ME5uV1F6R2RsTV9YOUo1cEIwaXdWSWFhdQ?oc=5",
+    "query": "IR/Press",
+    "title": "Industry-First: Gaseous Hypochlorous Acid Suppresses Over 99% of Adhered Pertussis Bacteria",
+    "url": "https://news.panasonic.com/global/press/en251031-3",
     "summary": "",
-    "published_at_utc": "2025-10-31T04:45:55Z",
-    "hash": "95d90ca2510fbad0ed95dc09ad7a7d6fbb6141ce1d67632d2fa9eafb11e72b43",
+    "published_at_utc": "2025-10-31T05:00:00Z",
+    "hash": "24000ac73467714a2d4bb294cf80bd331e60325a17ca95c94874643766566ea0",
+    "source": "rss:news.panasonic.com"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD Reports Mixed Q3 2025 Financial Results - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1lYLUxwdjk4ajk4N1BtdGY5d3BZUzN2VnNDakpKZUxBR2pwNTJLQmt1YXdIdElETnN3SjhuTGYzUFZ1aXpiT3hDZ0ExaHFHdU1rZVpUdjNPYUhaT1BIOWNiQWkwa1JnYU9TTDgyZEVUSmd1N2d6YUY0NEcyVDBYdzNCRGVKN09HN0xaSXZnbHZJZzhQc3FFc2Z4UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T04:58:41Z",
+    "hash": "2e620d3ef527fcaa87ed874e0362906019fc6db3f9f330501bfa37409f5ff70b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google (GOOGL) Margin Expansion Reinforces Bullish Narratives Despite Slower Earnings Growth Than Market - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQXNkQU9WYjdDNFdoY21MdlF5Y1ZTbGhScFYtdTkwSElLZFoycHExRVdvZEcyM0RDTHRWZE5mOWs3YzF2SmkzYm1jX3RKM0E2M09uSjljSGh1MU85ejd1Y0VONWR1UThFVFNyM0NHbnFfUFBOZzE2cnlqTFpSNFl6b0xWZFZnRzBJU2ZvMXQtbWcwdVI4c3daSjR5cVRjemlTSHJtc01fdG1BZWI2dWRwMXZJM0Y5cFR1Wi1FcVhmclZCd9IBxwFBVV95cUxQS2Nyd1RoLWNFX3FKbTZsZkZmQ1NZc0RMTkVLTXRZTnp0aDBVV0I5b3VrVlFRLVlxTmxDcTVQcFNvdXhQc2xGZDBGU254aGFuQXRMZTAwUFJuNFl4TGYtcHlMdnh4b1I2OU16SkFEMktaSjBfZUQxeXlfYVZENllRNXhnRHhkeDdjRkktVTV6QzR6VFN4VkNfdDc4QmVOTG5ZUlo0S0pxS1JIRjRTSzFLM0dGRlJ5R2V5QmRYWmgydUJBbUhiVXVj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-10-31T04:54:43Z",
+    "hash": "dac6db5868e9410e644031cd3177c3f0b79b14048e030d4909a20471d09e4c5b",
     "source": "gnews"
   }
 ]
