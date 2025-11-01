@@ -1,52 +1,12 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Latin American Crypto Exchange Ripio Launches Argentine Peso Stablecoin 'wARS' - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOTBLS0tyNGd1MlF0Y2x6WUd3amFTZTF0S0ExZm1PYjFyX2JUdmJpU0tyc1hvU2N5NkRJR1hxRXQ4MVc5RWt4ZFdWYlBBT1lHMWxQS1cyaFFXb3Y4SkxDS1dEaVQzYUdxdHF2MFBIUjk2VFpRU1FHWXM2dnE1ZFZFdmFxUlFoRU5nZzdIcnVpYXJEd0o3QV9DSDhLR1ptZ0x2bW1KMHVBakppNWlaa0dGVGtVNHU1RTJZUWM3Qw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, Ethereum, Litecoin, XRP, SHIB, and ADA Gain: What’s Behind the Rally? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzB6MWliLUhJb2lyQXNob2JpX01ZRW00T1haOEh1ckFhdFBTR1NtdjFFV3RfempUaFRyanZyb1ZETlFqOVdRZDNGZG55NFZPbkFyc005ODZsSUR1eEtKTXVXX1czQTlrZEZOVEJDZDJNVWFVOVlDNDh5QzJTWW14N2FjakVGdjMwdHJraERlaW5JclBtOGY3bUVxRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-01T16:18:50Z",
-    "hash": "a93257a4d02223e31d4f2efd564e1d6aec483bfed597c71737bc8c62498df1e1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price Forecast - BTC-USD Dips to $109,800 After $490M Sell-Off as BTC Turns 17 - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUE0wVFY3OEdJaU5OOWJwTUQtS1FHRWRCMzBxZDI5TnBHVk9zYWdvVEZPcWd5VERTNWZEX3RBYUVlczNMNXlndm9WUW1zRHJ6Z1h4ZFZkdkdTQklnR1pURFN4SFpHWEhMOEZvRDhlOUhzWXZZdlVPckZXSmFWWWt3Rm0zMmg5VjVaRk1DV2NhRTZVMWJ5Zk5F?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-01T16:18:28Z",
-    "hash": "cac6433d8b665bf48c7d5d807254aafdd0f7219b886ad6b8552be3fa30e922af",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Dow Jones Futures: Market Climbing, But Tricky. Palantir, Robinhood Lead Big Earnings. - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUs0cnd6aUR5dW1vc093bHVrZVh4NkljZGt0OHN4V2c5Mk1acERBRldfREVqYWJ4SHVaNmFDLW5sa091WEdoN3I4YzRMSDV4RlZrV19LbHpVTGEyb183MWdMTU9sU2JyZTA4T0NvSHdFVDhRUXAzNWFpTk1UdklXak5ZMEgxNjBCNEVtNGlrbGNncW9QZTl4Skk0c1dtVWY5NUdFSVRkUllrWnhTVmc2SERYaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-01T16:08:55Z",
-    "hash": "81f8b9240a0aabf578964c15187a24b67a810cb4fd20e812723c3bcfb70c60a0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Today: BTC Slips Toward $108K Support, AlphaPepe Becomes the Best Crypto - Digital Journal",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWk2dVFSRk51cUJMU1dWX3gzdU9nSTZ2SVVRTkVxemFoTG9LeVNCSGkwTjBVbHZSMWZMSnVUeGFMSWI3MXBxTERpSUpDZ2k3d3ZSTkNBVEFWMlNUQ2pGLUVBYVpPV3F0RGh3aU5lczdvR3dVLTJTcFdRWEIyQUlmQldwbjlxcWx3YjM3ZXBEZlg0QTNoWEtqSFpGb1A?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-01T16:06:16Z",
-    "hash": "22d223b9480e7d40f528251ee1e2f2d689b9125b18b82f1b16d07399310a7403",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Maintains Key Support - Move From $240 To $300 Possible - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLUlmdHhlazBqTEVzZW0zYWFBZU9yRktqNUpubUdtX2pHMmQ4TTZiejRmQ041aEt5ZkJOckl2cEVkdnJPaTN0LV9pckJLMUNTMk1sSnByWW83dnFJbVdSNmI4bFk4c0NJNVJKZDZDOVN5cHlnaWppdElGSjhkcms0dHJhWG1aLXlQMlp0TWdoaC05X1hT?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-01T16:00:19Z",
-    "hash": "f64acb860bf456b27e25196475808f49a0479640b4fd3a6a7a12952fb8b341d5",
+    "published_at_utc": "2025-11-01T16:42:13Z",
+    "hash": "c25d5ffc2d7d73e258610c2ee1d509ca31e819a8146c7452c7c5a45a300d0427",
     "source": "gnews"
   }
 ]
