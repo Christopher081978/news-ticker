@@ -1,32 +1,112 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase CEO’s Comments Influence Prediction Markets and Prompt New Rules - Букви",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMmtWT3U1ejVtMEZBcm9zVWNobHBYMTVvMVo5R01BbGY0NDhLaENUYWIxZFBOem9ZMWxXMUxpX20tRW9FNThFajYxVFU3aTdEaElrOU1vZFhSLWc5VHdvbjVad2V4X1d1OWFOaGFGWW9BUWdvVldFQUhESmlEbWZBazlQVmt3dGUwckVtLWxjNTB1bUUxdlpnQ0xhRmV6VGRpSXBhaNIBqgFBVV95cUxPWjVXNHFwLVQ5c3QyTE5oNDdmX2lqNGtLY2NNcXJXdklUUXpHaWpOWkhRV1F5OHJpSHlrd3VSbUx4X1MzSHM5UHMwSURGOEJCVFlBNWt5Ujl5VWN3X0F3cl9RTF8xYVoxaDF0NUhjcV9NbnR0VXZSaHlFOGxabVBwWnNETC1kZkw0VGRBbWJmcWRHSDVfVDh1RkhXNEZlR2Y4N2Vwdm1vZXdwdw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana ETF Inflows Hit $44M in 4 Days as Bitcoin Loses $191M - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTTluTjZ0YzQ3NmpuNGNlYW1ub0NvbVFuQ01UU0lJTXJGbFhoVlRVdGt1SWFxWDNtbkVBZE53UjVkVGlXcjF6MWpVSWZfdExfYlVyYUNlM2U0ZFBqbDZ3bWEybUhhYWlqRU5YQ3p3QkdjMXpxNFZ5VzZKVXk2SG5aUHJUdDRqQUZCUTA5TnlkX25LUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-01T17:38:45Z",
-    "hash": "da6143b61411521e966b8e0d827ad8b32fa4f4c5f9c09238e26ba35c23bea203",
+    "published_at_utc": "2025-11-01T18:22:57Z",
+    "hash": "265001252c1c94dd65e35e41cfab4765a61cf37333abdd954ff84753d076e888",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "This $0.035 DeFi Crypto Echoes Bitcoin's (BTC) Early Days of Unseen Adoption – Experts Weigh In - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTlVY0J5OVBvZERmTWdwOHk3ajBLV08zb2ZYUHdUVkFGMTdhdWRvLXdhay1mSVA5REFsRzNpbGhNdmtvbXdibExDamVKZGVwVEtWQV8wbHItVndHaEZ0OWs2dXlGOXNRUnNfbTNpNlVUSzVEOHhmN09hMVd0UnNaWTZ5dnBvM0FSbTVBM1VDdEV1ZEQ5WWRVS3RvbjJWUWQ2bERqMFpldmZMMjRIWGQ4bWM3SF85eE83a2hPcg?oc=5",
+    "query": "BTC-USD",
+    "title": "Bitcoin's Unprecedented Weekly Surge Captures Attention: A Deep Dive into BTCUSD Movements - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVTR1ZUl6Mk1DNmlTbTNGYVFiSVVaQXJ0c1ZFZUN6Vk1qWkI2OU1VZV9seVhMNWRORU1pRXdJWHhCV3NNNDRFR2ctTzliejJtd0F5NlRzd0FZb0Vjd0QxSGJRbnJ6cGQ4MGRVWHVQOThrQXZKVWJTYmxpUXNJbzlrcGctZWNEUDV3S1l0akwzYzBmQzVOeFVKdlBHbzc3MFhiSXNrQ0Z0Um53ZHlremFsOVRzR2M4STN4?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-01T17:34:00Z",
-    "hash": "f6d59eb7a2ae04d79c70b85f0a4f69cdd4a94c0ba760cddf0e6c37ffe408d1f9",
+    "published_at_utc": "2025-11-01T18:17:45Z",
+    "hash": "34e76ffab46d79c6de8e397dfebe772684f9da17c8b4f72717c9b6d0e5a3bb44",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "When Will Bitcoin Top This Cycle? Analysts Say an XRP ETF Approval Could Finally Ignite Altcoin Season - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2FoZFlVaXVsdFI0OUFzRE4ybWNna1lWOTN2amFzTjBiNzZpOTNEYzV5XzlWQXMxN3I5RjNtcjQ5MGtoUG53QkFVT2ZpbUNOOV92OTBNbGVxSXhod3hzSHZCd0FIWnRQdTFQR0FiZzc0VlVKbXd6TWo0NjdqY3ZMXzg2N1JqZDcybWpBM2I4WkZXOXBEanZKcFZCRGxZcjZZTndKblk3bzhBNmM1SFplRVVVdzd3RGx4Z2M3M2JuMkcyVGk4?oc=5",
+    "title": "Why Ethereum, XRP, and 3 Others Ranked as the Top Cryptos to Join in November 2025 - Don’t Miss Out - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWV1LVd2enl2U21MM29UdHVfNEJ3ZVluR3lpeldUak1sNEVMc29QNVhFZldhdU9MVTZVRFMwOFdWbldtdUp6b3ZlampzUHM1RlRmWkFKZEtxOW55bTRoQkszZkEyUmRVdllOcGY2d1QzNmgweV9SaVdGeFg1ZGVTa25pQXUzUmpxX3Y3c3FOcjBENkNTci12bkJfRmlGbDh5V0FaWE1MYVdYTVJoM0pPdkhxR2NIQk5XTElJ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-01T17:32:20Z",
-    "hash": "9cb9d4dd8e6987b54bb6cf20e1765c53dadfb8a80aa28de397864d8593f6a96c",
+    "published_at_utc": "2025-11-01T18:14:45Z",
+    "hash": "4f213f7fd03372b7ea607a380d771c2dd3e3a6d510c6b6a3841b5411535f31da",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO Trolls Prediction Markets On Earnings Call - findarticles.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeU5IdDRGb20tdU9PZ0UwTlhpUm9XVlJweFNaa3ZDQ1Z5aFNTN1g3WnBNeU1QalFFUkdSWVhpZUlpSGhYSXg2VFlnNFZrRW5vNVhJWUxYeVB4R28yQTdSUlUyOG5WWWVRNnBiN3ozVjJmd01pRmtTNXNibVRWYzg0N1Y1d1lUZWdIT1oyblN30gGWAUFVX3lxTE5IY2NUUjdPOUVubFpaWUJ6bXRKWUQ4aFFGbXRqSVc3NUY3OGJwQnNJUldzanh1WWZNcmxkY01jLV9BaVFoU3BQc1FCWTg4b0RnQWt2ak9MbmZFcFJsX2ZsdjFhUjVhelV6ZDI5a245SHFLdjREZmliSUdPRGZCaHJvMURMRzdyMDd6R1hnZkdYcnBPeTh5Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T18:11:43Z",
+    "hash": "351b2cb010816fd4a97e31b01ef37a35e9257d95093c3bd99dcf2e99e2468cb6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "This $0.035 DeFi Crypto Echoes Bitcoin’s (BTC) Early Days of Unseen Adoption – Experts Weigh In - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNzAzYXlkR09lRExyM3ozV2o3YWVzYjRaOUpCVEc5dF8zTk0wUWVnU25FVmg4bi02bk5ZcnRpZWdvT1ZoV0VfWW9uN1pGZXFQYk1CdEJfelBMcGNXWm9uYklyWlVZNDRkWkcxNHZ6TEJPaHdUeDY2eGZVMmxzdEJqRkZNT0ZWWjN0VFdsNnV0RlpPTzhhUThyM0lOTDRUVDJmaDdHaXZzTUNPbmFDRkNuTUN2dzVKTlAzMnFUR2pvY2tEWk5PMG5oenYxcmFTVkZ3aHlnakFval9Jak01b1I0UHV1bE1TZkhHVHY3aDNHMWpleGVBekU3T2pyT3JEaWY0V2laRUhiOUVGVjQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T18:06:10Z",
+    "hash": "707abb34042827b498f08a089b229da191fa8c673ed2559b655f168f9e44e293",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "Panasonic",
+    "title": "Get 17% Off the Panasonic Lumix G 25mm f/1.7 Lens at Amazon - Imaging Resource",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlh4dFBrM0ppQlplVkVGZnBDamRFaEdyNHE5bU9QaGhsTGpZenZ6NEtnSmN6U0xYNGFiZHdpalhkN0lvcU1KVGxKQjBmSy1yMkRSSmRlb2k4UzBEQUZzamNXODdlWUNDeEF3VjlkQ19INWlXaUozNzF5VWkycU9JTWhsNXZmZWsxZ1didDE2UnViZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T18:02:15Z",
+    "hash": "85010f5781894aad446c4d0d510f9650b3076a00fdc16fd819713c1c342f2676",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin: The Dawn of a New Monetary Era - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGh5NnNGR1NhUUhlcGRRSXpPQi1DY2hrcjBlY3VEZnR1T2F1WXlhOUE3S2RPcVJpSy1rMkE2b0tNc09MQUxxcXNtUlNOSmlXSENYUS1EQUtWd3U0YUdVNWNaVHE5V1J0Ul9SZ2FyTXNFREhrNkdpcS1rcThEZmRBN3ZBdHlSMFVuSVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T18:01:49Z",
+    "hash": "d4150fc43fdd5a6515760fa65f5011df945452d952972aeff53efbd03db2b39b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin CloudMining and XRP Miner Are Changing the Game - USDT - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObWhGRFQtUXRhd2t5c0xXTlRZNlJ2c3QtNzM5V3UwU2RqWDVOMDIzQzJWUVQ3cEhvX3l1eGxWQTJ2a2dOM0tOUWxkUUF0RU1MNF9xdVUteG10WGl1NThfMUw4LTlRMTJ1SEY3cWwzTGFpeERTcGxVRjVEVmhwWklNMUFuYi1Hb0FxZFdJSENzOG4xckhpNFdGYVhydlc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T18:01:34Z",
+    "hash": "7bac757f6f2435eca42793d7170f461add0f8c4d41e8784568e5c73936b880c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Prediction: XRP Price Will Soar Over The Next Year -- But Will It Last? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2pEMkpQNXRHazFkRzFfX1RyckNNWmt3bUNaM2QySlFvQkVWblBETHpZTVhYVzhnbTBtbDJHRU1iNUp1Vk5lbFRsNy14U2MtVFVEckxGaXdyS3hDMUx5WjlSWW1RZ3NuaGdpRmJwelZsbUtpNHFrUnV0dVV2NHBqRzNtSmdLQ2FsLVRGRXNsU2J5T0RHUU5JOFFPUHlRSWZOcDZmWHNwQmtPQ2hnVDNoQVl1QVNSQm5RMmN5UHU2bnB0TVZIMDVudUxjNDFqaFRYYjRiZThwcjJXMEtKU3RqYndNRGZYdmlxTmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T18:01:06Z",
+    "hash": "d5752a2fdba6c7423528cd7a52dc0972341ef5785c7cbbcb4e51fb3c199b6b60",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Prediction: XRP Price Will Soar Over The Next Year -- But Will It Last? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHNnTU80UFgzY2ZIakxoTGF3VkdpZUtkazB4aTFNRkRMV1JCUk5HZEpTdkRZR051ZEhhcFYzZG5qWllacjBHZWVaZ3dkUF9jX0ZrcXJYN2hWNUJiQzN4SGRyT2ZQVW11d3dnUDdtS0d6UGxES0FyMzRyQmNWdDRjVGhUUURnSXVmY3ZzMmFzX1V6S3diR3NF?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T18:00:00Z",
+    "hash": "073234b983c1f53fd0215fb8a5f99539d7c1ee9a46d0e0a4d7acbfdaab36a38b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Resurrection: $298M in Dormant BTC Springs Back to Life in October - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVFMN0tjS2stamYwMHdzT3pjczRXRjhwOTNXVTRhV002Y3BhMzhZUDYtV0tpeVhZVmVidUY5cllXdzc4aVpXRFphWmd4MjRMWGdTdmJyUWprSXVvMGh3R1dISnBpbFo5ZVJWenlfbHNwY0pnWmpHMU5ha2ZlNjExZnNfVnE3SHplRlI5My1jTkc4aGotN3BLUTFGSkM4eHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-01T17:51:02Z",
+    "hash": "7f122ff70bac86babd3c1ca6f94c527be8f4a1431fc4304a47882e4c58f8dc91",
     "source": "gnews"
   }
 ]
