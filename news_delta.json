@@ -1,12 +1,52 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets, Inc. (NASDAQ:HOOD) Receives Average Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMHlhaEZJcy11V1V6XzdkUlB5bzdBdlZWSnJBT2xYUmhFaG5mT2hJOW1yYWI1QWs2NE96S1BzZkZPOTRXQmRhN2NlaGV1VXdiY1B4VXd0WW92cGtkeURITW93MXlKNUJRMGR6Y0xlbzA5TkRHM0xCMmtYbTkwWG9JMHE2TW1xbjZKM2psN2pIZmhaaER2ZkUyQmtfdExUR0tQU1FiZUc4ZFJNUU13dmZTQ0p4RExvNmtCeGFqem9IRF9STk53SmNSNHRPZzJEZjl1RlR2ZUt0bTB4UQ?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "How Much Did Solana ETF Demand Surge After Hitting the NYSE? - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGFrT0dlSkU2Zm8yb1pOWWQ2WjRjempkNURKekM2aHhGTWZOQzg0Q0VqYThVWVRvZV9JSndLcnJlNFF0QlZyNnh4WHk0X2ZEVGI5ZTduTU5FMC1QSFBRcjVTQ2hrUVp6bE5zdG5MS1J4ZVpUbl9mbl95OFU2YVhpS3F4cXJXTW9yaFZJVnlR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-02T05:37:48Z",
-    "hash": "041c4906dc47c7e1aabd147b1da023a13d884ca48a63e90c4a54185f4be2cf65",
+    "published_at_utc": "2025-11-02T06:37:42Z",
+    "hash": "d3d1ba7f25c3cc2f6fbc803300ebd6318f753b99ec77c2325a188e4323e845c3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "How Hindustan Unilever makes money: Segment wise revenue and growth breakdown - Trade Brains",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHNFUm9TeTc0d1lGc2JOQUtWWmk0a3p1ZmEwRFMyOTlOaGpkWTQ1ZTY2LVIyZjQ1Z2l4VTl2dmRzSk82d1JuM0tTREJCZ185YXQydmxYc0VMX1JPM29yZTVTZkt4MUk3dlJWV3J4SlJtTi1DUjZ1d21SQVphLVRHS2pQaDk1UkJYRmd3ck82ME13WWo0U29iVEM2MGdJbk4zaEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-02T06:30:00Z",
+    "hash": "ea00d2fdc7ea541a3dde45c23009f0f308d0bcc0e93b2a24b9e48da234f858fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Rep. Cleo Fields Buys Alphabet Inc. (NASDAQ:GOOG) Stock - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQajlyQXZRY3hrLUw2X0FaREJJLUp1QnNtSGF0VEY3c19teWpHNTFWNGJ1Y2JQeV90ZVRvSFlNQU1HOXVyZ0NmYVJ3aktYQU53TmZyaUZtVG1mU29DWDdQVXpMLVJpOWs1R181Rk9nRkZlcF9GZFZ1MFRNQXpyX2FUTmkxR2s2aXh5SFFzZ0M3amFKY0R1YVM5Z1BJMGhpeV9uZjJXTTdGSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-02T06:28:30Z",
+    "hash": "78f09c9467ca38888a2b92c9b8ac9e9930893eba029166f151918717bdd0f11a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Price Analysis: XRP’s Path to $3 Still in Doubt Due to This Crucial Resistance - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXNOWDNNMTFVZ3FLaVhmVnZWNDE0YjlJRWRIX1FBb2J3TGJiWWFwS1ZUaXY5Sjc4eXlKWk15R1Z1Sm9TRlJlN2lmbzZ6WkFPX1hvYnl4ejlwQjVuN3BIaEtUaUwtMzNZVEVYQlJ6dUh6eVllMUlRaDdZVF80UEtuNnpxelZNelF1Sl94WHNlVEJ5WmRpQWNVV0JPb3Z2b3k5anhFV0VTWmJFS3VG?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-02T06:28:00Z",
+    "hash": "94f19cb89618c269a632a8dcd41a0139d7f0181e30cc0d11e09f414492e65888",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Analysis: BTC’s Next Move Will Depend on This Key Level - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmdPOVVIUXhZbGZCWUxyNERoVmtFeWpfY0pMNVFfY2xXYnotSG9FTFVqU0FKSUlUc05PMGtUV1JyS1B1TTF1OU5nSEE3MVRNaVdCVXFmdHhLdVVBS2NxSGliWW00RlM5eTA0d251a1dGZ1V0d2J5ODAwXzl2WHMxdlZpRXdIeWZKWGJRS2o3X3RaazZHV0JMXw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-02T06:24:00Z",
+    "hash": "5b71bebcd7c2e5a59426368dbd09c47054e23f256c381ac280134a9217028273",
     "source": "gnews"
   }
 ]
