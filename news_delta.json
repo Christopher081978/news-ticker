@@ -1,272 +1,52 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto Carnage Continues: BTC, ETH, XRP Plunge Further as Liquidations Top $1.1B - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNi1FUnM3bWtZdklNU0lhQ1ZQVzVJamJiUWJtbWc3ajVhNWgxaFl6NzdURGZSZS1RREhlVzRJcVF3bG9XcFp1eG1hcGxNbWl6UVFzYnhSdEJYS3FmVjFGWUpmUk40ME83eXAzMFJvRDl0ZnZwWU9FbnRuV254RE5CaGp5X1VkekFORjY4em90R0FSbU1BYS1GQW13TXdhLVVpQnlCOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:31:00Z",
-    "hash": "ffdf945f2e62318b78b01499b7f4816c6bbc58bfa98643bf8380f5dc970377a0",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: What Could Drive The Next Breakout? - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLW1yU0RLc19Sb29rY0t3cHpUWndTLW8zWk54WnJNWE8zS1NnemhsV3VIX0swZlpNN1hYR09qYnpWd1A0TExLS1hEelpPa3dtWExVZXU0MmZRREcwQXJCMlplQ0JPNy1zeThfUnBHbEVhcGRSaFFLQkN2VU9wYUdMUzNBdHFrVnFSSHJFdzBEZ1FOOUVnekE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:28:17Z",
-    "hash": "17612f043665c2b53b8a67bc12dc7757b9d8448563783572c1a7205cff998296",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Ledger Set to Tokenize 650 Trillion Real Estate Market Through RealFi Launch - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWN2emxtb3Npal9TajFLNm5xSVlxRnhjai1WX2pKYnh3XzE1c2QweDItdmE3VjhOREpVS0hXYTJxWDNTQnZ0cXNpbnEzS20tTVNZblFhY0RpY3NjNURwcnpTcHotSmRDelZFTDZIcndTVUlqM29sX3dMajVVUGxLNXREWGhxWVBUZnNaY2hTOG9JYWxVWVNXZzh1Wm93ZG11LU5PYl9hNXVkcDN4WndIOVM5OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:25:14Z",
-    "hash": "76047e38fe85f7a17cefbf138c8fb7d70d19d4a1f61161c97897126dded9b939",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Jim Cramer on Pfizer: “We’ll Find Out if Pfizer’s Going to Be More of a Stock and Less of a Bond Equivalent” - MSN",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQOWlUeEFPQ0ltRFYzQTExUkxwTmo3ZFIzMWw0WTctc295WUpQZnVwMGlqS0ZFNExVa0ZTRFUzUXhTcWN6RWZ2dlhqWlZfNkY5WmZlNlJsVHQybjdoN3FCQU5NZFJwVG95cllRRmJKaHc0TlA1WFlaaWZYY00zVWE0R212VktLMWlKTl9mMzBtc2JPeEl5VFludThrNWNYZW54azhIcU5FQk50NjRpUjVsb2s2UTVERllVa2hMWGFBUVFZdWw3bzRkdUZ1R3B6RXd3bXlNSjdWNXZuSUwyUk1vNlMxc2kzZGszVWdxSTU0aXpxQlE0WFVKM2pNb2tQQkJTVWlWOWZONWhzWHJBeDlNZ1pVQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:22:04Z",
-    "hash": "c6b9b254bdadb02c3e9027c57ac05dbefe6805b1541756771b037f45c830f0e8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Next Crypto to Explode in 2025: Bitcoin Hyper, Solana, Dogecoin, and Cardano - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2JsWm0tVEtnSlRpYTEtVUxuTm9iZVI3b3lrdlFTSmUzMTFGMWJUeThTeHAteDZ3clV4LTVhanZKRHptSEw0VFFER0tfQ3NZQVNZdnhuYTRiSTBneHJJQ1ZwWFNjZUVmTDhlYXo4VVJwRENSLUlOdUVGTVRnSUMzOS16MVNLbDYxQ0JkV2JYY3VUUlpReTFLaUN5RGw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:20:42Z",
-    "hash": "ae249458f8b9b945e1c286cd6bc702a2f5ee2af0910123b8b59f3d265d33b91a",
-    "source": "gnews"
+    "asset": "Bitcoin",
+    "query": "GlobalFeed",
+    "title": "Kryptowährung: Bitcoin  fällt auf 106.000 Dollar – Eine Korrektur droht",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrung-bitcoin-faellt-auf-106000-dollar-eine-korrektur-droht/100171008.html",
+    "summary": "Die größte Cyberdevise sinkt entgegen dem saisonalen Trend. Analysten sind besorgt, dass sich die Kursschwäche ausweitet. Eine Marke ist hier besonders wichtig.",
+    "published_at_utc": "2025-11-03T16:49:02Z",
+    "hash": "c177cc00678b699e979cda6d694722fd0ab7e365a02a446ccdff9e2bfc4cc637",
+    "source": "rss:handelsblatt.com"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stock Movers:: Kimberly-Clark, Nvidia, Microsoft - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTER2UG9CQmpaT0ZiZTBzcm4ycVJKRVBFTkxZWVUyWmlvUEsyN2s4YTZWcFFkZzQydzFkckR6Zzlza1huM1ZsUVR3T0w3R3JiOFlTYlY2cWVaM1pqWDlibEIxYnpVQ25wX3hxOFBYVWlRbHNDVEVoQUl1Ni1uZ1BoaFNfbG9sLXQ3Q0d0Wng4LVNFNjM2cVlyV2YxQXZ1dGJRVEE?oc=5",
+    "title": "Nvidia Stock Scores Price-Target Hikes On Latest AI Chip Deals - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWowY2t2Tnc0cFp3dmp4djB3b2h2emxyLXRyWXBvOXR2c0Q0eHluM3JXSzN0OEVKUWdxbWU5aVpRUktUbVV3cm45eW5tc1lfQmhFQzJIOFR5YU52SDNsOGlLdmRzcDdOMUJGcHJCWjNCbElMcmxib0E3d0hmYUlmZURlcEFRLU4yUnN5cWU0NnJzTlBqRG5nOVFaek04QUZDMmtyQ2RWV3dwN2hNYVU0RzhZRi05ejBrT1FXbHE0SVVPSnJFY1k3MzRBVlJIbk1Ca2FfYk5qdUtZZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-03T16:19:57Z",
-    "hash": "ad8462547ebcc47632289bb84b753bed78141722783ca82b416054030698fb42",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Jim Cramer on Robinhood: “I’m Betting We Get Some Fantastic Numbers” - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHZ5VGhhcDFxVTlkTEJ2bERmUU9uQjRXS1NWaU82MmxoVmZIUUVreVdfc0hXZFFQdklPTXRIclZ3ZDZKNHVlalNhbmNzZFpBZExlV1FJTkotcklFd2oxc0YxUGNkMDBUNHltOHZGT3VWOVFpYzhqNzZXdFdMRnJ5WXRjdzYwUmlpV3JzYUFsT2w4RTVpVk1OTVlzVVlJWXJuUzRCRWs3V29mYlhY0gG0AUFVX3lxTE1UdnJsN3hXQl9JVWpKRW5BbHNPYTlTWjRESi15bTFnSmE2UHlqckVuTjNjNkJ2bVhjRWgtVVRiWkRyZzJFVVRLQ1hWeUdTSnNTcmlIVWZsbFU3SVhrN0hnWGtuTktVajE5V2hnWXVvTmFFLTNkRFQ5OXphYzV4eDZfSDRFUEZmQ1MxdHlXUTB0V1pLZzJBa0gzTFNwRnE2ak1qYmduWXNKQ0xXMk5sVXlUbnBZdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:19:31Z",
-    "hash": "6bdad36714970db4b0e2bdf322bafd8740c321e9ee63e07a6641e8faf2c18145",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "From Meme to 1000X Returns: Based Eggman Best Crypto Presale Shines Over Solana and Cardano Altcoins - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ00tUmdheFRRdURGZ3RRcTJYcndkYllsMDNlOWxQM0VSSTZvWEcwVjMycXVxNHZxVEt4djB3cHM2aHJrcG9iMDFId080emZZREI5alhSam5Nc25CQ1JBN2dGUzF1RXMtZ1B2OWd3YkcxdEsyRE1nd1Z1cWJnSjZQZzMtQi1FdXotZ1RQaS1zYmdObG1QT29fMVphRjNwVWFzNzA4OVZjY3hLbWV6Unhqd1JyaE5kS3BCNm95dkFBSVNJcVI0b19DUW93?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:18:00Z",
-    "hash": "ad22070bcd6ef7fc9ae0b061aed6d41f47fc831aaa27e7574db80b77b35b9b02",
+    "published_at_utc": "2025-11-03T16:43:04Z",
+    "hash": "e128adbb57bdcc8d7a7989972ade09c145d8541ad6bea9ee98533c98f656be1e",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "GOOGL",
-    "title": "Alphabet's Google Cloud Is Pulling An 'Nvidia' (NASDAQ:GOOG) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmpVWjN4cUxEQWI0djVQMFdVQnlrcG5KOTdHRkFtZHl6bEN5NWZBUVo2TVVOanBONUZxa2hadjh6LXo2a3RZbjZnT0RIS2tKeWtZS08wTXV4QzFpNFJEU19sRG1rTjRZNnFBYjZlU2NDcUI2RG1MNmlucDVIbTd5el9sWnNncEE?oc=5",
+    "title": "Alphabet Is Still The World's Most Efficient AI Monetizer (NASDAQ:GOOG) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnlreFhKZEk0bGxhNE9QX1U3STBlSldUcl9QOWRwWjV2WGI3bUwyM1YtNFJDZUNYblhuaGZNYXdyRmtvQlQyRjlnZWx6cUwyUlJxN0dlemQtTURmMUQyRDV1QnBTOVdDUHgzNHI2eHNKQXZZdjU1QWxJbzJTM1lZdS1vT2UwQVZYREtKeGNjelNPN2xPTW0tNG9zbVA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-03T16:17:44Z",
-    "hash": "a136fc4cf7bc85941f84b2351d6c28d15dddd3cd747d9c02657157fe36379d5f",
+    "published_at_utc": "2025-11-03T16:42:41Z",
+    "hash": "38fd232ec65c3e36a7551329c476f2a032ff9cfd06aaffe5b66c1acedc04342c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Analysts See SOL As 2025’s Powerhouse, Will It Lead The Next Altcoin Season? - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWNmbG1FOUhoME0zV1kxeDkzTThBai1mRWxvaXpIZWtLQU1MZGthMldsUHI1WlpSRmRiUHZ4akFTdlUtRVdaTTZuNm5JTEdMc3cyVEh4Y1dOQktnMVNBbkVMcHNaaFRzMlJNRnBGaHNSaWlRTkx3NE9TY2ctZEh1c19idlA2MzZyc24xbTgyZlBMOE10c1VaQ2JFQ3RkMWpsaG5FZGs1N1B1QzU1Vl9Jc2s4MERvT1NPTHY0RWZ2VFdNOFU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-03T16:42:14Z",
+    "hash": "d77125068e5be2e9702fff7399f1d11548527192839765bc590a08a74755b41f",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Alphabet's Google Cloud Is Pulling An 'Nvidia' (NASDAQ:GOOG) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmpVWjN4cUxEQWI0djVQMFdVQnlrcG5KOTdHRkFtZHl6bEN5NWZBUVo2TVVOanBONUZxa2hadjh6LXo2a3RZbjZnT0RIS2tKeWtZS08wTXV4QzFpNFJEU19sRG1rTjRZNnFBYjZlU2NDcUI2RG1MNmlucDVIbTd5el9sWnNncEE?oc=5",
+    "title": "Nvidia Sparks a Korean Stock Frenzy: $12.8 Billion Floods In After Trump's Tariff Twist - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVVBNY3dlUkN6QV9Ua1BkWWxCTWFmenhoM1J5NVByLUpvRmpIT3EyLVdfaktBbzJXZmlUbDV3UVZ3cmdOYWYwOFMxdVhJWTg4Z2FrYmNoc2Fxd0JiMXdkemwwWWkxRjBHZ053RFpXUTluQmI4UkZqMEkxMnQxczd2X0Q2YUZPSmUzaFQwU0lYaGRiejdPcUpVRmRjTmJOSG9mNm03bW5tTzZ2SFVpMUk0bkF6MjdrU3NvV0k0bFg3X2g5UzU0dEZxMmxzTmNITVBNUEkwT0RPdHJWZmtieXc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-03T16:17:44Z",
-    "hash": "a136fc4cf7bc85941f84b2351d6c28d15dddd3cd747d9c02657157fe36379d5f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Today: BTC Price Drops Sharply While AlphaPepe Surges in Investor Interest - Digital Journal",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGNQUXRFRXUyWGdMclVZUDJKZndSU0s1M2d4X1N6VFhGNDNuWHozdnM1VjBlak9YUkZreUJyX3YyclRKNVFlTkROSDM1RDVvQ0hRXzZZbHFVVVlUTmJiaUVJc3RyMFZEczFkc2Q0dWVQMHBLSnBKdTVSY0R1Yk9EbHpHUllZYXpGb09iNVNXSml2eDhrYmlMcDNvdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:14:40Z",
-    "hash": "5cb7e3160d034d5fa2a066cffef184e2d867cecf94e723cb80f4e7c926e2cabd",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVDA News Today, Nov 3: Jensen Huang’s Wealth Surges Amid Nvidia’s AI Dominance - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmJCRkVYQWYzSWxINHJTNS1ES3NidzRqNzFRZGVjRk93TFFFbXZaNzY3LTZBeEhPXzNldGxpOEs3NDE3UzhFUEl2aEI0aTZ1dHYtX1M1ZkNiQnpGR1otb0NpYkZIRl9CNzE1NmlleS1kQnV6SHo2anZfdHBsdmZ2MUVyTkQ0bmRZREI1aUQwcjVDVHFVVHgzanBzZUpJeEtOX3dOVktVMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:14:02Z",
-    "hash": "aba9bb6abac1b6562ac620f185640b9cd21b338892e4a89325d961f7dd17408f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "This Is Why AI Is Not a Bubble and Nvidia will Reach $10 Trillion - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ybVlHM0NlTm5oZEpzM2toVXdWR28wTlpWQzhRTnVqeXdFZllmUVo1SEY2XzYxaUdOVUl6NXRFUVplYjhiM1FWNm9EX1pkR0lhN28yYUtoYU82ald2RzVtTER0NGJ2ZDRzajdpVmNfUWRkYVlYRUZHNE5R?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:12:08Z",
-    "hash": "35185e0646cdf2d01af4b030f231b4a2bad6e43cbc1d11bd4d5b7ee803a86ff5",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Correction Continues With Analysts Warning of Further Decline - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHEzUTUyQUgwdFBuV3V3ZUs0RG40YVlTeGw3c2tJb1FoazVWbUNjUTV6cHB0OWM3eHFrNkFNdnJLUExGMll6VVlvY1B5a3hGbXg5Y3BIMGxqbkhqRGdJZFNvSHlncjNYTDVVeWJHeFpNRGRIc2wxcEVEeUt4ZGZDa1ZxRWMxWUhTb3RZN19NeE9mMk44b3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:09:48Z",
-    "hash": "a7db68b2f2a9eb4a9513c0842c7f29ed164f777d62d87d0bbbe82219c9047078",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "All Roads Lead To NVIDIA: Bankrolling Its Own AI Gold Rush - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0JranBZQm11cTZjM2NzeHl2dE1KdXJLcm5SelhXWjVjOHFTUlhYbG9uWEpyQ2lkTWJMR0NDRDlRX01Hck1vMEpvdTJJYzdnR3VBbUdkdEJDMkxwdFlhc1ZobzJRZFNFdFZBTnNJOFlBRzltUmFxd1UxOGlwNm9mSFZJRmhQOEVnLWtzYTJNOU8zSkhYZkpnX3ZIcEpCZXJMbVRHZy05NFgzakpW?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:06:55Z",
-    "hash": "8a26fc16f1513f4adf2c2a42542e82d33755c26968595c912514c4485651da13",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Jim Cramer on Robinhood: “I’m Betting We Get Some Fantastic Numbers” - Yahoo! Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjZQRlFTRWlmZDNDWUliYTZSU0NKVGZGTmlyN3NyalY1Y0tORFJLTEJ4M0ZQR181NGhjSUNBQWVZMFpxTFJ6U2g5cy1XZHBkZXlGMThUa1k4dG0tLVBsRGQwVTBCQmc4a1ZnOWwzc3hGbFNnU0JBRTJnY2NudlV1SF8xUWptdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:06:49Z",
-    "hash": "2a169c9c04726bd741f92f1c81b92cddb1c73959d16517507e99f6ea8d85b7e9",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth, Nike share losses lead Dow's 266-point drop - MSN",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOa1Btc1pKXzE2amJLSktRZjVuQnQ5TFd5ZVlOXzFfUGhvMmRiTWRhMGhTNXI2UHkxM2QtNEh5aXhncHg4Skc3VGlwbTdBckotaTByWksyajVwRy1zeHN5ZW9MRk8wMnRoZkpQdHVHQ3k5c0RRVy01YVJ3ZnZUME9vLWJDWFkxQnh6YjVnRmRpOXc0akRCazBMcG1TbUJVQUZhckpiOXRHVHFIQW1PTHpWTG1QRVd3eWRzeEt4UmJ2QjJIeXBzNWNqRTBmOTcyaFk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:05:24Z",
-    "hash": "da194ad728e5780f47a4a5dd39be6f49214b7eaed1f7711706c6cb9c2ce9f258",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "This New DeFi Coin Could Be the Best Crypto to Accumulate Before Q1 2026 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGFwTzJmcDl3alZKTVV3RmFnWEhsWUxETVM0OWtDcFdaQm5KcEJidVlZX2QzTXo0UXpKOFc0czhldTVTel9KM0htd2dtTUFnM2l1SXVmeG9oTTE2YkdoSXAwdEYwa2lESmdDN2lPbEgxSjZlS1J5S1l6NTdHVnhtOWJ2TVFjY0xzMG1QU2JCaTdQTzE0ZHB4WklSTXJHMlU3X2lKMmhR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:04:00Z",
-    "hash": "27785ae88597d6d42b0a68d9ab46aec4d79a3f5c0373e4535782e4e3ab8c11a1",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Computer Now Serving U.S. Government Applications - Quantum Zeitgeist",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KVWkzQ1hTa2lCYkl0cnpfRExVVDIxRXBoR19lTW14V2RQV1Y1OXFibC1HeElnQklYZnRFeWg5eC1zR0VKUkFnOXJhaEYyU3c5dUxqT05lQlUtS3paNUREUEkyR0VrT01MdGpNTG9aRnVXREtGWldJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:03:43Z",
-    "hash": "9359343f20770fa4e4f4e7fa2ffa28ff2678c2090e7f49bc07d72d234e52a4ca",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple XRP ETFs Could Arrive Within Two Weeks Fueling Investor Optimism Says Expert - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFlBYTB5T2M5SUJrN1NrOFY1c1ZoLXZZVnFHNjFweDE0cjMxb1huZTJib2l5dW5YSUlnbnpuUTVHd2d5b09GN0w4VXdEbVJSY05UN1MxOUJVX2xGU0RQRDdXRUZ4YlA1RDdpUk5mOE92Ri1BMl9nSmJMdnMtZHo1ZW56SzNsLWd3MTZYNWg5TXA2ajllSWo1dVBGMWhBOVBjbGlMWEQ5a2tQSVBFajJieg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:02:40Z",
-    "hash": "b2a7600ea8522544daede950a44585d57ffa5e1abe1dbcac9b2d486870b52d9e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet Vs. Meta: AI Circular Financing Winner (GOOGL) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjhBVGZyN0VjMER5ZGY1YUF2SkN3NkdFQmpab2NnOXlma0liSzNLTXZuS2hraVViY2hXX1dKaUFXVmgxSHBMbE00MkExMlh6ZEFpal9EemNwaVptZld2bUtTZnNndUxBUS1pZnZKY2NjUlEzLU55M1BhMERuWm1IQkZPdXZmcXlsUnFLamlzNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T16:00:37Z",
-    "hash": "60a31e846b8a23465a3d378726e26da48fae4db9a0edb257ec95dcae72f612a5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Binance Coin, Ethereum, and BlockDAG Drive 2025’s Crypto Momentum, Which Is the Top Crypto to Buy Now? - The Portugal News",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb01YWDhzY1BnQ1hYQ0R5YzA3MDNHY0xmTnpZWmlZWFZKWkVOMjNuMnN2RkpPdVFIbVJXaFBqeTZVWXlpd2NvdVN2cnZCd3RkSEdmelJDb3pZX1R0QUQxMklIQldwZ0xmaGN3andrYVd0ZDZoVXNMcFJaN2FpMGlWb01obE52YW44T1JIS2VEWVowWld3emVDem9JbXlJVVFHMENaRzdKMHpnNktCalFidkpVOUhtWm9GNzJ3R1BuX0N3WVlEQkNKQkd5NFdLcEs1c2hKS3RIVjNDODRTMXFMN3VUUWZGWVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T15:59:36Z",
-    "hash": "6588e30ac36b9bee00f38b268bf814cb265807c12e915bf7c95d364d1b7542cd",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Microsoft Is Investing Big in the UAE. It’s Bringing Nvidia Chips Too. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOU3FLaUY0UFh0WDZQNl9PcWxONDhrWmxTMEVRLXVJVzF3VnoteUU1bHR5N2x5b1BPUE15OVBOZHFqdzZieVU2b1pPY09oSTNxd054QWtmbXhwYUF5VzZaS01ibktTMzFxM1JiMml2Qk5abVhDSWtfQ1ZGTEozbE95ZjF5ZVdGNmljZGV6YmNUYUJGNEdBbGVoaGV2ZmhMYlRqeVRRT0o4LU9RZDNoZHpVc0ZwMGk3X28zZW4tcWNLOUZKNGE0ZWc4Vklkcm1pSG1TWDlhR1FpbTk4b01CRXVXLW9VWEMxa01BN2hpNTV6dkx1MllUazJtcjdLUDJ6R1lwdTZmUGNTbGhJNDBuMktTcGgtY0xpRGVGWEZLQnl4MXdNWThiaUJfSmFFeFFCZVZVRGRrNGh6SXJTTVNqZ1ZrRmZsZERMajBfZUtLbDR3d3pkQnF4anZUQ0dIUUp1V3oyTzdwNXNMWkczNXFfOGFvQ3RoSk5ncFdpUGdMcg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T15:59:00Z",
-    "hash": "c1805f077ec37fa63d54afced51a59666359b8de34e8f11bc973b991be7e81fe",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price News: Monday Crypto Selloff as ETH, SOL, BNB, ADA Plunge 5%-10% - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTl93NmhYRXp5dUs3X2txb1FrNXhxUlJ4WUFVM3Jsc0U5ZlZyU01uRFlPRjUxWUlWVFdaVml1d1VSa3YwSjcyWDFqTTFoUmpLTVRidFhuZ3RKSHJ0SXBrOFBXYmNmTGJaQkJ2U2FRVDV2M2dkTHNNOFFURHlySElvZ21RcFFTM200U0hoOC00MVBIVWxuc2tqNGZUa083VzhOSUoyWWZQeW56NUllWTVyNjRCZGU4X1NJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T15:57:36Z",
-    "hash": "541f2ee4d37260704ecb06e89ac31f18fbde5252dae7bcc88a73ae3873a537ae",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Before Q3 Earnings: How Should Investors Play the Stock? - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3o2bm80NXJseGthM3Z5V0VjTUZyUG9vM1A4M0RfalVZdjRaUkp6enpieFl2MXJLMkhKdzhULXBQLU1tSnM5YlpEaXVxY3FrOFloZm80TFp0VDhRSVZjUDM4OGp3MTNkVGZXY0MzM1c1SnpvcUxSaUpQUkxYSy1GX05SS0huQ2gydEVSaC14YkFjNGl3NlZmc21EUkZHTXVYdEFYNzlzVEVmd1l2?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T15:56:50Z",
-    "hash": "9ca25c486ae14635a9b64b19dc0b587972e42c0d9df460546b85fa1215e7210f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Sentiment in Nvidia Turns Negative, Down to 41/100 At Market Open (NVDA) - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVEs3amlYYnJ4c003UVl3UV9ueFZCYmxJdVBkVVB5UTZGVzlzMGcyMFowdW13aW5TWXJ5cDlaYkZXbzdWeGtvazBWMW83ck1pUGhMTzhNcDllUWYwZkhsSjktS2FGQ1hzU2lGQUlIN285OUtKYUVzY2xadWFGRHRnYURuRUo4YVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T15:54:42Z",
-    "hash": "e48b21b492091617c114ff65d290e1b6a7e53c6d7fb375d2df06abc00085c72e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, XRP tanks after Fed's Goolsbee said he is 'nervous' about inflation - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeF9KcElQQ28zVTc0ajBUU1hSdFp0UnhjbXBBWUxFYS1qdmN1QXpDRElwaVBHWGtlUnQ3OUhubUhqZVBZa1I4VzM5eUdOVmdlSzRfeXJBRWdtMzkxREk3ZEl4VnJrN0FpOGxOT1pSMkRLS3FDdGlwaGtHQ2h6WEVLaHN4clJFNEJSZUVqdXJPeS0tbDNWRml2QUZtM2ZWLVdWbnVfWl9YLUgwR202S1NMaHh4NA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T15:54:07Z",
-    "hash": "5562d43ede3eabced4467c9fc1386a19a4cd5f6560e1388a71a863518ebb9655",
+    "published_at_utc": "2025-11-03T16:37:22Z",
+    "hash": "4beb424141ad472c40375448b715725db1a47488d2a55004045b9d3ded456fc5",
     "source": "gnews"
   }
 ]
