@@ -1,132 +1,72 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Jim Cramer Says “If You’re an Nvidia-holic as I Am, You Bet I’m Worried” - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXV1SjBRR3p3cmtmajJaNFNQQTVxSTRfV2NLMDVUQktvcmFYMlNkUnMxTUVTaExLZ1A0WjE0NWM4bW1DVW80czdYNjlzLWZab3VQNWVndUxYeXlvS3gxalcxZlFxZFNQamZiMlZuaUlVX0M3MjVhTXZ6R2tJc3MxMGl4UnFvSXFGTXVUa1liWE9zMy13bUE0ejlUS0YycHBTMFg0U1RnSlZRV2pTMm1CdtIBuAFBVV95cUxQOXQwSTRxV0ZIb2hWMVZRek56Y2p6NEkzNVFtSGU1T0x4S1BsSnNWbGRlaFJwdXJUSWhKVWVPWGJBNWRmS29MbVg1eUw2MXJUb0tLMjNubmNxVldPWll1bkFlMEM2XzZoU2d1U3NXQ2FMOXdtUEdmVFc0a25EeFBBT1kwS2xpTkdxTTIxSUxSa09ORW5ZR1lLbmJwck9mdzZUcFJMaFlhNE9nMkdMRzNFWlBEbEhwdDVB?oc=5",
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor makes a significant announcement! A consensus on the layout of the pullback sector has formed, with consecutive two-day purchases of chip ETFs. The 5G communication ETF shows signs of bottoming out and rebounding. - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc21JakxoWnNiaHhDV3FHamd1ZnExNUFhR0ZxZUlFc21fTmFEbmd5dTZTU2FmZjE4S3JlenE5ZngxQl9DMVRFUUdPeHQ2dXVaeEdqT05KT3NnUG9sazdQWFZoWktTVGk5d2ZuVk5ldlNUczZnanB4RGtTSHNEQ2hUdVFWQjZOajY3b21aUGN6UzFlMTdZUnNiN24yRm9OaklYMG16TFhOekNwZXY1X0FlTGZadw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-03T03:33:57Z",
-    "hash": "94efee89470e117b9d9697822306779f061602e3faa87367f20777a5a7887fdb",
+    "published_at_utc": "2025-11-03T04:07:21Z",
+    "hash": "c2f1c49489c54590a91dbd7c67858b6bcd102b82cd6a40f59e1b2420e29974fe",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab CFO’s $42 Million Stock Sale Raises Eyebrows Ahead of Earnings - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUxoRzdCSXVaTG5IaDNVTUNiaE1pUVJKelBNZ3dYSENyUXZhb29tVTVyTmVJUlJoNVF1Q0FseVNsVzhKNVI4X3ZKRlFoVTRkd1RRbnJiTjBtVXEtSXh6YWJoZFBBNTByajlRcXlfeDBiZGZiX0I1ejVRdnl0RDJ4WTlIN0NNU0d1MF92bEhTWUFmYlV2bzI3SXQ2TFNtRU1IUlpNZ3gtQUdKYWxlclRFVmpnVDF3N0lHV1V0dDhaQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-03T04:03:04Z",
+    "hash": "61eaba4382646050a0f34b404d71590c64d802d7d3d5ee2b810e27e020dc89fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Chart Turns Neutral, Repeated $2.55 Rejections Define Next Breakout Zone - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQURCSlRTVnM4VzZhb1MtSXZGdHVSenNxUVRFRjNzWXpvYmZOVUNJUG5QOFZrVmpaOTg0RXRmbkJVNkJoWkYyVndSSlN3QV9CTlJZN2pwMjZuUVJrOFhTYnpwTW9CSTVic1AzN1A2UG1ybEJ4NHprd0dseUI2Z2ZZQ1RIcTJhWmwxMkpOVmVXc1ZWSVdJdGY2UUpqN0IybnE3MkNYZ1hTSFJ0a1NrcDIwejkzeGxJWU5NYmotc3VB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-03T04:02:01Z",
+    "hash": "12094085bbd0da8f1387078bee672e801f1bb479dafbd56efc5711d8857b2b26",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD shares fall to nine-month low as sales decline 12% - Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmk2OW1XXzlWUzZGa1ZMNENBaUtYUXlDMDVpbWVnc2FCRTBGZ05RckNPVWw0dzNoaW1rTWlJTnFLTTExU1pKeEtVbEpzT1BjTVhNUFlGUFRkekw0WXE4dFdkNURhT2dua1lNQ0dEd2VnbE1qVlZtTC1yNF8zaUw5blR1LTEzaXM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-03T03:58:00Z",
+    "hash": "8e05477806fe0aa23c7dc3ae6a66a306bb7c66cfe9b36876999f70c7e74e6ab0",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "Robinhood Markets",
-    "title": "EARNINGS PREVIEW: Palantir, AMD, Robinhood and more - breakingthenews.net",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1IzWlh6cFZFZmEzZ3FURTA5TG5uUURYM2dQbk1CUjd5TVBaSGtFT0g2Zi10SUk4WjVXOU0ycjFSRW5zZFprVEdqRjY2aFk2eDc1dkMxUVlrZ3kyVkN4Nk5VazB0V2RLUjA4aWdDYUFWX0gyQ1BnU0haSE1KeUhWZlBBcGNkR2MyUlFRQmxkeWVhR1V0VFFBZTFB?oc=5",
+    "title": "Robinhood Shares Approach Key Earnings Test Amid Analyst Optimism - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEhQdzB0SzBOZnRjZVc5TU8yNEs1SnpPZDYtaGRoNHlUcnh4cFlINnBqa2FubTQ3dlhFcXRmXzQtQ0huQXcxM3ZzbERqQVRRSDl0dGVLaFBNMFFtV2w5SnR4X3k4eDlBMWs3N1gzNmxXdl9pUnRvVm1jN2xkSmd0Y3RINWswVmZ3UVZyVlRuSDRCX25aU25FenhJeGg2YWxHb3dxZGo4dVpMenlKa0dUdkZLZ3RnalZMR1c5N1AzS0pDdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-03T03:20:00Z",
-    "hash": "3ce447f961ed61324f87979aecc97587cca0cfa52090d4241d54ea79b5b7c05f",
+    "published_at_utc": "2025-11-03T03:55:04Z",
+    "hash": "494506157a03e788d024e52e94ad63320b9242301b2c5abfa4814ce091e97cf0",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Sell Novo Nordisk And Buy Viking Therapeutics (NASDAQ:VKTX) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQenJKd3ktbThvTTNNbkxqNEQ0U3JLSG4wMEQ1NWlVZDZOWTh0UlpaQ211SE84RHlrQUVzNngzUEd2WHRROXJDSXgxbU9GRldRdkFaQ3Z6QXlDXzBVUmFHbDhoaDRLWEhOQk5YMmlsbVlrQjk0c1VudEdkNjFfRW0tNkZRMnZ6SjRGMXAzQXNkSQ?oc=5",
+    "title": "Pfizer sues Metsera, Novo Nordisk to block rival bid - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzUyTERIbU82ek9mV0I5cFVraEJCWGtSWXNkclpNMWljWjFCR0dleEpSMDE5R3pEOXBNZUJjb0pabFg0bnYxSUFDUWowQk13Zy1zLVlacENhNkdNWmJOLUZtN1FVVDg5aUF1em5WRHJza0pkMWIxX1EyYTBqeTlWQkQ3UTdXaHFTMHNFUlJlWQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-03T03:15:05Z",
-    "hash": "1c719ff8c468835e23a5412f2481ec39f3ba56eb7b2d15a5f13bf5ad717bcc6f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Grab $MOBU’s best crypto presale as XRP & BTC Rise - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcFphNnhmR3RvX3RraVdMNVBrbHdxREozMmNWT1JRcHVmZ3pCR2pJYmY0LVpweU1SMVBlZmwzdzN6dDhzSDdKSmZScjNZWkZjQ3Bra3JNdTltbm52Y0JTaTB4Zy02bDdaSzdMcU9rdURfU29kXzBHNnBsN2l1eXBpZW1hZUJycnVwcVlwODBsX0ZzX0N5VTFqa2pEYlJEVFh2SHJhcGhPaEV6RE1LSWZORmI2NGg0OW15MGU5aVF5VUR2cHlTMkhRbGJSeEQ2OUtHbXB6eTItX2hUWng4S0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T03:04:15Z",
-    "hash": "8b8fc4684d142c9b4bef71e1ad1f7afcab6b9654931236b38aa24b1fcf5cec75",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "UL Solutions (ULS) Q3 Earnings Report Preview: What To Look For - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM0hQTlNPV1ZaUjNOOTRRY2d6U2tacWpaN3kzX01WbHlybl9wYlhwWm9Hd3BIZmlnVTltZTlLQTRhTmZxX0VvamRFTkJ4dW9ycWMxZUh3WjdpZWU5LWZGZG8tdDJ2VV96OGtSZWlhSFlpZGJIVzRIN0tEZ1lUR1l1WFhPbDYzOGdkMFoyQmFidG9JSnU2XzBCOTBRWEF6RmlSZGFnbmhQQ3o2SXRqdEVYeTA4OHZuZEc4QW81b1VHTFA4QWh3WmxzWHhQTHlmbGg5VXI2RHVyMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T03:02:00Z",
-    "hash": "d659d029ac71e1c565a4c86c64e952c4d521b9310dbe31649dcc7846bb586656",
+    "published_at_utc": "2025-11-03T03:47:15Z",
+    "hash": "041f8215cd5b60cc0464737266b6867cca76de64bebb93db1e8fb17e9edddb50",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "PFE",
-    "title": "Pfizer (PFE) Q3 Earnings: What To Expect - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEJaNF9mSjRTSUp5aEtHWHEwZ2JQdGlBdEFQbzdlMTVxalZZb2ZlYlRLQzN6NVgzUUNNWnZMdl9sQ0o4ZzVJbDJadVY3cFpGUjFPQ242ckF6ZFotTTl4S1J2T2ZGd19MYy02Mll3WjljQlpkd1doc2VBRndXdTZoczlwcGR6OUljRG54T0FOQnFBcnFEU0dncjA5cVVoTEJLblp6d0RKSVlkckVjOTEwODc0a3JRSHct?oc=5",
+    "title": "Pfizer sues Metsera, Novo Nordisk to block rival bid - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzUyTERIbU82ek9mV0I5cFVraEJCWGtSWXNkclpNMWljWjFCR0dleEpSMDE5R3pEOXBNZUJjb0pabFg0bnYxSUFDUWowQk13Zy1zLVlacENhNkdNWmJOLUZtN1FVVDg5aUF1em5WRHJza0pkMWIxX1EyYTBqeTlWQkQ3UTdXaHFTMHNFUlJlWQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-03T03:02:00Z",
-    "hash": "19ad7225823f1b3efb6fb8f429beaa555d4e4b76f47d92f9f880bda521819355",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "What Happened in Crypto This Week: Billions in Liquidations, XRP ETF on the Move - Bitcoinsensus",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc3gwd1MzMTRMZ3c3M3RqbnlHRGZkZGFrdnhyS09LY2x6SUNWa1JmUm54RzVtX1VuZGRoMDJPVFZBTlJWVDRURzVXaTEtSDRGb1BGbEYxbVJieEJNX0pOTUFTemlXUFVMZE80OG9mNG9QcmxnMFloWVY1SkFGRVd3TG1Gd1l6VG1IaDRsWGxFX1hOTlZFX2x2dFZTZzkxX1BsakhTVGlXWG1XMXBib3FXMEVvMWdoSGFxYTdMWnpYY2c3OEMzTjRQempmaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T02:35:35Z",
-    "hash": "231f28711a7c35debbbeb46a0760ee682c33ce5910b4468ce0dd4e5ca4e4793c",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "\"The first long-term price hike since the advent of the AI era\"! Reports indicate that Taiwan Semiconductor has initiated a \"four-year consecutive price increase\" plan, with advanced process prices rising by approximately 3%-10%. - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUdreDk3NHFMT3IwWkRpV05wY3BQRDBqdDNwcFgzLXhYZUN2cG1rWnV0a01laTBOR0JYRnYxaThlcXV0bGgxN3BJQjhscm9WSndFYjhsS1BxSlgwS3c5NlZHMnFxRXBRQ2trelNNVmhuSGc1U3lfQ041cm0tOHF1ZU5vblBURG9BTVI2c1dDLXM1MTVlX2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T02:24:32Z",
-    "hash": "565ad670e6a4be3a19663ede6077385bdf30517380dc5eb10683b90a161c9c28",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Now Holds $165B in ‘Digital Dollars’ — Bigger Than Singapore & India’s FX Reserves - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQc2pGOHhoQ1l5WlY0TC1kWDBUUUR2bGVmS3ZYajVzc0FrMnFKRFp3V3ZMYzUtYVdEU0JUS1JyUi1wSFRndHloZXM3OEV1ZWxXQVVseUNrWDdkNWJTc2dpWG5hYmxYbjYzSjNnOUYyZlhVamUxVDJfWlBhVEp3d09UU2ZfTWxRczZITURSTDJOMkpENTFTUGZzcVdDVUgzd0dJU2t4akhvZU1VRXAybDVOc1U2eGFWSHpPdkMwUUhyZVZ4Y2ctaDlpN0p3OGFuN09wTW9ENDFoZ0VKY2ZmcVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T02:18:00Z",
-    "hash": "591878417efcff4514a34b73e9c1ded9c89d47ec571463e232facc5c741271c1",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Billion-Dollar XRP ETF? Bitwise Sees It Happening Sooner Than Anyone Expects - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV0c1R293cGs0a0psRFNEQldFNDFGSXV0M2s4c1VBeU0tOUNCcnpOSEFWTUxHT3JZWWh5OHdqTnUtbTVYNFVfQnV4X0ZzMWJJakg1VTVwUUwyWExGY2pobDRXV3UxcWJQNnMtNDdJN3RxTFZHN1NobnRSRGJ5QVg1WGFPM19qTzB2dFBlN3U4NjNkLTA0MHhKWDhETUVZOU82UUo4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T02:17:08Z",
-    "hash": "cbebeeb9c0954d5752337f5cc6a35c28ea813f2d08e7e579f734e8fa84a6c7e7",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall As 'Fear' Sentiment Persists: Analyst Says BTC Will Be In 'Good Territory' For New High In November If... - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNR3d3cUFlS2ZTWG5sY2RfVEkwM0JESngxRlpqbEtPaVVjOE5aWnB4aFdaTEFvM1ZfVVo4ZWlESEEwUXlkLWVkdWRiM2Z1RTNHX29kQ2JXc3JwMEU2WmdiYUpSS2JLQVlEa3Fzb1pFUWxNWDRmX3pLNHE2V0VCZG5YZldLbUptMDRUZ3dwZUxmYjhXSjVaRWtjUmhGTGNGYmMyZW92TmNQbzI0ZW94WndoSTVtT21kTEw4dGZ1Q3lRWWJ6LTdYUTVQYWFyLUw4R3JJb2NHZ2wwTzRfMlFjelYxUjJFcW1XaGRWUjhNeWxIQmdfSVpwYTNjYlAzcGdyMUVSTE51TElkbjRRTElCTXNYeVkzUjJqY2Z3am1uVGhoZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T02:15:13Z",
-    "hash": "91840611050814a5726e7ad314d9c20d89b6be2aa4640ecc96207129d4e2dd18",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall As 'Fear' Sentiment Persists: Analyst Says BTC Will Be In 'Good Territory' For New High In November If... - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNR3d3cUFlS2ZTWG5sY2RfVEkwM0JESngxRlpqbEtPaVVjOE5aWnB4aFdaTEFvM1ZfVVo4ZWlESEEwUXlkLWVkdWRiM2Z1RTNHX29kQ2JXc3JwMEU2WmdiYUpSS2JLQVlEa3Fzb1pFUWxNWDRmX3pLNHE2V0VCZG5YZldLbUptMDRUZ3dwZUxmYjhXSjVaRWtjUmhGTGNGYmMyZW92TmNQbzI0ZW94WndoSTVtT21kTEw4dGZ1Q3lRWWJ6LTdYUTVQYWFyLUw4R3JJb2NHZ2wwTzRfMlFjelYxUjJFcW1XaGRWUjhNeWxIQmdfSVpwYTNjYlAzcGdyMUVSTE51TElkbjRRTElCTXNYeVkzUjJqY2Z3am1uVGhoZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T02:15:13Z",
-    "hash": "91840611050814a5726e7ad314d9c20d89b6be2aa4640ecc96207129d4e2dd18",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall As 'Fear' Sentiment Persists: Analyst Says BTC Will Be In 'Good Territory' For New High In November If... - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNR3d3cUFlS2ZTWG5sY2RfVEkwM0JESngxRlpqbEtPaVVjOE5aWnB4aFdaTEFvM1ZfVVo4ZWlESEEwUXlkLWVkdWRiM2Z1RTNHX29kQ2JXc3JwMEU2WmdiYUpSS2JLQVlEa3Fzb1pFUWxNWDRmX3pLNHE2V0VCZG5YZldLbUptMDRUZ3dwZUxmYjhXSjVaRWtjUmhGTGNGYmMyZW92TmNQbzI0ZW94WndoSTVtT21kTEw4dGZ1Q3lRWWJ6LTdYUTVQYWFyLUw4R3JJb2NHZ2wwTzRfMlFjelYxUjJFcW1XaGRWUjhNeWxIQmdfSVpwYTNjYlAzcGdyMUVSTE51TElkbjRRTElCTXNYeVkzUjJqY2Z3am1uVGhoZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-03T02:15:13Z",
-    "hash": "91840611050814a5726e7ad314d9c20d89b6be2aa4640ecc96207129d4e2dd18",
+    "published_at_utc": "2025-11-03T03:47:15Z",
+    "hash": "041f8215cd5b60cc0464737266b6867cca76de64bebb93db1e8fb17e9edddb50",
     "source": "gnews"
   }
 ]
