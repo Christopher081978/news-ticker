@@ -1,72 +1,362 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Best Crypto to Buy Under $1? 7 Trending Coins Gaining Attention with High Growth Potential in Q4 2025 - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMXJBaEhIWE5mZXpwSFFGMjltaUE2c0N3bnlvblM2bVh4WW5aTEtmV2ZhNHVLclFzc0dqd0dfNk1LY2hTUENibFkyT2s0TFcyWnN1T3RYSVdON3IxX0ZQRWR2bnR4Slp2WUJqX3haTGZfdnRHYTNudUZOalZGeFJ3M2lqN213LW9sOTJ6d01sNDBWZkRRTWxIaVZqa3JsNTl2ZkEtYWdhMGZyWTNsVGxrNjV2VFB3eVFUNVI2bTRzQUtHcENyN1p4N0V5RFI?oc=5",
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP Price Forecast - XRP-USD Drops 6% to $2.20 as ETF Optimism Collides With $1.33B Liquidations - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjR3Yzg1aV9GOVNXZUdRZ1ZodEhDVlhJVGJkazdYcHE2R0REWm1XVjg4NXJIS2czUjQyZGpwMXpNS0ZjREFXX19oSjNMcmJ2QWFBRTE5OXdmWG85QXJFRFQ0OERRcXJCMUNUczB3d3pxalV1MVBXUVB4cGYxXzlnQURuWWF0LTM2Smt1ZVBjOTdoeGhRMUUxVlhPcUo1R0JlMGFPNWtKb1ZnUy1wdW92Tw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T17:40:51Z",
-    "hash": "0385b3047f6fe78d35751b057bc19828f8fd080dbfa6cebbbe2268342b9e2424",
+    "published_at_utc": "2025-11-04T18:37:38Z",
+    "hash": "a8bffde68da92fe927e9f4bc9da195a6632d2bf602fa50c76aae8e7a7daafa1d",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "MoonBull Leads 2025 Crypto Presales as Analysts Note Market Stability in Solana and WLFI - Tribune India",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcTRhTlhad3NWYTAyUGxiZzZkQW5IQnpidEtEckEyRG1iOG1NLXV2OTJTUHFRUFl0Q19tWl9wZzcwb1dtZ2ZlakoxUHRkYzUtNEhfaVEtdHMweUN2cFMyRFVVUkVOVkIwc2ZZY1U0U0V5bG9SSU04NDV3N2RQYzJkeU5ybEpKb25odjQ1TTJGMXhGVkQ4OUVjLVpZYTBTemJ2UkR5YUtXNGw2OU0tYktpOUQzTGdRQVFBLUkyYVFoMEtaQTh1b0NNRWZOVXpDOXRuNUtr?oc=5",
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Polestar 4 + Google Maps’ Live Lane Guidance - the360mag.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tYk5oWk42czA2STAtekluT2dhdkYwMVVTMXdzdXBPUjBfUkhpRmw0N3VmeGx1YXR5dWNqS1Y0aE5Ta0pmcDN1NWpfWFpLWUdpOENmMmotVkRGQmxkWDN3VUZfdThBdGNGVEpEelRha2NsNktFUVNj?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T17:40:00Z",
-    "hash": "474fd34a8dd49d5410caaff2b936b5c77117c97aee65850a813a67eb6272f59e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Hood: All Americans share heritage of freedom - Robesonian",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUktbG82aWppT0MxS01xcURZOFNjcXNJZWhmeEQxZGNZNTBuWmxQNURiTHNLb0l5S1VzVHhRVXB1TnJVZ2c3Yy1sR0Z5WDJZWmRHZzVVeDZSTHdGNWVTVXhQQ2g2bDNyVmNVVFBfZ0hCbGJEZE1LZHU2LW9UcExTNU83dXI1NE50RXdycmM0OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T17:39:00Z",
-    "hash": "45786da713a7e2ec430f659dd12bb88eae82751c59ce6983e059230ee73f04cd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer earnings beat by $0.21, revenue fell short of estimates - Investing.com Australia",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGdsTERtTW5oX3F3VXVXNnRVWkEyN1I1Uk1XME1kUF9MX2c1cHo1WjltUkdXTGtKWjNLeDJxLXJUeTN6NjN1RVZwaHZHeUlLZE9hc1pmcGEzenh3TWF2d05rdWZyMVpzUlFLTWxVTzk2UV96Rm9GWmF1LWZjbFBQMjRuUUd4Vno2VHN1SDhxMm5mTE1SbEdxZV8yV3NwRFVmdGpfSmJTWWdUQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T17:33:31Z",
-    "hash": "02a45c9f8a97c9383b0cbed0846a36bcd67e5533f7c0ed834f1e73633c4b4f54",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Why D-Wave Quantum Stock Spiked 50% in October - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdThLdzk4SVBMaXE5UGJOeGFldC1XSGpQcWJHemdnNjBjS1ZjODdRYkJkZk9ITDNzLThTTE5LbGllbXRPNjJHbS11WDg0M2F2UWUxbXNDb1BsdzhadWkzUGs4dU1zZi1JUURoODR5VHNqa1BydHVuMzdXVFVLdzM0cmJvLWN6cnJzeE5OM053UGFzZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T17:32:00Z",
-    "hash": "fe31ba6967c86575c94120882ec9bc0ef1900bf85c8b782b10b1b39100e6b7da",
+    "published_at_utc": "2025-11-04T18:31:30Z",
+    "hash": "9e5e5999c96503df74e79c494e5641a43a909a22a2a5ba7c5215eb7e609e62fd",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Novo Nordisk hikes Metsera bid to up to $10B in competition with rival Pfizer - Source ONE News",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU19Jc1RyS055UXRXZEhZM2ctaUVSSDA1UDZPWU9nMGJ2SEtlaWxOT3FSdmVyMUVOakhpTnRUZ3hmYlp2WlVEamhfc3BBSk96eGlEZGRhYjFJNHdhdXQ0cEtHN3ZYZlhlTHFDZWlka1VrRVpoODRzb2RPRi1EbzY0aUY1T1pmTllXcTBtMS1tSk1VckpOZ0o1TjMwcWJnTlh2VUl6ZDNsUV9aMmdzT0dBdTJoV0p3NHpkNk1oQ21QWjRVeVJZOUJqUU1nd05kLWh1Z3puNXIwbHRBalJNcjJWVWt2Ri16b0RMM2V6R1pNN0Rab3FXQXRzMEFrUGpPVUZnRXlyMzRB?oc=5",
+    "title": "Novo Nordisk hikes Metsera bid to up to $10B in competition with rival Pfizer - WHEC.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQckZvX2YtU1lHdGgtNVJEVGZzY200RDlTckR5c0QtLTB0b3ZmcWpUVmJfRDVTQmx5bjR6YUtZWEoydFJnTGZVN3A2eWRybG9ST05veXdyY29yMFRBNGZIZ3plajZYOHV2WHZ4dU1ldUZHZGc4YVdORDFfNVFyUFJOQnRUSFd2S1RzbEZ3TEw5VkRzSExhZVFEZUZHLXZodjBDMTg1Mk9fVndYQnVwbmNN?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T17:27:50Z",
-    "hash": "5687aad1c10276c9feafde420e66835ca0b63d59131ad5131f8e89e71d57059a",
+    "published_at_utc": "2025-11-04T18:29:56Z",
+    "hash": "5d9d353cc995af5f2642a4a64f8e43ad14ad2e9d70bbde513fe6595f7c33a31c",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "Pfizer",
-    "title": "Novo Nordisk hikes Metsera bid to up to $10B in competition with rival Pfizer - Source ONE News",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU19Jc1RyS055UXRXZEhZM2ctaUVSSDA1UDZPWU9nMGJ2SEtlaWxOT3FSdmVyMUVOakhpTnRUZ3hmYlp2WlVEamhfc3BBSk96eGlEZGRhYjFJNHdhdXQ0cEtHN3ZYZlhlTHFDZWlka1VrRVpoODRzb2RPRi1EbzY0aUY1T1pmTllXcTBtMS1tSk1VckpOZ0o1TjMwcWJnTlh2VUl6ZDNsUV9aMmdzT0dBdTJoV0p3NHpkNk1oQ21QWjRVeVJZOUJqUU1nd05kLWh1Z3puNXIwbHRBalJNcjJWVWt2Ri16b0RMM2V6R1pNN0Rab3FXQXRzMEFrUGpPVUZnRXlyMzRB?oc=5",
+    "title": "Novo Nordisk hikes Metsera bid to up to $10B in competition with rival Pfizer - WHEC.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQckZvX2YtU1lHdGgtNVJEVGZzY200RDlTckR5c0QtLTB0b3ZmcWpUVmJfRDVTQmx5bjR6YUtZWEoydFJnTGZVN3A2eWRybG9ST05veXdyY29yMFRBNGZIZ3plajZYOHV2WHZ4dU1ldUZHZGc4YVdORDFfNVFyUFJOQnRUSFd2S1RzbEZ3TEw5VkRzSExhZVFEZUZHLXZodjBDMTg1Mk9fVndYQnVwbmNN?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T17:27:50Z",
-    "hash": "5687aad1c10276c9feafde420e66835ca0b63d59131ad5131f8e89e71d57059a",
+    "published_at_utc": "2025-11-04T18:29:56Z",
+    "hash": "5d9d353cc995af5f2642a4a64f8e43ad14ad2e9d70bbde513fe6595f7c33a31c",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP rises after beating Q3 estimates, raising full-year divestment expectations (BP:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWGd1WjZjajdYVkliQk40UWFaOVVVdjVvU21DbHFvMjVDOEtpQ0NWeGhJYVBnSFMxdDBraUpYSXRkcDBDejgtZ0dRZnFMMDRMTkNGSTFEcTZfYUlza1Z5cGlnQUJqak14N3JVUHJHZ2ZBRm9YSWZ2b3RoZXpsMHlSaVREQURtN3QxUWN2bkJDeC1wSUwtOEoxX1V0SjNPQWJnN0VYSVZjc0VCS2NUY2NiYmhPcUVrZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:28:48Z",
+    "hash": "79632b4346e92673b7fc9adc7dd3254d8b255f9bad22e9f82fb98fbe8b37e7fc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever Updates Demerger and Share Consolidation Timetable - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdWVjYWN1RzR0c3AtYTR4eUI4WHg0WXVxRkx5bnBGaXlmUFZMLTE4QURaUnFNZVVkdVgwOGpCRl9WWnJpOXlWYjJTZ2tRdjhWdDF6VVk4a1VsejZETVlIMkJsMHNmdS1ucHkwTmJzVmtZZzhsTjhwTlI0WU15akRCdjZLeVdFU0pkN2pILTRrVlJhM05HSUw5NVJlMlROdWYzTy1pYVBZd2J1amE5NFM2dQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:27:52Z",
+    "hash": "d9034a4b275806a35d4d0f4919ca075043d819625422bf30940fc9fec5f5e590",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer Q3 Revenue Trends Are Uneven, Cost Cuts Drive Earnings - Pfizer (NYSE:PFE) - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmdtRHhScUlBMFc3RGlBR1JOZlVocTJCZHg1NUR4WE5GdmpiSTRYaUlxSzE3Mjhqb3FxdktHcjlqMTM0YmxjYzNOYTZ1bFk5LURhTGVJVXdodVg3OWtVN056WGV4NG5tMk1YWW5jVEc3Uk9TTmV6ZmlJdEdkVmZhWE5fa3QxbFpIS04zaDFiSUlQZmN4SmxkTHp2aDBISnhKbEZMVHFwRnBMV3hH?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:25:49Z",
+    "hash": "d3ebf8c34b063375fe51ce7051d2b6c7fe4aed08e4e7f49dbdc0e5b0570a89ba",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Why Metsera stock’s 20% surge signals a fierce Pfizer-Novo Nordisk bidding war - Invezz",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXdKZ1d3ZXVEWGhLYzRNN2tGZnZGT25PYW1yT0xBVEZtTVdfRkxRc0ZzOU8tVmhGQVhOM1hDYmUxWi1ONE1xd204aHE1enBsS0hYQWNSc2RvOC1UOWFwdGVZZjVsSERTOUZQZkp0UG9fVk9YOEgxRFpxTFZleU5OMjhqcFhyZzFaQU4xcTEwUXA4dGpMWXF6cXdHQl9RODZ3dGRYTnZiVFdWbVV6U1J1Q2FB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:25:26Z",
+    "hash": "ad9a78a3fb02cecbd32e055a4c01d94c6a6e5c566ce4c969339486dc4f96b203",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer 3Q Profit Falls Amid Lower Covid-19 Drug Demand -- 2nd Update - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkh4VjljSVdhNzFWTEx6VEVwSE5ZNHYzb2VLRXhYSTVyWVF4TG8wZ3I0aDY2NlZnTUtseUJ4aENuVU9WUzVVcUZEVEZQSzRkOGlwV2tCcHBrRDAwR1Z1XzdDTkdJTWdLZXBHRVJ4YXNqMjJtQmV6dEljNnF4bGJqYkRTLWp0eTNnT3RsWFlCdTNwLTB0bzZuYy1FSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:20:37Z",
+    "hash": "6df5892ecd68d8555a0d0f289effbd00f39bd6a3ac7fb7d54610598520fa7e09",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth: The Market Is Still Worried, And That's Good For Buyers (NYSE:UNH) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlUtNGVIWEhIU3ZYMXRrV202dTRfLVNQYjgzdDN2cjlPbXEweUFWZHo3YTF1YUZqV0xNRExZNVNkWW1oeXQ2ZzhfR05sWnVGOW9VU09DcEJBSUx6SGk4dzVqVzJXMG5fZTdTNUcyWTFoeDVmQ3pmUjlnVEpoT0habngtSUVZZVRvXzdFRGE1NXRqdFFCWk4yUURoR1RHdkhTRlhUOEhSaEZyVjQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:18:44Z",
+    "hash": "e736385352e9bb17d9728655337d3b2f19aacf35e1751eaed7d1dba11e81f668",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "If Ripple’s XRP Continues to Mirror its 2017 Setup, Here’s What Could Happen - ZyCrypto",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMURib0FYVzJmeTY3UGdFNFlSM1ZJN3lTWXFmZE5aUHlXd3lDeUFweER2YWJ6OUNTcTRUNjFWRUZHYkVSRVFhYjVhM0dCcWhuVDFDTHdLb1hiS3QtUjQ0RGxkMUVwUDNsQk9ZMFRWVlRLTjVjVXdqU2hzUUxfdHZJY09wUWxjV1ZKQVBPWnItRlczWGdCLTBWcjlZUdIBoAFBVV95cUxQTTVVRnJLaUVtQUdsLURtNEM1ZjZfRzl2ZTRobERmX0xwYlh1dnFGczg1Slo5a2xSNzZ4STYzTU8xd2pSTVh0cEJqS25DWVNkaGRVeUFGVWpDOTJMMDQ2bUI4VXlVUjQyQUQyTjZKUk9RWTE0WHUzRFg5d0Y1RFktc0JNanhmREU4Y0FoME9LWVM1dDQyRUhNZUMweFAwcElK?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:16:05Z",
+    "hash": "bdcac349109782495ff22f39a1a2ffe6c8771da14289ac51dc8af6db53a47fd2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto.com Partners With MyPrize to Expand Prediction Market Services - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHpQVGVsNzFfU0NVcHROSmJ1WUJzam5IUE5rYjF1MUV4Tkh6cmpHUFRVcnZYSE4tRE9SQkVSS3RWdFcwMWd6OENDZEJibmEyT29nbGFsUldVU19RQ284N2U2N1hRVGppNTRCU0dDeExvVEUzc05qSWZoeWRfbklneDJZaFJfUGxGb2ZzSmpZWDB1MEtCVXIw0gGcAUFVX3lxTE9DeVpsMWVJZ3haQUNJeHNraTlMVEhaOFdQRXplLTctYThPZHRwRGxoSmNRSmt2bkh5ZER1MHZ2bXlpQmVwQmdKUGd0S1ZkelVqdXBnWXNLM0FJYjZfNDBUUzg3TlZXd0hCc3JReVJNaHl6QTAtOU56bHIwRHJYSUp6ZW5DU3R3MVZUczlRN0t3ZzM3aEZLbHpXU3lDdA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:15:49Z",
+    "hash": "600c689d5b9b34a7bf20d96e35046e6d9532d5a24da056cc2d31bd01e01d9a61",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "AFREF Opposes the Crypto Exchange Coinbase's Attempt to Get a Bank Charter - Americans for Financial Reform",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOXRvUnVQM3NiUDRhV3k5ZWVwU0FVZy1qcGY5c3d6Y0tXUEh6Z2RlTmdCWDZHZEFQb1Y3ZDFuT0lrWVpKU3ZYSEV6VDNsMWR1Z2NzXzBjVEE5MXNtQVdiNjVNUUdIaHFBMTF3WHlzb3VRc0oxbGU0Q2xyVmFBRncydUZqcmhUMDEtM2dLalpFVVpqeThKRW1OTzRPSG1HSThtVlF5R3U0YjM2bVBsSkx1dS1TSzU0a1p6Rmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:14:43Z",
+    "hash": "ca7bd82c55579c89b1a55834e2ec716bfeb0a63d8d7b72cf1376f5a2e31a00f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Navitas' AI Power Shift and NVIDIA Partnership Might Change the Case for Investing in NVTS - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOGtGVUNVOGw5LTJEbkNhUDV2c1BIVV9KSnhCbjNWcUlRV0xXcDZnSlpkXzFWQmdsalZRVGlBM0VmSklyUk5ZU0g5MEM5OTFYYXNjdVVrbVFDTTJnREtLWFFzSEtZdHBvbVNlcGZXeDRITUdEWVpzTFhjVlpfZV9OYQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:11:27Z",
+    "hash": "0e7df89fc7275f93d64f0d3962fa62e496f5106bc4eeb409e662bfdb924fe31b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Wall Street Lunch: ‘Big Short’ Investor Michael Burry Bets Against Nvidia, Palantir - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3ZUZlpoSVREOEs4YzQ5V1dLUnVsaFhxTldyWWtFZlp5cFdNMUgyQUVHSkhXTmR4bXpBRWIyQjZlaFpjTVh1UFNKLWZxa0dlRlBwN0dmeUhENWQxM08zRy1MUzVuT3psX292VTU0RWdDMzlwOEdyWWdmeWpzdDdyR3o0TmhjQzA0ME5ESWs0Q3oyYVZ4UUduM1VUT3RQeHVLV3IzVU85MDdiZVprYjQ1ZTRoOE4zZHlydlpCRA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:10:41Z",
+    "hash": "84d12a8ba8463339fb9dde6c86a9e2a2a223f0b57040ee6289a5c85bf31de9f3",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP p.l.c. (BP) Stock forecasts - Yahoo! Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDZKTlE1eThvRFdaZ09FVWJwNVhBSDN5aXk4d2l0d0lEOFRWOW5CQk1aQzJ0ZmRIbXY1OVVWQ1FBTVRGTkdLWFJUUTNSbTBXRWJ1RDBiQTZSMVpXa1dmMnltS2tYVDNIWGRrTXFkTHVqbUYxbk5NajZGTHVvZFJCcUpmZzktT1VQSWNYSm83Rlg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:07:03Z",
+    "hash": "f1d1d27568214f4d1f26029505fbe7da326efdf0483f8a4a0c6ca9d57b5e1d4c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Pfizer Raises Profit Guidance for 2025 as Novo Nordisk Ups Metsera Bid to $10 Billion - geneonline.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenFva1N6aV95aDk1OXZUYUlodTA2TEVUQTFINHJnUk5YMEtqLXpwLXB5cVlLUFNBUnA1NlFwd0RkQzlxNlhKUjRncFJ3ZjdFODR3UzFoRjJsMGlJcHN4Z0hwX1NRTm96aGZkRUxjZ1hjTjhobEVLXzdyTkZjekRHSU9sbnpMZTRBM0E5eWZyTzFpcjg4ak9seW4zZHNkd2otVkxERXhGdXpHUE5pa2dxMFF3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:05:48Z",
+    "hash": "ba3e8a8d1e21053a26ace44d2ae1bc3433974e433b93e93f4cebce4e535cb58e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer Raises Profit Guidance for 2025 as Novo Nordisk Ups Metsera Bid to $10 Billion - geneonline.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOenFva1N6aV95aDk1OXZUYUlodTA2TEVUQTFINHJnUk5YMEtqLXpwLXB5cVlLUFNBUnA1NlFwd0RkQzlxNlhKUjRncFJ3ZjdFODR3UzFoRjJsMGlJcHN4Z0hwX1NRTm96aGZkRUxjZ1hjTjhobEVLXzdyTkZjekRHSU9sbnpMZTRBM0E5eWZyTzFpcjg4ak9seW4zZHNkd2otVkxERXhGdXpHUE5pa2dxMFF3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:05:48Z",
+    "hash": "ba3e8a8d1e21053a26ace44d2ae1bc3433974e433b93e93f4cebce4e535cb58e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP, BNB, Solana Crash While Analysts Highlight Next 100x Crypto - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlZzRTZNTnJRYnhETHAyMk9ycy1RUFp1UFkzZ2FYXzlLVUtidW1DcGJTRWNPVnZWT1plNWpkR1gzaVpvNGhmT0FBakYtQlVoYjBPeEo4WnRob21oOTVnV2otS2FGaWM1Ql93clpaY2VnT3BmdGRzM19CN2NzUWpDNnJTRkYwLVR5VHdqbWRWWnR5UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:05:03Z",
+    "hash": "676532c9a918238d0924c29a2163e8b432834dfc2572f2caf96e115e8131fb04",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "XRP, BNB, Solana Crash While Analysts Highlight Next 100x Crypto - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWlZzRTZNTnJRYnhETHAyMk9ycy1RUFp1UFkzZ2FYXzlLVUtidW1DcGJTRWNPVnZWT1plNWpkR1gzaVpvNGhmT0FBakYtQlVoYjBPeEo4WnRob21oOTVnV2otS2FGaWM1Ql93clpaY2VnT3BmdGRzM19CN2NzUWpDNnJTRkYwLVR5VHdqbWRWWnR5UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:05:03Z",
+    "hash": "676532c9a918238d0924c29a2163e8b432834dfc2572f2caf96e115e8131fb04",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike's ARR Slowing Fast - That's About To Change (CRWD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPclhwVW5GNDNTYWF3MW5NdFJqY0RxVlU1LTJXZENpekFDOFlyRGZ5RThpaC1sRW5lTkluQWhFdkJSRVpWWDRTQUlNS1BaM0w0R0stVWVRRWx5YWRzYXdraTNBMW9IQmZ5SzNWbUpRSm9Gb0RqLXY3V2N1RDhBLV9CQklOVTNocXUtNWI2NVl3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:04:54Z",
+    "hash": "d1c0983509312e685febaceb8d7fe4d4db44d69de449f37c6a26cbe87a5e74d6",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP Q3 Earnings Beat on Higher Oil Production, Revenues Rise Y/Y - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUlUZV9nenUtb1kyOUtVNk9ibk1aby1zRE9HbHZWU2FucmJ5aGo4T2pTb0VpR2J3RmFXckNwV04zVEh3V3poblU2RlBNZG45TzlNR3FxeWJiamFUZGxMcS1WUDNVQ3VfRUF6Wks0czVreGhMQ2tvWkpTSU5tM3BlbmQ5TzVuYzJtcDM0Y0RfeS1kTFFPdmpfV0RfVDUwTEVDTGlLbA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:02:50Z",
+    "hash": "c8a11eeb3de550546bcfc08fc3a7556ecd6f8e55510a05cc7e31bce09adf0144",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "M&A News: Novo Nordisk Stock (NVO) Slides after Increasing Its Metsera Offer to $10B - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVJwUFdUT2w2QWlDRjB0VzlHY2VZOEdtazBzVENSRG9IaHZHb1l5LU1XYmFKR01MTHpLc2k0d1RJSGE5QmtzcTdvNlJkbmdqRnpfd3JfczZtQXJ5N01nOUtNRmp0cmRNMURsUV80ZzdWczh4VnZmRzVKdW1uZW5DeG56WVFTNVpyNDAtY2hjYzN1dW1MUVgwcmxlY0RmMlQwRk1uUmFQRmtSa0kzSUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:02:35Z",
+    "hash": "4783cb9e3208c70e907d140cc918752cc63c12c94926899cbe053b6ead209e66",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Cardano (ADA) vs New DeFi Coin: Which is the Best Crypto to Buy Now? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUlA1a3FLS3VKdG5UaXBEM0hsLV8yUTY2WFlrRFNFOEktRFdld3lKVHVVa1BoWlJGdTRTR3FJOFpqNjVsUXppV0RQNzlRaHVMS3lIakNEd0h4MmhkVVRUQlJQTC14amJBZ05ZcUQ1NEUySWRJTEJoUzRtdGVVVS1XdXI4N3E4M25QU0RJdlhSTGt4UXlRYVJmT0UwV1prVmd5RTVJZ19nS0NiRzYwSWRiTU1vLUoyWmlzckpZeENkbnhvRTMxMXlKUU5Xa29BUmp6dl8xUV9rV3lTd3lKN2VQelVFYVdfWE9E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:02:31Z",
+    "hash": "e81918a769453d7e8f9400a9b377eade254e36392239fdb6d1505a5fa28ec9ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer (NYSE:PFE) Issues Quarterly Earnings Results, Beats Expectations By $0.08 EPS - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX09Bd19VVHJjRzA0SFc5a181YWFtMmVyLVEtS3RTZlJzNEhucTJMSmIyM21lRDY4OEh4aXBLU1JwMlZlNGFzQXFjNUFrWXpnb3lsazNFQVhQWm50Tld3MzJzY3dlbGtxcDZhdDZMMHZsZW5KMEpRVzE2TXpDSnQ1MHZMVTNGNXY3MEp5eDg2Vk9TNHVydnlNNzVEcFRpdlF2eHhHZzVOblBGbmlIUF9KRVlrNG13WGxtTXVnN3NSSnNYdXVsbkJEQlhuQU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:01:09Z",
+    "hash": "0542ca7c553877a7e3cbca603dc92347258f45eb49979bf31c763c0da6d6271b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Forward Industries Authorizes $1 Billion Buyback as Solana Treasury Grows - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfSEFTNmdoVlVDMnN3anI2QXpXUk1oWlFtakRrT1ptTUszaXFkMW43Rll0WXA3MkJtOVZOS2I3Y0V2VlFQWEliTmFaeEo2OWR6b3hndjRBcGxJWnVlNXF4MjlibGExakl5eVBxd2w3bV9fZUdWdUlScnJ3N09xRTTSAYQBQVVfeXFMT1hnVWNaQVlOZ0REazFRbi1EbVRmNWU2M1ZSZnA1NE96dXlMSXZ2MHBwSTN2VmtIV3FmYUpfTFh1dnFjT3gyV0RTd1NtVG5kTkEwUnd2XzBUbW1IZ3RDOTNKTVR4R2lCTTdDdGVRc2dzeTNucFhseTRySXpuRVRoR2hQbXJl?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T18:00:56Z",
+    "hash": "00296dce9c684da4c2940f328b30c053649b3b5a4e9a6db3e701422c39088de9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer Stock Falls on Third-Quarter Earnings. What Covid-19 Has to Do With It. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNRmpMekRGTkFZbjgteTF5dG9WNlltSV9sbXR6REdxNUtnWTBvUmc5SVVCNlF0SUJrckFrT052MmxWX0xJekg4ZGFHdEVSZzM4U3h2bzBVLUxkQTRxT2Y3ckkxTVFab0lvZEhJM0JicGo0bDhETjgwWkVrd25qbXAxWlRnRzBsWkcyQWNvZXlsdG1HM0hsZjRRSENLU1h4SWg3ZXpoYTJyakR1amJWRE9vX3h4djJTSVhVNElKQXJHRERHRTRSWmlFeGxlNWwzU2R6anN6Nkd6MUZXRmdhVjhVUEtMaHgtMTdnX0NBYzRtNkg1MFNqSmk2UW02eFlTQTFZV1JCWUhQS0d5MU83S0RXZFVGTWRxSlZudVhLclp5Q3RvS3R3M0pUNmFtU1VySDc2aGF0VTk1YlFUcWRpejhXV3ZJSGI0aE9sRXpxOVJwaTBobUF6MERlVnZENC1zc1hUR2N0VHZ1S1UyZDk0WFN1c3lYWVdCcVFDYnNQQ2xB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:59:00Z",
+    "hash": "3bc94f68c7cea790ebf98746921a117e17375aa213f201e4419940b516d07925",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer Stock Falls on Third-Quarter Earnings. What Covid-19 Has to Do With It. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOYmhLY291WGpnclFfSlF3V1FKZmV4OExNQzdNaVJJZmIyOGNzLTFPTm5xeVVPRzFZdnMzbWlwYjlxanN6elJ1SVVkbHM2ZDFuSmFBU2J6YTlFblJUMUg1QnRIX2JIVDZkcHVwVWdzUVBpTEo0eE5scmhwR0lQSkNuVjU2Qlp5azFZb01YMndOODFEOTNSWFdtU0lxeDNpVUotUGhpMUJTN1RpMV9NbEZMWGxGSmp2RVZ5cFp2SFZiQkZPZVRGSFVlUVFQRU8tOTM4ZU5xUzEwU2pQWVdkbzlQTm5qYWpDNGdIZDlRamJOMFVhM085bU9SclA5eEJ2NkFsTkJ5MVZkWW1VX1NjR3NxelRSUmZNN2lvTS1NNF9UaURaSDRYeG11MUVDa1lzS2FHT2tLTFd1b0d1YUVseXYwSU1oWk9qZE9nM3JNYm0yUy1lNEtqbzBpWTgxNmE2RFI0cTBLWFg1OVd6cEEtSkVBOUhiNVJiVTZYQVpRTXd3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:59:00Z",
+    "hash": "783493a47ae5f64f92b28a873883b817c5d0ce3357b8da79ca09805cc72798b3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "From Coinbase to Kraken: A Side-by-Side Comparison of Top Crypto Platforms - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTQwbXJRVTVTUGRvS2dhSEliYlBobjNORUFhcnpBUWtUWDFTZ2FuY2lXeVNfaWcxalMteXUyRW55WnBxa2hmWUtJSGNFQm1IVS03azNtbXlnM0JGLVk3SU1zZ2ZWb3I5UElMaVNyTW9hRERvb0NTaHhZTVNwbllDSXVQSUxTLThHSk5BQnBqZXNMTlAxeFp5R3RFMGVVbFVBWXow?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:56:48Z",
+    "hash": "bb482ecd8ceadf5693956dbd5e5bfa40d31e745d83cc6971dfff5a547feb2fde",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer, Novo Boost Bids for Obesity Drugmaker Metsera in Takeover Saga - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2NXRG1Gb08wd0VxV1ZGR1BXSEFiNHRBZlU0ZHNvZnNud1hJZzREUGxRWUJoc0tVeGFDWm1iRE1ZUnBXMDZyWno1YXZtQkhlcmIxQjRsWWJoXzNTc0VOQ3FRUGxTa0taQ2xqSzl1RlhJaUxHV1lzVHJJVmNZQjdmcjdBcmszMDlWbmk5U09EWDZ5ZGtQTHMtY29sMkg1ZTZoRUlweHctMndiM3VfcXUtUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:56:15Z",
+    "hash": "83b1f092c7e84a3c5b57fea970136b92743813cf98fdb59dbcd2972ec9e3226e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google announces 'Project Suncatcher' with goal to scale machine learning in space (GOOG:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXpqOHBKR0pBVGRCZDh1ZEUtOHAtTHozSzZlUDZNSFNpYjNtZEpEcjk0VkJfbU1WZExDelkxMHNkUFJPUVEtQ2FKeXl1eW9PMjBaaVFVWWZTTlliUExBOGlNejdtX1dRWW03ZTJtVnJMX0RDa1RzZ2NnekY0SDB2Q0l2Qzk1Ykk4enNyQmJiczdMWUcxaWtoTmFXUTBZbnA2OGN6MUR6WVNHS3NCTEc5OE5ZekIwN2JuUHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:52:32Z",
+    "hash": "a1b0a6c70149c738227c14ac33289de082c25814635b09f0c6405d17ff159811",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Falls to Lowest Since June as Risk-Off Mood Hits Crypto - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDYyMnpvLWI0SGhBd3lYRng0TVU4SUxQV2txMUx0SkZaQlRWR3IyTE5nY19SM3dOM3lxamEzNHdRbUhVdE16MmlZMkwwNkR6aF90TEotc1VOamhacEN0M0JBU1lJam1nLVQzdzFSR2VLZmFEcVlOdXh4aGNuS1pYMklkdmQwT3pxY2dlVEdMbUJqUTdpM05xcTQ0NC1OeHZhMTF4S0xtZ3VPT2tXNEFxQXZyVVdkNmwwU1k0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:52:27Z",
+    "hash": "7eff36661733e6bc52be002ad45c657fe50b1a12514bcd6f2e7d7ed53ec13cf1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk's Q3 results to test turnaround hopes amid record stock slump (NVO:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGVCU2tOZDkzc0pRWC1NTlFZWlZHMnlKQi1PWmhwTnBxZDNJQTZvMVFlUjlTQzJHUXJTX191WmpWZUVxU1R4NjhKdHJGQ2dReFJFVi1CaVZKbWhOQ3gzZWt2bmRkTzFQd0syNU5CSGllWjFiMDRTSFZfQ2NuOFJ5dA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:51:18Z",
+    "hash": "3f0d7b28d82acf1f0c1ad280cbac951b0afee97f6845c1cf80f7a399a5046300",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Jumps 2% After U.S. Clears Massive UAE Chip Export - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUZkUDVVZUJubzdoZk9DcUQzRDlDeHROUU9YZFNiVmxZcWk0SURzNWRKckJOUmU2VFZyRUJEdUtpY25YeUhtcVUzNGZvMkxGeDBfVXY5d1hMSTlSNWo5N2pVSFFVV3ZWVFRERXEySEN5Mk95bkdJYXJIeVEwNXJPNEtXUGFzWFF2WllaNk41Yw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:50:22Z",
+    "hash": "1b8f4072a23633d0ed7fffa9dced5586473756927abb93e72fa55594278f0f36",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price News: Death Cross Risk Builds as Ripple Token Plunges 6% - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM2ZhdWN6TjNyTVVtcGZ2bmc3OEd6bXhvd0x1Rmw4UUdzQUJyQnRQcnhJV2ZTaFUwN21UQU1NdWZWUFROdUVpV3BCdEhUVjFHUmhiTTljYmdWTG5lcnlxSXh1YmFfcFRrM1NPbUdsUGUxb1BNQnRWZDZGdl9jVVdndW80SzNtOEhOYVJrMmhZQkJLUjJNZ1FiWGpkaDlpN05YYXRJTjhIUDRXbkdx?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:49:56Z",
+    "hash": "3a8884a0e2d63b21121e3bfc4bf92f51349f8bc832c2f0fb2713afc135b10290",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Hut 8 joins rank of top 10 largest public bitcoin holders with over 13,000 BTC - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaWEyRW1zbk83QXV1WmlNdWV2U0pBd1l4clZmRXExNjdwcTRlRW9pSG5oT1lfMlMxSXBia08xUDJXbEV6bGF4TG9IVVNfajFYMjBoNlRDbFd4VVp5VEpUZWtMN1Z1d3ZHMW13SVRkYWRfOWpJNk02b0pmeXdQcm1kT0NZQ1FTbzFTdEc5Z2JGRUVPbmt5VU9xbEI1a0Y5UmxMc19wODhLUFVSZUsxVWVLQ25ULWF0Znlad1RUOU9YQ0tsUmJ5YVVfRnVaa0VLSC1zQ25ZdA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T17:48:01Z",
+    "hash": "6846768531ca9cfa185d1d19ea1574126347d67ff24f05afca515c52574d3e6a",
     "source": "gnews"
   }
 ]
