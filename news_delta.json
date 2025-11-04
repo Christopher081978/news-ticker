@@ -1,62 +1,42 @@
 [
   {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "How is Pfizer Planning for the Future Under the Patent Cliff? - NAI500",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOG8yX3VtZTQxMUJXMzRWSGR3cTNPSjIwUHJZWmR3SWd5c1BEbTViUDkwa2hsLVBrYi1uWU1ycDJEN0k4MHZST1RfSEd3OXZrRG5ZaEgxamNQWWVOWTVEN0t4WTdtdGttak54OVdOM29KZ1lIM1JTM2dHajlLTzlIZ1FDMUxNSmNOSmUtZzQ3cGVmZWtFenNBWg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T03:46:58Z",
-    "hash": "b6c0676e8d9fbd8e9b679e6f5110778fc946e0bc5fbd47e609fec89d91c398b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "(BYD) Optimized Trading Opportunities (BYD:CA) - news.stocktradersdaily.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeC1YOUNlV19XZDQ5SE9NWnNZeDBTRk03N08tZVZUd1g2X3BiSk1CTHZmcEFIaGh1YU9mSFZialc4bnJfd1RiLVV2OHdnYlEzdjU3bnhVTm1xbVhGZUhJTjRBTFVqU0xWdjZFeGJXa3dUV05EQmxRTVlKcXFUMlJZVGRLdlFvVlYyTTFwSUJyc21OMTZSbGRweg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T03:44:57Z",
-    "hash": "203b10a7ff52e4713c8d1c40b403e171cbb431da5b7f1a5b66215fd8d13a7ad4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever Faces Mixed Signals Amidst Market Evaluation Shift - Markets Mojo",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNlJmZGhhSnR3YmpjRWFETmNIUUpqLW1XZTJ0LTBqdXpQeWJDZzRyWXVoY0hhYjRBNndfZnFSTkpLazdlenVPY0xqQm5HVVBxbHY2bDhHQVhneWNxUTNYbG9MT0dtQzN2SFIyaFpPWGktSFA5Z1J2LTZDd0p3Ti1nR3JOSjlsZWFxbTkyak5veDU5eEhUaTVLcVJ6OWh6aWJrWTZPNHZRUWhySWVSMFZ5UHMwMzZXVkVrOGlJNVprMDdzcjJvc3RxTTFnYWs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T03:43:44Z",
-    "hash": "0ecc33574c74860c95bb1063d652397fdbe2b961dcd628fab8405a978c94a755",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Is BP Stock a Bargain After 24% Rise and New Alternative Energy Focus? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblBwY2hHeU52c2FKM3JReW92cDU1LW5ZZlNUTGdGdUg5Qk1YNjhnRHlPMEdSR0wycmFvOUo2VGc5SEotOEFEVElCZW5kRlhuaW5FQU56TW5HbndsZkVVaE9tRHZCUTJRMGhnamViS0RWV3lnRmNoQXRXZlhQX3pXUTJIdkdXaFJOSm9tV252Ql9mQUpZQVJLMzRaYjY1T0hHOE5xZXEwM0dqc3RCaE1LZWZuN3REOXNiZGN5eHZxWdIBxAFBVV95cUxQNGozaEdyNk1Kd2N6bEpIR09YTFFMR3JrdjlhdXU4UnNKTjFKZ2lOZGxrWko2WmJDLW1fSzVwcF96Y3RGRkNneC1sUGVmWnR2OHJUM2VOcXAzdFA5REJEYzdpTno2ajJHcWh1WlM2bjlQczFDUzZna3RrenBHSGJCWHdQQWJianRINzVsVl9BeGlZLU9zSUZBcGFFSkhvUENXQTgwTFlZbEcySmREM2FMR0xXTTROYUNsRzd0RFdoVjJScGl4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T03:38:04Z",
-    "hash": "cae0dbd8ca84b5f0c2322fb640e92feacbea20b38357ba4c66cc682cf1876149",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Can Ethereum (ETH) Indeed Surge to $8K? Here’s What Analysts Say - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzNCU0FuNEJTbkxqTUN6cnZLY1pMTmg0OW9TLWgzTnhXNG1VT1BwMUlnOS1qYXRoemVHM3diRDM1aVVpREdBQi1mUzNYN3RXZ0lpY3ZBUUN2eXpKd1pUZTd0ckFqTGlId1ItMVY2RHZMUDFWMzQ0MlRJOXFXakVQSldvTGlPZ0ptWDltYUJR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T03:36:00Z",
-    "hash": "fb7d3e8aa93b43c40705a448769c57911c9a418777109cdf128d731a250d1e59",
-    "source": "gnews"
-  },
-  {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Hims & Hers Health Stock Jumps After-Hours As Q3 Growth, Novo Nordisk Talks Fuel Bullish Retail Bets - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWmlNQUlKRElVMC03VEhsckdUM19xUWxxZmgzWGJ6SVI0QURQTEhwRE9iYjBNcEgxTHd1S0hHNWdHVjZpNTBLcm9SVV91SUtnY2RlWFVqT0FrTVctdkNPcDRYSC1jWGNkdkxUbFFvT1R4bXBGNktteWloYi1EUnozN2FaQjhEd0kxTHJqZWswN0tSODZneUdGVWFDZk5STS0weVd2bXpKZGF3RjFmLS1XSHh0ZjlCc05Ib1BST2t4dFZ1Yy1wYl9VODdIN3MwQ2Y4VnhPNV9ybGZWV3BSWnMxc1ZRaGlRM3plN2Npc19Vd2dfQzR0QTR2Yg?oc=5",
+    "title": "Hims & Hers Health Stock Jumps After-Hours As Q3 Growth, Novo Nordisk Talks Fuel Bullish Retail Bets - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOelNGaXdkM0ZsNlh4QXJHQ2JoeU5rUWVzMWxGSlBJNDJsMEVLbnhaa1lTOUt4WHBBc0pSU3Q0ZzhQV0lpOGkxNjFlRHRMbk5BWk1Lcm1wRlBJN0k2T1pKRDVPbXV1ZE1NYlJMWXVDdGotSm5sQ000QkMtR1RCX0dXYXhhSzRtbUJfYThvdVJiS00yQ0JBajBwb2ZNS2Z1a1NYUmtRNUIwVFZxdTZCX3RnVDVLQUx1QUg5Ml9mZEE5eDc2c1NhZ0Nsdi10R0xxNHA4d1lwbWlUWEtyX0JCeWg3MzlDTkxVX0FMY2JUZmJ3UzFNTmlFVG9oMmRsUVpPMkFtU0RKNV9teGU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T03:34:00Z",
-    "hash": "43a6c8778a3bdb526ab011311311699040198f4677a140cb22b7c4673d1c088d",
+    "published_at_utc": "2025-11-04T04:31:53Z",
+    "hash": "12fa4a21c7286fd651ca737a33e8bc03d309031e49f42b6c6becab04bc914c34",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Altcoin News: Solana Leads Crypto Inflows at $421M While Analysts Eye $200 Zone for Bullish Shift - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZGxPLTdHMk5LRC01S3ZUOFN4amdDRG5rMnJGdjJ3blZfQ1dHdzNMcWJoTVB6ZXNVUjN3RzlPX1BoUHZPOU5OWnI3U3VhZ3NNdkpndG5OcU9iLWdDSGRwUHBOQ0NfSHJoM3d5ZDBfVDJnalhoTzZzaUJpaTdwcG84ckFPRGpZWVhrTFF5LVVVTjFhZUhnUGVneEM4WUtCTFJZckdLWHFZU292VXhVLVRzbWw1QVVvYi1MNnU3T0JmWHBBQmU4Rnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T04:06:35Z",
+    "hash": "02a8821d983c11e652471bf74b2700543dd7654d62d10b946f686091670a95a7",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum Shares Face Critical Test Amid Steep Decline - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUlUWnU4eHJCQzlqZklRM1dYTlFDQ1NaclRpaHZkZGItTzdHZzhlT1RuM2IxanhVazRXRklzMzI2RzBPdGlydU54US1jUW5VWkdGUWNLMUUzYURQcUZUWUZ3dXhXUnBBRXF1aG9MQ2o2MWxpeTdVUk52b214c3VVejNKeW56VlZDNjFpZEJlN0htSld6Vjg0c1FlOHFQc2VwY09GemNmdjFrMWpSUVl3YkxBOUxLN3cwTUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T04:06:05Z",
+    "hash": "5a7284d91b1ffb502ee51010d81ad762dbe13a9085f6ccbb2e0a8b56b77b281d",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Climbs on 2 Big AI Deals and Surprise Export Boost, Top Analyst Sees 73% Upside - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzI5VERuSXNadHo2WFZYd09OY001RGdvbDVBWnZ1SGRUdmt1cnVIcEFaSWd2cHE0ZEluWTB0NlRpQU9wZXVWT0tmR3J1VHRpUkFhRXBjOWdMSGxOWjNDejVMeUhmeVJ0N095b2loUmg2TWhWa20tYk10NUFpUG53X3FYVUhhNGJXY2xoSkdScDBuQU5odFphQjRscEJXa3VBS3ZDYmN6cVNEUmZuVi1OaFZpRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T04:01:28Z",
+    "hash": "18bd96a61b32e7ba1542ce8b42d9be1c803acdb8632ab5ea2d40bcdc4aac7494",
     "source": "gnews"
   }
 ]
