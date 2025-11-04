@@ -1,42 +1,142 @@
 [
   {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Is Alphabet a Buy After Its Blowout Earnings? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGFTblZWNW1LSGtaSnU3U01KRjNIbGY0ay1MN3h6RGtBUmJkZDM2TEJ5dmc5R3dEZEMyNFN2OERHTnFTQWFYd19yNjdHVDBEWnhfRGlELTNoYmNmYlhCS1VaQm5oWmFKbXRydkVyWDYtcmxhQ3VHaGFFeGt1Q1g1dDQ4RVozRDVSYlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T20:28:42Z",
+    "hash": "4788adc59c842d76d00982d1e25d2c9d9b8f58125a08cceaab383dac6c2ec2c5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Shareholders Gleeful Over Robinhood's 'Prediction Market' Push, But State AGs Say It's Illegal Gambling - Law.com",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR29fSGI1RTg0VUxNd0dOTWZrTld2WEFZNFZEV2FNSnpUWVZlOEtfdk9jZ0YtcHljSkVIZkhDaEpMaXNxN0tRZkEzVlNuX0Y3QmF5UndudEl5eWFRNlpPT3h4TjJSVVh5akNFcmZiSG05akYwTnJDNW9abzQwR3RyTXdaSDZaT2Z4c09BR0ZtSVhVc3EzZkw3UHBDQ3pBV2g2Vjk0aVZvYnRMRUd6U1MzbjJXTXRkcEtYRmtZVEF5VFpId3lvY3ZUV0NjOWlHRjl3bWR5RnJ4U1k4Tm8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T20:23:00Z",
+    "hash": "cd037193c2a298089217bd3007fb2beb6e11711c6eaad7b542bc6fde0b21f1f5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google Maps gains advancements with AI-powered Live lane guidance - Android Police",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelNYX0hYZDFobWNja2lsZHZLZ2x2cjBZUXNlYjYtSzJNcThBWGl0dTN2bk1QTW5CNS1DTGEtZEhmUWhsOVZKQkN5Rl84UlEyQnRNc2FuN1c4VDRwMHZqYkJjOEFqVWQ4eXBGQ1pkQzNuSHlRbkYzWjRJb2tQRlo5NTktOXZrUDF3bHE0R0ROR083OU1VQmlYeGF6dzM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T20:20:00Z",
+    "hash": "d24a5cd51ec8c1406682660e21e1939c54e997e3cfa797cf0573899a1802c79b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Stock Movers: Palantir, Novo Nordisk, Uber - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajY1ZjhobXNVVHRSRjlGYkRCMG5odl9rVnRzQ2ZYb3d6MWpNbERHYVN6MEI0ZVhDajRtSTc1ZkVjV3lhekVuUlVZdmZUdHFWdHhmUnpxS1NRQjB1QWhIRlBRYW1VZ28wSWlHYl9JT3lwUjZKTHdLdFhmNlVjVUdfdW1URTNiNEc5RUNZZUc2NUIxdDZES25TUTRyNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T20:14:55Z",
+    "hash": "e69ad72aea416f5b5da17e790d5409fa151f0376c2e6dc34fed00b4e75523bcd",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: Key Market Catalysts Poised to Ignite the Next Major Rally - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTFSWk1yVk9ESDRmMmVJOHVtNDdIbnZ5U3BCaHg1cnFYX1BzeXhyTWNLOEtJZTRZcGFwd0Qtblp1Mzd3cVAwMWM0dW5kajVhQjgtMnBhSUJRYUZqdktLeXRnMkpuTno1X0hvSHA2VURXUmJjSkVxUWgtOXB2MXN0TFZ1RTFFY3lUWmtWR1Q3cktpQXFFXzJsU3BR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T20:14:09Z",
+    "hash": "f955e2429c9b1a6d56c41a52c081d9e8d40dd1e80539dffb202b0c93ab6d56b9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia's $5 Trillion Leap: Why This AI Stock Still Isn't Too Expensive - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMDNQRU5OdU4taGotczU1Qm5wS2ZSMkcxU0tFcTFEZlgzajNzSXBCamJ0RFlUZk5yX2hEUFNpMFkzVWl5aXFXbmdYdy1JVHdBZG9sSzJocEhHYm1na1A0cjlRZ1BRazh0UW9ibWZfNkNJcWthcWJhb3drNDRHd3FXdWhjd2Q2Q0c5d0s5VGJFRjNJLWFJTWdPdDllTDZqcEZBOFhWckdlNG5reFpNck1NMHQ2SldfQ0x6aWE3WEt1STJkaFhiRVV3Z3dJeWM2OHFTclBkRU12QnVFM0U1LTJZR0w0U2ZSZFV4RXgxNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T20:09:04Z",
+    "hash": "ed54796fcf553f059ca41aca8628c6c417ea49206600a93e5286dab1c73e9646",
+    "source": "gnews"
+  },
+  {
     "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Earnings live: Spotify stock turns lower, Palantir and Uber dive while Pfizer, Marriott rise - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd25SWHU5MVRrenJ5aFB5bDVzV2FWc0Q2VXVZMm5Ha0dlQjBIQkg0Sm02YThnRDk0anpwUEc0YlZkUFZpUU1IZFJIUWRuVGprRVl1S01yZUx3U2N2dFBqWTRWamg3alVNVV9nVGt1U1NzZnRFMklZei1kU2F5MHRFWC11cWhMd3NlRGZfQkFKUWo4MnliTHhwNVhaa1VSSl91Nlh0ZExJNUwxVDZNVjNONldGR01Hc1FDT1VVd2pGSjI5bDNZLTRFb2pXb3hFM2k3ZFVEVmlPZw?oc=5",
+    "query": "Pfizer",
+    "title": "Novo, Pfizer Are Battling To Buy The Future Of Weight-Loss — But Viking Already Owns It - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWVQ0a1pVeUR2SXVVYkxKTm5YLVc4cnFzVGd4SjdNenhvSHlYMmQ0d1I1STB2Z2dVeUpxR0U1eGNuUmpXdGFqLWQxZVoxVURBOTVVQy1LNFRNZWZ1ZWVmT1BEWnM4RS1mSjVVbVRpYkJCTTR3UmJMYjBZYXNzVjdLMjFNdGhndURKR1M4OFBVVVFwUTJVZ1ZNSFJ4RW1Yb213QTNUMGFaekFCa05MUzllLWdSYmtDemtlQTJXOWJBSVFObFRPYXhV?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T19:38:50Z",
-    "hash": "7c3da22eeabf69084dc32ddfd36d3cd46f7c20a821e9580ffce7fa118f9ee685",
+    "published_at_utc": "2025-11-04T20:04:42Z",
+    "hash": "0102ba1b40a8fe9bbb033a63e903b1c8d27b4db9c539d110d39d0dc15c7d57ba",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Briefly Falls Below $100,000, a 20% Decline Since October’s High - Gizmodo",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNnVXSFhNNElzNDg4NXkzOEVRNllkYmZuUlRpOURHUlBxUmNTR0psV1N3U0ZDNDdTTDdSN25YVWNuMVFLWUdXeDJNblpfZ0lUeDBBWXBTSHM3dUExLTdKUnZicUZiY3g2ZDdUODRucXIxRXNPR2x2cFJpaktpNnFaSmxDZ3o3RUJiWnhnWUxHMzRIR2docE1KVkY5UHBDMWNiMFZhaG8zUQ?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "This $0.035 Crypto Could Make You a Millionaire Before Ethereum (ETH) Hits $10,000 - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXN3V2hWa2ZrQW1fVUVWQU9wLWJPR1VKMHljM1BJUERrUUFXTzRYeWtrTjBjWDd1ZkZQcTVDUm4xODE1TlI1bW43T3NwQkFZZUZUc0g1dXJldXAzNnFVbXBNMXNSbUFDTEx6ZElURGVBajJwNzRBWjh1QTlVcnlSdlpfbHBxT0c5ZVlDdk1LVUt0eWRMcFZFZ3hXTWNhTEpZcGh0TTNRODB1OUE3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T19:30:52Z",
-    "hash": "edbdf2a12a47d82bbc0f999125069760bf61eae0333ed75932c38f36a1909253",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google Maps AI: Unleashes Powerful AI Lane Guidance Transforms Driving Experience - Techgenyz",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FR09yVFA3cXpFbUZVdHE0RnY1dFNRcnk0WEVBdk4yQ1lzbnJSUEpvMFJmbnZaZWpYZUVJT1Vaa2hKNnBiU0FzdzhhMzVSODhzalpzNDhJV0JKVE9fUEs1WTMzOE9acWdkN1lqN3BDUFo1LWxXTXhOVmZ4aHRLQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-04T19:27:40Z",
-    "hash": "f25fd1cdb82facb568d66b282260ff3343ede1c4fb05b2b1a7f4b4f2271e4174",
+    "published_at_utc": "2025-11-04T20:04:00Z",
+    "hash": "e60b7e720f9b4b88e1567553cd54d1907b45e572d99d246c265a6fe7c20f796d",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Google Maps is adding live lane guidance for the Polestar 4 - Engadget",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTExYT3BLbEc5bHFpQnBGaTNUYk4xWEs2QnotM0tWdmJIOG5STHh4RUlaNVVCa081ZkVRUzlsWXZfSTliRFk1aTBsaUlBZEhBWW1VNW83aEZzdnUwYTlMak1Gdi1uQmQtRWRXa0tHUXJsUGVWcUNpWklGajhFLWJOQ3RqQi0xZDg0aG1KeU5KbVZoTlRUUzJwTjVvd2pFX2JGc1hwTXN3dUoxWnpobUpmMHoyVW1nMEllVWc?oc=5",
+    "title": "Google Maps now offers real-time lane guidance, but only in this one car - T3",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeURkRmxjTlJXVHRHS3dHZWVDOEN5cjMxTUtsbV8wYlZSOUNaUjk0NDNxQjZmdHY1cWZESFFIem5QMHpxYjBhZ1Z6c2NuZkhvTHhxZExyY3dYVFZsNll6YXlhVVNxREdPNnRSb1JvME56ZDZEUF9PX1IyZWVlMG1nUWdDRDVMN3RCQmFkWEx6VWt4TjZJbzFLZ1N3NA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-04T19:27:05Z",
-    "hash": "f37c2dc7d89e44baf441509abf560356a495a05ce4ab972de978a3ad55336330",
+    "published_at_utc": "2025-11-04T20:00:00Z",
+    "hash": "fa8f999197784c57202c99f20df59dbe97e40e628d87e72bcc3d643f614e795b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia's $5 Trillion Leap: Why This AI Stock Still Isn't Too Expensive - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUUJaVGp0dzBvakE1VDZjRmpKY055c2ZNRjdrcHNNT1pWbnlyM2FnUVNoV1ByWE5xRnRNRm4ySXMyWWt3VWVVc1gwSjJXc04xY1pfQ3Byc0JfbnBSQjRkNXlSUksxVjFVMEEtbnl1VnpKek5tc1JlLV9ZNy0xRVNOVWJHQ1IyaFpWNmd1TGdYMFY5VUZlN2t3Qw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T20:00:00Z",
+    "hash": "c68d2250524dc0eab0b9162c733eba029b00b15e14dd856c7e6a594cdab387c5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Traders Purchase Large Volume of Pfizer Call Options (NYSE:PFE) - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTk1vWGhSSVpYSzROOE1ZUUJ1MzNmM1Fzb09RYi05UjZ6aW1zV0pqQ21admJHbW1iTVBxUkY3cGp3WTJoTlJLLWpwT2FnX21YaVFwa1JhSUt4ZTdWLVJBYzBPWGVuakVsRkVRWGRNWkZfN3lYQU5KeDdaWGFFbVYtRkFuQS11YUZ4WDM4WjNVR0N5V0poWGYyTG9nTktGQVAtcTNoeGhZTHluMDRHZmZWVmZsQTI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T19:59:16Z",
+    "hash": "6c3907e24458729330faeada491389a9110c86cbf93c163e1001f799c2866d7c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets Q3 2025 Earnings Preview - Focus on Net Deposits (HOOD:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelNnY245R29SeW1qRFo5TktYaEtTMVl6dk9jTWgzRERnd3hMcnJBRU9BME1EczkxQkMwZFluWkVHRXRhSVYydFYxMnZLaF9ZZkdyZ09QRVBDOFFVWGJBRFlqQURKcF9KeTlyM090dEw1MGtmaU0zcGVETGtCZ2szOVJlZWZpaU5DVXZtWnBtWnB6SExXS014dGN5NHB2ZVAyLVNxeWNqWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T19:51:01Z",
+    "hash": "ca2ec82910d925b390d84d4c9746e74d1b95accdadd3f35eb58295d8e62c4513",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer's Prevnar, Abrysvo and Comirnaty suffer Q3 sales declines amid tough US market for vaccines - Fierce Pharma",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMWVOd2lGNEN3b19xVGI1OW5TcEhSTVdicGZ2c0VudkpQd0p6X28ta2xvdmd5R3dWQWVkNVFLTzMwRl9vcGdJaXJUWGI1b2xtQzFERGpPWEtlZ3V1THBsNWl4X09Jb0RwU2dKZUZlREhsQU11eldlQ01VQUhFSndVN19QeWkzS1JXbnlmaGlzVlBGLU04M2lhbDgxN1VBM2o2emdlUUFUbE1jMHpWYU5lR0pfZV9ieDU4Yk5Jd2htSzVGNEJPLXJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T19:50:08Z",
+    "hash": "b308c7e268f0c9015d69109e23d28306bbf802252e6550abba88ab637f5ea4e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple President Monica Long outlines XRP Ledger’s next phase with lending protocol and stablecoin expansion - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUVMS0llem8xQlBEdDNfT29TZTlyb3puOW5BNEczbVY2S2JnOWdtOHRrLXp5RGRWalktYXo0WXU1b2pDTV9QdUxfUjIyZU5HM1dZMVV2dHdUeW9UTmdrcFVSeEdickJPVmJqREdnYUlCcmhTRkVjOWNDaWowcGtXMFRadnJNUy1aeWozdlFrTlUxM2M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-04T19:45:13Z",
+    "hash": "d8e7e20117ca982ffc823f5cf0141acd21b2700f71b0e07f54bee40c641714cd",
     "source": "gnews"
   }
 ]
