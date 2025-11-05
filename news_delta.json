@@ -1,92 +1,22 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Top 10 Bitcoin Wallets To Store Your BTC - CoinGecko",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kXzl0YlplOXpwN2ZlUXRGMjl1SjVHQUY4NXQ4ZVlNNEcxZmxtOTYtWThMOTZXZ3oteW5IOUFLOGtXUDVvd3E1aG42QndINzRvNTFZMTJUSkZxQjdCd25Bbg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T03:55:57Z",
-    "hash": "0c02cd51e4334005fa4e096ac8a15c58415a36e8178d680b1a5067d3e44b8925",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Banking Groups Push Back On Coinbase's Trust Charter Bid - Law360",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZdnQ5d21vcjM3dHBoMzRwRi1mWjlfSHVydjh5bEZmOVRVYW1MdV9fQW5XUktQOG5ySmhfSUhsa2lMSHQwb2FjeENOV09Ocnox0gFWQVVfeXFMT3R1eEhSbUF1VzMwZmphRElwcVNVNTh1eWpaN0RkLXdmZUJMcm1TR0lTMWNQd2E5SzlPM2xZTlZkUnZERDZna1VtZDRzOFJiZzV5Nmp1YUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T03:49:00Z",
-    "hash": "a25816734b8d6f82ea869fc1d72ad33b8eeb67427f1f307f659f991063388738",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "CrowdStrike (NASDAQ:CRWD) CEO Sells $3,835,482.75 in Stock - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTVV6a0pJRHFfUHdpWnJySHBERVh3bDAycUU5Y2dINU1tZ1VNdkY3QUVSTEtDOEZkR3JoaGRuVHQ5UVF4MW5WZ1JIa1FRNndISTZnSGp4SENTQlFwYUlhT1pwUUF1QzZIYVc5YVN0SURmYXFrbG9hSjE1bHFhUnUyRExpTDNnUTdSU0k1ZTAzamw0Z3E1QzJBbkt1ZVR6RHduaXpLRF9xdjY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T03:45:19Z",
-    "hash": "4595e3753467b822aea06b7e6bc5814c4c3023570be4edf76ac1c012ebbfc81b",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "Insider Selling: CrowdStrike (NASDAQ:CRWD) CFO Sells 1,957 Shares of Stock - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFR5NnhjT0lwdzlIWGp0dFdCTXVwc2dZU1Q4TzQ3SE5XLTN2NVVtWmc0R1ZkcGJ0TUtOaW9KaVZYTk1uZVhCOXNMZmlaN09LZlJfSjBGQ1U4Si1TdV84Qm54SmVGTmdmZzZVWEpua0xqYzc1bDRjVEwxNjNQbVVZbDhPTHZhcmw2NUt3V01UM25NemJLZTZqNU1vNmdGRFc1R1Y0eXN4VVF2aWlFZWNMc0M0dXhraDM2bmJIQXUxVkc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T03:45:19Z",
-    "hash": "1f5434ab791ed75f7d26167dc829e52127270dd49a6455ef0c92d9622a3dc553",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike (NASDAQ:CRWD) Director Sameer Gandhi Sells 5,000 Shares - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUmQ3YnB1NFVVenAxa0JTck9YU1U3dTVUUFU3Si1oRUVQQ1dvaEtmNDVlMXlNX3g5ZnBTRDZXbWljUEtFVkVKN2pyaUFDRDhrdEdYTUN0c0JZSTE5QmlVamxnVEZJemdHc0ZqaFk5cmF5QjlpcUhtUmVOM0JfcDhoSks2X1ZucEdzNWFlRURkQ2phMERsSUhzU1NpSTZoelpXZVFGT0thZjRyRUZDT2RTS2llNEtwQldp?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T03:45:19Z",
-    "hash": "c9f243ed4d6441de01d7e5101b22e9a29a66513db8b30d10db4c3db2aa49a173",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Price News: November 5th Updates Amid ETF Inflows - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0QyTTJtbm9pc2U4aXF4MU9lR2k4TVR0MzNvQlVDVERRa2RXVDRwYjFrdkxQSHNLdlRQZUNHSnZReTBmQnFpTUEwdzRKNkN0LW1uNTQzaUp1N25leW9LTGdKZUJuVFJvMXNyV29fTDJacmU0UjlHYUswZnZDRUlqZ24wNFM3MkhtNTZEaw?oc=5",
+    "title": "Solana Price Prediction: While $360M Flees Crypto, Big Money Quietly Pours Into Solana ETFs – What Do They Know? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWHJHNE85TVFseF96X3JLdVVVMXBDcWtGVGtDYXJiaHpWTlUyVl9hSFBjVGRzV1RCdmlFektXMHlGdUR3U0tBdWxwcEFCWDYxZmtTYWQ2UU5CeDVQYWhTWUZYb2ZXSHczdndkVDhwZ0NQUkZjTEJsRWxqUXpTOE81MUhsZ2t0RktyazRKcm5sMUxCNnlBMXVCS2tkWUUtOU0tS1U5OVhYeTd0QTZiWHFFSzFkeXZMMGRIOW1abTdUME1KS2ltNTF6emtKM2xKWURG?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-05T03:43:29Z",
-    "hash": "7c36657f16a99b4f3a3d0f9146f69aa04e588f1bc5e82d6b756b18295e481827",
+    "published_at_utc": "2025-11-05T04:27:11Z",
+    "hash": "5e1c9b35f9326ce1f9492d13a36a4c418f7277585ea30aa3eed5d6519ad31b7c",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google Maps' new live lane guidance helps users safely exit a highway - PhoneArena",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTl9RNWx3REoyWTNkZHFUaGYtT3huOC14WUdjVElzbFF5OG5teEtuVWVJV2xsMS1EUGszR3d5UnIxUzhKSXpZZldSbXBqcVlJbDZFQjNvRHAzeWxwZjFaQWtmVDYwT2JZaEt4cFpOQVIzcUNyYjJkTl9uUlVLYjQtWA?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVDA vs. BBAI vs. AMZN: Which AI Stock Is the Best Pick, According to Analysts? - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak1uZEh2YXlKRGowbFlRWGVac0daRzQ0M3NJYU4xaGNEcDNPd1ZhZnBvYkxJcVlJWXhLbWNMUkt4NkpOSGRkMWRrcjB3YW9nTUtnNk5QMnZDTUtVeEROWWZGNFRVZk5SQi16T0Fzc0NyUGRmakluLUoyd0RWaGxEajVSUzUtME5BNkxXaWVTMmVJWTU0M0dDN2JGNzBZMUVWY2JaRXdzTQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-05T03:39:32Z",
-    "hash": "0ff5821a188ddc4420291a67824cde8ad9e8baf7c6cce47a4a691f3a35428e57",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Strategy Plans Additional Share Offering to Fuel New Bitcoin Purchases - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR016czdEbEwzSHlBUmQ2U3JZR3h5MUtGN0I1VlpMY0JDWjI4a1dTbi1vT3pWckxBUzVEelhBaV91TFR5SjR2WmV3MnJSNnV1QnByaUVjajR1d1Z5SDlhc0RvYWdydnFVSml4SkgtMC1IbFZXQUdUXzIwZVBxVzlwWW43REo1SmdyNnJaMjJ3bGVNaDV4M21mZk43eTE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T03:38:07Z",
-    "hash": "07286c85f0da4db6c0bb699b4963f9154f12dfbe0820d680ea68d0a193330b39",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Eli Lilly And Novo Nordisk Ignite Bullish Retail Frenzy Ahead Of TrumpRx Deals To Slash Prices For Weight-Loss Drugs - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaGJnRmlXcDdMdHZOMnU2U1pZVkw0QkxXUEN4emRDM25oUGZDTTAzN3V1MkoxN3VqbU55YWdwWnM2RTU5OGhyMjcyaDllRk9xVkN6Tk0yc0Q4QS1uMk5uVnhlel9wZ1ZXQUxsajZHZkZKem5OLUh2NjkwaXVuUGZZSEtlZ1dIQ2xYd2tnWUI0QXlQNUI1d1lzVlI5ZkRweWxtYmVZcWg3aHlzaUF0QkxCRWU0alo1Q2RvTWlKdENINkxTejFoUFdBQk1FRVI1MnA0YVFPOGhuZVREc3BfSGNuY0J6Z041SlUyM1BObUsyM0RBSWlYWXhDN0VvYXZsQlZnU2JWNC1wSXBVNzVYUWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T03:36:46Z",
-    "hash": "1aee49a638507fe7f843668a1ef435bf76b7066ef7a11a4fc295f4e8b16a9750",
+    "published_at_utc": "2025-11-05T04:10:27Z",
+    "hash": "895c3677715b74f79698199df6b29d1b87c4101b0ef99385d7495f2965bfc721",
     "source": "gnews"
   }
 ]
