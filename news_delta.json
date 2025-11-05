@@ -1,252 +1,42 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "The Best Solana ETFs: A Guide To Investing in the Future of Crypto - Ledger",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTMnZtcnhURkJESURERWVJOW1qUC1jOG1EdjhGS1l6R1pSVERFYzdwdFkzbE9MMGhHOXZJSFB3WFVCWE5tSVcxNjNCdWl3RktXMXJERHZlR3Fob2w4bXowVFZkVHh6N1B6bWd0NUQ5QQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:27:23Z",
-    "hash": "90c580cacda5a5576d3e7eeda6e200709723e742a189f7ca0fa983b88d60bef7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana vs. Ethereum: Performance, Architecture, and Potential - Ledger",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnN3U2NOTU1iU0hnRDByN2VhSlk3R2N0d19SZ3ZvS0tzTUI2R1ktSTBqeEdfVG5FbXZaUzhLa0Q3UGtVUkVETVh0UWo4cnFCQ1FyT1hmTkY0RHpjWXdsZG1LVnFVRzRJZDdGb050Z1FaSjhNQ3BVT25BekNZSW1FMzVvd1JsdDBm?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:27:23Z",
-    "hash": "5121fe06e62e423ef9901cd7b5ab5a3db5fe824e1c9260cf38401f401f1d993c",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "Ten-Year Tally: UNH Delivers $76 Bil Gain - Trefis",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjIyQmhyX3dXb2hIT2dkeG5JdGhWR1JvNjlsTVhidGZlcll2UEtJdGRyQUYxY05Yd2p2RGdWZnFNTHc0Y0RLY1FfTm85VElILWxmV3hzRXlsVDRGenkyWVE2bEw2al9WcE9UZ05nTXI0ZXM4X1hpTDRrcHVxRC1KNk9OVDJfbERVbjJiM0hLc3U3clhJUVRHVDlzR0VOSFlMeUlWYnpsWVY4aG5T?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:21:50Z",
-    "hash": "027966dd0433fa3c8feeec04e739ce22d2ea028de48dd254c2f74ca9b89fea94",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Market Movers: Eli Lilly, Cadre, BP, Kellanova, and Teva Soar to 52-Week Highs Amidst Shifting Economic Tides - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSkZaVXpib1lmMXppMWxvRnZuN2RlXzlLWEV2ZU9KLXpHLURMempOcm5hVUpiQ0dhMEYza3NnN0RzNVYtdU1Vd1Z2YVhZQnVJWmhLd3IzUmxXUDBpZU9Pb1g0UWlMX3Jtb2dTRHg0NGNEcnphemhmVkw1X245dE9hYTU1dFl1V19xeEJxUlVNeEZZZVJRclJ1MmR5WjNzMEFOcTZXd1JmYmVSVnpPNkk3alRLZ182US1uWVQxQ3RHR2pCNXotT1k4ZlNFeGxtUlBfcXotZ2tqSjBYcFZTaGZkejU4STNkOC1fOHJvRko1ZUhFSHVWQkZhLUswZllOTWN2ZE1qYzlCTlg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:20:00Z",
-    "hash": "6a90f5f00a80bb33d2e25525a74635dbf8f90f366161d1aea495e98849c47802",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana's Price Plummet Exposes Fragility in Crypto Markets - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNQkhYZV9JTXRPR2JzLVRhY2JmeF9obmdGRjRzWkpIR2kyWE9oeXVjNHNCRkhaZkZnNUFKSTQ4VXBES0JlbzZUUHhMbXVPLS1xMUdpaDJnRlNoMmp5ZlltdGxsaXk4NldUNGNOU2FrRTRsaWM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:17:33Z",
-    "hash": "ba7f4615bfbdd74d0a98e5673236bb59d5c1ed337b7c768fdea2819c509df814",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Adam Back Defies Bitcoin Dip, Securing $35M for New Institutional BTC Treasury - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TM29TNkFJeHZTdHZPYlB3bUF3bzFSNi1QVm5GZ0tSQnZFMzIxOEI2N002Q3ZGOTZaZ0F3eVktc2pvbWF5MmJHNi1aRHRrQXF5eGhXblpwNGZ5NWVleXg5UEtUeGtFSmZfU2JVMHZIdlFPa1VIdkpQRjNsU05vN0E?oc=5",
+    "title": "Bitcoin Price (BTC) Analysis: $95K Needs to Hold - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2RNUE9Md1BzcS1WXzlKU3hqU1B1aU1HVW5hUUVVWEt5by1TSzJmOHF4N2FlMmlEam1HdGpvV29SS3BiZEJHbUlqWW5OOFcteTZXZ0lpejdpaElvN3I5bTluWFlmTnVlcldwSXhVSmpHWlFRZktCN3Z0cGdJQjVDaDZHY1BnZkszU0NoSzFUdEJMaHVMaVQxTTA3X2V5SVRCNUVMX1F3N2Rsc2pmYmJ6LVpwazBYdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-05T15:14:48Z",
-    "hash": "9632a928353a3da6a7414196dad643a31e8403f474711c747e959536f8b927e9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price News: Bounce to $103K; HYPE, Zcash (ZEC) Lead Altcoin Rebound - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0RIdkRaOVlBQWM0dk9SREdkdmlvUEFPclhrWWlVSUpDZWFTYnM0eFdzcF9vQVo2VE5xWHBqaks2M203LVpMV2tUd0s2a3JKVnpRWjJTcjk0YUJrNU5TRVpwUThhZXdDd2wtcEdGT2hVU2tFOUc5dEJmLVAzOWpnMzhaSDNCa1J2bFhSTlFGSnNXTjFVTzR4eDRtV0tGVTIyM0ZPbWwzVHlGNGx4Z2x5QW13WE5OX3FwN1lkM1VpZ19DOWw2?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:14:13Z",
-    "hash": "1aa8c1b11c4bf92eec076b08d88ddd627187e0e777ccf3661b2e432542bfc7e9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google infuses Gemini AI into Maps (GOOG:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aTUI0VWMwSElsdmpkdFRlc0k2T0l3ODNwUkMydUx6YnAzUEViV0tMV2EyYmREdjBkXy1TYWwyTmFLSFBYXzdnVS1MWm9mY0U1Nk01bEF1M1lDYUJnTXZ0REM0TGY5bkJGUWJDUXZMMXN1ODN4SktIMThFa1c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:09:44Z",
-    "hash": "dca89549a0d7780adfeaaca0a5d5b5a8094c9ded1f4d627dca770343f0d82194",
-    "source": "gnews"
-  },
-  {
-    "asset": "BP",
-    "query": "BP",
-    "title": "RBC Capital Sticks to Their Hold Rating for BP p.l.c. (BP) - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3h4cDZ5VmxoWWZ5MkROTjRXM01GcWw4QjdQUGFJcTZER3dBdmwtclJsQjBHbnZpUFNjbUJ0Q1RpMUYzZ0pvcTdWcDlkVUZNdi1fSjlfMmZwd1d2dkhfMkZ6TWM1NWJHRTBQRnRiQmpuYWpLaS1KRU5DNUZwOE9vYnRQZnROSENBOXgzcVpQTDlCaTItX3RuR1FGWWRPS0NWMzF2YnBINkRSTDY4eHVyUzZXaHNrdzFxSXBsN0xSWE1ITlI1WjhOaktHeXRrNHVDR1Jz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:06:52Z",
-    "hash": "61164bd686df5c4518bf5efd514277d214bc6df818c7d558ffa7c9e2af4415c4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Citi Says Crypto’s Weakness Stems From Slowing ETF Flows and Fading Risk Appetite - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd2oweWlQaXNndkFac2h6bHBZNXRvZjVvNVE1UWFxWDZBemlGWlN6blNBQ3dtaXRtTlNjcUlBa0pSM2RUZUJrNGFDNnBBRGwxMkZmbW4tZ1dVWUVqc1hwcW1yd3FaTW12SkZJTlNnMnZKUjBSQjN6X1UwU3g0dlRReDV0em9MdnJUU1JZeUxLeVlJcklhMjVHUDFNeEY1dkxEVE9JVHN2aXpka2MyNEtsX1NXR0djWElCZ0xFV3JrY29WLVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:05:18Z",
-    "hash": "0fc238baa53771fa34dd2f687e9b7be526443e48332603397fb6366c9a99de55",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk strikes US Medicare price deal - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMEpCc3BJS2c4RG5QR2ZLbHhkakYtUnoyeC00Z3lNMEl4aWVjdkJCbU5WTGZiYXl3N0ZPT1NDdkZyeTFjMjZsX0NCa0ljZWxwaFpuWEszVldpcTR5dGRTTFM4cldmYUwweHRTVnMzdGhOVERJd2V4MnludXRxd3VHSkNPMHpEeDZlczJJUk1EYzVYeDltSGZlU09mMWZadVJJeWpMOU5Zb0FhN2hOaWZkSkRvUm5IR0NTakt1UEF0RGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:04:13Z",
-    "hash": "ae0dbcaeede161647ab4d649c5491475cbe2f2e7327c1a4d6fcd7b831600cbd1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Company approves share buyback plan for up to $100 million - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYnpKRlVhUG5JZWVuX3VQZjFPUjJiUjhOS2FEdkI5bl9aVHZTc0U2Zmt1czhFOGRkb2U3anluTnVEWVhheU11TnRsT3BndDBTXzhhRDBwSWNfZW9XMEpGSGF1Y1J0RzFtUWNydXRzVUFuNkptRDFfS3oxTmd0OFd5NUN0WG5XX21UY0Uzckl5dmxzSklfMXAyckN6Y3FpZFFHTm5mazh5ajNuYk51RENOeU5pRktjWkJ0bkdkRTNtVUtFQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:04:07Z",
-    "hash": "31ac8b91a4dc1b1124c83bd1b96af93b304afe7c7a8b5ae52f01eae89f848e44",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google Maps’ new 'Live Lane Guidance' feature eases lane changes: How it works - India TV News",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRWN6TVpXcjcwalJaN1ZiM2lDcnc1M2pjbkJpMThtMnE4aG5WaTZBWDlFZURMWXFtOWF5b0wtcGpqRUY1UXBHOWtEd3dDemZSRTdRdjdaZzBwaEQ1bHJoRFFQZVlDMlRFdGZQVkc5TEVaZ2RHeG9scVVaSlFUYU1TRVRyUUNEU0xjV1VPeEZsZS1TV28tOUlCU2h6YWlRc0gwd1BUSFBQbHEzWVBEbm9wWjFuZDVNdUFGaTczQVpkY0xtNEp3S0M1TmdRUHo1Y3dSTURv0gHYAUFVX3lxTFBLRTJnUWRpRjFQa2k1eXdMTDFvRGt0ZTJKa1oxamhoSEtsckh3T2dxdXlER0RCcElKamxWZTBla0hvOU1yQlVvWEVjenk2d2tkbXB5SmNKT0g1bXM1NTJpMWlpS3R1NmVta0Z1STVJNkxrbWhxZkNXVG9NRHVLMkpUOVFVZlJxLW9CdHVndHE3NmpVNXpnZlFNNDJ5dVY3VFg0Si1reEJ1VWktRWE5eXJUWWJEOEZrRmZEci1GMWY1aXB2Y1dpa1hoVXRIeU1OcmxlbWdZU05IRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:03:35Z",
-    "hash": "54ff6fb58b0f40a955daa87c9b4e25961b7955e696ec472164b327144e4cb728",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "SOL’s $1,000 Prediction Emerges as Bitwise and Grayscale Solana ETFs Launch with $200M Inflows - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWwyQVVHS05uY0R0UGhaQjczdlpiaG83Z1FjeHRheHpJVExfcHFlMUYzWG9oU2ZzS3BGbEJtN1RMaVNkeUswbGRZQlZ0ZlRLdUZQUWVRT203YjBMelVLX3NQTTNhMlA2OHpGNmxreGtiQUxiREd5VFBRenFlSTY4ZHpQZVRiUloyY1dhQUJsbks3eERlUWdXWVNZdXhsbVU2bDVNcllvMmRDaXotT1pfT01R0gG3AUFVX3lxTE5sRmdOR1Z5X1FHNnhlZ2p0U0p5d0RodUVDSnhOZHQ1anJMY2lsSHZxaVZGZ3JUeEM4cFlDTFI0SUl4ckEwM0NjWjZyOEJObGNEaEdEeFRBTVpRSkVUR1AyWWNJeENhZkswOEFPbzUwYXZJbVppYW91ZWtNRy1VRDR2YUNiNk45c2lUZklYeDl2eWJXZW9BYXJXT0xza21jQkc3c2tGNHh2aWJZVENuZ253ZWZTODlrcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:02:16Z",
-    "hash": "ec6326b878d9bd892db8402d3e9c332d58738c59dc29d9b1694df49a19ea96f6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Q3 Earnings & Revenues Miss, GLP-1 Drugs Face US Hurdles - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY25qaUh4eFE3Ukc5VFhWd2VmWUY0N2JUTjhhaEJfbkUxMDh6VUwwUEZGZWNqcU9FOGFtcmhBSnNMNnptM3lpN2hTeU9qeWVpUVIxZ0kzTHhFaXNUNlpmUzZiZm9yY0dkWDdsdVVFV2tDemhxLV94R0l5NTFrLVVZSko2N0ZGYjF5QmM2T1huY0s1V0dYWWNWRkNyRGFWaVBVMWFvSEFVTm9aZk0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:01:23Z",
-    "hash": "26bdbaaad0b93dda00228689c17c61edfcc432cc730009225e407af13167b36c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Prediction: Novo Nordisk Will Soar by 2026 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa2lHTmRtbjZVenNKSEUtVjVqWU9mZk9DWGg5RjA5dElKZkZ6ZXdaX2RoLWRnV0I4RU1tSkQ2Tmw0cXFGWVN4aHE0aFF2WVotMTF1Z3VleXVFeW1qTmtWLUxfN3otT1RsYnNyRXlSak56ZWVzcnNRWnBYYWtvdXZOYnlORnNuTGh2eXhJdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:00:00Z",
-    "hash": "02043378bfefdb7c648cd024e01c7d3b2c494c721befa4298c2bed6ed6391810",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Paradigm leads $6 million seed round for Harmonic, aiming to help Solana reach Nasdaq speed - theblock.co",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXctdUtUT3ZKLWdSNXQxRlFhUDNfSmJZT08waU1lSFduMjJ3eFllTElwQXJTdEctblJZOEc4TFBxb3B2d1doV19SS2d1dTNXU2FpU1RkTW1KckJrWVVNVmRDQ1FTTHdYV3U2V2lraU51TE9uQ25BZ3VwcFdpZkhZMHl4dnZqajAy0gGOAUFVX3lxTE5DNlIzRXdHWElsSXVKLXZzQjZqcGN5Zk1sWmJCU0xGcm5IdDVrSEdpeHI1emN0dS1KRlViT0dSSE9YSWZERGU4bTZ1Q2xwZUI3RlJOQk1Da1ZmejI1THdkWXZrOC00WHJBbVdycElMLXJzbGt6Vkd1ekZnUkdZaU9kWm1qVVlrQjd4TGQ4Z3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T15:00:00Z",
-    "hash": "c6937c56f5ce29696c1bbb2886e1702da197e2e14f556952c8b54ef50ed9082e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Stock Market Today: Dow, S&P 500 Rise, Nasdaq Opens Down; Novo Nordisk, Sarepta, Pfizer, Nvidia, More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPZmM4N1VyZ3hyTmRGM0xjeW5uMDdaZGxDNkppM0NXMW0xb0JMZ2JPMXQ4ZzJKcF8tX3RyS0VxV1VQNFgtbGdDc1lDaUVoeW1NMm1vRm9JNjNKQjdWZ2cxdXY1dHJnVktKSjB1YmZMcnd6Yll3eHZPdldqelZHTjZCOVN1aGEtcTdUcHFXWXd4VzZ0dUYzc2FuRklGa3ZwODhlWUtrdnVlQXBZUmVEYU5TNkxLV1dHWlVEUFZVRlFVUFlzdUhqTFA1SThFZFJzcXNrMTlpcnExRjdBZDU1d2JmOGo0MXBEVElHZWgzbHVobWlwMDB0NnRxX1N6RDFGQVRHVHRJQ0lsN0xOVHZ0T0pVMWN2R0pIMkFZYkdiMl8zQW8weFdqX3BTZDdHejhHRXpSWjlpamhSLVJwSTRtbEgtR2tUVTlvYnptYW1RS1hGbHYzbU1KQU1NOTRRU093RnlNR21aVzByajlQMTFvcFJtOTVTQ3ZrdlFnb1RR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T14:58:00Z",
-    "hash": "d5b7a984c1072ea561ead91cf1850bbd00e523c6faf84d50c2dc3bf954b11b33",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ETFs Gain $50M as Bitcoin and Ethereum Funds Lose $300M, Showing a Shift Toward Altcoins - blockchainmagazine.net",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FYXJnQXctSE5PZ3YtQkRJX0ZsU0dyRmNUTXBSWU1KWWhNREE4TWwyTFVsdkUwQjhvYThGUFJicHA5MV91RlNIcFdBZG13TG9SYVpzSGdkUnJGaEFNSEkyU0NMcWNhdzFUS1B6aUFjNG1BTjNrNzJwWU5HUWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T14:57:42Z",
-    "hash": "c98d247581e31b5cdc600911c646cbee8abf1bf8732cd26c9251acef2bca7aed",
+    "published_at_utc": "2025-11-05T15:45:48Z",
+    "hash": "a355c282d126b0b2c055372cccca2a55840be5d317c2f8f4ba9d7177b3b6ad49",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia news: Loop Capital says Jensen Huang-led company's stock could jump 75% – here are the reasons it g - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVFZNbjR1UlJDczY3OFNGbnRjTl9VZWg4V0JaRWgxeFducGZFbUxxZVZLVHAyaldfM0RqbVpZSlREVG1qVXl6TkctcGJYZTRlTE9ENndvTWFFVkhVellFX3ZwS0ZsaTFTMnowZEhBZmM5bkhrVl9uTlJ6dXZpS1dPVzlYcFhFQ2F4ZWFnNlQ1Vy1HSTh0R2Fna3ZxdjJJT29pdDY3Y09zc3NaeXVocHg1bk5YMTZ6YzFZajZqSkFTVENJSWdXS2RhellpME5pM3N2ZFFnTEFfZ1FmcFdHUm16aUdCdWo0VC1WZS1XODFNNmtETXNjbzlFa1RCU19qNHZNNEMwMGtUM3NQN0da0gGSAkFVX3lxTFBfWmVwaGYwTHRGTmhlVXlMcGpBZHRNVlppNHZXbTBmZzZ2Vzc4SEZrMV96c1Z0dU12V05hMXhKNmpkaW5iMkdmX0RrYlU1UjhrdmZxSTFyX0ZxdHgzY3lVRzdFdWVaMzRtSmRfdjk5QThBWmk2T2Jkb1lHbTlLR3B3NmItd1RpdnZXeEVURDlqZTNfbDRjeUZPcG5TSUFYNEtEVDFYLVNQOHdveXlIOHZCc2FZTkxuRTlLMmlTRmtDUEcyWmNBQUUyUUFEelpVZGhobWtNdU1ScmhmeWVJR2x0N2pIRzVhVkcwaTVoeVhtQWZrTkpEeV9DZUs2elJpYUV5WU5lVF9YeDZXNmFiS1BVWnc?oc=5",
+    "title": "Nvidia Stock Gains. What's Driving the AI Chip Maker. -- Barrons.com - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGl0dmJfellHeFhzYml6QjZJbXQxcWt3LUgxV0pnNlplVE5HMHZZZ1FBZFFYcjhCcDlrZmkxbkFJNDZqWHJ6OUJJdlNscEpzdGJoZmZieFN2am1ydk10WEROT3o0YWJnVjJ6RUQ0V0NEX21OY0Y1RVNSaEhiWW0ydGZJS2hieGdYanBVNjBzRnNkcHM3cWdF?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-05T14:57:39Z",
-    "hash": "d4a3c31fcfa8b9bf2c0997c9dc27aab95833a687cc227132bda9d4836b4bdc78",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Hits $40 Billion Valuation But XRP Price Barely Moves - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUM5SUFPbXFqcGh5UFpOZHltQlNrUThXVGdOMlJVNXlrV3EyWHVJR2l3OGZSRkk1QVFqdG5JOHhzRzF5VFdzUmYwdF9VNmpQZ2M5ZWNxdW5wREVud2YtcDRNR3ZDZWRLOGpOeU1yTXpHNWM1YmFDSEdNbk9UZi1JaTJ6dTdsVktOa0I4Nw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T14:57:00Z",
-    "hash": "b7147262d843f9ef90443a2cd994ae5c5df5fbcb02fe5ef8d424bc348214e333",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Crypto.com and Robinhood launch entertainment prediction markets - Yogonet",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1E2M3pwMFJWa0VHcjlGek9kaTRpV1NSWWN6SkdsNVdSY1YxWHhJXy05NUJMWTAxUl83YVBDcHpDWDMwaUhET3pySmlUODBmNV9WWmRjRFN0XzJDT083RHFxOU5aeXQwS1lQaUhWSWk4eUVqdzBJeVF1VEpmVHdHWXpOQnl5VUlBNk9hRTlhLVVGMmhoaGY0MTFuWE44OWM5M1FZSzBCV1lVTlphX0x2czVzTVA2QnJpS1U3eFU3di1pUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T14:56:49Z",
-    "hash": "c6f8885369e55d8b6c3475662e6bf6a69f6777bf9856990ede1495dbd034efbe",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever (LSE:ULVR): Is There Hidden Value After Recent Share Price Gains? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN1dfS3prQ2hDem11MkNVV1NUMHpkWHZKWmp0bWhDa3ZTV1k0U3owZ2JWMWtkUHR6UHQ2U0RWX25lRUZkelBNeVd2YVpWN3JmNmp4Q21zYThpWWtyYWg2S1ZJSEljMjE1cGp5RDZUbmxiZXhHU1R2UzA4UmoyZjNxUkxqekE0aGlZNF9rbngzTGs3Z05pejJDT0ZhTklRQmhGVks4bmhld1R0blY0bWx3UndlY1NNYWdLSXBXX0I3OUd1d2hwQU5zc2RpQULSAdIBQVVfeXFMTlJVOFlrRmNBZVVyX2RWalN3NEZqRjV2MG5NRXpxajF5Sm1pVWpYQnhRMmNjQ0RzZk9NLTkxeGZSTE5RV293VUZLVGVCRVRHejQ5LVluMW9BRVN2WUp2ckx1Um9LcmRCMENiQmxlMXQzTHhHaFRmT3lTdnhaa3RjR0diSEItZzREN0lNalZDZXdIeDVacHhwcEtPMUJ3eVdqbjVUcksyRXVZZDdsU3dRNEJ5dmJkblhHRXZDQ2tRR1lFdzB3OVY3ODRkZ3Zldk44ajF3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-05T14:54:10Z",
-    "hash": "7b8c78b7b034f596e53a6e511876cf0df61314fdc4ca45a0f8f189fc40639bcc",
+    "published_at_utc": "2025-11-05T15:45:44Z",
+    "hash": "44218854537679095ec84c704d8abde2709c018826537519825f6abffe5cb203",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "AMD, Humana, Novo Nordisk, Kratos, Arista, Super Micro, Axon, Trex, McDonald’s, and More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQdnBqbVNCNXk2bEJXdHUwd2h1cnlONU9GOVlsUWxRZWRHTXpVUl8zTDR6NTFFMHlEcjhldmhNbWltWkF4N25yTGRqM3VVVjByZHFFOFY5T3JkVklUVlJXRWlIdFlaLVo2dXVodkNzNi1UQjhabGVUQXdfU2ZmaFk2RUVYTWUzZ0FyREpOa3piVEhPOGJYN2wydlg3MFFqVFdYdS12bXNpS2Y2STJ4ZHgxMEpVQ1hLY08xRTZaNnBaQTBSOWVtUWdWSDRVVEl0M1RfNU4tOUhTV2lLMC1pOGNsYXFXd1p2UU1XQnVOSS0yUklGbVFHbUU4QmNkQVprNDNuZXdIb3pyMVFmQUt0bkhkQ2R0UjZSV28waWJfbG50VF84WnJONF81NXZxcm02TkJpT2g3UGY4a254TGU5azVzWTMzLVVGUmMtZmxnZmI1VUxaSUpXaG9lR3NMb1U2RW83eHVpelg1Q2UxQQ?oc=5",
+    "title": "Eli Lilly Stock (LLY) Rises as Competitor Novo Nordisk Cuts Guidance - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUZBQ3NBRUxvUk90WUZuLVYxWmhaV2ZZX2luNVNjWFN3UC0zdGtjM1lmT05NdF9DYzN0Tk5EeVhsNE1ZTE1DUGMwbnB3eTYydzBEeTdiRmxpUUxfaXBpVXBLY0ZfYzJLa0lJTkJhWC15bTFuOTNHdE9IWkpnQnZ6SzJocnZLeWVSeDEtd2ZzSkNna01kN2ZWVG1uT1E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-05T14:54:00Z",
-    "hash": "d82d0a10bd5bca025d6d443640180c880c5cd1be635b5ef69931fa614af0612a",
+    "published_at_utc": "2025-11-05T15:37:45Z",
+    "hash": "c10e426a090e6b12485b673f99a093364d4586152547c7559aeb23c12be0af64",
     "source": "gnews"
   },
   {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk (NVO) Stock: Pharma Giant Cuts Workforce by 9,000 as Sales Growth Stalls - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejdjc191dWdhNUhKcTlCcVdVQXd2ZFBwYnczc1JiYmZER3l4OGRDb0t4YTEwMVh5MEdmSkVia0xEcnBEX2J4aTZlUHh2LVpXZXlWMV9PZWwxSlc5ekFQSTZ6andLemdSTkdod184Ui1fbS12RjVKTnJKTUFmRDZDVWd3bTVuSER0YmxGX1NpbFU2VEVuS0RxRURPNko1ZmIzdXVURGFn?oc=5",
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "UL Solutions (NYSE:ULS) Reaches New 12-Month High After Better-Than-Expected Earnings - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFNwVnZ5Wm5LU09LMnd6QkJBTFJfVkowRFpXQ1liMm9GQnhZa3V6cUNSNkIwaTlhUXlSQlpld3Jwd2ZsaVJWYmZFeDNLb2h4d25ZTE5MTXpDSDdENV9HNFNlZFJPMHZZYVFlaDBRb0FtMWJYU00xUUNla1JjNVBrOXRyM1BLa3RWLWJidllBaXpMcG9LWDd4T0gxSXNXRDZQMmZUVk9Qa1NhYUNyOGhqMTBRY0JZUGZQMWcyeGl5V2U2WHMtb05DekRxVi1YY21Hcmc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-05T14:52:54Z",
-    "hash": "6bcc967e7364321ba361033cb5f713f6ec4a7e356f7a15f6999acdb0b9ac77d1",
+    "published_at_utc": "2025-11-05T15:31:50Z",
+    "hash": "ffa9f9a14586124c7ebb5042cde857730c2c0a7102493bd915b582f69668024b",
     "source": "gnews"
   }
 ]
