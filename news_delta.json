@@ -1,62 +1,232 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Ethereum Price Forecast - ETH-USD Holds $3,200 as Whales Buy $1.37B - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTZqVndUdWVPNU1VYmtZbGN0VjVFbDZnXy0xZmhnbFpUWlRicjVzU3hEV3c3UXNVaWU0R1hkNUE3c3BCNU5jVnh5bmtTd1FESC1DQTJtU2hUczFDblo0MGhjRmV5V1l3dktMQWpJMXgzd0pSZFQwVGN5NjNWMVBuTFJabXp6SXBfSzNnTmFwZU0ySndpOFc3Y09DYWIza3pOOXAxV1FUUXBiS2N6clVHYQ?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Says Treasury 'Has No Authority'—What's The Bone Of Contention? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUdhRjZpY2hLR0lkeW1Jek1yakFGOFpEWENSM1VyYmZsQXFqZXVmSC1kQ1A0ZU4xb1NsSldVMjdSVmVIaktiTmh6aF84SURCM0ozVXdaazdLcm9BcWdJb3VyUjBtdUZValJIRTNfdEQ1VmRza05KR253Q3JnVTFsQjZPUENqVVdPa0RUelNPY3E1UWRMVUtQTFZ6LUhrVWtsdS0zbENuOVlFTVJoaDNyTm8wem5PSmFEZ0ZnbDN6TWNMLTFXb0JuY3pB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-06T17:44:08Z",
-    "hash": "c031cc4bbf2c89fc6699f71cea14f07fe195f17f15258ea6e5bdc0044f87134b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "2 ETFs to Tail 'Big Short' Bets on Nvidia & Palantir - ETF Database",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnVOczJXNWlsWFlKd251b2tVSV80c0h3YXV5SXFXNUpKZWh6d1dHa09ILV94X1d6SUM2cWRuNkx0QmhjMUl0UVlGeWxtV21naElkNGZGM2NTUGdNUHRSZVFZTm52bjh5bGYzMGREclF5dlgyaHZEVEJpbllicUZLUE5QckhoSFY5YWRGZEVRUkdnTmdn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-06T17:43:40Z",
-    "hash": "0112f53c8c124cbf1778f1e23f9feb0818d9755eb36c06d57d07fb98f39135d3",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia, Qualcomm join Indian deep tech startup investment alliance - - Global Corporate Venturing",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTA3WHpGMXhYanpYckVIOEVMd2w3Ny1mWG5DczlBQzIwSVBEOER2QU5wNWtKdThqUmRSVXlnY29YeVpzYVhNRWdueHZXblJIckp2cmc4LU1uN0NRalBZSU8tZXZiM0ZvQ0k0cjNtTVJwSFZHZ2ZoYjJJWmJaQUhUMVJNbGlxazBRaTZjTnpWZ04weWdhWXQ5dFBmb1dqd3REYmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-06T17:39:06Z",
-    "hash": "e66a5d481622b5cbba1f4f7327ac6509ae2c1c993545cbd22346a6fca4e27b37",
+    "published_at_utc": "2025-11-06T18:34:25Z",
+    "hash": "50426e1f7ced45d3e535012d502f8f3ea865dc132bf7a204362a45a47a36accc",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana ETFs Defy Crypto Downturn With Steady Inflows - Bitcoinsensus",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVzhEbkV3YlNMbEU5VkNXUFFMb05ZU2Q3SDhNLUxGZDVabllDSkpzcE9UaS1NemdqREg5OV9MTU5EWFEwa3ZuRjFzWmF3UTctOWQwTkNjVy14RG5CVFd2Y0lId3FkZWVlOXFrME9IeVpCdllqXzM3TjZtOFgzWGVMVXI4cnhmUFZBTGJtU2hDT1BJWmhoa1BjTUxTZ08?oc=5",
+    "title": "Can Solana Do What Bitcoin Can't? Amplify's New ETF Aims For 36% Income - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXpVRFJOUHFuRlBrSU51V0lwTTlMTE1BM0hiZ09JWDlIanR1VWs3TzFoM2d0UEwyTlpMM0JBX1VJLTNuRGRDUFEtVUxIRHFtQkJxVVozSllrbTZoQWpyTzIxTzFyNDNpLUpSOXAwU0o5NkZjV1Q1Tk1iRUpsVXlMS3NZR0ZqUDMtX3hfc2tnaGdPZFRmWFpZM1ZRbnQzNV9URW1WYThOZ0hxQkQ5T01zcUU1Y29abXhKN1ZXbjRR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-06T17:38:35Z",
-    "hash": "b870b85c04da665ef9fdcd0c53fe0a27e6deb71e94420ae496b3b2693c44dfd6",
+    "published_at_utc": "2025-11-06T18:34:24Z",
+    "hash": "20d88b07624ac829f72590f5b2203c226f19e818b75618b733a7ead7e20a82dd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Robinhood, Coinbase Lead Crypto Stock Plunge as Investors Fret Over Macro Concerns - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3d5Q29xR0NVYnpnOXJwbmQ1RzluM0lSRmw0NXMyMXo0cG4xYWtNM1kwbXhKbE9rR1diWVNNUG40eG9veWE2b0x3Rk9FME5JR0ZvcUFDRFQ4azFQb05YY3pFY1U0RFpEWlg1eGRkcllkdEpoM3F6WlpNaGlSRXBlaU1wdExCUzJJVHFyNDJlLS1ycXPSAZsBQVVfeXFMUHMwdll1dHVnZUt1UFVBa0RFM0toZG5MNzV1V09SUks2UWxIRnlldVNNaFpNVlNVeWEzZjN2cU5ubWNxWE8wQjZSRlk4bjBubV9LVTVWNW5SNVhBZldqX1c2cVJrME9uWXVvcmswLU5CRUNaUTcxUUZCZ09ROTlBWFkwSXo5WmI4U1FOeUtnUFBONDZ1dFROUUVDYzQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:33:30Z",
+    "hash": "d6f8e47b7d00f4ef5f29f741dee4f9e83e45c3455b7ab099fad81dbf7caaf5c9",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "Robinhood Markets",
-    "title": "Stock Market Today: Dow drops 425 points, S&P 500 and Nasdaq decline over 1% with valuations, layoffs and Tesla pay vote in focus; Qualcomm, Robinhood shares slip - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPTVJRVUN3Rk9vNlBuODJ2dkhjTlJVcUZ4TVFMU003SVFQbll2TXBmdjdSMnh2Qzh2UXJxbFpLenZKQmVudEZxM25uNnFNZE1sN3I3YzlRZS1XZU1xdmtXM2R2SktKS1lXRnhLOFlST256WVl5ZHd4am5TNzRpVm1YT1N1bkx5YVM3LUx1NDZYR1k3cGFHTjdfa0FFdmNYU21paTJTcXB2RkFQUzVMeDRzQjk3bldDOWpCSUZFRnpOcVZ1S0dZNTFVOC1mdkJHN09IZFJlcE9jdkx6UXh0Y1FmTnhVVGNpWXpwRVphdXplMUFUUkZnTjNJTGVjdXVYcFI2ZjMwWGxxc3p4UC1fQlNQdHVDTWFYV3FuSE9jU2xfeXpaWnYxblZWeVBHZlhDVEd2aXhkMmU1dE5KckYwRHV0Tk9xTWFZTW41R2NaRnU1OXctc3hSbmJVWk5XTi0tTE9GcXJYcS1VQnJOY2tyMEVUV24tdlNFZFpmRmk4cWNocWIzN18xQm5wTmtvdVJTU3lmVm92QkxjNUZZWTUzLWJEanBnMnh1cEZYVUpuSi1KXzFycUM2VEhRSVVBRFE4ZGJMa3ZXMGxaTWQyQVBaY1FkQ0E0ZnI?oc=5",
+    "title": "Robinhood, Coinbase Lead Crypto Stock Plunge as Investors Fret Over Macro Concerns - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb3d5Q29xR0NVYnpnOXJwbmQ1RzluM0lSRmw0NXMyMXo0cG4xYWtNM1kwbXhKbE9rR1diWVNNUG40eG9veWE2b0x3Rk9FME5JR0ZvcUFDRFQ4azFQb05YY3pFY1U0RFpEWlg1eGRkcllkdEpoM3F6WlpNaGlSRXBlaU1wdExCUzJJVHFyNDJlLS1ycXPSAZsBQVVfeXFMUHMwdll1dHVnZUt1UFVBa0RFM0toZG5MNzV1V09SUks2UWxIRnlldVNNaFpNVlNVeWEzZjN2cU5ubWNxWE8wQjZSRlk4bjBubV9LVTVWNW5SNVhBZldqX1c2cVJrME9uWXVvcmswLU5CRUNaUTcxUUZCZ09ROTlBWFkwSXo5WmI4U1FOeUtnUFBONDZ1dFROUUVDYzQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-06T17:37:00Z",
-    "hash": "e65bfc0daf9769282f4f10077a35ad381b87fab3695a6b5f831cc40328846b6e",
+    "published_at_utc": "2025-11-06T18:33:30Z",
+    "hash": "d6f8e47b7d00f4ef5f29f741dee4f9e83e45c3455b7ab099fad81dbf7caaf5c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Snorter Bot Set to Disrupt Telegram Trading with Solana Speed and 0.85% Fees - Morocco World News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYzEtay0zcWNpT0V4R0c0NmtHZ3JCZ2hqdC12YTNiU3VsTXlmbS1fYnVUT3hOLXFaQklreWN4clN0b0FoYnk4cnBFTm5xMWpobUI2dUtITUNsRlEtdGxUR0N0UGNHbDFGeVd0ZV95QU1oWnNrcWFHVnR3dXctTVQ2X0RQN1ZDZWpQOS1ERE5kY3ZhMUgzNXZoTW13VEdqT0l5MGRCcVFoNENCR0lCUmozNkZGNG95TWx1STB1WFBRWjVtdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:32:33Z",
+    "hash": "b46cfef5c16faa24f210e87505c44e1f11a840f717d318e0a565139cb8006409",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Space Stocks BlackSky, Redwire Dump After Earnings; AST, Rocket Lab On Deck - Rocket Lab (NASDAQ:RKLB) - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNWlMM1c2TnVFYWxVSVdNSzdwQkRzR2FMMlVPaU1OcVllZlIzYjhKUmhUT204N3djN3Jpb01GQTNSZGQ3eExRSWlndEU1SG9sd3NFWTdUdWxRSmhVMElua1ZQaXo4ZGlqcEZqNExiQmU5Zm5td1N5elNWbkZnc2kzYzN3ZFFjU1AtbVBXcWhhUllFMm41RlplUFo0NnFOSzBCcEpLeFc2MEZsZ2Y4Z0U4blBKSHNtejZKRUVWVW1adWI4bHAycjVRa3ZUNkFOeHBlQl9CajdWVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:31:59Z",
+    "hash": "3f04681c2e2f9b8f2eb73cb7f040263f1c1d9f744144153059583279e41159cf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "BTC News: Trump Pledges to Make U.S. the World’s Bitcoin Superpower - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWTY0Z083QUUtY3FqTmotSmoxc3hlVTNYZ1g5eVF5aGtjclBpWl9seDVlMExmeHZYSlJFUEYyS25pSFg4WWM0VlNadmFjMnlCMGdLeEdjb2M0d19PaXNtenkzamU5SV85Y1M2ZnM0R01Rc3RFZmRiUVBxZmdZVEdUR1BWT09fcVlwWWJnaV9VSXk1SVlhYUpYQzNHUVAtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:30:12Z",
+    "hash": "799920abc27653ba98ac99117bd052a11894b0c8049882300a01463a3552c29e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Whale Bets Against Bitcoin and XRP With $140 Million in Shorts - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTm5ZdmRZTG5maG1scGJKb0JyLUpxWkhva1plZmxQTU9sRktMOE9BQkctMExJeVNVbHFzbkF3QXpHVDcycXcwcnZsWlIxal85WXphZ0VxdFBtUnNwSk1SRWVYQVBLOGlkdVNtaDNWbWUxUjhreERaZUlkNmpnM3FzRXI5VnA0UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:29:21Z",
+    "hash": "a614ed3143bae6f75fe1d7f17ad126131ceb12b0477129d9f14e8066b2ee9c16",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Whale Bets Against Bitcoin and XRP With $140 Million in Shorts - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLW1VSWVEc1BWNm43QlJZVUxXeExZQ1E2TzYtMmwyS3o4c2ZQRjBVb2VrWWpyTThLUDk5UWlpQTlQWVYwNGoyX1l3aVZ4QXBEUW5TcFV4dTVER0dVVERtYmhiNlp0bWdQTnJCOW1ycW96OXhEOFFSX0thQUdVN095a2dpN0k4SFMyNGfSAZIBQVVfeXFMUDFzam82VHlZY2Vkb3RPY0hlRG1EMlgzZldDY2ZpME9rb0QwOWlpUWFBSnNZZ1Jfc00yNXJjSFF3cnNKM2JXMVY1N0ViTy16d2RaR1F5dXBKZVY5WGZEMDZrUlhRV29Tc1BjbkV2OEVUaW1HM2pMMTdJU1lPaWdpa05aQ2NXTUx3djNDVUhQQldZVVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:29:21Z",
+    "hash": "0887ce53b469d41b68ab156ec7841cb1c8800415c94a921523b9abd2d300cf90",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Stock Market Today: Dow drops 425 points, S&P 500 and Nasdaq decline over 1% with valuations, layoffs and Tesla pay vote in focus; Qualcomm, Robinhood shares slip - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNSUdqQ2FlNEZZVFNNdjNpYVNKaDMzMU03a19zNFhaRXNvX0JpYzVZN1NQREhCTDZJc0Zwc21ad05IcWIyQ054T1lxZC1kSU45bXlidU51bUVUTmJyQzZQTjRjck9reWdmVXNZWHNjUWpiWDlsdnc2OGVhZnE2NUhISndYUXdCamNRRWlZd0ppQm9TWlBQeTlCWXAtNm9nVVJyVlZWbDB1aXRqSzdhYWx6TFgtLVhqTlJ0U1lXUVpKbVBKN2lZaDRWOTAwdVJKWFlZNFB6OUc1ZFpDbHMxWlg0aU5OZ25YRjB3RHlubUNqTWFwUTBjdEFWcGtkZC1FUFdoZ1JZdWJ6QWE3Y2t1V2lBR0xScGVmWFpEZEdFeV9JeVBoM1JQbkF1V2JEY1R5U25JRmVqUmFGRGR5ZGNHdkZYNFphdExFVXlCWlYta2RtdHcwckdFamc0UFFtZ0lLQTVEUHB1RjRqM3dSNGhLSU5xbUdacnBEN3hJemUzQ20yQ3FkTEdMbl82VHJ3N0k4SFhzdU5FdDZBOUZrLUxzYUJNUERRa2VabUc5Q2VINEJyYThJeE9ZMGJTYm1QaHA5TjNyV2ZsbE9Vd1Y2ay1MdkUxQVhNS1U?oc=5",
+    "query": "HOOD",
+    "title": "Robinhood stock slides crypto revenue, expense guide disappoint; CFO exit announced (HOOD:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDRVeDgtbGlHcXp4NzBaUEg4elBvdWRnTVBNSko1RUpsb0ttaXpzV0ptQXFZYmhreWEzaFRkNHBnRXBDdGQzc1IyUlJ4QW4zSjVCdDhScXZYSG5jcGJzQXdYLXZPT0hxb3NLQnJxX1FNZWRmS0d3Z1lLVlpxSnE5UmVWQ2ZwTDBwWndRUWRBSFViY1A5YkR5cThUc1poWnhsYlVsMWpyOWhCY21EY05oSXpPVExEbzlHb1Qw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-06T17:37:00Z",
-    "hash": "70af0668f08fb84299a00d2542043e08286c05b9813e5318523e3813cc2bc6cb",
+    "published_at_utc": "2025-11-06T18:28:25Z",
+    "hash": "62efabecc0496171d635583e218e020a6e7a6412ed572ecf7a9420ce117f12ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "1 Billion Shiba Inu (SHIB) Sell-Off Triggered, $1.5 Trillion Giant Franklin Templeton Updates XRP ETF Filing, Whales Dumping Dogecoin (DOGE) — Crypto News Digest - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQY3NpM0dYU0ZKUVhJWUNGMjVZTkpxN0VpaXJXTDkzSFdSN0c3ZEkweG5MM243SDF2cE1zbkRBQm1xMnhQRm5MQVktVDg5bHBQbmdOQTREbTAtT1FfQzB5MDAtVU9zYmUwaEpVRXV1UUtzemdNSnN5Ulc4NEt5MU5SRi1sOXM1V3hSdzE2ajN0ZFVwSk9KbTl2a3g0S2NOZzBxNGdOTXIzMGNqQkd2VVhTRVVKRU5oeXhTaWVtVjVvdWEteUV6ajRVMHI2OUtJcWNtcDhrZ2tBN3VQVHRCRzNPbzN4QjU0NUR5anFuTTVuNjVJYkVnbFptR01POFlSaXpfYjdKWTBOeGY1eV85b0RNRW9wTWNZQ1M5anVoa2VEdl9fVDY2aWNvN1kwUjVjcjUxS0VNNw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:24:41Z",
+    "hash": "e6e954b7b81ffbf487b9d5ce26b8cfc4e129a96b51132b54add3a79327c708ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth shares fell for seven consecutive sessions (NYSE:UNH) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3loNVI0a3VPT2FvdTdVN1NlU0pMelp3NWFVWXhsU0Q4bGxSR2dUeXdLOHY4U0tvWE1KU3gtMWJvOXhxNzZWTDJQWnZiLW5RUlJYOEVXX3dQWERVUHRyZDVKQ2ZybEp6Sy0xUVlyQmxYVzZyM3NRYXYwLXZyMzltMUtrc1JidkgwOUxCck4xUDA2UWVGMEV2Sg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:19:13Z",
+    "hash": "999651847516217d8498a49d0e83a180accdbf616c645cb87f35e83ebbbe77d8",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP Price Forecast - XRP-USD Tests $2.30 as $40B Funding and ETF Buzz Fuel Volatility - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzdNd0hPeVZsT3NnbWdMV0FKekljVHVWU2N4LUdsV3VPS0FocjRSdm9jMVFWV0tQSUpjZE5Dai1VMlBsdmc1dU16ODdfcEVOTzRVazU4RVV1Z090ZWVFZXRoMnpsbmFtZmdEaXlWQkRheHlULWdSRE10cmlqZXJ5OXA5SEVHeHA4MG8tNjJyekFhLWZob2sycHdDOEpicTRuRWJJNmU5WVphbk5yWWxOckR1cUlwNXVwSE1vZWNGeDNMcV9wc0Q3TjFkNGdjZmVyYm1VN3BB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:19:10Z",
+    "hash": "7d4c956c884ac42efdc299ddebc80fb75ee6fda7c61788343ffee7eb29470443",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Has Downgraded Its Outlook for the Fourth Time This Year. Here's What Investors Need to Know. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWtJQ3RKTmdPWUQ0eEZTMUtodWRuYXNpdnNQSHZTUGF0TUlLc1hZbE5RaUgtbnh4c2V4ZE9OQjl0YlNqbGpMZm83MmVRQUlPMDRMdTBlYmtib1A1bW5taF9FekNCelgydzNrWThmSVFxdkVPeVBIczZpalRtNlMxTHgtZ2dadm8yRUNsRFVVQ2NNMFhUN1NUVA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:18:00Z",
+    "hash": "8a8c9a7d504c2aa1fbc3d5d78b299dcc0d9cdf5898348c8f1ba759b824220d7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Finance to integrate Polymarket and Kalshi prediction data - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVdiR0dob0JvMHdqM3ZwQXF3R2R3TDhDU0VRQXZ3cjdjbEpPcWk4VjdFQU15Z084T0xJMmh2dW1QX2RFUk1KT0VsT0FxNmluWHJnUWNiSG1kMHpVZ0lCVkgwZlBabEhjemxUSWRXdUlaQ1B1eV9mSWFhT0VXS2NDQ0tJOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:13:44Z",
+    "hash": "bb2dcff9813148f45f156122e8a41cf95bac64ec66d47b2be50ea69d8de0386d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Crypto Giant Coinbase Fined In Ireland For Rule Breaches - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNUDRzQUdoMmJMTVdMWEFzcklnT2RrZUhfSkpicVVpQl8tNktFWElmM0RJY1A1QUdMdmhpNWpRTy1aallVSTVGSTBraUM4Q0ZQcHZrMUFsQVhYOC1jWmRhUzFteG1malpWTHBhNGt3ZHdTN1JoTzVaQ2M4THg1NE95QnVqOG9NZjF2TGZzR0NQQm94aWU2czNxUUt4NXhSZ0RuX1IyRXhXRVZ5RUJlN2ZwQndiazMySVhOcGNHZ296YVFLVzlveVVVQm1ESm90cWljN1YzejZqRDZMamdBS0gtd1ZpSTBMc2VqcVA4eDdvSHZMVXNzckF2UFFTLTZnS00xdXNuNlFmOEswTTU0aW9BV09lX1RxR21ZcENRR1czbTRSdXZ6cERJZ05oSTJaOHQweDZwTnlZX0dGRjQwUkNMbGNXLWkyeUhkSnI0UEdEamhmdTBqVjRXUkdsUVVFTGVaQnp6RmExd1piQUhVOU40QTF2ekl3Z2UwVGVfQkp0NkEwN21IaGpNWXFYRkVhSGYzMmpiTS1OSjRzWWFEeHYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:13:00Z",
+    "hash": "278662c49b3278e67d9f182f1d751831990dba58a739307d8aa916a39a0afe54",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Stalls Despite Bullish Fundamentals as Whales Keep Selling - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSy1XN1RmclZvRHNudFgxdXJxamFUci1venB4S3dveThkRHU4UFd0QjhCSkhINl9kRkt2bXY3azRDcl8wYzloNlY3Q2c1TmdMTXBGd0NwSUVhWkZpM0llMllRcnIyQUVlY3lqdmJKX2VEZW16M3RzVmU0QUY4clRWMDJna2FDMW1MX0RuRmtxemllOUFKVlNobWxB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:10:00Z",
+    "hash": "a541d306245d0085b60342c06caff5d8df03445fa0f64e8a36d1f159b5918339",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin & Ether ETFs See Major Outflows as Solana Gains Momentum - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlNxeFJabjBtdEt3c0R2enctNnhncEJnUGNPMUxGb1ZhVzViYkhuZ0JCVTdQQTloaVdvYWtWNlVUbHlfOGJvdjZOMEtDS1VCX2pULUJXSjZUTkRmTE5FNTNQYUdkdFc3SzRSalNuWkw2VmU0SV8wb045ZmM5ZVZfVlktNVNWcmpRem5zaVRGaklLYnZqZGYyY1VqOTB5MUVNSjJNYnpFWUxFekJPelJz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:05:00Z",
+    "hash": "db23c1cef790408fc122fd9269937240124c941a2876e2d7d99ab1e93d00e08a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple CEO Sparks Debate: Why He Thinks ‘On XRP’ Just Sounds Better - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkVyS1N2MkFQOFRsUmJuUGJQMGZ4MFpzWmtSaWpLMFdXcmJNeXloN2FXbUFjNkNIaGhYY005UHpfOVpuc2tkZTlMZDBkMDFtaDFMVEwzc1EtSUpwZ2RkRXZGWGhMVVl4WWlZVC1vOG9LeDVBeGNXQ2Zoa1ZRUk1fYjhRdkYyQ3JiR1JVc2JCWDNJYWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:03:56Z",
+    "hash": "1739f7fa0040934562b1ead8fcdcc6209c99d9146801488fc8c7708819da3f97",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP ($XRP) Can't Hold $2.50, Down 3.7% as Frustrated Investors Rotate to the Digitap ($TAP) Amid Banking Boom - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRXI0bktVLXA0NlJZWGdNUUFHeHZ1MFlPMVdNUlM4bFdMWjVoMDdPeF8tcmx1ZjljcmI3Mm0xay11N3BkZHRkQUpFMG9xNG9UVzdqcjJRcV9CUlJDYU05ZzI5bTZ3Z0xzbXNKMWpwMkJaLVhnYVpZMEV1VUZvYTBZTnFha05DeUZxOXhuX0t6VG55bjU4eENHYkl4S0FSOUR0cG5NUjdMYXFQWFdxNUdJalZYd2pOVE5wWmJZT2dqZ25nZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T18:00:24Z",
+    "hash": "eedb133cfcd06ef0e9f873e0d3a5ffd455446df040e680fb7dce4651f588538d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk, Lilly strike pricing deal with Trump for weight-loss drugs - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYWc4cDRWZ3NfNEZPYkRJVmhQUWxlVTkzT1h3NUFlLUFVcEp0eEp4ZmNFZlVsbGpiY1VNOW9GcGNPZmgwWmlNeU1kZVJOZ05mX3E5MGlybGMtNVU1N0ViU0J4dnk2bWpCd2M1S3BxUFRWYmttc19rVnk4dWRWdjh1bk9zZHByU1lfTlkxRk1NRGRFM2dsNXpkVkpzNHQxUlR0UXZRNFFUeHBxQmZNRVlZaFhQNko3WG5KaXFaYjBpN0dJdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T17:59:37Z",
+    "hash": "cc0bec1e900681996df63483cc3407cb6fe9f2a757c524937b707e72c0391755",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "Rheinmetall expects defense orders to rise in final quarter of year (RNMBF:OTCMKTS) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDI2LVRBYW9DLVNXSGh6ZnNFRGZMbVdmVUYySm9ORkN5cEM0djY3UEllR2tJSWVzSEM1RDRvMEVra3NrMkNiY3dDbnVvd1ZtckladV8xT1dsekVndVUzdnpKSzJvd1h6Yjk1Z01wRG5HNTkyQzFHOGNuQVFEaDJhLXJOdFZnRFdoRUUyYmI4ZFpMUEZyZTJ1RWxJczNoX2IwejU0RlZCaHA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T17:52:37Z",
+    "hash": "a38bf8952ce2e094bd28749397daf3581dc00208aaaea20e8036101d048bef32",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Binance traders pile into XRP as BTC and ETH positions unwind - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQWdFZGlWRmhNTlNyNjBFRDZ3b3VUSHBiMnZKekRBSDVKWVdHUW5YUXNuZ3B3TTZpMTJmbkNzNU0zVFMtZmhtZWNJWUk0QkprY25lNkpOSmcySVNpdjBCU1lCN1lHbFVtaDFSbld3c0VJT21uMEUyUXZtcnJkRGVtMlE0Y0hVRGlJVzFhTVNIMWp2OXZDNmsw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-06T17:51:00Z",
+    "hash": "2c1ef999200f6e3bd71b742d1b543c2565481607ec7482454822ba36a72eef33",
     "source": "gnews"
   }
 ]
