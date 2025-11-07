@@ -1,102 +1,12 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Nears Breakout, HYPE Surges on ETF Filing, BlockDAG Unlocks - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM29jNHR1Znd1S1NfRUNaTzhmdEdJUk4zOG1ib3pwVnR5VlIwcVZUeXdNTjEzQ0k0V0cwRVNyTjBTN09rM0YyLXVnNzVEYnBON3V2U05jWWlxVFFiRi1tVm9iN2k2M1YtcUp6WTdsc2drMDN2SWFvb3F2Z1M0ZzNXZ3EtVFpPMWNXOFZnZkNYaG9SY0RQUU1USnhiYUJ6UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T19:15:47Z",
-    "hash": "aaf205285f98868f90750d09e7a6893a0ce40d3972c09b248c3050aaeb8107dd",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Surges 5% On Friday: Why Is It Up Today? - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGhRRnZSc213RXdWMkFuTldtcmxKb0JCRUFlNlIyNW9oSTB1NWJtN0lZemdhcjNRX0cycVBocnZkc29SNndmbDIwQldNRmJoNnAyRG8yWi04TF9pSFRrS0xQWFYzMTlQWFZpNXZUNmxxSzR2WlJrakUtdy11WUlqc0V0M1hZamNCN3dQcmhpaW5jQ1l6eXU5cXJKdnZidUZ2VFJuRS1B?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T19:12:27Z",
-    "hash": "241ce3460653219f778208842d79e1d5aeb6bbe3df844ba1d873a24b1cb4379d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Why Novo Nordisk Stock Is Sinking This Week - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd1haeDVJbHZNa3hSQWdHTUV3eDRiS3ZSSW5vUkZyRzZvS0RMTGhaXzFnRUljTld1TXZabFoteS1ReHc0bWdFSGlzWmhxOC11YWZ2UkZjOEFBSGxPVlZ0VTJ5TDBoVnpaYnJnMEpSUExiWVQ2cHg5V1pzSlljREtKZHZIMllJcHhrTmRaa24wcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T19:10:00Z",
-    "hash": "ebb14a2b50746ab1f0669622e2d5ca4d24b4a9c32a3fdb25e5dd57f50532b21e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "$280M XRP Shake-up: Institutional Whale’s Hidden Plan? - DailyCoin",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDbWhEWnFpNUxPaFh2ZTVFVjQ2TGRKQmpSTGtkLVpOUjRiV3NRWFo1Q3o3RnIxRUJHeXoyQXg5V2QxdTFDWUFVemxMNEFFcUtkT1NzUkpjQ0xmT0lhYjVPUDJsRG8yVmpOd1M2dl9jZkhTOWw0SkJ6NmpsOW5jQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T19:08:00Z",
-    "hash": "3fc017d46ce24609f09b969fd50a643d4f511e13b0007278ffea6171a332f7e4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Nasdaq-Listed American Bitcoin Corp Now Holds 4,004 BTC - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaERuNkdBMXVGR3BTUzFYS0ZKSEVLdXdDN0tXY3I0MjVVN0ZZRUFsZDlpRWZidkhNLWU0TWlhYkhSUC1NYlg4dm5mWmJtWmNvOHJ3MTNSNzlHbE1KRnZqOUpodUpnYjVzaEdFQkprUnE3aWR0UC0wV0ppVERhMVJIU0pPd0VzWmpjSnc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T19:04:08Z",
-    "hash": "a5f673b77c2a2945c37a0a91cca45c351df7e7a09bf04657fef9dd51ba6235d7",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia stock on track to end week down more than 10% amid investor concerns over AI valuations - MSN",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQ3lBdzFfN1ZGbDlmbHcwYkIxYVZSNFgyZGJPYmNjdUY3NmJzRTkzVHpWaW5YSHEwcVkzRzlWNEpNYk9tRUNqcWJfeUlBTmQwVDhERlItMVMyM2tYa2l5blM5WjBOaUlHM1JPQWNxMVIzMmx2ZkRwUnFueEtqTlJmRFh6cVVwYVFSYVRIMnpqUGthRWtVa0JNejVnREt1d0F5UGJ0bHJfZHJTeUhfZG9aVWFMOGhMRnZLZzRUd0pxYkkzZVI5WGhaUlB6amlEeWdhRFBpaUdDRmROZGVrRnJ3MW9fUGowTmh5TmEzRzRNb2RLYThMQXUtVjFrbWREbmpK?oc=5",
+    "title": "Tech Voices: Fannie, Freddie eye tech equity stakes; DeepSeek; Nvidia - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQktEenN3SmhZTV9KcWtTZVluQ2xrbEJRcy1hU2gtdG1fOS1Tc3FJZE9UdEtZZk05ckRzNnRVN0Myc0FYVHJ2SUpOTkxWdW9LNG9rMUUtbEN5NUNKMC1UeWwyNjE4dm9xandBdkxXN1ktYkd4Z09hRjFoQzVISk82TnVVOXIwWmNGNS1aTEVvT1MwQkFYdV83MnFqZGVKeHVVelhTR0JB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T19:01:57Z",
-    "hash": "b0c7cc6b0b53515c80facf495a68d985b156d599c2b2aed34f0aef6e648dfaec",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia stock down today as the AI giant faces its sharpest crash of 2025: Why is NVDA crashing so sharply this week as $800 billion in value vanishes? - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNcWVrLTBDdHgyQmVoSGN5UFNMbkgweV9HY1cycmNmaHRWQTBvTnhXTFp3MFRSUEdGMkZyZ2JCbjJsZHJyX0hPVFlFVTdvcnFlcklZczVPT1FDdmVuTzVSTHhzMFJSZ3pxdlk2bTlNUXBvWUo2UThQOGlEYk1PVGtPWmpYeEFzSENQWXJTRHJkMXZ5SDB6azFVVnUwZVB1NUNFajZkUkQ2Y2J6Q2pyTnNpRkh3N0hfTkFCS2M2T3czTDRGdFZvTUFycFBuTk9kNVc0aFpuNkp3SGRsUGdMbmsxUzBrVEFFU1BHN0FTWFRURGZYbEV4eF93WjZYLU9ZcURqNmhhbFpsZW9vUUM3NFM4dGN1UVBtQkpMbnVQc0NkcmVZbTJyUlZWYUtWREFyY0tMRWlrT0tyYnVpQkpCN0h0ampQWXpfc0lw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T18:57:44Z",
-    "hash": "37117c213f1ae647de88b8034ca10921aafa62ccd1ae7babe18e1f1ab223e936",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Bitcoin Coinbase Premium hits 7-month low but traders spot a silver lining - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcWdUUnhhTVJzQ0JMNndWbFRFTm9KcTRaU0ljS3ZKN3FuWHhUdzJYYS13THlUaEdENWRRUzFLYnd5VXZidEU2Zl9MMUtDWkZKSm9EeTVmYlVoLWIwNVFNdDJRMDBpY2dqLWRzSTRTdjhkMWpyMTlqMkZPMW1xaEhMREY2X3V1S0ZkTWVONVBsVUZnUmxpWW1NQ1ltNHhId2h1UTRDcFh5RFlHRlRHdGxpZzlFc2dHaUNkZ0diTFVNWWI1V1V1N0F6YjhyNU5LV2xHNEVlRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T18:45:00Z",
-    "hash": "ec5b358287219ddf1f83741757ed419dae2ea9b470180d5f93662660cb161489",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "$80M Whale Backs BlockDAG Rise While XRP Faces Unlock Pressure & Sui Struggles with Market Volatility - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWk4xTF9iODlwbDFOTnFOT3RNVXJjU05jaGJjcng5VzdvM0FGTW5LRkR6OTVzWk1paGd2bWVNTGN6dVFKOVF3YkNQRjVpTENtVnFpX3pZS0JqRlhURDRvbVV6RXAzZHZySWJvTlJkdFRlaUo2VXlvMl8zWS1vaEFZYklnUGhERDlGcTVJOU93bWtJUDhteEVoZDRLWXJXQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T18:44:39Z",
-    "hash": "433c23f49e98935f241bae902a1f0bf37a3edcf660668f3ea85659cc69e1f783",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Best Crypto To Buy Now: Kaspa, Solana And RTX Collectively Seen As Cryptos With Massive 2026 Hype! - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTBXNXNyTHp2eV9feUdNTVNURVVoYTVkakcxVEpfQ1ltOVBLOHBacVJLNnFaOWxjWUNMOXBuaGQ1d1JLVF9USEVoMWROY3ZxZFk4akdmQ1p4ZWUyVVpwQTd0WlhLRWpNbklvQVF6S21oYWNEZ05ET3loN0JOMk5DRXk4Uk00U3hjQVZHbkJscy1yWDFNU1l6SUZsbkt1ZDdzdnc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T18:41:13Z",
-    "hash": "be0e983fc46fb58fd9f55bda7528445a44461f22894121a9291704673fd17846",
+    "published_at_utc": "2025-11-07T19:28:10Z",
+    "hash": "483fa85b02f4f5af3e85cf96e9e6c3aec5f1acd1056f8e63640899c61f64bc17",
     "source": "gnews"
   }
 ]
