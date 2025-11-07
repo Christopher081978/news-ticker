@@ -1,22 +1,132 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow, Nasdaq Extend Losses As Confidence Worsens; Sellers Hit Nvidia, Palantir (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1V3QVFYODAwc1BJaDhRa1JYaHZkVm1Pa0tFZnROT1o4ZUp3THBVU192ZGR4aWxLQzhIS3RHOGJSQXRsV3BRTDBEal9vTzR1NGN4VEVCYUlGdDh6LXF2VmpleFZab2NTREFMOEg0aVBOcnE0M0FGLU8zb2x4WXJqb1Z2YTd6REZlVDVtdHpPQ3pUV09mREtBTzZ1MzEzT2dYd1VjNHZab2E1U1IwR1hWWFFn?oc=5",
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Sets Up After 49% Gain; Nears All-Time Highs - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2NqbTNOOFFMWG1ESVUxckRHRXFKV1N6RG84bkktT3FWT0lXY21ONEJGMzRqdU11eW80V0Uzel9pN0Z5NFljYlpUZktCZWF1TksyajRITWRPQjhxa0lMWk9IcFhYWW50ODYxa0Q1RkFwYU1qbmEyR0FkeXJhMDdkeGZhQkYwZjA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T15:41:00Z",
-    "hash": "8b3fcf97a9dd255ef16f794a8946db3300718e401aada9e0912b660d423fdd4d",
+    "published_at_utc": "2025-11-07T16:30:00Z",
+    "hash": "5a167c02288b9730320f6ec194d2f6d4650e87e68220d3b1fe78562c5e2f7072",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Jim Cramer Comments On Michael Burry’s NVIDIA (NVDA) Short Position - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmVZZDVMaEZlRHpHOHROaXl1VDRUNEVKclZ4VHpKcW9Zd2xEa1VJbFhFZ2tiX0xZWmRlUl81VU81TWR0R3N3Yk1kdTNtbGZFNHZ5XzRnVDNNbUc3Tjg5UklwMGJCcGJyWE9NU29HaFRRbE1vVGNCRUp0V1dJM19fQnYxaWF4T3pYRnRkeVhuY1U3ZnNfa00yZTRHaFUzdkJDNzdSdUpaWFlKamhf0gG0AUFVX3lxTE83ejBfX0JVb2tMQ0Fuc1FPT0RjbHJqcW5mQ0t1NXVRN2dUYVRtVml0R2k3cmMzT1hNR2F4WkxUeldWMF9JaUpCOWJ4MTVydUUtUnZaekUtbzd2cFp0NGdPSUlzZEZlNVRvcHlnNXJ3RW5YX0wzRWZPLUZkZE55d3haSW81NHEtRDNJMnZNMXo0YWRQZ0QtQk1ZM203T1FOeV9ZOG5JN0phR0pvNmEtTUtVYk5MTw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T16:20:12Z",
+    "hash": "a848bbb086218d9202afb8842caf3281c50358b62a9987b0699cfcd596b57894",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "“Pfizer (PFE) Beat The Numbers And People Just Yawned,” Says Jim Cramer - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVp0TFpfRUtKeVQ0Mm0xY2FyaUVER01oTi0xRnppdXpUUjA0eGtTZUtlUG5yN1FMdGc0S0JkSXRRdWdYWlJWX0pkNnF4VU1WQl92aUpQRV9tTlZETzUtVW41SUlFa3lRSzZzbkhMUTlkQ2pWWGM1MjNOY1E5cTAycGIyQ1FQbER5WUh5QkhtWFBsZmdUcTlJdHhYaHNiTjYzTmZrVUYzT0J2MGdyR1Jz0gG3AUFVX3lxTFBZNzEzaFZJS0xUM3ZlZjc2NjJOSWZraVZwQWw4V1ZIM2NyWEJyZFNIdFNMYkRhMDJ4SV9wUXBOaVVjYnFORGtSSW5vbVFsSzFmMmRhUTJuRFpMTFY1dmdJTTZUT1ZVUEZ6eExzSnhVV3JKcC04N1JLdXVCVVl6UzZIM1pvTE5RVjg0N3JxRW5tcWhIeVplakxsU3d6N2JlUV9TZGFqR3pXZ19KZVFNWWJuS3dMN2pfSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T16:15:13Z",
+    "hash": "846985696c6b17a060013d5ba7a3170ed61250ad6df4427181e933cf256b761c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood’s Q3 Crypto Boom: 339% Revenue Surge Marks a New Phase in Blockchain Finance - blockchainmagazine.net",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sTnNVbmF3N1dfVEVDTExkd252NmRabHZLdW00UFNsM3JhWXZDLVV5a3VxT0thX1pDM1M1UUgyMkkzVm9fa1RlMWpyV3FpMmd4TmNlSUIxYzFOUnI4dVJzT04zWXoydHFnV3U1QmVZeXlkYmlzWG1VbA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T16:13:40Z",
+    "hash": "64503d28d27d388a194cbe9282da51e9dab3e1aba2140135f2510645ae227c32",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Arthur Hayes Says Bitcoin’s Next Surge Is Locked in With Fed Liquidity Flood Rising - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2p4X1FTSU00ajRlNk10cHlSTVpfLUwycmhaNDZTT1Z4cnVkcHpieEZnbGZRMlZJcGZTUG5sR0dLNEFfekg0TGlBMWFodTBHVm1HbWpieHJtX3hZQ0xZdVBMdk1SdkFFQTFBZ2VWUlNoX2JaZVUwanVRUUFxZHlvMk1qbk1ZWVZFb0RVeHNpVWYwaU5mYndmeVhFU3lmUXR5MlZNWkpKUXo2elRZ?oc=5",
+    "title": "American Bitcoin Buys 139 Bitcoin, Total BTC Reaches 4,004 - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRkwyaVhYd1hRWW9JNVhEY1VTTm9DVWppX0Y2cC1TRTFtV2k3THVvZGpVb3lrb3lHOHNlaFN6NEw2ajVvOTVIdlJ5SzgxVWNvZXVqbkx3M0IxWnl3azNLZ2xMcktTdXJHdEZiUEkycHNTdngtd1FLa0NKZ05RZUU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T15:33:55Z",
-    "hash": "9112c5b44ef736976505f64535a1397ccab9a59c582d7efd719629061b303fac",
+    "published_at_utc": "2025-11-07T16:13:03Z",
+    "hash": "55182c0b36029e310c9dbb43c149c7de39cdeb910b394ab7ef81d3a876c721d2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BlockDAG's $435M Presale Nears February Finish as XRP Holds $2.64, & Solana ETF Buzz Grows - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSXdtNE03Z2o0VDNPYWZkR3ZOSWQ1Y19waFlzZnM1S3pUVEZNQ0J2V3U3UlAxZkp5bXBVaXVKeHpST2RyZ0hzQ19OY3lYUUlZTGhuZkJrVGJMOWtZMjFkbFlIWWF1R295Y09KRDNraVd0TUNMZ3I0eDBIMkV3NXIwWFUwRFY2YnIxRi1OdHdPN3E0OUhMZGplOUJB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T16:08:18Z",
+    "hash": "3be14411b4973acab57e00ec11bd2a4e901c7d0aac43ce8dfb35b5f5659bda29",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "‘China Is Going to Win the AI Race,’ Jensen Huang Warns. What Does That Mean for NVDA Stock? - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb2JmeENFdEEzMUI2cTRGNzRDN09sQWVmMWt0ZFNrSmo5YjZmM3l3V3lOVVVWRDhFNjVNQndBOVptMVNDNHNXU2xhRmtTZzB4cEFWWk5aVWx1T2FRMUhfeDZzOTFONXRCT1R6WHVYZm83TnhTbVAyeW02cWNnbDdRZS16Ung0VlR0ajBCT0dfX05oU1hEWnFwbm1iQXpMa3J0VnIxbFFXOU00dllOb3JnVjRUMWhkMDVLd01wZDRrR19ibzVWejR4Nl9qTXM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T16:04:12Z",
+    "hash": "49c2f29e77c9fba03d5b8e96f45a2e75f62e8705d297d295994aacd6e6f4e805",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "U.S. Government Now Ranks Among Top 10 Crypto Holders Globally - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTJGS09EQlQ2cXBRMEhPZFlXVktCU0FiM2NvaS14cjdqUzFSU2RqVU0ybkF5YnZSMHF6QWNHT2lXYXBwX1N6NmlPVkZVb0NHemYtM1oxVGJjcG1sdmJwS0lQTzRmbUNQcGJDZkZ4dElDWG9qQ2JjMVVQLWZ4MkROTENmaVFmWjN2U05WUkhZcHpZOFZw0gGaAUFVX3lxTE4zTW9Xclp1UDVOb2NuVDBNYWpSa24xNFpTcDA0LU1WWVZKQ3pFdnJacHkzUUNDcEg2ekpLNmd4UnAtYUkzUE5yWENsdnVVM21yTklCVTNJZGNWU1lfX20wakhxQnEzdzZWNzZzSG1wREJlLWNKM0FoQ1JERzN5YXhtVU9tUzEwZmhRMElvdmVRNEhwSjhUUDBWNlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T16:03:51Z",
+    "hash": "3eaa0a28401fe8e37a553beac68ccd43446566516e5f9f9f13a3e72c18e2b0ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Franklin Templeton XRP ETF registered with U.S. depository under ticker 'XRPZ' - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55T2hISXpUMnFsSS1jMVBKOFFHZzhsNmpsbVVtT3M2UDlvVlRPUWVkQ0NDRnRPUjN1LVdmREZDWndORkxHOVJkY3R2ZnQ0RDcwS1lERg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T16:00:49Z",
+    "hash": "67d515b391227966154e6dd1365b22670dd40caa9948b103833147959da54234",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, XRP Treasuries Bleed as Market Downturn Hits Corporate Holdings - Coinspeaker",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR08zM2tZZWs2RjNwZjRfUGFTTjIyczNpclBNdGtsTnlPWUZCYUp5ZWVzU3hLZ3QwOVFxYjVtNVRWdEtnZ2MyN2ZvUWE1QWlvQ29uSnlERS1pdEpIVFJ3c000QlRkRkFUbHJmRDQ4U2hWWmxkMlpacjM2SWRmV2w2NXJhQkM2M1JCSDkwZU1MY0x5NHNQRG4wYnRYdFIzUTRCWnfSAacBQVVfeXFMTTZPZng5QUtVdndRRmI4OFNrcW5NWWVwUHJId1FqUDM1ZGM0RkZLSnRkYkhmOFpjWnY1cUIyMy1uQTZkYUFqbi04MlNTYlBYajNJTTc5Q0t6a3c2aHNBYzBiR3FHNGlHUzB5UjRJOTRGQTdPMS1YVjVKclhuSWpON1NtZ2drWFZfdmFBZ2JjMndMYWFJV1hNWEVIanZSTjNLaVB5MGUwaVk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T15:56:15Z",
+    "hash": "ed8e87e6a3064eb8119031d68eb52b5cf10ea3ddc58e6026c72ff0568cfc7fc4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO Says No Plans to Ship Blackwell AI Chips to China - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWmd4ZEhXN1VLcUpybUJzYXlHRzRFdk10MWw1bmJzV2E2S0JRblJMZXBUaHB4bzloNnEzYThvdU01RjZoSFBfR3o3MmpkZGlvRGlxUkwtSGJYOHdYNWdOSHBiUmtYZlFfY054b0ZEeU1kZTJjQWh0YTlJT0dYWTFCbXR4bncxNV9PeUxLUWhKNDB6M05HQUxsSndQb0g2X2RuaHBhdklVeGlhcGh3RlRuYQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T15:50:52Z",
+    "hash": "a6943e5c07bbf5a4fcc452308441cbffde088b538e92d7238768f7e8cdbc846b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia responds to \"leaked\" remarks on social media; repeated remarks highlight company’s unease over losing Chinese market - Global Times",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNSlhmNnlITDZpMmRGNkVEMms5ZC03QnNyaXV4SjFCa3d4S2Z5eG0zcVBwYmstSS1iQm1USjh2M2R5b0ktbDl6SmdGRTFTajA5bjJyNGw0Ym12SDVSZEtIUzh3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T15:48:00Z",
+    "hash": "50688644997b75fba96eb66ff9d83aaaf5eb91c3d83b9902d85912460bf3e7f3",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia, Meta, Alphabet, and SharkNinja: Why This Manager Thinks All Are Winners - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNbllVTlpNSi1mWGRMZ2xuWWxuTzU0eElOTnVKVzRwSjdJZmJGSVVPdElfQ3hYcjJOOE9QbzM0eTAwWEZYMm9TVk5oR3VEVFhObVFMYTRaOGZEM2ktQUdSZWphX19lOThjLXVkeWtBUTEyd002TExTa0ZrZUN0Y3A4YnZhS3NhV3B2NC0zbGFndmhvalE5R3BEbWIwLVNzbVBLS2lnTXV5VXR4UzZZd1V1UDU1UUN0WXpmUXVwbWtyQnZCdWlpeEY2cmgwM1dKNlpJdU5wZTdwVWdQRnJtckdfSHROSEh2Z2JMczJfNWdlS3BMbnR3UVZBN2o1Tjl6RU5TOXlET3RwS0lPSkZnaDNmS3hzVHdIOHpJOVBCUHVYa3VmU2d6T2dGTUtmZk9XZC0yRWYtczhIME5GV2dfb3F0ZTRxUktBR2JxNVhyVlNlaHZ2c3R6T2Q4QVFHYmNGbXpHN0RyUjVQcjdLY1dRbi1pTEk4VTJ5TlljbU9RdmFqWWxFeV9zcjBrRzdRRzg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T15:47:27Z",
+    "hash": "e15276d8951222539103d7ab98b4214c1e057bd1627545fed6055698123f55f1",
     "source": "gnews"
   }
 ]
