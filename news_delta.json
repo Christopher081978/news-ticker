@@ -1,102 +1,52 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Freedom Holding to build $2B Nvidia-powered sovereign AI hub in Kazakhstan (FRHC:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVJwT3RUeWR4bjQ1N25zNVh6R0ZTXzVFQnVESkN4Z0paOFd3RllNcEJjTHdKX29ZeDd0cFotTFBHQmEtUTFDajBWRjFnSjl5VWgwbFRiQkgzOVI2WTNyLUVwdlotN1FCT3hqQlNRcmhpOWxWdFJEVlhxRmMwTkVkQks4TXV6Z3pHV1AzRjZKc0UtOGJfUkc2b2hvQWZoWDF5Y0tRdEJfMUMyVkU1dVd0Qg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T21:14:45Z",
-    "hash": "1fdd7c8ed587d117e17969e78e94c61a8c109640d59ef7bc1dbd0d99a51ccf51",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Fined €21.5 Million by Central Bank of Ireland Over Major AML Failures - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTVLU1Bnc2l5RC0yYkl3bTVhTFRoN2Y3Z0E1WWVZbm1Ba19EOC1PSU4yQU9OS3J6Qy0zQlkzZzdpZXpQRzdkSm1veks5bXB2eTIwQnNBektTZTZRVVBZa1prYUg0bklZdjhBMEpGR3JXaU5vNmNNbGxKYjNQTEEwWXhtdjQ2SGNOamV5a2w3OU5COF9vX1hHWjN1UjZ3U1ZIbkw5ZndyU1lLZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T21:10:55Z",
-    "hash": "47f8f6e4b408e471a074e494d364d6dc0fafce3edcfd96dfc60932907a1de99d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow, S&P 500 Rise; Nasdaq Falls; Tesla, Nvidia, Expedia, More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPMXVUT0Zmd0hIcGttZ05hemRJQVFHRmRDa3lMN1Q5SkRUTFM4X1h2Q2FOVzJ2VXdTZXJBMnEzYmFPdm1UVHliWFpvSlgzWW1WQWQwdnNaVmlwcjF4Ni11ZF9JQjUyd0czSnNpUTJ2bkN2SmJjQjFyX2tTWlVTSG5MalhXYzVhcEFjdzJHQ1BvSUs1OW5aTndBeVJFajhjeEd1MnNfYmdSYzJmQWNpWXhORVBTbU5wU0g1cnpqRnJjNEszR3YtV3QwRHpiZlMzNFpJbTBxWklIeld3eE1jNXdRTFhKS05ocHBObFFpMGhZVkxmZm1LaUQ2WjBXblI3X1BwM3FxemJyLW9naFlTR01zOXhROXc3dGxjYjM0Q1dXRG5XMk9laFlDNktLQlVKdmgxeGZGdE42TXNXM0QwVFFwOG81eWE5UEJzSE4xSnBKYXhFaTMxbGUtT1F3QVczcjZzci0tNVVmTm1KS0dsX3NneDFIakNPOWlZZ3pN?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T21:10:00Z",
-    "hash": "e467723e6b60287618732ca0c5a2bf691471f5f860457967202fe0767fc331c1",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Price Prediction: SOL Poised for Comeback as Technical Indicators Signal Bottom Formation - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcDRXNE5Tbll5VFh1MF9ESmdfY0JXZWxNdVVDWEI5QlY1b2tHS25oVVVnT0pPVXZLaXkxY2E0dElPWjNmSUxSajhFTXZib0pvTG9ST2MwRTkwMDRqZGxyOWxweXJldTFpemk5WFRDZGpmQnRZTldfT2VtX1Z2czZ1NzRSVm5BbnVkanozQ211T25mR2tZWlFCb0g4SkJvZlF0b0NuZ3VqV2txZ19aQmZ4QW0tRGFYN1N5M3V1cE1fT3ZrbGRFVnA2eQ?oc=5",
+    "title": "How Western Union’s (WU) Launch of a USD Stablecoin on Solana Has Changed Its Investment Story - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFlpVWJzeHNKVDVWcG9SdVNFSEozbTJnZDBEbXBuZC1nWmh0SFd6a0ttZFdGUUdEcWsxMzZkSWRKb3dkYW9SN2V5S0VXRjh5UmRXN2k1T3oyVzE2blhTN01hRXphelVySVNvemRWYTZVaHh4Q3k1TGYyRjBVelBPT1NDXzExTUxFY0M5RjNYdXRlWTd0ZldISXhNdnRvLURxYlVSdEYzdzdRSG5ESkhoVnc0aVB1TGZJTmFHX29rcTgtcUoxc2Y1cm9zYklxV0VqQ0puT3BLLVdPZ9IB3wFBVV95cUxQeEVONEhKdDExNmY0aVcxQktTWk16MV9HTk9wYTk0R2xYTHI2WHNCcF9IdWV0Y21GUERFSlNZY1ZRaXUwYVA3WTFTLWtkazg5SVExYVZVR2JadmI3OUxjN3Nlcm9OdXZnUEhNUXJuT01SSWFBSGpQZUVPOEJyc1FoTy1HYmJ1RXJVYU1vMG9SVnBacEFuU0Y3WHFQcmhLTFRjcU9peXY2TnZBNG9neHNQM3lVcndMcGxBVmVTZ1VwRndlWkQzdjJjbzBSNjEzblBYdjhqal9XMnlTWDYwcWlN?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T21:09:57Z",
-    "hash": "a12cb16bb87e5018f707fd6bd0a2e8bf49ad2bd0dc137da6c38bcdb2b4964119",
+    "published_at_utc": "2025-11-07T21:41:16Z",
+    "hash": "0c44de66281cd988745839fe957c51b1698311a82c40107b93ebc6516d07c3bd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin ETF Inflows Surge $240M as IBIT Leads Institutional Rebound and BTC-USD Holds $100K Support - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWS1yOFZMQVBaNkxUd0lDcjFvSmczc0Z4UmZQbVJmVWh5b3c2czhRQk1LbUdWY2VYbll6eVJXa1R3WFNIMGtaUDdDbGkwQkt6RThuS1ZrbEM4ejNQV2QxSElkVk0xQ29YaEdXX3hFX2g5UlJGbnJmTlIyZy13SWZsQ0lXc2JidGhOZzBqY0RrdUdzbGlhNHdj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T21:34:16Z",
+    "hash": "7418ab346af50977a4e8c92729d120494fbd5742111b962e424a247174c0933b",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Today: XRP Set to Surge as Short-Term Capitulation Sparks Bullish Run Toward $3.50 - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMU9hdUhVUlY4YmdxaVBnY0lkMzIxNHBUWUFULWhGWjZLSVZNdE02SGh2ei1xUHFKel9VQUlNOFdnOFk4ZkV1QVFfckI3bHExUThQWTBSTVNaMFhwenFycHFKQVBwRVliTVc4ZTNPUDNQRkthcEo3WlZQV05IN0w5TmtKYkpFVVcxUzM2Wm9vczAwWFVOclV2OUk1dWgtOTl2T2JzdEIzV1dsZE56Q3FIUXZibjJabjltZFNGTV9oNjRfZw?oc=5",
+    "title": "XRP Defies Market Sell-Off, Holds Strong at $2.20 Amidst Bullish Flag Pattern and ETF Hopes - Markets Financial Content",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZWUyUVpDbDVLYmdUeFJkbDlKUFFDWlNXVVA5SHBiZHlpRkhjZWpqek1zdzVKbVppTTlUNTlQUmRBNUFlU2N4WXV0Y1QyOHRYMjkySHJ4ZEh2UXN4dndDaEFIVGR4Wm5MYXE5QVcxdmt6V2Z1ajl4cWo4Z2JtTDZMeVY0bEVzY29zbUtBbkZuUktQQUF3eDNEU2VxaTU1Q01yeDB4T0h6a1NMYVFyc1dsVTJoSW1SZUdqWU91dU5zU25CdXRPNFdIblVTLXQ0WmJkcThDQkxsREFmRnF1cmhFaW03VEc5QWR2SWQ3bGREMTlWR0xja0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T21:08:04Z",
-    "hash": "5bc9523ed46deb5881ce8766f3c8c013680e1df2c3c03c6db8482eaaa9aa98ea",
+    "published_at_utc": "2025-11-07T21:32:00Z",
+    "hash": "bf0877dbcf7d80dc3ae6689ee8dd98519e12caced24c13b4465c377fba260f2f",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Forward Industries Amasses Over 6.87 Million Solana in Corporate Treasury Strategy - citybuzz -",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVVRVE45VnlOMjhtM0FKOFRKZnUtajJPbGtfY3ZadEpEZWgzZjZKZ0Q2OGV6bHFldU9wVnMzYUc0emZGZmJWMmNNaHFidGFJRWlHTnloUXdXT3h1Y0dkdUZUQW9JMkEzbTJ6S0pVLWFhVHd5cTBsNTd4QkpmVWtFTUw5eWVONVJZb2ZDZDFrWmd5WmpyeVZ4R2IxdzBqdHFGeHZCemswRnBuYy01ZkRueEppN1R2YktKQXc?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth to Participate in UBS Healthcare Conference - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMU4zb1Nfa1U1MmJVT1RDOUhPU3EzalVndF8yNHdTWktMVm1LdUhsR1FQek96TEZOU1lYeEhIcjZsSDE0Ym5FNms2X2NBRThSNlZQUmg4T0lVYXhQWVoya29ESlRVNXU1NTlJWjVEZlR3RUtCcnNiLTh2XzhiWW51Tk1uRW45bnJ5SDdLd2c4NzlRLWxVZk5rV0F0WGkwWUtYQ210MlpSaUo2ZjVQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T21:01:27Z",
-    "hash": "77c2c8fd856fd419a27661ce13398a9a8efe8883a46500bd863f0ebd6682a571",
+    "published_at_utc": "2025-11-07T21:31:00Z",
+    "hash": "994133744b52062eb5cf899be977e0fe626ae740d4da1d0bed6c3eae981bed0c",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price To Reach $1,000 By End Of 2025? Rumor Mills Are On Fire With BlackRock Speculations - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOWw5aVhiWmtuMFRVcDdKX3dxZndYVmV3R2dRcDROSjFXbW9xamgzRHpqelVROTZ1bTFKWmJWWGNlNjY2Y0JGcF9SQnd0OXA2MC1NUklsNVBubUlpLUk1bFB0ZGs4MnRIQ3hvNmp0SWlOdGhubjh2UkdHcFdPN0hfY3VQMmk5YWxTQmJlOHVRVjk4TTJaSVFTZGNOanpQQnRVMFlXZUgybmRsa2syOVZWcktrbGI1TElwOENWY1kxZVg1dmVGel82amZmMUFsX05Qc3JUWE1KQWZRbkMxRVNERDk2OA?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk Stock Price Forecast - NVO Sharess Slumps to $45.50 as U.S. Drug Price Cuts, $10B U.S. Expansion - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDFNbm1ncUFBOVJZTHFYVEVwbHB3TTkwVTFJUk13UlM2RVNoeEdaYl9GM0FRMzhpMDVmVmE2bDN2aGFyQXF2engxSU8xYjQ3ZkhBUnl2bFNSVkdKOXNLeE9PanZNQXBQZXdiWjBzcEhocmhCVkZ4S1RoLXFsanotTjZha1BqWkZLcUc1NnVEUXkxVGlUN2pqcDJjb0hwc093VjJSYjd0VXR4YVIycVRjWGphRGg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T21:00:45Z",
-    "hash": "944760f44e3bf946bcca2add0bab98edf1f3b2c53b2b201c79e17f31fb915e15",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: XRP Holds Firm at $2.20 Amid Sell-Off as Bullish Flag Pattern Signals Explosive Breakout Toward $4.50 - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWUUySHZPZXd6RHJUVy1TNDhFdzRxOUMtUEl4MVZpT1ZaTUFhTWFNX2F5bm5VcUxaS2JRTmlGQ09HeTRQWW5iNXdyaUlyQnJ1SWwxS0NMT3dWNnlVbFZrS2tLMTV4YW10RFhfb1JXOG0xTk5Wcm52YWRndWM2aGZGV1pnQVhJam1MSmVPUlE2bzdYajJIb091Z3A3dEExbk5BUnUxblZFY2J1eC1EMFhpM2IySmhxLWtWNXBPT3RGQ1hCZGRzcGhWdHlSWEFndm14REpsU2lWTmQ4R1lnSEwtdmFScENhR2tQb1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T21:00:05Z",
-    "hash": "98f43b74dd891e30883cae9f46d0f7155fcda4d1d1ea63a2660f11ccfe7e0339",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase adds Aster to listing roadmap - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wTEl6cWxTb3daNUYwbU1BaWdwU3BBZ0F3Q3d0Q1huQklIbERTT3FiTWZpeHdTNXNxa2FBSEZsRkxEY1Ftd2JjVGNGRTAzQlJfSlY5QmJxUFVwWHk5N2ZF?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T20:49:36Z",
-    "hash": "747b51735fef15e2f81f3e12d915b7d14709b90719c016ea19161c3cd89e825e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens Healthineers (XTRA:SHL): Valuation Insights After Q4 Miss and Cautious 2026 Outlook - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMk1iV2RXNzlBenkwUW53eE4xam1FdzlyemZkOFVxT2lwWWRRWUlIWUtvT3hiNDFuZjR0aUljRDh2QnoyczlBaWNzSDgwUnN3OVlXR1FOUFFIWTBvZDBZcHloZndXNU1WZzljS1huYWNTTFBKSFFsV1picXZURGVtXzdsY1BXQ1lRT0gyejVSams5OC1NbEpfYXpCUDJ3Tzktcml1YmRNSUwxNnMwTHBhbkJFdzIzLWZaYTVLY3RHR3AtS1NwOUQtb1BOZ0JjdVo2R0dDSE9SYmVDTm510gHiAUFVX3lxTE1hNVJEc2tKc0QyTHZpWEdubTlxUi1KVVJ6MTVPRERUbllSajNWYlZhNVdkeUdlWHdzWkhDN190TmU2dnlWbXpvT3ZkMEY1ZDg3b3pWQ1M2aUZ2QmxwR0JpMTBJcmZZNGtLcFhxZm90ZEltdno3ZERCNG1kR0duTGswLUlYbzk4Yk1sdTZ4LUJkVzhyXzktUjRIM3MyZ0tRcEM5OHBIU2djU0lvaUFkbkdvWUJzX2gwNVpKbkhYbzFPN05YSVdUQko2NTdRWEVXaGFJOE8wM21xaG1xMXYwMDlMQkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T20:48:42Z",
-    "hash": "fe12f9a60a6849e9b5e2649a6bc34ea1bf3f3b875bd5232f848037e79244408e",
+    "published_at_utc": "2025-11-07T21:24:16Z",
+    "hash": "d2c5063d35512f541edb5e3a189ab83d098c3554254656cec97d3a0877da57f8",
     "source": "gnews"
   }
 ]
