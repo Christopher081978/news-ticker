@@ -1,72 +1,62 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase fined €21.5m in Ireland for AML/CFT failures - Delano.lu",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlVTV1VualRBc1VmT0xTY2hnMEZ1VmNCWnM3NWxuTzFERWlTZXhmUzBlOFFmVWt2MWpreGUwMDdOa3ZhZUh4eVVydTF4YjRYa0tRbnpSTlVGSk5NeXpvbDVISlJTRmZiZzVydXZvZjJYeVhHVDBKSDN5TGpGTDQwbjZ4aWRkN0k?oc=5",
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google Threat Report Links AI-powered Malware to DPRK Crypto Theft - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXRDVFNkRUs1azhLVnRVUkplcl9SeVdudm5VVzI4VTBtV1Z0RUVtRDkweFFkQzduOW83MXg5TmFHdEY5MWxqaEM0TVhzTW51Vi1mQ3J1Mjg0WFBNTmYwYVMyMzA3aGs3UzVDQlNBaGtFajRTdjU0UnBGSWFWaG0yMWVZZHdtUXI5Y20tRG5TRnAtQS1XX3pj0gGfAUFVX3lxTFBPUGpYZTVUMXl0UFg1ZXI1dHBXQTRkaDVhd25idU15Wm9iVmFEcE5BRjktVGVtWTZtVUd3OGF2RTBfRzBkNHZfZ2xQZlZpYURrOFpBTmQzLUpkSVViTWF4czJSakdtVTZZcWxMZ0llU042VXliNUVGVmRzSl80Vl9DaVA0YTdTUWFSZzRiUVNfckhaSjFPNU9uQlpSVmNESQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T06:27:16Z",
-    "hash": "88c89ddbc369cb6ddcaabfecd02374bf659bd4f9ef0fc9b2fce9e8556e66246c",
+    "published_at_utc": "2025-11-07T07:18:45Z",
+    "hash": "34beaedb4745af81fee410eafe0188529a497865b77696dc8f396300c4381c68",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "When Bitcoin Pulls Back, Is It Time to Abandon It for XRP? - NAI500",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0VrNUswRHdHN1NQbTN6QUNoaGZaNlNlTWk5UjlacjFYT01QclAwMkZ2MXVWX1pWQ0ZLbXVYdFl4ZElKNTRnRjc5am5mcTBUendkVXRyX3RHNENtVFBibjRCR2g2VHMwV25KWFBqYWJQNTFFUlhXUm40aDg2Nm42X1dnRm1kX3ZLU3ZKVS0xS1hNeWM?oc=5",
+    "title": "Bitcoin Holds $102K, SOL, XRP, DOGE Pullback as AI Valuations Draw Scrutiny - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1dnMFJlbEJ5ZzZwd3Y2VEhEUk95MVVPSi1RSHdENmtVQTVvSmZNNld5dFhVd1ppZ1NvTUxrdjdpX1YxZ1ptcmVzbkFrcDRWTm5wS1Y4aHBaeVBOUzhuX1VPaTkyUF9sSnFSMVB4VUR6TEFaYzNvVHU0NDBDUXJhTEVCYW8tVElzdVVXaVJxODJtSzVZMTBmX2NjeGtob2JzZURHZm5obEZuMFkwY1FITHktNUZWbmplMEE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T06:20:22Z",
-    "hash": "f88d7139559a493b68e2c0b8134fedfe807d8662e10e90053cd82c17498137eb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "GlobalFeed",
-    "title": "Waffenhersteller: Führungskarriere bei Rüstungsunternehmen – so gelingt der Quereinstieg",
-    "url": "https://www.handelsblatt.com/karriere/ruestungsindustrie-so-gelingt-managern-der-quereinstieg-in-die-boomende-branche/100152182.html",
-    "summary": "Die Rüstungsbranche boomt und sucht intensiv nach Führungskräften. Welche Qualifikationen bei Konzernen wie Rheinmetall, Thyssen-Krupp Marine Systems oder Hensoldt gefragt sind.",
-    "published_at_utc": "2025-11-07T06:13:00Z",
-    "hash": "d90d81bdc22874a82ba9d2b98dab9853f30ec0f37be75848bacb668497031d6f",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "BTC trades below $103K, XRP down 4%: why the crypto market remains stuck - Invezz",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm9RTllLVFFJYUJIZk5nRjItYVJJSjBUN0FyUDV1TEFLaHg5c3ppT0tZc3ZoMjNaYnRKLUl3dTl3R0NwVHBCNkJBVlEtV1ZFOUFpVUM3eDNmWlpWS1pyWE1zR0NvWEV4RVF5bVo5TG9XWnEwMVBiLU1PZXB5bkxLMXZYQzBFdEozOUNOVTg0MHBtRE5kb0lSVkV3aENKbUcxU1hNLWFPUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T06:09:12Z",
-    "hash": "90bbe74d69d85a4d04bb1a415e767f35fc6936d418278ebcc6a7e1ebe7797c67",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "AMD, Humana, Novo Nordisk, Kratos, Arista, Axon, Trex, Rivian, Super Micro, and More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQMkpiS2hXY3R1YTBhRVAySmp6aGNzMlh1cWJrWkxxX0l5cHVLRm1wNzlESHZVaHowcE1EZzU1M2Nhd0VCMjlJZTQyMDFNVEd5TFVEcm9aTkNMWE5zWDlZdnZoQ3lqTURkb3R1aTBLcmhZaElBemJwSkhOSkgwMEtQNWlncVo3VVd1ZmhmcHVzYnFTb2lBZ3J4RkR2X0pHS0huYzQwZE1JTy04V3E1djdQRHQzbnpZbzRPX0luQlpvVmdTUlh0bmNDN2FTdTVOQXpmX1FmT2NSRmVpS1JYWlJrUHA0b2FiYWlqOE9yRktUVUhHR0I5Z3hZQ0lFMWZ2WW1hbDlaTzhVSk80TEdfNGdrLUV2Njg5X2wxa29tZlVPdl9qckxkdE9CMktfdmJCNXpWbFljU1BTeFdFMFNFQUthMkdWekIzUlVFWHZZajBKWng0ZXFwRUVNNWpUMVBNSURsNzNwdmJvQ2gydw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-07T06:00:48Z",
-    "hash": "7d7f9cd1f7e888813c2354cd3f910bb9f9e9a14da261ae3d84ef49e3e60b1723",
+    "published_at_utc": "2025-11-07T07:11:04Z",
+    "hash": "7e63a7ba4e98e2864721145ed2fccdb31f1c24a0f01fc480af048e8801137d86",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Cathie Wood trims Bitcoin bull case as stablecoins take over some of its role (BTC-USD:Cryptocurrency) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWZxYWRULWFEalZtUy1XWWZjZDRab3YyNFQyX3NjaWVpRUtBeDhpTkxqZm9vekkybzNtMVdDZ3F5XzI4RWFCUml6SGUyZnVKLUtPUGhGMkhjZjhrckx6cndXQXVDbTJMTXJfdURIaktRZEg4a0lTLWxJNXRBUEVQSkt1UGYzVFZmMWlvV2QwOHUwblVuS19jXzMzRmNjajlnX2ZYbHAxUWJVMHhLdXVZcTZxSEtRUQ?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Holds $102K, SOL, XRP, DOGE Pullback as AI Valuations Draw Scrutiny - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1dnMFJlbEJ5ZzZwd3Y2VEhEUk95MVVPSi1RSHdENmtVQTVvSmZNNld5dFhVd1ppZ1NvTUxrdjdpX1YxZ1ptcmVzbkFrcDRWTm5wS1Y4aHBaeVBOUzhuX1VPaTkyUF9sSnFSMVB4VUR6TEFaYzNvVHU0NDBDUXJhTEVCYW8tVElzdVVXaVJxODJtSzVZMTBmX2NjeGtob2JzZURHZm5obEZuMFkwY1FITHktNUZWbmplMEE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T05:57:42Z",
-    "hash": "b158d05ba81d31a0968de94871a344a855f37813616f05071aa108261ef77440",
+    "published_at_utc": "2025-11-07T07:11:04Z",
+    "hash": "7e63a7ba4e98e2864721145ed2fccdb31f1c24a0f01fc480af048e8801137d86",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Stablecoins and the New Currency Cold War - The Fulcrum",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwdVlFTFdrM09vLUJnWnNSTG9Hd2s4WFNabmlIRkcyR3dKN1kxUFFFX2ZGdE10ejJWOWJIR0x0aHBDRjlhaks4UkowTmFJdV94OWtEZHFMV1RacDBPazRGN1FoN1B1ZFRoTE5JOE81dw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple President Drops Lending Bombshell on the XRP Ledger — $2.60–$3 Back on the Table - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeC14NzhnZVZiUUFlcUhyU01DRmNlRE81WjVlbkpLblFhNGJ4b2NDT050am5xX1VMcGNWcGtYREtvMU5TcXhNcThaVmxGNVg2bmItRWtFUmE5VGRtYTZIaVJzWUNrX1lYMUt3X2cxTWZXUFdIV2FaSGszcGkxYVFUZElJSjBlVk90dmtXdzh3cjA5eUtNM3lqVTZBVXlxV1lVTHdabFZocFhtdFM5SWxSeg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T05:51:32Z",
-    "hash": "97052f98c7a5229c4703f67fef06b6f34ebb783b6cfdebdae378037bf97a420d",
+    "published_at_utc": "2025-11-07T07:06:10Z",
+    "hash": "aaf931d14351e17bdbf05932352fc08143550cbca64339b41e7c0e5c37be9382",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Holds The Line As Bulls Eye $3.40 — Can 20-Month EMA Power Next Breakout? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1dvemU0Y3FtMjdweGFGWTVBVGpFQXliTkp3NXdKbVJrZkdLTk9BV2o0VGNXb3c3SE1XYWRDdDNDNHVSeEN3TGFlOHVhcjNKMVRJWlhWTWVTQzk5cy1Sc2t5a0doZXR0SHNTbHBfSi1sUHg3a0RvcnZFdnBzWjFxYTFzdmF5QzBWYmR3bnRKalg3bmxyQjlLYlRGYkUxUTBhdFJ6dDhjMUkyV3RYNnNTUjVNWElmRWVvb0JrMHBVeXE1NllXQ2pYeVNCMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T07:00:00Z",
+    "hash": "94b63152799469a2dbcaf10b04f684c6c172d623e26c2fcc20da98bba51dd4e8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Why Invest in Alphabet? Steady Search Business, Cloud Services and AI Chips Fuel New Growth - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNlhOOUVycHlTSEE5M29xRkdTWVU2M2tlWkJKMlZ2OXktbXo3NG5nVS05eC10NjNxNDZyLW1zZ2taV2VDV1hxcVNwa1VFblhsUTd3bERLQ3ZGendWV3RNS3hVeDRaTmgwYTgzZWhXR1NidGhIYnBIb2R2aklTNnRfNXJkdEdVNDEyUVE5QkpVcHdjVTJrUEJyT3ZyQjJRTzFUdXlmbVBzc1BVX01faHo1eUZRTnFnWU00ektOLXJ5WQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T06:55:45Z",
+    "hash": "2786db2729557963dce08ac8931f78b3084bd9f7fa751a2abf6e7f55a7cc094d",
     "source": "gnews"
   }
 ]
