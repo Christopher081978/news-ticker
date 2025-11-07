@@ -1,12 +1,72 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum flashes buy signs amid whispers of ‘massive bear trap’: Analysts - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbjN3Zk9nRlNwNHpRbVIyZlNkcnI1cTZYeGpVQW85UDd4NzMxVDVaek9sYklMZVhteFcxa0ZzRzlQRmRzYjNkUVB6YmI3Tm9hWS1walRCbTNrRmdzQjk3aF9XaE80OVJrVFByYVlFZDdaREZOc0JZMllJVzNNMi1iVmc1N1hxVDlwYXNkQldxSnY5YjJKTkI3SExjYnV0TkpKTGlQSy1jUVZ5THkxSnhxajhzZFNJTzUxWVM2eWZndmRhTnZ5ZXBYNHp3N1IxQmM?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase fined €21.5m in Ireland for AML/CFT failures - Delano.lu",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlVTV1VualRBc1VmT0xTY2hnMEZ1VmNCWnM3NWxuTzFERWlTZXhmUzBlOFFmVWt2MWpreGUwMDdOa3ZhZUh4eVVydTF4YjRYa0tRbnpSTlVGSk5NeXpvbDVISlJTRmZiZzVydXZvZjJYeVhHVDBKSDN5TGpGTDQwbjZ4aWRkN0k?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-07T05:34:00Z",
-    "hash": "fc106468e8c2e838476e3907ae6c45d7fd07e22e8bf00d6e58c0b4aa2e236541",
+    "published_at_utc": "2025-11-07T06:27:16Z",
+    "hash": "88c89ddbc369cb6ddcaabfecd02374bf659bd4f9ef0fc9b2fce9e8556e66246c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "When Bitcoin Pulls Back, Is It Time to Abandon It for XRP? - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0VrNUswRHdHN1NQbTN6QUNoaGZaNlNlTWk5UjlacjFYT01QclAwMkZ2MXVWX1pWQ0ZLbXVYdFl4ZElKNTRnRjc5am5mcTBUendkVXRyX3RHNENtVFBibjRCR2g2VHMwV25KWFBqYWJQNTFFUlhXUm40aDg2Nm42X1dnRm1kX3ZLU3ZKVS0xS1hNeWM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T06:20:22Z",
+    "hash": "f88d7139559a493b68e2c0b8134fedfe807d8662e10e90053cd82c17498137eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "GlobalFeed",
+    "title": "Waffenhersteller: Führungskarriere bei Rüstungsunternehmen – so gelingt der Quereinstieg",
+    "url": "https://www.handelsblatt.com/karriere/ruestungsindustrie-so-gelingt-managern-der-quereinstieg-in-die-boomende-branche/100152182.html",
+    "summary": "Die Rüstungsbranche boomt und sucht intensiv nach Führungskräften. Welche Qualifikationen bei Konzernen wie Rheinmetall, Thyssen-Krupp Marine Systems oder Hensoldt gefragt sind.",
+    "published_at_utc": "2025-11-07T06:13:00Z",
+    "hash": "d90d81bdc22874a82ba9d2b98dab9853f30ec0f37be75848bacb668497031d6f",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BTC trades below $103K, XRP down 4%: why the crypto market remains stuck - Invezz",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm9RTllLVFFJYUJIZk5nRjItYVJJSjBUN0FyUDV1TEFLaHg5c3ppT0tZc3ZoMjNaYnRKLUl3dTl3R0NwVHBCNkJBVlEtV1ZFOUFpVUM3eDNmWlpWS1pyWE1zR0NvWEV4RVF5bVo5TG9XWnEwMVBiLU1PZXB5bkxLMXZYQzBFdEozOUNOVTg0MHBtRE5kb0lSVkV3aENKbUcxU1hNLWFPUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T06:09:12Z",
+    "hash": "90bbe74d69d85a4d04bb1a415e767f35fc6936d418278ebcc6a7e1ebe7797c67",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "AMD, Humana, Novo Nordisk, Kratos, Arista, Axon, Trex, Rivian, Super Micro, and More Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQMkpiS2hXY3R1YTBhRVAySmp6aGNzMlh1cWJrWkxxX0l5cHVLRm1wNzlESHZVaHowcE1EZzU1M2Nhd0VCMjlJZTQyMDFNVEd5TFVEcm9aTkNMWE5zWDlZdnZoQ3lqTURkb3R1aTBLcmhZaElBemJwSkhOSkgwMEtQNWlncVo3VVd1ZmhmcHVzYnFTb2lBZ3J4RkR2X0pHS0huYzQwZE1JTy04V3E1djdQRHQzbnpZbzRPX0luQlpvVmdTUlh0bmNDN2FTdTVOQXpmX1FmT2NSRmVpS1JYWlJrUHA0b2FiYWlqOE9yRktUVUhHR0I5Z3hZQ0lFMWZ2WW1hbDlaTzhVSk80TEdfNGdrLUV2Njg5X2wxa29tZlVPdl9qckxkdE9CMktfdmJCNXpWbFljU1BTeFdFMFNFQUthMkdWekIzUlVFWHZZajBKWng0ZXFwRUVNNWpUMVBNSURsNzNwdmJvQ2gydw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T06:00:48Z",
+    "hash": "7d7f9cd1f7e888813c2354cd3f910bb9f9e9a14da261ae3d84ef49e3e60b1723",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Cathie Wood trims Bitcoin bull case as stablecoins take over some of its role (BTC-USD:Cryptocurrency) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORWZxYWRULWFEalZtUy1XWWZjZDRab3YyNFQyX3NjaWVpRUtBeDhpTkxqZm9vekkybzNtMVdDZ3F5XzI4RWFCUml6SGUyZnVKLUtPUGhGMkhjZjhrckx6cndXQXVDbTJMTXJfdURIaktRZEg4a0lTLWxJNXRBUEVQSkt1UGYzVFZmMWlvV2QwOHUwblVuS19jXzMzRmNjajlnX2ZYbHAxUWJVMHhLdXVZcTZxSEtRUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T05:57:42Z",
+    "hash": "b158d05ba81d31a0968de94871a344a855f37813616f05071aa108261ef77440",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Stablecoins and the New Currency Cold War - The Fulcrum",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwdVlFTFdrM09vLUJnWnNSTG9Hd2s4WFNabmlIRkcyR3dKN1kxUFFFX2ZGdE10ejJWOWJIR0x0aHBDRjlhaks4UkowTmFJdV94OWtEZHFMV1RacDBPazRGN1FoN1B1ZFRoTE5JOE81dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-07T05:51:32Z",
+    "hash": "97052f98c7a5229c4703f67fef06b6f34ebb783b6cfdebdae378037bf97a420d",
     "source": "gnews"
   }
 ]
