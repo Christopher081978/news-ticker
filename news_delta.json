@@ -1,12 +1,72 @@
 [
   {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "What Will Drive XRP’s Next Major Price Move? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2VMUWhSU0dKWjdYUWU2NHJ1clc2YWZnQ1hMeU1XQzNuVmgyUWxPSHhrSEpuZmlIcl9OZFE5OGtmbEhJZURXSTNvMXZyRUc1U182S1I4QlQxX2V5MXg4N0FVLURWRkNldGZrUDFFOVpOQlpzdlllZThraGszT21pbDhQajRIZGt3eWM3VTVQaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T16:19:09Z",
+    "hash": "d771a1762fae110f45c56f0f0218af4b066372d73cc73da8cc6d0460295b01d7",
+    "source": "gnews"
+  },
+  {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Texas high school football teams share viral coin flip to decide playoff selections - The Big Lead",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmdfOGJFMjk3SFJpcHVTNHBQaFB5LUFaVENPSTJTWlhueTZkQ1AzeU9qRTM1YlBNUDctUVB4blI3aFFwWnZmM1pfX0hMcE0wandaYWw3QktYbW9nVXEtQTRSUXdsNzZsM283MzBqUzNpVHhzb2hQSm5QbjU1aDB0dkIzaGpLcFltZUJhei1yU3Bpd3FRTTFuMUxtYUgyUUJaVjd0UEM4U01KZUxr?oc=5",
+    "title": "Dogecoin Soars 9% as Crypto Market Rebounds: Is Maxi Doge the Next 100x Meme Coin? - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUpMbEF1MTdMVUNRUG1RRTZDWVNJNHBYUlc2VEZGeGg4YVB2RWVZVktCVXZEaENMNmc4eEctUTNlcEc2YkRad3dpT0xrSy02ZkI3czZESUJRd1N1MUsxX0FpOVNfVHgweThLSkJINE1tdnQtQ0l3R0haeDZYeXFXTjhmb0hTNVpkR0t0b0JkZVp0Q0ZmZ1dNbVhRVXhiOWxzY1BkendNZjM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-08T15:40:16Z",
-    "hash": "df5998ccf79c69074760e29169651e6e3b8ff223a41ee177aebbf07d87e38f78",
+    "published_at_utc": "2025-11-08T16:17:12Z",
+    "hash": "eadd48234893f995801974beae37c2079ecbf6e80225ddc6eeb323ff14ff15cb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "GlobalFeed",
+    "title": "Milliarden für Metsera: Pfizer übertrumpft Novo in Bieterschlacht um Abnehmmittel-Entwickler",
+    "url": "https://www.faz.net/aktuell/wirtschaft/pfizer-uebertrumpft-novo-in-bieterschlacht-um-metsera-accg-110771629.html",
+    "summary": "Zwei Pharmagiganten wollten ihre Stellung im umkämpften Markt für Adipositas-Medikamente stärken. Für den Sieg Pfizers könnten auch kartellrechtliche Bedenken eine Rolle gespielt haben.",
+    "published_at_utc": "2025-11-08T16:14:34Z",
+    "hash": "1b0b494d6f46d6f9c4c3e6a0f2968fd0b19f94e43bf6dd5a82c9c81d18b92a2e",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "GlobalFeed",
+    "title": "Abnehm-Präparate: Pfizer setzt sich im Rennen um Metsera durch",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/abnehm-praeparate-pfizer-setzt-sich-im-rennen-um-metsera-durch/100172589.html",
+    "summary": "Pfizer übernimmt den Adipositas-Spezialisten Metsera. Der US-Pharmakonzern bietet bis zu 86,25 Dollar je Aktie und setzte sich damit im Bieterwettstreit gegen Novo Nordisk durch.",
+    "published_at_utc": "2025-11-08T16:06:27Z",
+    "hash": "41e2744fe7e12a4f6870f80a84a262031c2a94bf4708c9ac20d2699c8ef1bb37",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "GlobalFeed",
+    "title": "Abnehm-Präparate: Pfizer setzt sich im Rennen um Metsera durch",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/abnehm-praeparate-pfizer-setzt-sich-im-rennen-um-metsera-durch/100172589.html",
+    "summary": "Pfizer übernimmt den Adipositas-Spezialisten Metsera. Der US-Pharmakonzern bietet bis zu 86,25 Dollar je Aktie und setzte sich damit im Bieterwettstreit gegen Novo Nordisk durch.",
+    "published_at_utc": "2025-11-08T16:06:27Z",
+    "hash": "3b922781bf5f9dfeaddd5fa076948d4edfddcf4f567a1bf9c157902217ead9d3",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin’s Long-Term Holders at Risk as BTC Falls Below Short-Term Realized Price - ccn.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGT01mUG1wVGZ4Z3hJbWtYTlU1VmJwZllaQUlyblVnaXJzVFlzaDVxSzc0Z0l0SGNRVWM0YVdQVVdMdVJvWC1oOTd5QndxOVgxSTBmTzJXYVRTRWQ5UDdnTUlYXzY3aXJjY0ZYNnJRQTZMQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T16:02:15Z",
+    "hash": "39f19e17cea613cea57270acba89bcd4fca2b77109afe5ae55a33ea6cf8533fa",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "What analysts say about UnitedHealth Group Incorporated stock - Value Traps to Avoid & Low Risk Portfolio Growth - earlytimes.in",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb21jUXZnYVhxN1NNaEhDNVdRUEpMRWwweDl4Y2RLZWdfZFJ5b0FQNW5ENmowdlVvYmNod3hueGVSd1B6N1BPSnFmSjdKME9WNEtNakhEZ3FSTnUwNnJmQXg1RUpPelNZYVMwcFhHQmFFdElSSHlOUzd6amloMGlsTjBENEhabGtzanR2STdmdFVadk5ZXzlfaDQ0Wms1SkV6NTdhRTZfckEtc0Nxd1plbFBXblZBU1dIbUw2d3laMnFGdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T15:45:51Z",
+    "hash": "c588f7743571c8f7697be4816278321be2710ea8ee05b3b71c49e1b34ba2088a",
     "source": "gnews"
   }
 ]
