@@ -1,112 +1,82 @@
 [
   {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Healthcare Q3 Dividend Roundup: I Prefer AbbVie Over Pfizer - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlYwZmVmTUpoeElVVnNJb3lCaU9YLWtjaW43VkZPd0tNZmZzcm44WFgtajNDNW9jQk0xaDRDMEpmcUFIbG0ycldralh3dTc1RlVWSDZyVW5MMlNqYW9NYUExTDRHLVZQZnNXYThsRTh5SUdybkxiTlJESWlHY0dBdWVYSzVvb3c3QXJJM3REcmdFQUJFcXBic0ZiamlxN3Zz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T11:38:43Z",
+    "hash": "6aa3b0e68f8b7efa937897229676e753efdee46d3c070b39250025c533161b3f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "15,719 Shares in Robinhood Markets, Inc. $HOOD Bought by Harvest Portfolios Group Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMlJrTVU5SUJhVGdWcXZtRzhCUEpXeXVpS0FHbUhUbHhOOTI1cE9zbUdFYkVvY2hubVA1S2ViWlpHdUt1VVdOTFVQbEN5aF9DS0JpcnJCRHZaZGlrVFhKZDUxX2xOaWZ0NVV4TlFlTmRCcTR4SGJBQTRjaVBhMkNBbVc3WjlQd054ajVrMGRzS3dLczJCMTJ2cmxEQTZJZkxpcE4wd01EVFJHeHJ1Rk1hLUxpcEdOY0p2ZFRRV3dnNUxFcUZGQTh0RDd1b19jM2FFZUJGNDdqYlBmZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T11:36:36Z",
+    "hash": "7b9b410004082ff13e98165a27d546b74bbf73b5086bcef672e30dfa791caa8c",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike: AI is accelerating ransomware attacks across Europe - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wWmdSQm93NFJnYjlqSEZBc2lOMlY2ZmZDRlNkU1U3REVFRXBzaTRwRUVVdm5FeFBobWFWUWlZeHkyeGFNV2wzOGRvMk1ZazVybDQzMUtndHotS3BXSThveU5HaEViN2ZoWVRabGpHUE9WMllRcU5uT3NPV2hUWVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T11:32:00Z",
+    "hash": "2ae70ee36e9535de1d8cee2ebd5ab37799cac6a8dcdd51287e83787cb8831352",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Long Term Holders Dump $45B BTC, But What Might They Be Buying? - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2ZHNkdjS2Utb3owVWcxOFJlVlk4WGJQZHNmYnpub1gzeHRLSzJwaEtWMTNfOGc2RXBvY25ZTTI0LUUzNXRVSWE2ZXJhT1BqbkwxUF9IbkJwYUJ2VmZOSVZHV280WEpyR0NRbjdJZy1aNFhTbHh0VzZhZ1dVWEkzZkx4S2w4Q25HT1lhMTFHMmxNRC1QX1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T11:32:00Z",
+    "hash": "720a00dc39f46d2e0c740fc9082ce4d6f0d46545180f9297584f3a3242e71120",
+    "source": "gnews"
+  },
+  {
     "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google releases guidance on effective technical SEO audit methodology - PPC Land",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGFMR2Q4N2lQMTd0N1NDNmZaaFkwd0Mta3NQcHFRa2VJZFJ2THdPLVlkTHBLQVJyZjdXTnYzeTFqa3RYRDkzbUVsUUwyV0t5WjVjbVhWTjNfZFh1dW5Vam84N19qMXNlMkd3RGVrRE9VX0NlWnRBekhpUEo5SmVGOEQwOTRaRm1hNnpHZ3pwM3E?oc=5",
+    "query": "Alphabet Google",
+    "title": "Pekin Hardy Strauss Inc. Cuts Stake in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcFI2eTl5LWJyWHhiYzFOR0FnYzVUY0JmUHRCbUd4VnFtQk5EME1La0taUmloZjFnam5DQWtGSTBZWXVBMHFTZGM0WDYyRVlMbmdQQWlHYzdnRF92RzJldVl2S2VTWWQ5LWtnQTA5enExQUJ6LTNkVS14dTZ3UXpNSTlGZC1qTGkyd1I3VUhHeS02ZFJqcVBRSk1TQ29aNC1LeXFQQ19IcjBYMGNvYVUzLWZ2ZWpuUnM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-08T11:14:18Z",
-    "hash": "30bfde001f13545f8b739a5c50e6f5a175577b03fa5918698fa04e2c4b220fb1",
+    "published_at_utc": "2025-11-08T11:26:31Z",
+    "hash": "d26ff14294d025b595209167834b3a9374d4dfea8cfe636fe71a98b5eb2baf42",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Surges Past $2.30 Amid Nasdaq CEO’s Bold Call: Blockchain Could Unlock Trillions - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVU5FWVJjQWZTR1paUVp1eGdfWm01RUtGTkRoamRzUmlOLUhTLW9mdEJ4ZlV5MlNQUEotM2RGOERXUHhlcmZnTHFpbU96bG1RV1p5QzgxeVlRVFdvTEdqeVBBd0NrZGROcVQ4c0tCR3hDMjZDUEJ5dHM1cWZIQVU0SDRtRHFZM2lZR0d6SmxVdUN4eWNKeEM5ckp5Q0g3Q3VLcUtUVFpKLW00bE8xczFZ?oc=5",
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto To Buy Now: DeepSnitch AI The Next 100x Coin, As PEPE Declines 44% - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbTg5RWtUcEt0d1E2VkJRWk9wZC1FN2x4enNSQXRIYnNQS1lOdmUtamdkZExvUlZ3LXctZ0RSYThuaWJYZ3ZvaWQ3MUxlYkRBa1E5SXBpSGJ3dWZBU3h0OU5HVGlRWW5EaGhoZ1N1Yy1rZ1JkaUpyZXZPVFlLb1NHYnJlb0p3Ry16enV2M083SEExWERXSWEybThEMV80eUpiSDJKMUE3alg1WmM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-08T11:14:16Z",
-    "hash": "b4cb5f32d5d6fc98ddc2022e352ac4711f9e6a18043b5103f533b0fc3fc000e1",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "Spire Wealth Management Reduces Holdings in JD.com, Inc. $JD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1FFQldmQkZLV1pCMkpHN2ZkVWtkMkotaXdoelFFNDlaQ0NWb0h2c1NTMThoM2xmeUMxNV9RTzU2RkxZNG1DRk0tb1lCQVRqMWFMMV9ieTlKRVlLWUVsUzN5bGdHT0hRakprdjdmN2JDb3BiVTJ6YTlDei1ENldMUHo2VUFuNmJ1bFhxUkZrSUZRYjU1THhGc1hXd3p5dUYwMlZrRmtIQVVwTXUxaWRUZGo0ZFlmcE1C?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-08T11:14:15Z",
-    "hash": "c9a9a7b24a1ac334ec4d103a0ed46a6fb6ec4933d87d2c03ba3b9b7dfef2063e",
+    "published_at_utc": "2025-11-08T11:25:08Z",
+    "hash": "9e1ea6bed67a83d6af110106da1297d0a27edccb7bef435c2c96ed89fb79c1fb",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Inc",
-    "title": "Middleton & Co. Inc. MA Trims Holdings in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcnNXRHJ5TjM4YWFtUWwtYXY3Vi1UT3B5aUt3clN6d3daU0h4a1htUUNuSzRXekFqRW56LU1DSHR4S1ZscEpGdTltQ2hxb1p2RGNweXZSQzVjblpERzB5MVZwYXdXU2pIMWNPdks5MEROTWJ6bVRvWlFCajFLc0p5NjkzMVBJQU44T3FfYlh0QVNNQ0ZEMVZMRXJPLUZ1aWhlc2wxdnJWdFRiVnk1X2h6ai1LaGQ0ak0?oc=5",
+    "title": "1,223 Shares in Alphabet Inc. $GOOG Bought by Valtinson Bruner Financial Planning LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ3FmZXJCR2tZLUc3bkVHVUFJUlNxVm5QYTQ1V25MTjl0YWIzUXprclRvbmtMSm11ZDRuWUtUWWVxWXlvMFo5ZTNVa1lQa1dxQV9hZlU0SkJBWnBuVlFNRm0wc0JOOHV2ZW14UVFOWWxVQ3VlX24xVFotSmZnODVrcVVFVDRyc3ZWR3YzQ1ZPWF9ySHQxMGR5YzlPaEpEczJxNER6R0JIRV9CSWoyTnkzVnJZTG1FY2s4dFFvUS1UNmhTczVIQVNlUFNGV3VzelVCLTFtTlYwZXl4Ulk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-08T11:07:40Z",
-    "hash": "89fca683b3dca5c68c7ab7379cb719872e4e287f2d1d4ac4a2c571e2cf1ceedb",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Prediction: This Will Be Nvidia's Stock Price by 2030 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPem5RaGhNaXo3NlJZemx2RE9zRWtVdG5CMnhZN2ZPZEhycF9NWEktM20yVmdjNGpNVFBEYTV2NF9scGFHZEJuMFFrbTFDeTRqdUFabzFrMnVjd3VlQkhzcDQtQ1JBb3JpYTNZcml1d0Z2aHVBM0RBeU5wcEZ0SXFRN09QMElSVU0tZTEweGdTbkRDM2pwdTYtRw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-08T11:06:00Z",
-    "hash": "112d450b266be1379484525636c66d9b1c94823e5740f1152c661c1670b0fa46",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Soltis Investment Advisors LLC Purchases Shares of 2,570 Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSzZMci1na01xczF0di1mbVFIcDVvRjB0Zkdzd205WWZRTWk4MnREQUhjM3JyTFVjeHFtV3REdGNoOGo5M3RsaWU3S3dyNmYwcFZiUzdMX3BIYm85QXkxWHlTaXZweWdQbmsyUUdCcGlYN0duVGIybUlsSjdGT2Fyc1g4RlluQmpTOXk3NGdXYU5PazZzV0hlUTloczJKT0tYc081dk5Qa3BDeWFZRDBWbnNSbXRoWjI1UHZlS0RwcVZ6WDRSYzhFaEhUZlFTem9pS2FGTVdEZjVJNk0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-08T11:05:41Z",
-    "hash": "041d4cbfa82016eccc028054bd61a941e02b2a2478d2da529c3ca0d4702be282",
+    "published_at_utc": "2025-11-08T11:24:26Z",
+    "hash": "2ea9ccff5ac492d0c48ffd97a4831f7b1e08cb5719fcb71cb9f100a588dbc91b",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Google",
-    "title": "Alphabet Inc. $GOOG Shares Acquired by Soltis Investment Advisors LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTVrQ0cxckN2ejgySm42YWtYM2IzUnFHMkh1NG0xekRQWUI1SVU4QUY4MTJRWkYzNzNnbGVWeEpxWWtkLWprRFc3MXhNRkduZFQ4MzBabXEtWlR4S0FUSFBuR1Ywc1NhNHhqbzk5bWttMmZ5SnpyY2dIN0ExblpGdW1iQjdlcGRFdGdBYXBxZjJoUW5HWTlrY0VPdkNBYlMxWEFrRm94bEJsVTNSR1J4QXo0VFgxa3JfcWEwWHFiWmM3RVhtQkxB?oc=5",
+    "title": "Savant Capital LLC Acquires 5,765 Shares of Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa2JGelk4VXNZNjJFbENOYk5JeU01RldRT0hTMW9XWU9rQ21FdzVLTnpqSVUzNlpqSjU2a1p0b25jbHV0WUlkUnhqMEp5YzYxY0dkX3hMNEFaeldYOExRY19QcVJqSm9XOW9VZzJ2a0d2eW5aMEFuaEttckh3LTl6bzNULXNiTHRyaDNzdXV4NGxqNmRzRjdXWkJkWW1SMU5JckJQVm5lRk1pZ2t6THo0TWVMS0VtbUZXN0QtalBn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-08T11:05:40Z",
-    "hash": "64563bddcd21a6533dd2dd60f489cf99a5e4636c28cef1713f5c07adb6f1a291",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "OneAscent Family Office LLC Has $983,000 Position in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVUFPWFhhZDc2R3FRM0VNUmFzSXdDVEpzaklialltTkdyeGlHVEJlLVRiZWlHbzMtWXZERG4zQXZ4SUhhNlkxRUxLbUFPNXhJYk5GZHdqV3hfalNjczNELVo5RWFNbzA2QVY0aE1jTDI0d1haTk5XYV9vRkl2Ml9qTjkwYmRYemRoM2R1dHRYYzNELUR1cGpPdXVodDB2UmxvRzBOSzJTOEtBYVRYWlNjVmlZYTJUR1dZS09XVGxHVmdpTW15bkNoUw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-08T11:05:40Z",
-    "hash": "b8d48ed0485e6899250f5f49dc9970e7c606451ac195ec040d727dd6c49bb637",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood price target raised to $180 from $170 at Citizens JMP - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFhocjlCZkpHUElwY19mSWRvV09YbFRYdjFCbWk2aXFyaWZ2NnNwajd4a1VFc01CM0JraTEwYjN5NW5JMktXbUJfTGF1Z3pVME5qX2g5Q0RWa2Q2ZWxhc0lOcG9yamJrcGlRQ3pNSnJScENVbUMzUS1MNWd1QjZwWnFkWUs5UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-08T11:01:27Z",
-    "hash": "4e93196be5adb4d6c64e989e74c5996e261002f5cbcd234698d579a6e39b1f36",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News: 21Shares Launches 20-Day Countdown for XRP ETF Following SEC Filing - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUg4MlZocXZ3anVOenoweEZsdy15SkxKajFqTE5ub0tEcnpDaDZUMXdENDk5cVVFaU9LRU9tRGRCbkkwSzRyUWFPWHdNYW1nbUYyeUJmMno1UTF4LWJSMFJfT0tfbFZfT21ZLVRfZkRueWhBRUx1V3N4anNOLS1LLWdaQzBCSFFkajJOY3dGQ01OMkcwMzBMSDBVdUxGU3Z1d3JhazJJRzlmdk1pRkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-08T11:00:39Z",
-    "hash": "76d1b6ee8066cc615439153d73e35f0a887a296e00eda067c3a98a8daa5c2580",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Announces Listing for BNB's Aster Token: Details - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWpSRDhIcjhPbVg0T29WYmFnLVlQZGZrTXJSTkF2RFdhLXd5NkxWOGdhR0JnczdhNF9sYnE2bVZIb2NROXRBZDlldkxWVzh6a1VmSUJQZUxiRzFOZWF6bG8xX0xONG56NlZGS3VwVFV1clR1cVAybzRkRW5sd0NCLUxNTzlvcXVwRzZydkJMLUZsOW1ZMlpWVDJ6aUpIcVFYYlNGSE1kWlR4OGN2U1U5SXMydG0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-08T10:55:00Z",
-    "hash": "0941c2f8234ab3ca8db9f6e0dced469002d313a5104c315f2ff1e982a909ffc1",
+    "published_at_utc": "2025-11-08T11:24:25Z",
+    "hash": "193d226ec774032838a52d575c9c542fb96477e59e8ca2765ed3ccb650cddfb2",
     "source": "gnews"
   }
 ]
