@@ -1,22 +1,32 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "$102M invested silently: Why JPMorgan is betting on Ethereum for tomorrow - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0RlT2wxRzNGU0lQMVp0VTlpUVpVYzZJMmYxbWpGM1BOS1UwaWJ0RjFhLVBrZjdVZ3FtV1h3cmh1NEdMQ29tZ1RrSVBaa1NnbjktZG1qU05NSXBsbWVVZE1MbWJ4dTA3RDVkeFJ5dzZFSGtLY1pfYkRuNlE2Mm84LUJuNlRnUXd2MTBj?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Could Rigetti's (RGTI) NVIDIA Partnership Reveal Its True Edge in the Quantum-AI Race? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObXZ5M2VycHBZVmFHYlNTRmhDVmFpUzBDZzRrTy1RY01aOHlMbFJOVUVFVHg1Y01xWmU1c2cxV3NWblk1OFFyY0xOcEhKUFVLN09aYThvMTd1TGl3WnZYbWw4OHJSWnA3Nm1lZE50dzJwb2RLQkpFTTRiTk1wTnFnSVBPZTdFM1FkMElVaXgxWUV3Xzd0aHBVOGJpMlhuVXpaRk40WFVxczI0WkxnSVI2NWdRSUhPdmFtSWd5dGlXY0NvdUNoZjNqRnh4WUdULUFhTkloYlpFQjXSAd4BQVVfeXFMUEROUDBuZUNiU1ZMSkZUR1hrSmZSSG9TbGVSdFlvdllya0dSUDZ6WEltX1FoVXd3aXpXYWFFcE83TkR2aTFJTUk3VDZDX1hGRmliLW1uc3dCN3Y3Qmsybmo5RGVfdDZKaURrU0JyTXVyd2llT3Bxa0plNmxsTUFnWGxEeFY0NW5FbWNTcGpLaWRMQlhQaDR1b3ZISkF3aWJ2RkYxMC1adXozYU1VWVU1ck5jckhRZ0N0R0x4QWFrZ2xoQXBiV2Y1Qzc0c3hRUU9nQnlKVlVYaEdkTi1sZlNR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-08T20:36:40Z",
-    "hash": "ac57d7168120e9ca3d8a4dd86a2cd2de1439a4dca659982f08abfd2d3a7e3a18",
+    "published_at_utc": "2025-11-08T21:19:55Z",
+    "hash": "cfaee5691a8b9632ce36387ab3c964abe56c13ca8b09e0960078ea7e4980d187",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) 4-Year Cycle May Not Be Dead : Analysis - Crowdfund Insider",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUVBsdlNESldPUEQtX2lkVkhrdXdqdGE1X0ZjX1Roa3lRcWdnS2VuZ0RRTlZPLXdfWlhNY1lZS3JkMTgxSnNNLWZIZUhYOGJHRzl4c3E5eU9FQjVrQXVFdFJBc244aG12UVBXWDN4MGVWeWhMVzd1Zjk0MmNhNE1qbWVESDhFckc2SGd3d2lJako2cFpTRHZOWklFX2FUQnM?oc=5",
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "The 1 Number That Shows Why Alphabet Is a Buy Today - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnJyMWhQWUppODh5RFF3RWV5TDhvVEQyVlBwN1ZnUTNkbmd2dGNLZk1GckYxakFhYnhQOEIwY2lrSTE1ZkkxUWM1aGQ0YmZkVkFqYW5SVWp1QThNLUd0QVVpRjZvSUxJVVUxUDZCMGhwdXAyWWpaVVFBU0x1ZGtFZEhtUTVSNkNCVzNSMUNGZEE5V3QyQWpUSTAwaw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-08T20:31:55Z",
-    "hash": "bd8443d8e35abbc28859a9c5656785bfeff3515d85c7bb5c30bef95bda26054a",
+    "published_at_utc": "2025-11-08T21:16:40Z",
+    "hash": "99326bae2751c2c478351efffc148966e75011382a693e34a47aa77a11fb8e90",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Coinbase Owns 'Institutional Trust' in Crypto—But 3 Public Rivals Are About To Test That Claim - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbDUzbkVpTXJMOVcya29jRU1RNUFMdWlNdjlEOTlXS3JZLUxKODF3VmJ0ZmxiSXRxcklnTEZCSWNWUjlsbWd1V2hROEdldllqYUpLekhOeGdJUzc3UWpueG12R0lXZGg5S0ZfMWphSDFtZXVPZGJzMUdSY01EYUR6X3h3VkM5Ym5nSVpoSWVvdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-08T21:02:31Z",
+    "hash": "b0601424f3011b5aac78d0b5cb2a7eb57edb1f115c9f41fe88cdb95a089e5710",
     "source": "gnews"
   }
 ]
