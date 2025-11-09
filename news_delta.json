@@ -1,112 +1,22 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Confronting the XRP Price Reality - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QaWpYUnRzVGVFS1l6eTI5cWlYU0ZjMDNQUEVqYmpoUzhxOXQ1RHNNUjdLSjVmSEtNdzNsWXVyN1BnbzJEcWdnVEI5RVhmQzdLSGhmbFJtOTFKYm9GSnZNdDZwZ3Jjd1JqR0RTVjhsYWZrT0FW?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T08:28:01Z",
-    "hash": "95d5ce327efb171cd697daee7332f99b508dfddd6022cd544c90e6d2c62d6c51",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Inc. $GOOG Position Lifted by AE Wealth Management LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1p2TDFXLTR3Uzd5c1dPQXhnZk05OUM1UTFWRUNKeUltQWF2ZXNza21HLVF3Ym8zM3gzREhrM29ONmhaaHp5NTVxendReUljRkM0SnJVMUp3RGlNeFNpZE5WbzJhMWRsOE45RGJLbnE2cXNCMEM1SjFkNnY5VXJLNjJYeXUwcWo3UG1ZWlgzSnpWclg1bnRhUy1RT013aFc1Qk0tYnZhSVdwWVBXbUN6RklzUC11LV85aGNXQVZOcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T08:26:50Z",
-    "hash": "98b30b7fcdc4cafd6ec435de301fa6c164ee40ae0906eec40b6e8a69cdaa5b41",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Amica Mutual Insurance Co. Sells 2,123 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQTZpLUdoSEFTM2pxbHViVXVzZEVfZzNvN3ZyLUZ0ckpKUmlXcmtKdm54dTF5aW5fVmlNbjQwNmVoZGVzYTdMcTlYY3lmYU1uNC1sMFJGUGt1NnFFWGFjOXdMRlczOTdOVE1VUnZaWjNrVHRMdlljUGVHY0hwbFhIYXlLS2VUWERTd3AzY1BzZjNwVDVicGQtUzVEOFpsZDlaaVNTdURMdzBCZHctRGpuZ2pTUURURnZSUXk1OUw1Sk1hc1VQTTVZUTN6WnY1LUNqaGJMQ1ZjR3VvZHJqTEY0UGVqak9jdGVwazlhbXUtOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T08:26:47Z",
-    "hash": "903e0b0189719caefc838ff85e36665f8c1c43231214e953120d7f7722ade7bb",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "Does UnitedHealth’s (UNH) Dividend Growth Highlight Enduring Strength or Mask Shifting Industry Pressures? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObFpzYWhqaDdKblU5bEtLdjNfSlJncFRBLTVFcWZCdlpza0xSNGdYOW83bWI5eUhmeDE4ekRkQTl5djh3ejJmZTJCRTNvcU15RFJzTUVZWDNVT2djZkRyeVNjaFlTRlpLRGRMWFN4SE1Bd2pwN3E0RkZsYXNubDJfdG9SLXJjZlNXZENLVEhsMU5sZEEwbzNmS3Nkbl9nQmxfLTZoMEdxQkJlSF9YVG9hdG9JOVVpeFZqZ19WRXB2UEhHcUluc0I3VnhDa1gySWVKMWfSAdcBQVVfeXFMTXoxenhCdmhyU3ZnSWJwaFA5OGFReTJyc3RsZ0pIUlBJb3k4dS02ajVJVkNCZHlubjlQRHNuS2NFelFzMlk3dnREUHZZU3VRU2NBWE8zRktTb0Y3NU9JdHR2QVhRSUh5aGtDRDBwT3Y0TXVWTnhXU0dRd2JGTFNXbjg4UXhwcEpwS2N2d3BwY2hsd1ZyaWZMVVhzeEZkRkVnZzRfbjVyak9ldFVGanBxbFJQNjF4cFN4R2ZEMmdCZTd4YU9rdk1iWTcyQlZNZWtIMm00blNNU1k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T08:21:58Z",
-    "hash": "0fb5e702252a00ff44953db3a6a234a73c73969202ae02c0cc6d8ae172f2a72d",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Stock Plunges Below $190 as US Blocks All AI Chip Sales to China – Market Cap Dips Under $4.8T - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTNBU3dtOXNHblFSN3EyeGM1UEdvUmVqaDIzdEl4dVBnMTRZLWFrcUtqeEhQbUJuQURlYWhWa3E0Y3ZKVlAwYWM2RE5obnRSQ3ZoMVRadzI0c3VuOXFmN3FYZUplTWV6WWstYWdUTzZMQklUUzJJOHZXYzBIOHFSbFVOUnFPZ0xhdEtUZllkU3FNTEdhVHo1OWFEdDhxNVhCdHoyZ3U2V2dNNmh2TGFlUEtfTHZCb2VKazcxa0gwRmJzZUdXaHZIeExVMjVjTlMxMVF3bjhUSQ?oc=5",
+    "query": "NVDA",
+    "title": "Aire Advisors LLC Cuts Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkwyUkRsWVhDT0VWUlhGU3JFZXVVdFlWdk1KbkdqVEdPRm9WMjE2Tk1OaWlBbnFBR2FPY0NlQl9MZXFfZnFKSTlMREpFQVZNZGlRMzJpWjc1ZW5ZcUVxbGNxaTFRODZtMXZBS0FVZGhXNm1UdkktMFhUNmM2MHhoTk1TYnlhcjJxMlhpQmNjOGxHb09TdDdNWUpXR0F4VDdGUkVYaDN5eTNoTVJ0dnZUUEVEbDU5eVIyT0dN?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-09T08:20:04Z",
-    "hash": "7303154d74ad2e393174d23c03561bafaee124b7897836f19612198fd9a230db",
+    "published_at_utc": "2025-11-09T08:43:57Z",
+    "hash": "ee18fabbe44bf26e6d8faabd099b70d37cda8f0c0ac0c14ba8fdaccbc9447b22",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto Crash Slashes BTC ETH XRP Treasury Valuations Will Wall Street Sell? - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblczY0VzaE9fWEk0OERMQTh2cFdHUHVGbjBmZUw5YnlQRGs4cDdJY3o3OUJpeGR5UjAyRjlpMUYwSERaN0NGUnYxSE5QU2NNRWYwUXhiLWRQNVJqWFFoMGg0NDVsWncxVzhrYlQ0NTBqRklUT1lDblAxNXFPc3Z3NWlaX0lBMXpMTXBINGZ4SElOWk9MaDBoZ1A5dzlRSlJh?oc=5",
+    "asset": "Sprott Physical Silver Trust",
+    "query": "PSLV",
+    "title": "(PSLV.U) Trading Strategy and Analysis (PSLV.U:CA) - news.stocktradersdaily.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONnJrbXVLTk95ZmRDbVdNUE9nRzdVV2VFZWpOTnFMWkNPZHRBOS0tYzVjUkdYa2U5V1ZzbE0ySTJPN1hXeUswRUVQdGhZcElVN1hkUWM5elFrZWVsX0pSdG1VbWRHWlNvQllwckV5ZE9nUE5NbDhoSmdPVG1yTk5yTkxBbHFFckRZQ3JVd091TUhDbVh1QzZmSg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-09T08:14:35Z",
-    "hash": "4ff604a886e39ac2e984bcaa92fed3a050cf5577f0b1f8bcdadb844f880fe135",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE) is interested in future stock prices as it acquires MetSerra (MTSR), a company that dev.. - 매일경제",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yWTM2WGl1bXo5RkZZSkVEV2h3S25aODRkZ2s0RUdON0VLMHJJX1dqaFFpOTFHR3k0OWttSGhtZF9sNzZma2JnR3daUUFhSTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T08:12:58Z",
-    "hash": "e33a29765b3916bbd4b3f4ebbaaaf2f246024713b656fd0785f06660518e9884",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "How Tether (USDT) Is Becoming One Of Bitcoin's Biggest Whales - Holding Over 87,000 BTC - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaWtjdFE4cFhsVXJ3T3d4OWJrT21Db2dtaDVTYzlVLTN6OW52cGNaa3ByaGJ3RHhmTTdDWDNOWGNJQ2lGdXpyMVZ6M1RQQ0trc2p0MGhIRWE0TjRKMWJxRmZjM2h5Q25td0xIWnpvekFXN1IyeUl6LWwtNHpUb2Mzd0J0SGpQeVRBLUo0Rk5tQnA5QjdqZkMwelBPN3lVLThrWjgtcU1pWjlBdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T08:10:45Z",
-    "hash": "4a7efbef5dfdc7b38e44117a4b25497c73af8106dd8cc3724ae6eaa396161f94",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "XRP to the Moon? Ripple ETF Triggers 20-Day SEC Timer – Auto-Approval Looming Nov 27! - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZzZyaGZLVkJBRW1qVm9kVFR1anJoZG5hOGhISHJJWjMzczZqdEZhNVY1VXo1U3FLdlV4dGZxaS1iRFJpTVZvZWFkbk52ZzF2Q2xOWmtTbHRLVGZQaW00TUJ1VXpBemRTcHNtWjJucC1VYmlCOXlzR1E5eDhhekVTTldXVmZJRkcwTmREWlJzSjI4NkJUYXc0czR0VmNaUE5TMl81UmxOc0JuejlfYWg2TnBGRk95bnE4LTUyQ2FxU2hZUkpj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T08:06:31Z",
-    "hash": "cb299d5ab9530db829be60ff627cbde0ab31a3f5efe6016043c91e63b01d667d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Searching for the Next Big Crypto Coin? Blazpay Dominates the Chart as the Best Crypto Presale Token in 2025 - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMnJNenprU0dIallmMFQ1SlRYbHJHMm54MUVpdWk4a0V4NWtadk9adzl2dkFxQnVicTBReG5tRUlGaGlPQ2hGTFRueXVSZ3dyX0EtNTY5c2dnMTNJUnQyVVBpWWthZ2tia2pBRlFuSUZ2Q01SVzc4QnFqbjNpalZtVi1TcV83cXpPX0RYMFc4R2NOejZZUy13?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T07:55:48Z",
-    "hash": "71a7106638ac0b861057743e478f195a3de257ad2562b812e09fb532d16b5423",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Profit Realization Surges by 240% - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEJqLUFSS2F5Z1d3eUV3Z2lnZzdKWlZYN05aWU0wT0VnV1lPRkNraEFRdWtvYzJMLUwydG5BUkNGNmVVcXRkdjNqN1Z4OWZfSmRuNktkSUlQak1jb29Pd1JYNzh1ajRBaW80Z1pUcjlEOFphbFhYQ0dhQ3hBYVI0UGU1NXoyYkxGcEFnbW5QTjdKVmc0TWlWT1RB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-09T07:55:00Z",
-    "hash": "61bda6ce95f518435ffc59c519700d225df58fcc3386a4b7e283fe0975c75fdc",
+    "published_at_utc": "2025-11-09T08:41:47Z",
+    "hash": "6c03c15ae58aa6ac7f29ae5aee9d24a6ee1b1666d566ffbe7ac6faf081ec09f1",
     "source": "gnews"
   }
 ]
