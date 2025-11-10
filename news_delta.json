@@ -1,62 +1,232 @@
 [
   {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever: Ice cream and some hard arithmetic - Proactive Investors",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDNvaUhsb1YxMk5IalJXWFFTaXF1cmpzRGFPSkxPS1NFeXhNQmpPbUViLXhmSWphamNkeFI3YmpNWmxnaXdIM2s4cmk4aVRxT05CclBBY3lRUnkxaEtVZVg3Y0h6NThkZy1udnFoSEhDTHRzSEI3d3BwZ1FpUGNCb2VYNUpna0JPRmJKcVNMOTdWVkZrdUtpVDZrejh6eDJzTnlKVUlXSHBLOGNkMUo3MWZpbDRZY2c?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Is the DoJ still Investigating UnitedHealth? - Disruption Banking",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTlh4ZTc0c1pSU2hHZE9yYXVPTHFMZlVzZ0Zibjh6YVBvRU55REk0QjVrWHhzRXZZTDYtc1dncjFqQkxFRGp1ckV5S0JfY3pZOVVEWGE4UTRGb3k2VV92QllwbVlkWVhkX29KZU1WenN3M2g1YnRzM2FiYWpNVm9McnhkQ2FVcDhrYVJLYkpGTVk3Mlk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-10T15:45:00Z",
-    "hash": "cfa4734ad804ef82d33f9c0407aef0d725a46b54f69440fb85ffca8b83322a1b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Citi Lifts Nvidia Price Target To $220, Predicts Earnings Beat - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQazQwMXMtMFhBSGU4a0J4MFE0YmtUb3gycEdva1hEWW1RRnAyLWQ5SXlUa0JlUjhyOWx2LVJvM2Y0dUd2enpDSVYzQlU0a0x3LVZwcGNNQjMtNThMOURVc3VnOGNQU0Y3bTQzYWI2cnM5ZTRRTGlSd0MwQWlXQzhHVjNSX213NTBfQ20wM3ZsZ0hhMXN6clpWM0F6MGFSM25xQmtXUzBVS21jbHZkaFZLQk5nOUFUeUlkNmhUMGNxZVJndw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-10T15:40:42Z",
-    "hash": "2c9c59d35086e82e15dc16261018059e6ce7dd8edf86878187283b969c19b00b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "$131M Bitcoin Short at Risk of Liquidation as BTC Nears $111,770 - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZDJINGdFd0xRdmNVTHNyTzhJMHQ5bllVT0hCTW4yb1NXY3NRMm9zVFdSUHhKWGpfdDZSQ25PaGtvMXBiVXlXNGFrNU4tbHpqMjFyQnR6cWp3RUFuR3M4UEZzQ0RCNkl4U1hiWGgzX0JQeFFzcmNtazZmYm0zMUNBOFZZZHlTUkJIcjN3X3RvQnN0OFBK0gGaAUFVX3lxTE9LLVNCVFV2ek9oTVhBVDdiYUNkOUZPMkFpREJSbVA1cUR0MVJiM2dKZHRtLVpveHc1Z0s5UjdnSTFCN3BIVktkWHk4SlVFdUpNSzlNODlyX3p2MU9qRHhRZVpscllGaEQ2WThpd3A5T0JxOTZ0VldYWWp0QjVhWkVSWkUyVHJ6WEhqMF9TWjA5b1Y1UGVxNFBCOEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-10T15:38:56Z",
-    "hash": "3379e821ea908c03e0537a6eee2d9b5cbf05b64df48b0ff7a78acaf7bd90cc95",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia and other tech stocks help Wall Street recover much of last week’s losses - San Diego Union-Tribune",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXRMQ0Jzd05waHFCMW1tNTV2ZkF4NXgzc0lzZXBQQVg5QWo1THNLNDZxRlo1TlRSQWxTUDh2dEs5SXdDT19QMHBuRWk5RUh4aGhaOUZmejdhSmVTMEpsV2tYRnFoZzdwam9wQ1RXV25nSmV1cmNadXI2N0NwVFFMLUpmbkJydw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-10T15:38:40Z",
-    "hash": "5b1ca277bc6fbbd87be78ccc38c761c778c874bfcbddd16df608f0af43a44a66",
+    "published_at_utc": "2025-11-10T16:32:24Z",
+    "hash": "902416a58d1d06ac077e8a00065cce8a49168ede1a4cf64fcd45103fc8c817cd",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Novo Nordisk price target lowered to DKK 315 from DKK 375 at BofA - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXZ6ZzZnX2RFZm5WbTRQazRrNkNGU0lEYnE3U3BObjFDMWthLWNSd1BFcDlyemhxMG9OcUV6UlBnc1F4TVk5YUhlZk1jMkw3aEk2OFYxR3hkYjhhZVhSQmlPZ1k1bHQ0WnIweVpjRnBTZ1ZJQnZDRVhZUmpLWllXTzVYMlF4UWhiRVo0WFN3RzRVVDRZM1V5OXp3VzBwOVU1UWZpR3lJRkNseGVLM0dR?oc=5",
+    "title": "NVO: Novo Nordisk Climbs After Dropping Out of Bidding War for Metsera - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWNZZWVsWDI3dXVYTTd3SU01bmxQNXBLY1N6MV8tN1dueE0xbHZaMTFZOXRLRWpVTWFJQ2lSbkZzeVZlZnlBT2ZieG5QNEdQdGk5b0xSVXNraHhCQUpKbnNhZGxQajNIZ3Zqa0FQb1NPUkVUSnA5WW52OHRNREQ3OHVSb3JLcmV0?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-10T15:36:18Z",
-    "hash": "5b6cd779f0eaaa819121a2ad01a465ea1965bcf3c3e1ba043040ce1dce76db70",
+    "published_at_utc": "2025-11-10T16:29:54Z",
+    "hash": "7c3b3973f3a0fabb33223db9cf4b754c1938e7ed620b60424cb16329734f7018",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "'Yikes': Top investment bank looks under the hood of the economy and finds 'the labor market doesn't look that good' - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNFQya0Jwb0RnTUZLMXc0MFZYX3RBUkNvREpWWVM1dTg0dkNreGhtdXJJOUtNV3JDX3hpc3YzY3E0U3lwN045UzBnbjZLU0cwQU1ILTVuQW5wSURrdHktZlZCMURxUWR0MEdyVXBiSlFTbkhKcDFreG54N1RpQ3JmdlVzVnJpWUpwazVVM0JwOVlFemlyQnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:29:00Z",
+    "hash": "163350aaa802d0b34950ae5fde49149869240e22808d28db17da1c1ff9080bf1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer Gets Metsera: Why The $20.65 CVR Is Highly Likely To Pay Out (In Part) (NYSE:PFE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTExCNVE1a3plY3pkZG1CSE15Z2dfVTdIazVBdkoyRkZQdElHZG9YZHlyaDloRWMwNkNjX3h6WEhfdHJSTVRIUnpKcXBIUjhmUm10eS1lY20yVlhqb095OHh0cHFOTzhQcElBLVc4Nkwxclkxd1duOUk3M0YzQXhsYnJMTEF4SjhfMEhQMU9CazhKMlFaal9DTU9SRlcwUG94Um5yQ09CMkdGeHd1TjJN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:27:24Z",
+    "hash": "8396c8f6d972a20a431c687e4330d7992dea867eff6156944ca6e803ee8279d8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Holders Diversify – IPO Genie Presale Sees Record Sign-Ups in 24 Hours - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVpoak93OEhBejQ3WnRmVG16TVJVZzZGcENUOXZCOWxseE1WV0o1RUMyLXM3WDh4NTVsN29XNTJCdnV1blJjQjN1ZnNiUnFYSzVRTGxOUFd3LTV5UzRFeDhUdVNDaXlEUWNsSGFyUEg1bXZXOWNieXp1X0pjdFVMVUJNb1YwbXNDMG5UX0dOQWhHVXpNTmM1cEV0bnR2VGRiZFViWFVrUXdudDQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:24:57Z",
+    "hash": "9e1d143217c3a9eb4c453f1896a52b53fa347d630398ab0f85dba585a40278a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet's Breakout Is Here, Robust Advertising/Cloud/AI Monetization Prospects (GOOG) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWU9YbWdab1lCV2tSRG9tbFFrQTM1bjdsU0U0dTluX280TFhlVTloSnNkalBFdkJyeGdvYm5CVFA4ZWZNX2xKdTZ4bC1qMXEzYVo5VHk3d2lBNXI1MUl0enlxQ2IxUWNMWEl0WlJDX05EQnNrTkNsWldZQm9TQ3k0Tlh2Zi1VYjVVZW1TREZOVFczM0Job291T3JaS0xQM0NaVWhlVk1QY3BzenV2cnQyYW9CZXZrZWxTM1A0TW05RVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:15:00Z",
+    "hash": "433e7893ff030941fd0bfe9772306ede5b33ed90d6bce124cfc4053512428a7f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, Solana, XRP Poised to Pop — Investors Eye PepeNode ($PEPENODE) as the Best Crypto to Watch - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd2JkVWJSNXpIdmtrNlExaWtXQ015V09ncnF0WENDNXk4S0I3ejZpRUpyWUFnbjlZYVVQajZHM09DNE5wenBYNWthSlp6V2FqTF96d3RXcENWclRLUU01UFhIY1pKTHVWQVJjc1hPQ1BEQW00T1JxTXhUcmZzSE9Ndm5FMDhfOUF1T25KTVBCcFdTYXBsaXRMdWd1Y19ISXJaNWU2ZUNZWXhKNlRFS184aGZaT1UxTnJibDYtM21hclE0MTRkamdWR2ltMUN0NW1BQjFzWXVfVHlhTW1PbFlzeW1zUFU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:10:42Z",
+    "hash": "5c81ce0fd2c3d136fe6b2a05aab4e3ed0b5a2fa25d70695be5e4e76409e31aaf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin, Solana, XRP Poised to Pop — Investors Eye PepeNode ($PEPENODE) as the Best Crypto to Watch - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd2JkVWJSNXpIdmtrNlExaWtXQ015V09ncnF0WENDNXk4S0I3ejZpRUpyWUFnbjlZYVVQajZHM09DNE5wenBYNWthSlp6V2FqTF96d3RXcENWclRLUU01UFhIY1pKTHVWQVJjc1hPQ1BEQW00T1JxTXhUcmZzSE9Ndm5FMDhfOUF1T25KTVBCcFdTYXBsaXRMdWd1Y19ISXJaNWU2ZUNZWXhKNlRFS184aGZaT1UxTnJibDYtM21hclE0MTRkamdWR2ltMUN0NW1BQjFzWXVfVHlhTW1PbFlzeW1zUFU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:10:42Z",
+    "hash": "5c81ce0fd2c3d136fe6b2a05aab4e3ed0b5a2fa25d70695be5e4e76409e31aaf",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "What’s The Upside For XRP Price? - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0xMcjVFTFYtTVlUMUMxcGJHM3NWTS1GSkRieGNLd24zXzJmMkF3MGZZWTIzVmVfaDJNcnRlWDl1UjRDMEVPN0Qzc3A2MWlXTW91N1lwclItRzJxSXJ6bjNjMngtb1ptcnpnSGl0aXl5djlYMzl3WElFcnhvbEpUejhSUlprZmlCeS1taVB4b1VndTc5?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:10:38Z",
+    "hash": "177a9a223cd5dfb3e8ad9e251feecc56d9ac66214513794d35f45d2e93f0d887",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "AI Market Risks: Potential Impact on MSFT and NVDA Stocks - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTldSQ2FHUlNpaG5pMktHUmduaUJ2bWN1eW45REJqSFMtNVdtS1FtZmR2ekxMLVRZRDFwRVI1VzhDRl9WSmt4VC1ibTJqVVNibmZWSkszVGlIYi1GbTdWclVKcFREYjQtQ3QwWWdfQ1MwenZ4bHNuV0Y5S1V1OThDRUNjSHhYUFZidVNrQU5SWEdiSDZ5YWJmQ3U1OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:09:23Z",
+    "hash": "eb1ca9786c85292b2c2e5f130f264a600a4855b83738985747087717434be8bb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Assessing Rocket Lab After 249% Rally and Satellite Launch Success in 2025 - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3hpbTlKdElCQXc0SV9qYW50U05WRWhZTFl1MzdadENtVjFOb1lUeGJrd1FVV0syamZ2dUM4cTRvNTF6YlFfZFp4YTBpa0V4MUhBOGVwMkxockJvZmZ5RTg2Q0NLaWNldE1BRkpQNlpwWUVaVm9JWk9Zall3amRZTmlB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:07:19Z",
+    "hash": "3fe6eaec823f27970dcfac3f3e8f8aef1e48ef6291e8d8bce6e9e8a468c1ff14",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Tom Lee’s BitMine Holds 3% of Ethereum and BMNR Stock Love It - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lSGFBU0RzN2plTnZibF9qY2hKZXVabXhDcnVUNUtKNWdhQWRZbjl0OGI4cThMekdsMnVELVQ0WDZzM2dJTjBRd0lRSldlczBUNzgxc2xtUlh1OVd3TXdPaERxLXZWQ2VnWDJTR0VWa0Y?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:07:00Z",
+    "hash": "4177bd47b65c787bef416c5c469201cbb48febdb7816e3262248f0ab3bd96bde",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Launches Public Token Sales for US Retail with Monad; Monthly Offerings Planned - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkJPOEZlT2pLNDByeXFCOUZSSEZydFhpLUNHRUQ2NUtkX2FvUG9RQ21LSW55NHFyLXNxcUREbEV0RUVZVTVqU0IyNWJGdDlkVUswU2lmVFh4LXhPRThFdHM3OE43THVjVVRBSnFnV2YxQ2pGQWNIR3p1R21FYUZ3SzFUZjNsa3dCVUlZRlVnTlZtaGpFZFdwOVdSWlRybllhRVFWcl9PM2V2bk43TWJWV0JIdXZGMHNlY1R1OWNiVmYyUXNYV19DVXFkT0UwTDNL0gHWAUFVX3lxTFBJel9QdkZnRVA3Z1lobmVKRzRaTkZKTTVVeUhEU0JQZ1dTTVFWblpNdjlsdGx1Q3FKR3Q0cXlBRXNrUXl1X3RkY29NendEOWZYa2F1UEduWnFRckZ3TzRKT1ZEeE00aXEzLTFGd2dxMWJmZTlqZDE4RnA0Z2lIWllyZWhzNmtMMWFxd3Z0RlNza3h1ZWVIbjFFOU9Wd21aVnJHNXI0QktNRUN1bmhKNkZTOFc4VnBldHRrSXc3cU9SYmJsNDExeGk3aHZyZUt1Q3EtX0pOQWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:06:28Z",
+    "hash": "20b41823c6f4e4364ef53c7c2aa9949b8491ba4bf4bc69dc83604667f1116565",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Can Bitcoin’s $95K Support Hold or Is $80K Next? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHRFalZTc1VkdUJuVGhTeVFXU1pkaXdhWjJvc1JPbXhvMHdmeUFYdTRHSW5HZnhoZEo2cW9URHlubGFkVUNNUUdoVllpRkZfU2pXOVFrZHJHSTRPOXZHdDVyNE5ISW1JbFFWNG01ZVZzblRES19jRkUzSU1WVnZpRlh1UmxqMVRtTkpyaFZONGdPdw?oc=5",
+    "title": "Square Bitcoin Payments Go Live Today, Bringing Bitcoin to Millions of Merchants - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DejVWYlhWMjhPd2IxVmlRTm5fanlFZkdienBZWjhlWVZxYnhva01LQlc4MUwzMTBfLWo1WGZVLXlodnhwdldqTHNxbXBYOWhvbkxncU9HWXdMczMzSjA4Zjd6b3NkbF9BZVBmMEpvcWFrcEpwV0lYeTM4emNWbkE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-10T15:35:04Z",
-    "hash": "8202a0261cb75cf9ce6a0697641abb046b7b0789e6cd7a0eb36947e2dbe9c63a",
+    "published_at_utc": "2025-11-10T16:04:28Z",
+    "hash": "1bd499d271ac7682bc4fa3cb0cfe85d9334fd6d430e2eb3bf61e40f0dca96011",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum stock price target raised to $35 from $20 at Benchmark - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcktwY1ZxTndDZTdwSXdGdmNTcU8wdm1ydnQ3cFN4cFBfN3M4OWw0Z1V4WkRUVHpJMjY1SDF1M0doXzBzdFozLXJSQ1ZoWDZsd1pEbXh6c013WUhYckVKcm1wTnpoV21vd2lBdWZDa3haNVdvb1Y2ZU9hRnlPOEdHaFpldzh6SFNlNHc0UENGQVdOUVNZQ18xWnNQXzFUTGR2U3Jfb0NfeWFtNmp1dFVXOTQxalJGSl9GLUZjYnNpNFl6MzVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:02:43Z",
+    "hash": "45b03f2d802748426dd41eda796bdc2faee1c5abf9acb67f3fd072e6fa0642a0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Why XRP eyes bullish week after reclaiming $2.50 - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXR6SWYxNlFsODFWa2lBa21EckU1V0dfaF9KWUhIYl82VlFCWDd6UlQ1cFRDMXV3bnRtWFhETDVoaEEzdm1pY2hjckVkUDZiR1pCNlZmeFpXNURxdGJjNEdLbENncmFvNGplaVRsaE4zX0I4YmxLRDl6RG1PanlJYTF1UncxVndfWWFPWDhRdE9zNGNMdkVuZHp6ckI5dnpCejNyX2lJMkhhME5hLUVTU3dOcUtYb2pSbS0tZklUOVlLaXYzZGQ1V1dtY9IB0AFBVV95cUxNejBrX3hhd09KeS15LTBhWGwtRHZTeHpfMFhNc21PUFBMbWJ2b2N3WFNpdjhWRkpFX3NENTNtaHZUYzA5OFJ5OUJVVTQ5MW9QNzlDZ3Aybk84T3VoYjhCVDNNcGxOLXlTbmpCMW1relpIRHp5T3p6NnBjZ0RCN2k1VW1iSnU3TnB5eXZwcFRjaXE1QldxYTZOb1JjeDVCVW5WMFlPOUpaNFVaNEZfZHBGSTNMTHJvNHJwNEdLdTlzNmJROVo0UHotRnZtektYTUJ0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T16:00:00Z",
+    "hash": "a05a1f69203a4b6a0d132ec458fa931e19c36ae4fc1f3d5b30dac0f28ca8086d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "SBB Awards Double-Decker EMU Contract to Siemens Mobility - Railway-News",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVk9yZnk1T1FHX1dVQmRMTTZLdl9SU2lxSlk4Z3UtOEtBRXJiX2RjaVhyZldoOEwzX2IwRW9ZZ2ZhU3JWcERBLTVvM1laQjVlUzEwZTVBV0NnaFo1ZGs0R21hOVhhVl9iN0hnWE0ydkpENzl5ZmZmUmF6b0dJNHB5OHQ0TFJlbGxrTVZN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T15:58:58Z",
+    "hash": "eec429ab317e96d8ca22d9b03aa8e7ec251b8ba97c20bedbe0349eab3b7e0f82",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "After XRP’s $2.20 Pause, Investors Compare Ripple vs This New Crypto Coin for 2025 Growth - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMy1Ta2dOQUgtdXZmX0RYaktVekstNWdHYVNEYi1tMU1hbDFWR0hGUjNtdkJDOHZTYjhmSlp0RlNEbF9Dam91SDB6VWxldDJXbEIzSk1PZ0wzZ2U5S01IVmpmX3Bnc1BYbHRJUUVpX25KUlhaRDRteWVXaU5ZUFlYM21mTlFKOUJucndGcmxPdE5lYTZneVpEWjRhczFOYUJ2ekY0ZHBzZnhwaTdIeGRxX0NXUUExZHRBN0FZc3pSQlhlc1R4cGhKTDBpdkc5T0pydVFzcC1EOFhfT0NwRUJkczhiY28xNU1DVGttcjM4SWVUYzFVSndFMg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T15:55:17Z",
+    "hash": "6c2822d75cb09559e102fff55541a37b739ce3e395b58827b86649fcfe7fe706",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "After XRP’s $2.20 Pause, Investors Compare Ripple vs This New Crypto Coin for 2025 Growth - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMy1Ta2dOQUgtdXZmX0RYaktVekstNWdHYVNEYi1tMU1hbDFWR0hGUjNtdkJDOHZTYjhmSlp0RlNEbF9Dam91SDB6VWxldDJXbEIzSk1PZ0wzZ2U5S01IVmpmX3Bnc1BYbHRJUUVpX25KUlhaRDRteWVXaU5ZUFlYM21mTlFKOUJucndGcmxPdE5lYTZneVpEWjRhczFOYUJ2ekY0ZHBzZnhwaTdIeGRxX0NXUUExZHRBN0FZc3pSQlhlc1R4cGhKTDBpdkc5T0pydVFzcC1EOFhfT0NwRUJkczhiY28xNU1DVGttcjM4SWVUYzFVSndFMg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T15:55:17Z",
+    "hash": "6c2822d75cb09559e102fff55541a37b739ce3e395b58827b86649fcfe7fe706",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase to Offer New Crypto Tokens to Traders Ahead of Listing - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeFRWV1V0RmYtcWhyNkwwcUlrQzdPV3A5LXp5VUtQQ3Vrd1JmcnI3ZHdTV2JsZHROaGZEcUliWlJ5TTA4YjRQODFXT3JIS1VRT0FycjZ6c3habEwwSXBEMjI5d0twbF9vV1QyZGJlSUZGS3BfVzFoRXBBb3lVRnZBaUI4TTFnd1V2RjB4b3pWV3VmTmtCVW1JYmxEeXdtTFNmTjhOSVY1b295ajlFNHdEUlNJM3JuekJaSGQya2ZIVExIMjJXbks3aFB2U1pLTFA1UUpnc2d3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T15:52:28Z",
+    "hash": "7e593c8cdac8045ed6f722d1d760d6cbf4ef08530bbd785b6208eb5df3084989",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Large cryptocurrencies mixed as XRP increases - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcGN1aTdOSDR5N0FXUEhQZ3pIT2s3a0lSNG5Rc182X3NISW1rN0FJaS16YUhkeTZKeWZKNGlJNTU2cnlFQng4empBOS1LTjFvc2pxd3J4NDdFVC0tX1NPMVNQbnpsdkRZREx2V3M3OVNqMHBTM2dETVZCdVBxbFJCbG5GeGFPQWg4c0ZFQjBudE9lZ3lkd2FhcllGbVZNemUxOUFwT2gyNkxXQTJxdlVRODFtc041UXpjVFJGSHBmY0U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T15:52:00Z",
+    "hash": "1794bd42b4c529a5a5e762544c58801524455ce2ee85c576224d1b5c364211b1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Stock: Wall Street Analysts See Major Upside Despite China Concerns - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWNlcW55dGhBcnYzV3BXRjkydlhtZTdmWTFfX3NSZHpjWWFtTmdIM2Y5MTBFNmNJY2MtRmdjSzNoTFJBRE1iVW9DNTlGSFpuN3dVdDhtX3VBOXYxbTNtR1JLNV9jSmVNZlE4WXV2bncyOGZXVHlJaGFKRWJ4MEp2b2w5eUw3NjVjZ1BRT0JxNmk3Ykw2b3B2QUx2WjFVcG5NRmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T15:50:47Z",
+    "hash": "e2a4b7b5bf87b4f688e260c139453311c5a2451022879b4894a2d14481aabae9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Metsera (MTSR) Shares Nosedive After Pfizer Clinches Weight-Loss Biotech Deal - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEo0cGFzVXgwX2MwNm1YVUVMUExzUXFsU0JYMkxwdzVETDFyQWotNE5EWWhGSlFlT0xOSXdzeVdsVzFXMjgyRTVRMmJtZE1VMnNDRDIyOUllZHo5ODdPejdmeEUtTmk2Vm5QMkRCdERlZW9EQ1pITHFOc2dDX1pZTWdCV21Sc3Yt?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T15:49:25Z",
+    "hash": "1249fd6b81f8355cd3bca126ef73b38829a7061cb64cbaa66acc88be48b98c2e",
     "source": "gnews"
   }
 ]
