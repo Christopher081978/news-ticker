@@ -1,42 +1,102 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price Prediction: Bitcoin Holds Above $105K as EMA-50 Breakout and M2 Decoupling Fuel Rally Toward $115K - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFNlY09QV1B2NGJUMm83WHIyazI5V2dZMGZ6UnJELThvdUN3V2ViVllFNWUzUklvX2NMWnVCUjFYUksxY04wdDlaQllzd0NMa3Y3XzJVMDUwdmtGQk5WQ0JIZ2VRR3BhWHF4QjI3dXlHbDdheDJKTzh0SFBXUWNhLVNBMF9KU2NZZ0VIejREb2VxdFMweXpnLTNtT0lna2dsX3kwU1Z6bjhsd01pY2M4dEpZOXl5a290WTFZb3dnRWpnQ1FNU0ZWR040cDVCOGU4V1JLOF9ySjFFandUTldCdg?oc=5",
+    "asset": "Solana",
+    "query": "SOL-USD",
+    "title": "Solana Price Forecast - SOL-USD Climbs to $169 as ETF Inflows and $175–$200 Breakout Zone - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQVg3LVM5MGFLS1B4VFlwV0lRT1VWTXlWVW9qd2QxWnY5Zm90THM0bTBfUEYza0tadWU2cHFUOElOMllKY3pjcUNQbkNTcUJrNnJaREFTRC1EVG5UVEh4bzBOTDFPS0c0bUtzd1ZQN0ZDdTEwVUtzZ3JoMkpnQTBXUTZqMms4Sm00dGZOVGZmSE9LZ3JQSHcxemxDTXFQREJVdTRLS1FGWERlbGxPUU9reWRJTThUbnlNdWVYN25KLTU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-10T20:44:21Z",
-    "hash": "e2c2452da461ca9689ab85f0efe488ca3682da67500b4427302baf52878d1e3e",
+    "published_at_utc": "2025-11-10T21:24:25Z",
+    "hash": "fa817cdf18c62300d6bf714ac7877103ad8435d8955289f92b2ab666863c09cf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Ehrsam Frederick Ernest III sells Coinbase (COIN) stock worth $91.6m - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczBiUHlyR3VZN0JwWUEtYjM4aEx0LWZ1b1QzVGxINUJtbnFxX2tGajdzYWo1NFpOandGZVFoc01teUdhb0R1NzVhTEtKY1JCZ1JaS1AyclduaFBJaDlIYV9fVnY4d3lOY3J0V0liWnE5SE1hQ05ha0J0RHR4WHVrbXIyenNQcDhKaG9tSVg0NWhTYnJsZm8wU3YtZENsMnFFLWxtUktuT2hMM3IwQVd1NWRJYy1zT2hVbXNxeG9NR0VYTGJsSU1UWg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T21:21:31Z",
+    "hash": "6c02f55a688001ba0a2f02d9f26e522c2c1ce2cf1b41a04a573958832ab09b03",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Has a ‘Secret Weapon’ That Could Make GOOGL Stock One of the Best AI Buys for 2026 - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUkZQWnVKT00yR25SNmdCS2stX3AtNmNwTTRBRnZzakdyQmg2VHV3MFFuQlJnVW5OaUE3TGhjY09ZX2Vqa0lWY1ZqUUVLT0xtUVFfZTZyRmFtYUJGbEFBOENYTTZmLURoUk11bjY4c2VVM2tLUDRDdGZNbXgtMXd6VFNCdVR5bnFnRERGZjdNajgwcVZhQ1pIN2x3TUNDclZHdEJ4ZTlVbFdUYzJMVjJtcFBWZVVtdk5xam1YYk93bV81X2NxRmZ5XzFGYUc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T21:18:33Z",
+    "hash": "7403a07fb31fd10e29ec803765cb0321610ec666a5f724eb6bd7cec452910d27",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Earnings Flash (RKLB) Rocket Lab Corporation Reports Q3 Revenue $155.1M, vs. FactSet Est of $151.8M - MarketScreener",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU2hBZ2NZUXdBSkxaSUN4RnZKMm5va3BKYVljRU45ZWhNOGxsM2tSNTk4cGJKaGJMdmx5SzFLN211dlg3SzBVXzA3MXktMWctUDAwcGpLeVVrS2FjQnJ0NVpKdy1lSTg3SHBTSUkxVXRrZktjcF9XSFJ6WU5jQUwySFJvSGYwTDI4elBGRUVTY3ZFWUVnOVdBaWktVGJJTS1yNGVTcVIya1RpUnhKM0NLdTZKTzhwYVhHSDlOWDN4eEZ0Z0JRRWZmei14V3hwSU1rLWEtTkswQldVZFQzWXJj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T21:17:48Z",
+    "hash": "75f1de994d7a398c3e9daf3b39268a78048306a4dd153e6a6e4caaa5e7f872a7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "(RKLB) Rocket Lab Corporation Expects Q4 Revenue Range $170.0M - $180.0M - MarketScreener",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZk9PWlY2WXIzYW5BUWJIem1TdGtrd3lRRGFqUWJzZ1AzV2VqMWVFSGJxUnpmdk1vRUFMem12aTRiOGpZZzVqOTgyazVtYm9DMVdQa3FHcnZJOERmOUpURUxCdHI5STA4eThnbTl2bVZuMWp1MXFnU3BMb1MzMGZwcmZkSzVaZ1hka1RyaDlPRE9USUlpU09yUzR0TXVuaGZpblY1SHdrQUoxYWp6S1pLanhKVXJkY2NHX093?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T21:17:36Z",
+    "hash": "2ec2974fe6656c76f437b0eeb97261cb5fa15e3f4de8b12cfd87ef582fc6936b",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "BC DEFI Highlights Its AI and Blockchain Platform Amid Anticipated XRP ETF Launch - PR.com",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90YkNzczZ4UjE5cHNBMzA4ZG9sRGJIYXpvSTJCVjlFVXpXOUhHOG5CTnRsLXR1NGZRUWgwa2JVRGprcWhCOXhNR2JLY2Y5M1l1?oc=5",
+    "title": "Why XRP Is Going Up: Price Soars 10% as Senate Deal to End Shutdown Spurs Optimism - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXVidmRrejNZSUUwMXB2b2EtOTMyeFlBbUtyakpaZExaV2dwZERVU0FYV2U1TWk5RWdMY1JjMkRiUU1kVlI2anRxLWptYUtnMUZDVlBabWIwc1NmeGNWUlNBLXU2ZTM4U2hZWDRwLWZRdktaMUlNNlV6NlBVbUhRcVBHcUljUmVSbDJ3enJFN3ZZcUVRUFZXMWdoRXR0NmVaaFdtbTJuQXhVZnA2eXQ2czJsYkpHTmRvSTlxSHYtSdIBxAFBVV95cUxQWDlkRlBNZlB1SFFpVzNEN3Y5Yy1RM01ZWFpHZzJHckREZGZmMnBzTlUtQk1YaHg0QlppZ0t1OUotRW1oNTlrMmhwRkVMTk9Oa1didWNqOXVUaktDa19KclF5RklxWXV4SHRlaktLdjA3WnFHWHRjRjhjSEVKUmE0TGJqZGRLN2xOb0VDVDFxY2RjaHpxMGRQTXF1RmFLVUF1X2Y1a001bkZXYlluWE9nRnFaM2F1YWExakZNMm5WV0U1Ny1x?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-10T20:38:22Z",
-    "hash": "08f9044baf2ef80d346c7741752974ddc76e289ff4ca0c5c71e81fcaf4251c29",
+    "published_at_utc": "2025-11-10T21:16:54Z",
+    "hash": "fe7519fa2900e95368baa83a8ccec325ebdf4cb96bf49f46e2f44cfe45aa5370",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, Ethereum, Dogecoin Steady As XRP Surges Amid Government Shutdown Vote - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY3l4ekhfYk5vd1N0bmdlWDROY01kNkpkVlVLalNEWVhqUlNLWk5GSkJTUjJjSndSV2YtX0hxN1FTTnM2Q0tUV1dxNUZDQmk2SFpCTWdpWEFORjVWY2lNeHpBQnRnY0xMQ0NEUW5mU3NQektDRUF0UFpuUlE3NjlPdmJhMm9wNl9CTGN4WTczeW5jcUxwa1dPd3BZLU1VVmg2T1RmLXMxVXZHaXEybTU4UExiQWR4bkhSU01sNmpMdk9ESnJ4d0cxQ2toMlpQeGZyTk5uTw?oc=5",
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab Announces Third Quarter 2025 Financial Results, - GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQQUJWZHlQbW9lSG5ORjFGdWx2b0t3cVkxcVFVbEhzZTBCemwtU2xPNzJCZEZzdV93Zm1PdTQ4Y056aXBkRURJeFVKd0o3MTFmbVIyUENCMzMwcWZVTEFrcTRPcmFVSlF6a2xJdlFnZTZ1T2NwVUV6SVBBbEp0anF3N3l0LUxXRU1LOU1pUmNQTWZ1b04xZnlfdlpJSExGeDFEU0ROLUpJMUFYanZ5RnQta3Y4MHdaOEU2a1YzMEpETElENHpiM1hBSV9CTW1paWk1N01ESjJTZFBQck8zZTcwdWc5MjZyRjJ4emxNbDJhVlJfTGpfR3gxV29DbDZOVmF0UnRjV1NvZnpyNVYzTHpnb2todko5VldoQnFSenExVWhqNGtvdVFwNjB6b01DekJWcERmQWZkOHRyTmpxeFFYb0RxZGNibkVsdHFr?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-10T20:37:13Z",
-    "hash": "d80e6f8ea9a57b93296be8510bb878891a653663021cf8d7a1f4cce4afc05776",
+    "published_at_utc": "2025-11-10T21:15:00Z",
+    "hash": "44f3b38b6410ee7128f54f89360cfb6a9bc3ef694fd333ca5e3cac54286e7387",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: SOL Eyes $200 Rebound as ETF Inflows Spark Fresh Institutional Momentum - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRm5vak95akp5T2tBcEtmUG42YWNrcTFIb1BUeWsyeEtpT1JLUklOX2NtOVkxbi1RUEJIYlJ1MUQxRzR5VkNDdmxxV25BLWowb1pDb29DNmxUMlljV3pxX3dFMmZSSVN5cmRrc3lKR0xoM1FDbHIzNWJINFVINW1vZU9HTEJZQUV3Z25ybnh4cFNJZ2JDenNHVzlKNW9fVU44VmJtR2xnczVyNmNwZFFJMGRGcW1ja1M3VjBvdlZQOE5ZZTdEOWFn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T21:02:01Z",
+    "hash": "171e0c83ef0110e61bcfb65e95f420cd74b150c462ff0f4f4f71be8759c56546",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Bitcoin, Ethereum, Dogecoin Steady As XRP Surges Amid Government Shutdown Vote - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY3l4ekhfYk5vd1N0bmdlWDROY01kNkpkVlVLalNEWVhqUlNLWk5GSkJTUjJjSndSV2YtX0hxN1FTTnM2Q0tUV1dxNUZDQmk2SFpCTWdpWEFORjVWY2lNeHpBQnRnY0xMQ0NEUW5mU3NQektDRUF0UFpuUlE3NjlPdmJhMm9wNl9CTGN4WTczeW5jcUxwa1dPd3BZLU1VVmg2T1RmLXMxVXZHaXEybTU4UExiQWR4bkhSU01sNmpMdk9ESnJ4d0cxQ2toMlpQeGZyTk5uTw?oc=5",
+    "title": "Ethereum Trading Volume On Binance Surpasses $6 Trillion: A Speculative Frenzy Unfolds - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUy1MX21xb1dmZHpneVk1OVpwQWpTMDU5M1VoT3lDakNaYVk4bERSMnpwc2liY2MwUzdUMGEwSDF5c0U5M3lPdE81TFIwMzNRUlNDTVN6S2dlUHJNV1dOTnpqaWJrU0VXOTJkb3JjNHkySUc5blQ5SEE2ejlOU3RFLVlUYTRuTHJ4b0FfUDVPcW9MTHYtdE9FUEZmMEY2clNzdGdIeEZVaTBiVWFZRU10ZlZRc2Z4V1lkQkNJdU5VcUhPVERDVG8tRGFIRGwtbDJjd21DQTdTbUVhdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-10T20:37:13Z",
-    "hash": "d80e6f8ea9a57b93296be8510bb878891a653663021cf8d7a1f4cce4afc05776",
+    "published_at_utc": "2025-11-10T21:00:54Z",
+    "hash": "f80b94e2adf86309eda0549eebdff5f321f3f967011fc14c685d5111e3fb29ad",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Wall Street ends sharply higher; Nvidia and Palantir lead AI surge - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbmQ4bEd2MTF3Y1hFQ2lWcmYyNGZJY3Jzai1ycElTcUFpUFBLbzNFdGs0UVY4UjhnVTNMcUVYV3VXcWRCc1lsRjlneXY0dnFVRU5NMjFqVjZRc1g5OXhtN2JOUXQ4Vnh4V3lPR000dFdtSTVvXzdyTTdZdVliaWZIdkt3OHV4d0cwLWFiN2lkMGVYNF8yQ1ZQclRuZ1o?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-10T21:00:40Z",
+    "hash": "48ad88d2854ddb1b77d55de85a6569077088b7665710422b2c0074273895b6d4",
     "source": "gnews"
   }
 ]
