@@ -1,32 +1,62 @@
 [
   {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Can Unilever shares break their 5-year curse? - Fool UK",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVBtOW4xbHdRWUtjbGFCajA2R3NkX19HbVdyRjQzUXdNdllieFhGOERiYVRpREJJaXhOYTZ0SjRaUDhuTkxTeUFHcUtjLWMwWGRtQ184R1lPS1ZJYmtSRUNmdUlwTE5FdW1VM0xWUHo0T1RLcWlRQmxjWDQzNzRBUXQxdFg2UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-11T06:39:00Z",
+    "hash": "daca4ea29a1b7fbb18b415247f7ea68122e29600c9496bf3114622d95d4f7096",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "+++ Geschäftszahlen +++: K+S überrascht mit Gewinnsprung",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-ks-ueberrascht-mit-gewinnsprung/24098412.html",
+    "summary": "Tag Immobilien hebt Gewinnziel an +++ KI-Cloudfirma CoreWeave verdreifacht Umsatz nahezu +++ Stahlkonzern Salzgitter vorsichtiger bei Prognose +++ Der Newsblog.",
+    "published_at_utc": "2025-11-11T06:30:24Z",
+    "hash": "954c8e41cc421120ef24514d5fe7c1b1c734aa58f63cd0b0a2504305a8120729",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Dow Jones Index and Nasdaq: NVDA Stock Shine Bright as Optimism Returns on Shutdown End - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTElvUnBYREZOQkFTNnItZ20tR3dHcWxYbmVJNmlwc0FKSTltQk1lU2FvdUxfaWpPNG8xOUN3VFVBN1ZvMHFqT04yMVNfMXFwZF9SMEJtREpZOXd2NE9TeG5kZDR0Z0VsSU1OZGM1WXlvNjZodDBnbktzQVlvNHhYM1BiT01aUEJYaUQtc0FzYlMtbTZfbFZ4bnlfd0hsalpSUWhHclZHdjJjX0Y5ZkM4dGNhV3hjMlZXNGZJa1pyYU93S0tBM09YXw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-11T06:28:32Z",
+    "hash": "433558c8d132ed02a7ac3b99d8bbf662e38424f15e8d33348bcba1f183449b5f",
+    "source": "gnews"
+  },
+  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple (XRP) $3 Price Prediction Gains Attention, but Mutuum Finance (MUTM) Remains the Top Crypto to Watch This Week - MSN",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOU1l2bDRkZUpzeGFwV2ZteUNqYkRhdmhGVEpHUS13dlpuRUdNUGRWdjRIQnZnRWNZcThHNVlpWUlHV3NZR1NWTmk0Q0Z2Y0NrMHE2d2QyM1BYSkRfZjhjc2NucHVZdllDb3FKV2lnSTc4N0Uwd2xrN3BWdTM4eHp4WDBvS28yZE5KWWF3aXZGcUxTemdId0VhbFotRUpkT2U2VDlTWGFKZE1ra2VhZGVWX05uWGxmX0ZSZlI0VUJmNEJfbTVYUWNCbVY0bE5QcW5fMmZhZVMzZlRrYVFGRkhqWlR4bWFFbGJSQk92VWRTSE95UDRQNEw3MDVmcGhMMGNtMEd1WVpTbUtnYlZyUmVpQUNMcGs1c2ZFa3kxaA?oc=5",
+    "title": "XRP Price Prediction: Ripple Labs’ $500M Funding Boost and Mastercard Partnership Could Spark a 1500% Rally - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0JPYTdBYXFDWFBleHBCUVc2cFo5V0JKSl9rdGx3Tm00N0RuUXh3UFpTT21sb2VoRWtwVXhOWFlJaTYxMzd3cGtwbnh6U0kxRk9iUnRkWjBoWFB0OERtOXJoR01QZndUakFuU01UeW9rUjNPWUdadVRLSjNFc1dRUFVEaVgtajVPUEhSdG1GRHNuTTFVUHRrT2puYzA5ZEo1UmJITkRIZmVRSWxxbC0xVTdPMA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-11T05:41:15Z",
-    "hash": "0bf1d85f14fe0f9b3e68a799703387311e8eae8b88226e98074a8a4e472c9d60",
+    "published_at_utc": "2025-11-11T06:26:00Z",
+    "hash": "28a8c05d02d08583c60bb8d1abb6ee15afcc18b3a03579d7ae940f29fcf3a07e",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "BTC News: Michael Saylor Buys 487 Bitcoin as Crypto Market Shows Rebound - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRWtSc0R0dTZxQW9fOHRTODJaQS1ndU4zQUpld3hEWGRNWVhlVXMzOHBHYXAyMmxabjViSjVZQ2w4U0ZLem9ROWM4U3NLYmN6UWlxU2s1SmtUTkV2T1JFejJURGVLck5kN0ZkYmhjTlpXaUZodlNuY3V3QkRXNWFiOEwzZ3pCOFkxUk9CSmJWcE9MSUlDRC1pbHljZS1mMnI5Y1czOWRPSQ?oc=5",
+    "title": "Bitcoin (BTC) News: The $588B Range - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM1Y0VFhXRnZXYkloTGc1NExUZ1QwaVNrQ1hCVGd0M1FiMXBqd2FiZVIwV25lbl8tQWMwVXYwSFRpcklHWkNqanE2bGJkc0ljd0EzMUNHYmdGd2x3cXJoRHF3X09lODJrYS12TWFGQlQyclJYVFlYaVF6YlNVQmdVanNvam5qaXd6SXZZcGcycnoxVFBjNktDenVralBzVEloXzlWWnUwOUpkNjVpQUE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-11T05:40:59Z",
-    "hash": "2a431c8f8aa2a09ab96caeb8f570697fcb2c6d1baab7c230015bd1466a14c596",
+    "published_at_utc": "2025-11-11T06:14:33Z",
+    "hash": "ab91b586e6653c5b38f2b282d786d52aa60fd50d948d348c7f7fcf7c447b19ee",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: Analysts Predict Bold Move—Can XRP Price Realistically Reach $20 by January 2026? - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUVNZdGlwdElaN0pZZENLakJhcllTUkgzMkI3bnNBMGM2OHF2ck5vWUNoQUJOUG5DQTAxN0NVa05hVk5LRk83RWlEeF9yZGRVWDlyNGxLdkdTZ1lHNjJ4U1RyTDRGcGVBYm05WkZZc3QwM3BOcVN5d204M1BtUXB3UnlNbFBnTC1iWURRN0twcDhTZUlLOF9wLTVIeDBuOG1veGRYV1ZsTWFtWHhLQXZiVlBpSW1rMGhKZHh0eHJ5ZUtkV3l6Mzdv?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Shares Pop After Stepping Back From Metsera Chase - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3htQTNYY2lPS08wRG1vSGZwelZsTndDWkxTdjFYOUZCUXNPQXB3MXFJb2VTNEZOSHRtXzEyMWpqR0VHeG0xTHl2b2RUR0RyWFVlYVRFa0ZuYm5sZG9IRjhOemFvXzh2OXBaZGxHbDdTRG9YVEJFVENIdzdTRGxZbGliWTQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-11T05:38:07Z",
-    "hash": "dda3f40a86bbc80fc7510f3af9919b543c166a83bb9e6b0e2dd5c5793013f306",
+    "published_at_utc": "2025-11-11T06:02:00Z",
+    "hash": "369cb093cd9176a71c49741c0877981a6612b3eb59367d045b9b824594cb2515",
     "source": "gnews"
   }
 ]
