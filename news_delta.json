@@ -1,12 +1,322 @@
 [
   {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Walks Away From $2B BVNK Deal - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZaU14N2tadXV1bmF0LVRVa0R0MWZxTkdfVlJfemZSaWpDYjVkTzh0N1NPUEU0YWR4N0lELTY4UjZYYm80ckh3V214cFZsc0pENklKUHhnZ01sSEtNZldVdkI4OFVuVGRjNnhMU3Q0bDFhbTY4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:34:15Z",
+    "hash": "5f271b4aa18ac43ce5ec585812cf6bd3116d576b00a194991907d5a0aca2c6dc",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Allworth Financial LP Boosts Stock Position in CrowdStrike $CRWD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGhHSzBmOFVienphaE5yYlp5VTlkS09JUEp0Z3o3djBlc3JPSkZKSVY0bWpvYXFYWmlMVC1KVFJkdEpYYnhWMHRKRmxwY3Y0Wmk5NTNESS0yZ1EwdE40VzBKNEl1emJtMm1ISlZLQ09ocjVRUXE3N19TMjVTdzR1Q1V0bW5xRXBHZkJabnhFRzBDeW9DZC11am8zbkx1NktCb0pzcHdtYlhzYjFrc0gwVVY4bjhCSk9rNmo5WlZYc1lTZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:33:30Z",
+    "hash": "d7efe178a7ffaa00d4aeb77d9f86fee294537aca7a880c1ad63efd4e6fd66f06",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Andar Capital Management HK Ltd Has $2.72 Million Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdHRQblBvMExpd01vUDc0enlSWnhsVXN5czFsc2lhVGFfS0hEOXpJQURUbzlRcVFmMUN0N2dhTENKUDBGajUwTUxhMXJkNXZWQm41RE9BTkRva1RvYmYyTDRJOXdQYXV1UkFMZVN0bThkY3M1di1pVHEtaVA2SXRwQ1FQWWNWYVpTS2JaVXk4Rk5qbGMtYjRaYWtNT3pXSlN6QVhyQW1MRHlHb1Nub1c3U3o2dHlrcFlVWDQzM1hYeUhUTjhXbmQwTVF0aDlxLXpxb3dpQVhFdU1MNjU5S1pYUFNoczFkMmg1S2ZBLS1RalZ0THJmakJJY0YyTm5JQW9WTXpTc0NRcm4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:33:30Z",
+    "hash": "d47cb43a4d22f077ce63d6f4d2353210796dfcd753dc6a1239b0cb32566484f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk lowers Wegovy price in India - medwatch.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hOEpWNWJYMkRzZGJNMVJOX0pQQkw0YW5ERktNQ2UydTlvVjdRTjZNcWxFMFk2a2h0ZnY0UkRZUGs5WTJpb2dvUnd0akxwRzNiY29ra2VEc041UWszcXhTWE94dG4yTGh1QkxDYUE4RQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:31:15Z",
+    "hash": "13e659b4abea3334d9b3e37aaf8a5908180dfd86e38dd7c184fc0e92b8a7ca8b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Air Liquide",
+    "query": "Air Liquide",
+    "title": "CSCS, Air Liquide Deplete Unlisted Securities Exchange by 0.25% | - Business Post Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdW9ZUGdrZWNXd1RtdjhMSDZObEZHNmplSzI0WmxWRDVhaG5VQzAwb09lWGhLMjh5N2wyVk51U0JJTzdPcFJFNVktdjZsWUFsZmNFeHRSNlVvdlEyTHJhS0J0RE1ZSTlWbFlsUGxJeVVjOGxDSFFGaW0zSjVpYUJOczZ5R3Z3SVJLVWVHM3JuVFNaeFlJRUNpZG1B?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:30:47Z",
+    "hash": "c6a40cbe2d735c4fe211150d141249351d6afaf785fb1d5e44b3214dfdd62720",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "3,213 Shares in NVIDIA Corporation $NVDA Purchased by Albert D Mason Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWZQS05qb3JIVkFsMkcxZVQyZDhPdzM2UDIwdzhOcUJUSklVSGVrY29sOG1fUHNwQ2k3eFctX0lyeVVMdGd2bUhHQ25WeDJnS1QwRVJyYUJiNW9aYVo5S0xhZGhud2FHSEM4d0pyY0RLMmZLeGVjU3Ytb21BV0NXYzdZbkxZaFZobURlSTNwcjRDdFBpejVQNGVUTHVzWHhIV1J2NkZsRDZHdmQzNGhfWkQtNEZCLVoxSGR3WnNWSm9FNEFyRG5rakR3bw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:27:48Z",
+    "hash": "f1042598f5491453489b5af413a1da7a758a315a786374926e328a29f48481a6",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Allworth Financial LP Purchases 1,795 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTFZiOWJGNm5qSk9Dc2tIWkhFZmN0cFd3UFpITUkxbDdoOHBBLTVHYXlDSVlkaHp1MWRrU0w5TjdYT0lyWGJBVl9vS0drNFpXSi1mQ1RNelNWeUFYa09nU0RHOVVTXzI0UmltblBKVk1nWWlYVmo4dTltUWRUZG5KeUlZRkw5OXRHVE9ZbmdoQ0MxaHJuNkVTa1d4QTZuUDhwSmgta1Zqa1ZoeHpBd1M1c3lvZDFWTEwyUFZKTlFscGRvekRBY05sWTd3Zll1Yi1QSC0yQ010MmFNRVhKRXhtNDJQdU1lMmd0SXJEZGFUbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:27:46Z",
+    "hash": "97ec46944759ff400a611069f1b58b11e357527dbed0559535a737d90fa53584",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood's Remarkable Growth: It's Not Too Late For Investors (NASDAQ:HOOD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnZzaVJBV21STGtaZ25maVNqai1jTEQwSE1GX1RUYnNpX0MzLWsyMnM0ODd4b0syb1RQOF9wZFNfUEZ1VndPeWhKaUhqc2x3U2hqSU1NblM0YUphaTVrUEZVY0NzV3dodHU5VHRrdUlBVndIczY5VHAwTTU5SjNmRDdOZ1doY0M3aHNLNW9scDFwVGVCMVVQbWc5WQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:26:52Z",
+    "hash": "29b84ea9db07ce1bcb5fd8e4327210ab56c9d36c2da7158c4c9fba9d74b774fe",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Which Is the Best Coin to Invest In Right Now – Blazpay’s Phase 3 AI Crypto Coins or Polkadot’s Long-Term Recovery? - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcVUzWnRibXJCdDBwVlYzQnhwRnpkYmNiSzVSQ1ljRjVlcnBXS0F0SHI1S3A3VHlsc1NSMk02M1Yxbnl6WktMOXFuSl9WcklpY1BhbVlTLXhYRXp6SHItX0ZER1FyTzRoaUc5Wm1LazFiaG5aTGg3Q2YxVVY4YnJwRkdHR050TmwwbGR4dlRaejJGamVDYTgwdnRDWmh1eFlLQjQzcU1jaGxacGcwZ0g2dHJYSXZJTFdhcnMtR1MwNDV5aUpXTjd4aGNGUEdZQ0VEQWVJNEFDczFoSms?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:26:47Z",
+    "hash": "b7e10ab21b936da7869a48458664484e445a7a47ed01dab01d0c9173083bd2c3",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Advyzon Investment Management LLC Acquires 533 Shares of CrowdStrike $CRWD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSWJsbGZPUGR4Y29WempSRlNLZUhYNkQ4V0hRd196LVpON3YydWc2eXFmcUxIS0cya2oydXduY1hMd05tZW9pMlpuM1pfclgxZlJReC1nVDVCOFUxWHNRWGdPZXFKWVZyVkVVMUlFSWp1cXRXR0hzWDVkalJ0QllvQ3EtTW9adUdrb3VRMW84Slk0b0pzNkxRSnBYU2dYdXVsRERpQVcyeVNCSlVjTjZMMmpvdGJRbU1sSHBtREhPTWtmMzJ5Q29sMTdKQ0p5UVU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:25:40Z",
+    "hash": "a51580335aa33709d293ba23ce3bd779a5bde78c0d6bc0cc5ef2f21e67524395",
+    "source": "gnews"
+  },
+  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Bitcoin ETFs See Modest Inflows as Solana Stays Hot - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkJ4YU9ocEk2cVpIZlBjU3FrSnF1R3RVU3FFSHFIVllIeFhyTHFIZDgtWFg1d2V0UnRkTFJJbnFZY1Z6MlU2R2stZ0ZrcG5HYWd3SmJqc3ppMjJXdjRCdzR1cFFpZndhSHQ2cjNvZlNfOWUwX3RvenBIMWZRQ0ttNVBDRQ?oc=5",
+    "title": "Solana ETFs Attract Over $350 Million in 11 Days - ForkLog",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5UURaTGowQk5INzVGMHFUVDdLeFpDUWpNU1BnQ1hoWmRPWk54OVdxY1hXMUI3dWhjRGFXMTgwWExvc0VHRFZPQlRybEtnM21KOTIyUFJFdG1FRnp5cEpkU2NFS3A0RGZrWU1OUEFzdGpaZXd0OHh6VHJZONIBgAFBVV95cUxQeUhDY2FRMkpJcEptRW5FSXQ0dWNVSXd4SmFnVmpQeFpGOE9ZeEprVkZiT3hOajAxZktvdkRfZHdFV0hFcXpZaTNpdXlfSWpabnpJNG9xT3p1a0daV0VsVlo4Q2xRMThuX3VJLUVNUU4xek9jaG1CX19lbzdQLTk5Yw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-12T07:31:14Z",
-    "hash": "58316d4d1a62fa56d612572eca6eb3d9da34cac3242f435a9d499ea2bf766d6c",
+    "published_at_utc": "2025-11-12T08:25:27Z",
+    "hash": "9c7879061e872e30e7189e5f1d6cd1e86033fedc5f9ed8f336578c9ee289827a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "How Solana’s Volatility Is Reshaping Payroll in Asia - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV0VmdXJKVE43dnpwV1ZURjR1NGYzOXRBU2RjS3plcVJCazloS0xUTWJyU0VZQm9iYnpBS1p1anpWY0FLQ1loamEyTnlzZS1HWFhWSUE0dEhlTVlfT2R2dEwyQUs4dmdGNjBOeFl1cmI3TFQwV1VacUZ0VGNNYnFHWVdR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:24:17Z",
+    "hash": "44fc37dd4bbaaee0794d3e07586b958b4f86dbf6b2f4b36daf002efa57cb30e8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Latest Trends and Insights on RKLb Stock - Info Petite Nation",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10aURtck4zaGgxT1J6VEtlSk1GZnlYT1ZGRGFqdm5vWHgzLXk0RElSalhIMHh6SlZUQWZmWEM1cHhKQnlDZjNaSFViYkE0N1pFdTR2VGJqeXZNalNDbUNDbGRHbVdCSUw3SW5URVFJMjV3VlBsMGlLQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:21:40Z",
+    "hash": "c40af49aedac1331a4369645fd0568394fb2a9e1db1009042384307d90497a65",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Faces Existential Challenge Amid Regulatory and Operational Pressures - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT25CMmlWMkJMYjh0XzNKcU5DRG5WbHBqN2QzXzFsRXhqc3RXMzRjTmFXdGhtbm10S1Q3RG5tRnNfT2l4RzE0a0RCOHJVRUpIWEw4Q3NkTzc3VGlOVk5HRHlsNlBGRUNZRFNtRHl6UDRaNXBlcTFiUjVJaHlZZkxrcHcydXk4ZUE0SWRhT0toMDdoTFpPWXdfRjdJVTVKN1lTNTlSbE1qTHRjYmlSb19WX0RHcWJiZXB0aWxyMlFEUjhxM2MwTUwzZ3dHZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:21:04Z",
+    "hash": "0b30439865ef6b3e47d2d20783ba199d172f58ecb401cd30816a5015fe4834d1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA (NVDA) Expected to Announce Earnings on Wednesday - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmtkRlpQTEJKWEtWeDY5UE52bENGR2JYcnAwbm41ckd5NENOeDZPYjl3SGtrQ1pvWjJIY19OSDR5c2ZNVzhjS2RnVFBQUUM4akI4SkdaOFYydi1fTnRYazI3OUR5M011NWxOS1JiV3Z0bDVfelkyNi1HSWJqOF8yZ1NiVWUtQnJEdXd6cHRtNy1VQVZ2Q0lwNFhMemRJM3BsY3dnTTJyNlNuNk1C?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:17:39Z",
+    "hash": "3b7471af56f364eca1b13c7fcab779c8fe963904e29a6f8b03289ef076d42fef",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "Acadian Asset Management LLC Takes $12.28 Million Position in CrowdStrike $CRWD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjR3bTBCd3l6VURsb0VGQk8xWjhodzdMZlB3QlNoRlBScy1GTk5NTlFTMmh5Q1NFQVNuUEQyM00xeEZSd2NZdHNvaWtmRVV5LWNvdV9lZVU1b0V0QkMzMHZ0ajZlWVhtWlc1eGlkanJLME5OV050akpUb2Q5STJzcnpnNmswRENQeE9rcDRxeHFxVUdFZ3I4N0ZGMWVLelBzb0syY0QwLTZWQlBQNExfTnF5a3QxQXllU0pVcDZqbXF5bDlaNm9fdlRJT0hrM2hfclNn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:17:24Z",
+    "hash": "111e61792491545041eb7b37fcad3d77c47b5350b32f565805732c9cbcd13263",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Analysis Unveils Grim Crossroads Amid Market Flux - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNU1qNTg4S2l0TUl5R1FfdjZGRWJkRVRZNm5jc3I4Vk1sbkxIRmVpQThySnRZejM4LTRmUzJhSVZ2VnJWeFJVWVJXblpyOXQtMzVGR0ZUMTNzcV9xRWxpMGdGN1N4WVVkUzJ0ajNDSy12S2R3UVBIUTIyblNqR1p5NFVPakU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:16:13Z",
+    "hash": "3bb64831768e714de527f84650b24492c890c9c5e9dfac8a2135c7a64de6144f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "49 Wealth Management LLC Lowers Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFJGUEVfMW9lRTEzNkQ0S3RVLTc3S1lfLTlEODVxMU9uYkJoLWlFWjV6ejJteV9pd3J1R3pVUHRiM1pvd091cXlqYkhwRC0yOFVuV2FpMFVwd3l3ZVRORG9FTXNqNUdvMmV4UV9OMmtVY0lzSnJZZXBvQW5IVnNpOHNvM3lwazg3U2xVMHdzek5NUmlHeGVidHhqUXFxVGlUYUpiV1dDRFdCcm5TYjF3Z2J3WG1kdmpnNHg3RkczSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:15:27Z",
+    "hash": "6dca74829fc04bb21002146becb07125b4f9ab5bd6cc2c031830ae18d7018014",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Upexi Inc. (UPXI) Stock: Plunge as Solana Treasury Fuels Record $9.2M Revenue and $66.7M Profit Surge - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTIwWDRhbU1CYXdMb2NRYzExcTRTRmJxd3pQaFBqUm5lRnN4X2w5QUR2NDdTRlprRlByZmhGZk11aGhGMnFlMlhjSG92dkJaYmNtVE82MW5YQlR4OWlWX0liOWhxY1ktR21aMmVYX2xyNFE1RnVrbWZ4SG5JUGJMSzdHcXlmVC1ybkZIc2gyV2J4LTVKUjUtcV9tS2kycnYzQVpjNDRCaV9EeVlyV21YaGxUZUp2My1rQTV2dg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:14:33Z",
+    "hash": "21abf0f0386000b0a0b2e5844ef7f57585507199bd8957283b34de828a20ebfb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Coinbase (COIN) Stock: Exchange Ends $2 Billion BVNK Acquisition Talks - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSFJ2eVRQNldSYTF4WFZSZy1qam1WNlFCQzdKNkxsT1RXcFJUdjJCQW8tZ3MwOUtjcFRkdVp2NjJ0Y3U0SElPQ1BYY2ZZS1ZZNEZiYWxsX25VVmVfMUlHVEw4YmU2T0hKUndObkhGQ1BWT2owTmxjcGRxX3FBYmJLZGJNRHAxZy1xY1VRZTJJQmRWb3NMWlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:11:10Z",
+    "hash": "bc90a99dbe691423de0cd43076d5ecc7a0e8c573f60de511ba2903b589474f82",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "TotalEnergies to supply renewable power for Google data centers in Ohio (TTE:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVQybjNtdEdGeVhFUlJyaTlDUW95U0tXaDlPaW14b2dSeGkwOGl6RGRUaFlMSW41V3ZVamo2YnQwNGtUZ3ZyNEN5c21wR3p1dW5XdGRJVzdhcDk2b1pPeG52ZWFqaEsxSGFxNHlfQTBkcC1NOXdYMHZRaTM2RzJzeGlwamlMMXZXdTB6YWQ3eUJLeXRVVFdVdDcwa00wb3pMejFKbjZSX3IwTFVXcWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:09:10Z",
+    "hash": "3b6020bfe7fe3796aea23e48bd8c5eba69e5d8985bf5c5bedf7e74388592b229",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google pledges €5.5 Billion investment to boost AI in Germany - Lagos Television",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemlsTEhraWRHMm1saFZvR0NXa3hHeTlaWkxnaU5qXzdDUlplZmhkMFVFdndYcTFzY2lIX0tDWUpDOGhEQl9NNlVZTVEwMWFBcjBDVGVfRVd4MmxhMlU4TTdoNVJwUVdlZ28zaFU5S2w4b2ozel9nR2FsR2YyM09kSWUtVkNRSVNWYlg3SXNneHhTRTFqakxwc1E4d2dndzRNaEZN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:09:08Z",
+    "hash": "a592c7c1a914ff7aa6f5a33ccfc33d3bb642e171329598e7a40ab608084a08c0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto News Live: Blazpay, Cardano, and Avalanche Compete to Become the Next Big Crypto Coin of 2025 - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY2tySXM1XzFGZk1LTXAtcHZGbDUwbHp3clgwM3pxM3hPcmZyUUJDX2JMNDVDak9ReHlQVWlON2o0eUUyd3Y4U3g2bVZGaUxTWG5wY19UemJDMzJNWUI2Z2ZCV1ExbWRORDJjanppZFdFTnktNjVCbDN3SEZabllJazl6RmVsSzZlcEtuMGtKcWI2WjNxNGUzT3EwTXI3SGFqR3M3MzdaTVpNMDQyQ1NlQkgtUmVQX2l6OXRlaE51VmEtQmpzTFBsMEJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:08:19Z",
+    "hash": "3ef75ebc9a848f7fef506daaad365705186a01e6f761b3105b8760450062abb0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Business Launches in Singapore, Bringing USDC Payments, Crypto Tools to Startups - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNTR5Rk5aRW15N1psRk5yVm9iNmNpWDlwSTlZX1lkNFIzT0NzNG5sVVgwUVVEVUgtNzVoNVMtXzcxZ01oYWJ1b1RKWjdCZ0hVd0p1Znl4SGJranpDN1FtWmNtQ3N2ZUFCTmZGdkVJZTlaNk5WOTBBckkxU3ZfN2xhbjZ6cWhkSk9CVElXR0NGYk01WC1tc1dNc2Rnel80MWFlZ01pQTVMbUlFb0laQXdnSENjTVhlbVU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:07:21Z",
+    "hash": "179b08fe6fa4ed4fcc8d2ff7026e0e693798a28723033dbc408dd211bd7efce5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price: SOL ETFs Attract Millions While Bitcoin and Ethereum Face Major Outflows - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxLV1FKVVVteFE3cE1FNGRCMWxBOFE2bGVVZ2RMMm5tYzJTcGxRNVVPRWVMOFRKY2h1NV9LeUxiY2luT09nUXdoMkotVkl6LWhyX0h3Ym9HVWpFVEEtVEZpbWJxTEgybkZNUGZFbkQ3UXdMQ2RteFo4RGpDLWhCZmJTM2wxOUptam02MktISEhTVkd1alBKZTJ6djRHQmhEYm4wT3Q0eHhKMXdOTUow?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:06:05Z",
+    "hash": "1bc5669e0d44c5ee24e97499d93e3c5839069f2370fe23251098464360a81548",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google’s €5.5B Germany investment reshapes enterprise cloud and AI - Cloud Computing News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGw5X19qaUJDak9DbmNabzZZc0pZd2hHa2FYYlVvdW9VZUIwbkxoTV9rUk5WaWpyNi1fSmZBTkNuSjU0VllMdUM2VXY0cnZxQnQ0MWF3dDlhVlVvcG9HVmJ3N0FTOTM4ZFYwX3pKbnh0S0RqN0RKRHVROFpGTVdDVHp1dGY1Q0xjbU5KbHh6VVQzT0xlQ3NIdE44dGc0RFhRbDFWTE5BdFBjZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:02:30Z",
+    "hash": "cc3903bbeea34b09a6fd82c109eb1024401dafeb406f837977ae7bd5d758f6ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "London BTC Company Limited Expands Bitcoin Mining Operations Amidst Strategic Growth Plans - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUUZQQUNSaTJIbFJtaGkyenRBSVpvNUM5bW1MSklEMUQ2VHF0Wl9lS09ORnp1cENaM2NvUVN3dldMTUZyLUY5N2dVTkR0WkpIWnpqWUhOd2NlTllkaW44VlhMMWo4Vi1nRm9fQVlnRTBzcjN0RnZ5QTVsWVFFM2gtRjl6QjRtcHZyMjl0TzN3VDJCZ2NIblphcE0wLV9ndFVCUVdETnZzTmJ6d3FVSVMtMk1TME13TXZQX2pHclhpMFo0QjJKcER6RDVVNUJ6QzcwNjkyaUszWVdsQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:01:14Z",
+    "hash": "bcf93162104115ec05c1849786c60ca9a04104483c5c3e3d9586ea0a1401d2d2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Struggles at $156 as ETF Inflows Battle Macro Headwinds and Corporate Selloffs - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFNydWpfal95Wk9ic3d3MXZRUHlPRWI1QUpyTFlTWTBRZGNIemZINk1ZalpnR0FxX2x0SnczVGQ5OGtWRXdCWDRDak9ERlBmVXJ0M2V3aFFuRk5yTmc2SWtveE5ZTWtmajdGRG1GVE0xNlV5d1VhWEU0OGMycmRhbUFqR2dJVm9oYUhwVFNmRXp0dEtMSUdSbm1TaWhZRENRNWp1cDBuOEl0b2JqcjU4UlR3bmk5WnZUVEZFUEc2N1gwZDBFNXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T08:00:29Z",
+    "hash": "f853a12a4551339d7ce580355d308f12c0473a302e35171ea50fc427793c7955",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "$56M XRP Exodus from Bitget Sparks Bullish Buzz - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2QwWHk1RFZIM1FRQzJhZEk4WDZQVnNEN3RrUTdETmxYd3VveHJYSXlNejQ5X1pwQ1dubkdiTjRDdEQzWDdZQllYZlVkTlZ4RG5mTzJMTkJxZWxCQnM0TUFXcjdZcjZNaktwaGdjOG5CRGQtX0tNUHZXSU9kSGtFQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T07:54:07Z",
+    "hash": "db480ffde4f702c6079e6e3092a67d535aec56641c2d06c27f582ba91649304e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Market rebound continues despite Nvidia drop - Northwest Arkansas Democrat-Gazette",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3lpd19hOTRTU29FdzN1dEh6MUp1LV9oOXFWWHRpcG8yLXpYYk9GNjAxUjVlWGZLVGgwckRJODVNTzZSMks5ZEdfRElLRThNNGpXLTM3eUlNdUU3YkZjeFp2MkpvZlJ2MFRweUE5ZDlkZnJZX05fX3FvMFBsYVJMZk03dURIN05yLXB6QnFkM1lOOUZCanNrdkdXME1Edw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T07:53:00Z",
+    "hash": "5342e896e0f9c43f49ef270a2e9f966f879936f067f5aac730e9a29311590bd7",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price: Wall Street Access Arrives as First Spot ETF Launches This Week - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlZ4bGM4QVFDSlBNOHo4aGdtNy1mSVgwZXpUWmtSSjZOSWY5ejJmMnd1Y0N3QXJzQkM5NXRLdGg3Um5veEVOR3Vmb0huYkpUVk1zazlUTS03cDc0ZE03NXMtSmYyMkR6TFRxWmQ4QnZkdnJFUERKZ0x3M1V5RlpReDJtbVJuaTNRcjAwSHJnV0p5WGt3ZUd3dnVoT1I5eVU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T07:52:27Z",
+    "hash": "3d8f150f0e169abee968005097b236b31d540924f63e175fa14a3c8bd6031289",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens: Sold In February, I Argue Overvaluation Before Q4 2025 (OTCMKTS:SIEGY) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWl3X2pzMUJhT0xiYklWaW9ITXJ1OFFhUGVUTzhzRmYtOXUwXzlzTmQ0RkRxUVRlcnFpMl81OWFWc1VLUWM0MGgwS055MmE5dEVuc2FLVm5UeGdyTGl3d1ZlX2FraFNJOWNDNmx0MXhLR3hPYmdFa3lZVHMwc2czRGlHb2JpLTI5VkRhRExUN3JJYWx3elloYWhDMjJFRF9pWlU0TFhTNnhOTUU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-12T07:51:24Z",
+    "hash": "0c93a4aff3c2412018b3664bfff737f9bb572ce6a132efe939b39883dda21efa",
     "source": "gnews"
   }
 ]
