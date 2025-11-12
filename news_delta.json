@@ -1,112 +1,12 @@
 [
   {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever Executive Sells Shares in Significant Transaction - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnc4QUFNTGpualBneW9DU212RXE1YVhxQktkLTFQMFBZTGE5UHgxTU1YcTFLTXRsNUtqTmgzZ016WjdPZWtYYTlyQnJzdWNxMjNiaWNubG1xM1BSXzM4OS01QjVMeXRHVnRqVzhwUkUxaHk0SXYtRnlvYVpqQ0NLSTN0dHlOZDZCaFdjU0xXcWxyWEU2MF9uRFBnUktkZm1fV1g2anI4Xzd1SW1mM3Br?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin ETFs See Modest Inflows as Solana Stays Hot - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNkJ4YU9ocEk2cVpIZlBjU3FrSnF1R3RVU3FFSHFIVllIeFhyTHFIZDgtWFg1d2V0UnRkTFJJbnFZY1Z6MlU2R2stZ0ZrcG5HYWd3SmJqc3ppMjJXdjRCdzR1cFFpZndhSHQ2cjNvZlNfOWUwX3RvenBIMWZRQ0ttNVBDRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-12T07:25:47Z",
-    "hash": "6dfbbe9911a3e3310cdc6e2c48315f96b842d25ee79390afbe7340482060e56a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "SoftBank shares dive after Nvidia sale puts AI valuations in spotlight – business live - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeUlyVjAxY0pBWFd3c3dzandoSU01VHZlaXJYNk43dUFIaDRiM09GcjhqUHVvS21XYVMzMjd6N2JCR1dWdGtlZlM4ZVZtR0xoa2U4MWRDcHItOXFweTljczJUM0dncThjSTdEb1BrVk5HcjAxTzU3SnJjZkl5azkxaXJiclFzNmRNMmpkWGxyVXo4Uzl1VklyRWpSTV93QmZmSVotYzdJRWFLcV8zQm8tVWNGcmJSMU1lMVROTFQxa3o1YllXeW1VNkJlVlpjMnhrdXdzN2VWTUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T07:24:49Z",
-    "hash": "5f8102c9b4527b4d337e5196c78808d8a9cf6e789f82b4725da28d7e3781a719",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD Charts New Course Amid Domestic Pressures - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlpxWmxYdmgyNXRPaThjOGdqZVNqSWt2MzVmU29kUzh2QjhwajNYOTRQNklVd0ZWWkhDekRZbGpHNVhCVHM2WmJTMEhhVGZ1VGpXYTJ2WVFrcGR2NjBYb0h1bWlwNE0xam1seEM1UUVDRGszUThkTWk3QlN3d1hsMmdDY2U2Rk05OWlzM05PZENKNlN0TmJYQlBPMFU3NHFNdzYtU1RFNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T07:18:04Z",
-    "hash": "b8d279eb6fbaee1a09cfcefa3c39d7df1d98bc8e3ac168569ee7712e22dfaa49",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP ETF News: First U.S. Spot of Rpple Linked ETF Could Go Live on Thursday - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOU9KRkkzd0EwdExLa1YweXFBLWpWbzFWdWdjNy1SUWRRNTk3OHA0aFZVSmMzTS1mNzFLSnNTaTNDU3czZF9Uc0l3OUg4Z1pITkJVQWE0SDAtdHdvaGlpMk56cnRXdDh2S2Nac0lBaXJLNEs2OGpqdUhtclkyM2ZleHRJRnJzdTRJcm1IZ1RVU1N5cGxsYjFV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T07:11:31Z",
-    "hash": "d885a6a8cf7f1c668a82920e821046bb99e055ca664e8de0f29056855941d738",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets (NASDAQ:HOOD) Shares Acquired Rep. Jonathan L. Jackson - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnVRQjVYMVNYTHFFd1Z4VzJJckNNRHFEQWE4Z2lhaFQ1Zzc0aEJhOFNjZjE4bVp4SmF1aS1fczZ6YUw0d2lkbEI4ZkJaSERvNXJhNndfYVBBc0NaRjVKZDE4aGkyTm5TLUMzcl83X0s0TllQQV9rQllKZ05maWFuaktHZmpTcGtMbEpnUlFRREN5RE9LTi11ZmdWMjN3U0xSeHcwblNKaDRvYWV1dm5xcUpZRjZZcGRRY1V5eFlB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T07:09:15Z",
-    "hash": "7771c045369d66a55dd2cbc503c64a6011992ad50c43261ffb9fab465fc35ca2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "SoftBank shares slide as Nvidia stake sale highlights AI funding needs - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmFRTnFTSTVyTGl5YUZvMVhSQWZMNHZYckRSNVJFb3ZPQWJpRDZscUJfNllSOV93dmlyVC1fQzByWHFjT3VtZ0RxeV9YQzhHbDZMdG05eXdMWDFocnItc0JzTWdEcnR5NUs1N293dWoteW9tQlZkS1BKbXpFUk5teGRGU1RaQnMxSHIwVFNMcWdxYkY0ZnJCN3QtcmNka3ZDbmhrSXIzTDNWS29HdDEzUmZkck9wb1lxQ2ZyeEo1QXZnVVZ5?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T07:08:00Z",
-    "hash": "965df3cbcee98862369b77b26f7dc8ccadfe06d47c33337d7a33022310f3fa51",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD shifts growth focus overseas as capex slows sharply - digitimes",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmZUSzFTMEYtTktOYjU4RmoxeEZJNEgxQXRkLWYydjJpVWNUQ0w5TTByc2xtdGs3MFhjWUdSNkhUVm1yN29LNl96eUFmOFdZaU11U2FwMll3aWlOOHExWWYzaVh6M1MtbE1fXzRoVVVpUDYydUJZRndScTlTb3Q3TV96a3pNZExEODhaXzJxY21CRnZfOUtPeVY1Vk0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T07:06:23Z",
-    "hash": "cd4054ea0db3f146039df4f0eac6dab5dd1f4ce0a2b49375e6f29d2336643a2d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Analysts Offer Insights on Technology Companies: Nvidia (NVDA) and Grab (GRAB) - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVkgteDdQeDlOSVczYjRrNlRIM1RFT1dfeFZzQTNBWllMejlTdV9VMzMydE55VFdGM05fLW8tN2FfVUZoLUJkcHhnZDEwbGhNVHR0dExuMUw0aGVna3VvcUJpeG1SM0dVY2lKekRJWVcxMGgyNEFMUEVtbG0welRLV1ZPb2plOUw1V3ktNDBqaFVkbXdoNVNEeU9Db2dvOWpTX3B6UktPRjJiak9LRmsxc3ZoZGpjM2pvZUdiX1I5OUpBb2cyUEFVUFNSOUdfajczZ0psenpfOHhZZzNXR3NLby1IT0ljU2oxendUS211RElWWk0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T07:03:32Z",
-    "hash": "bcd5789f138b84b1a57f9fcf81b727e30d113dceca9409e29513fca2d5cdc277",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "China Oct EV battery installations: CATL holds 43.00% share, BYD 21.29% - CnEVPost",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvb29NMFlUQm1JQWNNV3ZVMnZodXJ0MmxvQjMzcXhsU0RkN1hsQmJ4aGYzX2oxSHBUeUM5cE16eUxEdy05VlJGZUdQMXpqeDJ3ZjhqcVJOSzhfVVdPdnItb1NOQTlGNmxIMXBoNkpUcjNKR05MZUdTbWN0ZGY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T06:56:00Z",
-    "hash": "3b27e94408029056cc70db9fe8f7a7b3883bc81df790f18d928cdb9c2ef49686",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price: Drops To $102K Support Despite $524M In ETF Inflows - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHQ5MWozMzAwc1BERXJNeDJlbDY1MWRhTlhaSTNtNnRPT0N6R2syWTlBMFRhNkhtLWVnbFRFVS1PaG84MDF2MmpyQmQyeGxzdW96MUZfemdSeE9DUWg4WWNWU1c3cjFJRF93a3ZmZ2JEQ191LWg1VXdiamtEUVJXcUtqTWc1Ry05cEt4RFVEQUUtdWxSeHRj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T06:52:38Z",
-    "hash": "ce575499cec3e1a75277ba4ae3b408c8ac806aed5c17941b48a117c4198b28f8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google accused in suit of using Gemini AI tool to snoop on users - report (GOOG:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVZtaU1UN0dWZU5Ud1UxZDRtY2NQSWhKckN0eEtBOVFUaDJzaFAxUDVVY2RuRVhjcGgycnhQZmNuZkRYbEFyWmdJQnJHX1VDLVdrOXpseHpSaDVCUk51cXpIWlA4cUZXWFhCaHM0X2ZZOHAyQ294SS1GM3NJbHFKdUpmRDUzcTQwUFFGaWkzOE96YWpxRldzLTcxNkRSQjcydV9Hdm9vVVNnbVkyM0xEbg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-12T06:50:31Z",
-    "hash": "6553f3f97b8b52fc8f1a24b6680ce34a600b3cbb1dce87fbc60d5255348758d4",
+    "published_at_utc": "2025-11-12T07:31:14Z",
+    "hash": "58316d4d1a62fa56d612572eca6eb3d9da34cac3242f435a9d499ea2bf766d6c",
     "source": "gnews"
   }
 ]
