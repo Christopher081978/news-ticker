@@ -1,162 +1,22 @@
 [
   {
-    "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana Price Forecast Drops to $143 as ETF Inflows Hit $420M — SOL Targets $250 Breakout - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN09BSDluVWV2dUpzbVR1VmRRbFJnZWdZN1RfMHNJeTM4MnZoaDJDellaNFFMUHNzbzJtSzlTX3VIendPamFYN2pZQXpQNnNuTHlFVGdEMUdDYXFUQXQ3OUNZQWNjRTZxQzdkcWRtRTJVQUJEdzBtZVpKYS1QYVFIanBQUjF1QVg0dUNzdzRhQWNzbUlrOHc?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "'Y'all Street' is abuzz thanks to news from from Nasdaq, Coinbase - Houston Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1NNazBmaHJrY00tTjJsdm9YM2dfbUJrMG9OVHhRa0g1XzNUbU1URmJ3SEhYV2k5SFROTnhDNnRhcW5hNFl4TldGUm9HVG5fc3pYT1VyXzVaVHNxdHNxOEp2VDdPQWp3eTVla01GZmdKaXVRcGhESnhUV1lYU0NoZmFlQ0tyVW5ySGhIbFQyQlpXQTRW?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T21:24:45Z",
-    "hash": "fe04861a54a9a3ced3ad710b14ffbab16ca3b2eca6fcf1c12773eabacce2b5c4",
+    "published_at_utc": "2025-11-13T21:36:07Z",
+    "hash": "467e4af2fc0b16c31cd004518fd9ce3eac7ba77134f209bd054d6a2c5b64d51c",
     "source": "gnews"
   },
   {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Boyd Gaming (NYSE:BYD) Director Sells $1,607,200.00 in Stock - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONDFMSVV0Y1VXenI0Z2RGQ2V3c2VBZDNEVzJ4UHcteC1IRS1LVE04YW9leTJha0Q3Y0NMT05VOExlSVVBSFNmOGNZb3A5dU5KQnMwV3FWbTJVd29RamJHdTl3YU8yUFE0OXdIcjNCdHRETmpMNnRKNDBBY05jOEFoVHRDNk0wV1VHaXFMNzNRb2JlekduRmFwTnFPSDRyQlZrYTRxRThfWmVHT1U?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin ETFs Whipsaw as IBIT Leads: $524M Inflow Flips to $278M Outflow Near $100K - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ3l2clNKSXdmRjhaWVkzMUNDN1ZiSkJGOEpaczJpQUZva0k1bUlkZHN6Sk5TRm56N295TUw3d2FEalFNRVB5QkdIcHhXUEVFbFJpWWxLWnNVVHJHSVNzZGZvdTVrYVNhendXWjhWQy1NbjdYNmJkYUVQRC1sWi1waUpEWTNscVNZNVhpN2tQTVZ4OXJv?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T21:23:58Z",
-    "hash": "30a790235011b32c09e073b1e11138176029b08e1e1a0b96714a6175a51288c5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood’s CFO Warnick sells $39.8 million in shares By Investing.com - Investing.com Canada",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWJXYnVVWno2QVRyV0Vjd0JsbWw5a1VIOEEySG4tRjU0NVZLOUV5Zy1kY0o5X2tGLUtlZWhoNDhJaHAySmU2U0tubEpQbHpBYjBWVXVSVHp1elUxNzFMUWtXQWZBcU5XcmRLOUZ3d1o4ZUJGWmo2MGFDMTRkM0FWcXlqeUg1cnZQSXljNWFXT1ZpQUNCQk5iOVhaZmw0cXFScUJUc3RybEJMdi1LMElnaDllMUs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:20:45Z",
-    "hash": "397d84d04b2d7a05a3c15782ae0035fc81bf45d27538b9eab9f871fd9678da20",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood reports 115% year-over-year growth in platform assets - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM19nZklpNy1JcE5JeU1ZWVZnbHdpdTRwT0VEVG01aHlKLVozQWFaemp0UEYwMkJBUXFyWklPU3V6N255YWQxR0JFQ1B1bENkXzV2QXZSYkJEbTlKcC02QkJhMXE2Nl93dnoxcGszVHVNWTZRa29jdTBRSkhrVmZCckUtZ0NIcjBVREx4MFNqMnFJNDV2NUhya3RQNGxmSUNUR1FXWjFZWGN5MDg3OWh0M1NVY2tCUmNz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:19:36Z",
-    "hash": "ffed36f728cc0316b82899d6b9fa48fd27124b743291245b96e4d4134349afa5",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "“Watch NVDA Ahead of Q3 Earnings” Top-Rated Susquehanna Analyst Lifts Nvidia Stock Target to $230 - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2tVR2pwOHktZTBkT01ITUJySW50cDVHcXpiaHNxaENLQjVZSkJ3eG1LRElwbzhmRlFuRUhXLW9CSHFvT2ZXMzZFcGtmUW5BdXZBMVVreEYyaFZyU0F1UGVfdV9aTkRHMWV0TFBMeHZvZVJRUGVXYldaaVc3aEVoczI1S08zTVpkMHpUWW9ZcWdXMUtFQk9fZ1lGSG1OWjlhN0dMMmdqQXYyUE1RQ1J3c1hpUDBqTXFJV3lSNFFzYjhrZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:16:01Z",
-    "hash": "398c2eb4368978cd5d639df414b40fe02ec3f47490b04dae99f6833516ec9a25",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet, an \"artificial intelligence (AI) all-rounder,\" has risen more than 50% this year, showing - 매일경제",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FQmpEZk9YTXN0UkR4V1BkUG9rQzQ1aEx5VUdYRnNkTUhDNG9Wa3VQRENUTWZZWm1nMzRyaWtOV1NtanpIVENLYkdaaVV3dzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:12:45Z",
-    "hash": "19a7b20c1207685ab1c021b3f2041dc089d3f8c3bbf16a79c5ee486b08597d6d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood (HOOD) Shares Dive As Investors React To Fed Uncertainty - inkl",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRENHUHFPSDBNYUxXS29FQ1ZKWDdXQVJNRG01eWVOZzZGT0tIclRhUXctcUpCbGdfTzJORWVwM3RqelJaVWtXQmstVU9MTkFqdW5VT0lnTGdzb3BmMXNaV2VCc0l3UjNIdThhRkxqVGNiZ1BPLW5OT1FKUVp1Y3JDYlhXeTVMQ1lHRkxJbHA2aDBQMGF6?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:06:58Z",
-    "hash": "55fef67648eff270b4234fd817c320d23a59dd135c2d55bac11741851d4815e9",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Canary’s XRP Spot ETF Racks Up $26M Volume In 30 Minutes, Has “Good Shot” Of Record-Breaking Debut - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdmJXZ0RKR3ViT1Z1WkhQMVJDYW9Fa2ZNUlJTdHhZQmp4QS1RTlptWjRiM3lvd1V2WFJ5Q2stXzZWMHZFV1F5LWM3WDVyNV9sdXF4bUlFRzdodDVseGtkWFFNQUlCSGlaRTRJN05jQlJlazRIOUF6TjBEdEVFNEdFRXVIM3pyeUtFallNYkFPNjdRbmZ3N3FWd1hCUHVUZWdDWHBHMWUzeWp6T2RtWk54LTNiUTJxZ9IBuwFBVV95cUxQWm0yTVBfbkZCc2hiYzBtZ0F5WFhIRnFpcHptam9RbXF0cjNXMVpQb2x2MmMxUmZtMFRBY056Q0tSbVJ5TG14TjhzVkZteGhuN0VVYVRoVk1VTENHNHl1M1BTNklDUHdqMnJ5MmtjQi0wOHRZZjRKR2lRd0pOSjRjLUNqVEw0Vmsyejg0NTZBV0tTcEZGODRjM01heTBoOWV0R3ZqaDZ6TTFLRHZSaEJJYWZqeUszTnNMeTU4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:06:19Z",
-    "hash": "b7729cb1980ae25f84a4349a827860d7c3101a6b4a6eafa47f1eab00e6e4691b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer Completes Acquisition of Metsera for $7 Billion - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzBibGVxWS0tLUVRc1NFVjQxN0s4dHR1OTQ3VjV1c3FwMjlsVGdoSEpkdERnSTI1VkFvdDNHZU02dE1rS21UekgtVi1qb2FIQWVFSHR3NXltRGR4UkdRSTR0OFJEbTlUUE56WkFXbnA2TURnNmxvOTNJMlpPRml0dGp5RmozV25WSTMyVTlwY2FWSTIwNWczcU1ZRDh4Z2Y1a3UyWnlzTm4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:01:29Z",
-    "hash": "9d986cc2c0bf0507da770b762db8499a648e210a0bbd4e097191411ae7a04656",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Insider Sale: Chief Financial Officer of $HOOD Sells 114,032 Shares - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbG9xY1JIS25xSEVDS3BmdUtGLVoxX0dJaTl4VWZ1REtpWGNiZi1BU29GZDdQNlBkaWM1dVJIbjI0cmhDaGRXeHgweXhkVGxOSTdVWlhfRnh3SFhGZjlyRG1MVkwtWFQ2OHFyM2IwRWg1WkRQeW5McjBpNFpjX2xnU2RPNTRYWXJNNzdMbFFMZ2sxSDFwdU5aNUQyb2VDTkRTMm5xbEtJOWpRZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:01:00Z",
-    "hash": "749e65defc8ff8f4605015706ca50d05445aba5daf74ad3ffd29baa0285f3aaf",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Wall Street tumbles as Nvidia slides, investors fret that Fed may slow rate cuts - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbUV6VGN6TzlyTG12SlBmSkNYWTlZRUFEdHFOejVXRzkxVExtNWpBbHlTQlVfVTA3eTdGb2JtSXNPeE5hZjVISW1lVUZNcjMtd0x2SWtrcXpwdFJXUC01RDlYUzJiNldpT1NTUFVtdVhHa2JWcWNlSWszQ0dmX0x1MER0NlFNaGVvQU9yMUd5dzlUQmdVR0dQOUYtNTNrWUwxLXhJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:00:28Z",
-    "hash": "dd5e5dcaa4c2592915a28f3c04569009130b086671d2d7e3eff951b91c8d6906",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Cardano (ADA) and This Coin Under $0.003 Could Hit $1.50 Before Ethereum (ETH) Rockets to $10,000 - Analytics Insight",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeDdPc2JITGszNmJ5S3U4NE8yTHp1cnplVVRwWTNZYzlSaHVLTUN5YU51c19NaV9CQkJVd3VWNGw1bkNIWk1CeGhjc21MNUR2b2hkQUkyUmt5aWhTS0tIbl85RmRjcVR0aElFbmFRS2JQN1RNd19IckJ6aU1RUHFpcVNLbDdhQThZdTdRSk1IdVJJc2VBSHRIZDRQZDBBdXVaM3R2VUJTSnNXb3U4OEpIZ2VjRnNlbWpWRC1GSWEwdTZWdFRydlBIY1hkVUJJNEtaUXVoT253TG5WSjFvRjUtU3BqbkhQcEpK0gH2AUFVX3lxTE1iTDdVbXFZeHFuWm14Ym9aRlpaSElSdTdmVi1sbVkxYUREeDlZYVZXRVBOcjhSVTRudUZXaG1JSTJzcjJObl9tbTZCSENqZkN5SFVzQVNiSGNMZnRiRy11bjNjYWlRZ1ZaekE4VFVUczFxc195RDlzMFdYSWJiY3psbkl0R050bDhoV1Z3dDlYZzYzUXVsTlhKS3M0SE5yYWhmSUl4VENNY3hsUTIzSUVCWFJ2TG83UUVLaDVUeWhaemNvM1BlQ1JDWklDUFY2aTRFQ1pkMHFQWU5IUzN1SGlQYXBEZ2NTRzlZUngxeG44MWNhSmxEdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:00:00Z",
-    "hash": "55685ff8ed69362c4c48f62fad61102bd1eb80fbc49a514630647bd93bf54e89",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer completes $7 billion acquisition of Metsera with milestone payments - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeDFTZUZJUVdrYWF6UW54V0Y0VUdBdWpaVHU5bFp1bGNlazI5eENIcUtScGtUTnZCV2dDbmtqVmVOUTc1OXhXUUVwM0RUMktsRXBxNnlnWDhueEY2d1RZN2Y2Yjh0QnBpUVNoYW80R3M4QmhsWTZ6VURBNWtqQUY4TENRRFZTLVlqRG14WWNpSVc5aUhQQTJBZjhPYWtHTFM3Q0hhRnF6N3hMUVllNzV6UWFFemNuZ012SWxVTkNscHR5bTNGYnBwOQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T20:58:15Z",
-    "hash": "1261899692047a5a3c0ed37595babc63a6006810bad63c5943011139379fc09a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood director Rubinstein sells $5.6m in shares By Investing.com - Investing.com UK",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObmRRZDRGWTdzMm0tdTVYcHQ2aGJZZ1E0bmZqdUc0R1MxTEhVVWpkTWZaUnpVcUNMOU5vT3FZeTAycGFqWTRqdm1HTVRPVXNhV3hERDZ0YkJRRFJTTFY4a2ZCT1ZOWWJxUVJvUnBWZVRUMVRjblRaNUJUdHpkbXpFZDVpS2hQTDZvOXhtcGE3MVpvUk9jR3NVamZOd2p5OTVaNU5MVUkxYlNhTF9FejRHU3VJUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T20:58:00Z",
-    "hash": "32db52be7f068eb824672339c208fd002580a8ed2d9326b09741f01840a74f08",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Energietechnik: Siemens Energy lässt Krise mit Gewinnsprung hinter sich",
-    "url": "https://www.handelsblatt.com/dpa/energietechnik-siemens-energy-laesst-krise-mit-gewinnsprung-hinter-sich/100174445.html",
-    "summary": "Mit 1,7 Milliarden macht der Konzern den höchsten Gewinn seiner Geschichte. Und nächstes Jahr soll er noch viel höher ausfallen.",
-    "published_at_utc": "2025-11-13T20:57:18Z",
-    "hash": "0a34b7df9b4b30c18efe73a5ac10fff6a6b155ca9a7722a2fbdd4b15c0baf9da",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Chegg, Etsy, Snap, Robinhood, and Alphabet Shares Are Falling, What You Need To Know - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb0FlY0RLZ2doMFdTRm5hOGFVSVpiQlZDbXlPUHhMX2V0S0VwSDBjemozSWRnRDlXd3ZmZ2htYU5IYzJRb3hpbFVaZ1daTTZFdkdpSXYyN0hhaFZRVTVwZHhWeURGRHB6c0ZrTXAtR0czNTVDT3JWSUhucFF0ZFRpenBkSm1sSF8xeS05MkNfYVZpNlo2SmF6dXNfbUlLOXVEeW9CZmIySW1NRVNiZzFuUWIwMkJfeVdKY2hxY3MtRmQ4UWdJUkRCRURfQXdjMmc1bnJYODJyX01JTF9uZk91WktyRjFsdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T20:55:00Z",
-    "hash": "7fad0eb87e9cc2bfca278891438307924658b965070657f9fbb750a121e93e06",
+    "published_at_utc": "2025-11-13T21:29:45Z",
+    "hash": "63954022b4948bdf13810b81302885428c530be1358fd4b75cc528cd8facb30d",
     "source": "gnews"
   }
 ]
