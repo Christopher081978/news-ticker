@@ -1,102 +1,72 @@
 [
   {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "JD.com Inc (JD) Q3 2025 Earnings Call Highlights: Strong Revenue Growth and Strategic Expansion - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcmlDMWx4dkNScnJIWmVCT2tqOXRhc0Z4bG9LTkNGb1FhclV6U01qMTZ5dFdENFdmRml4YXo4YU0tYVQyT3BMOEx4Y2ptOEU2SFpLVXEyOHd1U0Q2UFpDWno0a1htZ0djWXh3dmNpX1E2M1FNbXBZeGJOVi1nNDNxR1lvY1dCeUQydkw1ZTd1X05IWF9IZFplem8talhaR0ZneW5zb0VrQkZiRW5qZWs4T2l1Vzh4Y3VfWXdFY2RvUzBwR3ZGNUdvajV3?oc=5",
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Should Dividend Hike and Updated Guidance Prompt Action From Siemens Healthineers (XTRA:SHL) Investors? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOME9id2k5MWpzaU00Wm9UelVUNmh6NlZiMEpmeHVFc2NPMDhLSWVNcDhrYjl5X2QxUGZ5allBVGFZMUI2UUhib3ZqNnlDRy1VQUt1Z2FJRUZ4ZU14UUZxOVhYcXNoUFdqMURaYUlpT3JWMEt4d3k0X3AtTTl5ZlBaN2luVjNGMkUxZjllT1BOc0UwY1FpbUxiLUhZQk5ITjBaUk9KZkQ0b1ZDT1VFVE95T2pWa0s5MEdoalJ4TEFxVXBHUXVFa1hMZzdkUElpSVl1RE5QN3VMNXY1eHla0gHiAUFVX3lxTE1JcWtRZ0kzV01GRWE1cnVXNkhrVWJjemMwcnZWU3Z0VFBWeldlbzJjVXRmOGlITjNhRk1TbWdGTUxCd25kMUpwOTFrQUQwZ0NFNmp1NlZpVlhrQWRnaGRVNGJxckFSaFMzSHJPWHdZbzFtWWlNOUVsbDRDWnRMMGszMGdZS2tJVUFjazJIUUpjM0pPc21nRFpmVDhrZmFKcUlEaWkwV0l3Z3lHWEtCYnhYRHAtdGt5aTZPZG1GUV82alVYZlpMOEY5TmdqVjgxbDI2R2ZVYTctWExEZzBldHlPbWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T19:12:58Z",
-    "hash": "bc6ce4aaf2ae5db1e0c5b11cf1a6c2c3e8a97448e6071e08b934773f979cd82f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Ahead of Q3 Earnings, Let’s Look at Who Owns Nvidia Stock (NVDA) - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2RfTnVYUGo4cHMzUTFhazNIN2MwUHJ3RkduZVMwZ1ZnODdXTXhlYWVLTGZ1WXhYcWhrSHJ1b1RnOEVyanI0djEzWjdsdS1aMWZsZUlkSDM1NWRFZ0FZOGc1cWo3d1JfTHNacEZLbktWblR1SG8zYWt0azYtcFlLVkNBdTY5ZFAzS2pwUFlScU1yWlhE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T19:05:44Z",
-    "hash": "f30ea0562c1001cce72458def2c5619ed66e5d7c1c8039ecb8bfc43b073bd61b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Canary Submits MOG Coin ETF To SEC, Expanding Alt Roster - DailyCoin",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1o5TWc4b2tzLXNOdTFBZURwSHBZSE5FSnNncDFQS051aGZNcThOTVhnMFdwNTZRblVyOXZ4WEo3eV8tVTBmOTRNY1c3bF8yckN2ejA5cmljZ3JzaGJqMGdYTnV2b1NLZ3ByZkMxaGx6QzlBNDRWbkZyakktSnpRV1JocGM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T18:58:00Z",
-    "hash": "59843071936bb926801fad1722fe216acebef48dc3f4a41ceeb06645cca2b007",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Crypto weakness drags down Coinbase, Robinhood, miners, others - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkhkY21aemtPSE9reXVnMU9TSVRwQjBzYWNLemVVaGJycjUtWlJUSXN3Wmw0cDBabVl6Q2pLR2hqMkRkYUJvanRHSWxjMG9YWHItRXRPdk5faXBTZXJFc2ZtTmNVeWtueE0zVzVYU0xoa2pnaG5jdGFnbm1wbkJORFZyckptMVNnenZzT002X255eUVYUU1OUWFpWk1VSVNITGlXZFNnUGNLQm13cUI1QlNDOUNMbWRhSHZnRE1VNE85NGJINldsMml4ZVRJQmxROUtV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T18:57:29Z",
-    "hash": "f175326eaea491547e265b38d8dfc505b4a7ac3f33e05f803a3b8e44a0612236",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Crypto weakness drags down Coinbase, Robinhood, miners, others - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkhkY21aemtPSE9reXVnMU9TSVRwQjBzYWNLemVVaGJycjUtWlJUSXN3Wmw0cDBabVl6Q2pLR2hqMkRkYUJvanRHSWxjMG9YWHItRXRPdk5faXBTZXJFc2ZtTmNVeWtueE0zVzVYU0xoa2pnaG5jdGFnbm1wbkJORFZyckptMVNnenZzT002X255eUVYUU1OUWFpWk1VSVNITGlXZFNnUGNLQm13cUI1QlNDOUNMbWRhSHZnRE1VNE85NGJINldsMml4ZVRJQmxROUtV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T18:57:29Z",
-    "hash": "f175326eaea491547e265b38d8dfc505b4a7ac3f33e05f803a3b8e44a0612236",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Can XRP Inch Higher as XRPC ETF Gets $26m Flows? - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkJ5dmc0N0ZOVTVHcHNFQlpfaGFVUlR3WkR1Y1cwbGpkcDdDTDVYRnFlOEhVWVRMNVEzUUJPWGw4RHRhUHBPaXJ2ZlgwTTd0M1RMN0FrQU93dlp2aXVZaHNoYzBYRUJ1MWJWMndpNlhTUENqdXpqM2xhMlFlQ0lhYVdPa1RGN3lyMU10SlN1elFCWDZSTVNielJxakhmUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T18:55:00Z",
-    "hash": "4e6572f2d061b63dabd827b14acb05fe257c58a1c417fcdf9c02f86c31bb818d",
+    "published_at_utc": "2025-11-13T19:39:07Z",
+    "hash": "578a132742178d23ee04e57f09df6364a5c8cbae58d67b9ae7d98f3cb26bf44d",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stock Market Today: Dow, S&P 500, Nasdaq Fall; Government Shutdown Ends; Nvidia, AMD, Cisco, Micron, Dollar Tree and More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOTmx0a0E4Mk5HakJtNHVKWlA5a2hwS3pVNXRUSjdnMHdJT2ZHckY4TUcwMXlJeGNVcVJPU0Qtdkdsck41ZjhNYU9IRWVnSC01Z0dPTEtCRjZCNlRwaXNLRVBZWGlpcnNLd3BWMGJUcF82TlZ5S1VveWVwTHZYY1FVSkFyWUZ6ak50U05QYjFUV0wyeXYyNDNhc1daTUpOblplVGtJenlFZVlpUkp1S2ZMSDlYN2pfbnN4QjBJSllULUVxeEhtVmpBWnd5YlVaR1J1ZTRXOXg4cjY3ckhMdHJZeDY5TjlKRXQ3R2tJbTUyVVpCWjBHTTRwQ1pZVDlyZ3pWbWZqRVJtSlJKMFB3ekxaV1ZodTNlZkxYQW9fWUg2bVBKY2gtbmFGWUkycXYwQ1JURUhDdlpkRS1sUWcxckEzN1BjS0JXcWd2amJDdHNWZVowdWhPY1NCRXdpdHZ2OFFvMnQtb3lybTZOV0xJWHRnbjlZVWxuTnFnbjk0?oc=5",
+    "title": "Nvidia Earnings Seen As Key To Reviving AI Stock Trade - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFNmanZuNjRkX2tza3h1RExBRkxqZFQ0Qzl5UnZ4cmh0SzUtN054LVFnd18zR3VsUlJhcDRKeVhkWGgyWTV5QnFfNWUwV2J2YWRsOUpDRWpoejZMc3dQM2pMaUgzRm83M1ZZelRlaTlLc1pVeXY5SXd0SHdkcWY0NnhNNGU5c05scUlv?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T18:53:00Z",
-    "hash": "96e74a836de426ef19518bec496fe78ef26eda80f873bcaf07a1caaaa555f9e1",
+    "published_at_utc": "2025-11-13T19:37:00Z",
+    "hash": "ecfff796da4094ff5d51e87c67aadc704f5fcb399ac4b2631ef09c49904e70f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk: Long-Term Brand Dominance At A Bargain (NYSE:NVO) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTWd1Z2tMeVY4MVAxMkhzSTVOdjliOGpqWWZqSmtCRUdZdGlzbXZEdlV6eUk1dElsYWNUMWtOb2oyNVB0NzZ5RHA4R3gyMkRRN3NKM25vdDFLTmREVXBlaGNqLXdOa3VMQ3hDbW91Tk9EcXBZWDdndmNtNVM0LWJKRmNxdVNBcVNnQ1AyTXhSeXBGVG83RGR3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T19:32:40Z",
+    "hash": "28700f22a156463d5fe8b4ac2122c60b045f3d984fb55f12e4fd2ae1201ccf30",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "LINK ETF confirmed for 2025? XRP and SOL launches move up Chainlink timeline - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHZGcmdNTWtLVzJrcjBFNUJKZ3F2X2hlNzdzNTQtc0J5U090aUtLN2JKRHlwbV9RaFh5djFXQnNBejVjY0N6YmpBNUhQVVhEYkxLeFdoMGxUUjZQYk5nQk5CTmRQWHFTQjY0X2JvYldFNDJ1NjllLUdpUHAzTmF1cWVqb2lCUFRtN01lNF8yVmVqVHQzV1RvMHBST3NhVEVYcU5z?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T19:30:00Z",
+    "hash": "77f0a0ef76232393d60baf2079f8007f9d9e4002db86e9ba39a766b1be99bd6c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Meme Coins To Buy: Solana ETF Inflows Hit $342M As DeepSnitch AI Presale Raises $520K - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONlFMRTU0Q0VyZ25PcHZSTWg1VGVYWmxXOTJ3bjNKNHQtYVo0dFZaNlVlWVBkckJtZE1sM2ZKREkwZ25DdUxzVHpmN3MyQVljRmNOek5zZnlPQnptSk9wS0lya3FCZTdPemlZY3IyYjhPSzRxQmtqVjJkb3dXSTMzaWJiNTRBTmo2SzRERlVjMDRVdjlBcG1JWW1jMmF1bjNLOFl2V1ZNNlAySDJYeWJNajloS0d1THphdy1RM2dsUkxwWjBFcjFTSTg0RUstc3ZlWGZCZXEtWjBieU82U0h0TmhLSEpmQk5pWlJPWFEtT2Q4LW9LVXMzUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T19:30:00Z",
+    "hash": "d8d8f7708f6d7f3315e85c44f51906dde7c06f8a8b7d6071caf91cbd353801f3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk, Lilly deny partnership with Mangoceuticals on obesity drugs By Reuters - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeUVqakhwSXB6RGZ4eDFtaUpEMnYzYWNFRFNRcTZBNHR4TU5OcjZOVVdiZ3ZRYWx2SVBnNGxhT25mV3hXVFoya05vQkpITl9oWTM1Sk5CQkQzT0kwaDFRNmFTMW1yQk9MS0YzcWNENlIxSEJzaUZOS1dJYXluank0MXBlNXNzVzNsVm9fSWstOTFyVlMyZEtsU050bmQyRmdXVHl6QUN3ejV6MEVLTjRpUmkxZ3FkVk9kZWtCdDdLY2xWMVFGNlpCcg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T19:28:44Z",
+    "hash": "81171afc9d8b6f1b9db6bb468b54ec85a4657900748b01a3e09c740932fc71c4",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Falls Below $100,000 as Crypto Slide Worsens - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTWRRcTNvMFQ1cFNidzhWempjYUNDaW9lUVlTZjNxR19RbTVaQ0RpdWo0NHJGdnlKQjM0Y1JJZEN0bjlYX3VOSUsxRjZmNVZaeVljM2xTX0R4Mm9KMWZGNkRTSnFsMmFRaTZCVTZ2TmgtdHNYUld2SmZScHFCOXBES0Q0WFpocDJmQS1meQ?oc=5",
+    "title": "Crypto Selloff: Bitcoin Dumps Under $99K, but Retail Sentiment Flashes Bottom for BTC, ETH, XRP - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbk5SWFRkUEdMVURRS1pabTlYNml1MEVVaTFBVzRLeFk5WWJnaFRreXBaMzMyWk9yS2RvZVBiQklJRk1IejBOM1RZdTJUSVJvU3M2WGlnT2pxOFJqckl3S1lQXzRuYnFQQnFvcGxzTkVPemdYZVdQYnVZSzlHRDVnTkxmX3VBcndoTW9VY0NMYWlTVWQxZk55NmM0YjlyM0JUYzlhQWRVZWFPcEktdkl0YldWSEpDaC1rdnJuTFhPZVFzdklsR3lnaUZiUjE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T18:50:30Z",
-    "hash": "004c1018de0ae2f9e01aed1307c13787e2f36c218c616394c2b22cbfd32961c7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Nomina's Coinbase Listing: A Turning Point for Crypto Integration in Fintech - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8wd3lzX2NxWkxxOGJRRDBtRW1TT28wcHI3cEFlaWtYSXd3a3kxMGhuLUJyOWZvZXJSMmpRVDRXWl91X3pBdTYzcWluWHQzOXJSRjJyVjhRMmVGR09vTUVoeE8yQ2dscFJnMElvekg3aGszWmEyYnMyRXpDOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T18:47:33Z",
-    "hash": "6a36d8223d207dae395023aec290f645f2acc0f53008f93aa5d634ab4f68385b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: ETH Whales Accumulate $1.2B Worth As Analysts Eye $5K Breakout - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbFA2VXZCTDlDRDZmdTVkZjdkYmNCcG5RNnh0ZGoxakdCYjhxbElleVhUZXUweDRpc1ZPQ3lqMGRiQUJUdmswNk9HVEQ3VmE0RUNIc1lnU1JIWEs4M2FxQ0Rla1EwWkQ2TElmMlNqeTQ1QVFIMmFvdm1QQjlIVGZqbS1DYU84b1pYRE9CVnBSWUZ2aXItOGhCbklSLW13Q1FtVVV0U3E3eTV4VGdwcGkteEtHTGU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T18:47:23Z",
-    "hash": "5a97ba700b46b99a7afe412073042a1e1ad528b257f4337c96b430d22f6abeed",
+    "published_at_utc": "2025-11-13T19:26:07Z",
+    "hash": "283153720d7fe991a925b35fac3586b2713b398572fbb1e6e5ae3ef7e091b574",
     "source": "gnews"
   }
 ]
