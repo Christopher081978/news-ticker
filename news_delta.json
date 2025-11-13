@@ -1,382 +1,82 @@
 [
   {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Dax aktuell: Dax verliert, Aufwärtsrend hält aber an – Siemens-Abspaltung im Fokus",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-verliertaufwaertsrendite-haelt-aber-an/100174172.html",
-    "summary": "Der Leitindex befindet sich seit einigen Tagen in einer Rally, die ihn bald bis zu einem Rekord tragen könnte. Helfen können dabei gute Quartalszahlen der deutschen Unternehmen.",
-    "published_at_utc": "2025-11-13T14:27:23Z",
-    "hash": "0d3ea028f6e4039a5613def9ef93cf8d9c1b84d0301880c184813baf1a943d56",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "What Makes Robinhood Markets (HOOD) a Strong Investment? - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWkFGeW05YmpDb3VvSmVoMHhJbGVVMEY1T3pPUk05c1BRZGVBcUtzZ1htMFVMdkpwa1A5R3FSSEFSZGRBQTc1MV9GZjNWWDFTRVpxdV9jUEFSZ3MzZTdCN05yYmxaX29GZ21BUHh6Y21HV25QMUY3ZVNsaTJuTG5VZUxlcmZwcEtzV0U3QnFzbVplZDJZb3dwSTBuWko1d9IBpgFBVV95cUxPV1RQU1FYaVF0MXhQN2J3Unk2UHBkaHJia2VUejVfcmh2cEJXcFNsNmEzRVd5WjlCRXNhYjQ2UlJuZkxsdXB5VFFxT0FSQXFFQlBfQVdqV3VJOEZjUFBPQURzbGRHWk5FUlQ5bU9JZDdHN0s2SGpMY0dTQ0F1Ynp1TVNMUmctWHBrYkxGRV9VM29NUGl1Z0FGRXdJd055SmMtSFdZNnhR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:27:03Z",
-    "hash": "b10330e022df1b3737f91851a24e61bdb50436e07b3349c3b628097270c2e44e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Monetta Financial Services Inc. Has $2.53 Million Stock Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZThLQzhOVXcwM1UtMnBKbTBEbUw3UFIxYWtVZ0xsZUxieVVFWmVYNWpLRVVnUERsNzFxWVFFQ3RvRDRwdTJKMWlVWlgxcUowNmUtVkpSaXR4OHlIREc0T01iWTR6bjZtaTFGRVFoN043NUhjcnJtY2FfemVzVjk5VGN1SEQ0RTZTa2psZFJuczNXZjFXVGhqZ3BjSnNsSjlsUG9aZ2xoQW4yTWtrc2d4ZEFrV1YwWHp2Vm5uSnFPZzBIRTJxd2cwZ1F1YkZGbEZyRFhLZUhkRk5xTThOTzFhUjdKcGM1Mjg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:24:28Z",
-    "hash": "5d58b2ebc007553afac45b827976fd8bcc34e30c5c46980ef5a69bca65ff3a31",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Kommentar: Siemens geht mit der Trennung von den Healthineers ins Risiko",
-    "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-siemens-geht-mit-der-trennung-von-den-healthineers-ins-risiko/100173503.html",
-    "summary": "Der Konzern trennt sich von 30 Prozent Umsatz. Will Vorstandschef Roland Busch nicht an Relevanz verlieren, muss er die wegbrechenden Umsätze rasch wieder kompensieren.",
-    "published_at_utc": "2025-11-13T14:19:22Z",
-    "hash": "63061d59045bf057d1527fbc238e831ae23b006ce57d9d49cbfa833d07fde187",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Kommentar: Siemens geht mit der Trennung von Healthineers ins Risiko",
-    "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-siemens-geht-mit-der-trennung-von-healthineers-ins-risiko/100173503.html",
-    "summary": "Der Konzern trennt sich von 30 Prozent Umsatz. Will Vorstandschef Roland Busch nicht an Relevanz verlieren, muss er die wegbrechenden Umsätze rasch wieder kompensieren.",
-    "published_at_utc": "2025-11-13T14:19:22Z",
-    "hash": "a1180ce77c3f3721fdfe5863565be5981b44e3b16f793efa5032966cf29c6f84",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "JD.com Stock Rises -- Earnings Smash Forecasts Despite Profit Co - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcDBtemVVaVh1Rm5TQVNiLTl6S3FlQUgwd1dsaThhX2VTOGhfY25UbGhxUXdKdFo3MjdZTVZGaklWSF9ndGFpR0U2Rms2eGpFOVkxOTZLQURyaEJhTUxNeTNHUy1SQW5ZWHYzdWR3ZG5TVkx0Ykd3SXFsdjRwa0hxS2lyMW1nTHEwbm5tUjY0VVk5eEk3a0pYWU4ybHpuVkJwTVhGT3oyang?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:16:22Z",
-    "hash": "f6174b1b4bec23594a8690140d0314abc4db2d8241501693ac7c4a5a0a91bb3c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Mangoceuticals Stock (MGRX) Soars on Deal to Sell Obesity Drugs for Eli Lilly, Novo Nordisk - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVBiWUl4ZktIUXozbl8wYVU2Z2FVcEQzX2JKM3lLTDZ2Y2xFczBscXlYdnZQNnVoSHFKSkZ3NDJybWZlUjRUSnRYdE9obWFDOHczTU4yeHNtcHdBN1lERmVxNjVtbld5cWpOUjl1dF9oUzlNd2RmNkU2a2dPMFI5VkxaT3ZfYzEyeFBTa2RXRzdWb2FHaFVYckNxUXV5cGlCa0N0ZEJldUFIUVRLS01iY0hETzFkOEVaX0FWV0ZIVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:12:34Z",
-    "hash": "aaabe82025dfe0512b0293f17530c4ae9a52fd1dd7116341b232c16cd667af4c",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Smithfield Trust Co Has $1.54 Million Stock Position in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT3hKbTF0TUJUMENzeDEtbE95dm5sdEEyQUsyMnhWWjJfUUJsaVJlY0VxN0doT1RYeGgxY3lkWG84UHJzS2I0MHI5V2pRY2J1V0V0d3hlR1ZicGowZlJDMHRlYV8tamw5WUdvVXpKWFlDMVpQeWlORnUtN1RJMXNZaU1YUVM2QVlsNlZlOVNEempsZE5BTWNNNjA3TndxclhVaC11WVNMN3BXcEtGbHlMazBlN0lUQ1YzU2tSUkFCZ2xwZ0diNERmYWgzMWFMQkhQVnVicUIwQlhoaWZRVzA0RXpORENQVDVZY3l3YjZHb3Y3Mkhqekw5bw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:10:44Z",
-    "hash": "eda7fee98b4280fbc79c345fa485a93025bbb9b431dd2f9ac9a4f611f8e2ce46",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Stocks making big moves yesterday: Vicor, SoFi, Rocket Lab, Chegg, and Western Digital - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTmViSF9rMDVpQzBQUUs4SUlLMXMzZ2g3TFNyQk04b2hjSElyWWpTVmhpWTdReXpjVWlHYzBfNzZwbU52VXMyQ2FHd0p4a05MY21hd2hUdmY5WXVNNHlRR2VkUV9kRkNxampZVndUWHBHSUEyRUk1cmNuOU02cUZqVXNQOEhBMUpLZVNSckVYd0RWMTNoSWU0OHNXZDNSWDlVNFp4X1JWWktWSGw2b0NMYXV2blNNQW5OeDVJS1RURjJ6eGVYcDhyZDFBOENSRU05NVFLTDFPVllxbVlscEFFY2dDNGM2NHpweFlReUNheGY4Q0xDcUVmUnk0aw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:09:02Z",
-    "hash": "68b9c952f96f30dca129e4d79fa89b7d7d3c514affc1ad9a5f142459fbe2dce9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Police & Firemen s Retirement System of New Jersey Has $127.58 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPN2x5Umc5VUdyb1FMX1hVZjdlQllSVThLU2EtUmFYTzBIY2kza3B3c3FZd0hVZUgwdm1KS25zaW43SjYtejJBOXZNYmJwdllDbXRpYjdJSEs0VlJKWG9Gc1BzNjF0UVM2cXI1b29TTzNuaDNuRV9UdEZicUsxbUtvVk1hdFpwYkhzRVRoQTFiQkJYODlfTm1rRTRTYmF3TVVzQ3Y0a2lXWVRZNU1qSHNZdTQxMTZ6YVF2MXh6TldmUkNXRS03TGRzM0p4WV9STTM1a1UtVnhiLWxxR09PVG96dWNrdHFvS0dwMHFfbnp2d2k1WU5PWUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:07:03Z",
-    "hash": "477fbbdf351e1fe9d8ee6c6a8cd16e4d410ef6df073878242a4bf60d3f7ab455",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "IFS and Siemens Forge Strategic Partnership to Power the Autonomous Grid of the Future - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcEhqWEZYTDJaSzRCOFIxN0RQdFlmSTRUbEstbDd1Q1k4Wnc5NFF0QlA4MDVMMnp1Yzg3ZXBwRHNHajJmdnZYT1lNUHJtM0FaOXU2R0lkMnIyckNXS0JKa2FuRVBYVG9wVXBKOHJUa2NHT0wydExvMkUwNjI4eGRGSjVHV2hQUmFuN1RHdVVKU1BNOWwxM0dZUHFFNXdYWWd3WVV0YWxNZ0JiRTZvVjZXZ19HLXhsdmkydFJGWUFFQ2dSMnlMRms3alNNNGlLcTYwMGdNZXJDbnZ3RWJ4V1Ewc20tNjlZa0RkeEtwbXp1d9IB9AFBVV95cUxPZDkwM1pRODhvbzluTU8zaG4wMHp3X1FfblE4TjdkeWZfUDV4dXZDME5jdTVkMWxibDZOVGZDcmM0VGxnalJOT2JsRlVSZEFPOGpHMDNOeEZZZnBVZGhGeGVQOXRfdkowLVk0Y09kYVZ1RWdDV0QyUEgtSmR0ekNRYm1MbzA3YjlDUGhkT1Y0UVJXU1FJNUNzQnlMejBiZ2NaTEJBLVFHMEt5RWtXSzhJbUpKOE8xZ005Q0MyeFJfMU9udWF1YjZyQ3BLMW53M04xNnd2N0ExY2hMUjlxbWJhNGxVTlIwMDY3WHJ1VTlIVmk1ZWNl?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:07:03Z",
-    "hash": "34efdb8090b6f744b37be89e778418d8e30b04480ff6113f5d026ed69174cf3f",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "Hudock Inc. Invests $238,000 in CrowdStrike $CRWD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ0ZOZGYxNzdPR1FTdFNVLW5JcVRGR3dOZjJnUDJpY3R2U1ZZb2xlLXFjd0RXa2liMjNsRGN6QUx5ZFdocHZ1TlpXanBjSFFHbnhvNm1pNmotYVlwVU9jdTZPS2wtdXN4ck1OQmtYQ0hENmFLMmdGSFhNMzI4WmUzaWVvVkROTkQtSk9ldklBNlVFSVVDRkluWXlHbjFqNVMyLUpTd3JjaVphUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:06:51Z",
-    "hash": "53458581ea5d9657acbd9562b49727a9ae5ffb117d42676643657980338672c4",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "CrowdStrike $CRWD Holdings Raised by Police & Firemen s Retirement System of New Jersey - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSVlaMXE0N0RKeHJkN0ZCYWJfUjJlRHgxMFRfaE83U3prVVBZNXR2QzlxVWFRMTd0Y3Q3X0Y2NzdaOXNua3pUaFBrbDc5WXAwVm5BWGhEeHFHd0s0YWJRZmdpdW96SXlUSnliTm96TUNnZ3FOUk1wM2ZoN1l4NnJHd0c2WF9zTHYwMEt3RzlGUHhRNGpmTWE5VW9vNnBlRV85cDVITW1wenIxNEhrLWtvTGNUVG5xNzVDM0FSOWRwMUlxVFlNUzA1bGtsUHNpWFpCQklOQUluTkUwS0VpTmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:06:50Z",
-    "hash": "a2116449d63bfee8bd2f368f34b958c726c7e36595ebf18fa89d70c5cad72c5f",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "49,124 Shares in JD.com, Inc. $JD Purchased by Vise Technologies Inc. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTlCd2RBdmd5S1VLTzNTd1RlWkVLbnZWU294TVhlY09za0YyZGVaMVhMR1phX25hVVdrb21OZm5wNnowOERmUXlBSXBPOV9zelVfNXJCNzRSdlN1d1BaM3JOY3JpWml3bm9pcW9sR09ISzI3eUgtUzRVQTlyVEJoOWx0LUh4V0RWVDh6TW5lNThYczJwZ3kxQklWeWlUTFZEWWljaFV5VXd3ZUVvRm9UWDM5Wkkzb3VjR0dObTFPT2cydw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:06:47Z",
-    "hash": "5ab3366adaca4982a37da192d139512597e74366f46841093edc80001d4fdc86",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Canary XRP ETF Set for Nasdaq Launch as Shutdown Ends - unchainedcrypto.com",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2djNGxpUWc2U0h4eXF1SkliVlhTaWN3dEhybThqUklCRU01X1lDVG1oMTFTT1dJR1hTSVNmbVBzcHpYSTEwXzBPakpaZU1oRHFiVlpfYzFVN096bHZzZ1ZiMVJzVmN1b3JSNzhFbTltVmgzdS12ckZtWnhiWG50U1RFa2s1dzdsWUE?oc=5",
+    "title": "First spot XRP ETF starts trading in US - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOajJiUWZBWkVJXy1sbHVBOE1KOU92WnZzZVhtdkJoV1lXSmJVSC1la2drZk5OTGt2YjBadFFVSUlVaW1QckhzNEsxSkFwdWlsRVQ2QTJ2NU1PNVlncklmOVBsODBwczZRSUhoZXpXNmY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T14:05:00Z",
-    "hash": "41a6897b0ecdbe48f456f8b525b5aa6b8a9498e08b4e1f1dc4d8e903f6c46a49",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "The Google Enterprise Story Finally Feels Real (GOOG) (GOOGL) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjVMQ0Z4aTRIWnlBTUVqSGJiZTZzVXphRWVqTDhDV1dmUWtidl95Tld6aDk0SG5wZ0J2RXlHVy0xQVFjbFAtRlZzSTRRYmhzRUttZlRFWEp0Snd3eU9LWEpmdEF5Nl9iRHdINHhTV1BwaENLYTRvbUg5NXhfRUN2d2xKWjF3NTUxVmcweDd3UTF2ZktMeDdObG5VaEFoRE84VndtVlY2emloV1Rw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:05:00Z",
-    "hash": "3b7cbb530e78d9ed9578aca4190d9348bc25be0a67f305f369a2e3605b077932",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase, America’s largest crypto exchange, moves legal home to Texas - Dallas Express",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMlpNWHRkc2g0QU5mNl9Nb3lsMUtvaE51M09XV2V0UDdSeF94VWVXam9yeUZ3eEFPU3RDVlo1enp5b0ttSE14S2szeUZ3cGRLWVRhcHVibWJPXzZxX1FxMmRnbVRrVEdfM1lKY0NhcDFvMkRvSWJ1VHB2OElSMHBFVENxbUMxdEZYWVZ4WjRkdE0xckhjSHZEY0hiZF9JZXM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:04:36Z",
-    "hash": "baa7beba3c29826a55c7fa91d6ef217b456e7bf74d2facbd0e4dedc67eec5ba9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Expands Globally With New Business Services in Singapore - CoinLaw",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IdDY1Um42SG82VGdNZ1dESUl5c2NDb3ZSUnpsTHpkdS1WZjctbDE3SGxObDQ4WGxocUlGeWJfMXJFTkhFNVFXWW91bGt4djlYWGhQeDk3SE1qVkVfUFJPSnlhR1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:01:28Z",
-    "hash": "aef4187f1165f3aa2b8342ed0e5564b899d189884f107a2d07e24f95b9128c0c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP poised for breakout as whales boost accumulation - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU0NNMHpLRkhSTUl5dXcwbWVmdnNVLW1hVC1HSWJKeWxSME9LWElqWmV6eTREanR4NXFmWTNjemY0SXRGdnM2WEtSaFoxLUM4ME96Vkd4X05VZ1NnX1kwUXAxdVllMWo0bzZPaWxIbFNOZGEwMnZfZ1VGdDJsUDBXU0t2b2JjSEd4dVRCOFpJWmgxQ29uSWdFVmRtM21wUVhUNm9NRVFoNzNSTGZQcm5sMTdHZFMwU3VlWHdoZUg1RVVOamt4ejg5ZW5OSWFpbWZSaEREUUktUzhBVXFBVlctRGhZQkczTUVxODhYZtIB8gFBVV95cUxQZE1kYUNMSUpDbWdfU3pJZk5xUVQ1TEdFSVMtVXZIbWdESnhxY2ZiVUx5T18zNFJNWThFYjRfSG9tdTdiNDFhUjhGckg2cHl5dlF6RlA2S0JMdUtoR1o2bXlTNmo4T09TLXFkY3VXSXFZbDZFekZqVkh2ZS12eVNKR2k2LThCM24xRXFNaFRmWTdfYXFXLWVvVDhPOHp5YzBxQVNLODFQRXVfbGdPUTJYUE9WSUhwbW9JR2ltQjhQUTNEV01zVE9Cc3VkLVJrWUZCeVZObm5lcWRnWlNsNXZsbGhGb2dFeFR1Yk85SGNXQ2xmQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T14:00:00Z",
-    "hash": "eab4bb23094b5f85cec177e196e2a8ed4b6aeac896a69afc4289e3ffe10ee678",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana New Today: SOL Down Nearly 4% Despite Strong ETF Inflows - Binance",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KYktHd21RUEQ5Y0IyX0lvRDU4MXA2bjBpT0tZY3RjSWI2eXVkeFpsOTZ6LV9rQzNIQkhLMzJwZm93MEE4SjZucTRQZE0tSU5ud0hvaExzTXo2czJsSDV2R29EOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:55:42Z",
-    "hash": "14d8f140bceeb699abce8fe6b141f001d4fb72c342f155159eb4159fa004470e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "South African media get funding package from Google after antitrust probe - Engineering News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON0l5b0VienJaQzY4ZnJzSk5mTzJEREJTMmdOY2JjQXZ5S1hTdENhUGZ1V1hfV2NxMVVJUTZPRFo0Q0N4dktKcTV1aVhONklzZXVJMGFaR2t5LTJaM1RnU2RrVmxPMUpobHJ1blE5eXNQdDczMEF4U21VMTRiS3lOV1hjbzN2djljZmhFbzZWR0cxWGFpMEhjZDBvb1p2YjNOMFlrb3I5c2ZZTkI2MTh3b3ZCSzJta241RFFiTUZiNi1ocVVJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:53:00Z",
-    "hash": "9a52c477173d9e07fefb59ada5107da135ff2c4cff0782f9b895356f640ca0e3",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia sees bullish views from Susquehanna ahead of earnings (NVDA:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMHY2NGVLZVNEdGRVNWE0eWZnaXRJNmViSFI5OGVtWHJyTG5CZTFxR1VzeUNUcjBtV1NtME1kUmhKajBqdndCM0dTY3l2eTJjbFJMRVR5STcyMGRwTVppMzBjTmtrSWJwdEtsYWM0R3o1bmZwWDZSZlpRQkFOZXRqdXpaUU53UXZ5eXp4TThDbUFjWmJ6SlBDNzFoYXVtTGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:52:30Z",
-    "hash": "78e3acc48c4eee241bff9039b8db19e0a01047a22322d928cd1ab1269bb07f4c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "South African media get funding package from Google after antitrust probe - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDY3MVB3MFRRXzFhb1lVZTltdlpwVkE5OXQzR1pvZUpPZk1OeW9XTTRQZC1QUGhMV01kOWc4dEVNU0FPQUJ6QXN6TmJQWmRWeGNVaFlWU0tlOFU4YnU5RWVyVjFCUmpGZk5vNjZxZ3NpbzE0OGdqM0hTOTA1OERSWjA5Mzl6aWhMbndfZmRqSml0ZHlYdXdPdVZ3bEoyNkRla0E5QjROSDZpR1paNVJWcW91ZTFtZUlfZ2YyTzJkcktvazJ1c2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:52:16Z",
-    "hash": "5b80b2b2a7c821c7271a8c21bb28d377e08613750e27062c8489b839d27fc710",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "Transcript : JD.com, Inc., Q3 2025 Earnings Call, Nov 13, 2025 - MarketScreener",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1hSemlDLUpqVllweTRwc3dTVHVZaDRtMzRPV0V5TklSMUVrOFVab3NMN2E1dTVyLUJJaWpIa3lDYXRXV2JOWjRRTlR4ZFJvV25LUzBKb3gxa1Z3TnN6T01lTmpXT0ktVTR4eWVoTExOTWxldmNpVGppaFFOSWpyc3hyeGRTSHdvUHJHNWp5V0pDZmF5blhrNDBvN3ZhY2VjRFRRX2RBMzVwUHlH?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:51:49Z",
-    "hash": "d0283fcc2c8b67fb5916b724436c06fe199da69b3ca2d0f0a765e78f02052b69",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Czech central bank buys $1 million in bitcoin, other crypto assets for testing - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTWdtRDJTMnc3VVozanNSZ2hHRGhQTzRlRXI4T3RXM3g4RWcxSG1BcnhoU0lrN1h0TXY5TUNWSEJDMnlIZ2tkYV9TSDB2aHFpVTIxZHZnSjZTTVlubV9IUnBaeDMtT3o0SV9ad3I2Q0U3eldObGhFMklsQmtvc0VXeXFjeUJYQWxZc0VHcV9wYmVPOVMtcXJ2S20yY0lBM3VLaXd5b2lMNENOMmExTHlz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:51:30Z",
-    "hash": "4e377b968c498184b251753723030dbbf148189677d64010eff9b86f959afd86",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Zeitmanagement: So schaffen Sie Ihren Vollzeitjob in sechs Stunden am Tag",
-    "url": "https://www.handelsblatt.com/karriere/arbeitszeit-so-identifizieren-und-streichen-sie-zeitfresser/100042356.html",
-    "summary": "Weniger Work, mehr Life: Das wünschen sich viele Beschäftigte. Eine Coachin und ein Experte verraten Tricks und kennen Tools, die Ihnen im Büro helfen und mehr Freizeit verschaffen.",
-    "published_at_utc": "2025-11-13T13:51:00Z",
-    "hash": "42be252638714616dc4f3e3548f764dc5ecf8f01d41bdffccb6e12c8b06a6b45",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Demis Hassabis: Driving Google’s AI with Ambition, Not Revenue - Modern Diplomacy",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd05YOU1ra1BlZFBPVFlIM05HVTZNR19WSWktWmVidDBhQlBvX2thdjNVeGw5OFJXMnhLY0R2amtsT0c3UGlTOThwZF9KbG9wTUplVnZhZEROMm1yMTA2SE1CTncxWjdfZ003VjliZms2RXEyVFBZQ1FnMGsxbVZ6MU15VGN5TldjSkRVd0twN0FnbHRTUTlIT3VseEpYU28?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:50:00Z",
-    "hash": "711f01903f4981fd324b537845127d7d540a0049a25245c86fe66c6232507ea2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP’s Real-World Use Case Expands: Could That Drive Price to $5 in 2026? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5dU9xdTlLcEp2YnZDRUtzWTB0WW03VGZCeE5kb0RSNzdvXzlycG9obVhYMHB5YklSZmw4Y3NxaWdjS2lZZEpyXzAwSXFRQ05hOWhzZ2ZjTmRfUHdqb2hQUlpneWRjNnNsaEduYXF1UG5wV0JhZFVMdGJJOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:49:14Z",
-    "hash": "eab5dd9c00eee29befa4ecb39aca51ee484026d49847778f0c55345ad7d5791e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "PNC Financial Services Group Inc. Acquires 41,712 Shares of Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUlJR2lKZzczZEp3VDByNXA2aEV6V1FCWElOOFVLc2JYLW9PUXFYMjAtSmd3ZmxFbXhFdm96V1FmcEEtMTQxWnVrRUp0ZUdycXNQMUp2c1RnUU50NWNHeTNwdUV1TXJ1cm9NV014T29BNlVqTlYteHU4MC1HVG8yU3YzR3JzYmlzTHlFbi1aY3pfMlVxMGpWblZFdFhGSTVfTlBIdWlMbm1oWFhVZWFGZnMwSXVKQ25ZcWI1TUdRb1llR2ZXVE4tUUpFSU5FeEFfd3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:48:35Z",
-    "hash": "2c0a607ebc04eabe3ff4e81bab058ed34a517cc01524b1aa82e15105dcbd2ea4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Inc. $GOOG is Maple Capital Management Inc.'s 5th Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWXhSc1hJXzdWb2g0c0NFMHUwa0c5Ymp3VEhuQUhDbmM5M05oSHJBc19WT1J5OW5kV0FrRkw4R2JRQk9LbVhMMkV6dXRlTDY1bE5JS3FRMjQtZ3p6TjdsVjJUR0g5WGszQzk5OUZvMHNJRjRIMjFKUVdFZldxeTFQZGV1b3lfeHAyN1FsYjNUUVVaelQ0NTdBQUZIejR2UVJNcVpuaWFkYVJTcm94UG05aDE1V1phS3htX1dOQ3VDMkJEUTFCQlp5NExrckM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:48:35Z",
-    "hash": "15fd908ad6be774ecdc777de5ec057469c6306090483ea83af6ac7e443ff4edd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Inc. $GOOG Holdings Increased by Kelleher Financial Advisors - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXJPWmxWOVFhenhWd2lZSmZaNk13ckJkdFpYbEVwTURpVVFsVWdtS0hUb3BhbzlhTENYaUtORDY0T2d5NnowN1JDaDVuM1pKYW9SWmRzak9jZWhmS3hITjRKRzNiSWNUVTRmRmlEb3dCdmN2Z055SjZmNUhHemJSTDgxazNZSWhpaERJR3drMTVLT1pCaEtXaFVtd1BDb2ZuR3RnYWxMelplOXNzUmtENkVUUmcxdXZ3OVBjZ2ZqeS1SeDRsS1ZJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:48:35Z",
-    "hash": "de5df791b06d3f4f49242820b5019a52e40a4a4af4d7c4d52a3695e4404b3e2d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Defiance ETFs Launches HOOZ: the First 2X Short ETF of Robinhood Markets, Inc - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSVNDTlZ2Y2JmRnNKUmQyZ19uRXFhMkI3dWl2S243Z3I0WTl0TEltVXVOcXlGN1BsSnlLRDRIdjBwWGVLWGtLcUpobEpGeXlDU1dNT25pdmoxT01id3IybEEtWUNPa2VBRmhuNmw1czJUZEpZY1dKbDQ5QTl6aUtoRVRYc2UtejlwU0FXNUp6dHp3Qi1sMnlxZ1g3eDNGbWFVLS1aVkdkaVl0STJVR2pBZEsxSFdjbXJLakp6S0VPejRDQjJWTEVwZjN3QkNEYURYX0RXSHdHUFpVSnhxYWswbUswZ9IB6AFBVV95cUxQRlNwZk9kQUVTdWpQRU1FV0xPSmhpQ0VwNTJnUHViZF9YcVZDTERmSFRWeTZuNlJNeUlNZWpvYklWWm0wdDF3cTViOXRqTUo4aUloMWUzR3JDZ3c5VXhaQ0FldlZEZERDVWpuWE9qLWxQeURrRThLdUFxUXJHdk9HUjB4ekJzcm0tUF83S3Q1eU0zV2lKZWJESWlWLWg5YU4wTUNqZzhoc3FMLW8zaWNsZDg4ZXNVM3pwNTliQm1hcjF3dXBWa3FwQlBfdHVfb09JRDRBX213T1FpNWszTVZCWURYb3FINGNU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:47:07Z",
-    "hash": "518388df937ba5409ada4cb2dc0ecc8fa599e43d72cd84fc7a6ff979e9cc5d61",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer to divest remaining stake in BioNTech (PFE:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnZKMURPMkRYWHNIUWVnLXdFSlByZC00a0d1OE9rbU8ydF9LcFNZWlRyb1c5ZWlzZXFmVzQzWjRqaElwbnpvdTc1QklHR3N0OGV4NGRTR2JpQ2tjMWZ5NERsS1N6bU5UNEhLNzdQdnQ5S29PQ1JXTkdYTkhabDNOTFVn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:45:47Z",
-    "hash": "0dcf3f88aa62312a27fdb6d264dd4873402a233e79b235d6fa4f8d451eda41c1",
+    "published_at_utc": "2025-11-13T14:43:52Z",
+    "hash": "48cedf9a9d7a9539d42bf58322a1e801e5622d64b8a99f153d94b04108a4cb10",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "10 Top Crypto Presales Dominating Q4 2025 – Here’s Why Experts Are Backing BFX as the Next 100x Coin - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUTBvLTlzMV9PczdzUXplNUxvWGxYb3BHcVh1YUVSYmgxT2pDLW5OSHpUNlZfMXMwVmxiWUItSE5la1Jfd2l4Y18yZEdnRGxGOEVoSlJQWWd4ck9xZ2FKdlpiVl95Wm8wVklBbzZiVlFZVlp0XzFXeWRldS1DdGZHcUE4NlNPbER2b0N5UlhHMFVQLWZBd0JMbjMxWFRUTDlfdVFLcXc3SHc2QkQ4SkFRcEhENU5wcE9PelhLTDB5bw?oc=5",
+    "title": "Bitstop Expands Nationwide Footprint, Bitstop Partners with Royal Farms to Deploy 300+ Multi-Coin Crypto ATMs - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUGFmZEljVEh5SXNqSFFOcTl2N0x4WVVSMGlBY2RiNFBnVnRkNnI5MXFxQVVsaGlvQmV3NDZZdmcyRHB0OHNlZDNyVm5pOEVITHYzbEoyaF9PdGJoUi15Q0Y3QXFiNFlHUjI5MlJZdjhIWFQ5MnhZU2gyYUhwNklyZ3djX1Y1WGJWX3ZMOVM2M21MRDVIX3ZoTnVuQnlpb0NBMmlwWnJNRzZTcGR6cS1NRnpPLXFySk01RDM3cTJOR3RtYV91dEtWeTZ5eGVwdzl2ZXpURnVKaGl4QzNBWHIzc3NHaHFhMmJNRUtCbENKUHBaZVktZVE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T13:45:22Z",
-    "hash": "1ac02289588c51863aa5546020cdbaee0cda00c88ca0d093fc4fd76efcf44f30",
+    "published_at_utc": "2025-11-13T14:43:00Z",
+    "hash": "450a04708f2bcf63f70887897da679094b7b492f35663751fecaf76eea885ac2",
     "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Is Bitcoin Bull Turning Bearish on the Crypto? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmIzbHJyaGJHci14TkZNLUlhZGUxWWQ4MTZKT184NHJ0dktyZEw5TkdFdklpRWpaMGFEN3YyOUZZTFU5Zy1URkNVZDRRWm00dzRNeVVJX1ZOMDdoNFZmMnlXb0ZKSzc2VFRoeDR5akR2dk9adFZaZDNUeXZIMm5iYjIxdmMtREZz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T13:45:18Z",
-    "hash": "b0bb231e9073eb7e22cd55165e8ed59b757cc2187bae142b02bf0041c41b6674",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "GlobalFeed",
-    "title": "+++ Geschäftszahlen +++: Generali schafft kräftiges Wachstum",
-    "url": "https://www.handelsblatt.com/unternehmen/industrie/geschaeftszahlen-im-newsblog-tencent-gewinn-legt-wegen-gaming-und-ki-zu/24098412.html",
-    "summary": "Tencent-Gewinn legt wegen Gaming und KI zu +++ JD.com wächst dank Rabatten – hohe Investitionen drücken Gewinn +++ EnBW bestätigt Prognose +++ Der Newsblog.",
-    "published_at_utc": "2025-11-13T13:43:27Z",
-    "hash": "d7ec9bea7065c4ab138cf6841a2358581d8737f87203376fb8f8a8e8331511cc",
-    "source": "rss:handelsblatt.com"
   },
   {
     "asset": "Robinhood",
     "query": "HOOD",
-    "title": "Geode Capital Management LLC Grows Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXJfcWo3Ti1tbVV1R3dfbzMyeFFHUF9Idzl2N0VkQ244TWdHSmNnUml0OEoyVEZpb1ZJQW8yaTNJenoxVklOX1NTVGR2eUpyYWN1S0NNX3o0ek9SbmJFSlR6NzZ2WG1ZTU9mOFcydmRSdVNvUHljR1BRTENoeXRvNDM1QUktMmx6bXVvSmlTMXYxUFYtTUpyY2F1NVBHS2lhcm1SVjJ4N3dJbXVjMk5ubXRya1FRczZrVXZxUE1Xdll0QjBCbEt1Q1UtUmR0V28?oc=5",
+    "title": "Thompson Davis & CO. Inc. Reduces Stock Holdings in Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ05PN29ORUtQRHdQZFl4SktvN3BEeFlzRGhMUnNvQmlmYXM0dEh5R2lNSFQxNzdweXg0Vi00QWJIM2NPMXNvUHNzWWVNSDd1Zy11bnU3dUZuXzRkTElQbTVFUW9aX0RtX3U5dm40ZEpnaV84NDFBd1IxeW0xSkMyNVk0VHRxX3FyQUhvVHVLT0tFTWRBUUI3bFFrTnJDZ0U5aGpXUW1wMERhQ2xUbmdwSGp0QW1lSE1NYzRndS1hMEU1MkpWdFozdEMwc0haMHFM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T13:43:22Z",
-    "hash": "bac1e9ec7aa776824acdd64e478c1086de067e8306cc148eb3870f62fd7ac9f3",
+    "published_at_utc": "2025-11-13T14:41:05Z",
+    "hash": "99181846b36c9c74d64b82f3fcbca24a210f44604f9304b88f17f11565a4073b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Thompson Davis & CO. Inc. Makes New $445,000 Investment in Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPM3Y0WkdzVHhDRHJIQlJmeGVHVDR2YzBXMEZMV1UyMGM4VENWMVNFRnR6d3Q5Ni1VSGxObkx2M1piRko5d1l5Snd5YzB6RnlhWFZTeXpnY0dwbWZmUEFiaV8xbkhKajZ6Sk5KY0ktQTU4OEUwQWVvYnlSRDNsQWI5MWk0bzNHeE53dFRYUWF0dmR1dWZHTEdRTWExcnlIeGRMZVBlZllvREl3U1RzcTdoRlB5ZEMxUkdleGxfZ05IeUMyNElyWHV4ZWMxOVVpR1VqVW5LMHNWWnQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T14:41:05Z",
+    "hash": "a5f93fbad64c5ff9493c39c3d145ec1fe20373c961df7476ac303f24258b4a5d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Mizuho Securities Sticks to Its Buy Rating for Rocket Lab USA (RKLB) - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQjRJcDMyamJndkQ5Y2QyTmk1UFNLb3IzTjJ5Y2VRREExd2c3aUM0dzl2Q3E5Q3h5SUFDNnZKS3ZQa1hHZUNjQ19zZDg1VHBOTmhBcHMyRHRxUDZnY0owakxmOTI5a3Z3QmhtN3NVREJRWUtfb0Z5Nm9ia0p5RF9LZ2V3ajNWb1MyQ2tpNEVxNFphSXEzTW0tdjhVV1paV21CY3d0Z1Y2MmROWk11M1BPUHVuNktTSV80SlRXYjdUWVBPeXhZT3BZWWNTNENsSU5pRUd3N1V0TU1XMk9oczFLTFJtRDdUS3M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T14:38:35Z",
+    "hash": "0d62ae2d1d39da94c11b1ebeb6d4ba2d45dbaa5289a3d809155ba3f36821af4a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Oppenheimer Sees Another Nvidia Earnings Beat, Hikes Price Target Before Q3 Results - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRkd4aHNveGNRVzV2N1pkT1U2aWtDY2VQZ2diaVpLVzNncFRkVlJjWWlXSXhPMXZ6MnVOQ1EwQldnbHBYU0JJOEJhS1hKWU5zdTB1TjdCUVNyckstNW1ISUtQMDU5VnRIVGR5SmpLdEU4VlJlYnc1UmlqVkJ0OTR2ZmR2T3Ayd0lpVmRWUUZUNlVsemZOdzZOdEFqOXJUU2xpTU90UUllVzhTZXdWanc0MWR3Z3hENHZ4a1FyUEtMTDBvMHFfTmtYRm41bXpiTjdpWlZqTHlHX040ZW03dE5N?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T14:34:00Z",
+    "hash": "d9e540b4dc7defed1a4444c122fb1e502c24ddda6d2ed6461ec2f5b4f39d1893",
     "source": "gnews"
   },
   {
     "asset": "Siemens",
     "query": "GlobalFeed",
-    "title": "Immobilien: Warum eigentlich ist die Nachmieterklausel im Mietvertrag so wichtig?",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/mietrecht-die-wesentlichen-punkte-zur-nachmieterklausel/100100965.html",
-    "summary": "Aus einem Mietverhältnis kommen Mieter regulär nicht so leicht raus – außer mit einer Nachmieterklausel. Worauf sie achten müssen, um von dieser Sonderkündigung zu profitieren.",
-    "published_at_utc": "2025-11-13T13:43:00Z",
-    "hash": "56b63b15a951e6c2dc5a9bad7ead2c61bb2d74d5f9b6a5d7f853a1d6c8b49f46",
+    "title": "Dax-Konzern: Siemens-Chef Busch will Wachstum beschleunigen und Digitalumsätze verdoppeln",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/siemens-staerker-als-je-zuvor-wie-busch-eine-neue-aera-praegen-will/100165761.html",
+    "summary": "Der Vorstandschef nennt erstmals konkrete Ziele für seine „One Tech Company“-Strategie. Die Digitalgeschäfte sollen besonders schnell wachsen. Die Börse reagiert enttäuscht.",
+    "published_at_utc": "2025-11-13T14:32:14Z",
+    "hash": "b3c3cae954b6b6c32d6dae3380254bbf4715ced4787c70d5d34297056e18412e",
     "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Too Late To Buy Alphabet? -- Nope (NASDAQ:GOOGL) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KVGNSLUZ3QmFZdm03TUlWNTVubUoxZzFyR0tqOFczX1QtcUM5Ump0SmJKcE5OZG1uLUxremVlVkhyZXlWLVAxZHdYVk5BOWdzZWJyeUpBaUpmRDctNTU0am80VWZjZmtLbHRmbzJPdFJseFZYU3hUQmhB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T14:32:02Z",
+    "hash": "7d48bce4afcea8ca065de997ab70898e5dc4fe216815669d1d46858378da0d49",
+    "source": "gnews"
   }
 ]
