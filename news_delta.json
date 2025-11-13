@@ -1,122 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "GlobalFeed",
-    "title": "Dow Jones, S&P 500, Nasdaq: Rally an US-Börsen nach Shutdown-Ende bleibt aus – Walt Disney bricht ein",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-trotz-shutdown-ende-tech-aktien-und-kryptowaehrungen-brechen-ein/100174317.html",
-    "summary": "An der Wall Street ist die Sorge vor einer KI-Blase zurück. Der Bitcoin fällt auf den tiefsten Stand seit Mai. Auch die jüngsten Zahlen von Walt Disney kommen nicht gut an.",
-    "published_at_utc": "2025-11-13T22:20:45Z",
-    "hash": "95dedd41c82456f87fddc2a32d5b638a3ae3f785b5d8354e5406086d70d619fc",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab (NASDAQ:RKLB) Trading Down 9.4% on Analyst Downgrade - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX194ZWl3REJ5clhXN09ldVZfdVlYX2ItU2drSFUxR3ZDSDRpeEVQYldYcDJIamtHLURJbWd5N2JvVmlwWGQtaFIxdHZzVHB1RkRVcnJpVndfdjFYcm1FZ2Zza3o5bEhORHo2M2Q1NWdUc0d3TzhRNjdlRHJzcGhHNmxYOTZtUGY3TWFLTFN5QnVPUms2SlVDX2pTanNfOU84QUdfQjl5N0RwSnpqNTZ0ZVNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T22:18:54Z",
-    "hash": "d14cc3388d7bb0b93f284474f82600ecbdf55903109bb6195f713875e24f48f3",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "SoftBank sold its Nvidia shares while betting big on OpenAI - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2JhbWFlM3B5WnA4djI4YTlPWVNQYnhVUlhJRmtfSHc1cDh6UzNzdkF4WlFjQ0NCQUx6WkxDbVdUWGNRQ054ekVxckFxT05SR3BnUklOMTg2RlVyMGRwU1AyR20tcFpqcVg5c2l2X2huclJ5cXVhSmp1YU5CVG4wMjZ6Q1BlTjhES3lsZmI0LXNUUmZSX2JCTTQ1TUNxRENEU28yQkxYQUwxZTNSTFhQRmhKWW1sZmF4T0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T22:10:00Z",
-    "hash": "9e41ace4bb069e3e81c513eb8e05504953230c11e29a1b2349c7bbaed3180ce8",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin Price: Why XRP, Other Cryptos Are Dropping Today - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOd2Y5eEMwNTRNdGF0cElzV3RpTkp6eUVfT0xWM2Zaa0dmY1U5MWdSNGl2aml4ZXpqd1VtSHg0aDY3aXliR1lxTGxnbThGSTUzMkhNczFYemNVUjFfSnVpOVJNTTYyTEdVYnFvMFhXdV95Q3BLcm8wSzZnbm1xblg0SFhuRWV6Rm9la2E5RmVMUVBBck9uOURxbkxKLWpvZ3VXSGpKTktoYk1YWHpMMWZUejZNQXpVX2hFSUdLTFcxVFU0ZnNFNWhlQzZ4MUNQU0E3V3cyZzZEelFkanJiV1RnQzViak5HY3JuMUZmekg4ZDZrNS0wWTZjU2dJNWFaLUdzeEZRTTRRM3p1cFpZN2p3Tm9kNmhoV2VPVlQ3RGVCVDgteFI1YkhWR29jRFNJYjhDMUMtcmFFMEJkOGRUeXdGNWFtQ0d0djk0UUNaWkFhdHFDNUhxUlBLa1V3T0Rjb3lqVnVfYTVtTi1pRUJjTk4zanhtRWdKd05FM3hUM1REazFrM0dRR2Z6OUJoamVvZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T22:05:03Z",
-    "hash": "22eb35bab0fdfc9305dfe0919cd25c9911cf3d1bdefaa54c6f77ab4964be4cff",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Announces Redemption of Public Warrants - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWtHME1HUGp5QTFQUVNoektldzRMZnhkVExTemEyUnVib0RKa05xa1hCU1FVSmtaRlktZzZzWEpsYkpyZ2h3Qm1VX2xaSERONWFrUFhoUWtwc2FRbFhpSHAzNXQzMWNZZG1XQy1vTTdQVjY2WUdlMjlkN09GX2RwUmZQVWlTdWlEY1ZpZ3hVR3l5SG9ITU5ENHVIRTRYanRBQ3dnd2p6R3RxSzQz?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T22:01:54Z",
-    "hash": "d5431cafbddb278ce40bc0cf367172036a226cfb7d3caec5cae468b1a286930a",
-    "source": "gnews"
-  },
-  {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Hold Rating for Akero Therapeutics Amid SYNCHRONY MASH Progress and Novo Nordisk Acquisition - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOSHFtbVNPbWk4VVhVTlYxVDVwN1lZYVNYM2c1UXhKa3VQdmwxV3RQUHoxOTNmQTh4QVc1RHl0dFk3Uy1vWVpGQ1JfSzVUcGZUbDNNT1RDNzlDc2ZFblZmaGF2YUJTcUJ1cEwyZlgyR1hxUk9vMEQ3aGdsRDZxUGFzX0xlTjRXTFpkM2N1Z2k2V2k5TXpURzRCMFBMbUtybzFFTjVyU185dlphN0VhdFIzM09lX1A4VXFGdGxVN2FZdThKbENFRUJZMHlGU1VaVWFVTXB4WDFVSGM3c1RVU2hGVWNUQzRQU2s2NUhxSWNXMVUyOE1pV1VLQk1kaHpyaGV5c3hQcWxKT28xclBLODNKb0Zn?oc=5",
+    "title": "Novo Nordisk A/S: Candidate for the Board of Directors will not seek election - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDBHekVyVUlFT3pxN0QxTmFETUVWbnZ2OXdqb3BMbmp0cXRLSEh2UzJ2WjVKcmo1dkhmelRaSDBKY3ZWMkVpTXRrVl9ieW1NUldBbF8zanh2bnE5ajQzSG5IVmRIQnNRZzhodHVsRzdxMHB2N1NYMjNxbUVRQUhid0MyajdnVG5pa1lWZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T21:54:38Z",
-    "hash": "0c70d5e2ad591433c2972d21798ec3c840850f1fc5462e26fdff3ab6e5ddd6c4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dow Jones Futures: Stock Market Tumbles As Tesla, Nvidia, Palantir Sell Off - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNUFmZ01faUJtN1lEaVIzR3Jsdjl3MElJWENEeHpMSU0zWWpielpldklwT2VYZXdOOEc3dG5mNEYxNVktU1lvVVYtYlBWVVZiUHY1NkEtQzJzcmdUcThfVUFlcHdIY1Z4TFcweUpKNHVKcWlJNVpvanA2RkJyNktXZ1NPcVRkREdTZERxYmRKMW5HbjRDdnh4cUtNNnZRMFJObDVXX1J1Q3JENVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:53:00Z",
-    "hash": "1ec3fe2c46411c4bbe146a567a55fd5d4aeaab4e3e89e2a3c9bdfe140d11037a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Europe: Shares close lower with upcoming US data in focus; Siemens slides - The Business Times",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWd3Y254MElPcXhDbWIwQllFWi1OWlJaV0x5TDZhcTJWd05TWmY3S0lmNDVsaGY1c2w5Y2VDdWtGYTF3c0NWUGdYeUN3YUtXSzBHNVN4WGFxQW1kWlRNSnRqZU00WWw3NDB4ZGdpU3FJRjBRUGhEMElZVHZqc3Jsc1d6VDRLSWRyRVFEVkZoTnRGWThTdG15MnN5SnllN1hPdFAtR1BnVWw0TlVncWVuU2w1Yk9QTGtlcG5yV2lFRmZlWE8xUU9EbURPS0IwbWszeDFRSUc2NHY?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:52:00Z",
-    "hash": "8af6b23a4adef6015dfb8edcb4dc1810048c4e198b679f0ec8f49010bf26db4e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "$47 Per XRP “On The Table” In Case Of This Mega Squeeze - DailyCoin",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2hMOS01ek43WTB4eDVTYnNIbDJqWEs4cG5lOVJETWoyb2pIVVNJTGd2clpkblhubmgtZTFNOWZKTDZqbUppR2JsdjV3LXlOVVNWRWFkSExTWWE2RE9CaEVKREhsTUhrY2ZuckVzdEY2cFcyNFRtV0Z4bFVoRGpLMw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:47:00Z",
-    "hash": "3ff47a88eda6aee64a22c11043bdb59ff3c2e8fccfaf180f23219823b73dec0f",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth Updates Bylaws for Delaware Compliance - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2dhLTNIUjZWWWJTYTF4czFUYldHMktSTzE2d255c291b2xmYjlBa1FjY2ozejBhVFdGcW5ZUU5mSHA5Vk03ZEJZR0Rkek1wSm5DWFhQN1lkVFpoRHlHVmNfNnNuZUhQVFpxNnZ4YWtGRWFHNjBVZUZSY1FzYTFSeExpUGFibkFGeldVWjdDNk8wbHAyb1VUYmdWYXF2YlFXWURsTmpn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:46:50Z",
-    "hash": "c34ba9a58438476c38d88f5288f1cbf058102f0886c156e498b8b48fc2ce716b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood reports 115% year-over-year growth in platform assets By Investing.com - Investing.com Australia",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0xpZHRxbU1HcTV4NXRMeUtWTTdGWW9mMmZTeUYtdFRjYnpOMUFCRk5TU2ozZlZseGw2WFpNRzlUcEc3aEhtZVRXbG1oakJuVzA0eUVtTVEySENkSzFHVjdfUVFBa1AzVmRxaU5tODQ3SXVadEVtQ3FKSVJvaFdYYTJNT0RyYmZUNzlzcERTeUZWV3NqTHJWV0VUQzVUMm44dFRCQ21nMTZBTXlISWhydVFHOVFUYzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-13T21:44:54Z",
-    "hash": "9e5afd163e97c4c8ed4cb6cfb5532094b40c36b99d3b11a78bb036dcbbf0d82f",
+    "published_at_utc": "2025-11-13T22:38:00Z",
+    "hash": "6797d66d5a5a84de14a8994d9a4f624abb512073106b5bd0aeccf7558828db81",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase, eHealth, Carvana, Skillz, and LegalZoom Stocks Trade Down, What You Need To Know - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUTExYjRVWmN5c3V2cjhfTTNGODVRUTRSaW1ROFZrM1oxRWhEdGtzRnNjamxFZzh5d0NKb0lDQi12UFNrZHVGOWxxejZ4aGpEMnhOTDRZam4xMW5uQl80eUtHRjhkeFA5YnE0WTNTX1FkYnZ3RjQ2blI1UXZoLWtRa0UwakxmeGNRdVRoOTZlX1hSWVNKX29zMjQyMjdqLWNhcTR1S2JwWnBSZXhJRUk3SVFGX0c1YWc?oc=5",
+    "query": "COIN",
+    "title": "Does Coinbase’s Recent Share Decline Signal Value After Regulatory Headlines in 2025? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMVBxdUdlZF9remdwdm1DeTg3b0RaREFqVEVHWjYtaDBwc2I2NWc0dE1DdUZNMXBWa29odnhhbFp4X2w0TVVfd1JUVHNrNDdTZUwzYzc5UzhjX2NlZlVFc0sxdXpnbmNQVVI2Y0F0TDB3MWx2RU1zZ0IxckpxRFhfaVRzRnNwaEJ2T1Q3a3BDLTA5OGpibUswcWxpUUdlZFVOTWVWandnVkQ3ZkhQMUZaVXdPdlRETHVnVFFOT1JuTkVkVWJPZHpSUmdLeHMzQmozZUZKVDE0aTVUajRNTFVLQU1B0gHnAUFVX3lxTE90VG42U290OTVXYkZ3Mm4zcjNjUkdnS1lrTVRPcW03eUVGOENrcnRQeVNwWUFKUFRITEMweGJaTGo2NUxSdGFzWFRqOEo0aVBjSU9PblpjdFVlNmx0N3B5cFM4WmRDbDFiblhFVzRLU1NEZUd1OTgzQmdxTDRQWFBYU1A0NnFLbi1GdTlSMWpkM2VnTXJOUUJKRmtETFIxb3dxVFdtNmFmc1NtMlZFZmVCZVp5Vk9GSWRiOVF5dEFhWFVXNzZuM3E2a1BUMVJQanNiSWhlTWM0MkhkUXE3eWFtaXRNUWdvcw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-13T21:44:46Z",
-    "hash": "be3fbe9cee96565b524a90c3cddc1084254d6e8e48288254d4ccefd7334eec35",
+    "published_at_utc": "2025-11-13T22:37:25Z",
+    "hash": "34c1b17c898ff3e70615a65e650920d88fbec072ad17850079a2af032dfec893",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Strategy’s $65B Shock: Why Its Stock Is Now Worth Less Than Its Bitcoin Holdings - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNblBobWFzaGQyMXVOTzhVMjhNNUlhdzBMZndlaEZ6Z0ZvbTY1SzEzXzJVbXZMVVdwZS1UNkxJQk5sM0NvcUdfRFNNOEhxQ3RZZ1RmZVpnbHN5ZEVKYmlpWXdVSl9nbU5mSE8yX2NjcFc5ZVVBV0o4RFoxSXROS0llT2V4aUlJbHJTWWFvelZRVFJ6SzczTGtsSUQwQlhvdW8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T22:35:55Z",
+    "hash": "697e1ad737c4e25783baeaf26747e01f5646309a22e0574a2faaec7c7a4f4a0f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy Now 13 November – XRP, Solana, Bitcoin - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTzZuZ18xT29yeGNLVC11dGNxSnE3TmtwMm1DeUliMTJVM09aVDRfUExCTG1QN1c1TlRpNm5zTzVIZVpUWVJtR1pvdGtGdzhjWEk4WTMyODdEYTJVa1JKTGRaaDRnTEN4d0ZuZHo1aU1QZEtsOVlhMFBIOHk1am9Oa1h0U2ZxNmkwc3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-13T22:35:00Z",
+    "hash": "a1951a274c50d6d8db5b1293e987f7d47442cf9453592bccae73993dc59ad350",
     "source": "gnews"
   }
 ]
