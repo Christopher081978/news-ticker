@@ -2,11 +2,41 @@
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple News: Canary's XRP ETF Tops 2025 Debuts with $58M Day-One Volume - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFhpZkxsczZsMDVaUkt6VDktQ0g3WDdYV0cxZEpRMlgtQlgxcXdTZUl1a0h5N09LUVd5VFRKWjJVclFzSnRWUDhFb3hsaXdoVEpER0lld0pNVVBuU1pzUUVmVFIyeVB4azF2WnAwZGw3OTBGdHlIS1ZHU2FYLWRGd29Na1AyUkgzZGJKTXQ3cWRpT3VzR2RWcnZra3VQQk9qNldTWFl3cw?oc=5",
+    "title": "XRP ETF Fails to Bump Bulls as Ripple-Linked Token Plunges 7.3% Amid BTC Selloff - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXd3bGs4Y0s5M2djM3pzR2VCWjNiYmNvQUxKS2JwczBSb1J0cHBOQUNScjF5UHI1aUdELVptSGtnTzR0ZVpTbkZHNGdleFhIWUVQUDNIeTJLTUpvblN0bGJCT3FCRFZ1Q1pqSXlhT0hPbnp0QzlMQXItdjg5c0lwOG9rN0Vyb3BoMXJqUGtOWkgxWURsLWVfQmtXMVFMOWg5aFF6T2o1ZVZZVUh3cGxvaE1zZVlPZGdMUUp4RFoxTWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-14T04:39:52Z",
-    "hash": "c80dcd182919e843ce8abadc405d89531483009ff39996f24257ff17a64643ff",
+    "published_at_utc": "2025-11-14T05:06:34Z",
+    "hash": "dd7e2edd153cc3a6ecca59a95bb9a2393eac95f45d69ddbfb66c4e42ccd29279",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Hood County man arrested in connection with a non-threatening school board post on Facebook - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOXR5YzJlcFBpUFFpa3l2Y1lCS2loQ1kwdVRjSVJsTU4yM0ZxVmF1RmM2ZjJKbjhGcF9JSzNKX1hkUDF4UlJDWERhLWlWZkJaQ2VKckZBZ3IzX0pxQlhEX0FYQl9rZGt0UnZ0elM5X1RCREM2RnJ6UWpjNnNQbl90WEdzdjd4bHFCQW9JMXZXNTh2R3RSUG1rTkFiVjZXU3pZWDMxbA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T05:04:20Z",
+    "hash": "c55b12d64cf02096c9b9edcea2d81ce90c9bafa217ecebc918367221ca211483",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "BTC, ETH, ADA, SOL Price News: Bitcoin Plunges Under $98,000, $880M in Liquidations - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSnJFNExjcUNfcXFMZnFMRWFVOUt1cjZXajV2RVZSZkZMa1ppQWVBdVExYU9QMS1FZVFGaF9IZDNMcUpWUXVIUGJaaVprZ3VKQWNjcUZDMjhwT0UybUpkR213WEdNS2ozaVExX3NjdXZXbVlhSjNtelhZSHpOTVZraGxlTDRHemdILXhva0lJTTBpckVCM1lITVdtZXBpZDRoSlNmdk1KT1UxQXRISjVFaFp6RFJJOEhJMmdRaUliQ2x2azNBdnhVMktjZno?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T05:01:34Z",
+    "hash": "2963433e21382a7e5444cf3b2169d6ae50a7f0f447b8b3e4fd6f8c916eb50ebd",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "First Spot XRP ETF Smashes Initial Expectations, Expert Suggests Record-Breaking Debut - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcTFuQ2t2SEFtUm1DbTBYVHkxVzVXUmxXVWdBNUV0Y2NMZGxLbnBnZU4xNm9NbW1DR3ZPUVc3NE92RmdIZ0xmZ3B3Sl9HZGpDVjNnd2RENUo4dG5MR0huaE1hcW85QkdiWGJYa1VsV0tITUtTSXpWV0hfQTBxejZuX1J5dDlsMkVhcnRDZW9WM0FTdFhpOEdfNnBDelJqR3NoQmsyUHBSYzRvU2ZOX2hlQ3JrZDhyMGRMYWRNRUNpSVJTT1pLcURMTFRGaExWNjdCT3FkWldQY1Bub2s?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T05:00:00Z",
+    "hash": "6e52f8502c6c33b2fb31e7c32e6b1cd55da20b69bc383243f8456a370902bf57",
     "source": "gnews"
   }
 ]
