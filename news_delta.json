@@ -1,62 +1,192 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Berkshire Hathaway Reveals $4.3 Billion Stake in Alphabet Stock (GOOGL) - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkhWVTFCWWMwNmFVekMtR0g4bms1Zk5OdVpnUEZzVWw4YUJEOHBQQ3ZPRTI3N2x6cGFUQTRTOHB1OVpUTlhvRTJsSUFrbDB1di1fTkliMy1JSTRJREI3WVNnaVlwYjRJNXJmLXlBLXNlRzBad0RwWWxfQzZpRmEtNUlnb2xZTWVINjA5S0hEZjdmcDktWFlzU3c5cXJNYWM?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock Market Digs In But Dow Jones Lags; Nvidia Earnings, Jobs Report Loom - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb1JLSXhXZEJIUUd1blZ4bjNJMHJuTUF1YUZSclRDLTI2LW5RTjFvV3FDUXN3OGh3M21iUm4td0M1WXBMcG9veEFsWnNtemVxdU54eFBxUTlGNWwtOUczVFhqQzBVX0JkTEJKUzZPUXRaUkoxWXFLRlMyWUVvUFFmc2xBRXJ4M3dqTWdTamJtOE5HNmFieWkzM2F4YlRXRVEzZjB3eHpGM2tJMWVYQmI1QXhhSjRMWFQyeVEwWUZaalAwMWQxVTdQME9hX1Bud1puRDNucWFLSlc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-14T21:41:05Z",
-    "hash": "d00194b4a3dd405f2035774802d55ab0eea7ec4465bffeb76dc047c91273fd8c",
+    "published_at_utc": "2025-11-14T22:25:00Z",
+    "hash": "62d9041c061af2cf0f592f00971b39c2064661127d43bbef27e6145e6da57464",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike (NASDAQ:CRWD) Trading 1.5% Higher After Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWVdFRE9TRHpkMUhpdHV5WnVva0EzOFVscjZDNU1adW9PZDNybE9SeEFlVU5RaFlFckFiSTRib3hybVltUTh3UXotMUN4dFlEZUlLSzhXWDFoaVA3QzZ2V2ktZjdxSHdhV29LTTFwS0NldFJ2RlIzbVc0aW10MnVWWmkwYVhKTUxWclQtcXFQeU8xTFFVcHprenpMdlNPZEtEYjBXOUpsNFVtX1o3Sm9nYll4dVdpWG8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:19:56Z",
+    "hash": "b2b0360e0a0a0c926f8887121382d6bf5c0208429f2db63835d4964ee5c6a28c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA (NASDAQ:NVDA) Stock Price Up 1.8% After Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaW5od25GVTczV3h0RnFiZXJGeTdQMVVFem5TN1RuVWk4QUo1aFAtUmZWRmRVUFhFVV9aTzJ6TGtEWDlJTnEwUnVScW1KS2psZGZMcXlhbl93bE13M0p2RUVuV0IybWJuR1Rfb3JQMlAwNF9RQ1RqNEZmNHRXamtXZEVUS29wUTJpMng5cXdCNnhtUjQ1NEttNExqNjdVc2JpYXZsVjlwcy1sSGl5Uk9pRw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:19:55Z",
+    "hash": "7e0c5b4ba99e57b839833570a3ea0a986134960ae279ac831edf5dd6d59e0d32",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "AI Analyst Is Bullish on Nvidia Stock (NVDA) Ahead of Q3 Earnings - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQlFpQUl5R0E1cGF1b3ZKbmZjdGVUR21POFYxOVFtaWlIOHpubUZzdzlVckswYkRPbmU0QXF3ZWt2VS1WSWFKbGUyM3BDZlNiaVVtb0VLSklTQlhsdFV1Y04ySUlPZTFiODlNNGVHM2tTWV9QVU5WNjhHOHozOWFHQkJjNDU0VHB1NGZLVTVSMS1oR0VEVDAzRA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:16:47Z",
+    "hash": "1bdd00059770ab4b9d245592a76356601b20cfd3b8fb17f65e09ffd8e7904831",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Retail Investors Really Don’t Like Novo Nordisk (NVO) Stock - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPa0RvRTdwMFhSd1RIbm1kS2tKdG1LRll4bDJVNDc0S1pEWDd1eDYzMDFvcXU0MjFHZ05sN3NrMlVlb3lFa2lmemUzdkRZLW81dmFXQm15VWltUm5iRUEwdS1hZzFONHIweDh4OGFHRUQxdVJ4MzR4dkpuSG9WSEt2OQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:13:25Z",
+    "hash": "7cc9409528381f06afb52a9db430ea8f9b452e231983b40ba037596013e6179c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "All Eyes On Nvidia After Whipsaw Week. What To Do Now. - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDBhNDBnRDQzMl9uWFdtcVhiRUV6cFJKZF9MeGhoUUNZVS1kOEViTndEZDd5MDR4SV9BTmtiek92NTdCVmticGkwWnVFOHZ2ZlJEUlk1VTNpb3pYUlRMR3NsMVVVU2YteUJ6NElUcnpJRWdfQ25FZnAtM1VuS0JoZUlmR3ZTa2stTXRkMGVPVnlZR0txSDU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:13:00Z",
+    "hash": "925077bbacf73bb6ca5a21112734824b2b8112983e3dfa0e117057d70a3885ad",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk Stock: Buy And Forget (NYSE:NVO) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ENURXUUhSdzJrUWVUdjNTeTZhNy0zU3VuMTY4YWNLZUFaTDVYX1NOalNNXzZWZ3dfUWVWRTJlMVl5WHlBM2Y5T2JUd21zOTJQdEhvWi10OUdzMlhXTmtuZWlZeldnR25NNGhBVXpybXhMMmk5RjN0QUgtUzIzVUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:11:22Z",
+    "hash": "e84c369508837935e6979cae017794f0c9026466f811a02c9200583f199c6f50",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia’s Earnings Are Front And Center For Wall Street - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTVhjeDI0azEtcDNVajJqSWpoWEVqRm0tRTM2d1dLWnQ2clhvc0tfWUNjaFpIS1JXVV9mQmEtUnQ1ZXNzNWtKU09kT0FZRXM4LTNjOEVzRWlYd1Ayc1RmUmFHWHBrb0Z0YU9YaTBWNERWZXIxODBXcEJ0S2QtLVRSNjIyZ1NiN1MyUGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:09:33Z",
+    "hash": "76124d3f3d839e1fe5de56213791bb7b33da4d516d4239bd6f7d102ee8d9e26a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRPI & XRPR Drop as XRP ETF Pulls $250M Day-One and XRP-USD Hits $2.27 - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVlfeEtSTFRkN2duSjVvLXdiR29HYUNfamlOQWNZbFVNNERDMlVEbW5fWHZrdG1mbzdRM05BeUdRcUV1UFJuNm9aZmxOY0dNU1BkS242ZjNKZ21CR255ajNrRDRRb2xINVBXdXVSNkxuUzlfdTlzTW1RTXNubnZZV1NkeUhJaDhzcjVzbmV3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:04:47Z",
+    "hash": "ff5a6b441498b21179a0feb3042fd2f2c982a583b95415a68928275b2ce11966",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Jefferies Tells NVIDIA to Step Aside, Picks Broadcom as Top Semiconductor Stock - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaXF1RHlOYkRRRTRmYUw1UnNzQ0c0Wk55d2hSZkVoVHBPLWtVYURqWlpDYWFSWktiSkQ5VEctZ1N3djJOTGxkWnUtTi10c0xuNm1rQkZvN0F2YTM2d3VDSzZuLXdISXdpcnRZNG9hYURmWHdPU3VfVG9MTkNMVmFFUjlmSndzelFWLVJ5TktUVnQ2a3piSkVJWTd5MnBUVE9IczZQQjZMaWxRNWtybEl4TTFhMU00ZVRPLVYyMmVGb21ra2tJXzdSRWE5Y3BNc0JxTmtLcWJGejVzWW9mSjBrZmNTQWpFc2Z2cXA5dDl5OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T22:04:08Z",
+    "hash": "cf73f14de5ba833612f95eb8dfc39c43f138a56acec4e81572d70aa0b664a92a",
     "source": "gnews"
   },
   {
     "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana (SOL-USD) Plunges to $140 as ETFs Surge $369M: Key Levels Ahead - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUZuM1dXRXRoc0k4cXUzZVJRMmJFNlNDWUdsT0tmYUlVcjFobzJGUmFxYjZDY2dsYXVhNDNfcTFSYkx5VE41QUNmRVhVQVJhYzZDb2V4bnpNeGtyRHgwVlFYdGE4WEw4VDV1X2RFbmFFTktlM2N6WFdweXhXanZ0azRVZWJZYktJaHp0OVg1Tk1fbURNelRzVkR2dC1peHlITGJ5ODJpYw?oc=5",
+    "query": "Solana",
+    "title": "Solana Core Evolution: Here’s The Underrated Impact Of The BIT Narrative - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONHp0dDNSZjZBVlN2WVBfM2JTTXctdVNnMnVOcWpzaDUxaUhvY0V6Qjdib3BaSFF3enlBMGJuRFg2VVB2Tm85cVJDWXFMeldvdWlKcWpselFiWjV5eHU5eThQb29mYWQ4UmRtdXhqaFBMN2VFZml4cHBuYjRBQnVOejE4SGs5S0MyekxRcHlSbEJlTkhCc1pBRFh5ZDR0ZzcwYjB6QTRWenFueFBaenhpaFdQM29ObzREdldNWGxkOGZlRTctQlVvSw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-14T21:39:47Z",
-    "hash": "6dd5ee27cf4198d7790b17688c7a8291251f433d91d410e3ad6180f64150bca1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Community Banks Fight Sony’s Crypto Banking Plans - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzVQWC0wandIeTFVUDh6VnhLVDZzOEV2dlVJTW1oWnhROFM5Rnk4alpic2hucVdqcHRoOWVmZTNGU2xIdHBoWEY1RXphazRYREJiMVpKSDYxVUloNUpXV2M3QVhYbVdPZVlFS2l2T1h3M3ZMckdjMHhkdXZhb0xFSy0xR3B6Q0w2Y3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T21:39:07Z",
-    "hash": "2049eae936903b0ef2d2adc9e41844595282f31a28725807006df8ba0be7633b",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth, Nike share losses lead Dow's 288-point fall - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDJxZDJsUEtVS2I1dTZrcXEzZ1dHSFdhTE5nWks1S0NySGo2Q2NRaVczRjB6TVBfQTZSR0E1ODBRWE9mLTNHejJSUjRzUGJaS2Z4UEhETUtZeDF1STBwNmhqZEFzSjcxTThQaUJEajVfSDMzaGdJWVV2cmxoWEphR3dZWjFLMzhwS2tkc1R1Y0lxbm16R3h6Q2NPNVVmc0N5cWNCclJTSFNkbm1ybTNsdGpVMkdfWXNlNEVsR3dkbUdSZXlVREVxNXJVN2tHd3BFSHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T21:35:07Z",
-    "hash": "7cab0b999ad9d7932dce53f9622c47356be30ab86c02dd22cefa0bbff5b6f570",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google, three new data centres in Texas: $40 billion investment - Il Sole 24 ORE",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGk5T0JhMWQtMVl5eEFzdHpDUHhSMDFFS1ZuOWVYb2R5NFg4eEVkMFBDOXNVUHd6OEwtSkhHUUp6cFVYLXMtXzZ6ODFKaHhrRFV6bnZkcm4tRDVnbDhVbG5vZ1VwQ3ZHR0RUaFY2ZkdUTjBldElPVXlGd204cXRfbTUxQjFzZWJBU1ktLVpCYlVESFMzbFJaS3YyQUxFQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T21:31:21Z",
-    "hash": "6f101e8f3885b91cdbe7d1f0538ea2ce03a38eeede55e27bfff2ceb623a1b12b",
+    "published_at_utc": "2025-11-14T22:00:35Z",
+    "hash": "ef157f591a39f0cd737c600e7e6b5f92122a1083caf6a72e9a081bed5115557f",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "\"We're Always Buying Bitcoin\" — Michael Saylor Says MSTR Is Safe Even If BTC Crashed 80% - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHpQY3A5ZHdOZ1diU1JOcjR0SU5qYjhPeHhjTEluSmw3OTUxLTdIWVF2dm1taER0ajRfbDc5VnUwczgzeXA0UTJsRF91TkV3R09rMXg4X0FZRmIxWmRxU2JiSVlhcDVBcUpQWWtobHk2ZEVyS0E1dnphSWJ4ZnZzSXdVemlQdmM?oc=5",
+    "title": "Bitcoin's correlation with NASDAQ stronger during market downturns - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc3RlQUZ4V2oxLU1rb0RLemctV21YaHBsY2FmUTdQQ2RIaFJBYm5vNHhISkVXQ0xPNExpazJ2Xy04cmUxQktPdFBPMFplQlJuVnFRdEwzeDBydnFiZzVIanA1UTFXcF9Vam8wSElZZ0V3RXR4RUR5NzkzNHdnUUdpc0FQVkdCenZXcGIxRndaOUE3VGdKbXZJdDJ5Qmd5X2JfeFFhYzVZNkxoSFVsUDRZS0pNM094UE01bWROS21aNlN2STjSAcgBQVVfeXFMTkNpMFQwSEVodnVQU3VFWTZFTGRVZEctWnU5NFVwcUV0S1Z3eGFsTDhKOVZPdUZrRjhQdGs4cGQwNlZLaFdOcWlKd2Ztd1F1Sk9VZjFhU2VOcmRrY1IxR1ZuSzNscGc3TXVSLVAxRjBNUW43SWJmbnROUmZwbDRPbGJJWlgyY05xUk9mQnRUYVp2b1NULW9DTm1JLWZUWkdzOW1heGQ3T0Y3WmdYbzJxVXpidHU0M2kyVE91alRtalZaTGNQb0loTmI?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-14T21:31:15Z",
-    "hash": "644c0cad98260f308fff35043c9056691112b769fc27679e0e9d98d0573c0ceb",
+    "published_at_utc": "2025-11-14T22:00:21Z",
+    "hash": "b09eb2f4f7458cfb8a6d7d61abf0b06d75482a73b9b3df2efcc5d49ffcaaffcd",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "Why D-Wave Quantum Stock Plummeted 20% This Week - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56LXFESGcyUEltZWZrQS1ySlp6X3psTDdVaVZjM29iekdKNWpxdkFKbjZOQlNUbEhtUWZnWklaUG9rZ1R5RWp0ZmQ5RDN1dnc1TXAwTFEzV2hVemVZNFRrYnhZalVGLUtTWXE0b2xsQXl6aEx1Q1FwXzJB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:52:39Z",
+    "hash": "fc4f1dd844b4ba1a539ab90beead9958f92ddb7afbfac75673786d78b4157b73",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Google to invest $40B in AI data centers, workforce training across Texas - Houston Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3FtenFHSGdyUzRyMDluR2R0Nnp2d3ZnbmZHdmVWVENvSWNOb2g0TmVGa3dlRVEzeUs5WUtpZzRYSVNmZ3dQVGtEdEJobGVHMTJuSnBwZExLckRNZE5nNUdRV1BDOEVkMWZQVV90N28wdFNjS1o2dkRwT1ZyNG5aTlI2ZzdNTkF0SS1LVE12UVFpS094cnYtYVdfWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:49:23Z",
+    "hash": "a874475adb28a8130f957435239632676bcc2c95632a3822bdbe0ea6c752d91c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Warren Buffett's Berkshire Hathaway reveals $4.3 billion Alphabet stake in his final weeks as CEO - Business Insider",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdENQdjk4alRKTE1pZW44VjdhNGd2VXNHTFFsWkdFZWJZeWRwNHlxU01faWdLUEJSZXpuUU9QcEtKMVFHUUNUWUlVSXNpdTlsMlcyVExKS3MyYmxvTWFwb3ltSElQM3ZoZlpJZ0xMeGRnVGpNendIMWtBNDJBWG5UeFo0VWFJVkR3M2ZGbHZYRElNcWUyVVpDZEQyZDhJZU1ib3AwM2dLM1hPMVJIQXJXeVJ4OVFmZHZScDQtVA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:48:00Z",
+    "hash": "859a71c59e7080fa052a9e4da69d9e490ef4689a7bcc375a658635dea1ed848c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Skittish tech stock investors turn to Nvidia results for next cues - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORERDSEswRFJPYXV2SFd6cmFRMFRXYWtXUWlWQlJMTmVwQ2dCMXhIUFdESmhJdnhfVWF2TGttNUhNa2xkNnp1NHNLbTVQUWVlNTBNdHJUU3FpMGR4bXREczZDcllKa192SDdKQUtEb09BbTlkTU1TZldwakZ0UDA2NkdNZFBLTjlzMDc5N0lRX0pVMUpLdUpWSVB0QjZNaTUzX2o2NWctYmdRcGVKeEZRU1RWQTFNTTRQRWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:47:28Z",
+    "hash": "1e36435fd437391597580999587a3cb5aced10a232ba4d2da5373dd1eae58c57",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Google to invest $40 billion in Texas data centers - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbk1oWGNFODhKOTNSY1JkMWNzbnJVZldDQXpNdmJVV3hhNUFnemVpS25SaDFXU0hzd193UTlyYUd5WVFoQXRXS0Zza1QwOWhoU2QwQzBZWEZwRXk2T015MXVpZHdrSWlzZWdubHBPV0xJcFZJeGJvWVBLaUJ2RUtSTFIxVW9TY2FybE54Yk5CbUNycTN0RERDeXdjSElLVjNVblhsRkFn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:47:00Z",
+    "hash": "2e86810a0aa1ca7c8ecc05fa8abada869877fbeed59822abb6ff04b5ee767a62",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Buffett's Berkshire Hathaway adds Google stake, exits D.R. Horton, among other Q3 trades (BRK.B:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1RoQ1Y0dVByS05QeEVBOTNHYUttbl9qRURqMDNDenlwam0tQ2RYQk9EQUVZU3FES193aEhNZzFWX0dJbUdWcHZ0Tk5yTE9zYmp1N2N3RHhZTHpYRi1KTEhvTmhDX29saHBsdm5WRmQ3WkZxVEpUYVdENWNfUjJTdVFkOUVCbGhIOHgwamE3anJHSWZVYzd1LWJILVZ3bmxMUGdkZy1lQTI1S1hJRHd0WXJmTExYSkEyTGo2eXBB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:45:46Z",
+    "hash": "a0d9bb2f2ee425fc40626901a738ed484b0a7becd6da473883458dd9c116fee2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin ETF Flows Swing From $524M Inflows to $870M Exit as BTC Falls to $95K - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHFVSG5JcnJNcmNOcTZfdHBiVm11eXZfUG55MWlhLTN4WE5sUGQtUklhVDBZNk9tblhRUWZQT1FpQmtkQWVHTEE2ZFlLZXg3WG40R0E5bWh3VkJDd2MwVWN1ejczbER6Zy1Tb1pXVl82bGdReDNNU1RVZHBETHJ5TEdJNXZfZjUwZ09kUjBJT2ZaaVRvZHA2Ug?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:45:20Z",
+    "hash": "32bb353b45bef1bb249c3debfbbe408e399dbaf15af59b26f55680358982f5da",
     "source": "gnews"
   }
 ]
