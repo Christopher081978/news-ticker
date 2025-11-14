@@ -1,42 +1,62 @@
 [
   {
     "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Berkshire Hathaway Reveals $4.3 Billion Stake in Alphabet Stock (GOOGL) - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUkhWVTFCWWMwNmFVekMtR0g4bms1Zk5OdVpnUEZzVWw4YUJEOHBQQ3ZPRTI3N2x6cGFUQTRTOHB1OVpUTlhvRTJsSUFrbDB1di1fTkliMy1JSTRJREI3WVNnaVlwYjRJNXJmLXlBLXNlRzBad0RwWWxfQzZpRmEtNUlnb2xZTWVINjA5S0hEZjdmcDktWFlzU3c5cXJNYWM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:41:05Z",
+    "hash": "d00194b4a3dd405f2035774802d55ab0eea7ec4465bffeb76dc047c91273fd8c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "SOL-USD",
+    "title": "Solana (SOL-USD) Plunges to $140 as ETFs Surge $369M: Key Levels Ahead - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUZuM1dXRXRoc0k4cXUzZVJRMmJFNlNDWUdsT0tmYUlVcjFobzJGUmFxYjZDY2dsYXVhNDNfcTFSYkx5VE41QUNmRVhVQVJhYzZDb2V4bnpNeGtyRHgwVlFYdGE4WEw4VDV1X2RFbmFFTktlM2N6WFdweXhXanZ0azRVZWJZYktJaHp0OVg1Tk1fbURNelRzVkR2dC1peHlITGJ5ODJpYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:39:47Z",
+    "hash": "6dd5ee27cf4198d7790b17688c7a8291251f433d91d410e3ad6180f64150bca1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Community Banks Fight Sony’s Crypto Banking Plans - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzVQWC0wandIeTFVUDh6VnhLVDZzOEV2dlVJTW1oWnhROFM5Rnk4alpic2hucVdqcHRoOWVmZTNGU2xIdHBoWEY1RXphazRYREJiMVpKSDYxVUloNUpXV2M3QVhYbVdPZVlFS2l2T1h3M3ZMckdjMHhkdXZhb0xFSy0xR3B6Q0w2Y3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:39:07Z",
+    "hash": "2049eae936903b0ef2d2adc9e41844595282f31a28725807006df8ba0be7633b",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth, Nike share losses lead Dow's 288-point fall - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbDJxZDJsUEtVS2I1dTZrcXEzZ1dHSFdhTE5nWks1S0NySGo2Q2NRaVczRjB6TVBfQTZSR0E1ODBRWE9mLTNHejJSUjRzUGJaS2Z4UEhETUtZeDF1STBwNmhqZEFzSjcxTThQaUJEajVfSDMzaGdJWVV2cmxoWEphR3dZWjFLMzhwS2tkc1R1Y0lxbm16R3h6Q2NPNVVmc0N5cWNCclJTSFNkbm1ybTNsdGpVMkdfWXNlNEVsR3dkbUdSZXlVREVxNXJVN2tHd3BFSHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-14T21:35:07Z",
+    "hash": "7cab0b999ad9d7932dce53f9622c47356be30ab86c02dd22cefa0bbff5b6f570",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
     "query": "Google",
-    "title": "Google's $40 billion investment in Texas to boost AI, cloud, and energy infrastructure - CBS News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmxFVUtINHpsQldOT3NuRnFvbDFMQ2owVTI2WjVLS29JeEROOUJTemtFeTM4VEFfd3puQzZnX2dxcWk0RDk5NWtZbzNOakoycWtqVGdGRnEta0hFa2VsOFlBSWJsVzlsRi1YLUF0LWJzYmp6cHRCVF9zTmlHQ3BDQ0UyTG5fTnBzYWhLYjdnQTVFSmxMSlFkMXhzdkxPZEctREpB?oc=5",
+    "title": "Google, three new data centres in Texas: $40 billion investment - Il Sole 24 ORE",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGk5T0JhMWQtMVl5eEFzdHpDUHhSMDFFS1ZuOWVYb2R5NFg4eEVkMFBDOXNVUHd6OEwtSkhHUUp6cFVYLXMtXzZ6ODFKaHhrRFV6bnZkcm4tRDVnbDhVbG5vZ1VwQ3ZHR0RUaFY2ZkdUTjBldElPVXlGd204cXRfbTUxQjFzZWJBU1ktLVpCYlVESFMzbFJaS3YyQUxFQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-14T21:16:13Z",
-    "hash": "22b65a6c71a75e7ff4677474f2ece982ebaad7fd33319c25e27dbcd49d3c3a45",
+    "published_at_utc": "2025-11-14T21:31:21Z",
+    "hash": "6f101e8f3885b91cdbe7d1f0538ea2ce03a38eeede55e27bfff2ceb623a1b12b",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "GOOG",
-    "title": "Google taps Texas for $40B AI investment to run through 2027 - Dallas News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjFnam5TckJZb19zaUx3WVA1YUxTQTFLaW9EV0NVSDQxLWhpZmlVT0JFOGpHM1pnQzdvbWNKSjJRSlVGdVlWTmNlUTN4RWs2b3dlUFVoSFhEclNSTlQxUjc3NHBTc3g1TUZfNHRnQUJOdmI4aFNRT05CbnVSaElIQy02MmF1TnVLbDl3b0hjMlVNMENqOU82RGVoLWlvVmQxdk5vVVFYdnVTSkVfTkUzVXdzRldqRHpZUWc?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "\"We're Always Buying Bitcoin\" — Michael Saylor Says MSTR Is Safe Even If BTC Crashed 80% - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHpQY3A5ZHdOZ1diU1JOcjR0SU5qYjhPeHhjTEluSmw3OTUxLTdIWVF2dm1taER0ajRfbDc5VnUwczgzeXA0UTJsRF91TkV3R09rMXg4X0FZRmIxWmRxU2JiSVlhcDVBcUpQWWtobHk2ZEVyS0E1dnphSWJ4ZnZzSXdVemlQdmM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-14T21:06:08Z",
-    "hash": "c4c7bf83d6eb3839aae1b4b853b766db6bd1e0664df28cdf615b1a21d856bbd3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Google to Invest $40 Billion in New Data Centers in Texas - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNelpCeE80Tk8xLTFwUlRxb2l6VUQ0MjlSX2RDamhscmlMM0NWZUhwSEJzOWE1ZlhsSTBnS05UUWMyMFcxZFU5VFN6MFlXZk9tSVFWSDlaRVQyZWJZdFBNdmFqc0w1OF9mWWdBV3lVblU3bWd4N1I3Z0F5SEhWNFZDb0FoNUE1MDQ5dEhCR1hyd2M5OXFkQU5KR1k3aVhSZDZxZUlGSkpnVTM5U0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T21:03:00Z",
-    "hash": "0e1af67adb8c21648e5c6a24f6814698eb0125eb91fcd9d07fe62e0c9a39b6c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Why This Pundit Believes XRP Could Become A ‘Joke’ As ETFs Go Live - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONGJMNGlucldCUFZHSnZWMTZJdjREN1pnbkdkYU5hSnBtN3p1ZEdfcG1yVl9XQjlmTjY5VDFZVk90d0pmM2x0b2FWenU2NVdURV9hSFJfUjNHZExPa0JxclVrUDkxUTJTMzhUOG85OXR1M0llX1RaUnUxamUzOVNsS2pIZWxiXzFlNWNXTUZBVmZaVkV0MGt6MEVaV05jaTJEWC1lS3ZubFRPRXEwMWtGc21QM2haSmpsQVY5ZV96WQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T21:00:31Z",
-    "hash": "25f634285cd8cca3bc5a34681bc1dd20478da111518c35ad10b228303fd47b80",
+    "published_at_utc": "2025-11-14T21:31:15Z",
+    "hash": "644c0cad98260f308fff35043c9056691112b769fc27679e0e9d98d0573c0ceb",
     "source": "gnews"
   }
 ]
