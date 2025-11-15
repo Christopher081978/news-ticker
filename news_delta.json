@@ -1,12 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin ETF Outflows Surge as BTC-USD Holds $95,600 and IBIT Faces $463M Hit - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWTY4N3ZpRm40Ylo2MjdNTzhNU0xpRGVUVzlBYXpOekJzU1ZNakJOb0JuM0s0Y2J6X18xazcwZC1rSzZ5WGl0YkQ2Sk5WXzNneEdMQWhUdVNaYU5kWUlkUk5TRHJNVTJ1eDZoQnhzVUhLbC1tQm1fcHRZSXlmT25rdU9nVllra25BdGQ3eGVPTXc?oc=5",
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP ETF Shockwave: XRPI at $13.30 & XRPR at $18.61 as XRP-USD Holds $2.25 Ahead of $245M ETF Surge - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45eHgzNTBIc09xcXJsOVBhQWhBMGRucGRNWlY1ZnhwclJKVUVwbEMxWE1abkVmZ3lJLVo5TGt2VXJkdGVVdGkwUDR2LUY0TkFuajRwOHA1RnhyNDJnMllNLWZJcGFMMEtlZnBSTw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-15T21:40:08Z",
-    "hash": "8bca8e7bc573b07267765facaf6cf0be49f051353867f99ef2f1a198866707f4",
+    "published_at_utc": "2025-11-15T21:59:50Z",
+    "hash": "79e398529bca6a756e8f462b48d7a5eaa79f33df7e476d2f0b79b877e06b717f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Is 2025 Worse Than 2022 for Crypto? Nic Carter and Kevin McCordic Offer Differing Views - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0R6eFJBZmtlR1RHMnlwYzVZanphXzI3VjkzRmZkbjI1TjhRN0s0eDBaNVdPYVNZTXNNM2UxQ2dOTF9QenVPOXdnLWNsQ0JabVgyYkoxbURPRUxzSU80enN0czZMLWJtNFI5N1NEU21VX1VyZm1peFlkQ1ltcWptcEExQjVyV1c0eFJNemVmdnpRVFBLTUtVa2RJZGpMd2ljMHZxTC02UW5Pd3d6SFpnS2pXY0ZrNzhhaDNOZ1BsUkU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-15T21:53:51Z",
+    "hash": "732636c6deb0b93a66ca716544e6f91536ab5ae5086134bacb6c16efc9f17f31",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Weekly Roundup: Crypto Market Loses $280B, Bitcoin Risks Drop Toward $89K - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlZJZm9mTDZkSjhJaXlySjBVRG1OZHpOMlMtSkN0SF9Bd2s2RWlhNWQ1Mkl3eEVtVUtPeDB0Zk1OSUlLdmw0WFVJdXhhajJpLVRWLTZYVFR0cU5qVUtGYkdyb2hVYnFSblZvelpVWnRjT2pxNUZhTXViQjBFb1REQjFpY3hCNlNXUnBaWThxU3FlNjczS0xPRkwwMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-15T21:47:12Z",
+    "hash": "d835eb16f4c7e63968c2e4e189357cd29bb6ff6be19452bfccdf8519e640018b",
     "source": "gnews"
   }
 ]
