@@ -1,262 +1,72 @@
 [
   {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Intermede Investment Partners Ltd Reduces Stake in Alphabet Inc. - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHNWbHdNT3dhdWNCQUN5SlNwd2dETWtMMm9KdGluNldxRnc3aU1BUFR5bE1CV3I2VUpRdHFDcXNseTJIcEF4a0hnMHlsbFBraEdYbE0yRzJSN2ZOQ0dydlFTSE5RUTN2eU5HZnpRekIyWWViZVVIMVdHak9NbjlkVmZCeGd2eU9NdkR6RmZuXzAzcXNkcURNaTBtTW5QOUtFcEpnR0g4OWZBRGVObG96T3Q1anVldw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-15T03:13:56Z",
+    "hash": "02d9892153745eb32c8ec26687f34b6ee5f0598f17bd3415777d071a5119a1a1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Berkshire Hathaway Acquires $4.33 Billion Stake in Alphabet - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYkVqZTlELVE2S2FYVWRhUVN4Y3F0QlpJUjMyNkVSY3Bab3dobzRwc3phMkVWbWp0cUlPblhsbmZXdzRqdGZRVkVidlV4UWlva2ctSjFXNWRlN0EySW5hUlhORkpZaVkzOXFOcThHa2xnRHhwYXlqcXk2QVN0LWFTZGZ1b0c5Zm9zOUZzVGVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-15T03:11:15Z",
+    "hash": "1010d28fdfce47d3a888ddd98f63ca6a23766d31789638577227c6c92a987a2c",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Appaloosa Management LP Boosts Stake in Taiwan Semiconductor - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm44WkRadkhYT0VCR1YtV20yNWhTZXBoSVpHanYtWkU0UURGWnpVdUNiR1JPSm93SjdJRVdmWmZnSnU1REhXMlgyRUxDTTJ3LXVOQkVmZXZzeVE5WGVOSDZncjVSRlhJNU9XVlAxd0VJdTZNYTN6MUJiNWZrYlFNdFV4S2ZRNzdWUEU0ZHk3WDFOUTExaU45ZklKeEgwa2U2SG5nOGZFOEp3Vk43eWJQVXVB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-15T03:09:20Z",
+    "hash": "d3985dbd29d17626a4967e599ed96c6b1b043b06b5115e4b95bf99e60106a366",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Sands Capital Boosts Stake in Taiwan Semiconductor - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcF9hQkFjM3EzYTZoLXI0dUhxNWVkdGpoWGMzbEE2U3RHLXg0S19KVlJmY2t2R252UEhCNzdCQVFsRDNVMWNsaGY1YzRWVDg1aXlNSXJoTGlpakN4c0duX1R6TmJYcjJ6Vk9MX0tIODdjbVhIdFo3TzFfVkRBbE9CX2xwblI0VFRKcDBBc0xZQXpJdnNld3l4eE1uUTFvSUFSNU9oejFVTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-15T03:04:18Z",
+    "hash": "5315f2f0d67a631850896288f87b7463fb1ebeac35c28e35e688c29a78c76841",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google announces $40 billion Texas investment to expand AI - Bangladesh Sangbad Sangstha (BSS)",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbzFIR01jWExwVHNJV3M3WmhreUZqdkx1ZzJTdk5qOXc3RmtzTjZHZ296VnQwN1QwOVJvaU5PVEVVbHF5WUVXVzJaSUI4Mjgz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-15T02:47:50Z",
+    "hash": "876fcca1d3f3b707465788b91ed173ac7d6e96e241a4f8d2fc6cfd244060a783",
+    "source": "gnews"
+  },
+  {
     "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood, Peter Thiel fund pile on as crypto startups snag $22bn in 2025 - dlnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXp0U1FXVGRlaTUxUUdrcENId2VWcU1SQ3ZISjZ3VGJfa2kwZUR2VFFzVElYSWlXVmpDQ1NFdFJOenVvY1JhdEFTVWUxeTNCRFdDUmdsTk95bG13MWFseklEVHZsLWpsWF9qZm5kY0xKZFhQbENWaUZ3WnpabW1aajllcHVuNnNoSVlReFBXTG5tT3pFdXJMS0ZRdUpjb0NnNThjR0RLRnY5a05XZE9FQTV6QUtGMWRLVmc?oc=5",
+    "query": "Robinhood Markets",
+    "title": "Prediction markets have taken this stock: Jack Hough on Robinhood - Fox Business",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1RGpxX1QwUnptZGJTdHhjWS10VEg0WE8tcGJqQTBMRk9LTDVPYjVfYlh5ZFBGYXd0MmFDY25QcG5VSS1WZ2RGNF9SM0wyek9zcExZN05aN1ltU3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-15T01:20:48Z",
-    "hash": "f514b40f9a97b5fe5745c068f20f40f0b528ac2817c75132e871a80d48be0303",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Activist Starboard sells Pfizer stake after pushing for changes - The Mighty 790 KFGO",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGRGZy1GcDJXRTNmYmV1Qml3OVVqaUJuQUVCUmQyWjdxS0Z6UmZMRWh6MmR2Q0NVVDdaRTlzU1FROXlUVmpMMFNtdzZfRVItLXRKdWtvRU9YcUsteGNKZUFyYkJtdmw5am8wTTNSbUpOdlZTbzBrLUdaN1hzNmVLbnYtWWJrcFJSR0RxVEZpT0xmSWN0N1BB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T01:15:41Z",
-    "hash": "dae7ecbe23e650b150b6dbfeaa9add4f92ec675249a08f5407937acc207ea74f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google announces a major $40 billion investment in Texas to develop AI, cloud infra by 2027 – here's what we know - Livemint",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWWJscF9pZWpGTkVlLTh6X3EydWVMM005eGo2MmtGdl8tV2ktSU14UndLdmJTUmFGSjZPdVlYRXN1RF9UdlZCb1o3ektBQVRVS1lFMTQ2TjdIdThqUWpvcDMxVFlrTFc1dUFwcWV6dFMxUV92N3lFNHBVNkpWMWVDV3NIZ0thSVJ3cHI2dWVjZnFkTEYzMGF1RmYybmY3UnZBUXVQNk41NlVzRnlNYXY2ZEZDZllwdXBGa25jZDdKNUR1X041M29Fc2lzaWZUOGpyMUQyRzFQQzJmODZQUzBlUHZTVmhJTHdjX1I2SkpDbVFoMEtFMmJWR2FNZWrSAYICQVVfeXFMTl9XdGhiRWJ1cmh3UU0zVjRKaVdobW5iTnBsVVBHeDJSUmRTQ3ZLVG5scU56ZkZNWlRJVEwxRV9DaEVBRmxpOURHNVU5aVB4V2tmdnl2aTZwR2RFQWxELWxuRC14aFRrSG41OEJTaFJLblJnaEFOLXhNTlF2MzJ3cDU3YjQ2cXRtSWpyU2I2MUdZWlY5YUhDQkVfYzFVWm80MXhkcWp2bVlyWHZEdkI0RHA1cGZRVHdFOERWVGg2SDVrOHIyNUtLNDdEc3ZVUVpjTTU3RUZqS3lqTWVfaDEwNUdEU2c4aDVucklHSnZUTWJYY090Z21jY25XaXNBbENOSXBB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T01:12:52Z",
-    "hash": "a0a3da93dd070b4f905878fa94842562360ea086abace47ffc218ffb92197a6b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "A Fresh Look at Siemens Healthineers (XTRA:SHL) Valuation After Recent Share Price Weakness - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQk9nQnBYenVxZHVoaVBfbEVyWm4ySW82dXRYeDZfdFBBSTcxMG9STjdObkpxUTVTRnZCYS11QzZLdmYzY0lzVTVOTGd6ank0a0NwWEM5dDhoSDk1NUZydHplMXBvT245Z3poakVxcndrQzA3VkoydTZwaE80MTJiUHhNLTlZQXBZSUh2eTNlcXdlc3R6VkxLT2pKMEk3eFBOcFNBdlhzcGRvQmhqQmRJQzRUQlZqTE9rZHFEN3NneXF4MVpVaXJYNHFFVFo5R3pTWTdUSkxiY01WVjlz0gHiAUFVX3lxTE5USUZMbl9QMG53SnlfS09aaTVsbGpBQ3dkS2pweWEyRWVpdFI0Qy1NQ2N3U0JsVU1RQWZ5Mlh1V2NjYzBLSUEwRy1xRC0tUndZX0VaLUNndGNOa0MwblBFcXh6ajQyWVRJMGh1bmRzV29yTVRUbFYtV0JGZV9odjRWc2twQXJFTjVwenBvSFFsWlg2NEo4aGNKNjJjeDBWem40QVdOMEtXX01HQzBudXV0ZTRySkxJczcxdm1ZMnlYV2pMSmlEMDR4U0RVQ2VWMGtyZTU3dnp1NTdMSlEtWnNBOVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:52:37Z",
-    "hash": "ad5358c6e894cb9d93f028f0c989ea6614b626e624329a8e9f74d56e24cf4571",
-    "source": "gnews"
-  },
-  {
-    "asset": "Sprott Physical Silver Trust",
-    "query": "Sprott Physical Silver Trust",
-    "title": "Is Sprott Physical Silver Trust ETV stock a contrarian opportunity - July 2025 Chart Watch & Fast Entry High Yield Stock Tips - newser.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3JhOWR1azdYRUMxcTN4SS1RWDIzWUdGOTBtYzJfZ0Fmd1lFRzhDcDl3R0FibmFYWi1RbFhPczBTOUlLb1JuTGZ5Skl5emhPeFNQTGlqdkdyVzlKOHdyZWhLdlg5NXd5RG0zaHdOTVZjMGZKY1lhbGU2dEMxQ2lkaWo5czNZUzJxMlc3S3hlVnYzd0FYbmFUZ1lLbTlaLUNDZUFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:49:36Z",
-    "hash": "802fa531d32f1cc892028c425e86e1ef587521b8c75a4fa1e554f28c98534102",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Berkshire Hathaway’s $4.3 Billion Investment Signals Confidence in Alphabet (GOOGL) Stock - Azat TV",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1ozN3lZRUdmc3FlZlRaVkR0V2xYTDZfU0xjU3NEMGMyQVRzZjh1OU5TRDJqdEZnZ0E2Q2dBQzNBa2NScFluS2VnVUd6YzhZczVGUnpJdHpGdjFOOEJnb0RyRnAycXNkdGRjbmVTSEcxMVgxM2oyalFVYXRpWGJRRg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:30:03Z",
-    "hash": "ee43227465716e2fab7e9d021292eda44b139fb6ae2e0e98fd2b099fce8d1efc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Berkshire buys $6 trillion won of Alphabet shares and trims Apple stake - CHOSUNBIZ - Chosun Biz",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFl4OGRQakVUeDhSYkpPQU5OWWRtS04zLTJvWV9fb2hSV2I3aXhVeUQ2SVV5NDZWRHdjVXVNOUFzb1lueWEzQVhMT0luVWJraTkwTGxsbFdLU0N5WVFSZjRxdzVXV1B4cGtBMjlsMGlFM1BjZnMzWk9IOS1IcHQtMk1XVENIUlM00gGcAUFVX3lxTE16R3VDSEZaRG04eW4wbDc5Q19TUXQ5ZVA2Wm90Qk9wRnVsZUphT2ZMTGZNd19zdEFuNlR0c1JQMGg2QVprV1dVTDRZUFliU2tpTVZZclkxU0M4a3R2b21RRFpIZmRjTjB1N1VITEJHOFdlZkFoSEZTX0lCekJnNkZodXdYZkloVTExYjAtSTlka2pnQzc0Zm53Y1RJZA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:28:00Z",
-    "hash": "69a91c3e98c7256e70e85f37a214a010b0ed7c99de1ad41ac9d8d01afa867ebd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google announces $60 billion Texas investment to expand AI - The Australian",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX2xXMTB0aDVUb19pT2VuTnozbi1tVzFaOVQzNXFTWWN5Zk42bFIyaGJVd0NKOE9telA1MlZ6WDlscTB1bTBKZTNzWURKbFlYbF95TEZDaDRlMWpBeWN3b0FHZFkzaktZdkFaTG1ydWpKUTdGcUY3WXM3OHBVc29fNTVKeDkzaTNDSmFqQ2JvdDZROHF4OERqNWFNTl9SWENoNlVjRzFDUXZiZEFIaks1b3NmdHhMdzU3eEZabG1uZXBTRTJBNXNKWWtVNTBJbjRxY1Y1c3Jremd2SEt1eU55U3lxcGtTakx1MHfSAe8BQVVfeXFMTW5iRUVBOEkwR0YwQkpDSVljOEpISFRsS1NmeWRpM1NpSFNLZ1hvZTlYQVF4UDRjQ1pzMmJXMHlmZGxNU09DR0MyRnpzUmJZblFoWHEtckYtWE11eF80LWtpb1o1S2RKeHVaUmRhUFc1c3ZTdEVaUHFoRzFIZ0hPbk13ZXR6b3d5cDU4dGo3VFVPXzNxakNNbkJFVjBXakN0cUFDS1FsVkRTYThpUVF2ekt0WnBQMkNIdUsxRHFSaXNSVndrSzRiNmZuVFBzb2Y2U20tVjkwTk9KZ2FKVURwUTJLQ1RGRzJLVGpTOUplMUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:26:25Z",
-    "hash": "fb64de46e3cd3760a4232379f2b22c845925f77f1412532888e0cdf22ecc7d3f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google-Backed Apptronik in Talks to Raise Funding at $5 Billion Valuation - The Information",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUFCRDA5ZXM1MndHNkw0Sjl2Rm1TWTF3LVZXMF9URGN1UUI2LTgyNjlkaHJkQUlfTkJtVWRjSkstQTFoZGNpUFJOQWxVYS00MWsxMThBUmhKdGRtNTNxRTgtMVhBZ3Vfb1p3SHhmQ2hCdUVRY1J3Z0hQYWhDdDBzUDhBaDZMZGNBLS16RHdRYnc1WklvZE5Yc2puQ09PS2JFVWZBRU93?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:26:00Z",
-    "hash": "27b07092feb6bb21f45affb0c03d999c4a49deb4021f49351378be540460624c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google unveils $40 billion investment in Texas, with expansion in Ellis County - WFAA",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQVdjcGRqX2QxRjRDR0lueE9VN3BVeVo2dlRZSEd0cGlOdURLT3pBZ014aGtlVW5KX0IwTk9ReEpXLW9XeEVteHNQM0VaN1dZWHlvX1B1ekNVRGlfb21qTG9URTVPdEJBb0NqYy1wMVhIQ3kyMzc3MUNGa01XQk5UYkk0NzNCVW1CeGxyaFlnVXd2dHRWVkRvQVBJNGRwdzQ2cGg2dEIyX091S21qREI5NElGeWFsMTN2MnBPWE43cTZ2YUJ3a0FHUUVhWVBfRndfSDRwSXB4Wm9KUnV0R19rTlpnbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:24:57Z",
-    "hash": "9798efabc00664b5ee6bb13c308dd8e4268c3945aadec2d8d7a2ce26ebc0aada",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "(COIN) Dynamic Trading Report (COIN:CA) - news.stocktradersdaily.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUExPUkRjV2MxQzZqWTlCdzVBSjdCM0RVWkE5OWJab2xCdXM5OGZ4MnhacGtzcTB6OUhKUGZQcExiVGJhU25NZmw0VVpCeU5IXzNpVm91MHIyWkN0bHR3UlNaRU5uWVU5aXBkX1k2OUNXQkJfR09OQU5qZ3ZxSjR0VnRhTGFVaEszYkNLYm1n?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:21:10Z",
-    "hash": "2c1b543859a0663d25ea590d4afb9ee784c496202573ddd3f633c50048fbcb54",
-    "source": "gnews"
-  },
-  {
-    "asset": "Sprott Physical Silver Trust",
-    "query": "Sprott Physical Silver Trust",
-    "title": "Is Sprott Physical Silver Trust ETV stock attractive for growth funds - Market Trend Review & Smart Swing Trading Alerts - newser.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOEhidWxSSHhsMWx6ZnV1Unh2QXFha2FsU0pJQWg2dWU4R29KOEhwVVF2ekxnOXR1MWszV3FYMjB6SDFlYnRiOGFndTlQckdqWEppYmdDRTFBdVRxWlAwVGNnS09hV2FvSHJPM3lVUzJqdDNRZk44akg2SGFxMmxzcWo1NVNSd2pBSUItdzNDaEZIZE9JOGxnYzZQMmJ3dVoyZHEybUJzMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:10:21Z",
-    "hash": "5f9603099f4d68694bc21bf55e4a690dd00854462d9d014f742358f00ab0593f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Berkshire Added $4 Billion Alphabet Stake and Further Pared Apple Stock - The Wall Street Journal",
-    "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQakdIendIcVZwblRsdEZWajFRSWRXRU41LU96c2ZPT0d1Vi1tZnBTRFVTTzBOMl9CcTh2dldBNTJJMks0M2kyaWFsZ3ktdWh3SWJFRHFrRlJsMVlyVXZKT1ZBRFRzYmJhdW9yV1RrRFB0MjFrRkJrY2lYQWhUOFV2YzhZSDU0OXdqWjhJbkxSU21oMHdKSFdKRXdHZS1lNE5sNi1fYUxhejdnaTktTmFmakxUVU1EdklvVTRrWEhKV1c2MDBBdU50MjdfX244SHdRRWVKN3lhZFBGYlJvWWpJS2dtQ1ZtVzlHZE1sb3otNmVPRXgtYWp0bjNwcjlxaFM5eW1FS3BPUndzVm1rSjJGRmN4ZE5taHB5SU42Z2VOU2hnemdQaGlqTTZISnk0U0dHNEdBYmRHTm9fNE1uRXB1OG94bVZlNmJuMmc4dEQ3MXBGd2lEeGdtX0Yzcmo4TnpObjF3SkhTS3lRa19SWXFuNG8yRjM5Vi1VdDhhWkZadGZ3VV9uNzYyTzRkSXVnMWdqTW9PQ0EzY1BxNV9KTWlqcU5LZ01wQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:08:00Z",
-    "hash": "484c872d2a5e34288754b171bc588f24bed72577935494e39acca60d66d1d88f",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD Australia's business model will revolve around selling NVES credits, as well as cars - drive.com.au",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXBVRExRQ2kweTlYblhwME9LZDk1emtnRE5QUHNhWGdDRlRzSW56XzlodlNqaWhrYjBDQkJiSlc0Z3c3Wl80VF9pc0ZNQWtkTTNTVGZybG1NWnhtU29vZm9UTXp5eloxdFR6UFVXWDE4U0lRalJkemFlamg1Q2xrQ1lFbDVwa0pjaThmZDJtaEF4UEdTVHRibl9ETlpRVWNYSk8ySmM1aUFkTXBqX1VhUFE2alpmUWlaTkxsTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:05:58Z",
-    "hash": "2918445de760fd6fad94f3ca3de6df4d4fb979edb087a07c1434a6c460c4acbe",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "New ChatGPT Predicts the Price of XRP, Solana, Binance Coin by the End of 2025 - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlUUU80c2lOenFpakZtLWZzLWF1a3BWNjQwUU1rTGZPNUdEYm53U0pLeExFck5sLUZId0NCZHNpN2VXMHBaTDlJYk9rQkVRaWR5YVlKQ0xnUzhiTzZGRWZraFMzbmRSOUlFbS1ZMGQ4VFo1VjVqb2NUcFFkZjNtaWlDM29QY01yZ2JuejJmX3RCMnZvVXkzS2pzZDJYM3Q1YmFYODRUMHA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:03:11Z",
-    "hash": "f75542e9b1982c8b292f6783f47d7bf0b98465ef4dbbe9569e1b2e8ea0bd7b11",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "New ChatGPT Predicts the Price of XRP, Solana, Binance Coin by the End of 2025 - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjlUUU80c2lOenFpakZtLWZzLWF1a3BWNjQwUU1rTGZPNUdEYm53U0pLeExFck5sLUZId0NCZHNpN2VXMHBaTDlJYk9rQkVRaWR5YVlKQ0xnUzhiTzZGRWZraFMzbmRSOUlFbS1ZMGQ4VFo1VjVqb2NUcFFkZjNtaWlDM29QY01yZ2JuejJmX3RCMnZvVXkzS2pzZDJYM3Q1YmFYODRUMHA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:03:11Z",
-    "hash": "f75542e9b1982c8b292f6783f47d7bf0b98465ef4dbbe9569e1b2e8ea0bd7b11",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Key facts: Canary Capital launches U.S. spot XRP ETF; $58M volume; XRP supply drops - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejU1eEotdUZIQ3JGalJtQ2hTZ2w2VmhGck00aUkzOXJwVDc5YTRSWUxaUmJOazlfenFHbFZPU0VhRmRicW5PMF9LSllWckszVEllRHZWdmtRQjZLQW5QTjY3dXNzeklZb0hIb2w1ZTRQWHB0amY3Z3Y4amdOZnJoanZSa1RubkoySVRzakJjWG5EM21LNlBuM1NXR21TdzZmeTBXSG9RNW1KTHhtVEtjZmI4dFdIN244bmxRaVAtejR4a0Q0ZHBOWXVVNHNOZnJpSXAtVUNsSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:03:00Z",
-    "hash": "c866fd8bf251f81afb91348dda3989898df9adfcce25f0e907fb71ba73e0b582",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOG",
-    "title": "Google to build three new data centers in Texas in $40 billion investment - The Texas Tribune",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBibHY4QkRiaFVkeWJyMFl6RlNXd3FnWjdxYUF6MTUxV3FPNnhaZlprOVF0SWM3bFg2N0xPNDE2MEdBU1dHZE9Bck55b2hJRTlMbkt3YmFGSlVCR1E4ZWxfc2M1bUxyMVFrbUk5WmxYZUlYWU15WkZzVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:02:29Z",
-    "hash": "5503f7637b28733f60a58778ff3c7f8d959c90201691dc9c8ec6318ab3298262",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia earnings, FOMC minutes, Sept. jobs report: What to Watch - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQkdjWGoxYzgyMWluSnVpZU13UE1ZQ25GNjg1ZkZiMDdWNmRZZmtNWkpTVjNlNXFmZHRNN0RnUkZ5Mlk1T0JCd1NWX0pKWGF6cGlXeGxfR1hIYW84Nm5wbkM4REhjTURXS3JCbHZNOFV0bUpZVXB5OEdhMjFvZUFBNUdFWlhiN0U?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-15T00:00:00Z",
-    "hash": "c4a51e159062432270d2ba5ac6a0cfe2077ddfd642f9ba90046ad398dbef97f4",
+    "published_at_utc": "2025-11-15T02:29:21Z",
+    "hash": "ca2b196fe5b809a91390b11ddae6b50b0c7570f71c337616f4eb2680880b2401",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "PFE",
-    "title": "Starboard Value Calls It Quits On Its Pfizer Investment - Finimize",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhwcF84UHRGS0sxTEVic3ZTUkVRMEtEY3llR0F0QjNSWnloLTBuaThWVWp2WEkwUG5OMUUtcmpycXJwekFYY3dfc3ZJdjIyaTJjMDJsenk2d1VDOTJZTkt3cW1sMS1WVTlQX3kya0hPRk80OUE5ZUhFQUEzakhKRndtZ0VqVjFiWHFNOA?oc=5",
+    "title": "A Look at BioNTech (NasdaqGS:BNTX) Valuation Following Pfizer’s Share Sale Announcement - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjdNZV9vQ0dBZzhUNFE4ZV8tVzdSTUcyUVdhTVlUS25rd2c2UkM5QWdhYWxkaWZWanpKOUg1TDE2UG5MTWlYWk9ia1NlZlRDRzYxSk5QbmF6Z1hiaXV4eWp5eDF4MFpqdE1sd3NEbVprN0FsVkdZTFhkczNKcndGQWZFNS1PQlBZWmNieUFrZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-14T23:57:32Z",
-    "hash": "f68862df80ef1d038d460b6f40db4fde2d575e38c8da9917380f737cf60a5538",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google unveils $40 billion investment in Texas, with expansion in Ellis County - WFAA",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcGZxaVhwSWhYemJlMU9BZmNOZDUxNzhkdnVaYm9NZGJQREFTNkNMZTNwbDhYeHV0bnp6RjRXZjh1d1Vndnpobi0yLTZEUkVtamhrcEpmeUthOW9zN0xONXg1OGEwdlFNWmtKSFRvcV9ESkc4MFFfQUFNNV8xNUYtTlhaRE9GeWZXbTFJcjhhWm1iWTlXLVg4VHVQVVVYaWhianhtOERxN1g3VUdJbFJlTXBQQkJ6Ml9HcU1qVG12RlRhN0lhTVFzU25BY3p5bjdN?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T23:55:19Z",
-    "hash": "53b3800d568bd13c0c26b5faa6bf892fe5cb3d9f6eed18ea08943e95061cf36b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "TX Gov. Abbott, Google announce $40 billion investment - LiveNOW from FOX",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBURlBlRzY0bk84QUNFdGpSQjNoRjRQc2J3Y3RLTEtPLWlCaldiUkRUWHI0dURTVWpMRHRwTENSdW0zOVRmSjlyeVRFbnZKc0FwTEHSAVdBVV95cUxPZThmd1cydGhDZ0RjMEF4b1RSNkczQ0Nud0RFREo4MDh1aHpaNzVySE9reGMwZG5IS2NVT2ZTQ1ZzZS1WVUxOTWM1eDlQUVZOM1R0aHJheFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T23:54:00Z",
-    "hash": "7e59823f083e4b5588d574ba31f77eb8320b9e5f53e5bae7d545560d8fa2172f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOG",
-    "title": "Google(GOOG) Stock: Hit with €573 Million Fine in Antitrust Lawsuits Over Price Comparison Practices - parameter.io",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1p0Z1FHejlRbGFvbVpOTjlsSVJzUlFlQ196ZXdXcXRrZmtlWnhJeHBEeTBlaG80UHVCbmNtdEVvdjYwS21ieU5xUjZzNThjTGlEVWhlTEhTbjNUNklwMGliN2JTcXN6Z0JXMjJiV0Vld3JSTjQteVh5Zm0taC1pN1Y1Sk90WnZyb3BoY2hzdHJuMlBBMEdZN0VuRkhzNEtOaEljTTcxSTFIMVpVM3NuSWxKX2U2cXQ3RlRV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T23:52:08Z",
-    "hash": "07cab96ac7b0b669fae095f570eb7439cce179c12f6bd5c5e8fce181f2be4047",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike Leads 12 Outperformers Onto Best Growth Stock Lists - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNmx6d19HdlktLWJUNFlhT3owdGlhZkhFcl9qbXRXdmlFMUl5ZjdXc2NKYk9KYjNNSzNURy1Lei12UlBiYkhSUlhvVWlUVVdUMldBaW5qek1jS1IyNTFvbHYtMEM3ZlV1VUFrMExnY1o4TDFhbUlrWnlpSjJhdHBfdTRKcm1CN3E0ZGRiZVE2bUFjNzdIWW03SW9FVV9QU0ZFd2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T23:52:00Z",
-    "hash": "0c4f9c15c5dec30541b492012e93554e8bbed86e18f53ab42573fb0cfa41eddf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google announces $40B plans for Texas AI data centers, including Armstrong County - Amarillo Globe-News",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORjJmaldNVks5UDVKZS16a2puRjJiZ3YzQ2ltRzRrTGstU2tMWTJ5WHEwbWpaQkVGMEhoUmtVajM1T1ViUjVZdzZvTkNMQjhjQ0tzOFJadll5TFpCQ0JneTE4N19Pcl9PV2lfUmdtQXJlSjlkRExWTDlEOGhrYjFIQzQxMkw4b2o0OGtUVkt4dmFwUzRqR2lrRjgwRUNxbEp5Zjk3MkF5Yk5NU3lCaDhkZ0FqUFE4WmdaMGRheWtXN3pGTGZHWkE0SnlCSUpGWEMzMU1zU0xGb1FlWGt6cnlSX1QyUkctbThVdURiR01TOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T23:50:21Z",
-    "hash": "808af5f10055272e719811997695baf9b591f228e495bdf61da1c25bfb634871",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab (RKLB) Receives a Wave of Price Target Increases after Q3 Earnings - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMmFzREcwSGpQUXhNWkYxcUlSaUdmcUpYREFVbVVpNHk3SzJUQzVkamdfWHhnaHhqVEhEekdvYy1waExhT2pJaFVxUEIzeXRrb2ZJTVI1WGhIQ19zZmVnQ0w0OTRDanF4OTM1VHhOeWZua2dJOTV6MXRaaVc2aHk5cUFFelBUU0d2dlN6dnU5NnJYWm5XMTV0cGlEMTBrMElzcmFWXzB1VW4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-14T23:47:34Z",
-    "hash": "092bb292359eab360471d85191b77b0921f2fcc023a15e7df917f09f60eca29e",
+    "published_at_utc": "2025-11-15T02:10:00Z",
+    "hash": "793cf78e9aac679c0ce21f82cbaeace325784e09c2d533ef0f130874d5806338",
     "source": "gnews"
   }
 ]
