@@ -1,22 +1,32 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Evercore Sees a Beat and Raise for Nvidia’s Q3 Earnings, Calls NVDA Stock a ‘Top Pick’ - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3R0UVp5a2pVNDl1WURLQzhuWlFRNERUY21XaUNpeHVRNXpLaUc1bzlseXQ4VEUzMkZOaDhPazdkSTNQT1JIY0lhVTdMN21IOXZnVUktUmxEVDVRVmh4cmtVRVN3VFl2T3k0LWxuOVV2OWdJR2w5Rml4Nm1Welh6alhrR3VONmlET1RINmNRcFpjMkRBQS10cHpvVVVoTURFdjh6Um9vVjJ2SHdJNm5Hcmdn?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum News: Investment Manager Says Market Views ETH as 'More Risky' Than BTC - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeU1hdERLZFA0d3RIWUlZZFNZckxONl9ReWw2Ny14cHFxQWx0YldjMlphT25UeEwwZ0ViTExRNW53YUo4Wmd4UnRDeFBFS1JiQ2tmWXN6VElKeHVJS3JFUHpRYnI4Uk1QVzM0aURnNlZleDAwNmZ3LWt2OGcxSzVaajRVaVdlMURRMnNQcWxSOUxUZXhpYWFycGhwa0ZHRXAyeDdXbDJBanh3dkctZmNVWXU2NTJMTjJIeXFYVU81QzVJNEY3cUszTEFpbTVJdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-16T21:40:42Z",
-    "hash": "4042ec3964d17e254a23a320117ac2374c8c71c916ccbf304eec14bc572f9d1f",
+    "published_at_utc": "2025-11-16T22:11:40Z",
+    "hash": "0dd7fd344f1398f59672e7ea25675cd7a7c638685b0657ef71c59299190d984c",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana Price Forecast - SOL-USD Crashes to $137: Death Cross, ETF Flows & $95 Risk Zone - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOHhIZEhZMXhDaF8zY1ZKNTJWZXhYUFliVVcxTUVpUTV5dFZpMXNpcXd6SFBXODRCYkJLZF9GMTZBdDVubjcyUFp1TndtRmdvTU9QY0RKQnNKS2tTZXBNY01KTGJlempNZUpHM1drY2F2amk1VWR0UnBvNTVQWXVlcTMxMldScWM?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Could Buying XRP Today Set You Up for Life? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObEY5bnQ3UEUzNGpmdHNXRWhfRTlkNzNDOUhNaUdjcU1uZmx1X1Viem5sVk5xdTJUOEhpWVVqc1ZWUEZVS3VEMzZRYTEtLUdtRmtSdTNoMkNrd3FNN1JXWnVLQmkta1ZEOGdVRi00bXpaV2lQb0FRcEtJSGJCazRBQ0J6OUh4RGJLLUVuVElaTGhlNWxQaG5XODNuRktodDlVUEdpSjJyZkJ2b3hiMzZVNno5bTlqNXdxQ21kY3otMzVaczZhVWU5SkZhVQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-16T21:30:41Z",
-    "hash": "d531e8dee8cb5880209b9562ed5a6de62f35d02a698fece800436ca646d1ce4c",
+    "published_at_utc": "2025-11-16T22:01:06Z",
+    "hash": "96fc7b162af2c1eacee31cc45141891f37b9ee01633809409b53fbeab17205bc",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP ETF Surge: XRPI $13.30 and XRPR $18.61 React to Record Inflows as Bitcoin Falls to $95,000 - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckw0Ulp5STBYZjhjWTNVSlpPRjNNaUNFSHB5dDRYa0NmSDNyZjdwRmpENE9KQ2xfUWZLUE5NaDI4UndDNkFrN0ZpaEpyZ0tkWS1mRlpDbUVadlA4MkZkVUJrRzc2ZGIwWFdPcEtWb0hPOE54YTkxN2JQME1QWXBMdzJBbGI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T21:50:41Z",
+    "hash": "f4236d61512c93fbf6e263383c9ba6815dfa7495ec86b7d6e7b111bf984c0d8b",
     "source": "gnews"
   }
 ]
