@@ -1,22 +1,62 @@
 [
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price Forecast - BTC-USD at $94,000 as Selling Wave and Risk Surges Toward $90K - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGM4bklwVU92R0l2M2dMQTR3eWlIVmZKZW1YSF9VU2ZOeVptNUpXZUVyTURqaERsRHhzR1Roc203OFU2cndlcVhCNEZxSm5WMHJpdTRFOGdOMG5fVm8tRTNjYnNSMHlBTmphMzFXMUNkdGhXSTNPV3VjcTNWZDVTUExMVGJkVjMzV1E?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin’s Price Stumbles Again: Longs Get Wrecked and Bears Take the Wheel - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdDU0dE1YQTFrSC1aaEpxS0FXQTRlTzBWQW5VYVN0enlTODJpUGJRT182UVhzbW5OS2RfbjBtWDc1ZmZTdl9TU3g0ZmFaOEJKVmFOSzU4dS13SUhXWTlxNmpxSW5Kdi1WVVdNUlRtUHM5VTZMX2JzWmxHVUg1Zk5Rc1lrTFMyTkdGZ2l2NXJKQUJqQlBXd04zQ0Nwc1Q4QVk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-16T17:34:55Z",
-    "hash": "05d2109b28544b89b6d285dbf81df01e9dabe86915096809c8e64aa3a33aa74b",
+    "published_at_utc": "2025-11-16T18:34:16Z",
+    "hash": "af47a3ac24f3fe4b531b6863113377200e244035b195d1c626b4052716a01c7c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "ASTER Price Blasts Off After Killing Unlock Rumors: Is ASTER Coin Best New Crypto to Buy - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEdfXzN4TXpXaHp3M0FabUM4bmV6THlvYUgxQW9YdGsxOExBN0NFWU5oeFhkcWMyUTE0QVJ0ZDJGbFN1ZE9LZ3B4RVd0ajVVX0pfS0dXb3VjLUVqbEg5bWZ3MUhmWWNmOEpBWUFoUk5ralZUWmZZV0ZYb0lJZWlvZ1N2N1lGVWdpMm5TU0NWSFg3ZXJhM2VyRVg1YUx6UG9tQUx2S3FGeGxqZGFpeFdwNEpvM2dUUUZjcDZObVlTYjFEZEU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T18:19:04Z",
+    "hash": "ebdb1425cbe56a86a3806668a2a6c882904569a46794ba48bb05ac1b8bae3498",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast - ETH-USD Battles to Hold $3,060 as Ethereum ETF Outflows Hit $260M - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRUNfa1ZDcjhmc0lxU2dBXzNhZFBNNmtjTjRDSEhkTHVwR1NVNGEtRGFiSHQ3REd6Uzl6aGJJd1VLQ1JjRk9jUFEyWVdtRTBQaGxWaW9sRXJDeEU2Rk5ManpPUzRLVlBsdVpUYWl2TW44MFVEcDlva2E0TWltc19wWDh6REJXLXhNQ184QmNybVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T18:09:55Z",
+    "hash": "3aab96ebc4cd77f76558afbeae3e7bf8c2b6371e416157feb452feb255dd52c3",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVDA Earnings, FOMC and Other Key Things to Watch this Week - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR0hIdnBhcVIxSGtGbkZ4dWVoU0d5R1l2UUhxdnFFVGoxTzBxSUphQUFES1NKMGVmcF9ZRl9nbGlTYlJBcUpGRUkzZmc0TGZLSGZZU0hfWGlqOXN0NUtUdVNHV3BhUGMtMkh5Q3h1WW9GT2NXc0FKbGxzeVY2ZUhLcXBWYXFFSnhzRllOVVRBRk5zdHNqTEg0djM1dFVBYTNPUHlGRmZ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T18:00:02Z",
+    "hash": "7e9b983df2b3750b9ead775e93c2fcf5f597dc982b7cebc892b3afc25ba40501",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia Stock Price (NVDA) Near $190 Ahead of $54.79B Earnings Shock as AI Demand, and Intel Deal - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanM1TUtVTXdEdHNfOGhlWkdKVmotTW95Ykx0ZG95T21wY2hEamRBMFV1SUdyYjN3dEhud3puZVBwY2IwY1RYbVhXT3hSUnowMGN0OTJCODBqdFI2bVN3d19sMktkdEVCRVhEdFJmRUI0R0g0eUpEWVA2RGxONzJMSE9xMnd1LTRkWUlYZ3JR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T17:59:55Z",
+    "hash": "104d8abca35f6a80f24d338200587ecccb1315ca6182ed5530e94a226f16d9c9",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Remittix Blows Away BlockDAG and Bitcoin Hyper Despite BTC and ETH Sell Off - Crypto Economy",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakwxbXFIREZxMTE0MXVyU2ZBQWhyR3E2cjZ0aE4yQVZIX3NEdS1PcURkNEtJRFNrWWRYVGVjQjhzdENHa3JDdjhLN0dxa3hhV1BrM3d2Zjd0V0YwM3drdzF5VzVNTktfSTVmSTl4WUJ3bG1PaHBucnRSVi1PTmdQMlNSX2tveGx5ZlAwSHJnOXpMVFlLRkRSR0ExLWdNWExnTGF3R0tB?oc=5",
+    "title": "“OG” Bitcoin Whales Are Reportedly Dumping Their BTC Stash, But There’s A Catch - ZyCrypto",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWl0c1R1Q0pHZGI1OG1salU2V0d4dmU2QXgyYmN2QmM5Uzg2N05ad2otcjh2YThrdzRfTTk1cDBUZ1lqMnB1S1d3djJ3c3R0UnJ3THltS003LXdsd2FKU3IyLWhsdVU5dVpvUng4TjJseHZQVWgwZ1UzODFsS1BGTEpkbUh0c0tURjQzemxFLUVDbFZWelVoc25FM3FzZ9IBowFBVV95cUxOcXZST1NEWk9nUHVkYkVYLXBtTk1BNWpDZ056YjVobDBaMHg2SFRsVFVKSmVsRmpGTm1UUmQxRjBlZ0RLaHVoREZBX1FrLWlXRnFyeGVaX1hkdWV0MTI5NWNHNUhkdmpKRVVQN0xpVEdCa19aYnh5Qkl1VXllOXFHdFBCQ1Y0NkpURldYUVJkOGZDbnZUeE5SR21xQnRWdzg5M00w?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-16T17:32:12Z",
-    "hash": "32e3f91e515b99a47ad085a90c79a2b05bb17eaf75ece412c19aa13d76e436c2",
+    "published_at_utc": "2025-11-16T17:53:58Z",
+    "hash": "f7d7a1e17c70a9caeb3387fe39563a40e35222a09f61f2de7f5d6b8baf6c3f1f",
     "source": "gnews"
   }
 ]
