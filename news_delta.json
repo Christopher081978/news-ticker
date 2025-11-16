@@ -1,12 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Perfect storm sends Bitcoin price to seven-month low - The Nightly",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNem1aMXRJaVJnWk1PSWlXNFNYRm1YNlhuNXQyNE83WV92aFc4cG5OWXNuUVRod1MycUdPQl9ZeHN3UlBaOFg1T3A5YXNocGdqdWtGblNDSVZqX2MtT3VkVmFvNWVBV0t5RmhqZlljYlYxTDg1OTlyNC1xaWJ2YVI2ZDFMcGdPaUQtNWpfVGxJcEI2N0txWmJkRVQ5Y0JzOHgxbTRNZnJUZDZ3UGRrT0ZUVjZWMXV0UlRT?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "U.S. stock futures little changed as investors anxiously await Nvidia earnings - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPTThfZXZDZ0ozdzh6QnY3UG10aUluTVVIUFB2dHFzYlc2aU11NHhkdm9VVWJzTDNlVkN6bFRPdnZUOUpLUW5wRkRwNUpKZHFkTFFWSjZRbjBUNkpqc1NSQUJOcUdtbE1LZVhiVUNSenlhQW9tSjdpWEFZV1I5NmdWRmRkeE9rLVltUTdQU21CVFo5a1JUZUs3aURKQ0lZNkVOVVlBWGR0eElDcC1PczEzSWkzTnZNVTZrX3VfUFl2T3AycThFd2xudHlWZTdMUGpVU3RJNnI0N1lmaWxVV0lzSE1OSFowUUNjMGtKV3I5SW12Q2x3XzFySUlSWkZZNVUzMVR5cm9BOU9wOHBGYUNnaVRTWjZMYlBibUt6aEFJYkZDc0xuQkFCSzBYYWJvSWR4Y18wd0E5RWU3b3JQdEtITHlfLWhpdHd6RDVMLWdjUkhGT2t0bGRsTFkzcy1WY0s4OG5DdVZIZlQwdGsxeXBpNUZaTE8wTnRfaTNDQk96VVpScXpoTXNnMFhkOWVHZ001REJONUlCcmtrc0VhX3Ewcmc4bV9RR2h4WmNTUVN1eXFGeXhWd1hsNjFiZnVZSG94cWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-16T22:38:17Z",
-    "hash": "a9df647cdf80b5dc208e2345a0ab11f08375a883a711e5e6f8bf88c58537fa30",
+    "published_at_utc": "2025-11-16T23:20:00Z",
+    "hash": "437c31adb5d841c638a32d627244815f82d7eb5373154aebaffc24491692f254",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Wall Street Brunch: Nvidia Week (undefined:NVDA) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzRV9nTmVHamJ0T1VVeTJ6V0ZkdFNETjFpemJzWXlRTjRoNnEya2lkREd1VTR4cG9uM2dDSk1jVkxibUxSNnhadEt2cUlUN2ZFNDhnOTR1T0xzeEZMNEpKSEFkMU5rMWlhZTExS09ab2Zna29oTmFiVkhNVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T23:08:54Z",
+    "hash": "1412edc7bca58582336d1e393e70c97193e53a7fe6988e8c68d19f1ab13d04c4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Japanese yen outlook: USD/JPY momentum softens ahead of payrolls and Nvidia test - FOREX.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUV4clFfVmZSOXFiN0ZLZHZiRUZQaXVfak5VemNrTnhua3RBQ2ZvSTd5Z3VIa3lIWnZ5blQ3UnA0VlVuejFoLXdVdjBwcGpZdS1aYXEyUVNjZjg0VVlMTVdQbUdOTzdzZlB0RmlvWUNtX0c3ZFFDcUNjbEVIQTB4em9ObGVpSTlJSERTNkViN0l2cV92QUVTYnZoc1lGTF94STc1OHA2LWtJVEY3UlgwUFFtUDZ6elZMYmNqNFFpVjU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T23:04:51Z",
+    "hash": "bcb2fc7c9db32d87d9895eb05573f4eaf42689ef18bbedc6096d1ff212a936fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "What to Expect From Nvidia Earnings - The Information",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lbGY3cEFNSFJWT3ppQXJldm1uc0k2X0hVN0phUGhDNENCLU95VmpISjlWS21DRjlkZVNWU2xvZmZOYS1BVkNKRG94T2t5Z1RyT2FVVEJzdXk1bXV2cDZSZE9HVGlKT2o3TGpLaGxVaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-16T23:00:00Z",
+    "hash": "783257838a9d60913cbca75f07dab1ffc9fd469654b0194794b0de0501069554",
     "source": "gnews"
   }
 ]
