@@ -1,202 +1,42 @@
 [
   {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Franklin Templeton Taps Coinbase Custody for Spot XRP ETF Launch - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbGJfUVlFbHExQ05HOGUwcU5ubGxUT2lOMEJINnFVZVFFaFg4SFVMN1BSM2dNcTJlOTRpZmhUOVI1RnNtZWxNOVJWYktxR2lDSVVFUExPblJpcFhuQ2xPNzZGTW9SSG5tSWI0c1VfU2xFNkNrMnJFV1FWenRmR2xCeg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T22:41:00Z",
+    "hash": "51eec9a3e080b15d1206c0b3f8f71140db32b3f2cc82f6019e493a19414f9924",
+    "source": "gnews"
+  },
+  {
     "asset": "Alphabet",
     "query": "GlobalFeed",
-    "title": "Dow Jones, S&P 500, Nasdaq: Wall Street zurückhaltend – Alphabet steigt dank Buffett",
+    "title": "Dow Jones, S&P 500, Nasdaq: Wall Street schließt schwächer",
     "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-schwaecher/100175372.html",
     "summary": "Die Google-Mutter legt infolge einer neuen Beteiligung durch Berkshire Hathaway deutlich zu. Für den gesamten Markt folgen im Wochenverlauf wichtige Impulse.",
-    "published_at_utc": "2025-11-17T22:26:57Z",
-    "hash": "9f8f5cb386e444496b5a612f9316f40f7ed1ee4d530ac3747ac4058d4dcda67c",
+    "published_at_utc": "2025-11-17T22:36:16Z",
+    "hash": "fe264ba5e8bb86a54c30ace25d9fb32e8a0b95784c6b9020fadcc5ed4a1b9ca9",
     "source": "rss:handelsblatt.com"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia’s Earnings Report Is About to Test the AI Rally - ETF.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlpoQ0lxbkxudElxUjNrMDk1SVlzOUxZUHo0cEpoMUo0VmxDRTJPenJBUlh6MnpIclBMOXdaa1pCdU9kQXhacFNTZF9uRXl4cW1vcnN0UW1ZMDhuakdlUXFSeFB6SlUxX1hhUmxjdWlBZW5RY3VZZ2hDRElrakhWYk14dG5CeWtS?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:22:43Z",
-    "hash": "b02eb20d5ccac3741964adfffd10e7b8af1f4279c28a4a4d471eb57350e00f03",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk launches limited offer: New patients can start Ozempic or Wegovy for $199 a month - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdUY2MmFqdUhXODdYdENlczg3YU8tTElaOWRESFJrSjI2YXlCWGFKbkFHUGRuR2JCcVhzSmRwWF90VFFCQ2VXMnhrNUYybkl6VzE3RkFya0I2OEo2dnpYNC12NjlSRWJIS1pWMmttQXROdU5KMUxoNHU5OFNBZjZ5cTVvQVlhR3dnQUFobUtKOWkybm1xbTJ3Sm13ZkVjSVA3SVFBcFVRems1TWpkWEl2SFhiRjBFMVJzbzhIOG5ZNlRTTGRrUk5mVW03TU1zMmRPQ3FwSUtkamFJSVJwdy1fUHFMcnQ0YWp2ZEJ4dWRlbUxXNUVpNnVHcTlncldFb3BwQWfSAYICQVVfeXFMTXVGNjJhanVIVzg3WHRDZXM4N2FPLUxJWjlkREhSa0oyNmF5QlhhSm5BR1BkbkdiQnFYc0pkcFhfdFRRQkNlVzJ4azVGMm5JelcxN0ZBcmtCNjhKNnZ6WDQtdjY5UkViSEtaVjJrbUF0TnVOSjFMaDR1OThTQWY2eXE1b0FZYUd3Z0FBaG1LSjlpMm5tcW0yd0ptd2ZFY0lQN0lRQXBVUXprNU1qZFhJdkhYYkYwRTFSc284SDhuWTZUU0xka1JOZlVtN01NczJkT0NxcElLZGphSUlScHctX1BxTHJ0NGFqdmRCeHVkZW1MVzVFaTZ1R3E5Z3JXRW9wcEFn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:22:00Z",
-    "hash": "ee45ca072b0db3f60ad074ad47804afee5c9861a9e33a433032b3318e8d33d32",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Dow Jones Futures: Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop - MSN",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbVdtalhRMm1aRmRPQlROSG1GU0R4cGdhUmJsWHZ3M21BR0NqOElqc1RSeTkwdi1jZ3hGT0F4emowSVhlRVhoTFZvX05Jc2ZfN2tOY3BMRzVUeXl3S1VGNmh1cG56TUR6ZmVOMmhYSWRCZENFQVA2VFpJcTZIdGJYZXBlMFhOWDhDNGgtRXZoYjV0NnJKUGRtVVZqQXdTSUh5VVAxSFRKOXFYVWdhQ1hOa296UUpyZTVYb3Bkbk1lZnMtODhLNnExS2VyTkdOY2lGZXNqZjAwTVFWbzl0LTNDekRWamstV09wVTdqU1EzRlRKOFdZR1djVWdVVF9zTzRDX2pfb1F3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:20:56Z",
-    "hash": "4661d6db392707d2389f6e48b432b3bd293066b5e98d6efed3bcae99456c2672",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Japan Eyes 20% Tax Rate for Top Crypto Assets - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnWi1nNjJtQ0JfeE5DMHBYVXlKRlFGNnBrQV9zc0ZKTzUwc1BBNEJIM1preUdTSTNwWDVsVXF0TVo4dDFBRWhvZUxSeU03VHRXa0xtMGVfanhkSUJhamN2c0FIVnpvVnJLUF9Sejk2R2FnLXlDOVpkN2pB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:17:28Z",
-    "hash": "8bfee65f4eadf797916c9b4550145257bce45c1bab868b25da37e09e65cb90ca",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "BlackRock Transfers Over $650 Million in Crypto to Coinbase Prime - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFpka1Fqc0RjU0tsNmdXZWtZUkNLM3VKZ3dicVY3OWxuUlBFblpuTkFvVmpDWXUxUlhlNEVMbEhyVXM0WWpJbFBsZEduOExqU184S2VuMzBsWHZLZFI5dTRjU0hTUk5WazFWbjhNUjV2M09iU0pXeHF6dkktRmR4TWVESmptUE93VnlHM0U0bURtdGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:15:48Z",
-    "hash": "636f3db3c568352a5a5a7d5072013c8d9555d9735505f25aa8df77d54c6dac00",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "21Shares Updates Solana ETF Filing as Buyers Defend the $138 Area - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejhoMTI4TE44bWlIUHN3dW5yMWYwd0JFY1NsTTd2Z3REbnMtd3FYRUwwaHVuTi1RMVZYUTI3Y0ozb19hRU5OVHNaTTZJLVRQMGhZZ2pOaXVMQVhya3hQb2JybVpNUzNEODNvNFlyV25iYkE1UXhhUng1cXVLN1ZVZTFkVndNUDR4Q09VQ01BYmtZckNHVlVMaA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:09:09Z",
-    "hash": "5880d617763eaeda5aad90764393171641391386f3e801db6312e944303995c2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Warren Buffett Knew Buying Google Stock Was Smart. Berkshire Waited 8 Years. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPR1dNQzhlRXRkdkFWZU9DNkFrWjB1elJheXBReVU2LWhSaDFnTVd6X21lUjlYOWRveVIxQXM2bkZNeTZVRnhYcGlpTTVrWU1kNEJ1ZHVjRk9RdGVxRlJEV2l0RFc2a3gxTE5CYWRxR2pHQ3lpUkpNVUhick1NVFVWaWZIVk03MEIwczFXMHFZbjhWRmY4LURUVFI5SktRM25JQ0wzRnVCX3U4SHltWXRJNDR2UmVSaUUwLUJuUWdpa2o4TndmQlFrSmdHenkxOWFRMGVZN25wa05reUU5LVViNEZReGxwYkcxUHJrb3d3dFhpY2NuWm1SVGNxZi1SR0M1UHJTWDBaX3FpdFFwTFZhQ3NFc2ZYYmdCd2Y5d1k0LVN1SjdmU0t6WGQ0NV80aVRhR3QzZUxMM3EyYWI2aG1XVFJMRE5UcHg4UGZFaVUyNUtLemllWFVYa2toSE1xSUJKTTZRQ0hXclk2Uk1sbm1lR2JkeDB0c2puUzBqWXJPT0xJYVdtYUZSVkhCU29YcG82VjZmTEFBX0IzcDFPYml6ekhVZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:04:00Z",
-    "hash": "27bb9080af56970014fa0f91f1e18ae4c1a24839c8e7bc03921137e930894c63",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Warren Buffett Knew Buying Google Stock Was Smart. Berkshire Waited 8 Years. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOV1FJMzQtU3l5T2J1S0wtNkdXWVBqRF9ycEo3N0pNUmkyZlNLVXBGcXlia1VSZHJuX0FJSkFUd2NyWmprRXFIck9RMDl4R0lyY2NiR3JScF9OSGhZdmhjRjA4ZmpNZkE2bEdLdndsUFg4VmxhN1dPQXF4eUlrNEQ1OVcwTTZfRm92ek9xYmFsUEhtUVVyVkd3MmFQLVR3cGRNMUZYcnhGZGpFLVJ1M2xHQ2FWa1I1SkVKRGwySjBjd1o4MXNRR2RqSVBsQ2l4VU5NUFFVR2cyOG0ybjBnTlo3Q1ZiUzNIWlA5aHBiNlZPTHV2aGhFWktnRVZZSUJwMnV5X3NESC1QWUd4RkFOSjVCVlJZSXpUcHZaQjJhYTdEb2N4S0NsQklJU0FueHZ3X3REcXRIYjZkWXMyOXotSXd2dmdzX0FnQ2pNU1IwYmNzRDZLY1pfNUZkOWc3eU1KZDZtbjU2UjlHVFlYejhUa2pFWFd4WUFvWU5JbkY5Zk1QY2lQakZQRDZLd2Vtb0RGcUZ2RXpIdnFmSDNmRTlXb2ZCbTBEdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:04:00Z",
-    "hash": "a3b7078d9b9b4c13602d2ef4ef683623773135c82b45203e8b6d989b01a23891",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Warren Buffett Knew Buying Google Stock Was Smart. Berkshire Waited 8 Years. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOVnYtTkM1NmhGNE02UURJektKYmJlcjBQdVgySUM1TjlZSlQyZjdvS2F6VWhKMFpzZWtybEJpQjZlNHFYaUZjZmRVUHBIYndTajEteWFOVk82YjlCVXYyeHF1Qk93RWdxbVNaYWJydEhGV0g4YXAySXZ3aktHNUcwal9sUlFBTGFST0FIa3MyQ1ZnVDkzNE9ueTQ3Sm9USXllWENkWWlVWWVhR3BJQlJYd0g3Yklrd1NDTW9CUkQ5aldBNVdlTnYxYjQtN0QtdC1IX2hGRGxtS0NkVmg4Qlgxdlk5ck16NXBsTW1aLTRMSC1sVU9BZFpoNi12OUVjZTZKbldrZldXTmh2NVdzMXVfMTZvWVU4RTZtRDV2b3lBRDZpdTE0YVRnU2xzd0NiSDNxOGxrUVphc19YQlAtdDZxM3BOLW5iMWxwRjFwUW40VVp4ZjNESHVDYl91MlN4TFZrUElJWkYyblZ2aGJMWUJ0YWRoVlJZQ1Naa0xkUnJIZjdYeVZtLUI3UFdjSEgxXzBGLUZLc2lmZ01Nb0NWdFFULUNzdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:04:00Z",
-    "hash": "df921a49ac5b89a16b20c9891cd031d923314c8eed6dc90c7ac6b8950d1906e8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Flashes Rare Oversold Signal As Price Hits Demand Zone — Major Rebound Loading? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSmZ3R20xSkl0TEQ1dVJMU0VnTlVpU2FvenhSZ0g3c19hbVpWcGJJMklvcE94dU9ab3B3M0dVVUxua05MMkxZTXZLOVNoV09yZy0wZmxhVlFZSVNkd05JOF91clZReHFDQnMzaWFNaV94YkpTYjl4dlJoMW82R3MzQXhwSDFkaXd5V0RXM3R3cndRdnc1bzZZd2VvazNfbGxkelpkeTVvVUFtVmFEcjhTZWhRLV9Qa1pWVWNXLV9Oai1LNmg2ZjBLVmpWWms2ZnhPNzVmd2tzeVNaa2s?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T22:00:47Z",
-    "hash": "74e36d602d3cbb9df32567b355880839b3d5e08f50f4fe06f3e96fe8f65513bd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Dow Jones Futures: Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3dZVF9iUTRlNG9zdmRkUW9sbklfMDhMbWJMTy1COEpGYVp2Z0Nod0MwaHN3dG9PYVdIaXVsa0t4SnJBQmppV3diMVFNcEp1dExpeGtDNzFJbjAtQW9sVGc3SHk1bnIzampUTUZUX1hUdFJRbTlsbjRPbTVwSWh4WjZPdzFvT09lU2d3VnFTdFdCR2ZqbzNnRUdtc3czb0picGRaWjlwdnJITmNXS0t2aWF2VmVtejg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T21:59:00Z",
-    "hash": "c50737420e2fb08cad515a34a9af8dd5cfcbe670d23b80b19968424f3c319c80",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dow Jones Futures: Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3dZVF9iUTRlNG9zdmRkUW9sbklfMDhMbWJMTy1COEpGYVp2Z0Nod0MwaHN3dG9PYVdIaXVsa0t4SnJBQmppV3diMVFNcEp1dExpeGtDNzFJbjAtQW9sVGc3SHk1bnIzampUTUZUX1hUdFJRbTlsbjRPbTVwSWh4WjZPdzFvT09lU2d3VnFTdFdCR2ZqbzNnRUdtc3czb0picGRaWjlwdnJITmNXS0t2aWF2VmVtejg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T21:59:00Z",
-    "hash": "c50737420e2fb08cad515a34a9af8dd5cfcbe670d23b80b19968424f3c319c80",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Fidelity Files Form 8-A for Solana Spot ETF Set to Launch Soon - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWWRmbDB6TGYwVzFub2x4dmYxbkRaLUkxdjgtNGN5VnVNQjNsSENkRWdEWUt0azE5Z1VfcnZsd2U4MFlHV0VEbzVZWlhIWFA2dTJvNHlhSVRKUF9LeFFBS1Ywc09JWmRpTy1Bdk5UNlJrNFNDVVdfR0x0WUNOQjZnWV9PWEIyTjVkdGdmamlBeUw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T21:56:14Z",
-    "hash": "42dfc5381164a70128012007c11b22782b9e54bdd826af7800155e4e461b140e",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "XRP ETFs Ignite Market Frenzy As XRPI Trades At $12.64 And XRPR At $17.65 - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUWtiY044c1pSRFRwblpTS1lpTHgtWVRwdFVDTmtVd1cxR2VJWmxTaF9ZTlBhOEt6QnFzZ2VsbXpDYzdqcVF0cjR5eEFNdUdDSXExR0VvRjZ2YlJ2UHNJQlFyTVpvVmxlYmpabF9YdHJ6R3J3S3ZMN0JIbng2WXpzdEl3?oc=5",
+    "query": "XRP",
+    "title": "Best Crypto to Buy Now – XRP, Solana and Dash - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnRocmZHRUU5bXhvajQ2TmJscjlYdEppQXhRb0xLVXNRa18xVllPUFQtdC1pYXdjdHVGS0Z0SWNDOUx5aG9INGphM3FXV1VHWWlsNnlOTnFFTTllMHRzZklsbldYZi1LS1ZRRHVmNWlxM3l0RmZtbFNqem82ejNoVWRDMVBEUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T21:55:43Z",
-    "hash": "3359211bb670ae39eab7eff9389ed7c179f4623f2304e7a2524f3dceb81bfc6e",
+    "published_at_utc": "2025-11-17T22:35:00Z",
+    "hash": "a272f86b761780f5785e4c0fc52ea12a51daafbbb9049ba189d4452ba63760f1",
     "source": "gnews"
   },
   {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum (NYSE:QBTS) Stock Price Down 3.6% Following Insider Selling - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVzMxZ0pQYzZUcklKT2lhQXRwb1hSNlhudTlHVWxQcHZaVXRqcVRENVl1aGd0NzJqYXpZWGJCcDJ4LUFOdDhpWjBHUXNrY2N4NVZhVWJMZ052T0pkdEo1bG5LZ2pkSXVSTE9GVnNXd2tvNTVNaHZpUkRJRnJaNGRaOEhnck1TYm84WWJqcmpuTnQtb0tuT2JYX29PQWdzdlYxOEpPTWJYN0FvYmNyQTFENjhuY3pabVFONHVfQTBrb1I?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy Now – XRP, Solana and Dash - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnRocmZHRUU5bXhvajQ2TmJscjlYdEppQXhRb0xLVXNRa18xVllPUFQtdC1pYXdjdHVGS0Z0SWNDOUx5aG9INGphM3FXV1VHWWlsNnlOTnFFTTllMHRzZklsbldYZi1LS1ZRRHVmNWlxM3l0RmZtbFNqem82ejNoVWRDMVBEUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T21:54:35Z",
-    "hash": "5d2242bc274835c4ef98645782d4b0a5233b96913b3324174ced24142a99a5b0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Buffett’s Bold Alphabet Bet: Inside Berkshire’s $5B AI Endorsement - WebProNews",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcENaUkwwMkxPTnVIMUh4ZmJ3VjVkcTFfaWtMSHJTV2VscC1WMTR5Tm5LRVg4bTM3TEYycVh6dEpNY0doWlN0bzVFWEdlU3NBVm9NbnVTSnZ4Vm5JQ2J6dzhKeGF3N0hnYXUwRWtZN2JJc2F5ZU1aWW9YYUtNeG5LR2pnZjlNVGlZNk1iOVlaTFFDWnoy?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T21:52:01Z",
-    "hash": "4a9dba222b9d3569c0ee54f79486393a1c5cf3a7cf622bbd42b4e47b2dd3875c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab (RKLB): Evaluating Valuation After Volatile Performance and Strong Long-Term Returns - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXRSRE1IbjFtRURLN2syOW85YjhMcE9tU3U1bnNRQjZHeXdjVTA2WTF1NEZreGhZamhUMlNpY2I3eWM3TjVrT3k4d2ZQMElhUWNvUF82Z21KRHBBTjgzaTd3ZzNOWVRxTWR3eVFSelJ4M2tRNDVTbW1DNVJQTVNwZDNDUHNreVNoZUxyTjcwSGhTUFlRanBVTUhmYUFxSEVRRlcxZ24yMV94Uzk2azRfa0R3ZmE2ZlJyZ0Y0MDlyd2pYYTd1OXFTRzNrRFNxUjTSAdQBQVVfeXFMUF9ZQ0R1aEpsOGUzbXhfZERSOU93eVYzTy1OQkd2allKSXBDbmt0Vk9BVkJQXzZtMXFVaVUxZFBkNXlXcmptYWc0aHY4eWowWG5mN3JxSWdjeTRTemtza1F0QndjNXFYT196OW9Qcmd5enVUTWpFMFk0VUw1aUx0cFk3MEd3U2MxNWU4WVAtMHdOQnlpZVRwQkE1X1hoZjdKUEhYSEM4M25GOXRHbEpzSDBQUTZrNVdPZUN3NHZxZjJtS2FETTVJMUl0OEFHcHg5bUlrWlI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T21:50:35Z",
-    "hash": "bc6acab3fd9d31878693db6ca0ce279b53cb0b007172cbb15d79d0975d2ec621",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin just wiped out all of its 2025 gains. What a crypto winter could look like. - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPZlVWM0RjSDYyYWxFUFVTTHA2blE3UnBIc3J5a2tNT0tITFBrbE9rMlBYWDhvRHBVN2RVeDJOb3N1VEZHazZ3N2l5a0JiNHF4VTM2MWdob0dibDRFVTdmbmpKMmVvVVhGVnlMNXpvWWxpVzBoenNuQ2ZTbEd3VjdmVjgxdzQ2V3V3QmlQNWFSVkFSNFQxMDBpTllBaTltZlVQVXBib2Q4WDVCbUtDSXlyZi0xQXl1ZWVtMTRtUG5kM1hYYVJWd1VJM0RlSkE1VDRWSUZqZHFKSXNrZWZCUGN2VDI2YWFwblRvNnR1WkoxNG9TczgxZ2dQZ1RyQnRuMDhmY0hXOHlvb1V0NEFNZ3pvbUtLeV9yRkgydzdpZzd5MEhFWDZRQjJ0S1BzRmtYX0FKampIZXFsVUFvaDJ4UXJuMkhuSkZOd000d29XQVo5QnhtbW1RRGRBTmtudDJTOXE4SHF2ZXQ1UGRjczlJaWU5M191QVhuY2RwLVZXS2tkakRScVZvck5CemJrSkd2N3VHZjVjRVQ1MmdXak01aEhKdzQ3d3lKZDV6c09GWHhUWG5sRlNlNjIwc0JmZlhjTzgtWDJpbXpGVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T21:49:00Z",
-    "hash": "3f80005591870a52bea7d6002f414aabe4af495d0a1e91682425ce91392cf90e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Watch Stocks Slide Ahead of Nvidia Earnings, Jobs Data | Closing Bell - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUlwRW9Wa0syQUNnWkNiNjdBbHFrejZPTzFvbzMyNlBYeVJpaHR0Z05fQjg4Qkl3UldqcVdqSmFPcUZnZjBFaU9RUWhCcllSM0E4TGhJaWpjeUtKX3VfMmhuSXlxa1hXbVF1eUxEZDhBV1kxcHc5czBmMWVpTWV6dWliRGNyRTdTeC13N2NmRmRVV1JMcWhuSUN1dDdLVjN5THdDYkEtNi0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T21:47:27Z",
-    "hash": "88bd82b8cffff1459f1eef97eee36443263706044c0efcd4a41206d5614b2a9b",
+    "published_at_utc": "2025-11-17T22:35:00Z",
+    "hash": "a272f86b761780f5785e4c0fc52ea12a51daafbbb9049ba189d4452ba63760f1",
     "source": "gnews"
   }
 ]
