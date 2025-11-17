@@ -1,62 +1,292 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Wall Street: Google und Apple im Fokus der Anleger",
-    "url": "https://www.handelsblatt.com/audio/wall-street/wall-street-google-und-apple-im-fokus-der-anleger/100175444.html",
-    "summary": "Nicht nur die Beteiligungen von Berkshire Hathaway, auch die Veröffentlichung von Google's KI Gemini 3 lässt Investoren aufhorchen.",
-    "published_at_utc": "2025-11-17T15:44:22Z",
-    "hash": "be9dd21d962a8cb9dc7d1d2f79d8ad2f72294433dc7d8b5cf82dd6a8f30687de",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Google parent Alphabet shares jump 5% after Berkshire Hathaway makes rare tech bet with $4.9 billion stake - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbzR0MTVrU01QZ2hoa1p3WmduVURycDhLaVVGNmUtR0VUYXBHSnBCdWlCZW1qY1EyZTVIbDVCMGFrM2FhbmRkM3ZRbEQyYm1XWjZESnZfa0ZUZExxTmtRYWhiYS1xbjk0RENrb2xRa0xXLVB2WjlKc1VIZmdFTHdtM2pGZjlTcnFMR05iQVYyekFIY3RzYlg0VEpLNUd6S2F2VVpQTlJPbEZHVE5XUkhUdlpGNXRTbWFWT1lsNXFNcHFlS0p0RVZBYUxWNk4zSk5CRXpKTzVEcXdtS0FMTHpWa1JtOHFfMUxTdG1BUHRqNmFhM2pVbW12SlBZUmgtTlUzc19aVFM4U0Y3bHJlekxB0gGPAkFVX3lxTE1vNHQxNWtTTVBnaGhrWndaZ25VRHJwOEtpVUY2ZS1HRVRhcEdKcEJ1aUJlbWpjUTJlNUhsNUIwYWszYWFuZGQzdlFsRDJibVdaNkRKdl9rRlRkTHFOa1FhaGJhLXFuOTREQ2tvbFFrTFctUHZaOUpzVUhmZ0VMd20zakZmOVNycUxHTmJBVjJ6QUhjdHNiWDRUSks1R3pLYXZVWlBOUk9sRkdUTldSSFR2WkY1dFNtYVZPWWw1cU1wcWVLSnRFVkFhTFY2TjNKTkJFekpPNURxd21LQUxMelZrUm04cV8xTFN0bUFQdGo2YWEzalVtbXZKUFlSaC1OVTNzX1pUUzhTRjdscmV6TEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T15:44:00Z",
-    "hash": "86eb9e7b3992c08ca401dbefcedc4f167efee4d48a138c1af3b63d23577de2e2",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia earnings seen as AI validation moment, Wedbush’s Ives says - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2Y5ZlRCM1NhQVEyTUU3X2piUWtDclJqMjNfNE1VNVpSZ3FFZDFlcjRBdGluM3hSalhnWUgtMTRwRUM1TXV2bm9pR3Bic2d0QncxaVBwS0FtenlqZUpHejNBMkhqdUZaWlA2bTljTFk2QWtoRHN2SV9nZ0F0bmVOaHlXd0dHZ3hmUFctN2RzSGQxTjJVSm1Bc3NFWUNCYUJFR0JfeXRDbHpzSWdaRkdXOVVydkdZZm5CQmQzdg?oc=5",
+    "title": "Dow Jones Today: Stock Indexes Tick Lower; Nvidia, Retail Giants to Report Results This Week - Investopedia",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkRHRXMmpUNEprR2VDaHlzT0FsZTFLU3cxaVZ5Y0Ytb2Q0SWcxajZCRG1tb1JtV0I1RlQ0U1RFZUF4Vkc3SjBHbG1DWFJZbDZyUFhOVENTYWRKLTdtcTh6MDBDNm1JdENGY0sxMlU2OA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T15:42:21Z",
-    "hash": "009ba7b38f6166bcc7797bdb4db46abac8ed76e2d3d40ca399863bba837d0ab5",
+    "published_at_utc": "2025-11-17T16:35:24Z",
+    "hash": "de4576790dfaa8816ea48b50ed5c47f28c8cbc9ba2816826987fbf3410864ed4",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Michael Saylor’s Strategy Buys 8,178 Bitcoin, BTC Reversal Soon? - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMS1HaFdyVnBVU0JsWW5ZNC04S2RQWklnRlVIem9JR0t2VmZqZHd1ZXVTNlVLMlVSblE5Y1VCUjVNdndYRFVWYmxMYXVmTWc0OE43dGJ5VjdYbWxyME10U3FKNTRkZG11Y1NKWXJrNHp5azNDc2pmNjhtUUdCMDM2ZFJzb3Vxdm8taGt2UnM2Z19zcWPSAZgBQVVfeXFMUHhOd1ota053QV9UaG5wNnFYNVdNN2swZUR6YXV1cklmVGZWZGk3Y2huNk9aYTE1Ni1kZkxiS1hPWHdMR0theVNSckhJU0tZY09GZ3l0eW1jMEZtdkJOajBEQnAyS2VoZmlCSmE1ajRKalJsMDBNY3MtdDRNQXYxWFRGVmdXU09Ka3ZIUFV3YkJrck40LW9ubEk?oc=5",
+    "title": "Best Crypto Casinos 2025: Explore Top 5 Bitcoin Casinos With Instant Cashouts and BTC Games - Muddy River News",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUW9Rcjl4MEFyNW5hcExKMmh2UWZENGhOZ05OSzcyaFBqcWRSZnB1dGNkaXpvWDdycUc5eTRXNVJabGV6MnVIMVpOQTdQM2ptN0t5Q0RHOUpodWtlS0lfV3hrOGhiWjdBX3lSU2c5RmhQM3owb0daZkRzdVRuSHZObmxLbzV1bWkyU2NjSkNQdmxaWHd5QzRDRDZwMnFlLVItMmN1TVJXX0R6cEJmNHoxUGlpRDhNNFQzWU0wbHJPMjdISHBmcXg3VndMWDlvMDVLVmhKWUE1Tnc0Y0lwMFdOZHN4anJyZHF2M0hETS1tM19DQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T15:42:11Z",
-    "hash": "67e441adab032d9e1ab968298a9ef8488c31e85c59c20d52e1097d3ba2171675",
+    "published_at_utc": "2025-11-17T16:33:03Z",
+    "hash": "ec5dfa03539877a2354e0e76357218510b1b156bdf5d6fde82ae0af133e435e2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "VanEck Launches Solana Spot ETF On Nasdaq, Waives Fees For First $1 Billion AUM – STKE To Manage Staking - MSN",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPOG9GSUI4V3RWbGUtVi14SzB3UkJLOTVYa2ttZDNWbjhPd1U0bGRMY2FxQ3dXSU1XRzdNazhiTFlJaFFTR1ZuZVd2Ml8zZk5kTkhvVU03a2JjWjFpWkpKcDkzbXhmQ24xcjV0XzBIYkplVzdsM0FxNERKdTRGWldJZkRfTG1HMFIwMFFleExOX2JnaEVIQnRmc0pNdXFNSVNLTGV2UHNaZlBUR21lR2N6NXVyQVhMbjFocFpkQ3VLRDVBOXJkaEVtRWsxSEF2bjFRRU9aXzZpbk0wSnB1RVloV0RBUExhU3ZMOVNVNFdlMTVjZzJxeE1Za0JhQ2dQZHpiczYzb2pMc1pGNl90?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:31:15Z",
+    "hash": "88c2bfaa103ba82eebbfcf30b1c825f0b76295f50e3a87499bb92229c131d7c0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "A New Dawn for XRP Awaits - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFR5ajI0ekw4bnBiZ2RCaHdYUEVBMGRjWVBrUVM0RG1QU0p5VXZXOG9XX1p2azB3TE9jZ1VFQXkxaVFkcXhFV3h4Z3N6QU8xeXMxSVdiTVljT0JJeVRVcmZNMjhQUk4yVzYzUDdfU0hUcW8xTTE3Q3p1Z2dfb0lVUDVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:29:41Z",
+    "hash": "bb024ebcd0d58c24e97832d366c63cefcaffc3fe622e2514df094f1c63cb3327",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "JD.com",
+    "title": "JD.com Launches Food Delivery App and Reviews Service to Take On Meituan - Caixin Global",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSG43bzg4Z2FoWDB4WlRMZE5ZZG1SMDU0QTdqQm9IdGNOUElEX3lSWFpkS3c2TzlEaE5lZ3hQdVVic01LSC03OVQxbTZVZVl4TTRRNFNnVnRGakhPam1SU3pyNWFIazIzbTV3U3dVLUNHT25PTl9BemdkMVRhU2ptdnNMRS1qM2xVSGxSelM0X25SR2pwOVdPdDhjSmFSRUxUNkxpQzcyMng2aUREOUVQNlFHZTRLYXZvU0ZsbXF2XzdlRXIy?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:29:00Z",
+    "hash": "2e5829ff8a72724510e3670a93a155f2d07142bbcd833b3eef04fb2edd769614",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Handelsblatt Live: US-Börsenexperte Koch: „Google im Fokus“",
+    "url": "https://www.handelsblatt.com/video/finanzen/handelsblatt-live-us-boersenexperte-koch-google-im-fokus/100175484.html",
+    "summary": "Der Einstieg von Berkshire Hathaway und die Aussicht auf ein neues KI-Modell treiben den Kurs der Google-Mutter Alphabet zum Wochenstart ins Plus. Markus Koch analysiert das Börsengeschehen.",
+    "published_at_utc": "2025-11-17T16:26:17Z",
+    "hash": "19ce9af5d5a1bd3baaa13bb68daefd566d63107ec74cf029e8510a06c81d5868",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "VanEck Launches Zero-Fee Solana ETF to Capture Growing Investor Interest - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZUMHRkbkI0cXNUa18yM2JkVUh0RUNpZjBTWHctYUFKQ0gwdTV4UGVYblF3a3hNRFVHWlBOeklzSE1CN3pQUDBPdDdtMVlsMkh6MEFoR19IY3ZRdmlERU4xTC1tSHNRMVpfYnpmYzJzUEpaZjI0TXoyWjhMRF9PZmtHMVBiaW1EZmNkal9HRlZXdTRlb0tmOXVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:24:07Z",
+    "hash": "7c1bb85dfc16eb087ef96418ae5cb8619ead8b2b99d6706922af32194330d760",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "What Is the Maximum & Minimum Potential of Nvidia Stock (NVDA)? - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1k0UF9PM09JaFRocmFfYm04ZUkzNU94Q2ZocEt4ZlVvZXpnbWwzTW4wemFsY1V5MXpKcnNTdmZYbmQwZDFreVZLM0QzNGE0dlpkVGlYdFdJMUVBRFRORmxjMm9pem9jaEttR2tHUlpPOS1JYXdKY25MWGdrY24wRzEwck1XWGZaU2h3YnFVUjFLRDQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:21:51Z",
+    "hash": "81bc995b87d5a7909da0f9793e415dcc53d4108db77e6aabecbcf13149014af7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia earnings preview: NVDA stock prepares for crucial Q3 FY2026 results — here’s how Nvidia stock may r - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPV3FmX3VYMDI5cEZqWVdaakpxeUk3OGh5bEFjRXRCd2VieWxtdUhNTW80SmxtYlh2dE5hNzdLSnJJQnZRRTctZDZkdmNSRVVxZE1yY2JhS2VhWXZfMndHdlZ6dnl6NGp1TmNjbWhFMllqbXJ0N2oyZU5QOTlTaVVGVkdjekxucUFlNXc1RVBJWHJtSWpSOERHdXRkd011ZFJlbkM0Z0l0YlBrSW5vbnJGZXk0TXZBMGFnUWdDYnhIcUVzOFg2UFMyOEF2eUV2bktlSDZTMkdLdnkzd0lrZ01fMy1weVJ1eGsxTC1XeXEtMVQtNDFGNjhwT0RVaG1qdnlNSU84YjZfc0ZhSHg4ZFFIdzN0WDk3THVndnFQcXRsbUpNd9IBpwJBVV95cUxNSTZfSWV2Ym1YQkhkVkhpVnJKVHdQWUxBcGxtRWJESDhHTjBtQ19UYngtdzNxeFF0OFZsejhGNXNSblVXVGdMMUVmaHVnRC1QQnBfTWlLOVFwUjhucWR4WHZKQ2lMQkoyQ0FJeUdRc2xFU2czeldSU2NTRHZ4dEZBZEJHaUJadXcwdWxOZTItaU1kTjhjQy1PaWRMeG5LUnlGWWdGSWxXYlhTeWhhTy1jRlpkZ2c3QWdDUzdicTlxTmJzUTBTVUNoTFVMOUxGRVhGNHhWYUs4cjRGS2dyX0VsZjZwSnNxU1FPV1hnYWpMV3RVdjRISDVUbGlLSU5oVmVsaDR2a0ZIM2lpd1NxVEVMaDNrcFBGcGthM3JHUEppcjFDckRnNkdJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:19:40Z",
+    "hash": "22492eb01c9f896a87591a48ccb2dd54ca93753cd221da6a3049ea6035d72ccf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Why Alphabet (GOOGL) Stock Is Climbing Today - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLVk3VnFnS2xGU0VQZzF1SVNuQllRXzA0aXk0Zk54S2R3eGxIR1FoZVcxNGpCM1FZWDN5TGQ2VmNyMmZWSTZFNms4MGdVQ01tT056di1LSm9zMVdwS2dwQl9BOWo2U1laeTRzc1AyZjVBX011TmlFRVgwYVZQNVM4UGlHYl9vNUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:19:30Z",
+    "hash": "d87fef5e1fe792b45b92a255a2c2c0707e99ac9d0cfa01397d4df7876b9c3044",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Alphabet, Apple, Dell, HPE, Nvidia, XPeng, Tesla, Quantum Computing, and More Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOT2dmQ1BRbVc1OFI2VmN0ZEZQVEloeFRjdGJRMUtCT2JIS3FRVWVOLUY2cEFLYUpFcnZiUXU0MFNpcG5WRzZuSzhvSXNDSGxGTUlKeHZnRDR5dzJuRzNkSFZWcnlBTHlDb01DVEZFUEo3WGpiQjJVN3kyY2lhYk5DUHNMVG42eUtlbThnQ0ItbFZhcXZxR042UkROblhrYlBiUUx0WW5QNVBhTjFUUFRUSm41QUdvanQteXVHc3plRlMzSFk4Ym42OVJwZlpuWDE4Mm5OVV9KSkhyS2Q5R2cxUGZCdW53MzlQZ2syMXRTSmZrREpzTHZoNlJRMTczZjVfb25EMDY5bElDa0Q3TmU2dVc2em5aMTh3NHkwUmo3UGVRTTRvVkdkNUlpYXgyQXdIamp1bmRlU0tQdkZESmllVExwLWRGNkxXbzJRV1RfdXJwS20zaW0xT0NEYWJ4dFNXdFM1RTNUTUw1QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:16:00Z",
+    "hash": "984ca615436c41c35984de5b4a7c4190204863945ea39b4f4711efeb514c295e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia Earnings Preview: NVDA and NDX Bull Trends on the Precipice - FOREX.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMTFLMzJ0YW9oYW0tZnRadzNfM3VubVh5THRuMWVRQmhVODVTdkNNYVZwUGxKcFRYM0NWMUhGVG5BRS1RUVZpbkZZV2VVeUVVZDdhWTJnRkI3R25TSGRsckpLNzJyZWdqNG9nQ2dlLTNQQkU2MFpSTHktTXg5amU2N05ubjh3VHhsY3pfVjlTSHR6X1hqb3NaSGY5a18tMGJzVGFLbDZkTUNKakYtdnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:15:07Z",
+    "hash": "d0a9fef62c1298ab49e98745fc58da527ec2b6998fdffcda777c49f497f73ab9",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key reasons why XRP downside risks could escalate this week - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHhHZF80N2lGOUd0QU81d0xLNnRqNWFuUjVuUUJBYWJWbFVzeGNHSTlZUFlrcnJyRU5ZYnl0eExWNXpPdHEwN2FJRHpiNUZVSjJsM0J4M1lCS0NJZ1VtMEczNUxQZ3M1dkRQRm9ycW1qaTBzbU5oV0dadExSNEg2N3AydmdjN2s2N3NwNWVnMmFlSDc0VXpicjJEZEttNGhCenZiSXBhYUVxYjB6eHVRLUlfSHNZbW9nM0hJN3hMX180cXZYY3JMWi1qV0VYMm1VTkNR0gHYAUFVX3lxTFBpbVpDMUdIaGNHelcta045alo5Yk5VS0R4ZTNxamlER29pN1EtTDRGdGhyVzg5V3RBX0RxdWNBTkhFb2p2cHpJWnZxOHg2Y0x6Zk5mYzE0bEdndWtfeU4xSnhRRTRnRXJoV2taaVdmQ2hITXhOZTlzWXJkWUdKemRpS3dvaEppeHdzOC1sQkNQYk9uWWNVTGJ6cHc0cmpqMzN5S0x2YTB6NUkwWVhKUHFIUjFZVWpYVFlETGF6M2s2MEpWVGJXWW5mS0N3RnBMOUNlTjQ4Q1ZRag?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:15:00Z",
+    "hash": "9c49a64260ba8a854cd004efadfef50f219b904480b576cc59a618426c8ac58b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Meta, Google delay subsea cables going via Red Sea due to security risks - Bloomberg (GOOG:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0RVc0lCdWlvcmQ1UkNzdG5UVld4cERnUllKWkpYemZoYWs3TndCQ0hUSmFTU215WnVueWQzWWdtYU1FZjdqakhOeXYzRnlpTkVIRFdpMzlkNXlZa0h6bFVEcTVPem5Rc2xsa3lETllQMkV6RnhzTC1OaE9rNlRmU0NHdVJtT1VoYUc3V0ppVzdBdUEtRjc5b3UxNGUxNlBRanBoTUpCYXQ5YmUyajhNdk0tLVN1bE1jRkJYZUhR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:11:03Z",
+    "hash": "de5838b4c3cfbe9f31a3eaf2d57b6529283ee2af22df33cbc737344cd0b00865",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy: Before Solana (SOL) Blew Up, It Looked Just Like This Coin - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRnpQUWtkd3hmTDJGcF9hd2dUdUZqb2hfVWpIVEM5NWRLNmkxU3psVGJLdlJGS0FoVldGTDlhOEVXVkQwLVdxV2ttc3Y1QVV6Y0RSUWdUYVU0UXFaRWN6MkNGeEhEa2tpd0NqNFRoclhLek9CQVVIUjNCX2hVdkpHdHlYdjRTWVNKcG85d21OWDQ3Um5GTE1ZS3JFY3J3X0IyT1MxQ21zSFpCRmk0VHdFUHQ4YWw1SzNOak5MWTMyNjZWRElVdzZwdl93Y0MxOUNpNjJBUlZFQ0VfeFRXWUdweUNsbGxIdUlGNmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:10:31Z",
+    "hash": "4ebc00ea8611a827e02f182391731492b08825dba0a7e21cd7b523ad1f3360b0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Young Bitcoin holders panic sell 148K BTC as analysts call for sub-$90K BTC bottom - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1V2OVVpT1d1bWJNUmJTNjNUT2dCZmMxN0gycS0tVl9pdktMWjA0cGh4OTVRQ1FKckhVTXJid1pGeHcxZllHNlBFV0RtWkpNWEwtNWM0UVFHTktUTEJVYWNLcUlEd3l2bElEczBfSUFVRFpkNlRlUWJMeU1IQTl4NlVaTGxYczhwVVRkUHdlT1lONU9sM2Jib25TZWVVcjAxX2xnSXNTNWhmd3VFZDdZRzR5UXRtYkwwV1FMZXRoV05IdXFTRFdnRF9fQUZzc3FqVFlscWdhRlcxUzlZVmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:08:16Z",
+    "hash": "9f6c66f016c952c99f0f1ab0e057ee4ca738d62e40788fb810e9a0a407ea2df8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "VanEck Launches Zero-Fee Solana ETF as Staking Demand Surges - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ2U0ejhtNE9RUmlpeVRsX0tqTFBUc2h3cHNLcUxMMlRSa0VUSDZMY1JCZ3Z0eGtmQkhCdmdqMUF2U2lyTkdub0Q1UnlHVEJ6SGY1NzNydHF5MXBRZ1pPSVdFb2s2emx3c0pCUnJTQXd0T25ZMTNKVjZqaWYyVVEzZEVQUjFaeWhRWXhQdGxPTkZzdFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:08:01Z",
+    "hash": "b5ed03566204c5776c8452233dd73ac91702296a0047a593b3473c335ac7589d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin 'death cross' worries investors as crypto prices keep struggling to gain ground. Here's what that means - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbC13TUpmSGhzdENRQWFaY1FuUzNlTnVYQWU4T2lwMUFSbWJ2bjBtdmdBallTS2VLdHBSQXR4NWhRREZ2NVpucDI3ZzZ4R1FiODJZck1vcXM1dWNNMGhkc1RoZkMyOFRPNjZmM0lvUHZzejN5d2ZWcjIzanhaWGhFdlJOTmpIZTZ5VHFOZllRdVktZ1ZKdmRZZVJtUkg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:07:17Z",
+    "hash": "d1f7f7315f649ebe2b3c917240c349b744907e87ec743ff7a11e406802c8f72b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "U.S. Stocks Showing A Lack Of Direction Ahead Of Data, Nvidia Earnings - RTTNews",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkdHS29yai1VRzJxUUhKWUpRa1pvWFRxLTFuT0pMZjU2LWxZTmRmaVc0d18tSE9ZVkJzVFdrUFBWeGl4RzJzVXhOU3FhdGRGN0lFWTdjYXJoSnItSUJhTnlzQjNRTmVHbFZmc2wwMnFtUndlbWo4RGVXSGoxZ1d0YXdHX0ViZFFQSkZqX18zX2VjUjdWUGpZXzlEbUVZM0lia2FmZG9FTnHSAa4BQVVfeXFMUG5DT3JEZHlOWTFkX0JWeUFwUzhXTXlwY2k1QXg0T3hyQTN4UVg5WUI5Rno0OTY5SVlVUVdvei1RdmhQSEN2dVpsLVk0UjdIVVJ4ZzB1aDQzZF8wdUlmNmc3bGRZN2FCRDJUOWp0UHNhaGVIZDF2NHZIOUtERnFxTTduQ2ZNTnpjdnVLeHN4VGpiQmlkTFVSTURibTR6NU43QThuNkc4Rlp0UkthTkx3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:03:00Z",
+    "hash": "1377279e1d083ba403a9e9793bd56592ae614bac747046b6e2168673b2a7c699",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "CoinMarketCap Launches CMC20 — Index Tokens Compete With Multi-Coin ETFs - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeS1ha2lQUDU3NVhScy0wVGVGdDkwdHN0ODRKUmtwUUhTeWh5RV9JLW5ySHFWNTBBYzc4cDhQajl1NHhsRmZNdWthanpneVV0MVRpbHlJZEtRVmcyRFZwQ3VFNy1FX01oZ2xsN0JHRXB1anJMTnFKQS0zSWloMDQ5SFVfT3FqWnZm?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:02:15Z",
+    "hash": "cf5635314f6bd34f86b000335c7b4b5d95d58fea83c3c0938e4711bae0c625fb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet Rises 58% in a Year: Should You Still Buy the GOOGL Stock? - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVJwQmFVMU90STZJSk1naFhMTm81R0V3MmVfOUJhWmlrSTltWFdSY0Y4bU5UNThGNXJ1VXBmNVQxd1RNa3JYSVJyeG1xSy1NQ0RKZVRYNi1vdnJQcUlJRk9CbTkyR2tNLUR4S0VhbWoxdkliSDZzUzJUTmNGR1FzaEx4S3ZSR1RFYkZMaHpUdnFKOExfT1NDYzVpcGVWTnZ5Rm9Tek84dHI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:01:01Z",
+    "hash": "9c5345c05c8e3e8d15e26c8cf183deedfb305d7f393e8a380f0d866f027470a0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Stock Market Today: Dow Dips As These Lithium Stocks Soar; Google Up On Warren Buffett Move (Live Coverage) - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlZwUk1lLVNiWmo1SGRUSkN1X1k1QTR1RjQ0WnBhSk5ENXZ6ZHduSUMzMk1ORWt6SEh6T19sTzFlXzhNN2RuM0xjS1BpY3c0MXU5a2VuNkJJT2NBQ2gyLWlJa1k0SHNDREQtWF9zdmFWUjBaUDEyczhDVlFYc2JVVTBkZXRsb2lJQU0yWnJYeGNYNGY1T2FxNlEzVzFHMzlpNEZDbnJVVXZmSi1kOUdR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:01:00Z",
+    "hash": "bbde1b19cea89c13b3af1ac3539b0f4b785a1f82b0a36398a31e44777b6955d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana at Critical Moment: Will it Hit $1,000 or Fall to $100? - Analytics Insight",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdzFmOXA4NnJTLUNjSUE4ZEhxemotSU5nUVVFQUlpak93UjQ3VzNDdnNIU2RaMzZ2TEx1dkJTbGR5SkZwSDVRYzhMMWFDQmtvSm5RRGNUb3pIdnJUTU9JUUl2Um9VU0xQWWJNbThjWUlNakR6RVRfVU9uZVZmWklrTTNqVFNiNzNjNnMwYnkxQzl2VWd3dUNtWTlXRWp0N0dESjFHVjZzTVc5NWdrYnJPU0hQcjZxb0Jhc19CRTJGMznSAc4BQVVfeXFMUDlkUUg0RU0zdmFZUmFobEJOTXhFamxYTThTNVl3eEpQOU5oVHVhb1RZbnZ3VDZFREd3UXVHV3VRSkM2QXIyOHRJMmRubTJnMVBKQXhqWnBOVWE3bG0tb1RQak5DRmZCd3YwdVUzY3BLTWVwcTRTeG5JekF1QzZLSHJITnZrS3hIS09YMlVWQUY0dXNCR0FfSEVuUDJsaTZFbzlkWXFBRWFDYW5kYzNhdlVIcEE5Q1d0bmZIakcxRmt3UXRoVUwtZGJhOVZnMWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T16:00:00Z",
+    "hash": "9d8042f0a98d1eea443999120a0b7a996365d65b7b4761cfde8ceeea21ec414f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet shares hit record after Berkshire makes rare tech bet with $4.9 billion stake - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR3prdTVjRzZ4VGZOZHU2c1VhQzM2Y1d2TW4tQ1huMXVqNXk1REx6WXRWNFQyUVI1SVBPUXBUVWFibms4WVhEempFV1RvdUpTWks5UmZCZ1ExTzhtbEFUV1prYW5xdmQzWjdNLW9UMDNIZ3VROW9uRHdFMy1ZbVZhbmlKb3pXVWVROXoyWEs4QUw1ZWp3bFI4SlA3U2llTnQzMXBUM1RsNzNVeG1WeEpMZjl2dFJnRF9nTm9HbTl0UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T15:58:57Z",
+    "hash": "1472fa6477106bb00cdaa7e480e9224e60b3741bea243b226e2345ae4e7ef0a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price (BTC) Analysis: Whales Step In - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmNsTFg1WUlqYU93NjJ1N2sxTV9JUmRDNVl0UERVdnVIdU9CQjdFUFA4Rm9yM25lMkJGbEJKYXFLbDRlZ2c1RDlGYmU0bllrOE5nOU5QQjQtcHh0X1VpT1NGaFotTnhYbFdQX0FwcEkxTlA3Rm1QaWdDZjhmbmh1clJBbGRGWENMZ0NHM3VmQ3hDUk1xZGdzMGQza2hNcVRPUjUxVUhUNzktdnZncVp5N2VET2R3MHRaS194MzR2TUxFdmN4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T15:54:10Z",
+    "hash": "1487c5bd8753e2084c8cf6b13db305b6ff68252d6d5e4bc350338f04838e9f18",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Google invests $40B in AI data centers, sparking energy concerns - NewsNation",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb1hNTDFFcHZtNWlOeXAwejlXT1I2TTFCY3VMLVJNS3hCbjFCbEQwcGpqRGtVQ1NOZ2xfZXk3VDdZbm8xekZyWFJITF9jZ2lPLVVlYVRwQUUxSmF4T3pDd3BCWTh0bmRTSC1kbmpjS1dmdXVkUk0yQ09WUW9rZU5zTUUzc9IBiAFBVV95cUxPMl9MSVNJX3Z0eTg4bDNadTIzaWJWX0hfM2J3SmhYNnBsdERNYU1Qd0doSzA3eXJoWmZzenFVMjBIejNkRlJsbTRqZkt4Mmo0cExsTm5nLUZtWlFPbEpENEJBbWlTckw4UGJtVFVVcWI3ZTA0am02emRwWXBxVjAzUUZNWkx2YWRU?oc=5",
+    "title": "Introducing Dhivaru and two new connectivity hubs - Google Cloud",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVVJmWEtYQUhSaWM4VVR6NnRoMTVTS01vOTRiSFNBQV9hRmprZGJkYXlJU2c4d3VrZkVBT0pwZ05vRnRkZ0Zfd2hqWFJQNFFuYXduQjZPa3p3ajAyRndLTFNPMXB1NVZQQjV0T1JSUUlUM0h2QUVWcGpPN3R4cmNGTjZIZktmNWdGUXdTWHJ5VQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T15:38:20Z",
-    "hash": "33f5e29bcb4244d1a1efb5c99b43a6bc64a99858971ab062270504cfdfa6335c",
+    "published_at_utc": "2025-11-17T15:52:46Z",
+    "hash": "260bc115d5b11d39ef857e24b1eb84d96142385e5b8ded5b2a25868109da0f59",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Stock Market Today: Dow Slips; Google Parent Alphabet Rallies; Bitcoin Price Ticks Up — Live Updates - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQZmFHSTdvcVQ1TWhJVWJsR0M0cGZFUDY2a0hKSkwtNjJ6Rm84azNpMGQyS2RjNGkzajhLd0d3LVdRS0FXaE9zRlRuRmt2Q2tGOU9md1huZkxYVnZON0VRMWkxWUlGUUwwMzV4Ui1hUUxUTXQ0dk9paV9rVmtkY01RcTZNTElPMGNtTWdQeURuUVRyV05MaGRBNFN6cS04Q0xtQ050MDctbnhVU3ZjRkJzLUxrUWZfbER0VlZnWjJJeEY1RDRPUjRPSGdJUnMxa1ZjazdwclU3SkxFTVh2REhPVUU3a2JWX2NWQWxseUhmaU02STRFdjZXSlQ2NVRVTWdIV2hRMjBVbmRwbUpjWHdYZUtLREtEVUNGcWRGaTlJc09sZnhJb2R2eXRDT3lJSmtOU0N1Mm9wUXRBdTcxWXd6THZPSWd6X0JjYl9vTFZpYWRLcXhkT2FSQ3g5MDRYWjhzVF9wNTFLVDc5NDF4T1hVbWg0TkszQUhCU3VyZk5aejEyQUItSFlBRU1nQUI?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T15:52:00Z",
+    "hash": "68098ee0f05646775928b7dbc1bae74ae478d72a2916c3de2a07e8f7bbbee545",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Google and Micron among market cap stock movers on Monday By Investing.com - Investing.com Canada",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdGZzNGNhR2tfR0tydnhyQ2cybWxGMUU1R1dQYlp0VXVpdkF0WnZSRGJTVUFsaTNUN0M2TFVXa2VpbV81RHZQMHc5S28xNkRxQktJQlJUMlpCc0FpUGlsa3p6d2JNV1ZJRl9FZllVcDFtaHFKb1RJRG92aTV4Y2VWQkJUeEx0Qk13OGh1RUstYldEaktqdUVzYzZVSzlDRUVLNGhWR1N1cXFaS0RSMzFPc2JlOTIxTTMzUlE?oc=5",
+    "title": "Stock Market Today: Dow Slips; Google Parent Alphabet Rallies; Bitcoin Price Ticks Up — Live Updates - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPeFVSYWdxLS1nREhuNHZwc2F5ZGpxMl9Qamd4eXNNWHhEN05ySExCYl9vclJVR3NxYVhJZGJic3RITFVwZ1R6ZmxhWC1JQzRZeGkxeXFoUHhPNnhORXluc3NEdlU3NEZlamJaYmJiX2d6RUNLV3ZldThCYl9IbC1RbVdLZGxPMU10QnJtUC1MY0lfVWxrRGczSXBIQ2VPM2hjM0Y1eXQyWGpuVmxaNFNtVmJGWnRDUzRrT2NxNEg3WnR3UF8zczlxNHZpWXIwR1VzY3FEWVIxdnZlZFJQd3VNUHU5MW5NVTFKZU5VcURTOEl0Q3BSd0hYV3dLaGRmY29CaDIzTXBwVmhaTTNQUGJKcEZ1RkcyWXd3Slg0WUtoMXVoUjgzcjdKVEpMbzlHRFZpVFNLdGdVQUdNTm1yTnlfQklvR0RMeFozTXJFLXNGMDNVN2JiVk0wT3RkMFZwaVg4c3o4M2VMb3A2WXZFeXNlWmdGMXpyTmZBaFN3MjhiT1BWTGd3eGNWaHUzQjk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T15:37:23Z",
-    "hash": "4915dda81584e48dd76e8b14c32366e6a77b6a6e68031ef8d3bcb9cd8dc56c63",
+    "published_at_utc": "2025-11-17T15:52:00Z",
+    "hash": "1f256294ccc7ad2ab7223b89c58480ee02106209c23c6670c22e7d458a489e80",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "US stock market today: Dow, Nasdaq, S&P 500 slip as AI stocks face pressure and Nvidia outlook comes into focus - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPRncwZ0x0WDRMeVF5cGhYbmZ5MTU4VnFxLVhWWVc5MVktWWFqZjJsYm44VTdlM1ZfUndjVnhmTUs4LTdHWmxlcGNMaFNWRHZlWUY1c0RMZGxKQWRTMkVVUEVzMnZxd1ZqQl80cW1yZ1V6REF6bGJCOHVlUmNLdnNMdW5zY0VkTnFSNmk5a1dhM01QMTRmc1pPaG1rZk83alIyUVB1UEVBb1ozdEhfOVg3blIyLVRvUFA3a2RLajIxMGNMbDZxTXdja2lYQmp0MUc4N0t5d1RHWnIwZlJnOVJ2bmVQbFduaUdJOFJYeXRLVTY5aWFTaFJwa1lwMzZmM3lSbnp0WHdGS0h3NnViNFdqNUpVVTQ0N2hR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T15:51:06Z",
+    "hash": "d679d61a7ea08b652293e724872dd4377b467ec8b8b42e16a48031dca754f934",
     "source": "gnews"
   }
 ]
