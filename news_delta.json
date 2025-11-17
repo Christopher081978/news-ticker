@@ -1,182 +1,42 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dow drops 700 points, dragged down by Nvidia, tech shares: Live updates - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HWlFIYTA2QUN3eThpSDVLNm9FcWJxcXpGeDV2OHRZZk50LU5weDBEX1NmRGM1NGptZGk3aEZyeEtGWFBuaTJZNVVYSjNfOVpuTlA1ZUkxTHY0TEFaeHd3SWJUaUJNWVE5VFJ1UUV1VnVXR2EtSG9n0gF8QVVfeXFMTzAzSnlwZEhoaXd3RDNWd1JlQzRpSUM5cTgxQ1BVN0lnSEx6czFxeE11YXQ4VVBNSGFRZUgyT2Q3NFhFenRxMDk1SmtUUGFOeVdLUm9McmFLWlMzWk1yY3VWeFF1UXBUZV9xcm1sVy0zUzg3OEpjNlJ4cEs5Mw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:28:00Z",
-    "hash": "ab75741b0328daeea62eb447c27df042cba4e50f81616a794b06555bde68be27",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Wall Street indexes fall 1%; investors brace for jobs data, Nvidia results - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzBOZElHWUJBTGpEdDg2UDJXd2FFSVZLalpMYXFMdV9ZRFFsZUN0eVMwQWF3Tjl2TV9Gand1VXdQSVV6c2w2V0w0MTRCMk9zbFRBRTB3V1lqZURTVzVnQVkxR3BEMDRBQlJYdDAyUkdCelI4V080cXdRM3l1cXBpWElZenAzd3VtdzNHak9BOTI5UTFTVWw2NEx0dmhhU3lIX1p3ZWcxZnpud0ZtaTBYQk1R?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:27:00Z",
-    "hash": "7f40fef990ac30db2c392dcf1d21fe11d6f078580fd2ef651f613839020d6536",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dow Jones Today: Stock Indexes Retreat Ahead of Nvidia, Retail Results; Dow Sheds 650 Points; Google Parent Alphabet Hits All-Time High - Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkRHRXMmpUNEprR2VDaHlzT0FsZTFLU3cxaVZ5Y0Ytb2Q0SWcxajZCRG1tb1JtV0I1RlQ0U1RFZUF4Vkc3SjBHbG1DWFJZbDZyUFhOVENTYWRKLTdtcTh6MDBDNm1JdENGY0sxMlU2OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:16:50Z",
-    "hash": "1462b0465ee102cd5fc5026f7320e94c160b0f8495ad4f06588d14a36d292c45",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitwise CIO Highlights Community Power Behind XRP ETF Momentum - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUpjQldod1RQaEQzQi1SalRzekZZcFJ2NFYybEJZWlk1T3dNYlJRSlF0ajJrTkFCTzBFaURDVGlpSGRaWEpwX2J0VVlieG1vSTBwdjh3S1dBN2JpU1V6ODZ0RXRRUWNUQmZoalBWYnFqZTJUQnJ5UFR0azFtTnZqMXNnMk9mamNpNVVGbzJOSkU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:16:41Z",
-    "hash": "287393bd5afc96aea8b146d22e4634b69a4a4c99f4c9beec524f8226752cb9a7",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Wall Street dips and Treasury yields slip as investors eye Nvidia results, data onslaught - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1NzdjZDbFZxTWhFS05PRm1aaWRRMW5sdkF1R3JiNzY2MExJcXVoZ2lxajFsQWNqTTdNWUF1NmxvaUpfV1Uza0R0NkRRTVBKVjB2Y1dSWHZJb1ZRMTJaSkRBNUJyYU5GbVJjV1MzdmVMVmYtYTJUZ1NKM2lCdTJhR0hHMTE0LUVMVlR3YWY1SF9RYnVV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:16:27Z",
-    "hash": "a16089725e6faa658ea341c3d87552e3accb55d8f448d38407114d37dd648fd6",
-    "source": "gnews"
-  },
-  {
     "asset": "Alphabet",
     "query": "Alphabet Google",
-    "title": "Alphabet Stock Soars After Berkshire Hathaway Stake: What’s Driving Google’s Rally in 2025? - Azat TV",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTlFNWxISVM0emxSMW5EOEhRNWRSQzdNTHp2b3ZvOXJqME1EQzlHZXlTdmdQZG5pVldNbXpUdnNPRWwyRUhZeTJmR0x3Uk9nSDktS05pdEt6SkNMaW5xTDZKMmRUNjBjSFAwR1RHQUdZbm5sZHBGN1pUUFg4VWFkeWk4TGs1SVFDSGtJ?oc=5",
+    "title": "Why Alphabet Stock Climbed Today - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTNvN1hHR19paGQxN1NFMnR2bGN5cnJlNjE1azdkWDh3ZjlpTDhEOUtBWlZndVVjeGpQVVdKR05jc1d6VXU5eXh3cU5tUFRoeWxBMHZOOVViN25FME5ObXYzQnhDWWRHV2VZSUd3ZGdmdXV6LXJXamF0emNHMzBuZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T20:15:41Z",
-    "hash": "0887ff4aa65cc4cfe049d361c94c42e235697b817a5aa370f353fca3239860c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum’s (ETH) Price Falls 40% from All-Time High as Crypto Slide Accelerates - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczlCUXFSX2pkcmRKVmlfTUtLSVVaQUFPbXhZX2lNSmhqZFM3Rkd2VDZ3T3RONXo2MUlfc0NETkJ0dW90dFZfdDRqUFNZVE8zdFBjbElWVlhJd1hEaHJ4SG1mLWJMUUhoOWJRQlJUQzdBSWpfTTN0WnJGX2h1X2p3YTBkZjFGQlBFclJzMm1iQWdTNGZ6ejh1NEZVdTVyMlZvRGlSSG5UdlI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:14:03Z",
-    "hash": "904c4ba9c9236f116dcd8342a50095630d42baf5f4e06ca3104a42092270986d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Tom Lee’s Bitmine Acquires 54,156 ETH to Strengthen Ethereum Investment Portfolio - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRy1LOFZnbVdrMWpxNTFoYTFKcDFONGF4Wkp1YXhPM2hlTFVhZ0tIRjFJM2Z5Y3hhNTJfUEhfaUNPb0JWN2JFcUJtN1FsSGk2bG5CaXg3U2tETUttSloyWWZScFY4ekxzOG1ZeW9UTGozR2ZaUVJhNXFaVXpSUnQxQVk5UXBIV2tNMk45OV9kZjB4V3BQVGF4ay14QmdBalJwRHoyelZ5VQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:13:52Z",
-    "hash": "cad5ccc222723abb0e9e4bfc220dbdd03e832e0581cefd831ebfe3561d22fe1d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "GLP-1 price war heats up as Novo Nordisk offers $199 starter doses - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkFxMDFoSmNCeDJJSjBkMUFHaXBZZktSd1BEX0FWcF82Z0dVcG5Rd1IxcEJhOVRfSGlaNTNHeUJKT0oxWlFrNldwdDVkMjNxbnlCSUZzWXRCZzNsQ1VYaHJWcWNXS2JiMWZmQzRLdFZmVkRhTy1Va1VCdmdab2Z6Um9rRkthVXFoRG0yckg3WGgwUWs5cDFWdFBaWXZOV2xNM0hWeA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:11:15Z",
-    "hash": "a916ed8ad7f7e9ea35898dbd0a7deee5e402fc9bad35b0d5ef2e9621d8992185",
+    "published_at_utc": "2025-11-17T20:37:00Z",
+    "hash": "b1c26179fe39add21b2bf51195b0e0a8da2f860e1674609e9c6eed9b78c20d3d",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "This Data Center Stock Could Go Parabolic Following Nvidia Earnings - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0FxVmpsWm1lMVp2Mzd3QjFmcXNKM2U5MHl2MnhOeXdIeEd6ZjUzamdzM211UWE4U0prUzZVQmF3RkFuaG1TOEVpNDNaaGtTSTF3UW9maUstT04wT2NSRmJNUDBjc3JkX2tkQkd4OEtDbTJ3bmZuRkYxbUNRb3F0RE9wREhBa2lXWG53Qjk3eGpPY2Y2NUNz?oc=5",
+    "title": "Two Big Investors Just Offloaded All Their NVIDIA Shares - VICE",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NLTlfa3A1cjd6dTBnb2FzNDRUWUk5YThBTldDcDhGNWxmSndHQjVjQ2lOX1JqQkprQWtNVmNISi1EUG1SZ0p6aWdkQ0MzOVNHdmxwQk5NU3hCLXdxMHE3VGxCalAwbTFtQVdTSkZMNHIwdS1tNWhDbXZBUVotdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T20:06:00Z",
-    "hash": "11ab68dcce8c42bcfcab56107424739d38c35c837f297e0c06246271376a3fd7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Price Over Earnings Overview: Novo Nordisk - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFU0Ml81RHg3dWwxN0hDV0JreW82MGdQeWFHN0NYRV9hMHFHbW9TQnc5VmNxQWI2U0hEaV9PWXNOd2Q1UDF0WFVjYmJ3WUE0aVpxS0FGak9LakJNeTI3LUhFVlNjNTdHcVRCa3F2MDgwVWl1RkFCNkQtQ3JUVUF2MVBFRjVyVy1DMkdZZ3lLRk03anNVWUJ1b0FiSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:00:50Z",
-    "hash": "b9726da0ded2abc4964df151280d84ca4ce603ccb1bac5ccf8625b41e66a4616",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens adds Setmetrics tech to energy efficiency modelling - ChannelLife Australia",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQm0wY1czdUtzSlNOOG16Q2xUTGwtNzRuTEVzUF9TVm1EVFg3YXczdDR1UEtJcVRYZTRyY3kxekFUSjh0QVJlSFJGbDFjSV9BRFpZMUdxRWtvcTZqVWpBeXVlUXlXX0J3UUhRdEV0S0lHUDdwV1lmZzBlNl9kWVpkZS0weXByRnFaNk1WVnVETGE4ME9FY0Rn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T20:00:00Z",
-    "hash": "5911f4203e6e0345fb2667b9a56a4dc30d26f405a73dd516030c7332171c62c0",
+    "published_at_utc": "2025-11-17T20:35:44Z",
+    "hash": "0fea3a15fff2fd2d632c25fbaf22133b7acd31589f8f26284788bc940ace4606",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "The US stock market is dropping as Nvidia and other AI superstars dim some more - GMToday.com",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaXN4LVdob2xIekVORGJPX3o3VjlJVGZaYXZudkpRRkNLYnVPSm9qTUkydDM1azhSSjNFVDBNOWs1dDdvaEFxZmk2RDhOX1NuVnhwQ0ZCRmJ3dXQ3VEZsSnliT05fbUxEQUhhRHJOd1hlaW9TNHRNNkZUTlB3b19oc2VXaE5xZF96ZW1Uemx3ZVdqOEFJN2E3dWZMaVJkWHB0UG5WMkVVc0k3N25Ic1gtUmM4UTBTZEFkSGVzaHVwbG12cGtObkZPRllfQ0J6SS13cGVhN1NmamxnNGw5d1p3eFkwV0hGaFhoV2hNclgzcDZCM1JY?oc=5",
+    "title": "Dow drops 600 points, dragged down by Nvidia, tech shares: Live updates - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HWlFIYTA2QUN3eThpSDVLNm9FcWJxcXpGeDV2OHRZZk50LU5weDBEX1NmRGM1NGptZGk3aEZyeEtGWFBuaTJZNVVYSjNfOVpuTlA1ZUkxTHY0TEFaeHd3SWJUaUJNWVE5VFJ1UUV1VnVXR2EtSG9n0gF8QVVfeXFMTzAzSnlwZEhoaXd3RDNWd1JlQzRpSUM5cTgxQ1BVN0lnSEx6czFxeE11YXQ4VVBNSGFRZUgyT2Q3NFhFenRxMDk1SmtUUGFOeVdLUm9McmFLWlMzWk1yY3VWeFF1UXBUZV9xcm1sVy0zUzg3OEpjNlJ4cEs5Mw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T19:59:00Z",
-    "hash": "756b95f835307c2a88d6b0fe916d4d092a5f48f0142d756d0acc411770b35905",
+    "published_at_utc": "2025-11-17T20:35:00Z",
+    "hash": "0e6dc7f7c7fa2be39654bd3505cbe3a099f0f0dafd44eb388d668054aeee809a",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google Cloud partners with Conifer Health Solutions for AI revenue cycle management - MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDhxSlZLRk83YTJTYjdNM192cF9fLWFiV0huMm5LaWZQemZ5OE1rcEk0cW1xUFEza1V4eXpvM0RCN21ybnN4ejlZeExHVWxSSzNNVVYzOTFCMGRyQmFoV3lOa1VtQlQ4N3JYTHktZUxvX2ZqN2c4MGN3LWhPUS1yY0tuXzkzMnFoMWxpZzlfTWVzVTU1UmpKdFdieDlodnU5T2pwanRXaFZNYklSdUNN?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin price prediction sparks debate: World’s smartest man says BTC USD will hit $220,000 in 45 days - c - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQ2tGZW5FazNfd3FQcTdsVlp4SHF1MXBYejFmbHZxcnBOQVVwSjNHTEJLWlVGYzZKVkJWTEo2cmxWYmxWamw2bHRpUWg2Mk5tdmZ2QkNTTTB5ZzJwcXVpQi1tVng5cm5ZZmgzRDFGcUpZdUttVG5rSGlTVGhZRWN5X0JlcTlyNmJfZ0duMXdkM0ZfNlE1bzBieDQ4MzJ2RGNuMEl6T3ZHNllCZC16UFM0d0ltdDlVSDlodWp0Zlp4U3VCdEQ5Z21DdW1oT0l2UWtoMUo4c0RidzM3TmJBU2hyZ1IyWW1SSzVmN282ai1zZERaVUc0TDI5dVJWaHUyT3djX2JYX3lFdUs2cTUxWFl2RGl5ZHhBTnPSAZwCQVVfeXFMT3BKQnBtSmh2WmZta1B0MXZLaUtsMC01dWNSeG5OSXVKdl8wdUotWlRib1BndGlkcWljZl9CN0JhLXBiTFpCTWE3ZEs4WWpJV3FoSklHMVhjX3FXa01rWTdjQVZqOV93cml0VkdBZEFxZVV3bGtacGVnRXZKWDBYaF9ncDR2Mml4X0JUS1Q5QlNPTjdsR3FLQzR4WjJZSXpybkVtTEdmYXhqVTlfRzhkbDJDQUU5RWhfZzZrNVZXMnVtUkRLNzdlclNMSlZnRVBLY1N6YlUzRGVZakFhNkZGM29PUmkwTHd0VFpqcmdORW5CcEVyUW83a2lKcktlR3lZWjN6X1lpc3RzX3NDTGR1Y095b0dWcTcxOGJrOE4?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T19:56:21Z",
-    "hash": "bfe7b7f8bcc599b5634d2d597ddeee437636361948e8c11f3e8f642731f39501",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Wall Street indexes fall 1%; investors brace for jobs data, Nvidia results By Reuters - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT2R5UUhMa1lxcno5YXB3UzRZOWlhNnprcU9KazdpMFNpRlg4Q0ZOMWhlWTF3S0Ewc2NXMVNIUHhLU0ZiRjQ1SHJYUlM3U19Hb3R4RG9LVVEzYk9MaW94b2VrdkFfb2tSWHJVSEo1LWVYdnU1WFh4ZFZFdDB3eVRKWmx2VExVMDRDYjRvbGh2ZFhQblZFclp6R1hvUlBpOEJtSkhtdWdxOXdQN0k4UWFfc2xyc0RaQ0Z6aV85VHd1QjZIaWEyY1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T19:52:30Z",
-    "hash": "905937551f798fe46e2ee41c8a0459bbb28208dc9938ebf18a5cc0cd6828775a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Best Crypto To Buy Now That Markets Are Falling Is A Coin That Is Based On Real-Life Value Like DeepSnitch AI - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTTU3Z29tYUxBSjcwOHVxb1dUckVrNGlLYVhMazhBYkltU3ZXUEItUWpBRUNZT3p1SUhBeFlLcGVCVDMyYVIzV3FIcll1SFM5NVNRTDZXYUc2dlQtZmUyQmhTN19FeXVLbGJoWUJRdXdmUE80WDg4cDJQMFA0TjRlYk9aWnplOWVLdFRLYmgzdFVUS1lNcG1ERkZFRU9oT2dzbS1fUGhGWUtoRE01cEh5dExNbUFBQmtMNy1FVzYwZ2dWZ0ZmMGVyRzQ1TTFVQnZvbHhTREIzM1BfU0NYYjdyaWFVTkk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T19:50:00Z",
-    "hash": "09e2740f71c42d43a59e09adbc31a4443629acc9225fe23849885bef4c417e5e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia or Intel: Billionaire Ken Griffin Bets on One Top Chip AI Stock - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkUxVlJXQ2FSZHpVVWN1d1NqZGRmdFNhOGVrOF9mZkFKWFZNZmdUM1pheW80X0VlTElrU09ndzRfR2xaQ2dtQy1ZU1VtUlBXeFdWNVBaWFJXanBJQkVXb0hSNmZqSlJPUm5EaG1CZDNEcGt1dS1sY3RIMUotOXZrOEFHV19mbWxjczlFYlRxTmdsb1gwUzZmcnJFazdET1Fl?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T19:48:54Z",
-    "hash": "954833b86ea6997d0000cf2b45867ca7ba1e3ec9c20d5eea5a9e51425ec6a358",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum News: Tom Lee’s BitMine Buys 54,156 ETH, Total Holdings Now Worth $11.11B - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazBXQWVtU2VDaXMzQU85X0xDSi01LXlPaV9UZTdvVWVsRnFSMVFXMlZTSmN6Q05UdjdMZzRyTm5fdzBQLTczV3NMaWI2VXBKU0tHNG8wS1pnVTZtczBoR0pJU1M0TTF4b2JFRXhfOUI1SUFOTUMxZ3hGQ2ktZC13eUJZWDhuV0hYWlpzRnVtWnBrYnAwdTNoRXllOUtqd2l6Z1hTNWJvdmxwOXhUQ1ZZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-17T19:45:14Z",
-    "hash": "f721c71e5eb3d3750eaac2c2702ed48e04963feee89c07e70caf222d4673518c",
+    "published_at_utc": "2025-11-17T20:34:05Z",
+    "hash": "10c6d58043ffdb0d1712a6ac661a742567ce691c3c849ee5bd9e1cc1cbb15ece",
     "source": "gnews"
   }
 ]
