@@ -1,12 +1,102 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Volume Surge: Analyzing the Factors Behind the 900% Increase - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkFhZjZlSDU3SWpSTGt3M0JPRG1RNklIbE5zTEtERFMtWVZLeFljRHN0NUswdVpaY0lwemhQLUQ3N1VkeG14QUVFVnZTc3diaDBaaGJMdWRMTHRobEhYR2NOc3JodkJBX19QR01ISklJOWNBSk9BWUZjZnFwRkdxenpOQ2pqNG5FeXFBa3E3QlpDNkhmdTNaUDdwbjA?oc=5",
+    "asset": "Bitcoin",
+    "query": "GlobalFeed",
+    "title": "Kommentar: Inflationsschutz mit der Kryptowährung: Schulden treiben den Bitcoin",
+    "url": "https://www.handelsblatt.com/meinung/kommentare/kommentar-schulden-treiben-den-bitcoin/100174664.html",
+    "summary": "Die Kryptowährung bietet vor allem einen Vorteil. Sie ist nicht Teil des traditionellen Finanzsystems. Wer sich allerdings Wunder von ihr erwartet, dürfte schwer enttäuscht werden.",
+    "published_at_utc": "2025-11-17T06:38:46Z",
+    "hash": "3493c16e700fdfdd1596bbae7cef018858cad762961e76c729cb240bb01287ee",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Could Nvidia Stock Help You Become a Millionaire? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZExoUEJPdHNiQms2MlpuVDB1X0RSbDRqU3JUby14cENESVEwaEdmdDlSeWRiYkUwbV9UTVB4NjRmRXF0dU9vaEdKc2Y0N2FUcXQwWF9ZZi1HM0tkd2NrMjJkVXZ6RDhvRVYzN0FmSzZYeHNDdGM1WUViVE1leDU1V0JpMFlJWVBjZ1pDaWxRdUxVYkxXWUE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-17T05:38:15Z",
-    "hash": "5bf21b08c09011392e487b09fbf3995f6557fca1a263058f700729df5cf34b11",
+    "published_at_utc": "2025-11-17T06:30:00Z",
+    "hash": "1fc695fe984fc49f25d1cb1d5242195c2882b1f49727d2e651043f6a237d03ff",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Nomura upgrades Siemens stock to Neutral on strong revenue growth - Investing.com India",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3ZIdDBUWmlib0NmSV9wejdlU3IzY09hTmRJbnA3by1PODNqcHczbVpaaGtONlZYSlBNZlQ3OXduTEJ3aTE0QW8xcHd3SzRyNU13alppMjVoMDNTUFFORWlNZVJoTDFoZkMyNE95bFIwbHk2bWhpM3RJeWp1emRoaGJSTGpPUkRycUs2MGRpdWUyUmFiU0I5R3lIRTlCeTBOSnhtd2RHM3NsUFZrQXlVUUpMUG1NMkQ4NDZLdGs4Qm51Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:22:48Z",
+    "hash": "bc759ce5a283d31eb1467ba8cd4063873f8cabfca19d0e3467dc6155b387afa9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stock market today: Nikkei dips, S&P 500 stabilizes and Euro Stoxx 50 slides as investors await Nvidia earnings - Economy Middle East",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZG4tZ3B1YkRGN0JneUdFUUVoNmNDajRQRGhOWU1XZWJNbTBjeUVpaTBXMmVlQm1VZkhzRmt6ZUt1QmljZmxtRF9zR2FaU3NPWXppNElSMHZteVRFQlIxVWpGYV9VTV83S2VFckx5WlRQSjhYdHNZZGpSaTAtVEZiVWZsQVp0d2pkNkpoVjM4OXBXX3ZEdHR6V1RVbkFROVozM015dTgtZ0tDZWxXQktCV0s0cV8ySldOYW03RUt4OVRfUU93OWNTNnptcURyMzNVSmxLM1IyVFpDQUp2?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:22:13Z",
+    "hash": "21ece2273a336350786fb0f5f8bec3b3bf36d122f978e1b8dc3edba3411d4e50",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "What Next for Crypto Bulls as ETH, XRP, SOL, ADA Drop 8–16% in a Week - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2s2RmpnY1N2WVdUbFBfWm51LXNxV2RTOVZ1OWhGQkx1WWlacVBDLWRic2FoRWNNbVY4Vnh2MUU5bEw5OVh2dEl4dkVEbC1JUHJxS3JEUGo4ay1YcldPdVExNmROamlfaklxWEF6Y0VGZ3l4MWg3MHE2NHJmdXFQVm81bExjZlVfcTQ4cVdibC1GcFBJcGRZVXJFaHlXTXFJMjk5V2JvZ3M1ZHo3dXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:12:31Z",
+    "hash": "9c5740b3810463b1212661b4a87746a1a387ba65bdf3bb9de363b31c541aa49a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNajdpRURLU2J1WjQwWF9YUTJNT0I1SlNEMExRQVczV0dnZ3pHWWdRanlXRmtEUXV2U05XbjZBZVFzb1FMN1hObDQ5MmpndDNvR1FvdzhlZzg3a04yZUExckZnQmxJU3ZtOXZUdE10SVdzNzl4T0ZQTy1aSkRkU21hRHF6djl2ZzJVQkQ4WWdfTUpqU1gyNS0yQ2h2TVE0UkV4aENyc1AxSTRCTFAyU09oNjgtMWJRbEUtb1pQZ1BHMWZIOG9tYWRFSEY1a3I5S3dPOGYzUUJOc1Z5aGtEejhHTXlmRnY?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:10:17Z",
+    "hash": "781138d12f4143c4a1c63306a167b99d9b326d3c53d4c082f39824689cf116d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Nvidia Stock Price Watch: Tech Futures Rise as Google Leads Early Gains - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLWJ1VFhIR1pNRklYeVp2a193MjkySFlkMWlFaHZtNVowSjRiYW05SFZZLVFmWVpxUUM2dWwwYmJRWldBRkZQWVZpbGdzNEc5SjBQNERMZmt3NlFRWkZEYWxWaXo1cC1vX0dQVnkydW4wcWNZNy1nUzJfTm45VWpaS0hIa0g2TW9xOGhvdnRxWF9nTzU3bkVZTkF3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:08:13Z",
+    "hash": "e8ce8bc7bbd8d215437063b84b47a081e03e47d21869c53767220da1e0589969",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "BTCUSD News Today, Nov 17: Market Reacts to Bitcoin’s Price Fluctuations - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLXlJcEE3X0NDdVJxY2Q2clhKenZyWC14aGUxREdUMlVUOFUzMXFHV2pybG9NSUZqektPUHUzRGQ2ajBueUEtX1Z2TUxIQXpHRkR6WkxDZmV6SnFha3hEeEMtcnpSZ2JyV0Z6T0h2QzNPUjdrVkZ2WUVyblJSSjRkSlg1MVFhbGhXanFhMkp6Q3JRaE1aNjFLRlNfNEd4cFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:02:12Z",
+    "hash": "65b6ce297d98c94fb8e3f8e229dd03f5dae1f4052ceef803c7cf061d0f74a7ad",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "XRP, Solana, And Pepeto: Analysts Share Key Predictions Heading Into January 2026 - Outlook India",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1hmWndMZ3JDY2tkR0JkNF9hTDhwbEFuVFpteWNnV1dma1prcnRmZmxqQ1NDUlVyalpXVkhfUGs2a3BaUGVTLXRpME1QTnA4UVNIRnlNdE81dHlhV2ZuZUQ2c1l0RExPbjZ2c3B0VXMwdDNWQk5KYmlFeXptUDJsUzQ3elZyZm5BY1JwOXdhNFBVUUphWDFzWmFHNFYtWW5TdFo5OUNOZmdsXzFqZ1Y3dERteXVndzFjWjBSODRFaFgzZm9ZcE42UHpIdGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:01:32Z",
+    "hash": "706d1c3142f3945c88a58981b92711db17aee47b99a92b6b152ec34356b66da4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin News: FSA Seeks to Label BTC as Financial Products - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSC1DblRIZWxNS0ItUmpUdTV3dk0wWXlualVVQnhIQmhOWi12cTZoaXlJWXlIdjl6SGtXSkhPb3VPdkVQY3BETmVjaVh6T3gxdUg1bmlrb1ZydkstSlU2ZHo4VGN5XzFCak4zT2w1V0p6RFA4WExUYnZhVnRPWGhLaFY2RGUyUkM1c3BsU29rTC14aFBF?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-17T06:00:09Z",
+    "hash": "21fbd0d81027720f932578edeb833851719676a537a00173e98b6a58b6405272",
     "source": "gnews"
   }
 ]
