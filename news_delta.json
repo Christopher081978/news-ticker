@@ -1,32 +1,222 @@
 [
   {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google releases Gemini 3 with 'vibe coding' as chatbots battle for market share (GOOG:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbldNSnFlM3QyUGZyQ3c4VEtjdWplbnVMMWx1MUZNblg2R1M0UGs5bU51RnNESlZlS0lLZ3pfRHozaDRXMnd3Mk1Cd1NxRjk0LVBHOEpPWmdRenV1c01XN0Y2bEZHZzlJZFNCUjhFZDNWbG1Zamg2Wkk0TEFtVkVHejJFeWJvQjV5d0UwdXlIMThsVnVjdk1KdGQ4TlVaTkhUUVlaQ3dfY0VJVmlmREROcHphV29tbGtXNFJEZm1Ic0RYam5pVXdZRlJqQ3FadjBRWXluM2FjQmtIcDZJc2dqUUpRYU5oQ3Z0Y0RNYjg1QTdJaFNoeHR2S1U3NjF4aVZLc0ZOQ1VuUzJjNEdV?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:35:38Z",
+    "hash": "2277e7d4a696abccb1b976c172984c6dbd57af9708dc37f064005d78aa572b0a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Miner Canaan’s Stock Spikes After Q3 Revenue Rise, Even as BTC Falls - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlQ0SWxWYVRkNFg3cm4xMHdzLVdLQnllZHVOR2FIeTFxMkQ3bjZOd2p3dmVUNnlhVGt0OEVuNHBSTjc3bkxSUDhKR1IwR0Fyb0EzN3gwcjNuWWV6YkZkdjVUTkV1ejNiX1VteTgzeHF0UkxJTHRSbjgxT25FZ1dhYnhOYU1TQ1ZnZFluRjNld9IBlwFBVV95cUxQSDNIal9ZazNFUy13T2dOaFZaSnZSUzh0MjVicnlSVW1uam1nNzlyTHZTTnlmTWgxckdKamRoa3ltUHRJOTlJQ0NudmNiWDhxVGF0aWREbVZJQm4wREoxRkhHVDljbEIwNGIyTFFQeVJoVzBNZ21rQnY5aERlS09FSEF0enQtM09ianhaeUtHWWQ2c01GNVpr?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:32:33Z",
+    "hash": "76b7e33cfb96d2bdbd87080e958c86a6691dbfb2e5af2a547f7da3ca2ac0c43f",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stock Market Today: Dow Jones Index Sinks 600 Points As Nvidia, Home Depot See More Losses (Live Coverage) - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNenBJWjlFMXhIdWRSWE8zN2hzbVRyZm9yTFN4RktVYU9LSWplclNUcndwV1VLTmlSelI2a1hxZVdYUE53QnRxd25vZXRkbElndF9XV29kclZ5Y3hyUjRUZjVvZ2VEVnVZbWpBSjlfcDJoVmZhQmxWd2JfYmpVR2dUNkxoMHBfWEY0c1dvT1dIem9rYzFJazZUSnJVblJYZVNsVWc0NU16THRuSmIteVdrQy1zbVc3dkE3?oc=5",
+    "title": "Wall Street drops again as Nvidia, bitcoin and other stars keep swinging - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0xNX09ZdE5oYjJ1VXpqUFVBTi1fNW9tNk0yRWxEQy1fVHU4eXczTXJhenk0aV8xT0QzX2xKbjBYaFZTNWVQM3lFM2ZkZV8xb0V5bGN6Q3FfWS01eV9MYmhDbUI5UTBPWjhMcFVqY3BvaTh0TVJoOUZfd25paE02ZGZNTEVvbzQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-18T15:43:00Z",
-    "hash": "91d2d62fc3c2597d543f92c5c72c7abaa57d8726bb252cc89492d1d12043efcb",
+    "published_at_utc": "2025-11-18T16:27:48Z",
+    "hash": "bc222736153af248f1edb4b8d296f63035e493fc279c95b66a6ba6e0cb47735a",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Google boss says trillion-dollar AI investment boom has ‘elements of irrationality’ - oodaloop.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFIwb2hzMXBiTjJtcUczMmxLNjBaLVo4ODd1eWpocFlEbGRHTFZiMGYwX2NySmVRTUdRWFBjSkRPREx6SlNCM3ROM28xSHJXZWVBOHJZbW53QWo3TGdRMkhIR0FUTzJUWU0yNE9YTEwtWkpqMzB0TzlST3pVWnpXRDdTUDJGNFYtdER1RFpsYVdLNHd4T1R0emtBcFFUcUpXSmNCMG96U0J6ajNyUWRmMXJSbjZFT3o1cTFGT29R?oc=5",
+    "title": "Google Stock Drops after CEO Says ‘No Company Is Going to Be Immune’ to the AI Bubble - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmVGUlhQaHVjbV8tN3pVdl9SUXctbjNZWGRZZlVFdmItMFRzbVdSU1lxLTc0X0JPWjZpeG9qRmhBb0xTT3FLU09NWUR4bXN6YkctTzBkTDRqMUpOOXQ5NDZHUW1SaVNIMWk1SURLTkZVaUlYZG9IMjNYLTZzQ0FXLWZkS25WRF9DRzhMYzFmZHIxb0JiOFFWQjFXTmwxdVpVdUp5UHhjSVdiMnFIdDVPVHhNbw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-18T15:41:29Z",
-    "hash": "baaff1a6536068c2bf9a135c5d820d2337c006c833b05f472211083ea56ebbb0",
+    "published_at_utc": "2025-11-18T16:26:11Z",
+    "hash": "31e100c96459b4f47776268f3cc34db126585d8562ab3f60149b04d96e0b425b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "No firm is immune if AI bubble bursts, Google CEO tells BBC - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGs4RG1NRFZGMXJFNFp4RkQ0TjVJSjVQNm5HNHRTY3JvZFRhT3RzdWtWWmI2Rk1wdnRkcDFOcHhnV2lFcGctZVktaVEwSldHUmlmX2VqcndPZ3BNZlljQ3RNWW9FM1dNVGZzMHNQTmM2ZVVQaFBpRTk0VXB2NldRVmhBbVk4LXduYTVDTUR1VmxzT1ZRRFZ5QUViUHpNMlFhOHJLdmtGQ2RrclFickVuWVJRMGluUmtjcGJFTEJHVWJQUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:21:48Z",
+    "hash": "d7ece50fb4128de42db6aef3ec847dcf50f29e59909048091c9cb2cf3919e0b9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Internet-Störung: Störung bei Cloudflare legt viele bekannte Webseiten lahm",
+    "url": "https://www.handelsblatt.com/dpa/internet-stoerung-stoerung-bei-cloudflare-legt-viele-bekannte-webseiten-lahm/100175842.html",
+    "summary": "Eine technische Störung bei Cloudflare machte viele Webseiten und Online-Apps stundenlang unerreichbar. Auch bekannte Plattformen waren betroffen.",
+    "published_at_utc": "2025-11-18T16:21:31Z",
+    "hash": "1859dd9459b4461c6b9bf694c468bec52a4fd62d40d6a0b3dea0ce94176f2993",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "The Whole Financial World Is Terrified of Nvidia’s Earnings Call - Futurism",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVTFGYTdoVjEwdVNHRFFLTnJLd3BpRzJNN0M2SmxNNXd5Y2NCMGhtWVAtc3ZlT3hzb1lzSklYV2xKbmdBRVVIRUYwRTZweGEzZWQ0T2RONXdBdTBZenZBTnVMcGRqZ3VtZWNJTlFrN2JaREZRVkxJcWYtVmc5S05ORkRsYUhlVHEy?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:20:56Z",
+    "hash": "e0f01c5ee71933f92deceb33b550c97cb3d4c5ef22dd1bce9ffa3a8d7751144a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Supply Shock Value: Top Or Bottom Signal Delivered? - DailyCoin",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNektkazdQdkhpN3c5V0lSRU05R1pRUFlpRXp0WTUxSFRGaFZDZjFKNHFhbzVadkhzd3hnbVUyWGRmQXdURjVGeDI4Y0tJSWlaNFZrS0xkNnpnYUhKUzFUdURxM0pYMzB2ZUZHTFA1R3dwTVZfNGROWklvRWtVZ3ZVbktR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:16:00Z",
+    "hash": "b78f7bf2b35ee70fefb2810ac17a8c1b2802c50be69a52803df3612325b323f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Shows Signs of Recovery with Key Support Holding at $2.06 - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQl9ibGdPWHZ1bFJXVWVGRDFOdFNPTHlzUkRTaC1TU2tKRG9wLVNsbDV6VXdzYXp4Y3BmN3VFOV9CbThHV3NmVFQ2QUZIanN4UTg0T3ZUaENLYlktVXdjcHVpaU9pZ2loXzl4WkxNdEJHUWlsSEctam5lUTB0NVI4eVY4cEhqY0prWmFid2hB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:14:21Z",
+    "hash": "7f0d57dfec8815150c7bec9ee770bc0a410f362faeec6a1e421c6cf2a9c65ca1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Redemption Alert: BlackRock Sends $480M to Coinbase as ETFs Bleed - Bitcoinsensus",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHZfNjVQUW52d3A3OC1fSnZhS1lNMTlQM29JTm9sRnNiWDZfV1dyVG4tN0txSjV3V21LbThRSUh0dnlvbWZHOTA0NWRqNTJEbjRJUmdFU1QtbzZ0QnlRaFpPOFhrSlRxVndnOTdleUU2SkxiZEx1WDgtdEgyZk9uSzRXbmJDckI1WURSRGJON2ZhMzhjeWJZRUpvWkozNXVfaThqcmQzeWsxWXhkcnpaTENnenE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:13:55Z",
+    "hash": "2378bfa06fafe7472802c30000f228b7c8ddb91e39573862ae47d367a3cfbd53",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Amplify Launches XRP-Based Option Income ETF - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2WkFwMmxMeUtnNzRpZEJibF80Z2hQaGtwcEM2N0ZwQTQwYkE4anpoUGNYMXpYdTlNc2s5REdmVG5FUXUwUVQwbXo2Zmg2dUV1Y1Y5RVU0VEtOWjRnN05fLWYxRm5SU2UxUE1IU0F0TUU0WTltRTZRdnBFVnZ3Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:12:59Z",
+    "hash": "5e61c3e6deacda385215deb644032cacfaabe294cb994b648aae3384f091c5d1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price News: Sell-Off Likely 'Complete', Year-End Rally in Play, Analyst Says - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY1RPM0Z2a0oyOFlfY0hiaEhDNy10U0ZYZXV5REFiTTRsRHUyb2tuUlBNRGNUSm4wQmlPaFl5WEJiUk9RWGxiT1I3QjJHU3hSbGFBWlBZeUpxU0JSQUJKRXVPbGY4Q0JuNHVRRmFidVA0VWxic2dUNW1ZV0RUcC1YM09PeFc2X0F3OVZuNHdzNzFReWdoQkZwYWlVcnRfM1U5UTJ5SXMxX0t3VHd1UFpRUDNvNkZIMG93R3B2ZDFWclo3ZmJnY0lR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:12:41Z",
+    "hash": "199908e7391ff3c01df577a3f25bd804251c4bc7f7e663668b3b99dbdd8c8ff1",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Stock market today: Dow, S&P 500, Nasdaq sink as worries on AI, US economy hit markets before Nvidia earnings - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcmowNjQ1Q1RqcUZBSlNHcUc0b2g1d3lmU1RVUWlvanhYNnVQcXFPTTV4S3NOUXF3SWEzODVSQVRES0tyOTRIWVlza0cxTFdvWkJhemJXa1JySExvREUtVzJsYWhYb2J1UUZMNkZLTEt6TjhVT19SNmJqNWltT29nd1lidkdZM0NVcWRTemJZNTJ1TUphM1g5SmdHR28tRThkVjBFZ2ZqMS1RSmZvZVBIaVh5X2VvVFNZTWdUZV9LVWxZYUU3UHozRlIyaEdrZHZPa3FKVkZ1dW1lRFZNTWtBazJaQ3JkQmFFYUxN?oc=5",
+    "title": "Stock market slips again as Nvidia, bitcoin, and other stars keep falling - Fast Company",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5bTFnZ3dTMUVVQ2VFWGNtMllHd0V0NkpVUzRCY1ktNUZ1ZFRPemRjOHc2ajdMN2hkWVlzZUJpMlE4WFdvRjc2eTBwd1dzUXVZMzRTYzlya0g0UU04aDRWR0JkazZTY3JuYTRXTXFJTUFBTzZnUVJZRS13?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-18T15:37:01Z",
-    "hash": "d8248ce67c29809fbc9db268c6614ac7942ecf27594a4500555d90bd4fc09ae6",
+    "published_at_utc": "2025-11-18T16:01:48Z",
+    "hash": "fb342bd9f44ca71a5adf63ceb896a552763e1d11d1ffa43fc045686dc539cb6c",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Vanguard Group Inc. Has $11.93 Billion Holdings in CrowdStrike $CRWD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajRJSlRDbTY4VmppbldsUFRHVXNJVkhMOUItSWtfazR0ZWxNZTY4ZlptZmpkMFdQRXNzMEdpVC1aV1V1N0swc1prMG9iZVZTSjFSaGFJYmk0TkZVclFkQl9QZk9VbTFqS1FpUUJfOW5uNkJYc0RxMXhUV0pXWjZVMjV3cUhHd1lvbUtSVlh1Z0E4R3BDdTBUQ3FpRFdON3VTS0R0QzFhekxCY0NzZ3VMOXl3d3V6dnd2b2dfVWg3SWFyOGs?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:01:14Z",
+    "hash": "3407574ab5e336a7f21dd137ac74a0862df04b6a633691170a3f8066200284a4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Here Is What Options Traders Expect for NVDA Stock After Nvidia Reports Q3 Results This Week - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3k4dGlNUm5RVFNUQ1BRYWp6OUF0cVJrdXVsTXFvWUJDYnNZTGxZcGI4N1ZIWi1YU0xtMnFESVh4TDhRLVFJMXdaNFJfTk5GQUVPM3VDRXpOdjZ1Y1NIUFVRd19TSHhXRG55TlFuSUlieHpseWF5WTUzV3l4b0xuczh6V25ZYW9FbjgxMEdPdmFoQmlGaTVPUW9ZeFhHVU95VExqd0hJRUhLMW5abWhxQ1NHN09QMzdhaGc4a190eHVjREtmcmhFSUFuTEpQXzNITERJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:00:30Z",
+    "hash": "e127311e0b4bbbc4838831c7c5f8a37e3745fb21d80916db353b8b3caaf09df8",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Rosenblatt Securities Issues Positive Forecast for CrowdStrike (NASDAQ:CRWD) Stock Price - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZVVfbFJTQ1JuRHdYdDdqQmkzS0lzYXY0bzJDcnVmTWdvVWluMEdzOUZTd3JJVW9iTy16eDRuNkl2V3JfeDFDRzhWR0RMVTNOSFlxYk01VFhVdXpydnNQa0xPa1pVRnhJcUhrXzZyV3NFTVhPUXpZbkVtb0xBT1NSNnVJMDFYR29EWjZxajNzcHZCVlFGN3gtWGE2a1hmWWJDQ0RBRkRkb3pOdW50TG85ZFAyYVZVNkNrR2tqVDFNM3R4aDVzRzcwbHFhQU9nVWRCa3hxZERB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T16:00:22Z",
+    "hash": "17e039b423f46bfaa06ddb3aee0e8ae6fb2d8c0ab2ce25b65891042c9e87b68e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Wall Street: The Home Depot-Zahlen verstärken Sorge um Konsumflaute",
+    "url": "https://www.handelsblatt.com/audio/wall-street/wall-street-the-home-depot-zahlen-verstaerken-sorge-um-konsumflaute/100175885.html",
+    "summary": "Die Sorgen vor einer nachlassenden Konsumlaune steigt. Zahlreiche Websites wurden durch eine Störung bei Cloudflare lahmgelegt.",
+    "published_at_utc": "2025-11-18T15:59:11Z",
+    "hash": "4bdbba3a3bc22b632351c5248233e6f0cf9c05e6fefe5e2d47b0f154f5ceaa24",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "New Wave of Solana ETFs Hits the Markets as Fidelity, Canary, and VanEck Roll Out - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRnZHQW1zV3N5ZHBndGV1TmhoNVQ0MnlGcGx0XzJGUmh6LVozM3VYMFF5UzJsUjJJbkRSdWs1QURnZ3UtYmJpMjBwblpWc255d3dUWTNZVXh0OFVacDJVNmZYUXB3RjIxR0Jac2ZsQmdJaW01VVFwcHpaNWFBZFd1d2JmeENGSWl3eDlyTkJ4TGJpSmwxU3lLZ0hEYWI2bExoMmM2SkJMejjSAbABQVVfeXFMT3h6VFBvQ2pJMUp5TXA0eTEwR1JjSzJrcGgyUVY1OFFYaDlYSF8xQUI1UzVPYTRzTlI5SS1mTzcwbWxuMW50LTNEU01XTUl5cnNSaWR6MmpZZFRmVG92NVU0eXpfdU9hQXJUdlBZMUlFSEJmRkRwdk00dlhlZjFzN2JBaFFBM2FKR2QtV0lmLVRDVDNhRXdiVlZJdktNcDN4Y3NWRUFrbXJHV0NYbTFFelE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T15:58:41Z",
+    "hash": "6eb16b37b77fbe9ad9de440b5c60243e0e6f9a97331665d8c68031415b65fa24",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "United Advisor Group LLC Buys 2,020 Shares of Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRVBGbUVlTXBjZ2lQYlctMklmaXRvbmtJamRpQnE5N2hyZGxteldiN0hVaXNiYnRZMmJJOHVlSVdUdFE1OGtBZUoyeFhhZ2JVVmJNTXhweUZkTDQxZm5QRFRld2hMbzN2dDJNTU1ISHhzcmRieEFURHFycm1YbW1iS0hwemtCbk1RcHdhSE53ZWhKelFkR0x1THBBQzlDSnlHV2N2dUhhNXRyNU82ZTVSblBmV003R0ZQWk5NWFlNVk8?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T15:56:41Z",
+    "hash": "e55f40b451a58adadc342ea3523c4a7bbbf49b9798823c87e444d027d6bf98af",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Tesla Stock Stalls as Market Holds Breath for Nvidia’s AI Verdict - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGVndU1HZFN6ZXZWOElRSWVGVEhEeTFHMHJfNFZBR3RiazNEMzJMcHFlLUtTeU84a2tCNE5CTTFxWGpwNS1iSUhOQVl4SldmajJNZFRHeU1CVHJPYi10MFZMR191YWtKLXUtd25DX0RhN3I4OW5KMVpFT2U2QzN3LUdScjl0MnRzY1FHRDZGc0RjMzZ6N19rbDZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T15:55:10Z",
+    "hash": "db71326f80ddfc6aaf71d6341fc5f75628522cdad71227f40181d817be3651e0",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "‘Good News’ Is Coming for Nvidia Stock, So Buy NVDA Shares Here - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0tnWEpkd29yMmdCUUJTVnJCOG1mZk9iU3pXQWtTbS1wNUJGUzBDbGV6RXF1LTg5MlRWejQtOFpxTk5vVS1vdEdIUmcwemJ5bG80Vk5PZEFjOXRIa2pWQkFtLVJELUZkZ3ZqdUg2amttT0t3VVVyOVR3aXdlWjNVbDBtYS1jd1VIUG9qVzlIWTI0RlY0MzZOaHh2TU5SZGpLM2Q4QTV5MFk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T15:53:43Z",
+    "hash": "fc8fb4b75747b172af61fce51f0abbe7b17a02cf752d5002a3646ea29318ebba",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Libra Wallets Move $4M to buy Solana Amid Ongoing Fraud Probe - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Wdk1Ca1E0UllfbE1sb3Y2by1teWNPOEV2RVFDMWNEZTBwZWppVXFXUnk2YlBidmpJeTA5Q2lpZGFuQ3g1VDF2N1E0YzhFV1RieXBPX3NvakhVSGNId3pJUTlrY3hjeG9iWWxvWF9BTi1KLUVuRnpjbzJ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T15:53:18Z",
+    "hash": "cb2bdead33aca452172de422dd1d10c9c960d79d69116028c7eda5d5b8108322",
     "source": "gnews"
   }
 ]
