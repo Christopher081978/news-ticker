@@ -1,42 +1,292 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "The BTC Narrative Collapse: Why Bitcoin's Price Drop Was 'Inevitable' Despite ETF Hype - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS3dDQ2JKc0hVQ3IzV0o1Y0ttVnhfaEhpVGdyUkZWM3JSdFB1X2dqczhxN0FWejRJZE1rT3VMMjJRclZ3ODVYVllPWHJvSU1fdTNtWjRiZmNhSlh4amJGd0hpWkJGamJweloxMDBRamc2MjNEY1B6TUxpeEoycFlwQTB0ZjJZSGQyOTROQzFNak1XeVFkTUNCQzlfVG56OXZFYlp6UzFsREFmbmdC?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stifel raises Nvidia price target ahead of Wednesday earnings report - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnB4M2Fmbkdrb1ZxMGdjN3N5cS1mR1dCQjJEYnVWMVpfbWNsTGUtZFFRR25FSDJmR0hqcnFaUldUcVhsV0ZQcllmR2FiNDY4OHdTNFhtM0g5VzBGeGFCYkt4YjlxMEtpTVJaUUZnaFdnUDZDLTE3dUZsT0J5S1VzSTB6UHNHV0UxU0pLbUFsWmEtWVBzRFk5LUJmYjJjVlRqY3h3bnRnVDU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-18T11:37:53Z",
-    "hash": "a31b2e56cd977123ff0f7506690b468ede5ac9753aeeba750f586c9ce90381c8",
+    "published_at_utc": "2025-11-18T12:48:14Z",
+    "hash": "22d402bac85a052cf236fade37a507b3e403cd32d68e99c0303c1414f4d24194",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Stock: Options Traders Price in 7% Move After Wednesday Earnings - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajBWd0JpRlRYYWwyWm1faExYTWxzLTFSOEkxcG1CMjFyWUtCY3QzN2xmRWYydUczcDdZY0dEcDZQNENBVV9UYWwwYWEyWHU4aHJETlNXWHhXWVJNTjRhcUZsTVIwUVlrVWs5RFpraExIYmg1YXpzNktNQ2Y5cTNYNlFubVpQQ011YlU2ZzR0dGNEUG1way02UktBNHM1bURQ?oc=5",
+    "asset": "Rheinmetall",
+    "query": "GlobalFeed",
+    "title": "Power Systems: Rheinmetall nähert sich Verkauf des zivilen Geschäfts",
+    "url": "https://www.handelsblatt.com/unternehmen/industrie/power-systems-rheinmetall-naehert-sich-verkauf-des-zivilen-geschaefts/100175813.html",
+    "summary": "Rheinmetall will mit den drei Bietern für die Sparte Power Systems bis Weihnachten eine Lösung finden. Finalisiert werden soll der Verkauf in der ersten Jahreshälfte 2026.",
+    "published_at_utc": "2025-11-18T12:48:11Z",
+    "hash": "fb756f3b68b12126a8a352c515d6d70472426c7cd2a30dc0b5507a27fa8d0e05",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Stake Reduced by Pinnacle Wealth Planning Services Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTkxmbDUxSk9uS21UYjZXS0xXV0EwOGllVkR2WTJ3WTd6V1FXd3o4ZWl1T2VFTllxWDBLS2xTbklob2xHSWpTcDhKOXZjT2ZZendUVFBwVkcyX1Jtb192ckNvcHotaUtYTDJ0akhsck0zTWhXdld1VG5Yb0Q3T1BhQnhndWhOdVN6dTZQUjkwN1ZYbV9yMjlNMklnazktZDZYR3k2MnJ6YnFNVkhzS1JhdmQ3M2dQM2N2cnlrUl82WnFzMWVrVjdWRm5UcHEwTmZkLUFLSTdqRUZJd2FVcjcwR3R3ejVtbUtHSl9iVUlQeW1rRENzOVFtQXdR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-18T11:31:34Z",
-    "hash": "110962971947844e7cef22e00cf2df2b2b383e6e9e3ef7ef168e1e337109e417",
+    "published_at_utc": "2025-11-18T12:43:00Z",
+    "hash": "4d84bedba31e9dfef2a0447186f3d58d25e2edc8f297b4ac5faeadfac68f5a7e",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia Q3 earnings: How the stock might react - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZnBjUXl0b0tLNU0zSTFjcmF6ZlNNZmhhRldBOEhTWHFKanM0S0xvcVAxQW1nQ2tueUV4ZHZ2TWpYQzgtM2J6c0YxSTBGYlZ4bVh1SUhhUGFabEV4RWMwYlUtVGFIVzVnQ3VFWTN3dUhaS2dCX20zWnB3VGllWFRta2JxUQ?oc=5",
+    "title": "These 2 Nvidia Customers Just Made a Startling Move. Could It Get in the Way of a Billion-Dollar Revenue Opportunity for the AI Chip Leader? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX2p5YkNZc0x4Yi1NQnB1Q3l6dWFOUlRzbFpYLTk3UWpnb2R0cUExaExZam5qOVdpa1ZLbmpDUGVoZV9DQ0VqNGVIMlN2QV9la2dfWG5FRU1WRlVWQXRlMnVhQW9pZkh0Z3NtWDZOOG5pNm5qRjFpS0VWWEYzNlBOVVhxOVV2R2FfU0NjUTZ6LXJmSkVuMFZJ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-18T11:30:18Z",
-    "hash": "43f9518378329e053d56087264fa074e37deab032ab8cca5a9d0633765e564eb",
+    "published_at_utc": "2025-11-18T12:35:00Z",
+    "hash": "f726d2cccf8f3bf865f32d75d04ef3227caf59896d1de294b0be7738dd791879",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dow Jones forecast undermined by Japanese debt concerns ahead of Nvidia earnings - FOREX.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTBud0l3cndwSFRvVVZfaEJ4YzdLZFlNdTZQd1E3NU8xSGFYd05MZlBRQ01GalhLdlJUYzFTcXpkd2JrYmRrelNMMEpxanM2a2NRX1AxOTdNR083YThMVnZHb1RJZlBuc2hoMDNsN3lZLVlBVVUzV3UzOXJjamlXdmJnVGdCVG9zbk00Zlc2UmNXSF94enlyZ3pXb2dDRERJVUcwaEhId2pQWjBRb3dsT0UwSktDaTNQcUxiRk83bmNudw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:33:19Z",
+    "hash": "b14e341acf901bb4b594b048e37120bcfb79ca80e9ba04af408afba172105b15",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Tesla Stock Falls. Why Nvidia Earnings Matter So Much for Musk. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPcUVvb2licHFFUjNtRTNYdXBSQnNVLUtQZXFtZ2RCLUc0YzRnRjVvN1FVOEFTR2F6VVRMNE54bkpiam9nUEMwdGZab2NyOFJ6Slc1VzY1ai05ODd1b0wxR2owTU1haGwybkhSVmdPbkc0dHlCQ1FpMzZiY2NMWWV4a0ZicXp3RDJJYXdfWU9wR054VGpmb3dLalZRWkRjMWo5M3B2M2MtX1A3ZGFHMi1HQlM1eWd1RUlQZ0lNenVEd3pPd2tReFFvMmZsU2FQSUUtN2o2THhlbGUyV011MTNfdm1nQkl0WWhXVUFGMUl1N3lIdE1EbHNybGszZ2pLMTBscl8wRHA5N25RdjFPaWxCTFMyUklfVFdkM1RhWlZmemp0R0pZc1JFb0NYTC1yZmxfaEM4eEUwc2FGLXdiaVNUYUhBaDB3dVRvZ1RaUzdtQzhYUHRGZERBa1lLdVVOenRhVHN1dng4aHlGdmlvWmlaa1NHYWtDck5FSDB3alFleFo5RlNt?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:29:00Z",
+    "hash": "dd3f8aef5b88bb4c7008bb4faa2ecff6426e973d0fd501415b68a74054094922",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Neoclouds, Elektrotechnik, Bauindustrie: Die unerwarteten Profiteure des KI-Booms – Umsatzplus von bis zu 300 Prozent",
+    "url": "https://www.handelsblatt.com/technik/ki/ki-die-unerwarteten-profiteure-des-booms/100174476.html",
+    "summary": "Der Hype um Künstliche Intelligenz sorgt auch in technologiefernen Branchen für eine Sonderkonjunktur. Eine Analyse von fünf Firmen aus der zweiten Reihe zeigt überraschende Chancen für Anleger.",
+    "published_at_utc": "2025-11-18T12:25:22Z",
+    "hash": "71a5df3b3100e10040c7f475b12e38d0235a47f63d081b79d7588063d500b99a",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "213,326 Shares in D-Wave Quantum Inc. $QBTS Purchased by Inspire Advisors LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc0xMcGttU0ZwS3hsclJnMFA1a2dMMHNSdEtrU3VqNjZtUzRhUDBmSTY4WTc3RExmWlJURmxMQkVCeUR5ME00MDZubkZ3RUlGSGZadjdNTGY3WUhRbVRDbEdYRHNweVRBNEwteElqSWFIY1ZTRnYwNWhORjJkaVdGNFlJTi1wRHE4T0twUEpyVk1mcHZ0OVVPeXN2OWktbGdOUlNscFhBNVVrZmZHS202R3JOcFhPck9uN181NW1GYmVOaDN4eFd0OVZEUmVvaHBK?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:23:52Z",
+    "hash": "2804442614cfca03cdcd3994b42289b9f38028d3bc1dc5ec7756abd3313a0430",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Contradictions Abound for Investors as Nvidia Earnings Loom Large - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOYWd0VGtPY0pfTXJleFg1ZjQ4dnhvdFZaUEhLaXBSWVlDeGZKcC13emJ1M2ZDc21xY3pJTlRKdnRHcVZKWWdacDU0dWFhNEdRUmNnV1FWcTZqRTBRakljTXN0VmFqWFpyMjdQLXlPOHJIeFBrcFdtSHUzZEwyQkN2VV9hbVRGMUc5b2dsZm9HdkpkT0NnNnF4LWxta1hQWl9VTGdNdDJ0MmJwYkFmUVp2SVJRU3hVcnViaWxlQXV5ZVF2UUNqVFdzckJNLURhRDJWdVBXNU00NEw1VkpvQk13RzBVQ2ZhMDFzc2RSN3BoQTdtWVNMMy1PbE5IanVJd0ZMOC1GaUw5akVWSDhtemgtY3hnNkJJQnlwTHF5WUtuU1lxLUVGQm4yNzB4M0lVUzRiLWRPZW9uaWtfd1JFYVJTdWNreUNCSFByb3FRTVhFTG5scGlnZEtzMS1jNHlFOWh2ZUx5ZXQyQ2dIRjRfTUN6N2ZGb0NiUVhJa0ZnWS1qa0EtdmhOU2FGdHhsc0h2dmw4RTU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:23:00Z",
+    "hash": "78f3630dc0c14f26405cda450c48fb216be3b795a0fe87e0ef45e6f2e09b5335",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "5 Best Crypto Presale Coins of 2025: Where to Invest for Maximum Returns - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE5WeGRyLTFHbjM3b05kb1VGT0VBcEhnUlcwN21ELUluSzBsdHlGby1EMnBTaDFrSnd0SjV4Nk40NWN5WWRqOFlYcFd5VmNlY1FRaGE3VnoyNW5IZ1RFZjd5dG1Bc2lubGZVQjk1Q1R2WnJaeU9EVlZ1UnFvQ2htMENHbDJKci05WGQ0WHdhdW9xanJ4eThLLU01SDU?oc=5",
+    "title": "Best Crypto Presale: 3 Coins That Could Explode in 2026 As ARK Invest Resumes Crypto Buying Spree - Press Trust of India",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNTRwcFVfX2V2Rk5rTUJkcDBkZFY2UllfNGZGYlI1TU8weTBGVGxraEZVTEFmZzBmQjYtMW90eGV1VTFQQ0llN1dIenBSZXdwN0ozLXVMU0Z0emp5d3J1VWd4NmpSZEhLU2toT085VVU3NXVWVDE4aWN2Q1ZtNjNjUkVvU25IV0lxcGNGZEg3Nkxuc2xsaUctVnVVMUFoZ3lSbWl6QWNJUFVnMFJ5ZEtBOGhOQXZpREZSQzI1eGlUYWRjVFpEbW5fMVktNGJ2eTZHdzhMdnZ2dlV6ZkU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-18T11:29:18Z",
-    "hash": "a7b0b3c517720140a324a0176e6c40afcd8fb1a6f174310c23ebf9f63b0a536d",
+    "published_at_utc": "2025-11-18T12:17:47Z",
+    "hash": "2b2398fc19a2e89b2a62fe567f30c55efaaf2b7e15226178c222a9957d9627fa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Why Bitcoin Is Falling Below $90K? Death Cross Triggers BTC Price Prediction to $74K - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXZCdmk3cFJWRlNNdWhoajc3cHdSZ3AybDFpMWVJV2VhU3prUHVseUkzTGc5Y0R6dXN6Qy01bmRuVXZTRFh0RGtaSWFTZGh0OWFlTTBnY2l5cWdzejFUUXNXcVotRXZLTW5aQUtDVlB2dVhOdmptSHBJTEdvNlFNLWF1WThGUzVQaENEMlF1VkF2UFJzTUJFVmhVZ000OEVXREtSVEIyMklhZFpqamFHTldCSVE4MWRiVkxpcml5TDnSAcYBQVVfeXFMTUN1SmNfSHF5MXlzaG5vTllWOXJjb3dtTG1GTTdobGt0OHYwdzFOUExZNlZ1d24yLXRGVmRmX2dWVGxPcE45TW5rVXJwM1RSbnA3T2JIRzBKc3lPUkdhLW9yeG5vY3JvSDhmUWd6enlKYUtHakxMb1RxZlFtNHFuTWpFNDlxdHhMNGI4YlBpeFh6and6alJRMG9LQTE4M2tFWjhmTHN1WlZDeHNVbHFHcjdqMHJyRXJVZUdQS3RvZFdUdGJpT0NR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:17:18Z",
+    "hash": "de80d57b2591a943f5bd0cbc8381f28e53344144c19e2729790a34d14f8e1efd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "BTC News: Bitcoin Drops Below $90K as BitMine and Bitwise Execs See Bottom This Week - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUzZ2WUVYQUdLUll2bHZQcktFd21MNEVBWGZlLWhVVDZ1LW1XdFFGb2hRd1ZGYlEtWU8tcUZsNjNmRk16dTIzc19ndW53cG5hdDdQcVoxM3NyakVYZlF3d0wtQ2JVdUFCbk1sN0lWSFRWenEwSlpJZF9TVzNTcV9MMk53cG1zVkFDNUp3TnFORklmMl80RDlma0tvREpZZV9hc1NXV0xBamptem9nUEhKdVRkSDJ0QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:15:23Z",
+    "hash": "3ac181b75ff479eb880c46d3d98e30cf0942307f8eee31ad501b24abaa802f11",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Amplify ETFs launches first XRP option income ETF as demand grows for crypto-linked yield - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BUGJycnR5S282bm9mZXJXQzhrYjYtelQyMnJpc0NNUHZILWhJV2JZbGE2Mk1Bel8wQzRQQnN5MlB2VXlZbEJORmF6N2V1QmE4aG0xTnNXUUdfMV9hZ2VxeVR6LWwtcW9maFM5R1ZGQklLUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:11:15Z",
+    "hash": "b9ed8b230b2dcc6c985c85821f16a87dd01a1e533a4a2e1ce8dda8201cc2ed8b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Fidelity launching Solana ETF as analysts eye $160 price before December - dlnews.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tZHkwYklmUTEwYjZfWVNTSEFOWW9rWjNrMEdmM1YydXQ3SjJRc2tZcXJCcVd4b0hoNFVmVDZNYll5YmJJM3FUbVhDWHNmdTREWTFzd3puaGEzMXRsUHlkTGk0QlhvLWpVTEMwNFoydXFUa2l1R1Nydg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:10:37Z",
+    "hash": "ce36585632ebd520ed49afaae7da4f94dc371598253bbddafd8f32f0baa23e96",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Best Crypto Presale: 3 Coins That Could Explode in 2026 As ARK Invest Resumes Crypto Buying Spree - TheWire.in",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVUM4MzFGcFZ2VGhqaGtGZ2lOVHNpS0hMRTltSVlxNHVFY0VyRWFWSHZrZHdUNElKbmFvUHJCdWJia3ZXd1Y5VDNYd05TODlPaURpQmhuMUIwVG9Gb1IwUjRlNnVwcmFzem9zQzJieXNnUDRydkQ5NUtzSDBjbXU1YW15a1lTMUdObGFqS055V3FmOVcwSmhDeWJvMHpFdGltRjNEajFBNXdQNVF2T28xaHF0N1J3YTIyeE1NajVPa1Z5V1dKMm52VHMtOV9WcGxoQVdBbk9yeGhoanFrVEVtWHBxQTkxaHVZczZDWlc3YknSAfABQVVfeXFMT1VDODMxRnBWdlRoamhrRmdpTlRzaUtITEU5bUlZcTR1RWNFckVhVkh2a2R3VDRJSm5hb1ByQnViYmt2V3dWOVQzWHdOUzg5T2lEaUJobjFCMFRvRm9SMFI0ZTZ1cHJhc3pvc0MyYnlzZ1A0cnZEOTVLc0gwY211NWFteWtZUzFHTmxhaktOeVdxZjlXMEpoQ3libzB6RXRpbUYzRGoxQTV3UDVRdk9vMWhxdDdSd2EyMnhNTWo1T2tWeVdXSjJudlRzLTlfVnBsaEFXQW5PcnhoaGpxa1RFbVhwcUE5MWh1WXM2Q1pXN2JJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:08:53Z",
+    "hash": "5633572ebac6a4fad0028df802fe8a4410232c0f688b33b9cc786e5a47e08cdf",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Stocks, bitcoin retreat with eyes on Nvidia - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xNmNtX19CaGRPaWtERlIwOXNPV3NLemt1c0VhaEhtYmZ5SW41bElBVGhWY1lrQTdVM0ZJemZJZHZNUUZVUnNlc1RDaVdxNEpiS1R4eFp3SmZDLWFzUm1zWkNZMHhUS1F1RkUtMHlwV1RJaHBJZ19ONkFYZ1pIdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:02:47Z",
+    "hash": "0282b1f852af6181a62ae1caeea8f1d9b068215bfc7ee951c3998702c58310b9",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Better Semiconductor Stock: TSMC vs. ASML - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWZONUVPSVh3U3k2Y3dsMWVpU0MtNjRfMXhIVFduU2hiZ2djTlJOa2xHY2dyMFJvVFh0V19QS3hsWjJtSk1USjlhNW5CVmVUX09fSUVJWkdLOVAydjNabmFLM2FEdHNaM3NDcTV4NVJreUE3ajJEb3JrNUktMFdpa2FXZkJiMGJVbmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:02:00Z",
+    "hash": "d4673c5c7543740931f091d99b9aef31f18877b4fb00b52c52029641db4d1ee2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto’s role in pig butchering scams laid bare in new ICIJ report - CoinGeek",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEoxSzBJUElaVmVFaGdmakgteE01SjFWeUxzZ2JPV2I4OWtZRkhlWkZhNmg2S213Rnl1U0VHcVc1eHFCbUh2ZWdaWHdfWm40SGd4NDJLX3Y1dHY1WC1wd2I1TWUtZ3VIRVQzLVhrQVZ5Um5rUzRzbEQxbGxDbnU1eHJmYnBTU0RfQUFSZWNMVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:00:32Z",
+    "hash": "a0f69c2ff93ad9d5e804cfcb1ac025ebb198a3cd9637281ffc4f7649f549497e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Briefly Crashes Below $90,000 As Ethereum, XRP, Dogecoin Drop Causes $1B In Liquidations - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSzhaaFUzdTZ2WENRdENCcFpDdmdJT2JMUHBsSUJnVWdCUm81RF9nc0pRMjVxZExjSUdGU19OcXM3MDhNbG5SSDB4ckNrQmVQaGp4YkJmNHpqUjZ5U3lIQ1U4SU4tSG1YU2FQRnJDU05MR3ZUcm1aZGl2bU1fRGNKcl9palpvcmdmVEJNRXUydVJBLWhKNzVjTGlRR0kzOGhpek43OVJBRmttTkc4RVd1bF84Q2Z0djF2dnM4R0JpamZjeDM2b3VtVXlhQUF2ZkJEWTd4M1JQMlJfLWRfMF9FdlkwOUtPQUZO?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:00:26Z",
+    "hash": "99d41b7d83026338aa05ae08af390bc3437d95d763333d8ebe040578e1106efa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin Briefly Crashes Below $90,000 As Ethereum, XRP, Dogecoin Drop Causes $1B In Liquidations - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSzhaaFUzdTZ2WENRdENCcFpDdmdJT2JMUHBsSUJnVWdCUm81RF9nc0pRMjVxZExjSUdGU19OcXM3MDhNbG5SSDB4ckNrQmVQaGp4YkJmNHpqUjZ5U3lIQ1U4SU4tSG1YU2FQRnJDU05MR3ZUcm1aZGl2bU1fRGNKcl9palpvcmdmVEJNRXUydVJBLWhKNzVjTGlRR0kzOGhpek43OVJBRmttTkc4RVd1bF84Q2Z0djF2dnM4R0JpamZjeDM2b3VtVXlhQUF2ZkJEWTd4M1JQMlJfLWRfMF9FdlkwOUtPQUZO?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:00:26Z",
+    "hash": "99d41b7d83026338aa05ae08af390bc3437d95d763333d8ebe040578e1106efa",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Wall Street wants you to keep questioning Nvidia - Axios",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10R3dFVHJlRjZJVWh2b1VHQnlhWUxoaEIxcjZkUlh1bVFqWXlvUlVfbU5wN1dtbkxCYTFnbURKV1ZYcjlTVjRDSjFDYUVWdnp3aTI0VGxYbmZOUU5sbFVoMjhDU3JxaWdqeWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:00:14Z",
+    "hash": "7765e15cbe6f6654ff1ce7f998db1007c9b2a5b92ad2f2f2e3d1d85a3edd8ccb",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Today: BTC holds $91K, ETH, XRP face bearish hurdles - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcHdfUDFtYXJkY3h2YkRXSDQ1M01JVTl1bWZxTXJwU0NuZGEteloyZlVQX2pnMXhlcEt4NUR5R0JpM2JZWVExMlFwYThaZGdOQ2JNaDVaekhPak9UZVRrSnNrTk9WMjN0MWFQMWRTSmJ2cWZzWjVnY0NnR0g1U0N2MTJueW9URlRUVFB0RTRnczU4SkZPZWw0WkpaQUd6UWZiVVViMFJqQjZCdmdLN1NxZjRLQWJPbkR1MDNHVEVKZ21pcktPMkQ4aFlmMWFtaGcxRlJDaGVVR0UxazTSAeABQVVfeXFMUHlUdnA4NlFMVGNGUlZYWnVBVjFDQnN1Ml93V0tMQ2tKcHFEV3VOaGZjTVpJNTltZTVBREFNWnBRY2lIemNpN0cyR1VHVmZ0Qk5uR3ktbzZzR0p1QU1wWDJXOGJsRUtNcFUtamhSOWdJcGQtc0xGZXowSmtpSm5vNnlJMWdfR2VweXNNRlBTWVdQaVp1RnFNZEVnUUFvN2VlX091OFMyRnliWG5mRklYZU5NZmhLSFNiTVZzMW5iVDIxYTVoYkpjVzY0QWo3OEZCbmVmWDkyMFV3ZTdiY2FFRDM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:00:00Z",
+    "hash": "7c2a3582fee40b352982cec7b62bef78f913f296ac9aa777738286edebfb7e82",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Best Crypto to Watch Now? Experts Reveal Why XRP and Its Tundra Platform Could be Top Picks for 2025 - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNllXUkl5Z3hnQzNCaXBDUGZyRTc0RVdxLTdSU0JRQXF0Z3dwdVk1cTBTdmdoOXRpRENTTTB0ZTVjR0RKNVQzTGZuckpad05seVQ4WjN3Z1A5VzN1dFBuMXNWTFd5eUI0QWJfWmtpRS05cExXQThZZnRQYkxBM1VyWXVkdVlLMGVkaXdUYkpOS0lKSDNUNEFWZ1hwRkY1NUJTd1dJUjFzUlh4NzUyQjVQdDE0bmxsZUxoYzNrSzEwOGNRNVk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T12:00:00Z",
+    "hash": "1ff261e2a04cbf0085594f85de77bac0db593ab8e08547545eb50a54ec7ea85c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "BKNG, EXPE, ABNB: Analysts Say Google-Inspired Online Travel Stock Selloff Overblown - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0J1bDIzZnkxVF8xUzllNzdPMExnSG1BdjFScXM3VktXRUp1cVNxVDhpcTQxbjFkNUVRM2hvcHZMWHRUTU1UMDNMTjhxUU1VTE0yZTlUd2UzUFgyUFdIbE9idVIwbWk3MWxXQ3U2TzVYR2tBMUM5ci1EWFdrZVlXa19kUU1DV1JQU3FaN2FwY1d4V1pCcU42X2w0TjNQMkxtejRubE0zbVl0SDI0X0luQg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T11:59:42Z",
+    "hash": "f04b965d29ad543b076792ef03f030147ffbac7e5a389d7c489daaeb35fa8472",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Nomura upgrades Siemens to ‘Neutral,’ lifts target to Rs 3,325 — here’s what drove the call - Zee Business",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOEhxNDZzVEI5WTdERDdUSGZWVnJWdURoRTgzMUhGUGZGVWhWNU9RRU90QkxVU3JTR1pJT3lLTEl6VWs4R1pkOFpMeEkzcmFpUGNCRDVqSzFXU0xuTEpTb0xhbU16cFJvNkhYLUY4RzlUeWhXQWxfNkw5VUpvVGEtRzhNeEhjcU5wZXJyRG4wZUtIdFE0R3ZENG5tWmJleGFFNmIyeHI3aGJ3dVZPRDNpdVNXb3QwTk5zRnEzdUJEdVlLSmQybmt1dlRNZk04Zl9o?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T11:59:20Z",
+    "hash": "9c80c08cad2bc0bbdbc017941a46944f1078c9c8e98c03ebba0223a63edde0fe",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Earnings Update: LYFT, UBER, DIS, CRWV, NBIS, RKLB & AMAT (NYSE:DIS) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVFWQ0NlWUdMUm9lenpUeFFHREdRVFZKenlGY011N2l1UFYwZzFveXprZE9PX2ZVTXZsYVIzNkRMTkJkNzlacXQ2VzMtQ3dxY0E5WlFjYzdXRDVyQUZaRTZpZ1BqaW5oTm11TWhSLUFyLUFfVFBKcXl6c3hkYzNtQTBRbUtlV3djX2dZbTlNc0JjTHVkNjBzYURQNk5LaFI1dzl2NkYtbWxXQ0syck94c2NaeWlHcjQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T11:58:49Z",
+    "hash": "c6fedc390cece0a6b57938e529430b4236396e9c8659b8b589ac31c0e0c4f888",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "Defense stocks catching their second wind: Almonty, Boeing, Rheinmetall | 2025-11-18 | Investing News - Stockhouse",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcm9EbkhsQ29HLXVKRmotc2MtcUJfMFBRcnc3S3lwdlA0Zk5nZ0ZMcmhDeko5dkhJeEdrclJtVDBLUHR5U3VaaXpCZE05WjV4RTlGLUprUjY4SGpoOWpOMEM4ek1ydHRiNTBBOUJDS3dMY1VhalFIZGFCQ1Q4Nk9IOU9pZUdhcUNlZFVHdFllQVRCR3NFUE5abWM0WV90X2d2VV96SnBSQ1Bhd09EWjR5NGloVWs0VnRFOE9za3B6Ym0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T11:55:00Z",
+    "hash": "7e145a3ab5ed4c70a7d646dc0883ca6fa0077aba98159b7d27795a30d5698484",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Pinnacle Wealth Planning Services Inc. Purchases 1,435 Shares of Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckdURlQ4WVhrRGVJZk9WV0t2SllMLWpRME8wSzhFSTJkWFUtYzVaSHlwZlJOY2JaeG9aSXc2REptaWRETFNQaWphbDl0R2owX0wxNEYzcmJJRUJybnVRcFFWTVp5eFdKcnN5dHdCV2taR0tKVU54UDRSUFN3dHRWUnREaHk4VTJZRVpwbTBVZnZiSmxnaFB2dkdkdHhPS0lQMlN1d2lPajg0cW1pNE13QWMtLXNnb3dJNlB0NFE1MnFlb2MwbUJjWXR6b0JKTXBZeExHQXc0dnQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T11:54:47Z",
+    "hash": "78809e2291d576c7cd266fa95672a8c8f164d106813a907528bc1c39e889eaf2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Buy Pfizer; target of Rs 6100 : ICICI Securities - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXZIcjVFb2hpN1JDcU50djNxMkhhRmN2dWYxSmloUEJKVHJqSzZCSmVhT3gyQ2Myd1lSNWJKTkNhXzBQblZEZ1htS0VpX1hPMkt5ek1UT216YXc4UDI2cG5LSUNGMElSTDJDcjNfLTk0SGhXUHhkWm1xLW82bF90eHZlVFV4ejU0c1JselZoNktXWHNWX2lrNElDcDlzcW1uVlJfTVp3cGU5aGs0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-18T11:51:55Z",
+    "hash": "5cef64485f42ff69995c655e83d57c96962a5d892c3d4d26fdb85a14271af8e4",
     "source": "gnews"
   }
 ]
