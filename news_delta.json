@@ -1,102 +1,132 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood's Early Private Banking Rollout Triggers Some FOMO As CEO Declares It's 'No Longer Reserved For The Ultra-Wealthy' - MSN",
-    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPX2JsRXVLZnRFOTZjaDAwWWlwSWgwSUFqVHZiY0xqSDBPOTNZQ3NzdkhnWVgtMnU1V2pBSkI3NGJ5QXB5ckJMS2FjMWJZVFdsRDhRdUtSbzcyejU2bHVLQl85d3V6X2ZRc0lXd0xrRkRUNGROUkx1LUdtc1ZvT18yNVJzeTQtNS1jLTB5SVFRRWplZjR3VFUtZFRMVUx2aGYzZE8yQ2hSWGxzUFhqRlBKSFFGWk1ncHhaYm9QbXBpclJNbjV0UHA3N2dlNFR4ZXBQdXBqV1JWNnR0cG12T3BCbzhtMElqV21yZ00tS0FmQTNlWXRlY0kwdDZ1SGR6MFlLRUhjeHVrOTBvX0cwYXZCb05kaDRBYXlpbUlIdjZMMTRoTlFkd0ZPWmZGZGNQbXE4alE?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Explores Bringing XRP to DeFi Through Staking on XRP Ledger - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYlB1aGNEbkdBUjl5U21PS1BhbWpUT01XOHc3SjlmSkVncHJsOVhESkdUN0NaVm1BcHd6UVhZVkdTRHlxSnZQRjVQY3RYTzNldEp3eklhN19nMTB6WW1fc0RHeUlVVUR4RmJPcmhzZlVvazFTaWFxMF9LY1U2TVZ0T3J6YlFaZmJ0Q3UtQUM0TnA2LVM3MVBpaTk3dw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-20T07:22:02Z",
-    "hash": "2eb0a91b42916c6ca0cccc5ef7ca4d496f4b7acdbaf42d88b4f9679c5d29bfdb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Chip Shift: Google Stock GOOGL Breaches $300 Challenging Nvidia’s Dominance in Semiconductors - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcXgwSWZBanFMQjNnaE1lRE1jMFpYUlJlREJyOWN2TS1majl0bUMzY09oYXVRYzRZOTB0QzFBcUtONEhabVZYaURIWW5tMnRkc0RLSDUwQ0ppX3laRjExQVNidXBmSUxpcWlBbi1DU2xnZ0ExTDZRdjYtbnBXa0RjOWdRMWhkNnc1dFI1clVpeHdiX0lTT1I3M1M0VWotWEk1dzVzdmtoUzYxQ1dScjJqbEFlS0tXeDNpaWNBaWZhTWRLTjdIdENqNGdhY1NZUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T07:18:21Z",
-    "hash": "d7d0280635f874c912778d812f6e8f45f9fd8be6d681485db4c863f67c73e3e4",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "FTSE 100 Live 20 November: Markets rally on Nvidia earnings, JD Sports posts update - London Evening Standard",
-    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQQk1CS2FHemx5X1FYeDdRZmdwa2QzbUJSekd6bXVYWUpQZ0t5bGptck9haEVEMFRMbGNQZ3VmNnVKVm9kRjlKbEczM3d3YlpwTEd0bDBBNFBtWnNFZDhVak5WTzE1eGFmcV9WYm5DcjAycGtfUHE5cnA2TlNrWWdJWlRsVHBpR0NTaTlJalcyMVVueGtrYnlNVGNSUUw4d2VqR19UcXhnVFFMckVTTWs4V3B3TVVzZ28tZ2paVFV5SnFRdmdZYXRmRmxoMDl0M0V4c21XZi0zRDVCQ0VhcFRMdlBQY3hxMHVWVGhOblRRd0pDWEg0S0lITHN0TkF4YkNCLXdrVGZVNU5hbTh4N0prVmliR2J3TkVWMFk4dGtMLTFja3lDQ3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T07:16:16Z",
-    "hash": "51e36c2cf1aefcfdc278dcdc9de9b2b03d11878ab60403b58b9a6125129860e7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet (NASDAQ:GOOGL) Stock Unloaded Rep. David Taylor - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVBzcGk5N19XaUM4ZjM5WVZwR1BPb0F5TTdzVlZIemJyRDZHS2o2dUJBa0R3bTROLUtXOUp3dG94SnR0WllQZWRpcTNwSTIxa1k5NlE3Nzd6UV84bk5sQWZPdUVzdW1jUWpPcWRwWGxDalc0Qm96R2NuNVMzNEFtS3FWNTc2NzJ4NllITWZnaUtFTWlaaUEzMzZfSUp3VTFxOWdwTVRaZVduUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T07:13:20Z",
-    "hash": "ed48afd67c988fed2cb0af2ebdd624083eb8353d126e5432fb0a9d87484b9a65",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase’s Cryptic “December 17” Bio Update Sparks Frenzy: Is a Base Token Finally Coming? - Castle Crypto",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXMwd1NzU0tMdm03NThubDdvcUJzY3A3elVXaGNPbHh3aWFXSUJ1UXE1T0pvdzU5TEYzWUlIaGJqSHlNeTFLeWxucm00aWhfT1R5YW0zUDkzWWVvT0NQQ3FHLVEzOU00d1lyd2M3cG40NXFCNmIyaC1yQ0dOS3R0WVMwX3BnbVV0REZSaG83RWVWc2RoZkE0OGs2MHdENmJscFY3OXowOTJiSzZLSEpUMkZncWJYUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T07:06:27Z",
-    "hash": "622357e03800cc3020aacfedab711c7bad45ecfc759ef7a412de11bf9d170b19",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stocks soar on Nvidia earnings relief as markets brace for US jobs data - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMl9ZUHRYcTNuMW81VVcxMjhfZ2Q3MkF1RjRnc3dzci1LckFtZTJxWVZ3QkFXOGR3eVNJQ1RSNEF2aFpCckJwbUxLMTNjV0tEUHRvTWNJQzhVNlM5NGF2d21RcmZsMk5JUHNwYVYzWk50TC1lWUpBMzdHTFBUb2w3cQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T07:04:03Z",
-    "hash": "8b7a4c1f38e951ea1c6265cf5a9af3f0c69cd3ab6f8517a5bfa40a9936738cf7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet (NASDAQ:GOOGL) New Gemini 3 AI Model Boosts Stock Momentum - Kalkine Media",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcVZtMGh2QXZKUEZ4Ty1KMHM4Vl9nYWtzb1d4MXlUY2xUZHNZNHI2QnZQSGdyZVdWZkhGa3J1ZG1YV3ZpYnNiNV90TUpVal9GbDZULXB1SnNheUhzOFNMeUxfSlJmSEpSRVJrUFFCMWRmTHF2V3hVbTJNMTM4QW5Qd2czX3NMbUNabEYzdkhNQ1dGUXh3d1RvT1Y2clpOOVVEM0s0bkJQZTZ3cTFwNThB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T06:53:00Z",
-    "hash": "14293777a510515b32d8978be1ee04e1f719e856de41c2e1c758f6c5f38ff20f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Price: Whales Buy the Dip as Nvidia Earnings Spark Rally From $88K - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONlVKem9lVWU4LUVqV3BCM1pfMU9TUXh3YnByT2RwLXVXNjZvNzlNOFpIZHZKVkQzWXB1R2d1WVgyVXJNZFB3ZEpkdXVZQjlMcFkzSGNUa3hCV3lyemJ5VDJ1OWoxcXVFXzBtbDRrak9vaFI3ekZIT3dXT3V4OGpZT1BLTjBDZHZOQzhPYmxSNVlNdWN1dG1pUVg4WS1rS0gyazBj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T06:49:37Z",
-    "hash": "6be27064df751b259906826d7d2d2784d3c61b0e6ccf21665e596ab65c5d99b2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood's Early Private Banking Rollout Triggers Some FOMO As CEO Declares It's 'No Longer Reserved For The Ultra-Wealthy' - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk4zVWM1WE1xUzUzYkFJcWhTb0JScEZXQUpaOXBhOXA2SHJKWGJ5X0NWT0RheG5VaGp6alBZc05mVV9FZTJWZzZlTGxxQXV3TXFTMno2aEhPMzJ2Q0t4ZFV4Z2psMEJYV0Q1eV9TdE9BSjl0ekw5djhuOTRoY2NGMDYyQWNaUEVCLU1obnEyUThlek1LbGRiMnpKMXBYRXpkVTZoVndZM1JNN1A4YkJOTl9IY3VuSWNkQUhQT2NYRkpHUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-20T06:47:00Z",
-    "hash": "794fad6d6816fcc91f504743d0f2163ae02ccfaf3488cfacd4f141c272b9c8a9",
+    "published_at_utc": "2025-11-20T08:28:37Z",
+    "hash": "f9cf3743ca28bbf2843a537555e52514e34483ece7d3e83bb4856af2bcc108ff",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Bitwise XRP ETF to launch Thursday, but community questions ticker - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcUswcmFlWVI1MGtGVjB1TUJDMHRSUUJuNFpWdlg4ajJYVDBXSDdqTXVfeDE5TUt6NHU4LWlmdzdocmxkWGxSb3BHNDl0SDd0V2sxdFJNRWliZjZxWTBpWEhkVHpPZXJBdmVaMm5IMnlXVnhHOVJ1QWpWSnZHVjlieGdfX045dENiQ25Qa0MtX09vMFZYWGdjbkxXQ25FVEVlaWRscGdMM21SVjdOaGhuWHVKUzhiQ0tySlFBUi1IQ2ZOTXZhb2Qwak9lYmVyTmU0cWxPbWdfZmlScjQ?oc=5",
+    "title": "Today’s Bitwise XRP ETF Debut Sparks Buzz as Bullish Divergence Lights Up the Charts - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSl9yazB1dE9FTktzMTh0TUxEdlpQODJiWjZnTzJFb3VyMWhaQWhpVTlBb3Y2WWRmczJkQWl2czdjU010amJyUjdqcnVLZ3Q2dUJFb0lyOUZHcjdQMG95M2FDMzBZWW1SR08wMTAyQnpNWnp5S3pZNzRESXFldnNmT1dPcFkySFhxODlaWkNnQlgzaHUteXFMSFBQdTQ0WF90Zi1YNUxxR1A4aGJuN2d0REpR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-20T06:41:22Z",
-    "hash": "828f2a0eb8ef4aa058a34d6601cc8a83ae5ef7acedd7c8c4c94eb73c2d36d8f4",
+    "published_at_utc": "2025-11-20T08:28:09Z",
+    "hash": "5e522d31c009126887c78f93bd48b412525f4c12a5f9682e396614afd26ec327",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Loop Turns Bullish on Alphabet (GOOGL): 'Wall of Worry Obliterated Under Waves of AI Enthusiasm' - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVV9JdVluTkwzQUhxUmRVdS00ZGhlbE9wVHlGX1hDZVVtMFNlUlJFMU1OMlVrN2lRdm1KVXhpUEVXQVFNVkZoSzI1NDUyWThMYm1OSHlSUk4xQ0FTMFlxdktxMjA4VGxKZ1ZaWlIwOVZqcXd0X1BqMlZvZ0NBSTMxb09oOE9zY3l6WVc0VEMzOVQzZjJsdnhSQl9rcUZCblpnMVk2bUxjS3J4VDQzV1hRNlZJVXRMRy00UVZpRVBOSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T08:25:26Z",
+    "hash": "eedd08d77bc1b63ebba56f7071f021e37b0390e60a2c009692baeb23f6b52e60",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitwise Unveils Spot XRP ETF, Redefining Global Payments and Crypto Investment - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTRlcXBmXy1Fa253bFNqS0FNS0tZMjZENzJoNkJGdDI3M1lqZ3lXLURzc1M1ZFpId0JackthRUZWd3lkbnNMc21GMlRfYmMyaW1ZY01NWVBqTVZGUVdwenZJdGs1eGMybFBqaDNpNjNUU3RPeEFiYWFUVzhqMmRZY1NhbTNuR0pfeHRnTlpfb2kwYTdHZjcxeDJ6cVVQQUln?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T08:12:50Z",
+    "hash": "7a3ae9a319f84d07dfb6c4d147bf8d4f443166aba8469791e6a9c10b95c806a0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price: Rebounds as Second Spot ETF Goes Live on NYSE Thursday - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGlxSWxFOU1jSzJkSlAtOWotQ2hNVF9nWGhJNzcyZzlsdnU1WVdvYzViUjh1YnpCOF9sc0xvcW5rYmp4OGNqQzhMbVBzSGpTWWRJTWpUclRaNC03UGFNeDJjNUlUWHJiLU96N2FEeXJRVG40c2lTcW93d0t5TFFNRzJWWWkwNFZ3cFNWY0J0UWNKQ2c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T08:11:40Z",
+    "hash": "2d18fb0a170d54bd609a5b98afc3744cb6dd66df082a3126e29841a790102b4d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab to Launch Second Mission in 48 Hours - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTDN6NUdtNEtlZV9uMmlELThTT0ZKc0NINU9jZkFTRnJTZ3FRTjNEZi1FdmVBelUtUnJNWlA2SHNzTjlRcXJTd1Fqb2F6RWRORTl4SXgtMGhtMzNGeHh6M1FHaFd0akdyRHV5eXdTUVQ2aGdmTGNNZzMtVS1pcHlQRHJlVVU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T08:01:00Z",
+    "hash": "dff20a2df3b9ead8b42defe078fbe68b5448724b0ea4191798bd69fa9d5db95b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana (SOL) Price: 21shares ETF Launches With $100 Million in Opening Day Assets - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFBEQV8yc0pHYmZrR0NQa2NuWVNFSktZSlNMR1o5UE9sQmVZYjVGaFBxYzE3NGlyOGZRNXdiUFJITk5sTnoxVGl3Vzd6NFB0RV9Pc01mUC1QNGdmU3ZvVEJ1VklydndhQmh1MjBVTTNIbnJxLUJmSjRYOUhTbkI2SjdQYlN4SFFyQzZsazROUEpxOWdpbmNadWNyanVWZk9GOGUwbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T08:00:28Z",
+    "hash": "e3024e7586544af42c1697b33c62f7ecebf58de76c6dab775a074fd7d012dd7d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google Stock Trends Revealed: Key Insights Behind Its Latest Price Fluctuations - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFF3S1NOanBKVDlWVGFoeWI4QTBWcTlsczQ4WGJBZm5XUTBpamJYZGwydDZqSUM0Vm42SUk2ZzRrT2s3NjB0NWtyRzFxeHVKVnB0aVFGYnQyNjJTbFYzVDRmM21wNy0tU3NEclluWEF2ajNiMlAwVEY0bVZvQWV0M2hGdmxOMURNSFZaY3RMOHFVT1k2TFMxVUJWOFhHQXN4cU01SnBDeGQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T07:58:08Z",
+    "hash": "82eacd2ee784bb6c3217014557630e1ef7ef6ef9141b79fd2f7948aefcf30082",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens unveils flexibility software to increase electricity grid capacity, moving towards autonomous grid management - Siemens",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSDhqQkhqaFlyQ2M3Mm80MlVKTFdIcUZlcVA1YmhiTnE0Zk1BQVVrQ0ZjcjRvdzc4VHVKMVZFdUJkOVJ0MjdXaV9RYmdOX2J4Q0xIUGxCamdIcjBIcVN3MnNNZVJHcWdKY3JSYm5LUXhEQWxpQlRxNEYzc3pmVld0SXNJclp1M252eUR5aExsRE5FMkRkTWtJOWF2WmhOTWR3VE5mRXRrMFpVWDRPbDRfRzluQXN2SFBlN3h2a08zbjZFNFp0Qnhvbzl2QlNZNk1h?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T07:45:36Z",
+    "hash": "e39d20eb587154ce71d139f00845b8d8adea29b53be5f1037eb31f51a7e1f0fb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "We Asked 4 AIs if Bitcoin (BTC) Will Reclaim $100K in November - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkJfRGlMcmpPQy1oREpabFVwN3hDdlpQV2hWdHZ0VVRIX0ZfSE1JZDFPQ3lJTnU3VzNqZUhzQzNySnRTLTEtYjBzVTM0T1hsOU5KRUd5TnliWUE1M1htLUZNUXRhX1ZUZEw1am5lNGNHcEJlRngzOFZpNWxEN014bUJCR0lNLWF1QkVnelVn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T07:45:00Z",
+    "hash": "44ed35321a36d9f6223f881cdbd92f7bd1f83bbd211ca2bdf32aae3adafee784",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Most markets rise as Nvidia earnings override Fed rate concern - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWTVubmVTd3NyUGN0WUJoVnR5YzhXRG9mQVpVdUt2U1JvbXJDZW9iVVhUN1NTQUQwSE43RFQ0ZTRrN2ZFb2dpejVTVGRfcDFfdkF3MW02TkNENGkwTktfT1RrMExrbzZYNXA1RjlkZjRGdmdoMldlM2I0OVpzNHRMM2o1eWw0dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T07:41:00Z",
+    "hash": "7b11ad0783930f6a860de5186be209c3e2c9946d2e08c841f4089aa86ac16af4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price: BlackRock’s New Staked ETF Could Change the Game for Yield - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWhSYVlQMXRtZFd2UWFFRUloTnIweFNPLTlRUTBFd2NMb2RFeXV6TV93TVc2eFN4S1dqZ2VMNGlELTZfT3l5eGhfdjVUQTZiODlwQ295SWZPZm0zOWd1ODNYTjRXczgxQkNOZi1MVWk2eV9VcEJUR1NhNnBkX0k4emQzWksxTVk4LVVFeXFfU3U2b2xLeGlEdDN4aV8zN2VKYUFV?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T07:34:44Z",
+    "hash": "5a6d85fd3a11629a38d28dd665d66c87c11f5cd4cd2cb4e9aff8a0c5bdfaa544",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "CNBC Daily Open: What does Nvidia CEO see from his 'vantage point'? - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDRNZ2R5Znh0T082dG1yQVVZM0ttalNkWXJHcmlMN1VxRzdPSXFRRUpfYW1GR0JjaFliZllGZXc2Q3luV0xGMmZyYlV6XzFTVmtIMmgyUWF1N3VBWHczTm9vUkVMQndWSU9QYnVBMjh0SXF5bTR3N2JZRFpfakFvT1lFRjFRbktNR0dUaENfY1dkai1rNFRsTXNSY3NQcE4xY0HSAacBQVVfeXFMTmVLVW9CS25TRWx1Y3YxbW1LR2kxUGRVZkdRTFdZUXdaRVFqT3FOX1U1ajN5dUhkaVFlTDRSRWZaTzJDU2c5Y2FESDRpMVE5d29Eb2poYndYZDdSWVQtcUxkdVBkVTdPQmpISTRzV1Q0NVZXb1hPbHAwMkNtVjZJWkxZNkVtMmlLS083M1dVMzkwSl9KZDBydS0weWZBTV9hQUp2OGo0Rlk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-20T07:30:01Z",
+    "hash": "4207aceccc8ec6bce088f475a28d3cddc072a701aab0b77a1e740394fd74fc34",
     "source": "gnews"
   }
 ]
