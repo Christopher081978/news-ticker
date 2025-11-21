@@ -1,32 +1,72 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Why Robinhood Stock Just Crashed - MSN",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG5xSjV0elpuX3lVTEhZTUdVMHRaR1JLSjF0aUEzaE0yTGx5TkVyLU9abmFwNnhOTzdla2w4ajNUd3BzUy1BdXQyZGJJVXphLVNkSGtpQ2VpdjFCUWNjaXdfakJJRFNZQjJIWWRrYmt6WWg1d3VfbmlmTUV0cVpvZDNycjBDQkpsQ01JYWt5cW01aENwNzJxbzhNd0FfNVBFa1VhOGtCNEo3bUFRV1hGaFN3?oc=5",
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Was Apple Sidelined From Google’s Quick Share To AirDrop Bridge? - NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTG9SbG5aUGlDUVlJS2ExS2dBX0t5b1ctWEdOWUNxbjczeWdKZlpUMjM2b09QdDh6VzNUczRqZU9LTFJxdXllZDV1eXRFRnE5OF85MWE0RW1DRzFmdUVmVlFFZEViSjJUczBJeFlIUkdVVmdBSEpLTjhMdjduNGNpblNOMWczRUFDTmhPZHdXTEpmNXd0Y3dsakc3ZW5qLTZBd0HSAacBQVVfeXFMUHFabDhlZXR4SW0xTFY1c3dVT0VTRS1ERTBqZHR0OVN0eWVGbFRhQWRrcm9sU3V2UEJqbmZHeWlXZjJVVDZXTGhfRkc3V29JMmw0ankzb0pjeFBaYkItQjdvY1JPTkVlMkJwbHI0YThGNU5UMGh3SHJfLXQtd0JjbnhCenU1a1RiRzZXREhQUDI3ZGlmRjlNX2N1SFAxMU45Wkw0Sm8zcHc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-21T04:57:28Z",
-    "hash": "97ca7fab00432192d08ac9b35e23c0983945244791ed4a2dbe15cd71050c766f",
+    "published_at_utc": "2025-11-21T06:33:23Z",
+    "hash": "38bd288f5e66ee1e070a36c30ead8d0035b9887ecee67b0ea003283455db9558",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Ray Dalio Reveals He Has 'Forever' Had 1% Of His Portfolio Tied Up In Bitcoin, But Still Has These Fears About The Future of BTC - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMVQxaHVKUHowVW1iem14MzRSTy1UcXYwNWNBcEVSOVhKcTZ4eFBMb2o4bzBMd1hRbVdqZ016clF4cnU4WE9wUkY3bTlRb05CSzUtUld5SzJ6OTFrVHRBN3ZmbmZpdnJkY2NueFR2S2VpTGdEejFnR3BwcjhOWnF1MnczV3NBa09NaDY0cmdnQkIxdXRJMjJyMmZ6bERLZ0tLeVZDQ3daMTFmUktiTGZBdGt3TzM5bE1HU3NTcDVQUHo4T1RfSnVXY1RuOVhrOXFDR1ZXT1Q0ZmpxbFdNVm9TVWNHUnJobXRjRUJPZ0xIeHhyT3FTUE5vdDR1el9QZzNJYWJiREdFSjczWlMxMWRwNnRzdU4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-21T06:21:54Z",
+    "hash": "e3c26908ed9213ae63f399c7aace227806517831a8c35de40be11d4fa7a6aae3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "BitMine Faces ‘Hotel California’ Crisis as Ethereum Bet Backfires - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTENjNWRtRWxsZHYtOGZVMVhVcG1WR3pndFVERVZKMVBpRV9jXzhXU3hjeU5CNkdDMWdNakhHZ2xTN29IWWgyamV1SWZaQVRib0RnbmpTcjR6NXdfWDFMQlpDV0d2M0FvRklVUUhSRkQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-21T06:12:00Z",
+    "hash": "29d34643d42bdcf561f47e909ded9a716bd94c6a923d5e25883ed5f4ee6985ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "IFS Partners with Siemens to power the Autonomous Grid of the Future - intlbm",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS0xSamQzYlpkOVNKaGR6UDJjQmc4THFNUzlDRGJyRk40WWNiVFhOV3JzLUwwbThVdUg2MnNzN0hXbU1NZDdpRDktbUxSa1pYakpLaU5jTjJKc05oNV8xNmRkUmxRTWV4akd1TmpqcU1yX2lRMnJsZHVIMkpVRzliM3gtS0NKX2VHYllMSTlKT3Y4NmVaQ2xfTkQzUDdBUVlG?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-21T05:59:21Z",
+    "hash": "f3cd80d9f76b80a3ca7e46265a2dda4d731a09535fe7b81ac3f202d5b9cca911",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Google says it cracked Apple AirDrop on its own, Android users can now share files with iPhone and vice versa - India Today",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTFA3STJ6QkkxU2kxMERUQ0JRQ3kyeHViM3FTVFJ6VTA5TktTaGRjTlhMemFDOGZaczNnWldlTEJxVlZqcXRrbzVwNVUxQlJwWkh0aU4yVlAzVnc2MDlITjEtQXVHNGEzSlFBTk9BRWNrbWVBUld4bzg4c1Z3cnVSWGZDZUxvUjktcWNGaHVtM1N3X3pLQ2lLd2IzakdDclRlM2VHUTlkdG9BcnRCbjJram1rSmNNZ2ZXZ2hTVUVUZERtckxGZHFMYTFDU0NUTEVGTDhickl4UVpkYmRzWko4WnlJY1k0NVBUeEZ1ZEI2ZWhGek1OYzZxNU1jWHowSHlpQlR0bENB0gGLAkFVX3lxTE1UUy1TeFgtY1RsbjBNb3NMWlBrUDdtVzFmVG1CNHRiZk0yQ1VCMTZvb0ZnRFp6NTFqRm1nQTdxdHFfTXpKQS0wVU5VZE5lbXV3NjhQcDFwRk56eHFma2RtUjZ2Vk50ZVFzeUNWNDZVeHliekxaSEhJbVRJWUdtS1RYU3dSTFo2eUhOUVZBMzE5RTJoMG42MXFJbXhxZGVJOG9wZUQ4eFdpOENHMUc3UzFTbUUwaUxlaEc1cG82dG1pam9McWFmNEd5MnhYRHlsc3cweEdrTmt5V1hueENfYVNSeWZkdkJRcXk3dXhhU0U4WHJXbDdlb1ZSdDBGMDY3Q2Q1Uk50STktd21qUQ?oc=5",
+    "title": "Google Pixel 10 Can Finally AirDrop to iPhones With Quick Share: Here's How - Mashable India",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVFWTmlhTEc0V0Z3Sm5DQjkteGdFbUw3bXF6Skt4VWg4aU9vNmJPOTJZaUVFV1dOLW1yWkM5SWotYXQ3OUN6eGZOVHhkcDZWdUw2eFhWLUFXOFdCRHNCeUdLT0hWZndpakhfZl9KWHh0MHFnQi12TzVmNnJtNk14ZEZUUGxRck80bW1DUUlaWHdxX0ZJQzg4MHkzMHRZQVc3NFhUbGhscFU4RzYwWWc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-21T04:51:00Z",
-    "hash": "b9019682438bfb038fa6cfbe560608cb589f2b40a581cd62c624c9e5e253344d",
+    "published_at_utc": "2025-11-21T05:56:37Z",
+    "hash": "60f94682cac4a783054d9a74e38e1210a6a39acaa5f6ee1a568fead029ec5202",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Market Meltdown: BTC, ETH, and XRP Capitulate as Bears Seize Control - Mitrade",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTElwV0xvZFRTaTBJN3A5d0FmT2NnRmtiRFptRUxNTlV5WFU2V29FcFp5ZHlfMld6MlNUVWd2ZklkUnd3YnNGRjhqWFFaUWhnRS11b19WU1FaQmZlZ2dPeWVoYnR2NFRWYjM2Q1AwSzNlQi1kWUpDa09kdTZQdzJWcVR4Tzd0S0pMMFJyRmxn?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin News Update: U.S. Lawmaker Targets BTC Tax Payments While Bitcoin Dips Sub-$100K - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWR5cGpGZU1hczVNZWVrRXBDcklxRTJTajRrWEpfNFNSOEw1X3RNT19oNlc3eXVBd2d2dHJmX2w1NFFnVUNXYkFYNTg2VXRtZGdSVFNKTlo2c3N4WEtEd2V0M3NORW9PLUh0ZmtJeXZRMER0WnY5UG1lRUlBbTRJbzh1YTYzWl9TYVlxSXhyMzRQSEI2NGhXRVZyU01UYXVaSmd6MWl0VS1VQ29HU0E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-21T04:45:08Z",
-    "hash": "3de86ccbe6cce78204cd812b19bc36a71ea09f7cb6fa964c3c45802ae608efa1",
+    "published_at_utc": "2025-11-21T05:45:03Z",
+    "hash": "88709755b6eb5526b08db0b6f6b3fbb2eb734d7df61e94588d702f119532dc96",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Cathie Wood Buys the Dip in Nvidia Stock (NVDA) as Wall Street Stays Optimistic - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUExZalpEbGtBQUt4cms3MGUxV1p2bjZNNEp4WGVHUnhUaEctd0o3Y216cXFZZEpMeHJWeno0Uzg0YWxYNk1Bc2h1WHd6TFAwOGY4U3RKOHZEUGhvZ0xhTFExRnRXM1BFYXkxU0x3UWIzMkpwYk1Lcmp0QVlYNG1NRzZGYmFLWk05dlZMQm94SjkwbTZtZlhhZGN4SHZweXlxRWNjcGFRbVVtYktIeHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-21T05:35:14Z",
+    "hash": "6c111932f186ddf549824fb92293524415b773a418e83e87a50d1a10a3eebc5f",
     "source": "gnews"
   }
 ]
