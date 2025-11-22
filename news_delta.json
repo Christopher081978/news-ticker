@@ -1,72 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price Forecast - BTC-USD Falls Below $84,000 – MSTR, MARA, and Crypto Stocks Slide - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ3RyV1RlQVpqU2FCV3VIZkpETnI3X2hMcE52bVFUdmxYU0tRa0wweE02Y2hlUFlKcVJXZWZwUjFSejM1cjhpMXMyZDdwc0ZqcHlES20yXzZzRTdBRTZkenZZd1NabFNaUnVTYW0xQnhSXy1NZTZRTHM3Mm90RFZVU2c3OHJiMEdmTldRdzdzODNfYkhEVnNYd3kxZ0Jfb0RR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-22T18:23:48Z",
-    "hash": "864f632c3fd2a2d8b550d1b7cbcf0ec2208eda3587bb69dee822732b9772930e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Stock Has Surged Since Warren Buffett's Berkshire Hathaway Bought a Stake in the Tech Giant. Is It Too Late to Buy? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUJsWFVfb3NvaXF2UHJ4ODlxQmxuMWVFaXdZa21uUEJMTWN4RTQtN0Zrc2MxSWVYS25JRmZkRjJNd3lsVk5XdV9HcnYyQlVUdnRaYVdzSlBhTlZMVnhaN1RWQzRjN01vUG1xX2dvZnZyOTVwTm15cU5wQUZWRjREUDl1cUo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-22T17:59:04Z",
-    "hash": "ea5aba1e8f17bec1b666e67e4546adc0aeeecd6cd70f3a39a187ae585e8a38d3",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Price Analysis: What’s Next for XRP as Weakness Against BTC and USD Extends - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGw4Z2tBdjFfOXg3OWZZVXI3bHhyM3l2WTFnY091NDZUTU5qcWFOYnJmTlNXTmVub3FxLS1SNGtVTFlGclpqaWxvMTJ1cFBoUENFRTE5U0Iwc00xa00yNjVOcF9KcklVMkl2Mkh0clBQdlZGRHY5WkpUd1FmdV8zRUFvSW0xUnlVam1PdkU1UzZkd2hmMDBJOWFPTl84c0JVNHdPU1lSbC0yZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-22T17:46:00Z",
-    "hash": "e96f5610f8ec196f4cede2dad4f9aab54ca1d4c0fb1ebf5053a696d92c025a84",
-    "source": "gnews"
-  },
-  {
     "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Analysis: ETH Reaches Decision Point as Bearish Momentum Intensifies - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcU82T1E3ODliR3lxVXpnVlM4cWtTd1c0LU8zRG5zVTVxV0FzNE5DcGFTVTJWalRRM0dKaDdOSzN0VnNOYjNFc0RESU03b2o2ZmYtaFlPckc5akppSEtqbXRvQnhITjl4b1FzLWZKSlYzNjJ3RnZrS1lKWXhiSy1XZ0p6dVZWVmpwdVc0Q25jamJqakthZC1HQmR4VkNtWm80X1Y2Z1lsdlZoTlNB?oc=5",
+    "query": "ETH-USD",
+    "title": "Ethereum Price Forecast - ETH-USD Holds $3,085 as ETF Inflows and Fed Policy Drive Next Major Move - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXVra05RWkJfOXZ2TFQtd29zTFQwWFNzT0VqaklVRkFmNEJCSWdodkxpMXB0dEo4eC1zNnRBaU5aaWM4aUJKeUlYY19oMFFldnExWWVTeXRDTlhuME1rcmc5dWxYN2JzVVlqUjlQbm1BRHl4ejRCT2hDY2djMWFMZE5Bbkh2bW5aczhWcnhCNXJscUZ2dWFoNGpIa3I?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-22T17:40:00Z",
-    "hash": "253973e53805ca64807fa976258206fbe2316d862ba6aaee3038562d6cd779e5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ETFs Record Massive Gain With 10-Day Inflow - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5raXljZ3cxajc4RGNJTEdMTC1VdTlDTlVXd3VoMmt0ZmtyazVZTEt0U3lwODdETVhGTVhIM1VvaDVwSXlBZldUdkZuLXRfMHN4NUZLV2N0aERjZ3pZdExpNDE4VmRxbktrYnk2ZlFYczNTdDFGdE0tYk1Lb1TSAYIBQVVfeXFMTlllMWNGZWNmWVVsdFJpaTJtcmUwZXFIZzUwczhvWlFwYUxEbTg2Y3JFOWE0ZE1SOTh3TGU0YldlZFcycVVIQnlYOEJETnJvYTFqc2p4VEJESG5VVklVVHdvM3pkbjVobkZreEQ2RkFUY3ZUZW1pT0pEMDJtREY1MDdwUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-22T17:36:15Z",
-    "hash": "1f3ba6655269d40bfbc61c5d76b4e7bf23cf575c7dcf0cb5172291407e72f3d1",
+    "published_at_utc": "2025-11-22T19:13:48Z",
+    "hash": "5017d1a7ba0b54ec34da8755aef7737a836d6f9edfdddad24d6a7759b3b87654",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Tundra Confirms Institutional Acquisition Process and Accelerated December 15th Launch - markets.businessinsider.com",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFlSWTFqaThkWGxuSEphSktOMGhNVVNCSWhySU1iWmUwME5EQUVtWmtoTDZTT0hRWXBqWkZ2aDdtczdXeFhXbFJkSWlMN3hGOU81Wk5XRzIxUnR4T29Ib2ZXb3d2TVJ4S1lxOThReTBmcDQyMDRHMmZ3VFlCSzRpT1NtZXUtdFZoSDlqck1nb3Q2QzlKLXo0TWl4VkNWa0N1TzM5dlV3QXZkSUNVRnctU292T0ZnRnhIVEIyc2VRVFNaeGdnd21uZmJzaWtVSGNqWUtXclBMU0NneTZkX3BXRzNnVQ?oc=5",
+    "title": "XRP’s $1.75 Support Zone – 1.8 Billion Tokens Create Critical Price Foundation - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXpJT3l6eWYydVE5akhQNWxFQmhBaXA4UWFMS01yMlFMdVQ0c01tZzNpdjJ1dUVkbDQtNXpXeS1raTBHdzNrMjE2RloyZ21BT2hZNmF6MXBQNF9zVC1sZGxxeFduREQ3WmZYMzR0RFhqRVgySG9JSXBLTF8zUGZiRlFKdUdGWGdIVmZnQW9tOUE4Q2VmX250YzZiUkVYaTRUb3JPRmxMN0VhUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-22T17:32:55Z",
-    "hash": "b532e2129b2aeb1d3f0906d3390494038b7671ec5ac11834f0fdf70cb5579615",
+    "published_at_utc": "2025-11-22T19:04:38Z",
+    "hash": "496c95a2f7e60b7d711f71d2f102cda00afbf849d8f17680c561f2b96af362bd",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Extremely Lucky Solo Bitcoin Miner Hits The Jackpot, Banking $266,000 BTC Prize - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa05SdGJFVXREVmNqQzN4cEhjZ2N1c0VuejFub1pQSG51U1Z1bjRDSWZKbzJ1NXZibkR1VUdrcVZhanVLYk1DdE53Mnp1cl9Ybm1uTWxuR1VBUDFvWU1XVlgzV183eVNJM2ZPbzdSUWJvSWg3OEFJNDBJUy1QLWhJZnF4bm9jZHVsM2FBbTRGc3Nob3RYSE1EcXBPYUs5YmvSAaQBQVVfeXFMTktwd0lTcE1GYWxJTTZqTzdUdGJrQ25xUlQ3ZzFOMGhiVXIxRGYtcHNUendYcHdDUXhkQ19Ic0NoREJFamh0Tkl5OGloVDVfX21xYWhYN0c3NVZzNFc2c04zWWJlRmRnWmhiYWR4ZjJLZ3BYbmU1Z1JlY005cjd6RV9sQ004NmVBLTBSTUFQUGFvaTBuU2N3NmdOcGhYRWxwTTB5WDA?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase to Add 24/7 Trading for SHIB, Bitcoin Cash, Dogecoin, and Others - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUFFxYUhKZW9EaS1BUHd5Z205YktRcUozbkRDdGh6Vmo5dUdRWDRHWkZpVlk4Y2dLOFB0Z2lUWG42OW9LRWdmQVkxQWxOSmotMDgtN2lKYmktTEktSEpCbnIxSXVHT3dJbXZmT09vWExST0JTWFZlOWxrMzhLaklmN1paanE3amRvaHVIb1hVa3NVM1pmaGhwbVJrTFNtM3RHTWQ1a1BjOUtkTjFGNXhkYzBWcEdKaWduTGJyZU9tYTJiR1hT?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-22T17:27:59Z",
-    "hash": "954f7427176441191e5e1fd629e25ae90d8ecc25691bd538e3d8fd73bd48851b",
+    "published_at_utc": "2025-11-22T18:47:40Z",
+    "hash": "744fd409522676d2ca186ce73403d8ab76090499abb47dd2923a5598bed8ef8c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Fails to Keep CoreWeave, Nebius, and IREN Stock Rally Alive - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEZhMGNwZmdLdHRjRkdGaXRULWg3Rm5mU1YybjhQcm1XN0tmODBXZ09MQjdSMEg4Q1NoQ1IxbmxmZ1lZaldldV9QRjgzSTZIQ0lEODlmcUtyTmdVRm9pbVMtNmE0ajg1TWFpTHU0OFBkUTI1N1A4VFR3bEN0dDQ2MDFRNU1SbDU0c1MxN2hzazBpc1o3SnhqYnVuWWVjbVFmWTFtbHVB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-22T18:43:02Z",
+    "hash": "291a9f967c6d55b915b6ba794fb40dbc1611b312f6583378fc43631a32c96d46",
     "source": "gnews"
   }
 ]
