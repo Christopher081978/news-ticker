@@ -1,82 +1,32 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "How Google Finally Leapfrogged Rivals With New Gemini Rollout - The Wall Street Journal",
-    "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOS3h4cENqdU00X1lMR1RGUkZMaHo1QklRSVJmaVhITF8zUDE0VkV3RVhreWdRaGFOR3hfeHpHandOUkF6ZkRaaS0xSTdDaThaWGdQb1NaVE96SEpiR2VFby1PdnBNeENVMGl2QjJsZ3VQUHJGbE1wU3R1ZFFWSlloUmplQXhJZWYxYWFQX0s0YklqTUFSX05vQ0dza21XU3A5Ym9zcXczeVRSTnlRUzIxNjZQRW13bjFXdVJRUVdKU0Jtd3RWcDhYNUxhZ3RrUV85WDNwMktITXhfckFNM0VWbkdoNTMwQTRBRE5oTGNiSUdiNkdVc1RQREtEMGVIYS1hVWU2NXJCbjlwVDB1akxKNzc4R0ZueTIxSS1IQXhMSTYwdDgzZmJJTDZlWl9wUUptOGdOcFBwS0Vzd2F2SHo3OE9DTVpCX0o4UGdSOFNDS2VBVmhLVGo0eXVLdVlTMjctbm5XbmZSeVZHb0hiOFFkTmlock4yLVBvdFZSTjJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-24T04:31:46Z",
-    "hash": "5ca44c78076f638dd9a38cd53606662eee4e8b50c7996587aca6691fac0d2bae",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Bitcoin Premium Hits Low Before BTC Price Bounce: Is Recovery in Sight? - Crypto News Australia",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzMyMTQ3RlQtQlpIZjI1RGM0SDNiN2RyMWRxVmdHUW1YemxaM3pzM3hmREI2ekVLci1fWnBZaXVFckI4bzg1VG95YjdCNU9EVkNjaGNFMzNIeGhSQ3lWNEJIZGZzLWxHcXV5N04zdDVTbGF0NkdodVpSNVR1Qks0c2xlVXppMklJbDJkOHZMU0xvbWVtd1RMSVVXdGlyU0lMMmhETEdGaGxqYU1Nb0FBLThwRFV6cE1i?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-24T04:27:33Z",
-    "hash": "8d6154c6971496fd2ea6b5d0bf3eb2c523938fb59ca597141156b0c68a220cbc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Coinbase Bitcoin Premium Hits Low Before BTC Price Bounce: Is Recovery in Sight? - Crypto News Australia",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzMyMTQ3RlQtQlpIZjI1RGM0SDNiN2RyMWRxVmdHUW1YemxaM3pzM3hmREI2ekVLci1fWnBZaXVFckI4bzg1VG95YjdCNU9EVkNjaGNFMzNIeGhSQ3lWNEJIZGZzLWxHcXV5N04zdDVTbGF0NkdodVpSNVR1Qks0c2xlVXppMklJbDJkOHZMU0xvbWVtd1RMSVVXdGlyU0lMMmhETEdGaGxqYU1Nb0FBLThwRFV6cE1i?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-24T04:27:33Z",
-    "hash": "8d6154c6971496fd2ea6b5d0bf3eb2c523938fb59ca597141156b0c68a220cbc",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "The Game Changing Impact of Grayscale's DOGE and XRP ETFs on Crypto Payroll Integration - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEIyNEVHb2oxVHE0V2djVTg4SW1ZX2RsZHRBeVZ3MWpJZXdsQTd6RjhqU05PM1p6OUdsQ194bzdyUC1zUmppQzYzRndiTnFoSnF4T3NWZXRnQnFHNmU4dFJ5Q2R2RW1OUjFmRFU1TTdpQnJhUk15alB4Y3B6R1dsYkl6SlI4NlJ0Q3dTdURQOXlJc2ZSeUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-24T04:17:27Z",
-    "hash": "db799dea97470e5b1d3a1ceb06f04432abf506651c51d61556ffc032f3ee4729",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Three Big Holes in Nvidia’s Safety Net - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVTRPWTRmR05ST1o1TVVKX0M3UVFvWW5rRXJhVjc2ODQ3NThMMXZMckpBT3hyTktVZ1pua3lTUVJJVW9OU05VTU11eUJUcmNkRUVnYkE2Q1Qyd25sMm1LbTZrQmVmU1R1U2NSZjFSRFF4TEIwRl8xYXhJZ2NmM0pJZ21NeHdtRE9adUtmeHZqM2duQ1BGaHdXRzRTWQ?oc=5",
+    "title": "Why the once-invincible Nvidia can’t save the AI trade - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWnRPNTVnMnRiUDVYd1E0dGdxemZFNHltLXJEZGs4TVotZENVQk1kVHZ2LWdJVDlXOEp2YUp4Q19WeXF3ZEZoVTJ5R2czcjl4ZXhqdlI2US1XTlpJN1pzV3FDbERHd25QQ3ZXT0JtLXEtQlM2TmFpb3RnZG9JQU9UVk96RmhWNVRJQjNMS2NpQllIaDFBMk9KY1NSMWFFcFRYZGliTUZyYUY1RXR4ZEo0Y0N6UXh2aG9pZDhXQmFtekdlNXVJMVNPVTZtSVdLZDE1Y0h4V0VVMmtRS1NMWTVIT09pYlZNNkVIQUlUNmtR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-24T04:04:57Z",
-    "hash": "b536ee264f8c9cb4534ffb05c689b9ecbcd6cc5f875b2fae0b4b4c26e23dc978",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Drop Hits Forward Industries With $668M Unrealized Loss - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV05ScUlPY3A0ZzhGNkJ6UGtMUmtTVDJ4R0FfaVJBU3h0Qzk5eHJvbFYxMlFQYmMweHlKR3Jqb1BiOWxXYkF5LTlHeGJIekJpeFBvS2NMZ3JkY1ZxTUQ2S3RNdWJDMTJHU2hBY2NxNWdUNC1RNGkxdFBucV8wUzdOOUFjOHBVTWZV?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-24T03:55:00Z",
-    "hash": "d3df575e3eed1ba8b92781690661713362cb73944c3e42448dd432e7db73a66a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet Stock (GOOGL) Hits Record High at $299.66 — What’s Really Powering the Rally? - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbngwV1RLclRXWEFxZzdmUHdSTFhaUFJ3LVdnbXB1VklfRUszV2JWUmJ4UmlsTm5pTVAxTFdIekVSNGZvTndjSlZjS1FrYUN0dGh1LUJCQnhIS1NWSUE2N2R4S1RXQ3RwdzRVeHBqMWFUNF9OUXNhMndMdnJabVY1TUUyWjl2SGlNcGN6ampaeGt0aEM4dUN1ZXgzRHR5X1NQaUJoLXZPLTNwck96OHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-24T03:49:35Z",
-    "hash": "2064fe549c5da3f808a9fe6c72e539eac53e5cab83ee217b48f455bc240370b5",
+    "published_at_utc": "2025-11-24T05:25:17Z",
+    "hash": "48b6f6f4f99fbd77b90005c5acbac04aa841d6e4273f90382d9345ef634f124a",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Franklin Templeton's XRP ETF receives NYSE listing approval - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVE81LTVTeUp3ak1rbzZRR2I0NVJIcURtMmRIRzMtRVdFVGhPMGloai1NYVBzVWRXMDd5WGdmejFWdTJSeDdZWGNZdWVVc1Y2NS1ZUjZhN1M2SWdhaklzQlNmOTRxZG1xdXZXaENBYXhhZVBwSXFtenhoQmZOTmJzS2pJRlRJZkxlRnF4U2Fn?oc=5",
+    "title": "Prediction: XRP Will Be Worth $6 by 2030 - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DaUZfQlpkYTNDc0M4WEY3YVprUUhtSzV5YXRKdnBhOFFKalpKY0QwQzI0RWVPNTJNYkhNUWsxM0paV2dEdElSX2xlNlg4QjlHdjRJRi01c2lJTlJZWlN3WTBvQ0t2dHR4TFBDenBXOGROcEhmUW5jQlN3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-24T03:48:31Z",
-    "hash": "acfa279faeab01834a150ca545aa2f06528bba6833e0306d13863c6eb7fbc2e7",
+    "published_at_utc": "2025-11-24T04:51:52Z",
+    "hash": "48d6fca804390e41357d3e90d899d6b69d13a90602882b472f62c01e345b85ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer’s Bold $6 Billion Bet on Weight-Loss Drugs - Ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjd6bTIzbEtNZkhsNDh6SDFPX0Z2elg3NWE5ZDhNd1hJRUlYNnp4UEhpYmJ6RV9PSGZaTGw4RmlZekFGZ21POGw4eHQ5cWUyTGdhdmZZQVljb2pkSEt2RmpMWk1RcmFzVTJtLUVnc1hyVTlQdEJrd1pXeHNHd09Pd1pTVWdPNmxRTkJwV3gxUGZJeHNVdF8xc1V3VHg0MmVyY2ZNNlVlV1hrWEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-24T04:43:04Z",
+    "hash": "e0cbadf334d1934e57719c50831c29ee4f18cf3411623fbfb4c22200094a2f67",
     "source": "gnews"
   }
 ]
