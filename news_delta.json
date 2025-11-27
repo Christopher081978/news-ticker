@@ -1,192 +1,112 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Analysis: Has BTC Flipped Bullish After Surging Past $90K? - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVThRakd3QzZZMWM5WV80ZllaYU5xc0VjQ3FOOVFqdnhSODgtVTlpdWRPQk1yaFUwdHVlbXN0dmxxUW55VVRzd1g3a0NJR09uN0lHdDE2b1hwdHlJYUVkTmtHUDBYWkRJRmZUVmd5d2MwZkVCTnBHcU1YVmJFd3lMX0NvT2VucHF0a3NUOXV5TlFvZFNFME9iNlg1Zw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:24:00Z",
-    "hash": "9a46c5bec1a37527a262cca0b82fa4e327442b595f1ab46a37a80a25902a7350",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "SBI CEO Endorses Evernorth Merger as XRP Treasury Expands to $1B - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1UyZ3E2TVhSaEtGVTVhM01IVk9MUlpIWGd5TDgzZUlIODZHczJnU1lWNlh6SGI3Rm5yU01iRkYtcjNYblVhU0l5c0Fnb2Q2TExTbElEXzA3aF9QVHJTam9BMnVkbGh1ckxFYTN6djR2WmtMeWM5ZTFCNGktVVp0bnEzRjZNWlFNdG50elFzb3VLQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:16:42Z",
-    "hash": "e899468d00577cc2096b2396071961048fe4a4468f40f1f44cf01af2c727fc61",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia battles allegations of inflated revenue - Rolling Out",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjd29MY1hrV2RCT3ZBZjdMa0dkVjJKbTZwd2NrOWJYRllIQjNkd3hXelB4SGNpNEFobmVvRFA0MGFCeF8wbXRoWkowd24xZm9XQldlTmZPR09WcGZXci1JU3NLdVlDcWZYbV9pTU5TQ3RYSUwzOG12c3h3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:16:04Z",
-    "hash": "659a2855b82e9881d2adb6800cd225f46b9be0cf2ca59d14620feb94443d6d0e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Is Pfizer Stock Poised for a Major Rebound? - Ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS180WTlzQ0RRVy1WR0dRU3UzYk9VeTVoN2xYbmpobkRGcjc1VHJYZHVzbUREVkR0aWVadmVZS05oWHJuRlIwM3ZxbWVBR09DOEJCZFNtalJsZFBRbHdmUWxvMG0yZk1fS01pdEljczdmWjlRWXdsejN5bmdVclk2TVFSd0VobjRqZnZhQWVEakstTmE1QTBhb01QLS1xdVVJbm5N?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:12:05Z",
-    "hash": "d0e6dec695234450541dce62f09681158f39af36792ab00c48f525a851e8dd28",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk on the future of Alzheimer's after disappointment: “Too early to say” - medwatch.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rRnVUUWppUl90Sml0WWJMWFJoR0xiY2lqNUctVmhqRXFqNGUwMkZxZWJXSkF1SlhGWFZmQUR5UWdlRnVMazB4TzZtQ2VJaktPbWlhUjQwejZrX2dBdUVXbXo2UnZ4cnduZFd2NWpxZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:12:04Z",
-    "hash": "aca19ed8003b0184dd2e70926af5bad1c35ab08e705f164f1ee91c7a549ee7a4",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Malicious Chrome extension skims Solana swaps with hidden extra transfers - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOODkyUGpyNFBCSEI1TDZiQzZxcnlfTzBRbWh5REN0bkVweTdtTE1yRDB0Z2wzbzNwTXg1RHZrWlhIdXR1alVSWWpNcUR4T29PbzIybzcyQ2t0X0M5Tmc2dXdiUFkyZzZ2eE9nT3dnQjUzajFhSEkxWWlLUTYzY2tpM1BIM19xbG9ST1lMcjJOTTFxaHBUOHU3cEI3ZHplOWJHeUtIQjcyQURaMWppUnJQbmo2NU84OFZhSUJGZTZ6WVN4MEtqSVV5ZDE1ZDZ2ajc5ck1R?oc=5",
+    "title": "Solana ETFs Break Inflow Streak as TSOL Outflows Hit $34M - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQXlNOG1DSjAyc0N1dGVOajlKeDI4T2NPQkpsQUoxZ2szY2tmTFJfN05OUzhwMHprMkZZUEt0UWFXUmFJR1dWb0p0WEo1bjdhRDdQU0ZnRTFCTzhabkpxX2tqZXdFUE1MTktjbmx6Vk1wVVZzOU9aVlV0V1lMUjFKYXYwQzhVRUhFb1RvTTdNOA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-27T14:07:24Z",
-    "hash": "1ac3297ff8072efb64d291f6e1b2ffe41dec94b8f7c705efaee9f4ecb02e4fe9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Ark Invest Buys $16.5 Million of Coinbase (COIN) Stock as Cathie Wood Signals Potential Crypto Rally - Coinspeaker",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1RnSndoeTVlMkl2X1N5bHlJODhXNlpYVHZ0ci0wNVloWEZtbm9oaEN0QU96MnpPXzFFU1F2VVZzSHlhR25DVnZsb1dyeks2YWVFaUtCekd0UE93QW9YZTZEbWxDYS1DVWY2eFdvdldySlJxU1ZvZGFQTmdMSjVLc3VMaFFVTTltUlBDbjgwZW9OQU1RU3R3Wkt0Qk1OVW5xdm9yX3R4Wk82VGE2RlBOYkZxb3lwTG5LeUtFbkRYcEZRTjdt0gHKAUFVX3lxTE5vZFJmRy12b2MtV2VvQmljWDdTb0dOdER0ZkJPbTdrUUhWeGpKcGxVMG5TTVphWUVMbnU4LThvajBqSnM5UzVZbWVxLW5NbVVaQnFIUldieFp0STFXbElvRGZxcWpFOW1Pbm1fREI2Z0xyZl9GMWlsQzBsWE83dDZnc01rRkdMSWpQUEg4WW9NdUZCaU5TbU5oTnVNNVhKOUxlUVZSclY5TFhDXzkwbFlPT3ZHNEUyTzRxc0UwMkZYeU41ZDYtMWpFMGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:03:05Z",
-    "hash": "28eb2d843db9dd854ff325b138963ea887fe805a0d22161f1086a53d2d50a136",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "RKLB vs. LUNR: Which Space Player Shows Bigger Potential in 2025? - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemdTeXNJcGFncGEtZVpQaldTNXBDN3QteVFNN2JRckRBd2cwMlhxRDRGUVRuemFzWEpra2ZaeU12alpOVWkxTm5kaXQ2TGJ4SGtYeEFtRVFCTk9iWHhlZThqTDJyUTVpdkJwLWxLNXB3dVFkWWxzY2VGWERoWUZXNG5sQlJiTWhQLTNGdXEwWFhRck9TVG4xcE44aW9xMVB2NnlYdDB3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:03:02Z",
-    "hash": "ef94395103c2e6674b17f3d88cec20643e626c3fc632cd4160c15bf0f834db79",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Has Bitcoin’s (BTC) Bull Run Fully Restarted? 4 AIs Share Their Take - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNmNTVWd6YXNHU2tVMzJVYmNVbDZHd21HZHVOTkVuM1R3MFZPSDk5Ul94UWxtVkJJTUh4UXktYldqTV9LQWRZRXJ3V0hCNHVkRnpWUjlGNklSNDcxRjltdUhBWXE2YWpNM0xlTU1FeXpRdk9nQ1BOUmtwZFBJWjM0azhGMUFtSm4wQnJONzlEQzk2WTdk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:03:00Z",
-    "hash": "e447ba64d88633a21cd7f11e22af6b6a7cd5aa024643045f90e81a3062ce44d8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Best Crypto To Buy Now As Bitcoin Price Reclaims $91,000: Experts Say These Altcoins Will Outperform BTC - CryptoDnes.bg",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT1RMU1dWOTVESGpvS3RBRDJFSHhlTVZKRms5dTAwQ05hWF9lalVDSzJvT0tPYkwyWGRSR2hramtwQ1JrQ3YwUV9iWFJhbjk4S3NOd3dSNUh4TzY5cmRBbGpsRVhibGFtS1VScTNKTTFOM19DYl9UbjJGblRjcUVqcGo0WGx3UzNob1luTTJUbzBkS093Tkx2ekxnVXBrcmVMUWdqOGFuaGhNVy1IMmo4Q3hlTHNsaXJMNndXX1pkWGhIaVhBaWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:02:06Z",
-    "hash": "3bb293f2165577b91cde21ee1a1e46f4c343e91b47fc1409dcebda4920106f02",
+    "published_at_utc": "2025-11-27T15:26:03Z",
+    "hash": "916a16fe0deb73a0fae4ba971911644683e303c794cb579e8924c761e729a1c9",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "TON Strategy Co Stock (TONX) Opinions on Coinbase Trading Launch and Nasdaq Reprimand - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeHJsV2E3WkR0YkhEQzRhOS1PMDhGUEZWOGd1WW1PR3dRdWF0Y0tGd0V1ZmkwUExBNzJCYWhFc1NVcDdHUVhNZW0teHNielczejdKRWFGVWhOQXpsUVRGbmhBbGZuMXNwTzZPVG1iVXRRa3l5SzFCV3BUdGxmc0FGMzlyQzVpRVJwa3otT3EtQWVwQXY3cXdGdGpTVWRvSjlXelNLVUI1TnpGQkVvNnZxejRMbG9YWVgwNjQtMWJJMA?oc=5",
+    "title": "Zodia Custody and Deribit by Coinbase Expand Partnership with Fully Automated Settlement on Interchange Network - Crypto Reporter",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR2h5aVlpMjFVTEx5cEwxX1Bpb0otSElxSzRDMVg5TjJZY3FsZ0F0MHNISjZJSWQ1UEpZUDEzZDd0Vkp4Y01aLV9sOHJxaHFlSHZibHF0Z3hKTnF4X1ZFSEp3UW1zaFhrSUU1SVB3dVZteWhJd2pBX0ZBYk1vaHZaZWtxUHVEelVHUXZSNVI0MElpWUxqUE95NE1JZlJ4QjhiR0ZwdzljbmdlZy1QWFNVeFU2MEVFNERqdG8yQ0s3d1JKYk9OU1ZyVVhLV1JscXRQVTlQbXdNaUFUY1gzbjZWWk5PNC1Jck9LMllEMkR3Nk5LRkZWRmQ0LXRB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-27T14:02:00Z",
-    "hash": "2efe126550d166c6be960ec2c4f5b78cce7af8cad3c51d1e3514178b9eb70ead",
+    "published_at_utc": "2025-11-27T15:15:39Z",
+    "hash": "f8ee46a53f05e7912995089127b2cd58c3687b729f1e4a3815eda4b1fc37b459",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Bitwise CIO: XRP Improving Value Capture With Staking Discussions - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLWpySEVyZ19MR3FUQzJsTl82ZzY3S1plS0xHM3JEblB2Z0EzZkl6SGRpM1ZRMUlWdkRUOXQ3RjV0Q3pXYjdQdUVaaXAxbFhaTWNxMm51RXZ5SFo2aWV0M2NCVGdZa2plblBrbUdxeU5QV01oUjRFdDY4MmhKY1FKOV9mYVZNUC01cW5BUEpBQUw5b0k?oc=5",
+    "title": "ChatGPT Predicts Price of XRP, Cardano, BEST by End of 2025 - CryptoDnes.bg",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOUxKMlZTRFk4UzJTQk13eDRpVzQyQUlRUnJYWTltWWJjOHE4YjlTTEJ2ZWtzZVloLThfWm05ekVNOWxFUm8tUm5TNjFiZV9HUFUzYUpwV1U0cTd1Z3Y5MERMUVNDeFE3ZFRhT1BYNmNiV21Eb1hCNEFMTFducTc5MTVnWDI4cU4zUWJ3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-27T14:00:55Z",
-    "hash": "0e2e5deb2f34993cf90e3d836371dee8596936154c79c650a7a9655f8c43eb29",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Dear UnitedHealth Stock Fans, Mark Your Calendars for January 30 - Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmJQSERrRGVLRG01bnItSTAtMi1UVkdHVFFZZHdlMXNMTEF6MS1SZHg5WTExOGNWOWpqNFpfb3Z6R255bm5RQldmaGJxSGdaamRyY0RpMzVNVFIxZUZhazlEOGhIck1uX3FMU0FwaGFvZEFaekRMQjZHcTdHbnB3d2UwQmc3dnc5NUJnS21TSVNjMlkxTDZMTWVNWll1SVZ1VkhHUjBWZnk4c1ZK?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:00:02Z",
-    "hash": "898f72897cc484c064ca247efb737e39bfee938ebf67c0977e2e5e6519ec6492",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's Latest Beat Proves AI Isn't Cooling Off Yet, but Is the Chipmaker Still the Best AI Play? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVBOdnpKeXZTMjhJUTVyQy1TSzdYcHZsdEtVX2NaSHJ0VUlTTkdXeG8wMmpWY0NUdlA0U1JhNF9nVFhORFpOVjZGRXhOcVhOaS05SEo2X09kb2lrWWJaOTBWRTdWUUlXUTVlZVk3dWR1R1N4c04zX1ZjTUctczNCQ2VzcGcwNlNqamJ2TTVEN19KZ25QVWl5TA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T14:00:00Z",
-    "hash": "1f1721e849360fcfd19d209f36b857bd4d1b441d5c7496c7c004ea38f93a2e02",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD Shares Face Pressure Amid Potential US Defense Blacklisting - primaryignition.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2RBY2oxWU13ZkM2MlhCcXFPWk1sOXVVYktOakZfN3k2RkZzWlNjcS1WeFQwUkl2Qk1aVG1FN2dkNUZhdGVtWktWMEQ0dnRXSlo4cWRWU0pMSVFIbG0wVWxOaVdZVTJ2bWI3UWFCaHUyTWxOQXd5TThMUGg3UDFhLUEtOXRfWmo5cWcwcWpkQmNuU3dhODJGT3VacjBQOFFLaUltcFZ3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T13:56:34Z",
-    "hash": "ced3c168f0327f9ecf54ed4ece2cae882034bb26585b14987c8e2c90ccb13c39",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "AMD Stock Slides 16% as Meta-Google Chip Deal Fuels AI Competition Fears - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRVE2bFFaa0MwdnBrOFJDdmN4SkZzRWVBM1dPQlVJb2pxdXg1emtBUmxEQjV6V3J0MVlzTGJhOEtFckhEa01vTk5ncFZjaDFWbWJQbDhlN3dTMGJmMGt6cFMwWVYzTkh1R2REOEZqNG85V2FFMWJqaVhsZWFZZlNmVzFVMFdycUk1N2dOVzM0eUExVVpxaG1TdW53RGI4Vm1Xbmp3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T13:48:57Z",
-    "hash": "6c05caf7d9f016c70ce67779c9fdfc9c1d0211ead77d84f3ce79a6f65602b64a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Inc. $GOOG Holdings Raised by Vinva Investment Management Ltd - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM3RzdmpQMHhoR3hFdlBoYWYyZ1NpM0dBWjRYU3FGd3ZaSFlBQjRfQVh0bWUwaV83VFBrQ0RScjVCTVdNNm1xZVVhMDRZYkVvYlhuWUFKamNHOEZwUWZ2S0tIZkF6UTJTbWI3WHBHU0lpbGVSUnQ5SW1kV0hGdUVzYnUtbW9TdlctLXVxb0xQN1hLWEVkUFhhVVlyTnJhNUVWR0V2VmJELWc2cC1VTjhBd0QzYU9HTUFSRzFvVnNGNnJ0d0s2aFQzNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T13:45:26Z",
-    "hash": "22afab3e559e9dbcfa8c08d26ad643eddb8643b504357ac125ec996104e06f66",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin Price (BTC USD) Surges Above $90,000 Ahead of Thanksgiving 2025 — Can It Really Hit $240,000? - Times Now",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQblpkMUk1ZC1mY2NneU0tZXVxdi1GMXdkenlGU2htczZoSDhlMFdmQkVDTVJEdDNzeE85T3gwTGhmQXhCbEZZNGJfaS1ZLUxVbmx3MXU2SzFPVEpZUloySkhaMWIxMVMzRjU1YWl5MjMzaEVvcE9LSlNodmVaSFloR1VnNHUtMl9oNGxKX21kLXpxRlppUjR1alFLNjV1U2VmcmVILWZXMmJIMlAxdHh5VzNwcEJuM3pCNjdvbEN0TW1RQklvVDIxRUg3MWVCSHNIQ3VwOUNSNE5uVmJ1MVlidVRYblJWVFRZaEJLb21GSzdQeXBDRDhN?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-27T13:42:56Z",
-    "hash": "52620b1e054841e70bdd5922903c1b2f50c634650ab8cdfcf8b89aebc50a097b",
+    "published_at_utc": "2025-11-27T15:08:16Z",
+    "hash": "5e56a2fe11c054901a19105a4c964047cc8275ac5a40b11a6aef5184bf21984b",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana ETFs end perfect run as 21Shares’ TSOL sees $34M in outflows - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0Z4V0ZSX3FjR3RzMnZMVkZBbXJ3bVh4aV9KcllaR2xGdzNOdmJfeDJRaTMxVU9OVjNxbTl5RzlwbHhhcXlUdldCci1FS0xTcXFRYVJBR2tHY0w4ZmhwdzE5TE56S2liRGFtMnlxY2YzSEZQd3dXV2ZJTGdfX1hkRTRCWDJLWWRzUVVsdkw0YTJ0UFBiRlV0eGFkaFhuUFpNSXlnNldPNm1XN1BmZlN6SG9VMkduQmtsQUpDNnRSVTN4RUNaaUFNTw?oc=5",
+    "title": "Whale Accumulates 49,165 SOL As Institutions Seize Market Dip, Staking Ignites Solana ETF Boom - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcmFvNHZsLTNrWENvbUlUT2RSUG1WZlpNVkFrR09uSG93b1d2VlNteXU5clNRT1ZQdXFVbnBlZE9pTzlKUnNJel9ScXhfdVBTOE1lbktMLTFRZFZBY05yZnh1WU5XMTBITy1rSWYzMnAzZWhRbmZBczlZV0FJRUVXeFpMeTRrWFpxUDkwUWRUUjVKRTE4UXZuc0pTNmFtdlhfd2FYbGFmN2FhVnM5eEVlQndPNzNLQU84aGdWYUxFOTFpQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-27T13:40:35Z",
-    "hash": "ba6aeb9a64f34dfd343ec5ba936d0e777eab960cc1dd7b08af2604a9f279fda7",
+    "published_at_utc": "2025-11-27T15:02:43Z",
+    "hash": "5953719847eaf5368bd8e5a55dbd62edae8223eb37aec08e6630b5d1be19eed8",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Whales’ $4 Billion Sell-Off in November Is The Highest In 30 Days Since March 2023 - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEl5NmVSeGRxNHloTEpWVlAwaFdYRW5sWXdGTzVNb1E5eklvU1hLMUpjMjBzVzVxbFV4Smtfcm1nV0dZekFpb1RJUVVZNlZUamV2bkM5WGtjbXNhWkFqSjVBZWVCNnlXaVZQSERVejlwMVh6WnBKLU1YLVNDRHhQVw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T15:00:00Z",
+    "hash": "b3b765fa66c35160edad1aa3965f3a47975a53ce4b5f6e20c35f9eec3511cffe",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Nasdaq Firm Doubles Down After $200M Loss – What Do They Know About What’s Coming? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeElnWnZfNkdxcF9SdGZrYzFMRUZqaDNuN3NhVWdfLWNkdXYtUTdSV3VJOTExcl90NHJyczQ3TlN5UE9zSGJOYkxsaldWOXJGaEJzZzhEbi14Q0lhU25TQWZKaXhwel9wUjFXdy1lSjNsb0pmX0xYSmFjWjd3U2htaUU4M1VnVGRBYk5pZnAzSG5pX2hheUZsbXU0Y0ZUTHdPRXlYTHh1YXJHN0MwZVFUZE94Z3BJS0h6QU5xSmIyY1hVdUdDN1E2Qnln?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T14:58:08Z",
+    "hash": "c783db3118178cf5a42f9d9141dd19e3348692330de2d4e6b06634510d01e66e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Ethereum Leads Crypto ETF Inflows With $60.8M as Solana Dips - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGxOUGd6SHRuU3NzR3lYektTZ0E2U3B2cTlOU3lMRmRlQXJkVTZ1anpSMG81RDlQZTBUbGZvYzk4R0U5N3ZrZktndGNiRTNhUjRncXpkWVRJSFVhQW5mWnYyOHE1Q1loaWdXVGM1b0Y5a1FyTHYzLVlod0o0dzFWUGtYQUJiVDdvbUR0MQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T14:57:35Z",
+    "hash": "4275fc0cf18efa19a26c86acdf96a315c8cf6e96c66a86ea6bfc0b876a6b4daf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood (HOOD) Stock Rallies 10% on Game-Changing Derivatives Deal - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakhobFFXdW9zR2RzSHdfLWgtZEJVMXBxYjczdEtTaHJzVXBOalhWbGx0OW9uRTlEUW1oT2ZFQ002bmtkSmlfUi1ORmdvWVZncDJ6bE00dGR6blpySnpZeHZzODFJVVBwdGh3bFluWUlQenMxaGN4bHY1VXIwQmM5V1EyejVVQWtjUnhqMmY3WnM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T14:51:24Z",
+    "hash": "b2e9366700a360d86c6a4d37e2cc9046c10efee2abd22aaf85912affb01a7aa5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Floats Near Resistance While Analysts Warn Of A Possible Pullback After Recent Gains - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEt5NDY1Smp5MFNLcFV6M1I5MTN2NGZBck44VWJSM3R0WDBkV2ktbE5XR05QVUdJcURwVjJIbzduV0RKMm1YOGdfQ0tyN3pYQ0ZYV3FsOUllU3hNVW0xLWF0TW50SXlpeHJrRUJod2ZWMEpueUprNXZtR1NlNnY2bHU2aGlrUDE0T19XdWRfNFI5OFZDMVZBTEFDNlBObVEyczgzUkRPM1hoUlRxSURDeUxXbGJlRUgzQ0lqSTN4MA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T14:47:07Z",
+    "hash": "b95908157ceb3d66502350b3c1587b05e1ea1718cfc068bdb16975929afc52ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "US Solana ETF, US$8 million net outflow…22-day net inflow streak halted - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aTnZnME16Y09LMWN2Tk1xMzViazU4WnFCcmR6bU1mZFotR1lCRnYtcUs5NXpGZzlKWnVzTW5wRTk0UTJzRUw3bS1hQ1dhNDZLdGtkZg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T14:34:23Z",
+    "hash": "0de27305ff9d44d799e1ee319e1d7c6eb8af5664d68222b3fce39c03a68afb39",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana ETF Debuts Offering Cheapest Fee Structure Plus $5B Waiver Boost - Crypto Economy",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcEUwcXZ6Y0VWVE40YTJObVFMRXB0R3hrNXIxSHdRQjlQWTJCZXlFYU9FSzdtb0R6cllXVGdMWTVzaEF5bFZiS0JxUDgtZGZVSmRsUnB3VEtLY0dzSDRkdnlsMnlXdWY1V1hiTHdSVzdjb0tqN0s0d0FFalJiTUpSNGxxVEZpcmNGbWRqS0pHM0ZGZmF3TTRtdExFMTEzeGM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T14:34:21Z",
+    "hash": "4d5b0328ff3b15c5b0951b0605ba54adf07e6b0889d602d2b14aeeb8613ffb8e",
     "source": "gnews"
   }
 ]
