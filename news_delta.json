@@ -1,32 +1,72 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin (BTC-USD) ETFs Record $21.1M Inflows as BTC-USD Reclaims $91,000, IBIT Turns Profitable - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RallpUndQVFdtUTE4Z1A5MzJfSk81cXJfQmttTUF3dlFzTENnaEhnWGJKampjZEtFSkQ5SV9qOWZhVGdfVkFmVTk2RllfRmR3WVV1dGVad0dZLUEzcXRIQ3NGaVVEWlk4b0Z4VDNmN2cwbnJJMERn?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "SEC Set to Examine Tokenization Rules With Coinbase, Blackrock, Galaxy, Robinhood Joining - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOHB0b0NCQTdidzZ4TFdySk5PU0hhZnoxTTlRck1QSEdRcElVd1VuSVlIU21ydUlQaGVJdnNFbFZXT2MtTUdZdjBza3p3VEVDaGI2WU1fRHAwUUZVV05FT1dpNk5OaExRbWtEYXFraXBodkgxaUVaZ3NiUUl6TmVzS05XUXJzci14Q2dtX3pmbEpkSTBKRFFheFB2TVp3QmxoN2xaRmZJM2EteUFGYjZBZHR3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-27T22:12:40Z",
-    "hash": "f001249033f6beefddd6e5084c8745d4199d9544e6ba63e0f25fd9ac633e24a9",
+    "published_at_utc": "2025-11-27T23:07:37Z",
+    "hash": "4a9ee269943d0345e95bf252dbda49b2da11d169adc21ef43ad988c6d5b78dff",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: ETF Inflows Aren’t Helping – Is Something Seriously Wrong With Ripple Right Now? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3pZbDJ3U3F1M21iNGtWWHpsbHpkdXduenNDUVVzYXVsR015TTgxeVZickxUYnotLWk4czJZRlpJQkU1M1NBSXZJRWEzUmRzVDRSdk0tT2ZmVHE4OHBTSlM3eklMdHdtN0N5UlVMWDIwLU1LMGo2QjVXd2E3SVhpUVNzUmcyNUtTZVhQSzZtbVg0anBXLU1CRm0xeHFVZnBZZTY4QUtyT3pad3NJUklKZWpPQmx0SjFoMWlTX21mRG1nN3BR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T23:01:00Z",
+    "hash": "3a2907a8ddf2709c6915c9daf4c56b6ffcf93e6b66abbd6cb71a8cc4ad104be6",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "HOOD",
-    "title": "Analysts Offer Insights on Financial Companies: Cleanspark (CLSK) and Robinhood (HOOD) - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPM0xrTUlzaEJyUVZYQjZPVmRCemhkWDlXeVpJZm1KdVhrYUVmVmdmY1k4cV8xeVRscG1mc1UybW5jVDlOclZhMHRUbjZXUHA2aHoxdGRldm9Kcnp0OEF2c256VVpWcUxiUklwMklzNTRHY0tuUHlFdmkyUm5qZUdRTGxnOERVUmoxVVhSbHROaVBCOWlFSjJzSmZQTmd5OHp6NUZOMDR5cHg4UVRvalhkRGhIcHlKQUZ4OFpDU0pyOWdLamhFS1FLVU1kV3g4bVN3WDVaRXN6MmRZc2ZDbDZ4VU03RUs1U1hQZnRaMVI5QmIwSF9BUUtaZE5WWQ?oc=5",
+    "title": "Will HOOD stock deliver better than expected guidance - July 2025 EndofMonth & Community Trade Idea Sharing - BỘ NỘI VỤ",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUNRRWg1TFJYZ0F2OUVyV2Y4blRHODdSOV8zbjVLR3d4aHlpUGNVeWtjVjZqN0RLajJqQ2hXTVBBWFRjaWxhejZyRTlzR0tNR3dtQlFzcGp6WVVxNmVfWEZBZ2lEaGhueGw4MFZYQ05laVF4YUdaWGVJYy1IY3dUeWhtREZSZHFYZllj?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-27T22:01:33Z",
-    "hash": "dc1bfc79f08a7d2832eea6be8b8f38179250f80bbc4045f08c231e4885ad60c3",
+    "published_at_utc": "2025-11-27T22:52:47Z",
+    "hash": "76655432206d5e542d8b9452e2b5679e60035d49ab4d5658959ce82eaf8f3044",
     "source": "gnews"
   },
   {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Is UnitedHealth Group Incorporated stock a top momentum play - July 2025 Review & Stepwise Trade Signal Guides - BỘ NỘI VỤ",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnlJZlRna1U3ZlltdjcwajFnUHpHZGRDOHYwdmFGbmdiQS1Sem8tbDVuc0hoMjVEYUw2azFOWXB6UlBrVERiT2YwenNDeWpaZGhsd1FVbGdUQk9fUkVzZUpUN0lXZ0V5X1FReW9FeFJvM2syVnJhTDdPcWJ0TUp0cTZYTm5zNmVZNnVMdWZ0WQ?oc=5",
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "Ripple’s XRP ETFs (NASDAQ:XRPI, NASDAQ:XRPR) Surge Past $644M in Assets as Institutional Demand Tightens Supply - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1TzN6ajlWMmVjWjJwUWdiRFZFZjMtVUVUNklhOElTWjl4VUIwdDZiQnNJeWl6WFlERmowSVNlN3VLMzFNLWxiRGloZmJuaWlPQ2hEaXAyZWVzbmhpOXFnODNHT3htTEkxSUZxeTFPR3pPNVBvaGhEdVlR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-27T21:56:09Z",
-    "hash": "a8626c4e69597717ac0b7417531916ba5c80a1f458283b8e91604ce6eab8f5c1",
+    "published_at_utc": "2025-11-27T22:47:40Z",
+    "hash": "fc076d793015892041a544f1fb740aff0b8f05573bed8f291fa025e7d9639576",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Best Crypto to Buy Now – XRP, Solana and Ethereum - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWl2ZTNnRkVzZGJNN0ZZOElleFRfaExSRFV4dUVTcG5jN25aQ0lvRkhnNnNqV0tzOEdTM2tyTnNiRFhMRmhfVjJBc1dVZEdLUHZrLUx3NGQyN1VkbUVOcG1PbEdjbUVRS21iYVdqZzdsdXhRR0hhZW9MUmZiQjZqLVJDWTF4aUZTNEVF?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T22:35:00Z",
+    "hash": "ed7708c032a762f6832294c01296688bf494174fe1fb253ab397a3d34269cacf",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy Now – XRP, Solana and Ethereum - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVWl2ZTNnRkVzZGJNN0ZZOElleFRfaExSRFV4dUVTcG5jN25aQ0lvRkhnNnNqV0tzOEdTM2tyTnNiRFhMRmhfVjJBc1dVZEdLUHZrLUx3NGQyN1VkbUVOcG1PbEdjbUVRS21iYVdqZzdsdXhRR0hhZW9MUmZiQjZqLVJDWTF4aUZTNEVF?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T22:35:00Z",
+    "hash": "ed7708c032a762f6832294c01296688bf494174fe1fb253ab397a3d34269cacf",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Leading AI Claude Predicts the Price of XRP, Shiba Inu, PEPE by the End of 2025 - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0EwZXFMa2NZeTlsREVGcF9fREZvYjgzVzFwdGNMWktBRUY3SzhOWEhWSTVYbFBJVnhuWmh3VnNraWdEYkNMYTJUcnJkU0RXZ2pyQTJBSEp1U2JmbFB5SzFYb19EenVsUGg4aHBUZmlIMEQyX2NOdEdORUtCWkdTUmlzM2xYYTVDRG1UaFVpOUE4SUVuZV90RXZTYU5ONG5lYVhLUTl6QTRWQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-27T22:30:00Z",
+    "hash": "f6e17d1a82c053f8aa525f71414f06aa77f1471c3f48a58f9134a566a1cd742d",
     "source": "gnews"
   }
 ]
