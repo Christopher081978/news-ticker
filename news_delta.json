@@ -1,92 +1,52 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Bets Big on 9 Crypto Sectors in 2026 - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzdnaTN4NC10MTZOQ2dwVk9UeEM4Rm5KUVRHcU9ZN0NnUnNKU3R0WTdFQnQ4TTYzUWNfVThSYVM1Z1VSNC10YjZUeXdOVHp5ZVljWUE1NGtadDZoNmxZc2ZJUU1VLVFhdUtqN0ZxT21iX0MzT2x0QThGeURReTMxdWlnUmYyeWR2aURyZS1zWC1uXzc1T0l0b01hcUtFcmZ2QUVj?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-28T06:30:00Z",
-    "hash": "8b9e28a071cc1f041166e106625cc8013f25e88c634dbd1066f6bf585b0950de",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Memo Calms Investors as Bernstein Reaffirms Outperform - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0xBTUw3SUtPUXlhMmRJbVhnVzNkbm9uQmxvRTM4QTBjczlfYW5HNU5sNzh4UlE2NXFPSlRZWV9Ga19CTjVESC13RkhvbGxkRG9WX2pPNlg2ZlpMTV9CcDlXOHhtUkxWTlhYYWU5UU9QU2oweFQ5ZGVjeG5fWExyV0gwaGo?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-28T06:21:00Z",
-    "hash": "a11561858e4e1e2b99d32d716d78b54e8b2a0c608be07dfac0c6872308153532",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Upbit Breach Exposed: $30.5M Vanishes in Solana Wallet Attack - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSmREZGk1VEFyUjBoRFVrVWlPMHVDeVhLcFJMenZ2SWE0N3FrWUxBcEJydTYwRHV1cDBscTRxaXBpakp5VzlRRFZpdVJqZlRIdHlHXzZFWHJ1WlhBR1Bmb1pncjNobFRUZEotbHRCUkJMMEFuNnNwMGFnbEd4WE9LY3d4WDYtck1BOC1EcXJBdW43M2pXSE12LUFFcXZuUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-28T06:05:00Z",
-    "hash": "57b2a76748e6016898116cb513be27b959bddc554b89cdd7a2c7660fe6c1df7e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "What technical charts say about Unilever PLC Depositary Receipt stock - BỘ NỘI VỤ",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHE5R2xTczBuZkNhWlVibE1OYTdwenFhOXFEdU1DRnR2WkdyNDJFanNUaHdmaXFlYjRCTF81WVBmWkhMdE9FR1FvWk9KVlY0WjZFblVqYXNYWi1YYURQYVpwVTZWUlFIWHlqRVZVTUxidmIzNEl3VW5OdTBaNjZyS0p6aGVDQkhCLU5sRVUyVDVjZ3VzNkZIdzhObWcwNWZs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-28T06:03:31Z",
-    "hash": "66383798015417cfe617e8f37969dafa54314c0aa12e395afba1982662392a03",
-    "source": "gnews"
-  },
-  {
     "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Forget chasing the next Pfizer: Singapore’s biotech future lies in innovation, not giants - The Business Times",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbWVyM1NOQ1c1REZxek41UGhGakpiVGdyNW5sYmFSQWdGcVV3MVNvU0hjSmNEd190c2hkeHlNMFN6bUVFLU9nWjBtbWxSRm80WmxXa0d4YU9mT0xIeWhMVlJBYVZ4aV9SSFg4ZTdLUWxPLTZydkFaV05IVF9WRDYwY3VXNEpJNXdmb24xUFZldmRpamc2eWMtZDVtaUxLekhxN3BhblduT2dlSjBhR0dmdnVGa3A3dHo0aGQ3eFRpUVVjcVpUVGlzaw?oc=5",
+    "query": "PFE",
+    "title": "Guggenheim Lifts PT on Pfizer Inc. (PFE) to $35 From $33, Keeps a Buy Rating - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVDlHNG1xd1ZKNi1EQllYcVBjYndWSjU5YVVhUlowd2RTdEpxMVBLWE9SRUZkd0lxclFoTlIwM1dQRGZmNG9MZ3hfeEowOE9zajB0eVdERXlTRThUampFS3NOZGRnbjd2UkRUU0g4bW5NTllRTUFicElDT1dvZFlaSk1qbXR5OUFoZHJ6Z1dZQlhfbF9HUWtIckM3V3lqc2JFYzJ3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-28T06:00:00Z",
-    "hash": "b8e5aadd24d6aa0b339d022e3222b302ca18e57f410448cde4534f869c2730e4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitcoin & Ethereum Brace for $15 Billion November Options Expiry - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdk14ZGJrS1k4ZmVLd2k2ZmhGd1l4ZjJPZHUycnVqdThoTTJNY09xQ2JVM1lYdVUta0VmaHVfbkxMNzVQT3ZEVjFBMnNxd0FRRkF3RkJaOEVvNnRhUlktSkhpa1lNWllaU04yVHNPVnRJZVNxNTd3MGtjcW1ReGNScUdn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-28T05:56:00Z",
-    "hash": "4a159e4f1765d671d4c4bdc482e240732c9383712313ea35c9631f92ca4acaf2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Stability: ETF Demand and Institutional Investment - OneSafe",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUE5UQ0ZSdjRlSVZuTzR2OHhla2xfNm9COUpnUnVnNk90R1JxNTJIbHR4MTU5bjNjZTh2Z0NGX0JyMzVmcFYwQWNpYVc0VXFKZWpLZWduMUNzMXZnYXdxN2hkZXAxYzM0UEFvbzY3TUphbnpxckdUQ1RTQjJtRV9KN3REdjFoYlRDTF9V?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-28T05:50:18Z",
-    "hash": "962f9510ac7880c07a345fe567fd08d6859755e39df777a073d4ed5624404ce7",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "How Will Crypto Market React to Over $15B in Bitcoin, ETH, XRP Options Expiry? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45NkVKZ0MxSDVsakZvZ1Azb2hpN3RhUVFUV0Z2OVJQdmVINFJRS3V4SThFM2RSZHFKLXlyOG14MGN1cVc3N0lSZElnSjJZdWx5Q0N6OEFXWElmRVppTkFsNVpzSmlGWThxYlNwaFhuRmFkRWtzeGNxX3kzaTgtd1k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-28T05:49:00Z",
-    "hash": "a025141dd1967318bbd637eed6915aafe39dc92deb0b1e173d9084aa9aca1532",
+    "published_at_utc": "2025-11-28T07:23:51Z",
+    "hash": "fa48e6b485167fea08b1c451774c7943bb2b7d3f79b568af1349a62c74c8c9d2",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Community Hits Back at JPMorgan Over New BTC Notes - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1NEUTU4TEIxX0JidklxSUR6VGxXNDRfWHNyVmpiM2ZwX0FmN0EzbFZYbWpPMXlyZzJDT1dlNEI5QVJiZTAyUmxzaWJJSWExc1lNLXFCajhDT1pXakUtRGNacC1kX0NZUTFDOU9Gb0NSSnpScDFteV9rVWQwTTJYdWs5aW1UTjk4SHF6ODdCdHk?oc=5",
+    "title": "BTC, XRP, SOL, ETH Price News: Some Predict Bitcoin Move to $100K but Little Beyond - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHFJTWNNNUtrS0g1MFNnUGlTRjh6QTJQOEdOXzNxUUp3QVQ3SGM2NzRRcXFDRDFNZTFTTFhJRUZURjhibXEwOWg1aFVwNnZodkVLSm02VTJKb1RyenB6dGJQUHN1QTRXc2JnSUZoVkNZMGM1OU9CU09kT09pMGs2TGxZR3JnMXdQdkI2NVc1VlZSb19iQ294TS1DVzEzLU1MRXd0YUhjV3VLeWNBazMyajdiWkhrT29kb1JtcUdVY2VfV0Q5dVg4VU1ubTk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-28T05:33:45Z",
-    "hash": "2438772925f45442c2015f59857745e9f5da8e7b6b3c162ac09e64c721d404ef",
+    "published_at_utc": "2025-11-28T07:12:21Z",
+    "hash": "bf3822077ac2edd4e6882589c2b09136375adec3819257c613ebfc5aed8df211",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Bitcoin: BlackRock BTC ETF Holders Finally in the Green - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQclRxRnpKQ2NpNVc2YXYxN1pyX1Z5N1RGdHdrdUpIcjg0b2RDZ0Y5Tm5Rcm14bktnbF9pS1ZsRXZlNENNRjFvQ1pHclhDLVFnZlVTbUZabEtsYUswSUx1eDZtamNPWUYwQUpLcU5PQ19lSXBMTlhWem1yTHF6YlJkb0ItVDI0dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-28T07:05:00Z",
+    "hash": "555af3ac0f659e45cadfff650cde66a5ce5edf0ab920f248ed0a619cfb32daa0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy India posts 31% profit growth to INR 360 crore on higher revenue - Prop News Time",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUVyOWdKNWVjaUh2ODJCN0F4Y3VQZDktNVhUMGVZUFB0TFdxeXNTSno5bGFtajFodUQ0OTRkck9pMjhFVEhWY3ppVjd5Q1R5WjhGME5LMjNlZ3pvZkloNlhtNE5xYXlqRy1BdVZaVVBmSVl5bWd6cmhyN3g3QndGMHIzWlozeE5yX3ZXc2ExWV9KX1pIa3Nfd0FLTVp0UTRMU3Z0N3RJUkZEVzlEMFRXd3NqakotOUZTbUdvQkRwMTI2cUJHckJWMV9yTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-28T07:03:58Z",
+    "hash": "a9d47f399ec1f75185b4c7fa5dcdf90e97199b24956f6938bba995bc94aa9d42",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Memo Calms Investors as Bernstein Reaffirms Outperform - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWDVfemVVLUxFR0RYVlBWaFVvNzlMYmF3dWM4eTZnQzRDVEtFT1hEUG1KeEZfc01KSDNsOTBlWEtPeXNhQnZfYVN6RUhKNmpMdXZtUnFBSnd4Q0dBQ0JzT2Vhekp6bWdXS1NrVDUzTWtkSnNVbWZScE9zNkV0UGZ2Z2d3Q0VHN3Q4Wk1UZTBYeHlyTnM5d2w0MDd1RE1mT1RmZWJOYktiSS04WnJsWDhV0gG3AUFVX3lxTE9MMll0a2xBdmhGemFtcHl2V1BSRVdiLU1EUEhrQ0s2VTh4Y2NxRGdLbTh2SzBld3VFSHlPMmhGT0lFWDVQNnpFTTBUd09sVFJOdXNTUW0tUjNWTFZZaWF3Zjh3cFhYTHdVZnNHaG05bk1MZE5nSjduaVFlRUw2dmR4MmdfQmVmQ0NyVTZUdnBCYTJnZXIzc3dieHJGaDJraXhKRDN1SzJqeGZUdVY1dXBRZ3FaQVBxSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-28T06:46:10Z",
+    "hash": "357fc90da30e9e9127f19ae35ee7b49f1104ca5be620561d95949cfda4840ea6",
     "source": "gnews"
   }
 ]
