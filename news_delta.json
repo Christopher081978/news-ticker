@@ -1,62 +1,142 @@
 [
   {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Millionaires Are Made in Dips: Secure a 70% BlockchainFX Bonus After Missing the XRP Rally - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelctWC00UWdWZFkyX1ZsU2ZMajNURk9mQzhVMi1lZlBsOXMwdldsTEFHelFRLUlmbzVqUnF2RFFWQlFYbjllRkdoUDRJLWlJNks5WDZDeFdyUDFRWXY3OFBGMEk5SmwzVFRkd3Z2ZGc5YU0wV3lsbHZKbHBBYlRXdWdWaVV2ckZZR181OGJKU2FxNFF5S0dFVk5WTnlYUGJiLTVCX1VyYWVIZF9pa09lNGdpekJXcVkwWXhTSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:12:40Z",
+    "hash": "4dae1c1e3d1195e60941eb79ad71dff991c74f29300b835df87e32fa2d1fa009",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Leeward Financial Partners LLC Sells 10,414 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN0FTTkFwSHZKZmJCTXBuMDRlbTNURnlILU1GLXRMNlFJbnpnZlhUTG9jbUhOTTVzS3J0VDRBSUF6SHZJOGpQTDJYT2ZUVzlkYk5IZW84SEw1cGprUl96RlBGQ0FycktVRVB6U3lseGdSUmpOTlowOVJhUDZXdHhtV09tODZVcFR4Nm03LWZHVEV5a0Y5NDVRVHJCVFc4TGhKTV9UNEw3ZzV4djNWY0xnanZpNlpIT3VydWZ5cmhHWThEOHEwS1dIR2wyTFdqSmppWVRv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:10:24Z",
+    "hash": "8f01c0f655fcfad8d36c1eeb1bf9162c9af070f8829adb6d8b1a8c854adbab3f",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Lifeworks Advisors LLC Cuts Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ012VF9LY2xaT3hkX2Z3eURVVnNDU0hNTE9jdFVaMHRtdzNBaFBweU1hZW9MZUlnbTZtSFFnQjUxZlNpdktHNkRsZE02Qm1ZWkw5QWtDdDdnWXRmWWNCbXJ0U0hNWk9mX1FBbU8tYU45N0RSWTlCUnk4b2wyOTF0ZDF6VzJ0TVNqRWtlLVVRRzRSZXJiejhiOUpKcXg1MWIyWmZlOUVQNGlnbmh4WC13c2tsbWF2Qk8zV3lDR3llTExCSXY0Z0tJb253?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:10:23Z",
+    "hash": "d1b4bc4559352fa6149f3318e9d23b6b2fb6f09722b1c8400390d4a6dfa5bab4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Roble Belko & Company Inc Raises Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU0MzbTFHQ2JxWTNlRV8ycmZHYVJKWUpJckdBZHp1aWRPRVRuODJ3VVhUOWpLYUhnUG1qQjk0Wk9UbXNNNWpVVXFCWGdQV1E1OGJsMmQ3Y28wNnlQNjNrWF8zMDIzWkwtMFhWSXJ0T0syNTR6dWZKQ3lIeXY1Uk5FSmRyOU9QejJaRDU2TFF6SHJZY0V6c1Z0Q25EWFZ4NmNOSi03a2VveXpmUWZYQlFsMDdmcWIzanZUa09fc05Fb0dlcFlFMzBMeDBOSGJzQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:10:23Z",
+    "hash": "52b553bb548f773b8b7fdaf0f8ebe5af81fabe2c31bfdd362ebf27805bb603e5",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA is Saxony Capital Management LLC's 4th Largest Position - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaC02OWhSNWZmRkJuTGdPMW9fZG5uRUJsSGhRSTh4TEFSUG02VXF2YTdLSUJMRzNRLXVPUFJFZnpvckhRZU1DbDhOMUVoWkY3TTVXdlVadVNidWwxVVRmMHMxdldRaEZ3UklSZktBX3FzcUs0ZlZiUlBVRmRRRmprdWE3MVVKVW9nWkp3WU9LTll0U0ZwYVk0THEyM1FBUHlKMzRXeHk5VWhJbUxCcXlZTVB4Ymh0aU9SNWRJTHhBbnlTUW5XUGdTNEdlRVVGdTJMZGYzdW93?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:10:23Z",
+    "hash": "af18b540aec0e2deed60d9ed8faa2b3580496649a3de71db54776a0759bd9a2d",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Hills Bank & Trust Co Has $38.02 Million Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1k5RmQwMFlSQmt5R2FrclRvQWc3Rkd3YWNHYk5sX1dYTFQxb0lKb0JteVp6RGFtV2R3QWxJVDJOa1pxRlg5OXVKWW9kY3RFWTlEbW9PYjVpajUwT1ZBclFhMGt0QTJvcFBxSWZxR2g4ckhfZUhUVGNzZGJwUGZQckhnRUFzcjZsWldUbG1seTVxbmloLWh0dlNwd1dCcEdYa3JCRU95dnNBbFNqRmM5Z1FuVjhWME92NHhTZm9KSnVGWThEOWQ1N1lqeXJWdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:10:23Z",
+    "hash": "d2b493e77ab1786b9e1f5ca7113ac13382cc9e532a1d4024edd9a92e3ff205ae",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Pi Network’s PI Dumps 7% Daily, Bitcoin (BTC) Stopped at $93K: Market Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcTB3YzVkWUlTYndOUkxfanNOejBXa0RTNkFkSDFhMkFXZmhoeFZUcGs3S0Q3NkQxUDVCWHFaYUZsZDdyZ2tCZW9IYXhHejhlX1ptaEZLQ1hydzNNUFNUcDZITWtaRkJja0hJWWJKOTJDSGUzb09OSzdkRUhieUVnTnQyLUtkUndmY0hPTDc1MElDVWNreDctRWNn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:07:00Z",
+    "hash": "2de86600b6ef6c06a54b19c76c785da8d48211748340fc855592831057a9603a",
+    "source": "gnews"
+  },
+  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Upbit Hack Tied To Nonce Bias In Solana Transactions Says Korean Expert - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnJuTDhRaXd5WmxOaEdzd0V5NzFEc0hUZm1tdVh1RkNqelJUUmlmdEdLdjBMU3k3X1JoNjdCRDZPMTlTdC1KSE1YZzdsT3VVVnBtamFaLVNMU2p3ZGMyYi1XR2h3OW9rVGM3b3Y4ZTFHSEgzQnhMWFZzOHBVSmtyTXMwbHJ0Nm5HdFJjaGUzYzZILTNGMjBwMi16bDQ?oc=5",
+    "title": "Bitwise BSOL Solana ETF Adds Another 93,167 SOL In Major Accumulation Move - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMDZyWTNRdWwzVkZpTks3cWlFd3FvMTdZRnBBREVoMGxDQWlRSVFRTUQ4ZjNwY1FuTXduVFF1bVZUcFZzMkdKbTJYOGRITzFfVHFtUzR3UC1sRG1ibnQtZVktV3AwVV8zUUVrSXRYRXFrb3AyNmpTZFotWHQ2UUdvdWxrMEhJSGxpSFY1VDAtRGhQQklqOTN6ZFdNN3huaUZVQ2c1M1BWMzg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-29T09:07:20Z",
-    "hash": "f520a63bc96adc0778dfb42901d369a42fb85487500160e2e271241806159c1d",
+    "published_at_utc": "2025-11-29T10:04:15Z",
+    "hash": "ab7752c400b7795b8d98896314537ddbb867a0f37130383bbbe23a7c79262209",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Stadler Rail Appeal: Challenging Siemens Rail Deal - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTFqY0Nyak5SbVFldmZKU2lKU3hYckhDR2t6SV9CSjk3OTRVdGZpRzVSMjV4X19lUHhDSS12bm0xTzV4SFpPV0UxWG9EdjQ1MW9iZzNSTXlTVE1SRFNreExHNUJrUHRsQWVZLVUxa1I3YU9fTVBIb0tLemREVzF1LVZxMW4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T10:00:13Z",
+    "hash": "67bdb3d760509796b3570497d33ea6cdf6b0de282fcd76bac1d2e2d2b114da0d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Predictions for the Week Ahead - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTTVVWm12NkE4WnV3YmY1YzgtRUk0MkJVQTlSclpsc2NPdlFvZE5Xem9VUHBqUzlCcjk4WHB4bC1DcU4yclBpVllQMnNHU2Zod1NJcmFOYU1KaWxSRVJYNWwtTDFkREZUTVRseHI5YjFYZENKUlVjRy0wNjNzQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T09:56:00Z",
+    "hash": "2aff8ac45c2395bc0bf8614e1f36820d5b350eefd99e309446b3939a049e19cb",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Shares Plunge as Costs and Investigations Mount - Ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcEVsRnBuWE5oWFprVUZ6ZllBUGdHX195Q2hnUFFHQWpEZ0tycllySFUwUnRmZ21pVEhfa2ZQa1VFSVZOOGE1aGNVbWl3QmRFSEZDc3ljbERFbDJEdWlCY0lkdzNfX09JaGU5TnB0Zk9yaWpnVk55VW9YUTlINURjVTdxd2pZZkw3NnB6UUhicW91dXZTNTA1UVRhSER0ZkpzUFdHMFpqZnZXNFlPMExyaEYyMEVFa0o4eEY0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T09:52:04Z",
+    "hash": "5e487bbfd22e4d540ee4e27920ab97c2c97f52d80e1e1533931704d2fdf3378f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Hindustan Unilever Announces Share Allotment for Kwality Wall’s Demerger - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS2t0MVVUcjZ0cXR5TVNBYUhfYnROY3lQMjN2RWk0RXB0N1NhS0RPTXh1SGx2OEZWOXc0Yk55RkhOcUh6R00tNWNxYmJWWHdoVG5wRmRsTzlGajJZbDJ1S1Z5Qlp1aUlhb2d1LWgzRkVLcDh0Uy1zZE44NkhSYndnN0pZZTNiWDhkMDBJeFZ2RXUtVGFUcU55cm94d3hUTVJwZUVjTkNLQ0hMUG9rVkd1OWJab3R5QUlTS1ZLRndXLXg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-29T09:47:17Z",
+    "hash": "5d3c3fe432eb43c6afdf31207823a8859807a63d3643c3fb0580fc8c7ea9a4fe",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Inc",
-    "title": "Foundation Wealth Management LLC PA Buys Shares of 1,165 Alphabet Inc. $GOOGL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMUlDNnc1ZDhWeWdMd1ByaWZWSEpuY3NNY1JCNWxSbHVkS0I1Z0IxQUk3aXRCcVN6Tk1HOWc0T0NCRjFlb2pUZDM0ckplN25CQU5fQl9IVFJVUjJqQVl4eEMwRkxlT1g5M25hTTF4TUpUUjk2WkFOajlDLXo3ZnoxbzVIeGprVjVNRzRTWWdtZGdMclF2SHB5RWczZXNuTkpJQURPdmEyc29lQTVjUFVTTm80SDFWUmhXZDduQ2xSanBzSzdyLVJXRHRxUng3VllP?oc=5",
+    "title": "Grantham Mayo Van Otterloo & Co. LLC Lowers Position in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRkVYd1l4REFsUmdFS3FzaEJELTdDS3VNZFljSmFvLWZZU1FkR0RTR1U2Ykp6U0ZmR0dnaHYzQno2dktacWtCWnlURmFiMDNSckZMS3JTdXlxeWQwcVRWbzEteDE0eEgzN0NkUV91UkpuYkJmMHFTX0ZMTmliWE1vcU5OMURyMXlFdGFOdnBKRnlhTnR2MDZNWTRoeEhSdDJ0YnFsaUUwWUlDSktZMU9hSmd5RVhjelNxWExEWS1QZVozYi1CczI2YWFzYw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-29T09:07:07Z",
-    "hash": "12e9f8d7a116b3c234d97ad222517c8665816c1523cccdf0c4cd8a43fd464062",
+    "published_at_utc": "2025-11-29T09:46:23Z",
+    "hash": "60e2ec29c6d1be8a7b15963a0a126bdbf984922ec7eef45e6160b476e9f34ea6",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP News: Is XRP About to Rally to $2.80? Five Indicators Suggest a Bullish Move - Binance",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hS2dlZTBTOEFfSjBiRTgyRHFLUVoxWEt3Y2FvMnJYcWRsZTN5eHNZb0Z2dzdwZ0pYeU9qTGkxeHdfSlZ5UFk3THNrWkwtandBSkJfVmd6Z21VSE9sMTFpeGMzcw?oc=5",
+    "title": "ETF Frenzy Triggers XRP Shortage Before BlackRock Even Enters,Digital Ascension Group CEO Sounds the Alarm - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbFpsNlpsSEV1ZzZNbmVFWVRtbGI3YWRuQlNoNmdKRy1sV09XelB6ei1KWVZ4WmhMQV9rRmR0U0MtRlphYmN5ZlhFQ05NdldRZ2NBYVNkUW02TlZzc3FaUWVnUzVGdmhzcEtVOG56N2dNNl9UclBJTnBFVndDZEgzZk9Tem5EWTd6M3FKN0djdW9hOFhoMkF4S0lER0dXOUR6dGRRY2pJa21HLVliOS13V0pCTW5pN0ZtNFJ3cXl4Uk9PN0Z5NTFFUmI4TS1vdFE2?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-29T09:06:05Z",
-    "hash": "94d0b3ae80424f42ae9280a63935495420c72c489f78c87aeff541c513e26de2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Analyst Predicts 10x Rally For XRP Price If THis Trend Repeats - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUJreEpnX2FiQ1lDQUFMLUVfVGYtTG1LWTg2eWdaay1uYmRlYkpUcU9fWDc3YWJOeG5HZG5aQVFMVldNOWs1NExXVS1HLTdGazJvU2Q1SmZ5cUR4a3EtZDdvOHNkOGxaQnQ4RUU3ejBsTTZGSWpMOUtSYjA0S09qV216MlBjWVN6dHhMODVzcHlTTlN6Q3pLMnMzbFExaG1udkc3MnJ0RnpsSU5NRGJSMk84UWtGWjQtbFJHag?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-29T09:00:37Z",
-    "hash": "be22567ee5bab265ff72a1a391ab9fab9422fa51f05cbf3fd30c223bc84da85c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto Prices News: (Nov. 28): BTC, ETH, XRP, BNB, SOL, DOGE, ADA and BCH Outlook - Binance",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jYmZTUWhFa2NzaWZOZnBCbWpCMXprcHVUdVdlS2hTTmZHT1VzcXM4QmJGT2plSTFmYWl1ODZkVDhCaTlGanhUbnhMeGtzRV9TbEYwZUFNcWx6ZllZSDVuekRXcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-29T08:51:56Z",
-    "hash": "e0089911326e103142a119c7363901d0349d1b3d5f936229c70ba99f0425e83c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP ETFs Record $644 Million Net Inflows In First Month Of Trading - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWVqLTVPcWtQcC11QkstWVBuMDFsUVBHZTRTdWZMNFl4VE4zMXdFbDBPRGN0YS1wbGZqcEl5RzNtN1F2alduMW9zY2g0Q1NSNjV0WlJhOW9QNTFmQ2lPbWdJczNDRzc5WWpmOTF1WWZSR214M1UtQkpkc1BOaFVScHo1ZHZjb2JKSWY5T1F1Q2U5NFRh?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-11-29T08:49:02Z",
-    "hash": "f84d77733aca61c4eb5618da36b3243f2083e19ddfda9e303d2d438ac0e5aaaf",
+    "published_at_utc": "2025-11-29T09:34:38Z",
+    "hash": "3eb2fe6db57d3894af6a279e2e07352a080b224ea869b38475296bcee5531c9f",
     "source": "gnews"
   }
 ]
