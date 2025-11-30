@@ -1,32 +1,92 @@
 [
   {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin Price Forecast - BTC-USD Climbs to $91,846, Key Levels $80,400–$97,100 Ahead of Fed Decision - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOenRZQzhwcm5xTmNJSjc3bzg3ZFgweVMwQUlIV1FrWWM4anhBT21rYnkwUTJQNVJBdTV2dmxIUVJ3OEI0NzlkXzRWUXZIc1FmUlU4ZURZNUZaOHVjTXVXQWFVWFFIZnYyZEhiWm5MTU91LWhXMW9ycXFpZWdrUmt2cHUyOWJRRXNjZjFGQjlWLUlVdUR1d04tNTRwdnpNREp4Y0lGbDRObw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T17:12:56Z",
+    "hash": "f344b991f9c3845d551018b6bc3052b0fe8960b24eb1026015fc6972f14e3c46",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Stock Market Today: S&P 500 (^GSPC) 6,735, Nasdaq 23,024, Dow 46,358, NVDA Stock, META, GOOGL Lead AI Selloff as Gold Dips Below $4,000 - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXkyU0t5M24wSzhZaEZ6QmVWQk9TRkdGREFfcWJ0NzZZZW9Wb2JuVURJaDlxYWJ5SXpPelY0STYtQnltUVVRbjZPamtaUFA2TmduRVJHVUFTSjA5cmZQZFU1WTF1YWRuUjBzc2hpX1ZoSi1TZS1GX2VjU2ladmt0X05BRUJKY3ZnNjhWcTJn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T17:07:56Z",
+    "hash": "e69560db8635e8c26f55f105d7f6b9edbfdc5d302479c35b6ddce66d8a3cdaf8",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Stock Market Today: S&P 500 (^GSPC) 6,735, Nasdaq 23,024, Dow 46,358, NVDA Stock, META, GOOGL Lead AI Selloff as Gold Dips Below $4,000 - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNXkyU0t5M24wSzhZaEZ6QmVWQk9TRkdGREFfcWJ0NzZZZW9Wb2JuVURJaDlxYWJ5SXpPelY0STYtQnltUVVRbjZPamtaUFA2TmduRVJHVUFTSjA5cmZQZFU1WTF1YWRuUjBzc2hpX1ZoSi1TZS1GX2VjU2ladmt0X05BRUJKY3ZnNjhWcTJn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T17:07:56Z",
+    "hash": "e69560db8635e8c26f55f105d7f6b9edbfdc5d302479c35b6ddce66d8a3cdaf8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "BlackRock’s IBIT Rebounds as Bitcoin ETFs Turn Positive Again - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTlRON0hNanpRYjczWk1vcks2WEYtX1BmYW1MdWlma1d3dFVndDJrZlc3ODNKb05NR2FSVUM1OEhXQVYzU3ZBMDUxZERqLWdjajQwTjRLQVpla1ZuYW9YaHdTZlE5amU0VDRyTnNieEhwWm1lSUtKWVRMXzdZeFkyVUVxcU1RMFJpWENWVjZLdmxUNUp4QTNhUXNlWEFHVkVVbU5MRmt5bTNzZ29DYVdHbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T17:05:00Z",
+    "hash": "979e04f89a9d5f6329f24294ec05bf05daf232e557d1930d915ed5d45acbd10a",
+    "source": "gnews"
+  },
+  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Grayscale XRP Trust (GXRP) Debuts on NYSE: Fourth ETF in Two Weeks Signals Institutional Rush - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHVpR2g2Q3E2akI4aHk2Nk5JUjQ2MWpYTWxXMEQwajNaUDFMbkh2RWUyOWRsNldHRmt5NllYVHI4Q0ZwNVlDd05Za092and5NGRSYkJ0V1BobE9wYmthRE9EWnRmVXpVNm8yNGRyd2w4elhQNnV5ZzI1Y19PMmtBNA?oc=5",
+    "title": "Crypto News: XRP Price Eyes $3 Rally Backed by ETF Inflows and Strong Whale Buying - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamF2aDQ4V25NVF9sdnV3TTUyWWxvZC1GamtFRVBqUDhPX1dlMDZXSVNkVGhoRTl0dTFNY29xM1dHdldtYlNnc2dmb3hwMjlpdDF4WUtLa2w2ODFjS3BfZ19DUEpJX1JfbmNxZFEzQkpfaEJtSjdSMU93UTRzWHgxTUhiV201cEJVWU40TXZFdXoxNlZOYVMxVGVMeGxFQ3Q5bTdDNEFTQVJtMEJtdjFvWmp2WQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-30T16:26:37Z",
-    "hash": "d56f41409c7ee41d8e059e69e8d7689e0b36b0961f2ee72d2cb30895d3151ca6",
+    "published_at_utc": "2025-11-30T17:00:47Z",
+    "hash": "6d536a11465f793a791497d6783548dc50ba871f5de0bebcf28943d541fbe976",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dow Jones Futures Due After Big Week; Nvidia Partner Leads Four Stocks In Buy Zones - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUdSalI2OGx1cDZCbTh3dC0xUjU5OWZ3b1BpSzNheVFiUFRJZU5ybWtGQXZrOXlBWklZQWJVLThfMkpWUndvajNoSWtSSXNyQ19mbkI1T2NXRlctQVk3NlJaMzBMWHNJcmdpWHN5d1hpSWdGSDJGd3Z3MkowVmk0dzN3Yk4tYVZ0dUo4RURrSHliNFdwUWp0WTNmWXpQLUhEaHRYd3NvdzBVNEtEckUwQ1ZYN1drQk5zSWY0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T16:52:00Z",
+    "hash": "45f599bc84171eec99b4f163aba14cc8b054cb040f9c92de5f1d99a3340fe8a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUtlTUl4dHM2OGItRy1XT3h6WVp4b3l2UXpnaHI4WjhJODljUEcySk9wYjBKY3V6WFRkdjgta21sMC1YQVZod3hpMDRjVTZpSkQ2RWItZ2xkc1dMTjJlNVpoeDhQazMzZmVwc1lleng0VHZlT0hMVFk0ODVZSHBNSVZjS1dVM3ZmTHJzNzVSS0stU2NzckVz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T16:48:00Z",
+    "hash": "791e620ac70ee47c42b2e0efd62a662ba110279e3ea4caa3330c59c215f16c9c",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Tapzi vs. Solana: Which is the Best Altcoin To Buy Now That Benefits From Trump’s New Maldives Crypto Resort Plan? - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2JOVzdxWXdPdGNGUEFnZWp6aHJPRi0tS3dGOV81YnJrdnUtaWE2M2J2Sk5WZmQyZHBuM2toYV92cl81Z2x1bXZRdUtQSjktckVkMWJTVzNhUjFObldrY0doaU5IX1J5Sll6bFVoRTlySmVkQlVsR0xfSUdIaGVLM01UWGJuZ1ltMVI0MlJIOU9rTTNkTVV3elhlOFJrQi03TWdnWnJNMTFrU09jQVVSWElJYloyUU1YeGIwLV9IZDJYcG90WnJOR2xqSlUxTGl2?oc=5",
+    "title": "1 New Reason to Be Cautious About Buying Ethereum, Solana, and XRP Right Now - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUtlTUl4dHM2OGItRy1XT3h6WVp4b3l2UXpnaHI4WjhJODljUEcySk9wYjBKY3V6WFRkdjgta21sMC1YQVZod3hpMDRjVTZpSkQ2RWItZ2xkc1dMTjJlNVpoeDhQazMzZmVwc1lleng0VHZlT0hMVFk0ODVZSHBNSVZjS1dVM3ZmTHJzNzVSS0stU2NzckVz?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-30T16:10:48Z",
-    "hash": "74730d60786b927fa776442337da6d0a1b1c4fc108e30083c41d37439742cf4a",
+    "published_at_utc": "2025-11-30T16:48:00Z",
+    "hash": "791e620ac70ee47c42b2e0efd62a662ba110279e3ea4caa3330c59c215f16c9c",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Records Abnormal $0 in Liquidations, Here's XRP Price Reaction - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFltcnctZ243NUhiUEhrdVI5dXBUNVBFaGtXaFdMUmhIbVczU3lmOG14MG9BT21iS3hYQVBpYzNRNi1ORFFheEFQU0dHUjBPR3JHU3VkRG5CbkpiWExHZmk2NmpYRTEwNFVNa0RaMVFCRmpRSmM5akpKWEFXV0ZtWW9rWGhvTC1PaHdhenl0cjVhWnZRNmZ5WV91ZWR6TW8yWV94cWQ3eDlPczQ0TFQ5WW16QlZIWm1ocWhiX2NPbw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "If Bitcoin Reaches $200K by 2030, Ozak AI Could Reach $10 — Delivering 30× Higher Returns Than BTC - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXpJb2k1eVRYbkhLQlVkMGJsUHZhSGNpaThmNDVRZzk2eU14VFlZNHdNMFBNMlAtd2hrRUxvMnRRRzdqcEZZLWxZWlo4X0xjWWN1Nkh3LW1fSkVvUlY0MllTYk5pSi1QamVOR0tYRmwzSXJKWGJ2ZEpFOThPNXJHQmFTZzRrMVYzWnF2Q0l2UmpmZG0zbEVubUtSVzFIYS1DTl9USmR5TEVRVnNJSElvUUpIWkpuaUdaMVNnY1BtamdGQ3c?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-30T15:27:00Z",
-    "hash": "613bae9589d07714526343d3d9fd603f28f13f4a66bd4d99c0f69f73b3793d26",
+    "published_at_utc": "2025-11-30T16:47:05Z",
+    "hash": "dc2f70a1676b0a1fcc1d24578b480d7372f2d1d939ecd20309345744eb44ac72",
     "source": "gnews"
   }
 ]
