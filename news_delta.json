@@ -1,22 +1,62 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "BlackRock’s Bitcoin ETF Becomes Company’s Most Profitable Product - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczU0UWNUYzNwTFFIYnVSajNWNWlLUFpTcjN3RWd0Q3dTWnFIM2pkM1JPNWM4MGlXSjV1YXV3STI2YnVKVFdiODF6OG9Dd0JqQVZiVmZwXzRRdVZ6cWNiZlN0eTlaSjVYRjV4Qm9QbGcwMmswcWVycllZV0xjd0tpOHZnZ3lXQlJvV1BGdXdJQ1BTZEcwOTN5WHlrRzV1dw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Whales Dump 50,000 BTC Worth $4.6B In Massive Week-Long Sell-Off - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWlBOMFlrWHZwOFBxSVpTMERocUhkRzRRQ29KVTVDNXhTS2hFWnZ6UnRCNUZmV216bGM5TFAzR1JYa0IwN1hQN1I3SnFsdUs5azF3VmM2TGttNFlzSGNpOHcybnBUU0FSN3k5aEVhOFVjdWw1MjNLdm92ekl0ZmpQYVNyS2hOaUNieU5VQTJsQTh6X1pXS1dscVdaSHl5M2lQMkV0OQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-30T21:12:35Z",
-    "hash": "f274d7d9b0fa7c3c1201d0585b6d1dcf7262306e49590bae42e99acbcb974402",
+    "published_at_utc": "2025-11-30T22:03:04Z",
+    "hash": "7f31641e088544ad5f2f91bddfee89ae44078b310772a1ee29264dcd51a775ef",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Google TPUs Challenge NVIDIA's Dominance in HBM Market - 조선일보",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN25fQWw3VVRlZTVQWk40R0tYMXA4QTlTQnF3WkJZeHlTT1JIVkNOYTdKRURpbGo2djduc3JBMll2RFJfNUJhQzRWX1BXRno1dnd4ejhwV1FMMlhhZVd4S281SEo3TWhIVWozTjVONDduSkdUN0ZFVVRLNlctR3ItdGhvUXl4NWJB?oc=5",
+    "title": "Prediction: Here's Where Nvidia Is Headed in 2026 - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHdYRGFCdlktdnBRX3ZMWjJvaFlfYWhnNFU1ZEdNNFpxM2E0bHgyRkdMdEtzZWtnMk1nM2VObzlSbjE1MVE4RnRTZDM0NXQ4WHA5WC00eXJNTmpGSXg1WHp5M2dONDFuWnBadW1tVG5QUlpvUzBkZjBwZW1mYlRjNXBfZ1N1Mk5wR05XSGc4MnN4TklY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-11-30T21:04:59Z",
-    "hash": "676d6ea57019d9c77afecea2f0c44972d3645ac07f05bb4320481e4090c2f959",
+    "published_at_utc": "2025-11-30T22:00:00Z",
+    "hash": "bdbbc7d031d320fd539982f0b9bab631194aeb08324c6b23168da524ba0dabb5",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Over 40,000 Mysterious XRP Transactions Trigger Fresh Questions About Network Activity - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3p4QV9rcC0tTWxGSGNiakpNbkkxNzlLamtmYmRSNy1KNXU1MUpOQUdkWks3M0REem9RdTdDTlo0MGVVMjkwbXRLXzZGUk82OXJCWkREZGZ2blR3NWZDNDhpMl9XQ29LczZFcWRtOTFSblNGYVQ3ek5qTW4wV3JiWTZmZUg5RHRBUEpLU3FSYkpHSTR0eHV0eUxyWmlyMFNVSWtBdTk4TGZwU2hQT1JvTmZUQVc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T21:56:36Z",
+    "hash": "1342380850804b935f19958232fc3c775dc2d62997c74860e995ddeb8b7a5052",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "Ripple XRP ETFs (XRPI, XRPR) Surge As Prices Hit $2.19, Supply Drop Drive Bullish Outlook - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZl9CWWU3NFBvWkE5VkZVazk3M3c3djRIQ3JPYTVTZk5zX1Y1RTZNbDZ6RWtka0ZFd1ZVbmxxTlJwb1YydTFYRVNNbDlVRWVTYXZVX3pldFQxdUZacjVmMWxnMkZ2WEZRc0s5VVVYOURTNXBob3ZaeWxXZWFmalZZVHoxM3hrVDdyZzVJZEZLdGRicnp1RS1xNk5WVUh0RXA2bUpxY2pYV094X21QTGR2ZWl4NA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T21:52:57Z",
+    "hash": "553a4620a17a1e8fd087124ef6a005d3418d35084c090e5bf80784ce579cd592",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin (BTC-USD) ETFs Attract $70M Inflows As IBIT ETF Rebounds - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByR0k4WGMwOGZwbUdJeDhpS2Q0ZEtYYzBuVk5XeHViZkEtei1tVjc0NW1ZVWtvUk1nSmpuTW12V2tkdGZXWV9VQW5MdzlLMEZ3TWdzZklXY1lIZGl2RGhUZ3RiNS1NbjBUbXgwSnE1Wmx2ZHNMNWplTA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T21:42:57Z",
+    "hash": "ed4fb803b36cd5f9d5adbbc8057cf6736c5647b7c0e774cca2c49c7cc0e9bb01",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet Google Stock Price Forecast - GOOG Shares Nears $3.9T Valuation as Gemini 3, Meta TPU Deal, and Cloud Profits Drive Stock to $320 - TradingNEWS",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc096WHZSUWlEZkZ5MFJlU040UlhZNHgwckI1R2tCWUYtcHQzdDZCSXRHUGdndTZza0ljbkdua2hVMm9tbDNiM0lGby1zSjQ2SVBaNV85NFRnOGNiVERncGo0bzRoRmpKcHAzVUdiSTBOcHhrRFFvdm00MmJVNnJsd3Z0bFU1dTBWckhNMkdfdWxITGRnWE5oZ1VGX29CMTVFMG1SSlMwQzg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-11-30T21:33:14Z",
+    "hash": "3ffd0ee4a39ee04eeba804d40b7454a741b49aa5d407c11f65618cacdeb49841",
     "source": "gnews"
   }
 ]
