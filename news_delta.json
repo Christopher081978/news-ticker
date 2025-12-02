@@ -1,112 +1,82 @@
 [
   {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Global EV battery market share in Jan-Oct 2025: CATL 38.1%, BYD 16.9% - CnEVPost",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM3JwYlpjUTJLLW9YY3lELXE3ZnhhaE1xQ3FmcjNzSHlnbWpvX18zSkNQaXYxeThTMVNXT1pyVXBTRFVNUEowZFlBdTN6bi1wbGl3dWRmWWRla2JraUI5c1BScDhKZnpsTVZ4TnIzM0ZXdjh5d0psVjU5LVlpYTVSUDVB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-02T03:14:00Z",
-    "hash": "0f00484356b686013f17b3cf109d14c2748050190c8eab717e23b2f46c77d4f8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Tech-Industrie: Apple ordnet KI-Team neu, Chef Giannandrea verlässt das Unternehmen",
-    "url": "https://www.handelsblatt.com/technik/it-internet/tech-industrie-apple-ordnet-ki-team-neu-chef-giannandrea-verlaesst-das-unternehmen/100180007.html",
-    "summary": "Ex-Google-Manager John Giannandrea hatte Mühe, Apple für den KI-Wettbewerb fit zu machen. Einen direkten Nachfolger soll es offenbar nicht geben. Dem Erfolg an der Börse schadet das nicht.",
-    "published_at_utc": "2025-12-02T02:48:14Z",
-    "hash": "e4b193c6c51601709c8510c82d1dcaeea324739dd3c32ef210b737377cfbf480",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Why XRP Is Sinking Today - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QR1lRekFCNTZTSk16b3A1RTg0bXYydEZUTTBZYkVSQ1lXVVl3OGtCc2ZBOXBpU2t2UzJGX1EtYVdIbV8zVnJYSHBtRlo1SkhhTmpfTkx6VnRHeVdkM2V0Sk9STF9VNlNDMXh4dEFtaExabU0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-02T02:46:59Z",
-    "hash": "74f2a41862e27f24515b501aac4b14415cd00ee1d47b9c79ca3b702cfe43311e",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD COMPANY Once Leaps 4%, Regains Status as Stock Trading at $100 or Above as Nov Sales Beat Citi Forecast - AASTOCKS.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhNERGQjhuazc5OWZxWGRMUlV5b2pkYXgtSDZ1TWswaXB2aW9sSWdVb2k4Y1lpU0lWMWtha1o3R0kzdjBPTXdMUmN2UXNNdmJhRTMxUXpXREF4UW1QZmVyNWpMUnRyWGdka2tnVmJwSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-02T02:45:00Z",
-    "hash": "63916c50787a4e0d41bf6d5ee57d2106804721194fc662bf98ebde6be82369b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Künstliche Intelligenz: Apple setzt bei KI wieder auf einen Google-Manager",
-    "url": "https://www.handelsblatt.com/dpa/kuenstliche-intelligenz-apple-setzt-bei-ki-wieder-auf-einen-google-manager/100180024.html",
-    "summary": "Apple versprach eine mit KI verbesserte Siri-Version. Die lässt aber auf sich warten. Jetzt gibt es einen Personalwechsel.",
-    "published_at_utc": "2025-12-02T02:35:03Z",
-    "hash": "e50b50690f6003cb951df2c72b38da37537997c5ffd6a3c2f42e7840dcf2b011",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Could This AI Infrastructure Stock Become the Nvidia of the 2030s? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWZYTFllNjRKbWlRT09xOUhSTmx1cFEzR19uNEpUSUp4djkyazZ1TjhBS2tkdnVGbTRWVml4NUJTb1puTDR3ZTlxdlVGSkdmZlV2d3FxTjcxRkNsOXB2VUk1RWVfNzZMS2wwLTdGN0ZtSkhHakVXb2tLRGoyalhTWEdIemlIQU1wc1lWMjBIY01nRlJKX2o1Yg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-02T02:30:00Z",
-    "hash": "ac96329dbe8e4752cefd533bd25096e3f878ddcd2b7c5c258c6403b22cc1ef26",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google cops $55 million fine for anti-competitive revenue deal with Optus and Telstra on search for Android phones - Startup Daily",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWGRPd0FsZk0tZmdaTEEyYWFXNDQ4aDdlUm0xc0hHTlpuLWNYaldtclFpZ3ZRZjVCbThhVnFTbUU1QTJKdmR1Y0lBWXR1ZFNHNWNuTklMdmtZb2drSG5lWFZ1Q3lrc3Fid0c3Z0tDMnNuQzFqUl8xeU1SeFVYeXJYRjBEbm9ZSTdpYUpXRTRvQ2JGZ3B5elNNeVY1eHFRNnY3cWVqM1VpNm5faTJWdlJ4TVNkcnAwcjVOY2RwbmRobFppUVNaRlVBVVZEdmt2NHcxVU1YSFhJTmtGUnpnR2MxWXplWXFjZHh0Nm5LbEUxdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-02T02:16:41Z",
-    "hash": "75f417e4468fbf5b9acb77b57fcf151b746c2f360f7caa3407bf671281bc394d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Why XRP Is Sinking Today - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OQVhxNVNMeHdQd2t4ejJrZFJGN0duWVN0TkFvMm4yR21oM2ctUWNZclNtNzgtQzNRekp4VkJlZGloTkJUbktibHlFT0xDS3IyZkxmMloxOXZORkpUeUV3Wkc3R2k2ZDZteGtnb19obFpzZ1F1MWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-02T02:16:00Z",
-    "hash": "2a380f2f69d1ad1de66040045951f873c183b187637ef0a77c944b4d23b4c90b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide; Crypto Stocks Fall: Analytics Firm Spots Signal That Historically Preceded 'Powerful' BTC Rallies - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQUUVvRHJJMFI3amthNVVOQnBaZ3dfdnpBZXA1b25yR0lKNXY4N3QzYi1PU29hakRqbnNBbzNKYi1tU0IzTFJuNEhackNsTlI4SEw5Mi1tbDQ1blFvQXJNN0FHNWl1SkE5WGFER1hJTEJveUdwU2hZYkRmSnAtT3h2alQtR0k5anh0ZkgxcjMzNkwyazhrWmFyQ25vWlo2dWdUSlh1MEF1SVhrWEN6YW9wZHVXNXJ4YU5BUHlMQi1JRDVQaFlkcU9MSkhQMDdjSWYxRnRNdDlYdldCM200S0M1dFl1b0I4Y0ZPaTVGa255T2RCajlFWWlxWFM3cFRTczdLLXk1UHBwVWRhUDBtZlh0YldnUE1Lc0NkN0o1bg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-02T02:09:22Z",
-    "hash": "c8ed7737e813d2ce72a742f0e2954dce2c121c365632c97c8ba7dd8cc70522b1",
-    "source": "gnews"
-  },
-  {
     "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide; Crypto Stocks Fall: Analytics Firm Spots Signal That Historically Preceded 'Powerful' BTC Rallies - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQUUVvRHJJMFI3amthNVVOQnBaZ3dfdnpBZXA1b25yR0lKNXY4N3QzYi1PU29hakRqbnNBbzNKYi1tU0IzTFJuNEhackNsTlI4SEw5Mi1tbDQ1blFvQXJNN0FHNWl1SkE5WGFER1hJTEJveUdwU2hZYkRmSnAtT3h2alQtR0k5anh0ZkgxcjMzNkwyazhrWmFyQ25vWlo2dWdUSlh1MEF1SVhrWEN6YW9wZHVXNXJ4YU5BUHlMQi1JRDVQaFlkcU9MSkhQMDdjSWYxRnRNdDlYdldCM200S0M1dFl1b0I4Y0ZPaTVGa255T2RCajlFWWlxWFM3cFRTczdLLXk1UHBwVWRhUDBtZlh0YldnUE1Lc0NkN0o1bg?oc=5",
+    "query": "ETH Ethereum",
+    "title": "Kevin O'Leary Says Altcoins Not 'Bouncing Back' As Investors Realize Bitcoin And Ethereum Are All You Need In Crypto: 'They Have No Use Case' - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNelVSUXVBQjFDT1VQY1c2ZFlYeFk2cHRaNjFZbUdvbzBHSFZkNnM2dlhjRG1KMm1leXFWRm9wUmxaYWZSVUlPbXJvem1WYTI2UUVWN1puRFcxRkoyaEhxWWF1MkpDRVVLZUZZU3gxNUlLeTdfbVZHcnd4U1NKNUFyMHVGUnlqeS0yV3cyb2dmbnRHX0xjVzdnSExZZ1M0R0RnYi1EYjVlblhPb0k2VTBDVmdwSnpjX2lnNzRWXzhtZ3FLM3dFV2lNX1drZUM4RTg1ZHJUdzJjazlKeG8tcDdQa3FRbk5RSy12bFE1OUc4N3VMMDhjaVZrRE9vY21xUEJNX1NONXhhdDVNOE5XVkNIZWhoYjk1d3U4QmRmLWRDMlFSajg?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-02T02:09:22Z",
-    "hash": "c8ed7737e813d2ce72a742f0e2954dce2c121c365632c97c8ba7dd8cc70522b1",
+    "published_at_utc": "2025-12-02T04:21:51Z",
+    "hash": "7218fd42d2b07f3988421ec927b75b9c4e17960f0a020c5f4e4d20a25ecb3542",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "(NVO) Risk-Controlled Trading Report (NVO:CA) - news.stocktradersdaily.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbTRGX2N1eHJUSXZyNmRLZU9qNG1TbmZZdXBiMEVWZm9LcGdJRmpoYjFzTE1GQlBJVWgzSzMyNFhERDM5VDdBVS1JY05RdGpWX2xyazZrUUlKaTllX3VLTU9ydEo3M0ZnNTJObEZ4Y2UtU245aldnODVxVS12bVJkX1lIOGp2Z1hrUVZnT1N1bXNZUnNmTjFz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-02T04:14:12Z",
+    "hash": "8a2a43fa757ccdb520542a4f30108190f2bf5a26f51f9fb1475e80ef8d66ed5a",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide; Crypto Stocks Fall: Analytics Firm Spots Signal That Historically Preceded 'Powerful' BTC Rallies - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQUUVvRHJJMFI3amthNVVOQnBaZ3dfdnpBZXA1b25yR0lKNXY4N3QzYi1PU29hakRqbnNBbzNKYi1tU0IzTFJuNEhackNsTlI4SEw5Mi1tbDQ1blFvQXJNN0FHNWl1SkE5WGFER1hJTEJveUdwU2hZYkRmSnAtT3h2alQtR0k5anh0ZkgxcjMzNkwyazhrWmFyQ25vWlo2dWdUSlh1MEF1SVhrWEN6YW9wZHVXNXJ4YU5BUHlMQi1JRDVQaFlkcU9MSkhQMDdjSWYxRnRNdDlYdldCM200S0M1dFl1b0I4Y0ZPaTVGa255T2RCajlFWWlxWFM3cFRTczdLLXk1UHBwVWRhUDBtZlh0YldnUE1Lc0NkN0o1bg?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Traders Bet on Sub-$80K New Year: Derive - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGEwaVBtdjZSUldwanlBa1hyVFMyQUdKa05xZm9URC1hSm5EZDlEalZDbk5HTnBKc3BUOVpfbWQyX18xQ1RSVllDOU5kekV4WXJ4a1NKRWZhWGhKa1NwdlhhV2l3dGJFRm5fSm1WaF9SZmR5Q0QtcnhQcWZHMmRJNzc0eXZzTzF2QjM0UWE5b0xXaTdKUUhJZA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-02T02:09:22Z",
-    "hash": "c8ed7737e813d2ce72a742f0e2954dce2c121c365632c97c8ba7dd8cc70522b1",
+    "published_at_utc": "2025-12-02T04:09:05Z",
+    "hash": "1ccd7de723a56634d91eb1fc69d0511b3dbc0336ed3fa3f54b7a1d8bcbfd0ba0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price (BTC) News: Bulls’ Fed Rate Cut Optimism Challenged by Resilient Bond Yields - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWWFOVlJ3Q0JRT3hKSndEUGJGalFJVHphYktRWHc5ajROOERhcmxhVWRNZ3NPa3lVbXllc2ZrRU1pU2RwYnliaE90NkRaczZSMDlXaERMdmJNU3BPT0gtVXRyQzM5NWRGRV91S0hkTnBPenU3Qnk1cVBYOXcxdjFZUHlpMENEUHhtaEd3UmR2clg1T0tmQ1BlOE9CZU1WdFdtckFNRk41ZXRxaUpFbzhnV2R6eVhOTlJ3M2xFOV9kMjFqRGQ2NE81NlZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-02T03:50:57Z",
+    "hash": "e97a48b8e86e1581bf61ba51eb3e58246840325027764683a7ee3f3149064d6b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Canary’s XRP Titan Breaks Records as XRP ETF Demand Explodes - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSU15dVl5TUtNTERsUk5sZzdsQ1ZJdXdqMVY4Nml4U1VRX1YyNHVXVkJMcmFhaGZ2dGZ0V1hTczhKdzVHczNrN2hpWUpOOWphYS10ZEVzNHEtSGxaNEVCNFlHQVNhSWctMnVKZXdBNlZZYzE0SmpkNmNRbkJoS3RGSTJzdU1LTVp6Y1c3TGF3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-02T03:43:50Z",
+    "hash": "d5c04c7308dcbf618fac6e05cd74119d04e3f8540d23369a979dceacfadc27a8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Cantor Fitzgerald Reveals Solana ETF Holdings in Latest Filing to SEC - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmFiVmV5RWR5S29kcmctTllEX2ZSZzZCX2d1aTZKREwtSVBVN0t3djU5YXF0cmVpS0g3WjhMS0F5Q3JSYy01RWtNSFVNdWxIYzJ4UU9sc0VLeUVUUVZ0QkRtOThZanpwQVRCQmtwZUpxdzBjcnZMTVdyMnFIQ0t6OXBRWThxM1BJ0gGQAUFVX3lxTFBEWVd5cUUxdVZ0Q1g5UE1JUk14a1YzU1BoYTRlcFlmeWZ3ZFh4bXA3TkJtZDRzeEdienBxdGtzNUlkRWxWaTZjTllHb2xvQ0xiRjRtaTlfQ2pBYk1CbEtud2p6OV9zSm40OHlyXzliMGhKU0YzMVQzdlJaVVRLLUxHeEY4dGh2OHNubXVsXzAySQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-02T03:41:35Z",
+    "hash": "1beb1d98b2345e6ee871dc8337c15680a07685ac04eb1a4ede965f7bc18eb5ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Why XRP Is Sinking Today - MSN",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0tpS1h0QS1oa1dIaHdIWXRmQ2NGNEpEWlRxeC1jOVlhRFBmVkZCZlRoUmhfcEFEZjEySjhxdW41dmdWeFRXN1ZXSm5KeDA2OXVDckQtMk5pVnJmdWhySEZmUGpueG90RHFTRTNJMUFHYTJnSkZmeHFyODRLMU1EZ21aZ3BxalBhZE15MXF2LWpCNUVrckFwelA4aEpIb3g2SVNDOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-02T03:34:47Z",
+    "hash": "bce2f8e3a90685f577bbaceb9bde464c19f75f3db0d09eb95416acf4974e65aa",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Should You Buy Nvidia Stock (NVDA) in December? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOekpyMTZvNEZEVGwxSC03QXBsS1lIZ1pnVU9MTW9qOFVSdDhqNWI4WGFxOXY1bkswY2dCdnUzYW9lby1GT21NWmNlSzkzVFZmZWlGMTBSa0Q3YlM1UTZJU01UX3k1U0RWVmdqVGttNExZWUMwS18yRFBvdzdxUUdlMl9CRXRBQ1Zmb21PTGp2amk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-02T03:29:00Z",
+    "hash": "dfa598105cfcd7470b4f55f7a810a1b75a3c7d24be5b9df67b8ec4256b69cc10",
     "source": "gnews"
   }
 ]
