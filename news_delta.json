@@ -1,122 +1,82 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Kalshi, Robinhood, Crypto.com Hit With Connecticut Stop Order for Gambling Violations - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkkwRkhPZzRvTkg4UGlXMVFnWlNYMnMtaDY1czhTMlVHWnFmeUNVSW5GcWRuejRGX1JPWDFySkliNmxGMFlKQWRzY0VlS2pOSXowUU90RngwLXdfWnJhNDJnNi1RaWFfSWQwQ09Pa3dRMUNGQUM0ZGVPSTFlMWItdF9ic2M3ZklZdVpBa285YkJoUzV2UVYwd1duald6U1E?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Jim Cramer Highlights NVIDIA’s Deal With Synopsys - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQak5rMXFmUWRNVXdrbENVOHhDVkNzUDQ3Qi1JRXFNMHpKVEh4S202Qk9TZWFMQVZJUVR1TjBoSkllQXF2OVZ0aFVWQVkwMm5scWlXTk9zOHFwYUVkX0VEMXljNmU1TWtiZjN1dkhtcklWY05HMXVadTNKZmptd2ZxZE5GWkZoR0dhQVNMaFctbFNSeG9UVEVN0gGfAUFVX3lxTE9qZGctbmFlc0xIenVSWG4xOEJRNDBFeXpjb3g4SGJoLTBhR3M3WVRWaGRrRk5LWTZpOXBlWTVrOHYzNXQ0TDhOOEZiMWpSX3EtUGVMNUxweWM4czNvUnVOUFVnZWFSNVFldnprV0dXcTU4cGM2aGxtRkJoQXA4R05UTm16dV82dVNQQW81U1g3cExCNGRVakFzY3MxdUpqWQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-04T04:20:05Z",
-    "hash": "1812f683f2b85a67e2117c964ade7c9a814c7ad4fe53573b3eb25110589e4c1a",
+    "published_at_utc": "2025-12-04T05:15:54Z",
+    "hash": "676251381d328abd7f7ce9a34cad22cef614db6617b49f633374c39e1f6c11c1",
     "source": "gnews"
   },
   {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Up 37% Since August, Is It Safe to Buy UnitedHealth Group Stock Again? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WR0hZZUphZUFGRUxoSjFyWDZhcVNIRC1WXzVFcklsTDBwbmZUbFNReG5qR3dkeWZoMlJSOGN5VHotb2F2TFlrdWtXdVI1SXllUENVdmg0VE5xaWxDQmJJbFRMSy13ZVdscDZaRGN0Q3dBaS1LN2c?oc=5",
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "Better Quantum Computing Stock: D-Wave Quantum vs. IBM - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEdPZDhTSVpJa3RTTEdscTBCRjBHQURiLXpLTDItVUVKUXpiSTBWSlI2NkVLMFNqLTdFZUVNLTRGXy1WTXl5MVo0SC1GY2h0Nm9UZllUakJpRlVtU0NMb01uOUNSMlFRdUVWclFxSVBmcE1tSU9EaGQ2VDdzN2hQTkhmbXdXN0F6ZEJJVWx3ZFNKaXRobE5QMQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-04T04:16:30Z",
-    "hash": "6560c63c54d59a8586dcbe7b3a8ace93ec48a0328e6349320fbc372b3c7cbbee",
+    "published_at_utc": "2025-12-04T05:13:00Z",
+    "hash": "15c8a6eecbcb13776fc99c478265d37aedbf5cc981342f239d0e0d7f7eb475ee",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Jim Cramer Notes That \"The Gemini 3 Improvement Was Very Good News for Google\" - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM285NjFidXhOSkYtU1ozSElpaGtsYzlsTzVuc2hTN2o1Yk5LME5TOEUzVUN1ZG9oTnU2elROS2FJcW5zbE8tc0txbnkwTzBYaUlzU0c3SUw4QnllX1I3ZEkxVWZsd1dkaU8xcEhDY2ZtNEJXMFZSZC1HQm1zWkNpYWFOVmxBX3VHMVhKQnVaVFJLVnJnanhuQlBRN2IyUFIzVXFUd1pSMnQ0X0U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-04T05:11:11Z",
+    "hash": "856d48f77d9604e04c051ddca38a89b69bc96d6d9787f2de2e73186ae3ea9419",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Jim Cramer on Pfizer: \"I Would Hold on to It\" - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pMGQ3OEtLREJkM0pEZHMyanB0aGJhaHY0QUlaVjJ2MXR6M0RFSEk0R2FpOTZrWGNRX3ZEbzlKNXhlUXUwNDRpUVRhWU5ZSDVEZmZQa2Zhb3JpQ09JblljeV9vam02R1JiejRHRGZ2b3ozZVJOelVSbGhXS1ZZZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-04T05:11:11Z",
+    "hash": "628c85eb0079b6aad8495d0fe83b8eef04c2542e4fec3938618a3c064445a31d",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Jim Cramer Says \"Once again, I Say Own NVIDIA, Don't Trade It\" - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTNkUmcwVkJZUG5JX0IteUVkd19EU3F0WDJiSW55SVF4am1hTDJ4NzNRTzdxSjZtQ0FLRUlVcmVKbmhNNDZiVFFRbzJ1TXd4ZmRxQktyT2Q0NEJTcjlGTFFEQXJwV0l2QXY2WGd6Y1VLeS0tVHlPWDUtTTBfX2RKQkdQZU5Za05GVzZLMXh5NEJmZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-04T05:11:11Z",
+    "hash": "366ec6627e169896ba950d9415e46025b594f24fb585754a29df67f0f4baf520",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Jim Cramer Highlights NVIDIA’s Deal With Synopsys - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmphZlliWWtHRHRGQ2NaQ3dIb01BekxIbXpzX0RBOUhERVBmM0FVTTFGZ0YtWmpDbVNfQW01c25tekt0S1JuY0xKa19IbFRaNVZJaFVVVHJvbmdLU0cwWENMbUlxTTRLTDVyN1ZHejRfS2xET08yaWdYVzhOMGczVENvNk5XZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-04T05:04:00Z",
+    "hash": "47dedb87d7df9bd8dde650d3e924b929614b3b7f3f4a2554078098f395aff779",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase CEO Confirms Active Crypto Pilots With Major US Banks - Bitcoinsensus",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGZjQkJyTm4zMjJ5VE9ncmozWjJ5aTJwZGh5a0pES0lkMzJPNWhsMnBYTkc5OHZ0bXUtb20xQnVFblJ2dTVaV3hsdUtscTVGSjlaS0NWOFg4RFRRQTNmWENKZ2Z4MEx5STdySTRiTndlRTNiTkJJcFJSR013aHZma09GQzNfbW1IWmt4S2ZZd1YwTkw1VXY5ZXBGeE9FV28?oc=5",
+    "title": "BlackRock’s Fink and Coinbase’s Armstrong Signal a New Era as Global Banks Pilot Crypto - Crypto News Australia",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcTFDNEFucmJsQlBYb0UzY3FFNks5TTR0ZkdHNjByeVFxbzhOem5tRVdBU3kzeV9VOWdNZUc2eG5rN0hDRmk1SDZCRnY4a1Y1OTBnVlF1cnVRNVNFTnF6VjRJV0xyNFprTDRMeWtlbmkxdHZWM2lGNERuZkJNU2FoRTdhanZBTnhJLWI5ckFuaE0wa3lUWnhLSGlEaEdmMTBMbkMxQjI5dUxITkVESVRmdDd3VjU1MEJWTVBfS2JwY1VCQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-04T04:16:22Z",
-    "hash": "93353232ed9607f2a85c8de111a3ecf70236872cf89c477f0015f7d4a18112ca",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Eyes 25% Rally After ETF Inflows Soar Past $650M - Live Bitcoin News",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZXBoNDh6M255a1RkeHdQaE5hMmFucktTTng2Z21nZXM5MW1lQ21Id1h4R1Vib293cUxScVZyN3I5TE5Ma3JjYVdxaUpLZkV4ejMzaGJVZk56d2p2RGFoVEk3cjB5cHJsX2xJMEpiaWx5NG1SUzZ3RlhqbDE3Z0VRZlNDNE5qMDZMTmNuZnRPWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T04:15:57Z",
-    "hash": "053d8668b804db2fb477fd26be84d7e8bb62ccaddc3ce7bcb2c61608824b9a8e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Ripple Traders Eyeing $2.33-$2.40 Zone - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmctZklKMy1jREgzQ3NXQ3dhU3poc2MwLVFGdjNvdTFuVHZYeFlpWlM0OF9TUFQ0M0tsZmdBUjhsSGZnTVg4N19VdVNoRWpVOVJ6cG1OdTFkN1ZxYTNYdk55Q201aldFZ040MEU0QnRWZEYwTEtseGE3OUkyQnIyVGt5bTFBQzhkVS1lMXdRNTRTUHJ4b0xzMl9IZWtCR0wwYTdTTS04MW1KZWo3UkU2NGpMOEw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T04:14:11Z",
-    "hash": "59eaafdd7b74347429623fb0c8426fac8d2f5b4214e530639226b71793ac9bf8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Mobile to Launch SKR Token in January 2026, Powering Its Expanding Device Ecosystem - Crypto News Australia",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMlhLQlRVLWtnNEFld3lnR0dUTTJxZmtJaC01bTktc1lJOWtkRjFVTXcxaHJrT2VfUTQwRGFUVVQ1NzVOVzV5c0tlNl9ZbUJXcThYQWFmcDVfU2NZV3E5eHpiTzlBYTNGa1lreHBzYTBGQWdQcXpwaUFDVm9BcU5xSjktSmRnZDRGX3hPb2dvYXJOS3MzUmJtdDI1LWJYVWZpdzZqYTZ1NGc1dTJjeDd4SWtfeVBsZmR3a3k1TFl4UnBQTVcwamFN?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T04:06:45Z",
-    "hash": "d5fae01a58083001672fff43a4ad1084eb7db65a304e729871e48e66ba4a6398",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "UL Solutions announces pricing of public offering of 12.5 mln shares at $78.00 per share - MarketScreener",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWdkRW0xT19RQUJ5dkJwa1pwZW00Q2RRbm93bFk3ZmhLNlBYMEs3aUwtZldtbW9WdjVrVVhpTDM4bHF4QVM5Sm5keHV1YjVqdUl3OFZmamdQRnU1c2NaMG1uelNqdjA2RUlxSWFxVnJyNXhnOGlKbzc1LWViRlBmNzJDN29rMTRkRm8tYTd2a0kxUWVwN0J3RmN0NENGUDhFLW00Q0hHUFRsdHZKWmxEdGx0R1VJazFaTUMzUHJ0TnJ3WDVfMC1PUFJnTXhuODRJdFBEWDNxNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T04:04:15Z",
-    "hash": "ff6769276a81ec417da570c5fc602fad647dffda6c61ed9e999cc623c0e4ab70",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "UL Solutions (NYSE: ULS) sets price for 12.5M-share secondary stock sale at $78 - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnVqaXJEZVlEbE02STRtSGhEQmxKS1lfdGN6c0pkck9Zc01DdkJZQzQxOGRBQUtIUGZUV3A1NDIxN3VWM3AyVk9DenFGWFlTZEkzdHhMOEhvV1VTTkptakZhcU5zYU1oSTd2RXk2ZzZsYVB4a0RJVFMyeThFbHd4WWVjWUpjY1h4RmU0NTdTT1JqYWpTNnItUkgtRlJ1aUdZdVFrYVRCQUx5ZFFVTldCMVQ3T1dPcnktQ3hBRlRmSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T04:02:55Z",
-    "hash": "2174281e393ae00e3e21217f1f900c2586f3a88094e3dd2fc8fa0686ddd4bbac",
+    "published_at_utc": "2025-12-04T04:49:54Z",
+    "hash": "3ba553bcc44c8e378e136262b06cc69b8e2a8a1e9352b3fea09e58782e981bbe",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood’s Meteoric Rise: From App to Financial Powerhouse - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaTZMN2c5X29LYm1iS3JZNVpWVk9DSEY3RjhiTDI0NEVPaGlTYmNnLUpxV1B3TVpZWXMxbTFkU2poQ1JhNGMwbGNxRVptaWxIOFVST2Vjd3JEUzhIWDB1blhWVWl1Y20tSFI1eVczbWdLbk9wMndNeVZaOVFRYVdPOWRPeGVoS3pqVzRwN2ZHekxHY2tuZGNmb2psb1pWbExrZi0xblJQRWhhQXRQMms0RndFRUp0UWVk?oc=5",
+    "query": "Robinhood Markets",
+    "title": "Connecticut orders Robinhood, Crypto.com, Kalshi to stop prediction markets - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc01adXI0bkJ6VnZKemg4a2xpVlBEWHE0Ym5XS1I5QmR1aVJSaFNUTUxyd2thZmtwUnQyNDlIV3lWRF9jVHRkdS1SaFVjSFlhQW1kMXp4Y01uTkNTcng2cDEyMi1iNm84RDhBOXFDRmEtLXkxRW1NRHBNV2szQjlsaHotdEtXVnZoZ2F5SEh0UG1BOXFsbzMxQzlveG9FOW8wM3ZPc2pLWElCWGJJa1J1VTliRW9pbHJJbVRUU2U3RDR2SVo2cFRlbUs4UmdkUVhNQkQ5Z2otMUJhOHA2Q05JSnRNZExOZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-04T03:44:05Z",
-    "hash": "8cc6de35b53a8061cbac4e047ae5b4868c1f2c6bedd0eba36d7e6f53b2660a70",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Crypto Is Edging Further Into Mainstream Finance, BlackRock and Coinbase Chiefs Say - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVc1ZnB3ekRoaGhOTjJQMFBPOW1oVmRuS3pJQkFFTk5BWHVJT3ZkTzZ6TXBrSl9jRGJZN0Y3ZjdGRkxGWkR0SHBjdlFFZGp0aDNOdmw4NUt6eXZHYUxGZ09EUWpfbmtjYTZndks3WmtITjhSQnJiajhjRmFjbm9DRGprTUhndDhybE1uOTN30gGWAUFVX3lxTE5DRkE2VHlfTUFhVmRUNUdjOUdOUWxSV3R3NHlzRHJvWVhZdC14Vm5ONnpOM0VoNDRCOC15NXc1d1FBRmJtQ2FMN2ZDekhLS0xvSkhVSFhwRXhwYWw1OC01aDJ3Z1YtRDIyY3Ywc0VjckJ6Rjl0LTdES0R1eUNsWHFhU1NUT013dVZ0YTZINlo3LVhyVjZFZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T03:37:02Z",
-    "hash": "bcc95a754ea8c8f4cf04b049ce2de9a8464cd22b1b0fefce8c915fa6e24eee18",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Explains Why Bitcoin Price Dumps With Whale Selling Pressure - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1N5MWlXTDNsUTd5bDY2SEgyWGlyS3JjU3pVREN0UW80LUZ3dE9faFplTXFxMmhLOGhHMS1yRUpNbjdtSFN6b01mNVlOSDRabGFmMlJVMDVDV2F0RlQtVGNwMTV1QlJ4VFZLcENReF94SDFrYXVTamhVb3g5S0FFQ09uSW9leE1VUTh3dWZPOG5YYXVmVnNVUDlmNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T03:36:33Z",
-    "hash": "677c18fd9b6d7c508b4acccf13bf5396db9a366622ba8b36b511ae6787d8e117",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Crypto Is Edging Further Into Mainstream Finance, BlackRock and Coinbase Chiefs Say - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQl9YbjBQd1dCWkxnRTMwYWt6Sk1fMWE0c2VlU0hESUhWZkxsY3VXeG5wYXgtbDdjdk12anhpdmppa3F5NElCeWlQNmhsd2drNDZrNERUcE5xYlJYRlRFbzEtTktEc2xXOUpaTUVHNFpBUVBKOVpfeThIVU80bXRqam5nU25wR1d3OE5kWGtPcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-04T03:35:00Z",
-    "hash": "e4cc06e5b5d006b5a16d32c3bfe2ea1b5f20397a3ecdbafd2a4e49796cc6a053",
+    "published_at_utc": "2025-12-04T04:42:19Z",
+    "hash": "4ec2baac3fd9652820287b1459a53151d390dc7fa23a0df837ce2568555ffc39",
     "source": "gnews"
   }
 ]
