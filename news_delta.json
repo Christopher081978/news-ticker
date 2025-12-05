@@ -1,82 +1,62 @@
 [
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Why Rocket Lab stock slipped last month - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVmEtTUREakVjYmY3NnRVb2NnaTJHRE95eWJVdS1LNFZUZnV0UDJiY2tRX3BBSU9TVkxBMXZsaDRmUEc5WjIzdWZvXzVPcEw5N0lBMHUwa2REa0E4UGFXTVJkb2Z2X05HSy1JNkQzYm5YTTlCWlhFLURqWDZJeTYxMGQ1RDFLeVhXRUpsX1RuT0NoMldqMXR0c19QUkxqa3hZQlpnSFlVTkhUNDd4dVhGekJNT1ROTWNpM20w?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: $200M in Leveraged Liquidations Pushes BTC Under $90K — Can Bitcoin Avoid a Breakdown Below $84K? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeC1pQmVGNFJoOHhkakpwemNUc054NFdqRG9HZ19Xa3JqRlJCWkJnZllLeGYtVDNGSEpmYUNZZjNMaEFVM2o0OVlCTnM1TjlrQ1d5d2JOLV9IZDA0TElBaWhxYy1GeXoxeU52d1hhYUdZck85RkNKMzNLZG15NU5jUGZCSnFLMEpnUTFGdW5YWHB4cC1VNTRiT3Rybkc1YVdrNnhMSnQ0MDhQVkYxNjYybDQzRy0tWGo3WUxzeWRxZHlGS1UzeDYtQTEzSkZkVlBTcXpzQXJBMDIxSUwwVmc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-05T19:13:18Z",
-    "hash": "e621e9185ea7e7a311c4f1af960e8e004cdaeb057151e1bf1153ebe785815d5c",
+    "published_at_utc": "2025-12-05T20:21:52Z",
+    "hash": "63ef3d06aa51f9ffe4af58f336bc13db3ccf43ff66fca528ff6640df6dc65e7c",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP ETFs Surge in Popularity as Franklin Templeton Highlights Growing Interest - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjZ1SWhzX3M0WlB5NElKX1A0bmswZlQ2QWt1MzhuU3JFMUxKbi1EUmhVVVkta0dEQjlmUjgzT05XRnNrWnFyVmxPTGo0TWMtRnZ1ZDIwcVUwQ3FIVTBGZlBUMnl0SzhJbkxhRmUtTzMxenhzcmRvand2TDRZeFhIektpYjZadWllTmZBRG9BT3lndEx4X2Q2ZHB6aXR4NWNaMTJCTHNhR3lEMEk?oc=5",
+    "title": "This XRP Panic Could Hide A Big Rally - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNC11dERkY2g5TW5DMDF0MW42VlFhQ2pEaDNHRGlNLTNIdFN6ZGFnejZwZ1NrLVlQZG52MnY4bUFnZjM3RnR0eDBDeVFKaXRrRjV6ZVN0cjhPNkU4UEkzZDJteW03Vk1YX0dEZS11aF80UHBGaFdhRWFNbzZrelR3U1BJRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-05T19:06:04Z",
-    "hash": "d9ad4dd9045cab855212bb7ee554bde6b8168ba279b404a351487875b2908c6d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP sentiment has collapsed, but a \"Fear Zone\" signal hints that retail sellers are making a costly error - CryptoSlate",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFBoZm9RYVpqQUhFS1hlc1JRMUF3V3lmWURGdndBMVNtckN6ZTZpalV2aXg2bm5RcjhrNnlSLWMycFo5bFFmeGVicUlXa3RfMkZLVUNYREpPYTRLUG5vY01PU1RTd3hjeGJyOWRsOWplWHUyYVE5RHEyaW05TGZTM05oNXlzQkw0b3ItRTZYRE83aEJOSGxUcDdTRXFQVllXUTZZOFVB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-05T19:05:00Z",
-    "hash": "5efda631baba3f4e067197299245fad1edf1d9674a3c17633af4bf2eb9251744",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor: I Don't Think Growth Is About To End (NYSE:TSM) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVjNBTkVYQi1na1hMR3hKWGdDSUhNWFJ4Q1ZjSDJmajZ1ek5xcTQ1ZUFnZVVoeXJPYmw0SC1OUERITS1ud3BOaWdkUnBwUWtBaWVtTDhOM1lwVzZwNEdGOHhpdWJvTUJrbldmcXBKT2U3eVRXOFZuanhiLWJ6a0VwaVRaZXF2OS1kcWFVN0JrN0VWSlBST091UTBZTnB0dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-05T19:02:35Z",
-    "hash": "93ec1ae1fead53d9389c25f1de813619789dd47f478f68940bcdc99ff17f53e6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Bitcoin and Ether Post Combined $236 Million Outflow as Solana Stays Green - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQWxMN1R3d0VRZ3I5ZWJNQjhUNmhKdFFaUlRNYnAyeDFSczZ2XzlMN1hqN2c0UHJwXzBSbEh2blRjN0NxTXdhcFJIOWpmRFNUZjJ2WHNQSGk4eVlRRUN2TmZpeXJDRTRMMENKY1FpZWZjaFcyeWktNk5IWk9VdGxSS1V4dXNFMWxLcmpmbnNFcm5GMzQ3SHhmaVdQOXVDNktw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-05T19:02:11Z",
-    "hash": "4d104194594db68276c57cffbdfeee976580af0e74019d537a0de4c5f1bdc8d7",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Amazon AWS message signals major moment for Nvidia rival - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFl6TDVkVm1aLXJXNUY2cFFXa0k0Z3p0ZERhVl9fQ0hzdzNGaEJObHY5YUJGUWRIS1lQV1VQYnBrQV9ucWt1UTdrODh5RzNadnByY2JZRUN6aXpZZm45NWRMajk1S3lNeFRvNmxYYjM0MWVEc0NWc1BHeEo1TmpLcWhDTnJZR0VSZ0hOaGxVZ2pfUnpBYml4Ul9zbEVyVTky?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-05T19:00:26Z",
-    "hash": "42583e7924b4b67a8e7e76d4a49b073b53dfa3b51116ec4d633f7f22b9be46f8",
+    "published_at_utc": "2025-12-05T20:05:00Z",
+    "hash": "abd103c15f01aba6c4d7098fbfe83de29d269c3b393b23289c50467d1de9fcf2",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction: BTC Targets $95k As DeepSnitch AI 70% Presale Surge Gains Attention - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbGN3SzlmcXBLQzlpZFlOd1I4RWFIYkpFbkk0Ym1fcVpkNC1Ybi1Da05ZVDhKNGdxR2RBb0pqblV3eVFsUVRETDhvMGVleWM1T1lQRGxKUE9uNmVpai1Ua05zeV9jMUJTejRWUTB4ZThvVHlmcFJJZ3p2Z3BmbGFXRzdXYUR6cmpPSVl2cXpwcUU0NS1fVFRLdjVXYUJ2ZWV5S2J2WUlCR1dhTjg3MTFSSTFYRTMzUQ?oc=5",
+    "title": "Bitcoin Price Prediction: Can BTC Reclaim $94K After Holding the Crucial $90K Support? - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd3JCMWYyUnh4VXAyMXJ4TjNuSENDS3EzcmVhYzdrc2FpR0JxWG9qbFdTTnB4MzRsLUZ5elBPeEQyblpIand6SVhBQnBKaTU3eTk2c2FJZGthREY5MENSMFVtWldUTDhPX25McUlEdDFwYUtOWXEzeEE3dE9yM3o4U3AzWU1BMWloZW9ybFROYTV5VGMyTXRwbEVzU2hwdUFLZGpsYUpERDdVNzJ2c3lBMEdpTU5JSVU?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-05T18:47:07Z",
-    "hash": "4d7364b90605996a19acba25c2002e9abddb300aa19479220a6dd0c07b85e074",
+    "published_at_utc": "2025-12-05T20:00:20Z",
+    "hash": "21bf66cc84617955c93d33e3a80cb0261c23c8e00b3e80db531040f3046b46cc",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "SpaceX’s $100M BTC Lands On Coinbase: Sale Or Not? - DailyCoin",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1RzJjRUJrLXI0ZTBRN2hRUXJtX25hQUdLZmxRNmV0QmFfYVQ1NHp4STE4YXp5LUdaS0lXZGZ4S1BfaXNfREVZY3hPLVZFWmlPbFBzajZDTk04UWtjUjVxM0xxeEZscHhfWGprZEdERFNSTUloZ1ZnVkZHdWFxZw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin (BTC USD) lags S&P 500 for first time since 2014 as AI stocks lead 2025 rally – gold and silver al - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUWxBa0VCZFdBN3NDTkZ1dUl6TjRERXFkZmxjaXhQcXZHSjUtVzhZVVA1WW8wYjVLWXE2MVU4WXUxR3VyaVMtZUtjckVpbVgtRWFQT09QMnk0XzJNM1RpRk9SZ3BkbjlvMFdNMlNoX2lBM1E4OW83YjRNSlU0bjd4eTJTYWtPRVpCckVuT29BTFFjMF92bEhTVlotY1EyZDY5VEp2RFJoMGx2YktfdTZ5WWNCVjZ5YjdoZ1pHRzJPbXJsYkdkZ2N2Zk5JNHBvWnRFbk1UU3ZIdFd6Ylpyc3d3RWxWd1QyQi1zYTdvV3cwU0U1NzR6STBmdDI1U0ZZcHdyLXR6YTlOQ2NLcUF1YkxJV2p30gGXAkFVX3lxTE1mbHRObDR6UzRIdXZxYk5ydV9WbV9zVmg3NDlRcHF6ZXJ3M3JGV04xRkExVzFKUmRNaWJDRUR1VVhQVTg0ZjNmSmtRQlU3dlJFMXVpZXpqcndUS2U0V3d0eFZPMldRN0JPdlZnVUdKeGNsRlJtcUs5bjBEWURPakl6RE1vazdXc29HaE1BT0pLZ0VWMHp3M2hDMG43UXRrejY4RmxnWkVoT2RsMFpJcEVfWHE3aV94U1U1b2cwLWtOYWxVMkhoZ1k5ZWc0RVVwaW5HM1JuQTlWbGtyVVVMNVFDU3pxckozQnRNdkc5MjIwQTlIZ3d4Y05QMWw0VWhtV2RIT3IwaGhhTy02NzBZQjVSdDd2UXdsNA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-05T18:45:00Z",
-    "hash": "891055226a9c0b34b383cc2d556226ac04be966f7c4d6145f5d32d0563b1d9b8",
+    "published_at_utc": "2025-12-05T19:55:08Z",
+    "hash": "46d73048f4921a11ef7a568b1ce626b8ff12ec3ea2cf7a2612d746e4b87bc13a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin’s Struggle at $100,000 Reveals Underlying Market Stress - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR211Wl9sZVdHQ1hHWEMtS2RyVE02RXRkdnAzUldrUkNWdUxLbnRYR1VLRkJNalE1RlhlTGFpamxqelJhR050UkVpTC1tOWVaN251eHUwaXYxOVhFNk5TVDhadmVwWFVFU1lhemwwQlNTODFJMUtUYkZxN3lZcUI3S29ubUt3aUVNeVo0cktLYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-05T19:52:20Z",
+    "hash": "c3e01d5f3df54a9b6253e9f0a8ffb054d6ef28e0392e1b3770570e6f8f596688",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet (GOOGL) Stock: Why Warren Buffett Just Bet $4 Billion on Google’s Future - parameter.io",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYTdFTjZJTzEyeDhGdm8wMnp4QU5GMDF2NFBTM2k3UHRZRFlJUllveXRyNUNHaHcweWIyVDVCblZYTk4tNjloZEI5UjU2aVNKWmhxVnhIWXJyRlZsWll1MlNDTkJ1bGJzdmpqSWo1T3FhYWhZcmxBYmxyY21tMm91Qm9nZWp4ejlUUGM0UUVKa2Vjd25LYXRFRnFDNk5GTVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-05T19:45:32Z",
+    "hash": "1e4a939d29bd9c35d695abdd9b7ef814cdb409c1ed6f1606171c267bee5ce064",
     "source": "gnews"
   }
 ]
