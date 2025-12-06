@@ -1,62 +1,82 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "French Banking Giant BPCE to Roll Out Crypto Trading for 2M Retail Clients - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzk5cXdKak9UcDUzM0ZMZVpjWXhuS3BOcS1mcUVBTm1vNEZPbm8tODBYRktjWV9ncFFlaFJlRVZ6Mk5LRmZTNFBZQUNHeXc0X0FtX3R3MGRXdzhsWU5pOURzZ3BDREdPejlxVkh5NGVaSE5Jbmo0UTNCNnp1X0JwUHdaVUZiT0FLYVptck5IVU9JVUR6aHNhZURfTHZsT3IzeWxVMG14ZG1jb1JQQ2QzRDBjTTFKRnAyQmUw?oc=5",
+    "asset": "BP",
+    "query": "BP",
+    "title": "Assessing Aker BP (OB:AKRBP)’s Valuation After Its Strong One-Year Shareholder Return - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHBOMTBRRlMxcW9yQlJNRk1fOGRXcjBsVEgzY01CZUQ2STVCZThPSzZMUU0tUHA3bUJvRTM1Tnl5SjhzRFNPVkQyNnNOeWN2aFhlYWJkSnREMmo3RThlX1VmUmZyQWhINFJLcGFrUTBxS2Y5bnYzQ01Ja0ZiVVNjcQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-06T18:04:56Z",
-    "hash": "34308bcb8f0dc40dedd8fc54f92f1ff6e39c1332c0b8487d0d6a99106aa9eb9b",
+    "published_at_utc": "2025-12-06T19:11:32Z",
+    "hash": "afbcbdaff2f6e96480047ef092aec5b1779500e44baf6ba303e0885ae18d6605",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Chainlink (LINK) Crypto Coin News: Does LINK Have Growth Potential Like Remittix? Find Out More - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUWlPMHhSZmMxSjZwUEttbGhzUFQ5UWdiQXNSSS1EdkRYUG9JNWFVYkQ2dENpT3k3bWEyeWk5M0JXU1liU1ZRdzRreElLazlGSlAya1FkWXM0Z2ZUQkM1Q2Z0NDNpWVFhWWswWlNyWDRnVHhNekRVN3p1ZS1QbEk3dHk5UFJsRUxoQnRjVVgwYmtUd2p3VERCTnZSeExNaVNmd1pIcml1dXNpRWRpR0tneFlHVGtaVFU?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Outlook for 2026: Can BTC Bounce Back in 2026? AI Predicts Remittix To Grow - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3hNcnBMNXNPZUdIam45bm4wU2JZSUpSQ1NySjVJZGptRkRzZkhsQjlxZ0VBUVc2bW9nS0dGRmdOOEJ5MVhhR2RCOWRQTm9TeTR1cmRMWnQ2MnJrNzdMQnpsUVdVUUNzZWw2V0toQVRyUVU1ODZpUzN2Rk83bVQ0RFVsNVd0N3FWNVk5dHFjdklHQ3dZUVl4QVFNVWhNdU9nbXoyR0JucUdtekxYaXJXbG56QzBoamJLOUNkUy1DOXBMQmNTYWd0WGNiVTZ2aEpybFN3RUpWOA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-06T17:42:51Z",
-    "hash": "ed9d010a8533d5d0b77842ef96fab3565070003e5f85567d3a13fe7f2ac18e34",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Group Stock (UNH) Opinions on DOJ Investigation and Analyst Upgrades - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmxDVGE3dEZVWEN1U0kzbUc0NFlpOXp6MzlDT0FYQ1F4WkF2SFhQYU5pUVF2ZkR0OXEzVWYtVzg1anNFRXhhb08zbW5zb3hxVXQyWDk3b2s3NktCa3hWT2I2cHhrWGg2THY1NXQwTWZVMUh2bDJORW1MOHozRjVPRi1rUTZPOS1HY1hEWG1RWThwWXZoWDlPaDFrazhwMHREVDBMNXdfdTVkVWptamdWempDa1A2U19HWHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-06T17:36:00Z",
-    "hash": "b23a93031d932d54b9971c7cd7b8f804f3b11f8c2b863a18fbf74b9c5c4f4c45",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Where Will Nvidia Stock Be in 3 Years? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yb0pydVZyeWlNOWZHX3MxTlRpQVk3MlBMeXhOb093RjRHS1JHZmhzdmN5VGZXWWdCNHBZbDMwSkNiS0FTTHNGRk1OZHZ4czQ2TjhLU2N2ZVdzM0I4ZE43VDdXZXFyX2prUFI5M0o4QXNia0lqVlNxbUdzS2I?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-06T17:35:00Z",
-    "hash": "e893c3765cf765449e194ec4d42671c06fe17ec45450c267b406a9d6fbbabdf6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "BTC poised for December recovery on 'macro tailwinds,' Fed rate cut: Coinbase - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMVhfOGE0WHJqZlpJS0lsWGZRWFptWXVpQThxWTRYSlRsN3JFSXpDRTRLeHcxUjU1Zlh0cFVfZUI5Qk1jbk1oM3F3RWZJMkphTjZEZk5ZRDdYLUtWOWJNUGZrZ1VJN0lsNFMwSElPdzhfdjMxWVRaVWI4MnBXclZNWDRBdFcxNkNqRm9ER09vc1RUSVZuM1J2cDhNdmc2UE9ibnE3U2dsTG9vaV9JaXVxYWNDNEwwMXhSN2RMX1hJb2kzeWtQT2lVdXFWMnBkNzR6NnNHckV4Z3ktYWY4RGgyN1RyU1JDZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-06T17:33:01Z",
-    "hash": "64129a11afadb2bc4a00597afd4770e7e60af517616537e03802582d6fc60b8f",
+    "published_at_utc": "2025-12-06T19:07:14Z",
+    "hash": "bdc0ef46394b19193d4aa080ac67b682591b99ac28519c07bc96e5204350f666",
     "source": "gnews"
   },
   {
     "asset": "XRP",
-    "query": "XRP-USD",
-    "title": "XRP Price Forecast - XRP-USD Holds $2.03, Analysts Eye 40% Rally Toward $3 - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXNPVFk4cFZIM1BjWmtEel9TMW95V19lYnU3WkJEMW4xSGxkNjFyWlVBekp0S3dqNnFOQlJsMWlvdWs5b0I2TjZEa2tvUjIwS3BHLVhvT1ZmYVB4ZTZaTXFiREYxUklvTks3bWFRTzlBdWxwdTh6YXRCMTgwdVlqYjFyYWxIZTBuaXczZDExb0FQT0hMbnVJTFdMdS1XMGZ3cTYwZmNUQld4eDczMXVaQmhkZWY?oc=5",
+    "query": "XRP",
+    "title": "XRP Price Today: Will XRP Maintain Its $2 Support as Bullish Supertrend Aligns With CFTC Spot Contract Review? - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNM1Jabkx2YXQtX1Vod2ZkNXFGMkgwSWMtWkdYZXhPWngwNTd2c2tsS3NmTmtNN1pGc1FWcXNPN3V5aExRVHp6bW5fdVhzc0tUQ3RlaUJTN2RBZ3BaVzFYVXdMOE5RSFl5MjU2eWxqUjQ3U1JWNHQ0cmY4a0ExNXdEVTBwUDBOY2MyNG1wNVNFUVdwZWdRWVdiVTlsS3dOYWM5UDdMZWVnSHlJV1NTQnBXMFZvWEFWUnBPM1JMTTB4b1VQRmM2alRDMFM2ODRTNExGdmhVX194aHc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-06T17:31:32Z",
-    "hash": "818480157d46e06c055d2d7d42fea02852b6480429ff2aca37eba53a1a3b5b09",
+    "published_at_utc": "2025-12-06T19:06:57Z",
+    "hash": "fa066fc61cdfc4a9c319f19fd43449a026bfe44bee8b1648ce6c292c37caf8b6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Here's Why 2026 Could Be a Huge Year for Rocket Lab - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDhJVHc2VjUwSFh5ZzdMR05GcVk5NWJzVDBMem5xNDh1NFF2Tm11NmMtY2xWamd5S20tUmxmTk9HbVdzc185SUJrLV91S2JnQmxkMzBmME5oeW5neEhQMUJmU3lia0swOEpBalBfNm1uY2JNQVRYekxMaTNOQVFnNS1Ja29Wa2Y5SUVHTHJJaGYyd083ZFMzbA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-06T19:05:00Z",
+    "hash": "5894d6cead0dd5041720e54a47f2df23d395afdbe0ef12a07ee56d0d7483d4ee",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Drops 7.9% But XRP ETFs Record Net Inflows For 15 Consecutive Trading Days - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaTFKV1M1TGxSMFJJY2JmZy1LelBFOUNZa2pMTFU4bmNhNERGWVBEcXFrOHZXVE9xclk4c1JJSktGWTdKTWNjdXlGNGZpRExtbm11S25QQXhEOGxMVXBwbVpQR1d2TFU5TXItZ0UzNDFtRGhEV0ZaR1pCaVRmV1hjTllTdGZtRFY4MjluWENSdDk2ZHhDRDRmV0swa0ZMc0tuZ1BzUE4yQmhGNmhGOTBuTmZGT3Zrdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-06T19:03:06Z",
+    "hash": "c74265e4a10c5171d09aae6b8de3a4048056a472f2ad985d6e356b3ff8ba6798",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Dominance’s Crash Signal Observed — XRP, DOGE, Solana Poised to Go Ballistic - ZyCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaENBSkp4THZUNDJpT0xyV2JYNS1weDNHUWQwQzRlX0dKTUJBdzRrbHE5QWVZVjhYNmxoQkpDSTM1SHFPRy1oaEFkZXFnOG1YQXFmRWIwR3FiVnBEVjFMN0oyYTBLU2U1dTA0Wm0tZHZUUGNmbU50dTdWSGNLb1RKQmJqMGhFTk01bHU2WXBORlhueUIwTFB5SHA2aE1uMGlIQlh30gGoAUFVX3lxTE9UeE1JV3VIVm5pN0JtaGJBbUJILWhYdFpieW5XM2Y3eERJY1lOMkRIamwzNFFraVhLTEhyZEVzbUJYcGZPWS1Db2dMUkFQeGRlTFkxR19zQy1sYm9HQmRzR0p4WUtqaVpadnFoME1lS0l5TFF1OV9NcFQyRmtJMC1HaEMzVjVYVjFtRjFUMmlsaU1oZ1BJSzNvV2tfREFGM1BIQWVrU0sxcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-06T18:53:10Z",
+    "hash": "221be5bd55149d2f059eeece3ac81b1bbd90bd67f5f931d14181bb87fa670580",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin Dominance’s Crash Signal Observed — XRP, DOGE, Solana Poised to Go Ballistic - ZyCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaENBSkp4THZUNDJpT0xyV2JYNS1weDNHUWQwQzRlX0dKTUJBdzRrbHE5QWVZVjhYNmxoQkpDSTM1SHFPRy1oaEFkZXFnOG1YQXFmRWIwR3FiVnBEVjFMN0oyYTBLU2U1dTA0Wm0tZHZUUGNmbU50dTdWSGNLb1RKQmJqMGhFTk01bHU2WXBORlhueUIwTFB5SHA2aE1uMGlIQlh30gGoAUFVX3lxTE9UeE1JV3VIVm5pN0JtaGJBbUJILWhYdFpieW5XM2Y3eERJY1lOMkRIamwzNFFraVhLTEhyZEVzbUJYcGZPWS1Db2dMUkFQeGRlTFkxR19zQy1sYm9HQmRzR0p4WUtqaVpadnFoME1lS0l5TFF1OV9NcFQyRmtJMC1HaEMzVjVYVjFtRjFUMmlsaU1oZ1BJSzNvV2tfREFGM1BIQWVrU0sxcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-06T18:53:10Z",
+    "hash": "221be5bd55149d2f059eeece3ac81b1bbd90bd67f5f931d14181bb87fa670580",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: TD Sequential Signals Potential XRP Buy Setup as Channel Structure Targets $2.40 - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMnhiZG8wUXlxYUhlV013N3pIT2k2ZkFKTHpBTktwMlRKSjFzSkNFaU51Z2M3Q1NTMHZMbHkySkdlREZFdGxRUmp3SXM0ci1fZERGVkNSZlE1cU5JS213dFZoMHlUMnVpOVRSaWZtam8tVWIyRWoyMFhFNTY0N0NPUE5Hbi1RaVVQUlZSUTJYVWpKNXNfQ0JrLUoxMllIWEg5ano0RTRucURlMkxzZ2N4eFBFUjNJb2Izck96aEl5aVd5djBMSTRienFhMFp6TXM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-06T18:51:01Z",
+    "hash": "98a5a4db9563a59026186152c0e094459726f0ba718edaed6e729f1320bf319e",
     "source": "gnews"
   }
 ]
