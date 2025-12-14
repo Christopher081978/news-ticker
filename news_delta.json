@@ -1,82 +1,42 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "‘No intrinsic value’ – Then why does Bitcoin track RBI liquidity so closely? - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUs5eDFkZnJRYkU1NEZYaU1DOWFvSUhiTE9HTnNjNEVUajBVWk1pbkNpNGUtVFlHbENrYWFISXVkaDVLUExDb0tmQV9wT1JhNUc4MG9zZGVUYlhxeWtpYnQ0elBXZS05cHlwaFl3T0lKSFQtQy0yOWRhanhZSzdmQ0tUUHVOaGNOb3RxaVVLajl6VFV1M3BLZm9n0gGfAUFVX3lxTE8wSTk5ckdjTnJmUVpIVDFXWmNVZkFjQ21rQkJBazl2QWRXOEpELXMzTVlTMG9QR3Q4Qzhlck5pWjhRSVhlZWlJT1p4Mjl2eEotTHZEb2NFNHJ4QVlLc21kWWs1WHZDNDc1aG9qdWxYOGNENTVoLTlPSWhXQWxjM0pPbHk4Rk90VUlQTWkwLXFoSVc4M3NvREJKTUM2eFVHUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-14T01:05:08Z",
-    "hash": "d895fe9b68d352406c44d12858a41480dac7578405c9aa00e17b1538bc90189a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Mirrors 2016 Trend That Led To 69% Crash Before 110,000% Rally - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUERQUnA0SXc0QlBpRG4yYXFrbnBLTlBVeVZYbl8wY2lZUGZyZ2h6NWJ6NnFUQ2RRejVRbVdUM1E2dkQyRmtjVXFUNlBhTDhhSXBSTHk1dHBiVVFLaUt4SW8zVFBCYUlldURXSGo1RGdtUGlhZjlXX0tjZ0RWWl8tODVJbXltZU9rOUlfaWRyc0pyRjdDNDhsV19yZE90eG9Ka0VkS1ZfbndFNmlUTEZZN2NzQ3FhZWVkTEsxRXExWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-14T01:00:00Z",
-    "hash": "6d415a8be9a3047d975d5f099a6d4cd6aef13367ba6b67e948d53fb73c6411ec",
-    "source": "gnews"
-  },
-  {
     "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Cathie Wood’s ARK Investment buys 128K shares of Robinhood on Friday - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORDdMb2NTUUJrUGNVakgxY3dEZS1fUmlmQnRRMDc4WnNYcThaTE5yTVJSaXhnMVNfRzlNQmREMDVaWThWZ2UwUl9uWTQxUTd4c1FITzRWTGhCUW9VeFJHZkNDa2R5cm93N2MxOGFfekROQkJISzgzc2FNMWNuMXVzZnJfbDItTUU5LXBmUlI5b09iYzlFU21IdkptSlM5VHpWeTRaTzZJN05qT0lnUmJEZnNSRUY5ejdNWEU2Qk0xVEp2Z0YzMV9jSDFSM3FNWUI0NUVxWFY5YVV6dTg0ZkVEMzRMeUZFQ04zaTREWnN3?oc=5",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Shares Face Pressure Following November Metrics - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXZJUUFSbmZMMFNiZlVuQ2tVS01IOWRVbVN3bXZZUVhoWHdiLXFieTRnZHo3ZnM3bmhiMk83TWZYSWpKS204bG1Tc1MxX1I1YzVTSVY3MEg0cVl6UW9sZ1BqMnlmdUFQUm5PWVRzU1JKcHdHN3k5bkxSQVBQa0txRXZtZ0lqQmZhbzVOMDhXcEVQU2FqSkphblIzcVBIcGpTMlR5cmw1ODBfS3BBNi1JekQ4cE9mTFk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-14T00:20:08Z",
-    "hash": "7c8a67399e37f2b55a32e3c5a1f149904cc4a5a7a267e70b8707eaf1433d6b81",
+    "published_at_utc": "2025-12-14T03:45:04Z",
+    "hash": "089c8a2c49c95ade212c447acbfb4f1b076d5af9a40f21086a5385c1489c56ea",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Key facts: XRP Nears Yearly Lows; $700M Raised for XRP ETFs; Solana to Integrate wXRP - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnBseGlpVTh5SEJ0UWdPaDJELWFPbFQxRFhSSzQ1RkIyYlVjYWlPdTJWZWpfNjhpOTQ4WFFCN1dKZ3VnR2M2MFlrM2VQRGNueXVoY0dqMmk2VGNlYzZhZ1drTU1rZXAxM0dmZUdrQ0wta3VqOTZxUnY0bVlFWTZhMmZvYlNpcnRjN185QXBQMFJOZWs3QmxIZC1iMzc5QnpUVVZFRXpqQUhiRWk4ZjctMVVNLTlIbWc5SnVHc1lWNF9YSnJEQ0dKSzNCcGJqc2t4bFhvN3dEM2FHYlU?oc=5",
+    "title": "Solana hosts wXRP – Can $3.9B liquidity unlock XRP’s DeFi future? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGNESVpacFRBUGVnaFliSVIteTBSajJLdTUxNDFMMzd3d0RMY20ySzJrM05QOFV3SlRJNzl1YVF2MWtIUzFEcGIwdnRxTmEtVmRsRmdDM2JFSDRtX290N2JGQjJ6Z3RzZWl3Q2FOT08zdWpTNnhxLWF4dDF5LXg4RVFiLWhKdDloajJr0gGQAUFVX3lxTFBDb2Y3ZExLUGROOEVJdU11aDN0MEc1RmF3QnJNUFFBRXFlSDdkb2ctMWRRVU5wb1pIN0hQckFLVGMzbUpyUWVoSTNPRnVYdG83VVdwVW5CS3ZxS2pDU3RxZ0pndnlRX2gtZGVqaWcwNlRVdFA4NFFZc1BnSmJ0dnBGa04wQjZUMFg4TjQ2cnBfUA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-14T00:03:00Z",
-    "hash": "8cdb2ded7e8d79e6d1ac94762c4d418ee758f155f83aa1e0aa9dcda4ed2eefb3",
+    "published_at_utc": "2025-12-14T03:00:58Z",
+    "hash": "805142f9e750ddfb5f1546384d8685da13f236191c3b173f9c2a0c88f1d50467",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "$1B flows into XRP ETFs, yet price refuses to move – Here’s why! - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDRSOHU0bFhuSVhlbXBUZGZZU0hJVFVWM2ItOXZRd0dHYkVUNXBTUlJ0RDVlTG5vNVhkOFlRcGlmTzdyS3RrS0NrdDlMVTRkWHBkOEFsanZVRC1MXzlWb192QWhXOGZGcEp3cW85YWlwY2ROM09QdVdtVjhCYXZQUklrbEZsc2M30gGOAUFVX3lxTFA0ZGpYN1pkNDVVVklIcXUxN1ZxSzJpWFF1ajVtSmdnZjI5aE5mckRVQWQ4Q3NfbDljVWVMY3d6Y0M2Vl9vdVl1eWJSY1FjSlVtcW5zc2Zrbnp3ZXE2WFNBS2FESTcyQVZsLWZoblVETU9oaFZDcEJ5bHd4b09yaFFvXzJwRk9oU0E5QllUN3c?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana hosts wXRP – Can $3.9B liquidity unlock XRP’s DeFi future? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGNESVpacFRBUGVnaFliSVIteTBSajJLdTUxNDFMMzd3d0RMY20ySzJrM05QOFV3SlRJNzl1YVF2MWtIUzFEcGIwdnRxTmEtVmRsRmdDM2JFSDRtX290N2JGQjJ6Z3RzZWl3Q2FOT08zdWpTNnhxLWF4dDF5LXg4RVFiLWhKdDloajJr0gGQAUFVX3lxTFBDb2Y3ZExLUGROOEVJdU11aDN0MEc1RmF3QnJNUFFBRXFlSDdkb2ctMWRRVU5wb1pIN0hQckFLVGMzbUpyUWVoSTNPRnVYdG83VVdwVW5CS3ZxS2pDU3RxZ0pndnlRX2gtZGVqaWcwNlRVdFA4NFFZc1BnSmJ0dnBGa04wQjZUMFg4TjQ2cnBfUA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-14T00:00:48Z",
-    "hash": "b7de943fa372f648611da4af03d01e2186058291d9940b3d87704611cbac7432",
+    "published_at_utc": "2025-12-14T03:00:58Z",
+    "hash": "805142f9e750ddfb5f1546384d8685da13f236191c3b173f9c2a0c88f1d50467",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Executive Explains XRP Vision at Solana Event: Details - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUh0ZV9MZ0JiaVNlXzYwQWlHWWxtaFNMVkNCSlVXNHZ2RVhDM1VyNFk3VlhlMEstZlhidzlpY0dUMzBCVlREdm9TYVpaWHZ6bWx1ck5xNVNnelpUaXNmdjRlT0g3eGgyNTdUS1lXLUI4NVQ3OVZDd083NmQ4cDBOQ0ZoOWk0Wkhpa1BwMHVEYUVTNi1sVFpET3ZVV1NYcmNQMldMUjZibHhqY2UyQzRIVGpLZ293Z0RKQ1E?oc=5",
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Investment boom: From Google to Microsoft, why tech companies are investing in India - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV204N3JyNE9QeUhELTZ3UVZkOUNXQ3B0UXF6YnZlekhHUmVCWUV1dTk4TnJnMTc5LWV1ZW84MnUxaE5TM3Z0RzlxYU92RFdkZ3ctLXFNTzBKellaeEpXcE5pOE5ySTR6YXZxUm02SmltcXo0WDZqYmFDbFcwYllSeEdfaXlud1JYcFUtUTVaVXRyZFk3cGtYYlRrV1RGTS1NRnBiNWVGc0ZfYUhIeTRRQy1jcmx0OG92LWNnNnVmaVNoVFVTdm9WWlJSUFZfZk1HTE0wdmpzeFVnazNiNzdVcTlYTGJwUmdIVWVWN3RB?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-13T23:58:00Z",
-    "hash": "2df7be4c349da16ca490078a79fbe2b142b861a09d7c56100a8a88c7be184a1b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Options vs. Futures: Why Crypto's Options Market Has 97% Room to Grow - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmc4N1lVTVd4WXRZNUtBQ3FDemo0UmFNYVlBRHJmNFVDTGpmUTlmb2hDVmN5TG93cDJzZ0V0anhGeFhMbF9TR0F3NXpMdkpGZzRQNFpxZlU3eFdOc2YzUktXbGw3WTlhV0tneFN3NElCSldNandEQ2tsWE9vVUxtd01FQ2NqRHp3bHZJYjlDbHFHQ2YzRGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-13T23:32:08Z",
-    "hash": "8db384ff8ca1fb0a2184d3d9f6aa38e615d6288a9686390e509844dfa40a9ae6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Pi Coin Price Analysis Hints at a Possible Rebound — Here’s Why - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFdUtHVXpabmc1alZxTGtIZjQtd0dQSmxHOVRrbTl4cmRINENvSko3WlAzTGNmbzRhYm01TlBNWTF2cTI2Yk1CclZaMnNURDZFN2JPOVZIdGZ1enZQRUdRbnhKTGZ4MTFCZWZ4VQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-13T23:30:00Z",
-    "hash": "bb83aebf72d93778979dcec9185f5280c5ed5740aa8ebeaaeb468c944fea7748",
+    "published_at_utc": "2025-12-14T02:37:32Z",
+    "hash": "33e37a633cff16cac344572d7d054f2c05bace0f952817f28e357a3b806d362b",
     "source": "gnews"
   }
 ]
