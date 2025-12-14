@@ -1,32 +1,82 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Greed vs. fear at $3K: Inside Ethereum’s make-or-break moment - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNlMzenJtSTdXVUJMX2J1UkNGdjlpa1o0aGxSaUl1S21uOUEtLUxQTnNrc0VZeGJVRC1jUGEtZU9GTXkyVlE4Q042dXh2RHhXd0N2cW5KNHNIU2d6T18wSk9QNWtrbEVFVDdfUVBOQXpjY3hHbThYVkhMdkw1XzN5THlwRlMwVEHSAYwBQVVfeXFMTW55ZGVxU1JBSlU2NHRjUUVZbF9BR0VjUDZqeWhUc1JhMXBGTEVmcWlHN1AtM1BFbGNrLTM3dlJkQndsNjVMQ214SU50TXpGc1JDdFljd2dLdkxlTlFzTUZtZzExU1NIaDFTMDVXZ3BacmVnendDQ0VBbkYxeWNWRGx5ZDIyTHZ1eUJONkc?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "‘No intrinsic value’ – Then why does Bitcoin track RBI liquidity so closely? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUs5eDFkZnJRYkU1NEZYaU1DOWFvSUhiTE9HTnNjNEVUajBVWk1pbkNpNGUtVFlHbENrYWFISXVkaDVLUExDb0tmQV9wT1JhNUc4MG9zZGVUYlhxeWtpYnQ0elBXZS05cHlwaFl3T0lKSFQtQy0yOWRhanhZSzdmQ0tUUHVOaGNOb3RxaVVLajl6VFV1M3BLZm9n0gGfAUFVX3lxTE8wSTk5ckdjTnJmUVpIVDFXWmNVZkFjQ21rQkJBazl2QWRXOEpELXMzTVlTMG9QR3Q4Qzhlck5pWjhRSVhlZWlJT1p4Mjl2eEotTHZEb2NFNHJ4QVlLc21kWWs1WHZDNDc1aG9qdWxYOGNENTVoLTlPSWhXQWxjM0pPbHk4Rk90VUlQTWkwLXFoSVc4M3NvREJKTUM2eFVHUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-13T23:05:05Z",
-    "hash": "9b314ca0618ef0c765d3cd18b50963aa1b2b03fc8633bb9d39a82e03bde296a9",
+    "published_at_utc": "2025-12-14T01:05:08Z",
+    "hash": "d895fe9b68d352406c44d12858a41480dac7578405c9aa00e17b1538bc90189a",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's AI Dominance Is Still Building. Could the Stock Go Even Higher? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRzZZS3BxUm92RWU1SkpKZjFVcW80R2VmVGhJOTFfU25HTlpaQ3BvejJyU0hHajhhWjhobnJEMDJITnFXUUQxb0IzZmh0blRLOHp6NlFMM2luSFBUdXpNSExTRlp3dzNVRVhSOGhHdHEzeHBqREphVm12ekFpXzRhSE9ubmVCSlVUZkNyWU5aOGRLQjNVWTktRw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Mirrors 2016 Trend That Led To 69% Crash Before 110,000% Rally - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUERQUnA0SXc0QlBpRG4yYXFrbnBLTlBVeVZYbl8wY2lZUGZyZ2h6NWJ6NnFUQ2RRejVRbVdUM1E2dkQyRmtjVXFUNlBhTDhhSXBSTHk1dHBiVVFLaUt4SW8zVFBCYUlldURXSGo1RGdtUGlhZjlXX0tjZ0RWWl8tODVJbXltZU9rOUlfaWRyc0pyRjdDNDhsV19yZE90eG9Ka0VkS1ZfbndFNmlUTEZZN2NzQ3FhZWVkTEsxRXExWQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-13T23:05:00Z",
-    "hash": "7683a82f1e860b462ef22596b928b0ad1531121238c869c9f363ab945d92ad0c",
+    "published_at_utc": "2025-12-14T01:00:00Z",
+    "hash": "6d415a8be9a3047d975d5f099a6d4cd6aef13367ba6b67e948d53fb73c6411ec",
     "source": "gnews"
   },
   {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Is D-Wave Quantum One of the Most Overlooked Tech Stories of the Decade? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DRGtCQWN6bGNMV2piaWp2cVhzb0dJTjFaMnFGNGs3WG5qVHlNVzk0ME5LMUctbWJDNFNVT09VMlZvdGhpYTZQdExJX3JxRHBPbnJqRUNqWXhVSFFqNUlWcWhndlFJYXpPQk13MWtXODdzeWI2eF9fcw?oc=5",
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Cathie Wood’s ARK Investment buys 128K shares of Robinhood on Friday - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORDdMb2NTUUJrUGNVakgxY3dEZS1fUmlmQnRRMDc4WnNYcThaTE5yTVJSaXhnMVNfRzlNQmREMDVaWThWZ2UwUl9uWTQxUTd4c1FITzRWTGhCUW9VeFJHZkNDa2R5cm93N2MxOGFfekROQkJISzgzc2FNMWNuMXVzZnJfbDItTUU5LXBmUlI5b09iYzlFU21IdkptSlM5VHpWeTRaTzZJN05qT0lnUmJEZnNSRUY5ejdNWEU2Qk0xVEp2Z0YzMV9jSDFSM3FNWUI0NUVxWFY5YVV6dTg0ZkVEMzRMeUZFQ04zaTREWnN3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-13T22:30:00Z",
-    "hash": "f2667efe119959024b1d08293c0be91c67616e0ee98a14955fc77b16fb29850e",
+    "published_at_utc": "2025-12-14T00:20:08Z",
+    "hash": "7c8a67399e37f2b55a32e3c5a1f149904cc4a5a7a267e70b8707eaf1433d6b81",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key facts: XRP Nears Yearly Lows; $700M Raised for XRP ETFs; Solana to Integrate wXRP - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSnBseGlpVTh5SEJ0UWdPaDJELWFPbFQxRFhSSzQ1RkIyYlVjYWlPdTJWZWpfNjhpOTQ4WFFCN1dKZ3VnR2M2MFlrM2VQRGNueXVoY0dqMmk2VGNlYzZhZ1drTU1rZXAxM0dmZUdrQ0wta3VqOTZxUnY0bVlFWTZhMmZvYlNpcnRjN185QXBQMFJOZWs3QmxIZC1iMzc5QnpUVVZFRXpqQUhiRWk4ZjctMVVNLTlIbWc5SnVHc1lWNF9YSnJEQ0dKSzNCcGJqc2t4bFhvN3dEM2FHYlU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-14T00:03:00Z",
+    "hash": "8cdb2ded7e8d79e6d1ac94762c4d418ee758f155f83aa1e0aa9dcda4ed2eefb3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "$1B flows into XRP ETFs, yet price refuses to move – Here’s why! - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDRSOHU0bFhuSVhlbXBUZGZZU0hJVFVWM2ItOXZRd0dHYkVUNXBTUlJ0RDVlTG5vNVhkOFlRcGlmTzdyS3RrS0NrdDlMVTRkWHBkOEFsanZVRC1MXzlWb192QWhXOGZGcEp3cW85YWlwY2ROM09QdVdtVjhCYXZQUklrbEZsc2M30gGOAUFVX3lxTFA0ZGpYN1pkNDVVVklIcXUxN1ZxSzJpWFF1ajVtSmdnZjI5aE5mckRVQWQ4Q3NfbDljVWVMY3d6Y0M2Vl9vdVl1eWJSY1FjSlVtcW5zc2Zrbnp3ZXE2WFNBS2FESTcyQVZsLWZoblVETU9oaFZDcEJ5bHd4b09yaFFvXzJwRk9oU0E5QllUN3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-14T00:00:48Z",
+    "hash": "b7de943fa372f648611da4af03d01e2186058291d9940b3d87704611cbac7432",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Executive Explains XRP Vision at Solana Event: Details - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUh0ZV9MZ0JiaVNlXzYwQWlHWWxtaFNMVkNCSlVXNHZ2RVhDM1VyNFk3VlhlMEstZlhidzlpY0dUMzBCVlREdm9TYVpaWHZ6bWx1ck5xNVNnelpUaXNmdjRlT0g3eGgyNTdUS1lXLUI4NVQ3OVZDd083NmQ4cDBOQ0ZoOWk0Wkhpa1BwMHVEYUVTNi1sVFpET3ZVV1NYcmNQMldMUjZibHhqY2UyQzRIVGpLZ293Z0RKQ1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-13T23:58:00Z",
+    "hash": "2df7be4c349da16ca490078a79fbe2b142b861a09d7c56100a8a88c7be184a1b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Options vs. Futures: Why Crypto's Options Market Has 97% Room to Grow - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmc4N1lVTVd4WXRZNUtBQ3FDemo0UmFNYVlBRHJmNFVDTGpmUTlmb2hDVmN5TG93cDJzZ0V0anhGeFhMbF9TR0F3NXpMdkpGZzRQNFpxZlU3eFdOc2YzUktXbGw3WTlhV0tneFN3NElCSldNandEQ2tsWE9vVUxtd01FQ2NqRHp3bHZJYjlDbHFHQ2YzRGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-13T23:32:08Z",
+    "hash": "8db384ff8ca1fb0a2184d3d9f6aa38e615d6288a9686390e509844dfa40a9ae6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Pi Coin Price Analysis Hints at a Possible Rebound — Here’s Why - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFdUtHVXpabmc1alZxTGtIZjQtd0dQSmxHOVRrbTl4cmRINENvSko3WlAzTGNmbzRhYm01TlBNWTF2cTI2Yk1CclZaMnNURDZFN2JPOVZIdGZ1enZQRUdRbnhKTGZ4MTFCZWZ4VQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-13T23:30:00Z",
+    "hash": "bb83aebf72d93778979dcec9185f5280c5ed5740aa8ebeaaeb468c944fea7748",
     "source": "gnews"
   }
 ]
