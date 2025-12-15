@@ -1,192 +1,172 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by National Bank of Canada FI - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYkpQdDgyOWRqa2FzTTc2YUw4Z29GU29La3d3TlFnaUV5UDE2MFg3cEpicld1WDNlV1hzRGF3cldnejVkOWVFNDhTNzFpNFJGOS1vVDlMelpxSkZILWZZc0NiZ2xKdzZzT1MtRDNpWlRwR1VFZXZBVGdDczU1MDRxMF95TVo4OHd2Yk9hRmplNjYtVXpfOGU2VEJJdU1pd0ZNNDVRM0pydFlIZGRBdmJrb0V5TXlPeUxiVG50OXR4VjQ5LXREeVdkQXA3UzYxazBCenZvblJpUXJVVTlGeTRocF9yMlB3RDNI?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T10:22:23Z",
-    "hash": "7246fd13201a6fe3ed535721cf75c3af5201d16b43805a809700f42a43d40d26",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "National Bank of Canada FI Buys 28,139 Shares of CrowdStrike $CRWD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUtKczF1Tjg2TEtVWGQ4eWJkQkNGZUtCbXlHcm5VNnNtb0NDbUt0TVdYdy00NGd1OGMzaG0wT3lBeUoyNWlUeGUyU19UMGJCZ3Y3VFo1NnRwNV9RYW5nYmkzWEc1LUxqMlRZR0VBcWNwQnFubVZGWXRSTUFVWERIOHJrSUNwZEtxcmhkVldFczNIMUVVdlkwYm9PRjMzczljb21VcVdDQU5wMHlsemhFSi1IZU9OTkxkQmRXallLbWtnRUk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T10:22:22Z",
-    "hash": "1b33faacb8a1b9f2e2855c7344607325506a2ffcc9707d89dcfd1fa5339ade95",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Zeitmanagement: So schaffen Sie Ihren Vollzeitjob in sechs Stunden am Tag",
-    "url": "https://www.handelsblatt.com/karriere/buero-so-reduzieren-sie-zeitfresser-im-arbeitsalltag/100042356.html",
-    "summary": "Weniger Work, mehr Life: Das wünschen sich viele Beschäftigte. Eine Coachin und ein Experte verraten Tricks und kennen Tools, die Ihnen im Büro helfen und mehr Freizeit verschaffen.",
-    "published_at_utc": "2025-12-15T10:16:00Z",
-    "hash": "a05a74152097f32187a77bfbf944694840e051212e9ce13861ab9343ddef57f5",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Immobilien: Warum eigentlich ist die Nachmieterklausel im Mietvertrag so wichtig?",
-    "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-greift-die-nachmieterklausel-bei-einer-kuendigung/100100965.html",
-    "summary": "Aus einem Mietverhältnis kommen Mieter regulär nicht so leicht raus – außer mit einer Nachmieterklausel. Worauf sie achten müssen, um von dieser Sonderkündigung zu profitieren.",
-    "published_at_utc": "2025-12-15T10:14:00Z",
-    "hash": "6ef749af83a14caf0c7e1ca078251b985e8295c8b36beb746a5e8eb24cd4c18e",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Update, U.S. Jobs, Bank of Japan: Crypto Week Ahead - 富途资讯",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmU4UFc1Z3V6WTZpaG9oUDRmUl9oQlNZbkJJVHJLanRnMXBCdk1wVjNCRHFSekZpS2w1QTFQRG1iTVQ3UGhHZEIybkxWb3FDV0ZuZ01WRXJ5ZmhGTGp6VEhtTXJkbEt1b0h2S1JNN2FLalVTZ29IcE5KdkVtRTJYbGtta1VNVmx2Vm16S0gyUnZ5XzBLOGk5N19XaWk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T10:06:12Z",
-    "hash": "4d1048df1be88ac2a2d1e4fb73be2f8629a142f1b6de6329720861fc971ffa5b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Metaplanet Stock Fluctuates Ahead of Crucial EGM on Bitcoin Strategy - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemdUanU1Y0NfUlE3cEdWQU05eWZlYnEtX2FGbWVReVdodnpfV2xqUVhGSUtrdWZNOE5zck5UYjRPTFZ1NDdQeDc3c2k5OXdCVTBySG9Cal9mWm9MdUU1THNGbFNXanFZT0tNVUpIQTBQamRfWW9vV1dlSXRESUdXS0trd3Rxc3djS1NlRFU0MFRQRGlOeDZqUg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T10:05:04Z",
-    "hash": "a4ac530f3efb91290ab49cb4988710d8b06d067b7eaf85b71f99806147575c7c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Goes Live On Solana And Ethereum In Major Adoption Boost— Here’s The Whole Bushel - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDBXRU90dXFwd1RWcnNKNkpyT29rdDhGVEowdVBreWtFNVEtUUdtRTVsaEpuMExDU0FaUk40VGZZNHhXRDdJTlNZYmswZ1h0bmQ5NHEySENGT3dMWUpOejhTTHJ5VUdYM2I0VEpyZ1lBS1NIc3VGVDAtMWJuTWFETnFIcjJCaGRMLUkwTkNPS0lCVm9PZGJlVXlzSURVOFVIcFhFOVZUdjPSAa4BQVVfeXFMTkxrMGhFaFR4ejk1TEMyQ1lWS01yeGJvUDRMalp3T1hJRnN0QS0zekNEMGlKbEtMMmhNOUlpNUMtTUMtZUhRVWoyUldUQVBUY3ljS1RSVmV3MzVoUnRaUWp6OVE3TjhUYUxMQWNRckN0MWMxeHpqeEVacHFSLXZLeDBjeFB5eWx6SGhSMmVUYlNXTmtoWWRYcnNoMy1QQ0p2cGxzd2Y4RnQtQkE2YXZn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T10:03:59Z",
-    "hash": "c9cf87e40d30b0f853bfc84227adabb0fc92d0f6cf54c31610260bdb78f0710e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "XRP Goes Live On Solana And Ethereum In Major Adoption Boost— Here’s The Whole Bushel - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDBXRU90dXFwd1RWcnNKNkpyT29rdDhGVEowdVBreWtFNVEtUUdtRTVsaEpuMExDU0FaUk40VGZZNHhXRDdJTlNZYmswZ1h0bmQ5NHEySENGT3dMWUpOejhTTHJ5VUdYM2I0VEpyZ1lBS1NIc3VGVDAtMWJuTWFETnFIcjJCaGRMLUkwTkNPS0lCVm9PZGJlVXlzSURVOFVIcFhFOVZUdjPSAa4BQVVfeXFMTkxrMGhFaFR4ejk1TEMyQ1lWS01yeGJvUDRMalp3T1hJRnN0QS0zekNEMGlKbEtMMmhNOUlpNUMtTUMtZUhRVWoyUldUQVBUY3ljS1RSVmV3MzVoUnRaUWp6OVE3TjhUYUxMQWNRckN0MWMxeHpqeEVacHFSLXZLeDBjeFB5eWx6SGhSMmVUYlNXTmtoWWRYcnNoMy1QQ0p2cGxzd2Y4RnQtQkE2YXZn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T10:03:59Z",
-    "hash": "c9cf87e40d30b0f853bfc84227adabb0fc92d0f6cf54c31610260bdb78f0710e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Germany AI Stocks Today (Dec 15, 2025): SAP, Infineon, Siemens Energy and TecDAX Movers in Focus as AI Valuation Jitters Return - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeTRKdllwMkhJaF9NQVpmeHk4ZUltVzVSbThnV0JDd0pvMXRBZGRpU1NIVmUzTzdTRnpMYXhicEZ2bzlBcDhfX3lFZ3d3aGs5SGhIdmVuSnIwYmxwV0xWbXRFaGdDZ2I4MW51cWE5NEVLenpPdTdvUXQycHZ0VU9JQ3E4U1ViNk9Tc3VNSjdxYjhfcVhaUjF4bmhFdEdoQnFsbzROVVNhR1JRc1RCY1lQcGxVQzF4M0UxdTZsOV90ajJodUxtdERZQ2ZCTUZNV3BTazBQVURjaEdyQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T10:00:05Z",
-    "hash": "ef341f196ffa64302dd3edd632d6eaa356dd8b8c1a240db4b5d4bf87a404d067",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever (UL) Rated Overweight by Morgan Stanley, Eyes Growth - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGFZdGZ3Z1RoeE1JdVVKUnJYaFN6eGVvcmFKc3FuN0s4Z3UtdWx5T2QwbXBTc09aZ1pKX1F4d2h6dTBDSlduNjlSVXJNZC04cjh4eWZDUHhYaDJBdll0VzRuaW9aeGlpcFloWjRMWVhfRE1iR1I5RklWOUNQZGpBdWE0ME1XZmRzUEJDYjBjTklmaTdheDNyYjRHTExtdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:59:34Z",
-    "hash": "b0695afaa6c551cf00175670146903476a979a71056eff7e5ba66c7d2d5791d1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Accumulate Siemens; target of Rs 3470: Prabhudas Lilladher - Moneycontrol",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHdiU3U1NHBBYzRvV2Z5TTJsU3ZPeDVicnNOb29GcDFrXzV3NThXRi1UeVlxVXZXUmI5QUdNMmdPTnA3Yk9rNU1wQkdWT0FIZExvOEM2dWp1bkZxR3E0TGlMN1NCRXAxRVMwNVVaRlN3aWV3U3VBV05mblNWRVFrZHJyLXdSdmJWUXZLMjluRzFmaTk5WFYwYVREQXdSMUt4TkU2MWc5MmxHeFc0eUh0cElya0wyV2g3MkpSX2ZMSdIBxAFBVV95cUxORi1qX2ZVOEZZMUFnRG53MUNSR0haSzVwU0xaVW9IT1Y4VXBCZXkxd2pXeHF5alN2bUF0NlQ3c1pBMS1fWEN6VzNOODNndWw4TEdMVDhPUzl6TFVDbnJXMDFEX0EyYmk3ZjN3UTJwdGFKNm5Hd3V2b09TTDlta0M4dmJqMU1xXzFuWlBiWEFkdkRXb3lEQXRsLXNlUFNENjJoQ0cwV1lzeGdmb2RTaXgtVWoyZU1BM0RGUklLem16NVVleS05?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:57:00Z",
-    "hash": "9ac081dcc42b6dfc197219bdc87b16c7aa343a5912c645aa4853a5a4b286c50c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Today (15 December 2025): XRP Hovers Near $2 as Spot ETF Inflows Approach $1B and Key Resistance Holds - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0gtQ0JwemZhS2hmZjlYNnRrRUJqNzlzal9hazNfV1VGN0dfYzBkdHFNUDdoZjRnUmR4bVV3Q2pqc0tUZjIxcGdoblNGS3ZKUUJEZHotUFVhR1kyOFoxbE9DeXZoaHBPX1VQTkRaWk9SbTk1MVlzRjdqcUVXcGxpOVlSSUtGeVFxZjBOMlFYallLVmdUT3dvT2NVLWIxUVJlcGlXb2RUTXhRSEhxUVk4TTlFRFpLRFBJbGQtdzlycUowbXUtX0Y4?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:55:05Z",
-    "hash": "268a7a7d734926670a412763d099e4d61513ede0781fdc512872f9734bc6624d",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Hilltop Partners LLC Purchases 6,483 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1duS0t6QTRKMnFnT09CUFY2Z05iaUVsekxqcHpmeDJjUjQ4TTFRaXlZRTBXXzNOMnh1WENPNG5lUy1XMTRQODJfTk90QTJkWmFzaU9kTVBjSVRJa0JyQzNPNG9walZXYm4tVmptSjFDNEk5RUU2eDNlRG9mRmY0d2EtQUQ5czZHM0oweUd4UTVmVVM2ZWRQOG1pcWNES3gxRnVhYmxZNlp4X09ha2g1VjZFNmtDRmFqWjZkZ0VkNmstY0tMeHJrQW9n?oc=5",
+    "query": "NVDA",
+    "title": "Liontrust Investment Partners LLP Sells 35,876 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNVVSTThseDMxNnVLTHZCYy1vZi1KMW5fYUlVRkF0TnVpeTFZblFrVXpDbFh2Rjc4SERRUEJTZGRXai1rMllmRGdzbWlkR0tYaE9VRE1pZkl3azRiaElqSVJLaUo5aWxneTljRk5BLTVHd0hfR2Z1ZG9ETkJtamdwVl9MQm5QRC01anZsMm9xcl80d09zbjBHSnFBT21ad0RXZW5sQzVaMDFnaGk3RnNRTWo0T0E2WVd6eGZhdnBESmVaR2tmX3lyU0h0MXAyT2ptblNkckV2WQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-15T09:54:20Z",
-    "hash": "5c5de9b6de2e9b1414c946ed16eea95f10c4b955a0e4486515c579d0cfcc4541",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets Stock: Is HOOD Outperforming the Financial Sector? - Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckluc0hxWWhYSjFRZHZUcDlJMDhPUXRjQ1hQSjlfeldvaC1NSnRZUUxaVm90SXQ3bTJTanVNMmV1SE5xemlWQWdCZTFWSUpMQzVvRFNxNjhWZ1R6MUZJRE4tRWpnb1lWa1BrRmw0RzVqUEh2MFNHdC0zdjB6elNjX21nOHhPeXhMWHFQLVlxczB0bG1TeU9YQjlQNmttUE5hQzMwLUd2TGRvTVE1YzlkRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:49:56Z",
-    "hash": "185fd419946aef9e238837040b86cd3fd88bf16d5f91294156b56e9050814697",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall Reloaded: Europe’s Defense Boom Turns Into A Historic Stock Run - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV29FLXV2alZZdV82bEJXX3RFb0VqV3hobVNNSkZwU2k1eUFFUTNGT1gzNUs4c0JLRUhiWjVVWHZ4Ymx0bkctRXpkZjE2SFhzUnJELTRmU0VmbjNqNzc3dUFpeHRsNl8xQUdoU3N4VHlfYUxzemNaTmJ1YWotSkF3MHZZUnU2dUZ6MUUyR1RRY21DU2o3bVN2Mk9FQ3dGWWpiazhhVTNNVDdwUnQwS1VXTEpSQlN2WU5xMWdjMzc1azltSm1RQ3BPNWhHbnJuMHNaV24tXw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:49:00Z",
-    "hash": "ab351ea0834ae730d9231f4715eecaca2f070a53b91d021b0a06c12222bb1782",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Fear and Greed Index in Fear 30% of the Past Year, Bitcoin Back in Extreme Fear - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbGxLRDdNa1dXRkNxMjRFSEJUNGdJRUZWZFdqR2JrVEJrZHl5S3Fwa0F6b2poQkdpTkdycDRxcWNTNm5yQlNKLWpXMnV1NjBpYkNPRlNoOHB5Z3ExVndlaVREcUhnQVFhc3VhSnJFZU5UcGtsY042TVBkMHBialppd2dtYzBWcC1BejhUWlBjWDNwTlFTSXAydFB3RnVKd015WktwXzNkSWtrcy1aMmlNS2NaT29zNmFxM3hRWFl3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:45:57Z",
-    "hash": "66217e36796489cf59a9ec8e8acee918b2181c6c3a6498de7ccb8f386dd3f295",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Today (Dec. 15, 2025): BTC Hovers Near $90,000 as Central Banks, ETF Flows, and Fresh Regulation Headlines Drive Sentiment - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdFVXbEozSUIxSW1nYUNVVkdaR2dKX0NLa3hFb29vRkRzR1g0ak0wSTJ5aGZ1MlZQSGJQOTZMT2VkR1BEVVNoTF9vTjFUSElCQmRWZDR6X05pWWVDQ0FwQk9qRUpfbWhJVkVXcnZCZXZLdWVONFg1V1h1MFJtR0pBVmF6MjFZc084dnMtWTVvbklrUDktT2xEV1QwbF9wc005dFYxYjVrYnJsWFREXzB0RS11MXVFc2RDM1NaQUtwci1CSG9HQjVQR09QamFWRlNLRmx4Q25udEl6Y1l0cmRXa0h3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:45:05Z",
-    "hash": "027aac1886efbb8a92e2dabdeaf212ac2b49621639822d96d4d76a4dbc0f6d3f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Warren Buffett Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $835,000 With Help From Nvidia, Apple, and Microsoft - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGJVNGpJdzVsQXhpN3YwdFpMY2R4dlNKVlFhWTdpMkdfbENKS0ZMUkhpYjFWNEQ3dG9yRm1nbUVIM0FPdjhyRnNMaUp1bmxGdU9EaFdZaF95TWNEeTItdXZPakZ6Qmx3ZWwzLS1zRE9DZkJVSlFJU01IT1FhTzNwUERoX0xJSnQ2c1NfZUx6TTFTQkZ0THc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-15T09:45:00Z",
-    "hash": "acd5230a012acb8bfc769d5c3c183dc8d93b716110708876fb9f2e93c04d34c8",
+    "published_at_utc": "2025-12-15T11:20:53Z",
+    "hash": "c3a5472781cc0dfcf5c43a5db2b8d2eeba04f4d1591f256dc959d80ff5243862",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "GOOGL",
-    "title": "Alphabet (GOOGL) Stock: SpaceX Investment About to Print Another Billion-Dollar Gain - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnJUbEZMeEdQSzVhMEV2bEgwbFlBQ3VWMjdUeGhHUEJwaE1zRGJxUUlrTHJHWXoxZ0xYWmxyZmZ6TWwxcWtNMXJfb0owSzViVmZBT2piZXBkTlpRWXF6VXkzYUJIR2R3bkktdXZMQms2ZlJnQWtSQnVrRVNBUWdYOHFZWGlzOElGYk4zeV9vOUFOb3BaQWlxc2NVdzFmQXdhOFgwbkd5RklmZw?oc=5",
+    "title": "Alphabet Inc. $GOOGL Shares Sold by Liontrust Investment Partners LLP - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN2hhclhYb0toS3poM0RXMERmSHdsN2I0TUhtXzFiSVpDY1FuWXlCakRxUFV1WlYxWElCTUhfR2NBdkpxWTE5VjU4dmdRbUh3OVFIVWxRNC1KdnlDMzVwdEU1YVFpdGVqWjY5TkhFRDJRYnMwNkF4Z29JNnduQzROMkZVQmFVdlU0Vk52Z1JSck41dXFHTnF3YTJPdXBXMS10eWFXZTFwdkExckRDTG9ia1JGeUx4dHhnQ1NjQXZ6S1VOVk5XOVk4?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-15T09:41:52Z",
-    "hash": "55fecd8a8864603f1e0f933368d897bc8e6b3aa492e5e15b027329e886f2cb2c",
+    "published_at_utc": "2025-12-15T11:20:49Z",
+    "hash": "944a8626f20a5770eb5abd457f9b7824bcd23fa218c082537f6f396d7ccdda21",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Liontrust Investment Partners LLP Acquires Shares of 41,274 Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlpfT1RlNFVrakJLZWptbU9XRHNESWd5eTdyTEFNYjRoTlFDaXdrLUtrSlJFbFVsbXgtQVBMdFloNjBMTFBONm1jZXZ4bzNubEU2NmVWWVVRd0lCOXExQVFSdWtrWE8zU1lxU2ZpaWpJeElMa2dlUWdUWWtLMjFsTElGd1B3ZUlmaVdUa1htMjltWk1udDZXTHNib3hkX2d0VEhTY0U3OEdtYjJodmNILUFjU2xnd2pJVmpBb2VxcTdNM0I5ODBhazRQZVUydVlxc2RhcDVFal81WnZJVXpj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T11:20:43Z",
+    "hash": "5a4b3ba0b48f9a68b9476c9e04351178a650626e322c90334869be9e2c20e896",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Stock: Should You Buy After This 20% Pullback? - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkdwY0NGVEFJWTlVQ1dhOVhkRjBZVHF3Ml90ZEozT08yRXFfWEhRMUJhdE5hUEFrQkxCamIyRF9pVjZ1V251YUZ6ak5LaUhXMjdNTnp3Ri1VanpjQVpHWUd5VEpIVEZxT2lNR0E5MzNqY0N0NXBoay13aFVyU1c0S180dTI3MWM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T11:19:40Z",
+    "hash": "5e2660b4bff9895ffb13d5edc8ecf0b41477506319e8f3a0ab76df354938b70f",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike stock maintains Market Outperform rating at Citizens with $550 target - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdnd1TG9vdVB1TldfX3hWMlVGUWI2OXBNNGlLaG1MQmlnTGprS0U3OUhhMWZPUUFxa2RfeHVyRm9qdmdSSUFMdlFyYVJfbEViTGt6aGtZSGVCOC1XbXY5SjNaeFM3ZFRwREtuUnBhQ2E3dWVFNmR3dDNTaldEeDBDWWVQUmhNN3RKMXJhN1hVbGYwSVhrRUZMejJVMS1jX19TMk5ZbXhyVnlNZE1OYjBYd09QQkkxcm1QY3FWbUl4eWJHaWxDa2VJWFFhWDRkMWU0bGhDb1VSdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T11:07:15Z",
+    "hash": "2900ff3806d03e70eb33c344591d94655dce1bd8a7d11040ea4bd2cff8dad88b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Tactive Advisors LLC Invests $323,000 in Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3U2TmNuWS1CbXEzSVVlcmYxV1c2SzBjbUpua0t5UGUwZGU4Zkp6SE5GLWRBNXlEVHBqMllNeWMyUzg3ZlhtYlJzd3JBT3M2dWdlNkZ2TmxxbG93VWxhMGVZeElGNV9MY1N0WDBUd0dObGpkNmhfQklLSTRrY040N25CV3pVSGs2ZmpnTktvZTJQNVh1clVyQk1pTlFqOWxtd2ZqemplMExfdmMzY09FakxCcEQ0NXJoczV6enRZMDhyNVRTT1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T11:06:32Z",
+    "hash": "0621811bd50a8fc88966bb98d8b26fb475de4b203b0cf0a7f6c34f0395f4d6af",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "An Ethereum whale raises its holdings to $1.7B: Will this move affect ETH? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS01YQ1gydHJzeFVyMWZEV3JEdlNvLVRlXzU3ZmJPNzlvbUhXNzFiRXE2SXNFcnQxcGNDSjJUNGFQaHdmNnZBR2dsbGtaUkphaXBYaHFpOEFqN1FWSkxHdU5pN1JyVURZcGo2am0zSUtoWm1FWFJLZTJkWWt1RWhjSWZPbGZiV2tQVi1FOWRHSk8wQmJ2NDlKZm1B0gGfAUFVX3lxTE1TVkp5VFVYbFV5LXJFcnpTNEhFSm9ycW1pcGs1Rk9DSVlpdTh2dHMxcUJZUFR3WDFiekhrUTBPanlXdW96U3drakhBZjRESnl1V3MwLU1RV0JacTRvV2hpeFNoNTlnako2M1V2eGIzRkV0NDhkVWtHUGctb2pMWU8zZnpfcktBblpONXBQTTJGOGFfdWU2dFd0VE1rMU00Yw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T11:03:45Z",
+    "hash": "ca825d7090534075aaac359696b40e8937d58520ddbce4f41e4f6080e36eb829",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab Stock (RKLB) Jumps on Major JAXA Launch Win - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzFkNDhQSmhQaUxpQTZidWxwVmU4WkhZVUpnM1IzYXIzQm5lZ3laMnNqRURYUjNsZ1Y4Si1qU2VBM21PN2dBdzdzUGw4cnZUa1VrdmNGTG9LRUdXdVJ4WG9BMzFoQzIyczVlRjRCNUwwZm1qQnhnQk1qWFhwUUZEZ1ZZazR0T1oybU56SUVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T11:02:29Z",
+    "hash": "18c60e7d0a142548963b382c97250043a9974d14ee99e81e3322ab6f4631ae2a",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth’s year of upheaval and investor discontent - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXZCVzNwdDRDRWRocFRYenFpWnVrTndKdjQ1Wmo0LU1SLUhmQkI0aXdUM0taZUhYNWl2YWpoWWVrRFdkLWZhdmVIc3U5RDZhTk96Nnh6akZEM3FIcTZlX3UwY29CUC1BU0NySWFCRjRoUmZ3UkN0NDRSNGZZVENza0tkN1NNSHYtY3N3RHF4cw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T11:01:08Z",
+    "hash": "9d3b4f5d3cdcb9cc80aaa25c928743f6f44e5cb24a33c41db7c0179a8bb5ea7f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Forecast: Bearish pressure persists as veteran trader Peter Brandt warns of fall toward $25,000 - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYlBVbEd3Ml9jRWFKNmVmRHl4R3BBT0FOdmx5d3BCeEppRmQ3cGhrQzZXbjZ4aXBXTXhrMl8wVXlHb1RlTzZlSnhpMFpoenRZVWwtVXhhNllhZkVSYUZTcGlBOVFtcWNfY1h0TWV6S2E4SG1qQ0tDRGp1aDdMc2pTREo3QTI1d21XaGpKYlZiSUV4YnFpdHJqNnZkaTIyMG0yNy1abWIxdVVPTUJkQ3VZR0lybWNzakNqRDRvMHJJaG1LUFpDTGg0dncxSTh0SjJOMEVqZ2FR0gHbAUFVX3lxTFA3RTJiMlhkVmk2cDlaMzN6WlA1QzJZY2JVMjdUVnBuaHB6Sy1kYjJxeVVhMk9tYWo4b3F3am1OS2lqeU5PcldTUkx0OEV2QzdFNlEzam15UlNwWm9UN1JlQlJacFRablVUcGpBM2VBRmhrRmtQMkJZdEZrd0NJM05hT3VuaFJoUGE2MzA1djVCNHdMM2F2SlNiU3RmVzA2b1JxNlgzN3U0MVNpdHBaeGJCczZVM3o5Sy1jZTFTYm1xWXd3UlhuaDVKcG1BRU1IY1pVRnhCNUJjMzcyTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:56:31Z",
+    "hash": "f6cc8be2410d6115561d7c27ca95210bfd7a0208d89cad37890fbb66e79e897e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Stake Reduced by Pitcairn Co. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0lROUdMd2RpcUhlOTdjSHlSRkFnOVVFbDhta3Ffd0pYV3lmVUZmcllWVi1uUzRMZ0s1UHNKbklIQk9LZnhCRHIzdWV0aWU5NEdnSDY2U0prRHJYQndrQ3N5NHlJRG1adEp3YUdsQUphZWRUY3RQZ0tfUkxIZmdObVZDdUJfb1hBbTRFejA3Rnp4TXRaMk5CbG5xOENxRGJKMWMwdjdRdTU0S3pJdzlpY0NMaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:56:28Z",
+    "hash": "82a413a045d0f8bf2cc8afb944f50025425056bd7e1dd330260f7a768558f41f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Standard Chartered and Coinbase Expand Crypto Services - Altcoin Buzz",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNamVwaDUzZWlFNmFLT3dLMkc3aWN5eTZMZlNkenpSRVhOWjlHU1hFT0V4dkdoSVRzMWlOOEJIa3pwRkdEX3BxYURseWNLT2RHUTNjS2FtaG52Q256ZG5ReGE4cmNVb0JfQXRSN2YtMHdXYlRpNXAwaS1IY0VYTlVydGVOQmQtclFISTBUMnhFUXhHM0F2RlVWZ1pBcW1Fek9HelRNRg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:54:37Z",
+    "hash": "aab6da91ff199a676fd9d3317cbb221505d6dd47c62d3b52722ec044ed8ff5b4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin Price Slips Below $90,000, XRP Falls. What Can Spark a Crypto Rebound. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPR0llaGQ0SE5PN3o0OUpCNncxSVNhODFFdHNLUGlwLTdDMzU1NmNqS2ZwN2hPS3NoanB0RHJRdTVDTWQxT3U2TGlnTUJkR0hYT0lfMmNqc2xNN0lqTi1PSm9tbHgxNzI2Vm1LeWpIdEthYVJPQ3BDUjNZRnBtajVpbThzZHlMbmtqU0NXWXhGMjlNcnFDUXd6YkdHTlFrOV9qQkc5RHNwWVA5NGpzVE8wdUdnbTRoeFp1RVY0LTZSWFNiNEYxWHdTNjBhRzFvVlY0RXFtMDNnd1FOUjM0YnNtVlpEMVdJNFplVTBGUlVZYlVHWnhuYUIzTHZiQ0dNd1JzRG02Mms4ZGJjd2MxTkpVRjQyN3lKd283MmR2MllNQzMwcGZMdDJPdV81WHBhWk16UDZHNGhWZDBzZmVQRTZBTF9qcXZkbEhpcUxGSG9pOExxU3IwT2lac3N4aDdkSjNDZHNDaGpFdUExMFlwRGdmWTZvM3BYanAyODQtN0RfNjVlT0IwTVRGMUIxVEN1a3hJNGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:46:00Z",
+    "hash": "cf8308d7a55dcde0abe6f05994d8f6f9b3e2fb7ba574f139c8074f1336570290",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Rumored To Announce Prediction Markets Partnership With Kalshi Next Week - Yellow.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORm4yQ19FZDc4dnQwRTFYbnFIWk5Fd0l4MFl2WjZGSC1kekVCYkFJNkhua2h6ME9qbU5BcFFwX2FGWkN2dldsWTFtc2JmMWhQbUZVVTYyUmctcVlRODR3OGxyUmt2V21OQkEyU2E2Q1dodmdNa0M4R2tjcnFsRFZ3cEljQXRYMHk1TjlwOS1EbmV5cVRGYUtDUXVpa0NtdlByZWtlcjZxSXg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:42:48Z",
+    "hash": "e1f06e297a3cf9df2ba5618a11eec9b2adae011d99e793423e01d9bfbd657cf9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Kestra Investment Management LLC Has $1.28 Million Stock Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOUgzSDY3bXhRZDktaTRRem5PbFJZVENJOVBWN1RsY0tUSkQ0TGNCWEpkZTNCbFdUdFg2MW1vSEs3dUZxaEtFWFhMQWZMd1c4Q3pmUGJ6bDlBVWk0T3d3Q1VkU2RZTnFXOVowazVDT1BVZnIwQmtBWFRvdlRXQ2xxem1mQkplc2lvbzkzMnNkZmZsQ3ZsVDlXWUNJeDljT0h0cVFhTmFTN0l6a2ZZQWFOWEZ4aktGbXRRZ3cwZTVDZVJWRlRkMTF3aFlfRVFUUjZKLVBheVdJRVpjQmF2N1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:39:25Z",
+    "hash": "cb8a0d5035e7ab8a2e8b93396c33907afb3656df28dd9b9bfda01b3d16a7b1c7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "What's Going On With Rocket Lab Stock Monday? - Rocket Lab (NASDAQ:RKLB) - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHZfMVcxVGM2MF9YOU9EbEFvS1JzcU1MTDgwcEJmTEN3RzgzUXBiR1JjamNaMjBITEM4TGhtM1h6U3pYRnhNYnc5U0ZqVzczQjk2WGJrMWpielhKVERTcFh0bFFBSl91LXVSMU9wNnV4aHZqUDRoVmhmQTR6TFFHZExwRnRtTUUxbWs3RW1yMHBUVEFNYWdtTno4N1pnMmlydGVuLUhzUWJrVUUtbGxQN3lBWXI3VlB3WWJ6Zm1WUzc4NVNN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:38:30Z",
+    "hash": "55f5bbcc87d6874211f87e1bf214f005eb06d4140a38ae42b30ddf26d78c3e0c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "US Just Approved Ripple and Other Major Firms Into Banking System — Here’s Where XRP Fits In - CCN.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWk5MlFRSVZza3lsMmpHa08ycGl1NHdTeENUcElnemNwSE1tc2x6cVBQSDdlQldleW9ocTlsWkx6WjFPSWVITW1tdTV1cVB4SXpIVmkydnhfREJCX1dJbGRPM241RzE3VElwMkJoaGlOYWMxZmF5b181MjVUYk1TUGlEQmVrb3RVNEdIZnRXVnV5d215UTNhaXVBLWZNeG1pa1BTUWxObXR5UDFq?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-15T10:38:10Z",
+    "hash": "32f4dfab2cf5951636145799e7563adcc45d54097bd7170dbc6284d9278e978b",
     "source": "gnews"
   }
 ]
