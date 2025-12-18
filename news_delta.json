@@ -1,72 +1,372 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Enhances Platform with New Stock Trading and Prediction Markets - Blockonomi",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc29RQ3F5Mk0zYlF5V2wxRDV4WHBpa3NyVW5QcWdzdnBMQ1pyMzRMM2QyTTZZd0tFMDN5V2dUaF9JR0lSdFZNdVFZbFAxQTU5aVVubGRvX3BqYnRSQmFPM2tvSHgtTlFRLU14VlJrcXVsaUI1NE5HbXlBbGFndTE5Z2kwQm5tSVZyU1VfTUYtSW43REw1N2l6SDRYYzM?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "UBS asserts buy stance on NVIDIA Corporation (NVDA) despite China H200 chips demand concerns - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYklZekV1SklIMVF5ZnVYQVNrWnpJemRQdUVKQ0VjUDRkd0NkY0JGTnVjMnU2bWg5bml3UEtMdDZ1WXZJa0Y5dWEzOXZ2Z1daRVNRZnVzU2lwWk5zRUhIejYtZFA5V0NGYjhKV3NBNkdCa0tKWF9qYW96bnNYU3BzODRHQzNEaDRDQ1hCbGhBYkFRcVE3ZjZMZVkzTjdEUENOR0JtWUhRRW5sT19INHI5TlQzaTdBVGw5dlk2WmtMQU5laUhLUVRHellqcEpzOXpIX2VXZWoxWmJMQTE0VF9LWGdwWUM5Nk9SVTQ2TVNheEx1QmVsLUN6MkR3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-18T05:24:10Z",
-    "hash": "13a1f895115a71ed9eedac410190532045d3da01d13fba04ad468217a8bbb2b6",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "BTC, XRP, ETH, ADA Price News: Bitcoin to $10,000 in 2026? It's Possible - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjl5TkZ3MjNTXzFZTVdnQk9nU0g4eFBqY0RqbE01cWVZUWZSZ2s1a2VYMFRDV3VLX0dVOTRNWXEwa1ZUeUIzdG5jMkJhUTR1dF9RZlZYRmY1OWxLQ1E5Y0puMmZuYjJzdXFKbV9EQUdmYkIwQjQ1RzJ0U0huNEowYlB3RDl1MTUxdG9PcmozV0QxWGY4TFRfWlF1TGplYjlWRUJKM2Q4MWtnajFrRVlvQWswQk1FTTA0Y1hCS2pycw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-18T05:12:53Z",
-    "hash": "8c390a01b2670a6ff9391d8a68ae7126daef1370335ad1240f8d51b4d4cbe425",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum price prediction for 2026: ETH eyes modest gains while this $0.035 altcoin emerges as the best crypto to buy - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSmx0LWZhQ1VmaE0wc0VVVG9jNmZwNEh3S1lGVVRZNXJxTng1cVBScHlib292SlBudkNZUnpBbmJTRU5kNmp3WnZLR1dfOHEzbFJUeHcyRENwZ0xLU3FnRGJqdHRoZ2dpRkwtd0JmeWlHeGxQb2VUR0hyclBDUkFLV1hzQ0Rfc0JGSi10YXprTUFTeW1jTlVmYmxwUXljNFQtM0UtWG93eUlEb1RYcjBkajJ5bmFPSEVFMGM1eGlOWmxWbG1MNmN4NEcyd0d3NFJ3bWhEREg3Y2dHT1pSREF0TGtzejlMWWMySG5Zb2wySV8xbUdNdTRwUXl0TkpSSktBNDhnbXROdHdWR2VZWUZ3X2VSZDZRc2ZNZHYtbGRUeVozdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-18T05:11:49Z",
-    "hash": "40097995c0afb5a1ecdd9bd3f7c5cf48e026093068223372019bcb9c39a44db8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase to launch stock, derivatives trading, prediction markets, and more - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HM3N1ZjhDMHYyYXVLZzYyc3Nxc1gyMzJCelowWGdBWmlsVmhLOGJGdU0zdWVYMU84LUN1VFdRaVZNSmFlNkdwSHdaOHJHYUhJSnBZeXl4X25Bd2pVb1JaLVZYUUZ0S0hZQkhYNg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-18T05:03:33Z",
-    "hash": "d9adb7e3ace411d5494de3c8344a25035e502534b21b2b06d6a618273b878fa1",
+    "published_at_utc": "2025-12-18T06:40:12Z",
+    "hash": "6f84d9459d2c68cfdd5e9de3a39638dab31a1b84d98740bec2f5b850b45bba77",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Digitale Tinnitus-Therapie: Sonova übernimmt Silent Cloud",
-    "url": "https://www.handelsblatt.com/technik/medizin/inside-digital-health/digitale-tinnitus-therapie-sonova-uebernimmt-silent-cloud/100184516.html",
-    "summary": "Der Schweizer Hörgerätehersteller will sein Spektrum mit der Tinnitus-App ergänzen. Die digitale Lösung soll künftig auch verschreibungs- und erstattungsfähig werden.",
-    "published_at_utc": "2025-12-18T05:00:00Z",
-    "hash": "943ee5c9bc4fbbb65c9f87d44281e96a356afa538ebde957b9e03c98ea4f352c",
-    "source": "rss:handelsblatt.com"
+    "query": "Alphabet Google",
+    "title": "Why Alphabet Inc. (GOOG) Dipped More Than Broader Market Today - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb19CNng2R0xsc0RiN0dMUk9sLU5kRXo3NWdSeExnX0R6OXJLMUktc2x3ZWNMUFpuQlNPX3IzekEyWVZjdkdSNnlkZTlpRDk1Nm5kNlR3R25wSjVtRlVIU0d5REt0dmN2SG5DMFN6Qjk4N3k2RENLd0txMkZTeWFNM0pGWDdta1ZUTWdXeGNTVEd2X2lTNk5vbm9pOVItQUhJNUxDSUpMWWYyVDB0Sk0wMnhyaUFLV0ZwYlNXekxGTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:38:17Z",
+    "hash": "b5765d9a225e1d5d1b36237d917998e028387c22c8f026ee5fdcfef2510d3dff",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Why Novo Nordisk (NVO) Dipped More Than Broader Market Today - sharewise.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlotTUE0TVZ4czJQalR0dUVpbmFOdzhQWlB6MElKY2hGSFlyS2wwME0xZ3VzQmJWalFxQTJmeFNiR3ZEdFpyaW1QUmV2aFdxcGkycnhIbEkwZ0I5MlE3VDNLSERmX0FqMVpwaHFBbmlrbGFtYUZvSk1IYW1KU09wSVhkUE5wTmU4RnVpU0h3U3FWVVhJelBvZ1FKQkdlNWFKd1czZVZ0dzhQMmY0anY2YmRSRmFKdF9RbTNkNlVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:38:15Z",
+    "hash": "1179a9f7a4255b4295982eececde70ad4dd0aa4811e55000cd08684771b8de5d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "What's the Update on the State of Solana's Market? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aNm5KTGFVZkExSDJtcWZlbUc2Z0d6X1IzeHItR3JLT3FXMW9zMlBrVWNZTDhvUkNpNGhTYlN5dlpaZnk1TDRyekt3bFdlTE1acEYtYWwyS1N4b0UtTWNhWXlhMl95WVBOWW9wMFNmVFVGRDNXVC0tcVNWQWYyR3M?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:36:44Z",
+    "hash": "022209975a292cd79731b29658de3313baddcf89a8e22b89a3aec699217ef254",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab deploys four new DiskSat spacecraft in US military test - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1VyLTBXbC1iY29WbnVXN0oyMFBVVnMzT1ljbU9ia1JYOUViMER3WHdfN2Utak10NFZTelkxb05MdHE1MmpaNkc4VFpLSTAwWnpma3VseU8yV0VneFE2VDRibU5zNlZYSERpWHVobGo3QUxlOTRjY2g4Sl9CN1hMVF9uLVJzd01rMWUzRkx6cU8yR3RqTHY2dzNOS0VVUmp5cVBaX1JQRHRKWFhEUVQzb2Nkc0ZhRGc0eHFV?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:35:00Z",
+    "hash": "d905c7f8126c40848d8c4d2c959fc2df1f7fe702b8c3ab1aa7ecaf4806ae5c24",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Bernstein Asserts Outperform Rating as Taiwan Semiconductor Manufacturing Company Limited (TSM) Monthly Sales Track Ahead of Guidance - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNR0N6cFBUcG41N1QzRWdfcGJPa2pKNllYdUtVREVUNWp2cy1UZDc2ZFFMaFVYeGRtNUtXOU4teEs4WnhJcWk1MFhJRWVER2wwNlRLNmNXMTlBV2Y0UWdPSHBzcWZTSHJLbV9YWUZBcU9PSEtGa2UxNktTZHpBT1hxOEpOUk5MMGdSTTg0YmY2M3ZiNFlTSmo5dmxsLUhyMVhWa0VKRUR6cG1SV0V1UWhqc0JEZUR3MWZlRFN0VWMyQlBPS1NCUC1HN0QyeUZvWGV0em9yLXoyS2ZxRmVZMFVXZGhOTUpzSy04dFhnNk1JVThXT3Za?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:29:20Z",
+    "hash": "baef20711dc574e5850967f9cb5b9afa56e2457421e4521e21c0d5e101c20d20",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Price News: All over the place ahead of U.S. inflation data. what next? - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ2QyNVIyNHdXeFN3OTduRVdYQTBvTENlMmE1WkF2dEYyUDhMZkZQYk1fTVp4TFctOEZqeU1xbjVDbEF6TmE2dGozSWNZNDRnUmhoUmw1Vy1Oc1dNUEpmM2ozMzFDNy1BUmN6OXRjcWpZdk5wRHNBQTVnamdUM25zMndWU0xKRkJORVpKU2dmVm9lV2YxV0Q2ODh5dHdrRUVrdzVGdUJvNlluMmJEMTVOYVhmTmhxV1E4VjF4b3hZOGtLQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:27:56Z",
+    "hash": "55f0cfea0d8f8c969e68a60464c2a385da975a3e6a360aa50269941795a51077",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens to supply high-speed trains, key railway systems to Vingroup's subsidiary VinSpeed - Theinvestor",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEhjd2hCZHVwQkFtS2kydXVWZTYyajJZS0VXMlAyaG1PRElBbGtULVozOFV4YWVoRFFGZlNWazFyWl9xb0hkOW5pYkYxazZJS2V6cldYUDByazFCRFB6ZUVLTjdfQV9lUTZqeTJDUkpZOVhHRTktU0NBZDFEWnEwMnlqb19TZUVISVVZTWV4MWdGOVV1cHhWR2ptYUJIb3liT0VFdEtQckZsanZxS1JJVXNudmtjVzN0UUZYNlBLNmU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:24:00Z",
+    "hash": "5aa4847e6a6d3ae58de314ea9dfaea9b8309067971d00cb641deb468e1c2afa6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Citizens Touts Alphabet Inc. (GOOGL) Waymo's Technology Licensing Push as Truist Securities Echoes Ad Revenue Growth - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZjJSOTh4NVh0Q3VwM3UyNW5kOTRXVFlaWWJMdXEzc09ONy10UC1YVk43Tk5jZmpVa3ZvTXBQdTc2WktvRlVua2lzNmdibU9Da0xsSXJleTM2d05ERG5wcjEybXJFYTJRZzRHbTI2OG9wSG1SSExMYzN2WDdmSmRPT0NzZVFWb1ZVVURwSXE5bjhhZ2pxLXNFVXJGWnA2aTRVYm1HVFNGZzdtTTJLVTZRNnRWZUR1RE9LbGxYd0VJRklBTXZFMUc0SU5yQk5rbGJ5MW44RnFORzN1R1U?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:23:00Z",
+    "hash": "564d1478854d436d754ed7cd22a77a5bb3e6413e8997f0cb66443824463c133a",
+    "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "India clears Coinbase's minority stake acquisition in CoinDCX - The Block",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YdEJSN01EWkdVc1IyeTQ0c1hlcEdzR1BHRmh1S0N6OU5zM1pmQm1POUNqdDFBZWpRdlNCWWZoVFRCRjRrVzFwLTlaVWVSSnV3eXdvOG9weUhEQWtDNXBsQXRNS2VEdUgyY19tcTFibWxlNVFVQUw0eNIBfkFVX3lxTE1VUnFuTHd4UHJOMUt2TVpFblJ3RmlCZ1NhRGR0TkRDOGNYYlNYRmkxRHZyUTQ0VTBaaDIzY2VmekFMa1JYYzAzd2dKM3BfXzlWdkE0cDB5VjRGYkZWV3dzaGk3cmdiZ09HRXZNTDVmT0JPWEg4SkRtbjhUOUdPdw?oc=5",
+    "title": "What is the Coinbase One Card and How Does it Work? - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOF9oeHBYcDdIV2dhQTB1TnlDR1lvZFRxVkt4X01BbGpWSWpXRjBmNDNJWEdhQkxnMjNLSUdPUFpCd1JTNHV0djdiOWxhMDFPc0c3M2JYVmJaWi1nclVXSkpPeTBlTGhKZENBN2RYLXdMVUVmT2ZpM0Jfbm9jdUFPdA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-18T04:46:41Z",
-    "hash": "2f3741456751e3dd59d39ed717cc0c11ae00c9b5677bd4e60d43e902d38c3394",
+    "published_at_utc": "2025-12-18T06:21:44Z",
+    "hash": "ec753f6c7c517c1661562333054f8f4c220c8b949595b61380723a7219cd360a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "UBS Asserts Buy Stance on NVIDIA Corporation (NVDA) Despite China H200 Chips Demand Concerns - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSGRJeU0ydk91SWJmTDhSNWI1bzh5U01WTk9PcFRQZFFYV2RRVl9sOEM1VmU4QXc1MG9zR1k2U25jNG16UVl5YkNQZ29pZkhodW1fT3laTURMUVZBbnRiQ2tWRFYtV0x4SzNmeWdyT1ZBbTgxZVVPYlFuQURaaU5BS04tRzdGMzNyUWNzUDhhU3NRcGg4dG9tMS13NHJPOE1VVEEweGp1M1NfMTNSQ2l4aWgtcWZGeWk5RV92clpR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:21:04Z",
+    "hash": "6ebbba8f4177e0b7303f5b388b1b88dd0ae223c1981a72b836117fc093adcec6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Expansion Broadens Platform Beyond Digital Assets - Coinfomania",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcF9COTFhanZrNEF1WmhvX1BLLVBLRGdvY2MzSmFHSm5lcmxCMlUyMFZ0U05mSGdRbGdXbDNBczQyLU9qRThJZFJjVm1KcGpsV3ZjMUhLZXoyMEdQa3h1SjAtVndTeGZveU9aTGwtN3dhVnkzMVFnWUcxeFU4ZkFoZFBpXzFsZXhabU0w?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:20:37Z",
+    "hash": "2fa65ca60846a012a033b9aa956f8e04b1552a6686d5a5d2b9f3d43f811d5bd8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Google Partners with Hut 8 in $7B Deal Driving HUT Stock Up 22% - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjZhdFgtQVBfel96dktMX3liVEYxbEJpdGtCT09pMkliWTdrdDQ1ZHZVOExFdGEyMlVCZGdScnVlN1BuT3lIN3VMczJmUjAxX1V4N0RzVG1VcEFHcTZ5LVIybFBkMVdnb1RCa3ZGSFhLZDlaZldjcG5DSkstSmpVUEZpUDF6WFJsOGV1c2FTUW9RR1lGUDN3bkJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:20:15Z",
+    "hash": "a2137c9ee0a1f13726f6100e63aa7f3a35404f172c655d7db98207579fe5ea01",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP appoints first female boss to lead fresh profits push - Sky News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUVI0NnFydlBLblJBSU1RUm55MnRzSElsd25zVTZkQ3BoSUV1dmZmUS1PVk5fMVFpYjN2Vy1UNkpQTzU4cV9oQThyNUZKamUyUUYzd2NSai0wZGNXdGFJakZGYzBGdUVJVU04QU9xTEhSWlBVMHZRTkljUVpfU1lsQlpITGdZb3RyNHdnQ2Yya3ZPSjljQUs0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:17:38Z",
+    "hash": "30d1540f2a71c6b71b39dcc019e1271322957896c9cf46a1781d4138632dd9b4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Citizens Touts Alphabet Inc. (GOOGL) Waymo’s Technology Licensing Push as Truist Securities Echoes Ad Revenue Growth - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFJHNE9GRjBqUWYtcXRnZ2x1WWhPeE1zVVltX21CckNqY1JSQ0dfdXg1NHE3RVRqNHByelhqbEM4ZzBnREdLMkN3OHNZdWpXLUU2d1ZjSzJDdS0xWXAtbGRucV84S1o5dmpVWmxfMndjWGpELW9qcEtNWUljelN0N2xSazROdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:15:00Z",
+    "hash": "ca185f677aa77d751b4166d0c58946a8161098a1fb2faabb6ec1b015584b4156",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Bernstein Asserts Outperform Rating as Taiwan Semiconductor Manufacturing Company Limited (TSM) Monthly Sales Track Ahead of Guidance - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1h2dEtSdWVaQ0JBWXRKbnFSSENfQUdWTFduWDVvaGEyUzE3bWlHb2w5aFFvT1BlRXE3UnZtTHhpbmVJZ2lYT2lsVUJUbjg4dXdMQi1iUEdFcFN1MGdEZkQ5TnhBWlJjRWstcGcwQlJfUUpRTkY1cDhWSG9tTThNcUJ4eVNxX0NWNENKNngyTDR4dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:15:00Z",
+    "hash": "e6d1ed80e0e857927835f673f3fc2abf3255c4f7c95abb7c363abaa380211635",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "India's Competition Regulator Clears Coinbase's Minority Stake in CoinDCX - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1dVY1RFWXZSZEU2WFVNM1BGLWM1eGFuNGdxNnJZM2pEbnE3dDA4b0l0eDF2eUNDbHZEZHZwYWEzb2s4Rm9UZDFXOEdHNnkxWlBLd25tNXJ0X1hkbWZ4SUhJVW13Tmdvei00OElBTFVOeHozWkdHWnJ1b3R4TW93eDhMcUpVTjVtbXg3M3Vtd3locHZxeUZMemR30gGiAUFVX3lxTE1PcWxRaGZrN3g4UXhKMzhjeFg3c0g2WnBVQXRicUZ1WFdFc0dleG9ZcG9LOXk5ZTZYQnhuRmxuaE1YY2RMcUZVVkUxWko3NWJJOE5XOXRZYlB5ZmhFVXhYRzlicnkyaGF3OHdrbE12eVVfTFVjTHJpbkM0d1NtTWUzQkprb3hURjBfc2F0MEZBMXFEU3hiR211QmVYci16R2l4Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:11:13Z",
+    "hash": "28495309cf637bf4629551f48e213df005aed5414239745aed4a73d3a22fe3c4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "RBC Begins Siemens Healthineers at Outperform on 'Leading' Market Position, Earnings Growth Potential - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOODM1aDlqaTdwVFAtNGVMVjN5U0xhT0ZIWE1SVUswYVN5UmEtS0J3aXNlalE4WWdhaHQwckg5V1pHbVJpSWZFRmxSa1dKYVhObFdUbFNLN21xb1JiM3RlTW1wMGNYbnFhbUZLUXRkSHl5NFIzVG4zRHZoNzdYZjBOSTg2NElIS1UwVHJnMVV4andUQzVGSzFNQ1BSbm5QdnRZZUZOdHNQV3NMdzU0ZXZlTm5mY0l4ZEVPU3dLOGlGRzI1eXdLVUs1Q213a0ZwVXJ4cjNldFl3RzJ3S3RWeGp1bF9mRmU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:10:19Z",
+    "hash": "4ab24e1b6ea19776d77af05da520bccfd8e2d579a96bf94342edba08202d2f3c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "India's Competition Regulator Clears Coinbase's Minority Stake in CoinDCX - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWUlDRllRUWVkX2hLUmp3NEhQTERnZ0VoRW52QWd2WXpYVWU1a1c4eENadFl1ZEljSkd1cHU5enI2Z3pEa1ZlU3FDd21KZzRvQ0xjNmRjUXpSMlpwdTlUc3lObWkzUDFhRUhvN29JRGZHQ0RudmZuWmduSlZTZDdUYk9xYlJhSnBaMkx3SUNEc2lGQmVNQ0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:09:00Z",
+    "hash": "fd14800eafe5746106de1075af79c7e116c5603971d160b8ff0d36d4d8007d55",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group (UNH): Reassessing Valuation After a 34% Share Price Drop in 2024 - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNazlBZ3hGSnNwV252NXBuRHZ5U292czYwQ1ZGWG9GWWRJUi1PYk1rbVVhMGxHQzEyTzNyZkVxZHBLOTNmRlBjY2dxd1FLRzkxSTEyZE1NZDVmaVlocXFLenBFcXNZSXhTTTFOd3BNaHhkYlI0VDE4QXIwcG9TT2JQZGx2Z212QjlEM08tU01zaUhrRXo2?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:06:00Z",
+    "hash": "d16c3ceaa1eb6da04257d464395f05c656e9e3b8f7bf782ed72e2a9b7304dc4c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Healthineers Draws Praise From RBC As Growth Prospects Shine - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUNtaVh3V2Vma0RFZVQzUk1GU2F0cTZPa05nbUFCbVdiU25aVW5VaDFCRFZlVGNKWHYyQVRjenBOUnN2WWRncnFJRmJaNU1admlKN1JUUU1yX09DNG5UeWpVYmtEUG5WV01ZQ2ZBM1RyOGZWcXl3VkVnZXMzY3RaY0o4UlZVai1NbkVDM0htb3UyX3ZWTndkVkNZamZwZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:05:58Z",
+    "hash": "c345c5913e1469d30b2be8f36ecabce5cc1f453b85dc052fdba15f505d4e5622",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Crypto: Solana loses TVL and puts SOL price under pressure towards 80 dollars - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd3hKaVh6MmJwZVpmaEZNanRTcUE3anBmN3RHanRkT3NibUNjWk5XdDlNVzZtYkYzOW54dXlvRFNoenZkb2N3MHQ1Y0hXSmlRWG9NMFFfTGdVTk5IMVhUQWhmWHp0TDdNX29qTFBMUlk4MzFVWHJnVlhab3o4aWJZMnFSaVloQk5ERzZ3UUtjeUVCQS1KXzNXYVJGSjBiQUh4OVNqbnQ0M1QwUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:05:00Z",
+    "hash": "c0a2e0a2d44a071c527bc5a6357ada31010019d8b0702945ee68b07ac0e378e5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood (HOOD) Beneficiary of Barclays' Positive 2026 Outlook for Wealth Brokers and Alternative Asset Managers Amid Mixed Exchange Environment - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNQjhKd3pHZkJpOEtpNGl5b1FBMDI2bFRWQ2lKSWx6UkNHd2M3QmtheDl5bTY2SWM5TkdiamEyY0hXQ2NpczdFMnZ4eDJkc1l2WXhXY3NaWTdLVGVLOGRFVDN3T1VpM1ktS29DaWt5UnFNWUdnOWkzQ194VTRTOWo0UXE4UzdjanVTTFRfMThidDRYSEo3dUw1c3ZJQ1M3NlVNOVotRlloZmJVbFk0MktRZlhiX0pja3luNUFiSWtHUExTQzNzdjRvNV9zdnVhaXloNXZmaDBLbVlYcW85WjlDTlNxZTV1NGswTk1qZHozakJxbTBzakVDb3VzWDJtdUF4QS1N?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:02:48Z",
+    "hash": "817e4a8ec0361f97ac591a2d38bf8500006ed2ef35bcf4231ef4af853900aac4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA (NVDA) evaluates adding production capacity for powerful H200 AI chips - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSF9nY0lWaHVzdGRzMHZ5T2RwNXRLYXd1NzBqb0I0Uk5yY19zSTJhVTdHaTZGTUY1UDFXaXcwTmdvOUtwb0FMVy1rbVFXMnFESFo0U2RlbzMtOVZhWjVZRGlDeVNJNmZaQ2h0U0lsaExjYlhxTTlXdHZuVy1vUlNuUi16dThMWkh2VHF4cWxjY3FTWDJrSnZNeU9FeDRBaXNGNzE5M0Rucmd4VjNzSE5NUXdXbVdETlI2WXpXaUpObExQTDJRRTVlUDY4cmtHRDNJRE4zTllJRjZHSVhwU3RWczU0bXNVUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T06:01:25Z",
+    "hash": "cc400014b1c52c9308104f08302371ee128c4b8490c8eebbc4372a62b1029e3e",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "GlobalFeed",
+    "title": "Energiekonzern: BP-Chef Auchincloss tritt ab – erstmals rückt eine Frau an die Spitze",
+    "url": "https://www.handelsblatt.com/unternehmen/energie/bp-konzernchef-auchincloss-tritt-ab/100184934.html",
+    "summary": "Die niedrigen Rohölpreise setzen den britischen Öl- und Gasriesen unter Druck. Nach nur zwei Jahren muss der CEO den Chefposten verlassen. Nachfolgerin wird Meg O’Neill.",
+    "published_at_utc": "2025-12-18T05:54:47Z",
+    "hash": "efd5bba2f5c0e2ba85ad893f49be6d0297babe355bcaaa919ecd2e265caa4a52",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto prices today (Dec. 18): BTC, XRP, DOGE, HYPE slide amid Wall Street-driven sell-off - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNkZTSUNWQ3podHZQOWZIYjY3b3gyRTFYWW1xM3BGa0dfVVFyY3BLNFdLY1Nma0pRNjI4TmRvQVU0WFM5OUc5RTM3eU1RaDNWaGJIanRWN1AxRDFBbWo0cFNqR1BKWDVoSHNSMEVQZW1iTS02Y1lwZ0d3MUR1MTdmcQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:54:00Z",
+    "hash": "ac074c8dbb399056927ea67bb7f6d8146daf1dac50fc0d78daeae2687e0ffb74",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike Shares Enter a Period of Consolidation - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSlllZVU4OHBNRkVQd3BFaTZLSjJDRnVYYVlXY19fby1rLTlPSm1tR2tWemlFQ1hZRjVEVGRzMUNMMElfSzZXX0F0R0NMNjVKcG9ucEFUU0VUTDRPS3NGWDhOdGdib0dHVllkMGpsOHRUNFQwaFlzdm1KUVp4QjFYUV9mdll1d1pHSUlUOThiRTViN0Z6YzM0dkxianMxUFVaMlBrYzNEWmxReXVtM0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:49:05Z",
+    "hash": "0c3d94a82a3d24944c41627a32ed17a1e692142d6c6735643ed9494826cb6c4f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "BofA Suggests Rocket Lab is Operating in a Space Industry Ripe for Consolidation, Forecasting a ‘Winner-Take-Most’ Outcome - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQUnB5MzhuZkZmdVIxbDVwY3F0RnJQcWt3QUhzNldjR01obTcwS3FfdTJRTklnY25iVFRtdUc4QlBLZjU0aWhFVE1oajcwS3MwbG8yZ2s1N0FSaFp4cnJQV0ZaX1BjR3MycnFGYjQtdTNoWDJyODFKUklFcUFveEdSaXNKWEx4MTBfME1vS3lYZ0JsSjBYcGRoREg4TEdSYzRlT2tjUktOZGtIdm1JTU9weXFuZGljWHF5NjRzbnpjcmlWUnU1ZDlrU3pJbm0tZjVYVWc0VVNZdmMzRzItODN4SjNSMXMyeWd0Y3duUXZIa01iX1lCcDJCTXJxYWFnUdIB_gFBVV95cUxQUnB5MzhuZkZmdVIxbDVwY3F0RnJQcWt3QUhzNldjR01obTcwS3FfdTJRTklnY25iVFRtdUc4QlBLZjU0aWhFVE1oajcwS3MwbG8yZ2s1N0FSaFp4cnJQV0ZaX1BjR3MycnFGYjQtdTNoWDJyODFKUklFcUFveEdSaXNKWEx4MTBfME1vS3lYZ0JsSjBYcGRoREg4TEdSYzRlT2tjUktOZGtIdm1JTU9weXFuZGljWHF5NjRzbnpjcmlWUnU1ZDlrU3pJbm0tZjVYVWc0VVNZdmMzRzItODN4SjNSMXMyeWd0Y3duUXZIa01iX1lCcDJCTXJxYWFnUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:47:23Z",
+    "hash": "76750850ebe3c130c0db65217e0ebbab50deb50528fc28765da0135418f3186a",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "Woodside Energy Stock (ASX:WDS, NYSE:WDS) Falls as CEO Meg O’Neill Heads to BP: Today’s News, Analyst Forecasts, and What to Watch Next - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWlYTmhlSFJ5OHIyNUV1WElGNVRxRjVOUnhEWWhxMUlVdFhoUzhFd3RHaDhtb1VWOTlwR01MWFBUeTZUS0tXWDVuYUJOOWcyLWJ3QnBHenlWODB3NjNhU29XZ2htLU81Y25JTWZlNlJFTlRuLWFJUFlHVzYyY1k3U0tETzhRb0JZeGwxYXpqNGtKS3BIRHAtMTY3MmE1blNiY1hxQ1gzNVExVUhlUWhVODh5TGlSekUtWHdIbG5iVDJaWTZRa2VMQXl5NHpBQ0VZa2lQNDF6WFN6MFpqR093?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:47:20Z",
+    "hash": "ee97c3119a4e8b453bc14ba5b84ca1d139e08bcab969c2bdecff3d0a09f4eea9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA (NVDA) Evaluates Adding Production Capacity for Powerful H200 AI Chips - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkxPaW5rUTZKUTdIMHlrc0l1TXZXVThhbmVsY2lpTS0wZkRMdVBjbnY5ek9uRzJHaURYWms5WUF4clZkVUFQb29FWEp5dzZKQ19qQWVSZnVsYXBzYVBsVmRVdzVyYUo5ZUJIZTAxYmxzSkJKenZVb3FZUkJtSFFwX2tQbl9DT0VNcVIxSFp1LVJCN0ZXV3ZqNDJWYWtfaFMwdVVxeXRQWGRjQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:45:12Z",
+    "hash": "eb31111e853c81f0131387380f8ceb74fffe9ef8d2534e760f300169f9ad55e0",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Ripple News: VivoPower Eyes Nearly $1 Billion in XRP Holdings in New Share Deal - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSjIwZXBQSUVZOW9FcU5KUkRKMlJvdTl2VllDd0o1SVc5MkF1eWd1RTBXTU9ST3pVTElYR3dYRWhkbWtpbU1meGVFaHE3Nzc2ZFNBQkxJd0p6N2xlLVpmYTZZLXJ0dlh2VFU0dm9PbmQ5dXM3TVlCTzFZNEtJNDBhLXd2QkFVSC1XSnVHX3ZVWElINlAyM3RaUnBBQk90blV5c2R3UnJqRTNKU290VnBqTW9ManRMLWhzTGxwRUx3?oc=5",
+    "title": "XRP Price Could Crash to $1 on Double Top Pattern, Predicts Peter Brandt - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUN1b19Sd2gzRFU5YmhZMlAxTlZFZVNBUS1laERUd1BCbXFpbk45LUMteE5qWk1RUjBzVUE1dlBxUm83aWNCNE0zdm8tWEM4aU56UFFGdHl0V1lJUkxodzF4b1lyNHpjU1I5SXE2b0tiZUhxY2x1U3NsU3J3dVVobEc2UWl1NnNFV2ZYSWU2eXZnWnZLNnVZ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-18T04:44:00Z",
-    "hash": "05d5136b0fbc8f91e47c9d9e2d73136f32edba8ed2a81222ade4a264dc558b36",
+    "published_at_utc": "2025-12-18T05:44:22Z",
+    "hash": "c6af5330b9cdc8859f4c96e906f61b8ba453fdf7b5ba7e56497a8d0b378887c1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia's (NVDA) AI Dominance Faces Headwinds from Project Volatility, Gaming Cycles, and Power Concerns - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMklJWjFyRGJjbjQ4c3ZLWUlKU3A2bXYzYk1sVkdLLTdnRXNuNzJrcU5sWlVyZEVRc0l3czFoOHdROUZ1R1BnMFZpV2EwR3FUZ3RpZVRyT3hmOEFkMHVpcXdLS1EwdC1BV3FKM05JUmd6NjBwbXZUSy1aX3N5dzZzMUMtMjMxb2l1OW1ja2liMk9VaXJQd1lNTk9pM05lRXFmSG9rbENfNFozZnlOMEg2QzZHSFJsbzlxZlFKTkNOOFJHd09DSXl6WQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:43:00Z",
+    "hash": "d7eca87899575cd054447eae4dbc97ee696d7d08b0559d0ccae92b9562f3bf5c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "COIN Stock Gains After Hours As Coinbase Targets Robinhood Turf With Stock Trading Expansion - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUzNsZjdCYnhYQlRqNWpSMzExOVpNbnJnZnNGcV9saUZpaER5Rkd1Uk5hQ1NkS2lpNlV5NkNtcjVkVms4amhINWNvTzVJeklPREZYWm1XRGJwLVE4TVNJM21qN1ladUhyREN5bWdSWFZTdzhRYVcxT1BuSHdtTmNMZDN4RkVKUVAxNTVadkpDU1ZidWlQSWJvZjRJc1JKb0gzWENTRFFENGYtd2psWWZVdjdkd3RqWFJ0bldvR250VEVpS29CSkdNcnpYOG5PcFhNdmcyX1YwX2VjQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:38:00Z",
+    "hash": "f11916ffd11569cfabb75c0c014e2fa1e9da44a597e92c32d095e88233785356",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "COIN Stock Gains After Hours As Coinbase Targets Robinhood Turf With Stock Trading Expansion - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUzNsZjdCYnhYQlRqNWpSMzExOVpNbnJnZnNGcV9saUZpaER5Rkd1Uk5hQ1NkS2lpNlV5NkNtcjVkVms4amhINWNvTzVJeklPREZYWm1XRGJwLVE4TVNJM21qN1ladUhyREN5bWdSWFZTdzhRYVcxT1BuSHdtTmNMZDN4RkVKUVAxNTVadkpDU1ZidWlQSWJvZjRJc1JKb0gzWENTRFFENGYtd2psWWZVdjdkd3RqWFJ0bldvR250VEVpS29CSkdNcnpYOG5PcFhNdmcyX1YwX2VjQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:38:00Z",
+    "hash": "f11916ffd11569cfabb75c0c014e2fa1e9da44a597e92c32d095e88233785356",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "CCI clears Coinbase’s minority investment in CoinDCX parent DCX Global - Storyboard18",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOW1KNXAzYWVoVDA3VHVRcm9VT0NuLVFtQWdidHVXQ3RiRXR3cDNyUGhLd3Z0WHp4UEpuYnZwNE1xUFBvdE9KX3hFaXlsNVZNMlRQMk1GUWJkNXZSTExtVmJOWFEtV3duZUZNTzlxbkVUMDQwenh3RlczQl9WNlpJdzJaOVBxWXE3MGtLWWZJX0pDeTJOa2xyRDQ2QlV6Ql9neDkweEQ2VEZzNWlDbzYzbzlPNWZCN25xOHlPTW5B0gHDAUFVX3lxTE5TZnlRZkh6MlZ1RDNnNk5xOUU1NWR4VmdtWWgzM1RaTkoxWkttQnFJeDI3UFpjcHhuLTluUEdYUUROaWNaaktUZmUwNEo5X1Y2SkRvd2ZFUkxzMEZUNVo3NGVGRl82ZGRJeTRVZVNIRGRoeFI4czgteG03OW8xd3RkNGV4ekxVVkpaOUdXX216UUZKemxsRzhfV0NZS3VXZGZnRUd4OVdwcWgwRVVPVXVpMHBrdlFvSmhoam5lWHNlaTlXYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:37:38Z",
+    "hash": "1b17939ece8ebe3f2ec90eb2f35e530fd61bb72fa414734211e1bce58d6d7cfe",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "India Regulator Clears Coinbase Investment in CoinDCX - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcUk0M1ByZXRoN3RkYldtb0lNTTBLSXJKOW1oLVVsQ0lrUU1yMnlfUnZpd3BPWmRGcENQclF5T3BGRm4zbE9WalItLVhma1RhcExWa0E3MlJIbVRGVEp3c19qRjVPQTVZVVc4bHg1ZVIxVmZVMG9UcTJkVlJqZlhSdzFMZFV3SkFpRWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:32:42Z",
+    "hash": "4127f46a50433c4e26cb0554a658cc4796abf857184ad35309649f2998c1854e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Deutsche Bank Backs Coinbase’s “Everything Exchange” With Bullish US$340 Target - Crypto News Australia",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1l2U0M0RXk4LXc1d3pKcUZMalVZS19mUXkxYzZhbGdlM3lhckdXVFJIWEFINGo1T19seGw4MFQtai13UGpUQ05WLS1UZFFacW5FNk9zM2FILUdtUl9KZjZkZEp3Nkl5LWY0MmQ2SkN6N3gtaEdzWkppbi14bU9Pd0Z2QzduT2lGRGIwb0ZYY1gwazB3cEZRX19jS2hyR0RueEo5TklETGplQ0h1XzR6amxDSEU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-18T05:32:17Z",
+    "hash": "5122ee1ebc6d52654f866ab8f7500c7261ea6e4a967ffb55fac49c59b8b3b41a",
     "source": "gnews"
   }
 ]
