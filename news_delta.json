@@ -1,62 +1,42 @@
 [
   {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens AG stock under pressure despite solid fundamentals and energy pivot narrative - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVBEeHFqTG5RRnFEM05LazFHVGVLa3RwVWV0RGF6UGN1a01FVFB6TnpncGdldW40UUhBUHlBa3dSMHN0eTdzQlg0RGNSVVVIV3o3NFRCNjBzamZ3dmRkNVIyQ3pTVC1VT2owaEt2ZXBWYVlodG1OanNONUJ1QmN6bnlMSFlzV2RhZWFJYVh0NEQ5aWRjalJ0Y1Z6Z3BzOGhZTDFQQVlYRnBsbnM1bGU1b1BiVmNWTGJMR3ZTM1hiYktJUFlwT0s0?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Flips Ethereum: $2.5B Revenue Surge Shocks Market - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFY5M0s0NFdaWXkzeGVuMDBYdkFWTDBZQVFmTUg3T1RMV3haN3NQbmxFUmhOZW5tcVRiQ0hXUHEwaE5PUm00WmFwWE5RTVhBRUo1V0J5QVlnMDBDN1c1S1Z5ZGIxenNZOFJCU3ZyOXUtMEswM2hHMnpneXNLMFhYLTBwZnpOYzVZZWtNNWdkWEI?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-21T05:17:06Z",
-    "hash": "7763528b935105f59c136ce1c328b9666c4798ca15b0f6a373d53895880a40b3",
+    "published_at_utc": "2025-12-21T06:30:00Z",
+    "hash": "3e9b1f764b2d26236b44a8b1cdc28096a8366fe972963182cffa5a8ea4be3d4c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto Presale 2025: Blazpay Phase 5 Takes Control as Pepe Coin Price Predictions Reignite Market Buzz - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTktZERWX3ZldjRxV1FqQ3Z1OVNnczk1V3Bnem1EaXJxenh6ZVVEQjZSbnF6WDNmNEo4aElLTTRFb1FKdDVDMG5pNE9LTFZxcjBfNkM3ZWpNVWkzRjJCamNzRG1lMlFfZDh2X3lOMHBEUEVmdmI5MnlxTGNKUWJRU0psSG9YRVVjbHZQLUVwU1d1UVAwMWZCS1RxR3RLQVk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T06:17:38Z",
+    "hash": "ee27bde200c8219a73ee2d43af2fb38ea1d6368d19a318a31eca5ece69594c5b",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP News Today: ETF Demand Lifts Sentiment as $2 Becomes Key Level - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHl5MjdDeGplQ3ZqNkZnendhVTA2SVRqMnVqOUFTcjRhbWdGZFVuai1iMDVNbW9GcGdPV1ZvV2NSYTVhTkxWUGZwVHlnd0U4MmFlR2pxbzZfZlk1Yi1RVndTbUtMb29lU3dTMlJlRF9nRy1PaU5rUmZkMzNTRm5wOFQ5UWNWUE1YVV8zSWY2VXVyYXI0ZUkzRy1NeXlYNXRnaTl2Y05NUU5scDZNZnVianJLa1Bvdw?oc=5",
+    "title": "Whales Dump XRP Despite $1B ETF Success - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WLTlHZm43eTNDdERxVDFKM3RqQnNHRHI4WnFfTTRsYXBpaHJLOU9BLVpCWDc2LUd0dFRQMFdJOGJsUjJMN1d3RU1wTzJIanJ5TzQ4ZFFCR3F2YXNEOE9MQWhTdzNjVHdZZ2NBcldNNVBDS3BsTVp0OGFkRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-21T05:09:00Z",
-    "hash": "a08fba2b93a48a39252491950853971e9aa2be24de50c734bf5952f6f3dd67d9",
+    "published_at_utc": "2025-12-21T05:45:41Z",
+    "hash": "f6bcd77664e82dbfd412d96a92d0ae5795d9e48fbcf65cff91573b07deff96ac",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) Rebounds as BoJ Calms Yen Fears Despite ETF Outflows - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcUlTdmhRdXdibk4xdzdXVVRodktUaFhDcm4wV1pQcjFBdWVrX2lrZFJlcUlTdjhGUDhlbnBlZWh5QUxSZ1pHTW80ejN0cmJuSDEtZkF2V3dnc1pjZ0E0MTNVdFJKZVdLNGZGU25WbE9RQmlEYkFydkswTURwR0tCUTFrVFN1SUFEbHFlZ09yZTg0ZFkwbHNGVWxSXzk5LWRudFNQS1luZHdMeGRQTjBwdG1OVWZQZw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Apeing Is One of the New Crypto Coins: XRP, HBAR Ignite Buzz - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFVCeTZmSHpwWG0xNndfM1lTcE9RVl92ZUdad2hKTjdpRWt3c3liMFpVc0VjMFYwTk1IWFY1c1NXbXJfcGpvcnNmcVdVY3ZheElkQmhTa0RZbWZEVmZzUG5rNFhwdEx3dFp3QVFJU3YwRTZqWWdsajVKWGtVUVF0SjMyQ2JfNFRmZnhmWUw4UGxDcmcwMWVENTNn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-21T05:03:00Z",
-    "hash": "297e05aa6baa905dd54d3cd1548848a3bd631ef896af5c12db68cfacaaaa84d2",
-    "source": "gnews"
-  },
-  {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "BASF SE stock: is the chemical giant’s fragile rebound built to last? - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFU0QzdCeGU5d1hBcXJzeVJlVGtta0V1SVJkTG5vTjk3aHA4RUpSTTQyazZXd1JyMGgwM2N6WkdxU0RJdVh3cWVSS2F2NTI2YzlEMC1OSHlyX2NNNF9zYXhib2ZrNDJ0TVlrZEVvQlRXTV9LUS1LcFhnSkJtOHYyUDFabzEtU0dzOHdvZTg0bG9pTzZlRWQ3YzlMZ1JIYkNKbXgyQ29qZTMwcEVGdzhXZEpLWjM3VzNxTG9FLUtwSnRzMFMx?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T05:01:25Z",
-    "hash": "02a28a4d4fe78b72644709dd7e75b2191868e0f5e2f63eb73153fa2434b6f655",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum New Wallet Addresses on Spike As ETH Consolidates at $2,977, Suggesting Looming Market Momentum - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLWNYRTlyTmtZeVpmSUFjRmNITHZGa3pic05ZLXRXcEZwZnNOYmk1VUtDSHNjMlRrZDNVMWRDcjFoeTNKakc5MTJsUmlWMHk4clZhcnpTUE5YNHQ0RWxHWmM1dTN1QXZ6dzBYSloxZWlpNGlWRjhCUEI1cWpRdXR3eWUzMHhSSThMMTg3eldIMm9iR0JZdTBKTHo5Qmduem5tOU5XalVsbDJBZXIyaV9RMk1LcVNIUTVEbkNIRjlzUzl2Z21YZ1dBdXBrenIxZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T05:00:30Z",
-    "hash": "5a8d7b5523678023add3c5cd1ed1d061bc8dd8e1b59354dadb319bafdf98a39e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Is Unilever Fairly Priced After Recent Share Pullback and Ice Cream Spin Off Delay? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3NSUjZLVU1xd1djWVNvbGNOZ1RWZ2VPd0w1SlNUVW44d0pzbzFtOHVNUTVNdnJiRnFoaGNuVlFLNXhrUUlkRkhRTGpsaE9hVHNYNjNUOURQNlpTUDMyY1QyaEg4UDhYZWh5NUpYbWZjcEQ1VmQwZnQ5Nk9nOXlyMktKbkk2cnhv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T04:09:00Z",
-    "hash": "37e2ad4f4a58a4de1ce94784abb7d57a9a8e67ff4419d4591291ff26f480208d",
+    "published_at_utc": "2025-12-21T05:38:01Z",
+    "hash": "d2c54f5064d108f23ff40f6af11961429d3c5f6b8f42971cce3191603a8147b2",
     "source": "gnews"
   }
 ]
