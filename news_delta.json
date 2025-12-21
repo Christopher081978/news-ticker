@@ -1,62 +1,142 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Apeing: Best Crypto to Watch Now with Top 5 Coins - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0RxWm91anRTcjQ4bHo5OGJ0M1A5YXVwWGl1SUxyS0lSbXhWTWVyZGhqRTA4NlBoM251dDhpel92R2F2QnhENDBfa3R0QmctTktxQ0dYbGR4TURoeDBxV3FodVppUjhCYUFBSlZpbXE4VV9XUjVscjRfMUpzcDlCczVOTjY1R3ZHZTBFei1mLXFURkg4RjQySTFkRjRpS18zNXJwT2FCTQ?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "RBC Capital Remains a Buy on UnitedHealth (UNH) - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeWN1RVNLSmstVngxNkhCclZQMkdpTG1wbkpWZC1hV2pUUU5rc1VnYy1PRlQyRWpDa0R2N0NSbmNSZElBNDFKcUVNc3J1bGRxZmFPSFdSODhERmdqUnhvYWlxZG9CTHdLbzVCUzNSTEx2N1BrRjVpeG1UQzFJNGhKb1NmaDhubko3ei1GOU1SMWVSdXhZV1VfaHY5VUdLd1FOZVRUaHZ2YVB1MFp3MkJmTEhIc1Byckp6bWxUSTlPOFhwM2dMczBIMmlLdW4?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-20T23:17:26Z",
-    "hash": "c7ee160515bf067e1a91fa29ea17e2018169c71ce25937449514d4b98b821b02",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Can XRP (Ripple) Reach $3 in 2026? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50U1k1TFEtdy1LV05TME5fcGpmV01XNjQxM2JTUktWMzNwOXlzbkdEc1I2b0dRTVd1cHBaZVFLbmc2ZXlVMlNKVTVNMDhtU2MxTmU0S1hyNERvWE1fUnpWMTY3WnRvMHYyYW5abC1Cc0M4T3NwUGxCNVJnWm5wQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-20T23:11:00Z",
-    "hash": "683255220148ef61cf0395e00c12f5393f76e6f09bf77204089b9ddf31afc1b7",
+    "published_at_utc": "2025-12-21T02:01:16Z",
+    "hash": "1351d17f93950ac2424779810e82a50d1c2fce7983aa80b0865af5837aeddccb",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Should You Buy Nvidia Before Jan. 6, 2026? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUW1nSmRUQjc0ZkVvUGtOTVctSVNpc0tMNVlnMnh5clItT1pUc0xvLTNnUlEyc0R3ZlZ5TlpBdnVPZjAxaTJnU3BTY3F1Y1NvY2NSN3UxTHBZd2t1M2FvVmlncXdFSGtsY1phNTV5MWUzOUY3VUxyYlZsYm1BR3BCUzJxcVZ6NThSSEE?oc=5",
+    "query": "NVDA",
+    "title": "NVIDIA Stock (NVDA) News, Forecasts and Analyst Outlook After Dec. 20, 2025: China Export Review, Blackwell “Cloud Loophole,” and 2026 Catalysts - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdGRjUlprbXJJM21YV2ZEWnFUX05pU0RSc3BfUzlXbllucmZ1ejNiNjNCX2RxWXFUZnlpT1d3cGNyMjRubzhISk5lS2RmOUFpUGNnOWF4NlBRZjlrUFkwaDVDNC1nMXJZbDhsMThfLVJaWGxlMXJ1S1VjWW16cUw4QlpqbnRXWkdvMUdoVXhkQVdxRGNCeTJ6dHZyY09Odm45cWliNmZyQlFFVm1fMWVqNU81aG03UW8yUkNPMnlLeWFSeUVvbGJfZWliREp3S0lyQ2FQV0ZZX3p0eWFrakloOWtuRk9wY29mTVRz?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-20T23:10:00Z",
-    "hash": "55c4ca9b9dbbf2a8013785d4332255acda71cec2a8ad00da4c07fdcd05c906fa",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "JD.com (NasdaqGS:JD) Valuation Check After Global Recognition for Its Green Stream Sustainability Initiative - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1I4eUFYQmR0cF9VT0F4SWdRNnVsWGVGZHBKR3lKUERKR2RkUG1BX1Y2aUtMbkhIRGtWUFlIb0RGTmJsMzdiTTRPVkZGQUh5bnd6NndxM0hTVktKLVl0dzVNSloxS3Z0NjRwN2J3bHNGM3FQWTQ3cV9nZXhHQzJuQUZZYmtzdjU5UGM0dDdaYUdraVdHSUstNkpOSFlkXzAtZTA0NzlDSUwwY0U4a1NnZU5McDZ6UUZnbENEbtIBwgFBVV95cUxONDloeU5QSzlkdWg2c3BVZ1FWMm9QdGV3TXhGNENuUzU3emFZVzRhZ05BUlByTkZqNmM3RFFlZE5vVmt5NmwxSFdfeU94ZW1YMUJfRTlRSnRBZk1XVmx3LTNYNFpqZWtCQ2N4NUJqdldMSE5MX3NfZTNibllnQWlPVkN1MFJ3TVhSLUc0bDFTbDMxaHNMOVZ1VWp2UmNjU2t1dGVEdXFaRU9nUHJBVkZBdHBYT25nTE1KT214M0NLNWYyZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-20T22:52:43Z",
-    "hash": "08cf0c801956e5bffcf4df46a08021a58cd2a3251a17e6903b3172549634f3e7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase (COIN) Stock News Today (Dec. 20, 2025): “Everything Exchange” Push, Prediction-Market Lawsuits, and Wall Street Forecasts - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQlRadk1zem1iYzR0Q0h6N1dWbGtNdjJmSWs4eTMzeV9QbDBwZVplTVRFSGJoLUlTeFl5OEk5Q0xleDVkNTU5SDhhZmtNNjhOVkVJX1QwOGpfc0ZZeXVXbG56QmdRajZKUzJES2FOV2xxT3hEb2lwaVV3WThQaElfOUJMVldiTUFaM3FuMDI2b1NCODh3dkxTYjJDTzg4OUxWdnpCaTFjaUtNM01mODd2MWtlcG5rajFxdl9Sb2tBQUJiMDlFbFNqaDdpQVdGcVg2WU1zQnJKWUs?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-20T22:40:41Z",
-    "hash": "8c2344811dd4dde2c5d23fb02a485d393ee1fb9544e91902be80208a07fd7670",
+    "published_at_utc": "2025-12-21T01:41:42Z",
+    "hash": "a02fa627ea324776f4ed80444999a8210e9f70dc5b9d7380522e51d1451e882e",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase Issues Direct Warning: 'If You Try to Steal From Our Customers,' Law Enforcement Will Close in - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmlKLUwzd2JvbGoxN0pZRHc3REZiaGJ0dU9BSmpQNlNtYTFVUFFaVVdTT2VFeVRJXzhGVFZOekUwYjE1ZExDMVl5c3VXam5mQlFrRDZybEVraXl2S1gtRWxESU5QNzlYOGpQSE1kOGx3SW4tbHRVMDFNMWNERFJ6QjF5b2RXbjlPM01EZG9pNDF6R2h2Z2N0VVhyTVpmZDgzUi1hM2tjRVd1MkhmSnJOVWhFZVdSOWNhcm9EQ2ZGMzI4YWs?oc=5",
+    "title": "Brooklyn native charged with stealing $16 million from Coinbase users - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdktlRmI4WTJKSF9BN3VwSEpsbW43QjhmRTBGcFBjWTg3RTZEbXpiUEVaRGJuQlhxTDJ1aW5sV04wLThMdkgzVEU3YjBwaU1WX2oyMHlQNTdMOHFSTHByZklfcEZVOTM4eGhjM21KYkJ1eGk1Q1BZcGZaem4xd1J3RVFOdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-20T22:37:22Z",
-    "hash": "34608f7528d12de02202ccfc2eb55691a0366c550c9d93c56e50297d50910e57",
+    "published_at_utc": "2025-12-21T01:38:55Z",
+    "hash": "e626fb187e93aa4ca764e89ce30d651258e34c9884b6667476373d0fca3bb75e",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike Stock (CRWD) News, Forecasts and Analyst Outlook: What’s Driving Shares as of Dec. 20, 2025 - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWFhGX0pGempvNUN3dFhLTDFid0Y2MmZ0eTdfeDZxWWUxdWV6blg0dS1BcmxDaUJxWVhBNVg5QnFhR3hTakFQSnhoMVo4VXRJNF9jeDdzSFNra2o0NXd2RWdJWndyQnFWbzE1YUl1bjlpcWhOUmJJdTZaUVQzd1RnTHF0WklSSi1hUU54dGVfOVhnRzN6c3ZEclFWcW9yVUFXbjNrSF81TXJEM294U2Y5cXh2VDhQYmJi?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T00:50:00Z",
+    "hash": "060db8b693850e6f1780de62863e999e409fe5027dec46f04b79a9671fe104c3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Skybridge Analyst Gives Huge Solana Prediction: SOL to $2,500? - InteractiveCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2RDOENkaUVqRGl3M0ljd2U1Z3U0U1NKdVYzRUdOc3BjRmIwd3lTUUdmVGRqM2VqYmk1NWVVMF9MQmVkOUJ1V2EtbEVYb2ppSlo1WEEtdjhUZ1JNVDR4T1kxNHh0ZnVDY2dETk9Cb0l0dndRbV9HNVA3Y0lPRjFaenlyc01YNTJGS0Q4eEptSHJSYmNOY3dPRzdyUVRIbVhVN2d6cC1GR21IZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T00:07:21Z",
+    "hash": "d72442de08802801fc6f19ee58493be1215e627423d344a78098c28b20794f71",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "RKLB News Today: Rocket Lab Soars on Robust Trading Volume, December - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMzJPWjh0QnVHbnRXNG1MWnBzUnp6UVQ5RGQ1R2pDT1N1Z3F1UG9pY0poZUgxUXJCd0RfOElXT3NtQ3pUdGFiZFpxd3czOEdydmt1eWVDRkJqNnpPbEY2eXJHOGNlcGx2WHZMV1JPMVhEY09ramhIbWY1WS1adUc1bmtNay12SFVRQ0FubHZCeXprbkJUdHhIVlhiQnAzZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T00:05:53Z",
+    "hash": "d13d833ebda4290868d12fb2f0d24073fcd41f30bfcd19c7624ad50d2e24e145",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key facts: Ripple's XRP Escrow Increases Institutional Demand; Lending Protocol Launches; XRP ETFs Reach $1.2 Billion - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOM3ZjTzIzUHFxRFpmOHZ2S3FLREg1MTc5QU5XOE0ybV91VnBpU2lZUVBaUEhJckZMODFTZlp5MDhTUHBLRWFxTTU3UWROalgxQktuRzNTa05ORHRGVDFycElLNmUtWXo3LVlId05fZkh4ZlBGVzF3by0yZTVMV0VaMkZ1S1dzSWhWeU51bGcyakIxVVBzeWk5VUNTVXVpVEkyakp6dFNzSG5kVWw1aUVCX3Vka3Q5bTNlMjBJTnp2ZnAtb1lLMUVTNF9INWZjdFNNS2NOX042am5DNVlYSUxZS1ByM3VtWjZOS0VoZGd2dkhDTnc3WGt6ci1vUkdSZmZuYUtpSmRn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T00:03:00Z",
+    "hash": "150de8836ea1ad9603c06fe3712dc62a1d17c5227fbf11b342bb253f48fa25fb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Analyzing Ethereum’s price rebound as BlackRock shifts $109M in ETH - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHR3dnliM1NGTVZ2UDZnRlVSaURhd3RET0N5U19pQjVvRDYxSjh1OWh3VWJEVnd2WVlVN05SMEpIRnNqeXZQRzFnZ3FoZlJCNDZBUFZOQ1BrdUh3dnN2RnJlZEQ1d2JHTmhpbDlRWklxQ2xWOUJmTjJfZ0N1aFZvNk93RUk4WU1SRWRKLWhtY9IBlAFBVV95cUxPY1Y0TUxmSzBQSEM5ZzVWcVBSMml6S3EzZ24tN0d2UE9ZUXlFeDg5dWR5cENPZFBwWWlVajVIU0tEOVl5MTNDRFUyTFFJVEUtdTd4NWtTakh5YVJXckVEenplVG1acDFvUnZIMlRYVkowQUg2Wkk0MjVUa1NZUXFXZDBLcy1DdU4xYUVoWmZLcUZHU2dp?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T00:01:39Z",
+    "hash": "a09e11f66145935d3d2b22586d3ba198225dae9b3f80f68fb2ae682c4bfb435c",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike (CRWD) Stock News and Forecast on Dec. 20, 2025: Analyst Targets, Earnings Outlook, and AI Catalysts - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMFo1bGJWTndHTnVNZG0yUGVObzk0VUliM040bXlRZWUzd08tbEttSmpwbFF2TVgyc3VEdFYwdVVlNWhuYmcxZ2RUSXE1cjU5Y1VQNFhKM0U5V1hjaEtjbzJvRUpfMnZxREc3Smx6RUZVMWJQemlyYktnMXlWRGY1ZEZueHV2UWFFRHR1WlRybjBaNWhHWEhYbzM0U0tPU3dqVks4VTNRY1NLemNrRkRmUG12T2NxOWhaakZOb3E5cDhoMWtR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-20T23:56:40Z",
+    "hash": "fd4d1bb5082c5a9998fa24672c25943dc3c9d842018987517d164820a4ff593d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer Stock (NYSE: PFE) on Dec. 20, 2025: 2026 Forecast, Dividend Outlook, and the Catalysts Wall Street Is Watching - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFRSSmVlRmo2M0ZqMlRDLW1hTzdyTGw0TWVqMm9vbkJiYS1DenN0Tml6aVc1LXVyRk9rYnFXVVpFcEh2UkhKeElJOVBkX2UzSjRFMGFBc0gtMEVjZEZ5Z1dURWlVMEN4Q0o2RXpneW5WWkkzdGFwZHVMZ0NHd1BfTkxYVmtKR05teDN2OE12MUR2SjZPRmlQYUJOQmI3clBGVTVrbDJNNGZHUlphMlhTQS1IRlgxTGszUDFsUU1RcmlhYWpSbUt0Y3d3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-20T23:56:40Z",
+    "hash": "8da6708e5357571aeb09cc811ab390c5298d9575bd2f7908ef4bbd9e12d8ec00",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Is Coinbase Still Attractive After a 590% Three Year Surge and Recent Pullback? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR0RjVkJYNFpvWkVENTgtQU1wSW96djItTnFmMlJBRzZGWTdVSkxnTktqVE9sSFdZcEF2SGRfZG1NNU5jYllRVzJFTzViNk5RN0pkZDIycE5oTUdjSWc4N1psRUlOZ3VSUldHZUoweldHNWdxNDdPeTJJREp3WkZvNGJGZ081X0NhdndENmlNQ2thQ0JQYmhZSDM3LVg3ejh1U3R4aXZqQ2x4b0hXQnptVS1jX29BNkJ4VFRfR0pibGRmMWhpZlZMZE5XYUJMUU1xSUZTTVdJV0o2bXFHejVTYVdB0gHnAUFVX3lxTFBpYTRXbnl6RGpyLUNCXzJTYTBFanlBVXgydldzMGU5MTFSeVVsWUVhR1BKWllPQUNjNXFzNGJ6MnB5dlZ1T0laZVdTUVlONlRyQ2xrdUx2ZW5idGR2RmVOX0JpZlQycHJXNDU3UkpZMlEwWUVIRDFvTVlxVXl4anZ3WW4tNFJyR1BjZWR1NnJ6VHM3ZXpfaTBmN01FcndxR0VOSU1ZcmZydWVMZlJSQm1WaEJjZjhKZk5ia0l2VTJabTlMQUpETnR0SUpORngxX1c4aWYySDZtT0JEU1RHMXYyd0gxcjN1NA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-20T23:32:58Z",
+    "hash": "145f8a0d382e3f1e016a45593cb5a561919f15a0da7efcdbf0e782358cf910eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Is Novo Nordisk Attractively Priced After Sharp 2025 Share Price Pullback? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmFNdkdnd1Z0QlFCYUhKN3g0OTlQZzFXN3ZuVEdMNGFwVXFQVDBEbDhZbzR4NUNkZzVFbnZKMUk1U0ZGa1FBbG52Z0ZDdC00SWZkMUJUVk5mTVlRMkI1UUwtd1oxS2E4OFJXcjR0azVqSV9teTdSTWdvODc5dnlGQVZHdm02aGg5TVJnQU5kZnV6NV9wNEFvTkh6cERiN2FOT0UxbG1mTWFmZkVPZER6ekZtdENWV2lEcE1RVm5NeXVyNUtHd2JvbkRpSHRTemlxb0ZON3FwYmk0ek3SAeABQVVfeXFMTUt4VFExQllGc2FiRHpJUXdJRW0xWDhwTXpoZ2M5a1BIWWVnVndzT0pjc0V2SE1iUm1qYVk5V3pGZjJBQTY5T19fMm9remc1WGR6R2NiVDkxMmstSFNNekZiajgtbHpuZkgyeUtjTFo3ZzVHSjA2c1JuNXB2RUpSdUJjWVlIbjBzVnFaQnBJU1VzWnBGTkoxRHdYM0x4Zk9GQ2Y2MFpWd3o3SXNMc01KQ3lhOV9ubXlYVl84QmVTZ0ZZeExlOTVNUWlvd3FSTVVRdl96aUdBQWZZalJfdHZlN3k?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-20T23:32:56Z",
+    "hash": "0e676ca88a02f344155e1a5c877fe24ae392a5aa281de79ef133a06a9880d8c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "JD",
+    "title": "What earnings margins imply for JD Logistics Inc. (822) stock - July 2025 News Drivers & Community Consensus Stock Picks - ulpravda.ru",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3lxcU5pYnhxZHZ5aHEyYWdwNVVaV0hNdG9HQ1R1NXpRTWE1b25HVFo0OU1KT1lsSi1NcTg2dW85dVBZR2VJNjZ0elRLc0l2WUZCR29QYWNGLWNnZ0lFR2dSeVVhYUgtWl9LMEZ5bW5rWUszM3R4V3JwWjdWcUFCcnZ3V1hLdmVDQWEwQlEyOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-20T23:32:37Z",
+    "hash": "fe79fe26931b865078c531d48897e56b585f0e814538d0eaa46d355a128fbc81",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Should You Buy Nvidia Before Jan. 6, 2026? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzUzlnbFQtNGZpd0RVd3dDYk1OX25JdFkzNU9adkIxOWFPVlRRZ3RoNHNrM2VwZEFqMXo3ZWlYelVsZk9IdDRWRHA5LUZkTF8wclVTRHZLNDgwQWtSQkVFc2hCc29SWmpNUmVXOGxoWGNKRjgxa0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-20T23:30:00Z",
+    "hash": "6d6e83ae60aab26b3fdf75defccdacb65af8f4d2b399534be099d8bae28f3afe",
     "source": "gnews"
   }
 ]
