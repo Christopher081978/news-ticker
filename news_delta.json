@@ -1,82 +1,192 @@
 [
   {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer Stock (PFE) in Focus: 2026 Guidance, Drug-Price Deal Pressures, and Pipeline Catalysts Investors Are Watching - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkxJNTZSYWNCb2MtZjRfYnZjdnFGY1NicHJYOTFUQlNsSUV6YThPV3VheVdJbElEbXZ1VkprRHg0MTRpUDJtMkMwTHZ1VmlqUmZPNjBTWml2ZUFUOEhlTXhCbUF3NzYyMFlVYkgyLV9tcWhNVHFraFlnQ281OEtPX3NlWGlSQ3Q1dFgtRHdkWW9GYkJYQ1kwS05pOXliRS1oZDhMUV9TNGJDQ29vdDRCLWpIRmo3SXJJb1VrQTJGV3FjZFRRenNraG91UE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T10:21:53Z",
-    "hash": "5f01ac953b2b23a88d5ee9c2b8644f979ed66e6cc9112e7f68276f5b20da1cd0",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "Osaic Holdings Inc. Boosts Stock Holdings in JD.com, Inc. $JD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNm9RM2RsaXNXNVNTU2d4OHNhQ3NBd3ZBSi1ZbngydjJ6RFNYLVlRc1pEQ1dIRzNFUTA0OEtELTQwc1Q4YjR2TEd6UlVBOEtaa21pTTJjdzVUY1BHSUNxaXBqWkJoeVVwa1dWa2pOejk2akNHQ2hyb0hWS0ZYZHlJNUY1Zkx4eHBBeTNVcS0wdjZzWk11WGdxUmpwRnowUHA0M3BIT3REZmcyYmpTSUxzSEprU3ZHa3Zq?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T10:19:47Z",
-    "hash": "70a817b5cac1c3fe83cb28b5655e2e128af42907c372ee721aabb43c405c258d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood Shares Face Headwinds as Key Deal Timeline Extends - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1RDOXN6LXlzc3dBRmtwNXpubk5CSEpxbTFqRmZNVWc5T0xiWlZqZzJjbzl0YUNOUG5ERXUwRmdCZkZUTHIwRUxXaUhaaXAzMlFPMDJtQlNPM2VXTlhleXpuS2UzQUhSbXFyR1hjZl81OVEyS0RsQ3ViUVdYLW9TOGlRdk5PVVA2WUFRVEtLWmRFNGw2QWh0ZWRaTGc1RzltNTdCUkRFUUI2QWNPVGliZGlBdS1mLWhQdFRv?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T10:13:04Z",
-    "hash": "c6407e52ff7810b03a6122e1625235c021b898b572b9934c9c7f32b4ce17385d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Is HOOD stock a top momentum play - 2025 Price Targets & Real-Time Stock Price Movement Reports - ulpravda.ru",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1McWxrdnhMdW5wNGhEa2RVQkFyMHNXTUh2VkdDMXR0dlRWRkNQMDZ0THp2MmpqaWNySDh6Z0VHZ1lNZHN0QWc3aTRWeWhMbklZVVFuWkR2MXFkNXA5aVFJSm5SS3N5VV9qMmE1WEU2aC1pWE5MWkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T10:07:56Z",
-    "hash": "d2ddfef7c2fb5b28a82b1430773514d66c236fcff7c1d38a47388dc05f57d948",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Will Nvidia's Stock Double in 2026? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0lpWGpFc0haX0hiaW8tZm9XT0NhSFowQl81QnZ3UmM4N19wTmhXSVRyb0duU1BjOXhjRkV1WlFrZWVManZxclZMSE8tdW11LWgyam5oRTktdlhmNkt6R3JYdmlZdXV1NlV4UUpBXzZMa2x0R0pBNDBlZ2FlY1poZjJn?oc=5",
+    "title": "Will Nvidia's stock double in 2026? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcXRTdEJRNW16ekZYN1dyZ2V0d28zMTItc25oNV91OVdqY2ZKUWhxSm9wejJSdFo3V0J5VkdmdnJDSDJWdTluT3NrZHYzcTgzbjVUX2hwbkZSSmNaV0pBbzdhMjhLaEdScHNEUlhBcTIzb2kyRU5fOTJNbFlodWl0bGpYUjVaSXYzczZUY1lFSmxzcm5UT0JBT0dRcGJSLS1VR2pIZ0lNd2lVV3VBLV95S0xtMGk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-21T10:00:00Z",
-    "hash": "9bc52fa5668741c13e8649ae675b30705aa02b35095510c2721b38656e97b085",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Samsung set to unveil new refrigerator powered by Google’s Gemini AI - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWeGFaMVpxa3duWmN1WnlrM0JPUHRQdjNXYmNlS3VjeWMyT00tMWR4ODRwVXB1ZWdmZzJlZGFiQzVZaHdrZ1VfUVZpSUZtQmlSbVZjTTA4U1VDbU5XM3l2LWU0NzlXUC1hQzZXZVNKYUZNbVRkS1RNWkJuZW1xZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-21T09:53:00Z",
-    "hash": "bacdb22bdfab0da4021c7ad172057f6eb7fd5f4af4d682151fc0b46631b288d9",
+    "published_at_utc": "2025-12-21T11:12:38Z",
+    "hash": "e327c9d2593f20eaca0aceb0337470cba82effd8a87ea0b2e8e5cdd95205d2e5",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Prediction: XRP (Ripple) Will Soar to This Price in 2026 - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHdxOGJZUXUtajZsejVUSGNieTY4Vy16NnBicUppWkIzMGNnYXFWUlhhMlI0TGlPYnBvWnhwdmNfU3hVT2lIZjZXc09KdmZnRjktOHNEMHdRMWV6RTFJYUl2RXI2blVDb0ZXRWI4c0FGNnhiSTUtWXVMckhLSnNPY1hJLVJNN2VDOFh4RE9DZmtRSFlSWElhS25feERuLVQxckExeTY0QkFvcVVhbTBSTFV2TzU1STFzbGlvRXhfZmFtSDJ6dFhPQTR4MTZoaW9GRTJnTTFR?oc=5",
+    "title": "XRP Spot ETFs Hit Historic Milestone Amid Unbroken Inflow Streak: Details - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTG5XVmlvSDlQemN4aW9LRTN5Q2ZtbzdNTVEzSnBSN194TEJnR0NpWG5oNjJsMEN0TUc2cXRVRXpBUGxxZDdqU0lTdkQ0SkhDQXRFTzB2NlpCMXZFSjNCa2pSOVdLQ3pvODVKaTNaSW01bHpVSGVvMjM3S0pTbmFmSjMwRDVMakJBZU5LMERKMzdZdXpodnlaT0ZpYmtyU3RNcWVMMW5NUWZBcEluWjhMRG0temtvOEhSNHFGVm1waU9tWlJOeEVta2J3?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-21T09:44:02Z",
-    "hash": "d9780fec50f654df7743e95eee99fee1bd14ef40d58ee3f85c225cb9a40acb62",
+    "published_at_utc": "2025-12-21T11:12:00Z",
+    "hash": "1b52887dcb94a6cf2d0c57b499bef6d3055a7909625886873082198093959935",
     "source": "gnews"
   },
   {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Douglas Lane & Associates LLC Trims Stock Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRXBKTnhsMzFZMDBLWGNmRlZLR1RZYWxVbWxoYjdrOXlFcUVnaDkyMEpRVi1mUDRIT2VETDNGaU1LSjBuQlpZRG1kRERtdVlDRGhVYlJCRFBxLWxuOFpNNkhvSk54RW1zS0NWQzB0ckFUVU9vbm8zY21KaThsbE5XbVhBalpOMDhfcjFBWDV2NmZPd2xlRXlOVmI3eWRCZm5JMl9qMjJ0NFhGQnBtMkdReHVPMEtWeDl0Q1E3cE9UU0labXlBdGhlQUlmWW0tNHhaWl82aVBFRTNDUmZiWEFvaXR3?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "64,816 Shares in Novo Nordisk A/S $NVO Acquired by Perpetual Ltd - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3JBWVlhSWdHLVV2d0hhbTI5eWQ0OEZCWEhINkpMUXBBcVJSeWdlMHJJNWljR1dTNVRrQ3VlM2s4TDZUbVFocGNnQnFfU1ZmSXFsb2pkSi03OVEwazc0UEFaT3pTV1hQUkJnaWQyNjFrTUYtcExPWHpYdUZXLVZNdU5QVjZIY2ZoQTlQUkh0bnBqOGJWMXV2RzJxRXB6cm1yWnZ6bVpOcHp6U0M3Xy1TTktKSkdlY21TeG44QWdFZw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-21T09:29:34Z",
-    "hash": "6594c088879d29a2058bf9175cede56a09d1643d35f7cbb5aa2da3e09e4a7af1",
+    "published_at_utc": "2025-12-21T11:08:02Z",
+    "hash": "03b58998782e2a57e3f78f46542645ede53f8e54d459a8ceee9b24aee7460219",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "How institutional buying supports UL Solutions Inc. stock - Breakout Watch & Fast Gain Swing Alerts - ulpravda.ru",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0p2aFVxVlBick8weDdQNUJrMm84MXg2dHhiUnN2eHZramlubExaQkNsdHhMa3M4ZVBwSGp4SDd2a2lyRFQzSWF0ZGViMzJna2QzSy14anMzTUstSXFfT2ZvcTJEdGlhQWUyUGpzcVpFWHJhZS15eVZsTVNrbUdYTl9LTG5VV1hDQkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T11:07:39Z",
+    "hash": "54ad755d165615dd0f06d2d4c90cdb764ff393565871d5c130a209023e048f92",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Why $88,000 Could Be the Calm Before a $94,000 Push - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcWZ1TWhucUozbUhGQnJEdHVsOFRPYjlOSzN4NFUwLXI1WmhKSHQyVng2QkpOcU9hNmtSa29HaUZLTElIYS1hN2pSZW1FX3JvSlFvSnJDZTRaR2hsR2xCYjZ4N3NxWVNGVHN0a25ldlBPanlqa3ZWV1A5T2NzUGNGZnBHd2xFaTNCbjhoQWtCRnBGVG5jUEYzZUFYbU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:51:22Z",
+    "hash": "70e33d2dfb064c9aa841b3512a1a82744536df9e4f037577974b4866b98699c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Toth Financial Advisory Corp Takes Position in Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOTdSQVJfM0VZRk1GaDg2ZmlUdnY5Y2ZxZnlCU2FwV0N2Ump3OVFQQkkzWXNmajVjcUlGMUxZMndESFo2SDlaTmdWUHFvVndtei1PaXVCWGJha0lWTGloZzQtVTdlOFlob2pvZjZ5bDE1dXR0MlN6Z2JZeUlaNFNYUGt0Mzk0NDlwRUVXQUdpWTVrUHg1SWVMcXN1UHFoTGdHZjBRN0I1ZVVCT0Rqa3BBM0VSTm4wVTY4OHdXWHV4Y3hEdFdKTTlQSG5CUVpveUdm?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:49:57Z",
+    "hash": "8a5a37d1b52bce66ebe2b0e02ec8d0b59133b081272e5c4f79264dbb7217316b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Fake Coinbase staffer ‘stole $16m in crypto’ and blew loot in online casinos – prosecutors - dlnews.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGdYaVRnQVZqQktEX1duaElPQVZKZ1FjUTJ0WVVOUHZpYUxYVkx1S0w2aWE3YzlTdU9sR1liRlVJdXRKeTV4dEdiMjBmWkhzUjZjMDNIcVpGX3ZoUXhJMmtJZkd1cWJlSVVqTFFIZmVBWHM1RU9vMmhyS0Q1bVFRWGJ5VFRmV3lRcjNZVnRTYm9kQzg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:43:27Z",
+    "hash": "5020877d50b3b5c5d93f86224a9c3096e14030d731b06d5242f38327dc00a87a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Stock (NVDA) News and Forecast for Dec. 21, 2025: China H200 Export Review, Intel Deal Clearance, and $275 Wall Street Targets - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3Aza1BJdEk1VzhhM3NSekpCS0FPVFA0N3pJeTVRMlo0Y19ldzZmN3AyejdGTEZwQnFvUm9SRVUwZjZZNUI4NktUZzZZaFpyWTZIalZFZTBIVVVZMUVrNFBHVS1pZ2tVbDhydXNhMEkxT0g0WERmbmhoSDNpaEJ2ZVhJUHd0ZjQ0d0xCcGx4SzhCcmJYY1JBUHVTN3ZRdC1EZjEzcmZZVHYtdlRiM3plNXRBNDRqQ2FGRDFTNGE0MHV0am81ZjZiemdpUllGa3g0TmdRZnZJb1JDQXRmVFAw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:41:53Z",
+    "hash": "4a42e5b09f557274f847393e7a83171752eacd14b8a77bbf3790f2aca7cfa77b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever PLC (LON:ULVR) Given Average Recommendation of \"Hold\" by Analysts - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVjVESWgxOGt0SmtKMV9iZjdqYXlqSDVjN3pSSzIydnBMbzl6ZkF3OHJhQV85czJUVDJYakMtdklhR20zR0M5Y0NIY21UUnQ4emgyTFVZYXZnc0xFbmx0eUhrSldUS2tGdUMyZkxFcnh4T1E2U3NFa2tySHlXMUhXSldvc1I4SHJMYTVPWXVjNEdOWDY1V1ZGdjlvaUgxZ3R6R3lyQ0VwaDlBOE95OVlPM1dhRm02ZDVoRDYwNkNma3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:59Z",
+    "hash": "8dc2ee8a8353d3b95c633e8cef080a9ca810c660a4d6a8b25cc1b7cb12436650",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Mitchell & Pahl Private Wealth LLC Has $1.38 Million Stock Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRWpUMWU3OFRWbFFJUkhkbC1kSUFaRkw5cktJUkJfM196OXpRejBfN2dQel9ubzloQ0F5VEo0Z0hEam1ZRkY1ZVlwVGtBSnpuYU5NLTVSLXN1UkpmdDhlWDQzMThoLXBPOEN0Ym1UMjBrYzVJdHphR2w4WTJxUnZacEV0dGM5ZFBDVHVQRGpTZS00YVd4SHlHUFVZM194N25HZ3NXcjlHelNyamsta1RoeU9ldklSZHlxalJVQm5NYjJSSzN5bWZ1cl8zYng2TnU4S0JpY1U1V2VRVW42WXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:58Z",
+    "hash": "dd74fa1d2b6e7a3c81e533e82909e24daa644b23d2966eaa47abf010a596b3d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Peoples Bank KS Has $3.79 Million Stake in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVHFMMkVIOEN0c2w4RHgzMkdaS2VaQl9vWEJYQ3dfWno0bHgwSG41UTJfNWFuRUQtQUhIZGNibkxLTHdTaGgtekw2TkxWX3dzajJDS0U4ckVackJpVmNKQzVZdlVuZDdBbkJheHh6cXhUbTFGU05RZXpMY1VDaUg4VExDUUVPNzJmSjJRNnBkNW10ck5hNUp4dVcwdlR1RmItWThrdGQ4N2syOHJ2LUpVX01iY2ZmTy1MUXJUOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:58Z",
+    "hash": "fcf64aa949c991097ca221ccf7d6eec254b66358261d737aade018d62f20c891",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Long Run Wealth Advisors LLC Trims Stake in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazZyUkZDNHB3dUJLa20wRXRjdkkzWEhZdUVlU2FEWEJKOWZHSlJQMk9nQlF5czFNWEN3UEludkRoOFJWWUg5Y3VnX2VuWEFIbXM1bG9PTWUwRFFoMDBsTFhfTFIxa3VVbldYQzhQTTlBOXVrcE1qdFAtVzdDSGg5MzJ2UWZPMmJqVlZ6eGF2MjFkbTJvY1pIMzVJdHZFT0cyOGllZWZIc0JZY3EzU2VsLVVtQnBaeGd5SmZzX1c5OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:56Z",
+    "hash": "4acbd2367a01d11801e81bbe5ad1134e25fb98874d35ef7bdb83f1a42e1e89c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "RDA Financial Network Has $12.14 Million Stock Position in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOUhWUHNnMk5pRHVhTmgwYzlWZ05QN2ZaVmp4VUhZdXdfOWFNTFdOazduckdwRzVsOWZ3WTNiM0lOUlpZZm5Zcm9GMnZycGNidVdFc1lWcHZrRDNUTXBqYWlQUVEwR09JR01vVXZ6X1ByOG12WkNlNDVLaWJfSFdCV0gxbXZaajNQZDUyVjZBV0tXZEJqM1l4cFpub3dST0p5dUtjbEg4X3RBYm81OW5pVExCRVlkaC1PbmdjRGpVYmdTMGhBZHVnZnJMRjZjWmJRMlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:55Z",
+    "hash": "3882b282bfa4426c6a83516abeea52b23270b5a1e509fd457c0141cfd5fd0626",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "7,195 Shares in Alphabet Inc. $GOOG Bought by Sheets Smith Investment Management - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVzdneFQ5R0RZYXBySkg3RHVkNzdCaXd3c0FIem9ON0hVdUNWR09TelVaS0dRaUVubS1mZzJPTFFCd1paSmlzSENYSmhZcWxyb1h6eGtnSE9CQ1lQWFd2QWp3bmtnakg3eDNrS1UtZ1loVlBONW1yWHA1dmktNlNyYlh5enFqSEFJX1p6a2FoM2l0TmN4MEpkSFlFRFVqUlp0aHBpdzgwa2hlZlBTTWRrQ3kwc2ItSFRuTHZ5QWp2azhYQ3FXV05Yc3g1YUZMNWZNdW90aA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:55Z",
+    "hash": "9dd3fdece508d6b26955af3ffddbf4fddf2a7fc0adc393e8a79aecc9aa582bac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "MFG Wealth Management Inc. Makes New $2.70 Million Investment in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXpjeG1zU1NSc0VpcS1GaTNkLVZPanRleVpMeFA2bFA3WG12bV90NXBNaUFkX2M3TEVEOGxGcDZGZlJNdzZjX1NjNFhrdjBHREdiYmR3U1hHVWNScVRYWE5oWnFDWl9GcFZGalE4QWhsNU1RaF94RDFDMnhJb2U1QXNfTmo3bkxIZzBEVXdCb21IMEZNOHpvRk5FS21zdGRFSkR0Nk5tRDZtNVFZcEJsUXQ5c2p4Ykk2SGlKVFlGRUtaMG9wUkNrb1FNYkZELVRvajRZUmdDbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:55Z",
+    "hash": "cbc220a2d3b503f0e4bb568e7239986800dc76e2ce0eb765b18f079c29fd64b6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "217,066 Shares in Alphabet Inc. $GOOG Purchased by Talbot Financial LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVEI0VkhRMVo2di1LTk1KUmptOGRpSVpTcGFxZGdLU1QyUHpsU2dwOE9oNG9TVGlNdUxJYWFmbzJ4OWJQVG5WRXRBUDFBVEE4c25zYW5HVkVLTXVqOVlZLU1VRWN4bmpsRzFydGhjZXdLRmhIdTZyRDN2VFdieHJrR0F5Y1h5V3MxNTZLOUJFUzB2THQxSnJSRlpTMldBWWdPRVBtbWpWMFd6Zy04TUg1OUladDQ3R21oeXpucEFpZXFEVF9DZGhFWA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:55Z",
+    "hash": "1661d217f394af6f62b218f29c14eb15542ae4b8389318c46b17b65018d6efaa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Osprey Private Wealth LLC Has $3.42 Million Stake in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaVg1Q2x5VXNBYWJ1MjdTUG02cnl0WXplTG1TaUpja1pEZHVwOVZaR1JXQkVFM1lsTnFBbU02V2dITUMtNDdNbXlOUjU2YkkxdEdTamlEenlPNnkzei1zckg1N1dTU1dpTEFxN0xWTXhxR0ZwUHZCeDREaXNoWGh5SGJLdUF1WjI4Ml9uY25faFhBUWZ0MjA1SGUtOXotR1pWTUdKRVBfeHU1S21ybmFYNkJTZk02Z3JYZUJlY2FFUzNXOUhTZTNnYjVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:55Z",
+    "hash": "f201e4006b0a603692f97d4bdaae2b7884e0512baf0e1c92a952a04516f25196",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Firethorn Wealth Partners LLC Has $3.30 Million Stake in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQmFfRmFPeEFJektjOFhuTlppUm9fQTBGTTJQVmF6TWlCTDIydUJPX3EtcThfQ0NTaUFIc0taemxCOFBnSjhnMFVaLWVQdGJSV2FCYm5ROXM1djB5aFh4NllSRUFFX3hlNjgtMWc2bE54bmZTRmRxcWFkSmFrOGVzY0FZR3BKUDJORHhkV2ZBWXBUSjZTcXlCUURUZG9taDg2TE9xcS1meThrakZRQmphSlFWQVJLRld2MGdQVnF4YW9YQ0NsZ1gtd2pQeWNQSms?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:53Z",
+    "hash": "2723e3a75b1d8281dc07f8adbb6821c8eb90d82310f1e24d994d7626eb668092",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Patriot Financial Group Insurance Agency LLC Sells 13,966 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdWVxZ1lhdzFKQ1ZGTk52bk16eHR3LU1kNm1zQUV3MzZqZnFqdG55V3hIUmwyU0VGUE9kZ252ZWVtRHI0aDJkQVFDTGRPendTM0lSQ28xOGhWTnZ5SllyVFlYWm9YSE5YWDdsZmtaZDF4RFNJbzRnNkRWNzFoZjcweld3OERhcHFDTTBtNHlwUUFSUWgtTkx0YXN0aHE5amtER25TR3ROVzM5d0M3N2E5VzZtZmNDdEJIVXZHajBYc1lkdUpnM1pXb3dYU3dnc2lhQ3VydUhLY1ZMNFBVTnlNekFtb2RfQThPMzRfc3I4N0lpM29iV3d3UlNJNTlDeWFGNVlrU3NCYnZOZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-21T10:35:53Z",
+    "hash": "e259f60a343bac6d1b66b55053a759f92514b3e3af6e2447ea5176e5ea66277b",
     "source": "gnews"
   }
 ]
