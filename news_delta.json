@@ -1,132 +1,92 @@
 [
   {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens Limited Recovery Linked to Earnings Surprise - Short-Term Trading Alerts & Low Risk Wealth Plans - Bollywood Helpline",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWtCWDVya3pfdEFRVHVFZTFNdnpnZEVJWGQ2Mi1XM2tMaVpNanFUSVQyNkh1Q3oxN1hRbG1PanpSX01KbUxhdlVRMjFVUmY4TjQ0YkVRYU1GQUdXR1V1Y1FNUUxjSUx0TkxZM25JaWVLS0FDelNDMjFYNzFFR21uZmpwcGU4b2NJSjhjQzJLLUkyXzkybF85UkNKbw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC Slips to $87,000 as Gold Wins 70% in 2025 - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXpqcnd5WHN1R0h4M2hEX0haSk5Ub0xTX1FER3NUbXBEUHM0c0pXWlAzSkpFZEtpM1JndlcwRHRJRVhKRFVfNjkyNGJ6eEF3U1VzTHQweVZxY2Q5a3BmZm1hS1BCVTY1TXRSdzJoS2xmU2puZGpKMEJoYk5fX2RYeWE3OTBsX3ZoMFNLdzFUeW1tRi1fR284a2VvcWI?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-25T03:09:18Z",
-    "hash": "2867b2b2647229154ed203a2502f6622d97cca2f008a3b3ba38ad030a06a472d",
+    "published_at_utc": "2025-12-25T05:08:07Z",
+    "hash": "2c8e2e01a4fa91fb5d4068a4de3826545bc8cb79915bfb60fdda2b9b3195371d",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia licenses Groq inference technology, Groq executives join chipmaker (NVDA:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaXR5OG00RzVheElJT3E4allYcUhnZThQVE9FQVZwZE83Q0I4S21CMHJpZW9MZnphYkpWM1dRSjhQbG5oMXJVRmgxdUNOYmx1T2pfenhIbXBZcXU4TG9hVDFUazd4YXBSWmpPS2tCYkttektKbElNWUpHQnNLY0NTQ1Y0STY1Y2twYThpak9fU1E2d1I5RmQ5UDNhdGpPTGFobGRTUXZfODdkNXpYbDNz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T05:04:39Z",
+    "hash": "af9e27cf9201fa82d3fd4ed3ebd89aa76c5d268141c07e8ef0f11830d1060c96",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "With retail investors leaving and institutional investors flowing in, has XRP truly reached its end? - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2lwend2REpxTHUzT0NtUVpnaHJKNl9mQlZjOGg4bFJTWW9yNkt2UWtROWVfaUhUT2wyR2J3aHllQkdtQkY1bU9ZY3ItVVpFdm5vLWtSWDdqWDNpZjhRMUJhWmZYM3l2WW1NRDZWOFBVVWxzblE0WUNUOUZ6T2gwd2FJMm5BTE9FY2NiRVBQZjlfZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T04:59:54Z",
+    "hash": "def600a3c4d2698828af4fb8cb1ae71d82963365f00e9bdefaaeab916ae24611",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Shares Stabilize Amidst Regulatory Overhaul Scrutiny - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOEx2eUdZQW5XMl9xa0lGc0JzQkRXWDhkSkRlQ2UwVWREQU1pWVNFWEhYN05WUEFVMmdVNTJMRTFreGY3UExydndIazVVLUpjX3AxMjVPMFBVVHVUaHpkRzBRaFVLX0JKd1Vna0pTYmNVN2NyLUxWQ0h3LWNnaTR4bGxVMl9EMGRveTVEeEdRUlJDV1BhT25JR3pTNWkzZExwWWNnbzAxX0VvaUtDWEFxWnA5Z2F1eG1wWk9LekRZYktmZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T04:51:04Z",
+    "hash": "600eacf427ea91b1c5399a424a44f155d1f996317046bd758075d44cc087e63d",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP Stock Today: December 24 Castrol Stake Sale Nets $6B Cash - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHl5SXJBbll3aFVYLVhMaWpYMGo0dGZvYXpWWHVwczBiRTVWNWxlT3VXMmMxcnFDSzhsSlZKWV9KWnh0a05xbDZIQkxtTGNFWEh3TEdaeWd6ajdkeHVObW5GbkMyLXlJN2xQTDdFX3A2RXdINlJxc2w2ZHppNmFTSk9TRGZIQndkNEJIV2Nkemo?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T04:49:50Z",
+    "hash": "d2b4648f7a5ee0eaa4bd9788a81b9560b3db8650c620775ab8a65bf6eaae7939",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Stock (UNH) Breaks Seven-Session Losing Streak — What Wall Street Sees Next - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVDZwcmx0S203MmNDbGY2SU9jOVI4NG5qTnRuQllSZ1FsbDFkTG9DaXpZbmx3LXd6NE03c1VWc0dLaFNuYm5QMEQ2LUtZOVlZNEJFZGdfblQxb0JWRzR2VDdSdzJ1QVVjT3FMcUVmZkwyUGNkWlFvdFV5X1ZxUHhjVUVMNGlSRDVnRFhaZEhzdXBlbGxydnpGZ0Z5TnBmQ0VGWDlNOFNwUDAzMlhqQ0xwU0pub2Q?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T04:45:43Z",
+    "hash": "1713263ec67ae5d3f1b9d2cf90f29ae7ee5351a571111b6af8c8f18f662f0da3",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD’s European Ambitions Gain Momentum as Sales Surge - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNk1qeElmc3dRTmVpVTh6SDN4blpoTm5kLTk3amV0UWdZX1lRb195QzMyd0pNZ3dCMmlTQlVGcFJNN24wNFJJbVVqcWMxNlBLb09oYmpJbHRnUWprR2h0Y1lpd2x2MVpROGV6bjVrX2oxVFYzZFRSYVplN0hkUExPR21ZeGdrazhWQk14aEpvcjJhMzdEOWpUYkFlUUhMOUVDbjFsN2V2UkM3YkFFN1hRbl9B?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T04:41:05Z",
+    "hash": "a64efe8e0c4cd666659833f7f74f8348b20ab21778f4adf4a614a1e86f08ecf8",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia makes its biggest purchase ever - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YdzFJQ08waXFDbUdub0l5bjczcW5HSVhqT0V0aUhOWkNlTzRKOGVWM2ljYU1kMW1yUVVyeS1xNkFTTmkxZmltb3l1ZlN3SmtreU5oQ2ZiMnh3WWExay1BUXowUC1KX1dfcUFVUEJUUWRHS3BqYWpMN25RTng2NEk?oc=5",
+    "title": "NVIDIA Sets Record with Acquisition of Groq’s Core Assets to Accelerate Deployment in Inference Market - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVnY5eXI2NUhTVFAzZVZoUUpwOGhBb2ZpWU5nRzREVmdDMFEyVmlmQWNaaDNEWjNuTnJWaWNnYjZFV3ZzcDAwUGFmTWJxR29fX0RpT19SNlB6QlUtTGQ5eGNwUXRPNlVOeWpaR01RWFNQb0JqVUswNVBib0ZaQm1rVXNlN2ZXQ213TElUN1dSWEFmUUFwWUxvamFVY3dKWVVaZm5rZVI1M0ExdU0wYmxVb3Fzd0ljMWV4cGE4a0hHWGpJbmNfY1lTOGZ2SldTaVk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-25T03:07:00Z",
-    "hash": "bb9bff04645cb7fcaca4858738b0e3f4eb0c9b46d2dba9cc49924d93429d3598",
-    "source": "gnews"
-  },
-  {
-    "asset": "Panasonic",
-    "query": "Panasonic",
-    "title": "Is Panasonic Carbon India Co. Limited in Accumulation Phase Now - AI-Driven Market Analysis & Explosive Capital Gains - Bollywood Helpline",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb0lmazNXN3hYN1c0SW1ZYjZRckNacUp2VXlBUHRPbnFXTFMxM0FKY1JJaTZOOUpaaHQyeFdfNlY3elZpdVBlOHBuX2xlWlFoOE40TXRyeXB1N3JyT1pqdnFzeW1Jd1VQU2VPem04MV9KcVRlR05NajZnNjhJSTZuSHJFQXY2ckd4al9kMDF5MWpiWXk3U1ZlZmNsclhWUDZSWkZOeThmbVBFZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T03:05:03Z",
-    "hash": "499ac3d9151b048ec40b93dfb4d0f6907e66bd888658e8b56903e678a3849352",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "Leadership Stock Sales Trigger Pullback in D-Wave Quantum Shares - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTDRGdXNueXJYNGh1aFg4X28waDFtNVgwOXpGNXU0cjk4NC1QNkFmTDVyLTZYZmg5NlZuSlpoQmx2MHlKaDZlX3MyYjhzNTRGS0pkMkZkQTdZZG1BNDFJeHZYMHloY2szSmZtcGZHLXN2RXRzOThSbkVoUWZiTEhRTjhaZDNIZUtCT2Y4WW1rUWZ3b1lJQVlBMnd6dks2TEVDaVAyZF8yYU94WkhYUncyOG1pUUNkc1JCalBCcGwyUno?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T03:01:04Z",
-    "hash": "0250362306b6e3d48a724bc5f9d9731daeb578d50114236fc6b45b8b20d1ffb8",
-    "source": "gnews"
-  },
-  {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "BASF India Limited Moves Into Bullish Territory Based on MACD - Cash Flow Trends & Interactive Learning for Better Returns - Bollywood Helpline",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWMyaWFYck41UFZaV1NScEdkVk9LN2VGNGhFTEh5aVRsYkRFUjJ1SFN1S1VMLU42MUlVT3VvQ3FJSmVfSHd2bWZERU1vaU9tTGRWMFAzWWxpcXJBdlRzNDFZTnlBZFhXMzFmZkhNcUJtMU5kYUxDVUFJSEx0Sy0wT0NZbDRGS3RrM2J2QjVqR3NDUDRuSVVyd1VtNUZ3SHotYnY3YlA0bw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:55:13Z",
-    "hash": "86d9b80ab56792b6b9b772ced1b13f7306de700b3a4f50bc48f2e1ba40d0c281",
+    "published_at_utc": "2025-12-25T04:27:14Z",
+    "hash": "58ccf8271bc0afb0709eb982c99c960ee0541caa0cac6274ee9709ee44f427ca",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "US ETF Market Hits Triple Crown While BTC Bleeds and XRP Soars - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NRHpWaHpJVUV3RTdFMTdZUHhwWnpQdVVZS2RFcXFJdlZVMEUtWWtVTjE0N3ZBVmU4Y0hETEhlOVRfSTU0VnYxWXFSdmZRcXNUTEFheGw2U05lZTRJaHdtcjJOOHdwWDdhTFp4VTZVU1o?oc=5",
+    "title": "The Ripple Effect: What Fintech Startups Can Learn from XRP's Price Movements - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmZ3Y2xPWW44Q2htX1BtY1pQemJYSlVYcVpmbFkxY3lOTVM0cWRQaXFlY05PWjhFd1R4Sm1qcVJRemgyS2V2MzVTcEEydTdsTnhSTXljaEczSDg4cXFOcHdQUzR1Q0pqRDZoM1JkVjBsV0Z3R2tJczBmR2pMYTBLeVNMRTI?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-25T02:55:00Z",
-    "hash": "a354a4c4116c694030fc708675090798e226d075487e1ce47bc96922328bea12",
-    "source": "gnews"
-  },
-  {
-    "asset": "Panasonic",
-    "query": "Panasonic",
-    "title": "Price Action Confirms Reversal in Panasonic Carbon India Co. Limited Trend - REITs Market Trends & Superior Return Stocks - Bollywood Helpline",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFh2c05SNE9OLWR1STVDTFBoZmpvMGw0b3dyV1pIQ2dzZVVoMnJ4ZUVhUFlFUWxCU3ZpNk5qME8yTWNlUmJkQnI2U09TUkQ3ZFYya0xyMVlIX05VNHNDbDhRZEFkMmdkZ3RibWdZc1l5U2lmaF9scHVZMF9WanpSMFpwcUlBUnFRV1VwRHQ2R2ZLaG5TdXRTeEdCdkNnQUtkTFlLTkdMZ3FqM093ZEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:49:53Z",
-    "hash": "feb7cbaf419fbd1113ff511606bbf35e62f934cc2f20efef6c187227daff6f7b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: Bearish Technicals Clash With Bullish 2026 Outlook - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMWo2dlQ4T0o1N2xGVTNHWjBoSTBoUkFIMjdTTkRnbnpIcG0yekhIUE8xakVzVGdFbV9Ma0xFbk9HUnpxcTNQc0NfNU4xaVRROF81MlU4OXRvZlBXR29VM2JtYVdFN0hSQU8tNlc5LWg3YlctcTVDVnp1dW84MnRMVDBpTnUwdGdaQlVteFZOUjVEVDBncVo0MXdwSFlRU2RCbjZHeXlteGdscDB2RDh3UEVyaG1INUU?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:44:00Z",
-    "hash": "9ee53ea5cec1c005c0d5299fa48fd317c97e4bfc10a77eb61e407e645244a705",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple-backed Evernorth faces $220M drawdown as XRP struggles - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tTjZscUtkVXNkZTZsVTNxSDA4TGMtQkNwWmtPYklsZm1ELTZDWUdobVpBSnl0MlhqTkpxUmRRSFF5YzA5eS1lZGVQR3IwUGg1aGFqZWpVbGpjbXR2aUxmWjNRMGp5aEt2dnRaNnc5aUJDVkNVVHlsc0RtZ0c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:34:09Z",
-    "hash": "69eae04a8d12a3a13504a4d171f46858a9cf86b52a360056644f8a77ec89a914",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana and Ethereum can coexist in tokenization race: Dragonfly VC - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUhobXQ0OUlEcmg0di15d0p2STlmaVk2ZjdLYXAwQVNsMXpQZlVybFBiNEJyanc5ZEZVQlg1bFpZOGo2Y191OV9rSFpMa0FjNndZV3NtNjAxRVBVMDBsc0x6V0V6Z0k0TEhCVHRZMzRLZXhIZFFiZ1doSE5ENmpxcWs1NUJ2c0tGTTZNM01Ublh6VDNaTzZyMFdPTTNsbmZuaFpKUVZsMTRDc1dfaUE3SUp4bWxUdlM5ekR5bnROaFdDSnpoUXZmeA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:16:00Z",
-    "hash": "a8ebf0ee2d11bae45d3d96a63266353c2203822168bbc24a7929f168bcda5917",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Assessing Novo Nordisk After Recent Volatility and Debate Over Obesity Drug Pricing - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVhOcUJ1M2dqVUVxdndBMGVJYmhGLUFTenV0eHhFZmVMd1J5MWtVV21LeXdUWUF6OEZxYW9FV0tWMzktNjZjQURYVUM2THhRN2d0ZXpBQ1liR3pCVTlIRmVFUGFSa0NIS2VCS1hLNEFaYWl2YlpGRkh0UXluSTczV3lpNE5JWV9rVFhZbGFrZlJCOHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:13:00Z",
-    "hash": "3bb54e09652851e5c08f800f376911bf3aff288b95c7ec2653f04d58221b2ad1",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "Assessing JD.com’s Valuation After Low Price Strategy and Prolonged Share Price Weakness - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEpuaUZXOTByaXExbndqLUU0TnNTTzM3SGh0T0U5NmtVWkIxSUFwMmFXQXB0Zy1BNmh3d3F2TTQ5MUV3NE51U0x3a3RGc0l4Xy1QamlWX3BVYmdkRHZaTzF2NkVCSWVMRm1Kd2x4cUhnTHA1T29EMGJHX1M4RHJuY2h3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:08:00Z",
-    "hash": "d57cbf2ca7a8b88912e975ae7d8fc0336289eda25d66e4f68cd4076b4ed4062c",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "Assessing JD.com’s Valuation After Low Price Strategy and Prolonged Share Price Weakness - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORW0wRWxZbURsT2RFQzdXblZCNEZ3YzVFTkE4ZlRUZEtYT0o3NENMc0IzXzZQekd4NjEwbXNrcGFXbElXZFJvNWdDZ2x4cVdTeWU2TW42d2VUbDlGc3VxV0gzR21mUGsxSkFrQlpyOGxuQmU0dVp0cFpTbVR2LV80YWFtTFRuQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T02:08:00Z",
-    "hash": "536a222e2ff79bf7a50cd9fd0c26cbe19522f2763afa21d6941681a290ea0dd5",
+    "published_at_utc": "2025-12-25T04:08:11Z",
+    "hash": "44fd2e50f4d7f0c93e128a15827ccf1988cbfc6e4d0b1e6469a9b3e8715d566a",
     "source": "gnews"
   }
 ]
