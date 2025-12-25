@@ -1,102 +1,72 @@
 [
   {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Popular analyst sets bold 2026 price target on Nvidia stock - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVh0azh3d0RQRE93eW52Z0t4bl9FazFTOXNaV241NWtwdVdsVnlIVVY2b2tTVk94d2lkc1NaZGgwNF8zMjRfSWpONlJYeEFNNXc4b2hobG5hVWh3OWMzaWpROWRuaEN6VEJUa2V0eFAxbGV4bkZFdVpabGlwUms0RU11X0NIc2o3MGxtMENVbzNBekkxOWttR0RVRWwzcFp3ZEhERw?oc=5",
+    "query": "NVDA",
+    "title": "NVIDIA Stock News (Dec. 25, 2025): NVDA’s Groq Inference Deal, China H200 Export Twist, and CES 2026 Catalyst - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa29VZ2NLMFU5MkZPamRldWdVdkpDdHVJY2owNDFGQ0Q0cmJ6cFNjdlFrOENadGhOSEd3ZTVFZWhhN1lFZ2FUVjFXVDlkMjRJNnczY2N4RGJQQjUxU1hDZ2hhSUV4Z2tybFc0UURLVjZELWYyT3c0YXFfOXRWMG5mU0JPMWVpRThnQ2NHdE5vYXQ2MGpBTzhYYXZoRkJ4WjJDVjVGTnRsUzlrSTlJLS1LZmJvR043WmlYV0dUMHNYNA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-25T13:33:00Z",
-    "hash": "5a5dc0e915286c438e79c5012d7b97800e36d908cdffd497c73f9827401eeac9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Rüstung: „Wir müssen mit allem rechnen“ – Estland setzt auf Drohnenabwehr",
-    "url": "https://www.handelsblatt.com/politik/international/ruestung-wir-muessen-mit-allem-rechnen-estland-setzt-auf-drohnenabwehr/100178411.html",
-    "summary": "Estlands Rüstungsbranche boomt: Mehr als 100 Firmen zählt sie, Dutzende davon sind Start-ups aus Tallinn. Dort hat sich ein Verteidigungscluster gebildet – nicht nur die Ukraine profitiert.",
-    "published_at_utc": "2025-12-25T13:28:50Z",
-    "hash": "dd59ecc907f003c9d1cd675973d25d3c0acdc375f6b4c99530d26aa94cf5b4d8",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "Granite Bay Wealth Management LLC Acquires 15,098 Shares of CrowdStrike $CRWD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTGcyV1M5V3pWSWJlOFFaX2RWYnl6cG9vbVN1OTdZSmhuU1NldGpFRk8yQ2tfTTZzdkR6UmlucGc1UmtrTC1McG9kNEZTdWRyRzFuQzNPOVU0RS1lNzBVSGQ3ZU5BbVVzOWwyWXA5c21XMHhOMks4YWlOWVlTakxPT3F0UUI3NXBld21GVC1ubFp3VHR4ei0taEJpV1ZKVzNaampRZ0NUM2NFSW9pbmp1SDA5Y0lmU2pNNmZrc2xRUnlQY3dKRXJRUGJVU092LXlSX3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T13:25:55Z",
-    "hash": "7c947dfcc10ff1b194e5efc041a5bc7c9201594354a200f76fa65e0387b44286",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "World Investment Advisors Sells 6,506 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMUwtUnFsYzJDZjFuRXRETWltLXNNcnZya2tZQ0liVzQ4cnY2SFVvaHM4R1VEMEFCTm9fYVdiRDA1OUpXWWJPQm9sZTF1cU9waUVyTVd3V2I2OUQzakxwT3ZyVDkzRFZoY05zYl9aQWNFYXAxRXlLeUl3bllvQnU4NzVIZkNUUkxFeEFxZmtUd0gyUmlqb3JEQkVWREwtTTZRampyTjhKSjJ6R3RHUUJIUUR0UWNIM2tZZ3lHamlWNzNUdGFhdlFBY25GbVJadEFmT0hRbTgyNm5La0dmQnRPTWM2VVNjRnNoamFLR2hkUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T13:15:52Z",
-    "hash": "9b3fa3f76f00613d967a96221b4b34962330107ab75cd09636ac17d9cc7e2367",
+    "published_at_utc": "2025-12-25T14:12:53Z",
+    "hash": "cf2ee13656df3b54ba581a168a5766c2b71d0fac85db02b553c7f06946fe14f0",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Scaramucci’s favored Bitcoin–Solana–Ethereum–Avalanche basket sits at a loss - crypto.news",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXJPemN4c18xUUFwQmtEY285OUEyeW4wWjFZQXZ4VjI0ZHRVQnRiWkY1el9ta2NyTnlOU1l3LU1TRWdTSklqSWZPdDdUcnh4aTN4QkhmUmxGNTRNZWI3UVNOZjE0WHI3S2JaNmtHOGFzMlZLRGJVR01tNEVpckkxdGxGNFNjaDk1TVF4SmNxQmtURmRMbFNrMzJhMkc?oc=5",
+    "title": "Cardano and Solana bury the hatchet for a plan that will change everything - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGpxeVEzOGk0Rl9EdVJZYVh4aWNDallpWVo5TFZUNnBzWVpneVBCQ2RBUHZDUFNmQXJqQ3BCWUpnRTltV1pwSlNtRG9rb2Jyak5NLXptLU04bDNZVUNqZzdnZkQyTEFMZ1ZlbVE2ODA4RzlUaVA3SjZJS0JXTHNQMjFaLVdvN3FvMm83SVVrVkFwWFRfV21VQ3FrT0xKSGJ4TzgweWRMR1ZuTEtvcTRPcWZkTGs?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-25T13:15:49Z",
-    "hash": "883fb7fab195921ab52156766ba20f6010b2bf03490e5dba25d913d16c2dd3f8",
+    "published_at_utc": "2025-12-25T14:05:00Z",
+    "hash": "7b323e13de56b2fb66a8ea08a12e2dba30b1f780a24f12d2319223752e1eee0f",
     "source": "gnews"
   },
   {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor (NYSE: TSM) Price Prediction and Forecast (Jan 2025) - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmFVVnp3Qlh2UE41NlFNLW1EM25rc1B2bEJkNUVLbHZXdnNxMXdIVDB5dEdyRllrUFpUc1ZZY3lZWmxnc1FYNnpkM2R4aGJsWmZSR0NXREJXaGNJQ19GWWJsaGlqME5YRUloTERkWHRrQmZqY0hkT25qbV80WXNsNTZOVFhNSDdGNEl1VWRGR1VvVGZfdDJ4d0FxMElRdGM?oc=5",
+    "asset": "Sprott Physical Silver Trust",
+    "query": "PSLV",
+    "title": "(PSLV.U) Investment Analysis and Advice (PSLV.U:CA) - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazN6YkdSazBZdjVkN3M5NVpMSEwya0dPSVdHNGkxb1A5NWwxeDVpcjRDX25HVnRwY3RtSmx2UVI5Q2wyNVpTYjVSZlplSmUzSEUyZEJzQjlQYnMtd3JibWdmOEJGVmxNWE5MS0FhMnhJcFhmV0E2aEw1TDh0RUVzOFZUdEJqTEhmbWlOZ1pFTG9zZFU5RmFxYmlR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-25T13:15:32Z",
-    "hash": "d823424ea59396634565d385ea3c44970ced502c53628e8e4a98d4cb74596f18",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum (ETH) investors watch closely as this $0.035 new crypto enters its final phase 6 stretch, here's why - MSN",
-    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOS3N1cmhYYmZPT1MyMmVtaXF6WUVBNHdYa2pkaG9ZQ1RfUlZpekduZzFCSUQyLTRteG1iVGttalpGVVBpbm5LU1ZDcnNjbzdBVzd3YktTS0plRmhoVVpIUDhIWE83aWNTaTRYU21sa2dHUFdUcTVxeHFRMXhkUHZpSzFlN21Cb3UtamtqSHhTc3JvRE8tZy1GRWh2NHJVX1VNWlViZ0NQbTBIOFVuMF9JSGFTX2U5endJQ1pYclBNRjltdUdhYVh1eE15WndzbmVWdy1KM2E2ek92cnF3X3liUDJkcFFyVktVOXdIZTViMXRpMEZQNm5hMkZMOEpLY1l4WkZ3WmtMRVl0ZXdzQlVqRlBuTkxQQzMxcXR6LUplMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T13:10:17Z",
-    "hash": "d13e2f955459a725f40f618037e0e167b4118789d54cc60b2f3760d66a4c6aa8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Wedge Capital Management L L P NC Reduces Stock Position in Alphabet Inc. $GOOGL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVVM4bVBGUmdoRl84S0xnNkNuUVFLWERHREtaNVV1WUg2Rm5PNTJ4V3pfSUpUODlueUVRbV9QbFJCdmZwWVREVUVVRHprUUNnUzBMLXdXTTJYZnBRd1BFa2pzck5Fd3pNZFdlX25zUlpyMTNqLURkZVh3eU50ajc2Rlp4X3FuaHIxTjVrbEFSRTZJSzBwcFNRRU11OGFDNFFqZ3JGZFVHOXhtN0RBcW5nU2NNVTFYX3hRSjdzcXVWVzBzOVM5YThEc2VyM0hkYjJta3l0MEFn?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T13:05:55Z",
-    "hash": "b7e9ee7fdbc393d6e2e11d959ab122acc008fc0528511d43eba704b563618146",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA is Zevenbergen Capital Investments LLC's Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVdmSVhNaXdZZjBORFdab0tnOVZGcnhkb2JBM1JTNURzTV85US1iREFaTmdPLTM1MkNYS3lLNFpYQzJKRlpsTjZKR1JpbGs5MmpBR01tV0NJZkRvQ1NyRmNYLWFOV0pGZGlTRG5yczJwV2ctR3gxY2FrUmVBVW1OeUpZMVJEcnFtSTV0MERvYnFyc2hJb3hOaFZrRkhpY0h1eTNnVDZzNFdWeVg1QmJYY3M3UWQ5eUZaaFI3Z0lyRldWdmdYT1cxQ3dRNG92Rmp2S1lYRG8xYVA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-25T13:05:55Z",
-    "hash": "f45317e53b03fc4d2e46a3b9353cbb424d105a75b266fb35febdba8aff541e77",
+    "published_at_utc": "2025-12-25T14:04:22Z",
+    "hash": "4ed4b8a177b86c88462b03f833acd32daccdf9f87eec0822df5c710c57c7b582",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Jim Cramer Is 100% Bearish on Bitcoin: His Calls From 2021–2025 and What Bitcoin Did Next - CCN.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdjg3eTJIT290ZDNlbzVqdFpOMURGQS1zcXJyV1FjWXVJNkRPZkc2RTFoWHdaYmVCOTc3U2k4cWNOd3MyRkxBYVBKWTNtMTVybHBjR0pybE1wQk00YUlfUlNDLUlDREFVeVZ5blp0c1J3eGd6Wl9GV3JJS3lxY3lBUG83WEI2NW5SMG1NYlBDR25WRTBCTEo5emdiMG5qdWl4a2c?oc=5",
+    "title": "Bitcoin price analysis: BTC might have to spend time below $80,000 to build support - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjRpLVhSc1VLamJNZGROSzNrMkVNbjJ1ckxWTDF2akY1Sm9SRUwwSjJ1RWoxWHJLZzVFVnpmQmZjQnc5VUktQjlZN1did01uaG5DMm5nYmc1Vnl3ZVFzM1R6R2R4eWIta3E0V2tKZ01jekNtbzRweTNPX2NEY2NNaDJHejRnblJVWGJkZGN1aFd3Qk93bk5DQXVGWE82cGtPN1V0emN4VXpvZDJ5QnkzaUJ5WmRkNF9pUXNhNURRQ0c4UQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-25T13:04:11Z",
-    "hash": "73e95f98e200493db4c914cb08ec5c6be50e068cf13f67c615d6c85962290c8d",
+    "published_at_utc": "2025-12-25T14:02:22Z",
+    "hash": "bb095730eb3d1dbdd1a02e6aea834aebfd58e481f2b0bfcec472613d9aa4d2ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "As the FDA Approves a Wegovy Pill, Should You Buy, Sell, or Hold Novo Nordisk Stock? - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHI5NHFFcnUya0ZwTm9kN1dUVzNkcnVsTnRzTGVXTDRGUFBzTzRNeFdnMmtvWnViVGc0c2FDTTBQcjhmSXpQc0J3UWNVdGF6ODRGUVU0YXRYTGVsSXJoYXl2Y1pZLXJUcWMwN3QyTkNZT0QzN3I4M3E1QXR2UHRkUGVyRU5fWk9FcnJOendsWnNYVF9vcElmc0RFY21zYm5MZC1PdmlsLTJHS2pQeWJEVHNna1AyMnBRNkxyYnQ4Y3QtYUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T14:00:02Z",
+    "hash": "205c0f97dd9c65cf4cff3ecf12fe75b5bbda86a33a43027902c5e82269767a7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD’s European Ambitions Gain Momentum with Major German Contract - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnh1T2Z4QkpsNUp0RGxTMVNxZ3h6RUVzQ0JydE90SDc0aTViQy05a3ppblFDbE9nbkVOSFVCdVhEN0pCenBDSThVajJsNmRfbVZYMGs0WjF3Tk5OUE9xSE1KVlFsVGJKejV0ak03R2tzLXlwTTh2RjNRYmN1Rm40LVQyYkFwX2pJUnpSdURiakpjejVKVVFQekh0VzlranFfU1hrQ1JHV21xUXZYc1hQa0VSd1I0dFJiQ2ZEYUtWQ2gyQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T13:51:05Z",
+    "hash": "f356e828f7987405fc188e2bf8e8842332a53ba2e2808f1ddd74dbe1b50460c7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia: What Should Investors Make Of The Groq Deal (Rating Upgrade) (NASDAQ:NVDA) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNN1BVQ2N3SnRodXJ5RU5uSWhhMU9HUkt6aVJ2bURkal9zdkNTcmtCS0QzcHo0Q052Y240UjFCajdoY0ltUmpnU3NRUmc3RFRjNkthTWF5dWQyRmxEVVN6ajFoYl91a1U2QzQ2TVprSzZZaDZsaWFaVk5oaHRHUnRVeXBMMS02eGZPU25idGRldGRzb1cxRmFqRHg0M1N3cVdHUW9Cag?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-25T13:45:00Z",
+    "hash": "6092be4702f1d7de7708ffa99e434b61c0e7d48ded401634d12735aa21f4fda3",
     "source": "gnews"
   }
 ]
