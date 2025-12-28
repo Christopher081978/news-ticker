@@ -1,102 +1,72 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia’s $57B AI Revenue Fuels Groq Deal and China Market Return - WebProNews",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3doSkVMRTlZMGl3c3VKbi1tTTNmQ0J4VzlLNGpDWTBhSzVqeEhtVzJxb2MwQXhwQmJsQ1dyeENJeV9USGQtYkhVSXBXVDQ4ajZIcEczeC1WaFVIVXY5Vm9NRm5MQ1Q0eUxOYzFCOWcxUmQwOXNPcXB2RnNSYmxmYmMzMks3WTliampzV0UzZzIzR3dG?oc=5",
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Space and Defense Stocks: RTX, Lockheed, Boeing, Rocket Lab in Focus as Geopolitics and Year-End Trading Set Up Monday’s Session - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNejhsU29uRkxVcnplQTZfbERrY3htUGg5QlktTGNSMmVkNmh1eXVKYTNXWVpTckdFb1hMYkNDOGxoLVNZM2dFeE83LTJZZ05WSWs0X05sYlY1UUZkdkxjZEdGQkxGNTd0ZHR3Uzg4RUVsNmVfSTRvQnIwbnpCU0Y4TjAtMHVnUlJHQWR6QnEyc0tPcmd0NXFmQ3g4Vm9QQXR3VEZMWlJQZmMzM1p5Q0EwUzVxV0Q1OXlMdzhuOHBVUWtjSkxqVy1EOTlmbl8yc1VWVms5d0UxRTFzR24t?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-28T17:21:09Z",
-    "hash": "b707f029c18e49e62a549dc73a1bfccb755db58311b58036bebbdb3c0e5fb608",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "Security Breach at JD.com’s Paris Facility Draws Investor Scrutiny - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ01RZFM2ZHJhOFhYUDZOYk1SS0NhYW5SeEU2YlNMYjc5MDlPVkVjX1FLR2gyZHFLdVJKV21tLS1FekFPbzZ4SlRieGg0VXE0elpZdGRZSmo3YmtCM04zWVFTMXlqZU5QQUEzeE13V0dFaUk3Z1B3ZkplTFd6VGZBOE1HOGZ5LVpEaTZZTDhqR2w5bGd3Zm1HOS1BN1BtajJnNkNOLXltTVZvNWZ1ZWwtVTBRTmFESGNZVFNfdU1xRFREcGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T17:11:04Z",
-    "hash": "c164ad87b1adfcb247605672e9075eafe77845c3a3e363fe169c10531a9e4c9c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Holds Steady at $1.86 as Bitcoin Momentum Fades - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSy1RSVU4Qi1XRG1TbG53VFFOTmdKMG90ZktRbzlRQnF1aE5BUV9MMzQ5WHBSaG55X0JqM2FwSm9JWWxTeE5UVW9ZQWNuRkRoRExLLW1PWVVZeEo3OU9fZUVLWmhzMi1qR0dGU3g3TDJnY01DekFHbE13M2Z3RjdpODhHTHIxcmhSUW1ENGhxcl9xSm9TOFNWal80cWhCRTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T17:05:00Z",
-    "hash": "58ed038ac044bb9e11de740f25f47edac0309c12aa07b4f5612593bf2e2a40bf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "XRP Holds Steady at $1.86 as Bitcoin Momentum Fades - Cointribune",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSy1RSVU4Qi1XRG1TbG53VFFOTmdKMG90ZktRbzlRQnF1aE5BUV9MMzQ5WHBSaG55X0JqM2FwSm9JWWxTeE5UVW9ZQWNuRkRoRExLLW1PWVVZeEo3OU9fZUVLWmhzMi1qR0dGU3g3TDJnY01DekFHbE13M2Z3RjdpODhHTHIxcmhSUW1ENGhxcl9xSm9TOFNWal80cWhCRTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T17:05:00Z",
-    "hash": "58ed038ac044bb9e11de740f25f47edac0309c12aa07b4f5612593bf2e2a40bf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum whales add $850mln in 2 days as ETH stalls – Here’s why! - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQejdFR0c4UURkcWJ3ZmMtQmhEd3N4ZEkyWFpLdUwtaFBPaFlBVFd5dDFYTGdvZUFwZmNHLXB1UEh5WGxhMGItcENfUGhwTFlLUkttZVJDcUxzeDZwVmFpQUtlOEIwZUk4N2YtYzVlQ0RpRjZ1aE5yU2xMbU1kVnBuNko4OWRTcjRyQXE00gGQAUFVX3lxTE5ZRDNSLXJUSmhjQXBIU1ZPazAtZGxjejBhR1VDczJOMDRKLW4yeFRqMkIwb3pBVFBEWmxCUVplVU9mQ1BkRFEwWC16NllMWVU0dlFrZ21WMDQ2dm5PRllMSmhrSk1sODY2OEZ6OFRmenRmNUotVVczdTRNTHRiLUU4b0haOXJJX19pYmtidTRUMw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T17:01:41Z",
-    "hash": "cda5f78c4f567128c9abcf5d75c0f3d42cf46617e0373a687e5ea48f90188c0d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "What’s next for Nvidia stock in 2026 - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcTlYcDhOSnAzcUhoT05HZ0w0SVRoMEQzTk9vT0o4dmdjaldsLU5fQTk0dTJpMmd5OE5Dck9zQld4UDlsNVdJMTJvYkVZYkFJdjUtWjE2T2tsQlNfQ0NkaEgyQ190cngwLW00RWtiSmdBc1VlYkxyZ1ZWQzVob3Y2YUgzdFM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T16:50:27Z",
-    "hash": "d480c3f49cfd67e1dcd1eb1d1e5cd3ad79922672f22a7b0261f14e67f7b3cd74",
+    "published_at_utc": "2025-12-28T18:20:22Z",
+    "hash": "ed7fbf313227c23ee293abde82fd3d82a953ebce8e4a7b94f6e3714b494f99a9",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVDA",
-    "title": "NVIDIA Corporation (NVDA) Reorganizes Cloud Division - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamNpcGFyZWlULUNyMXRYWUFoa2hsNHhFNWRqZFV4Wk5vNXc3NnNjQ3ZvakxPTmhCaTZRZ3ZPRVhCczFBaGk3WHVrQ3lfWXptMi1vdzhDN0VlWkM2eHU0WjVtU1Y4M2w4TF9iNWxNd1RuLVFtX1VJdFRKNUtqUkozSEZneE80eC1k?oc=5",
+    "title": "Wall Street Remains Bullish on NVIDIA Corporation (NVDA) - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkFOaXZoZDl0Z0ViVmlSOWp2XzluUHZhQmVHdVdoWjh4d2l3MUFteHA1X2w0ZFJodFBxY2tpSFhCS3o3YWlDVkV5TnZjd2s3Wms1cmYyUk9zTTlUZHZPMXc4RTg5R2ZabWVnVVZCY3NNTnpISVJEZk9VdmpDNWhDaVVQdFZja1JEaWxF?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-28T16:50:22Z",
-    "hash": "f30fd69e77b285eaaca5b42db3f66c5acdd2af894279629f6d2ed02f497bcdbd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Where Will Solana Be in 5 Years? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ka0llZmVhUnJPOGdGNm4yVW5YUTJqdTdZUlFES0NYREpTeFJoejRzTlpiLXUwNl9PWWg5N1c0cU9VQ285NUVleFNKaDhtRXNqOFFZQ3lrWDRqN0ppTEtGSDVrRk1MelpWb1EzcDhFWTY4UU5IMDUzcUpyck96d0k?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T16:48:00Z",
-    "hash": "b0552ac17005d2798bf0bce2b5c40e4737d6ff02a17c1e431ba38b5d298257b0",
+    "published_at_utc": "2025-12-28T18:17:50Z",
+    "hash": "3ac929e49b35d8e3dcfc6bd34435bd0b9afd558a8998d6480622eb306428694b",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "NVIDIA Corporation (NVDA) Reorganizes Cloud Division - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZmJHTlFuaTlTbmwxM0JhNlIwTGxPVG05N3ZIbHdQMnp4ckdKUV9YNklhZnQ4WkpuYU5fZFdpTDZkY0lEV2ZpRmJqTE5xZzNMcTdCTWdnN1NvMjd2VUd6S1kwVFBtOFZJWDFHV05fdU9IZmVCRVdTTTFKUEpvOHRTaXkxcHN1eWo3UWp6WVJPYnp0ZnRT?oc=5",
+    "title": "Big Tech Stocks Today: Nvidia, Apple, Microsoft and the “Magnificent Seven” Face a Year-End Reality Check as Wall Street Nears S&P 500’s 7,000 Milestone - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPb3pmNUtHdV94aGplemxIVTh3X2lKVlRyR1dEbnNyRktZU0VKMFN3R3ZSRGFySU56aEZfMHVidWxtODNBR0M2bzROWVFyRFM4MXFJcEFGQTc5UzdvZ2pkNndYemhmSTlJc29tSFhsd1JWU0pOYU1fTVJLR3Y0MGdlZzhId19qeEhKVVN0TXVRZHNfaWtmUUdZQ2s4ZGZGblp2SXRzRjlSSmJONUphQ0tjQUlZUjBCSHVUdndaaVBmZzJMa1l3ekkxSjVZUWdEWm5lOEVuQUM0UDRYZDVQeTl4UHZEVEx4djZPSk8tYWtHN3otdHYtSEFLZQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-28T16:43:45Z",
-    "hash": "6c954d6067f6788b172237f3923c8b6bf6dfe59d66cf358c6aaec86b42a8ff90",
+    "published_at_utc": "2025-12-28T18:10:46Z",
+    "hash": "92bc7c26a0ba96b8a5e585f3cd35360a1ebb428bb4d6c4e2081897da6acb0483",
     "source": "gnews"
   },
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana ETFs’ 2025 Debut: Fast Start, Strong Demand, Measured Finish - news.bitcoin.com",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzRBRlc0YXRmeXZyVElUTG1MY19QYUgzaWlxdGFMS29lLWlsclFvX2twVXpMR0dPTVFBTUZPUE5BN1lmMXl2dGZhSVNRMUJ6UExweHFXb0dCbEk2MXVPaGFkbUdXQzJyWUJIeGpLU2dNal9HVFFsQnFJY2tLbjRGVWhvX0dXMmh4M1J3Tm82XzBfUTg?oc=5",
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "Wedbush Highlights D-Wave Quantum (QBTS) as a Commercial-Ready Standout in the Rapidly Growing Quantum Computing Sector - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdDQtYkp4Ni1BbGtKQzlzRDU4YVRFRkJCSmtqOC14N2JIbGEtVmF3Wm5KNEg1cUFuSklNZEl0TkhnMF84VkE1aC1fVV9qdEVkSFBvbEZTMjFxNzU1ek1DellFeXVJR3NJS2ZIa3hPbGtMVzdtbGllbDNTY1Qyd2ZCcU1kUEdVX1RzN2ZXMjVhc00xcGZ6c0VhWVl5SGxieDdyazdJNDNqOE0xdG9RVWQwb25YcnlRY05CMEUxRUdyQk5WQjRCSDR5TzluU1V4QjBPV2tUZnFydUQ1VGowZ0Y0bXhR?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-28T16:37:57Z",
-    "hash": "b8ec26985f1a74995fc6c0c32b0a920e242d89b8eb93f17ee4f64992b9e77590",
+    "published_at_utc": "2025-12-28T18:02:46Z",
+    "hash": "4aeccc95718006f0e6b38f890d28b1575f0e7e044c8a9fd05e46b30fd42eaf31",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Today Near $1.87: ETF Flow Watch, Year-End Liquidity, and Wall Street’s “Santa Claus Rally” Backdrop - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1lTanlNMlF3NEN0b3NwWGVfQ2FXVG10UXZQdGlSM3NTRVA2YXprUjEyTi1wMEtjV2JBQjZiOGVMcVpsempqc0NWUWtOQlVVbkpDTndXdkNUM1RhOVJ4WkdTOWR3UXJyUjhnckU4V2N2QjkyNVkxNGZvd3ZvdkZqVHNEazc2MVBsc2NxM3NvdVhlWVVoN29Jay1QMW0wbEVIcW1aQk1vNGREZzRhMTJUSWxvWmdDSVlCbkFJaDdvSHdNUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T17:45:38Z",
+    "hash": "9d47e79aed2314ce12646860ab9e1e06bc208e5edbb6bb81569fe7189e199d77",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Stock (NVDA) Opinions on $20 Billion Groq Deal - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3N3T2JYUU9nU21zZzdtamtQeWRBQ3p2anJ2RUV6dEtvZ2V1SkpKOFFkM2h4ckxVSnBUMFU4YnZjcDV0VFJ6dS1fRm5yUm1PS09PeGxSM2hQZmV6aE5YZW1PWlM4RklqR0NlTFdoUjh1UmF4NUladUdTWE9hMHdKX0swUlpaRFlSMGJSSzlSbTJJWUFBNHlj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T17:35:00Z",
+    "hash": "921819358268c2151e668ed6cccbb1afb1ef8b55f82bf6ac2f082b34d9d7a432",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: XRP to Soar as This Top Crypto Under $0.05 Eyes 5000% Rally - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUhScXJMQlVIYTlKZWlIMHJCY3VvY0hITEdsQ3M4ZGpHcGJSeVB4QlQwS0pzYWtDNXphLVFEcU1qWU9keVFGY3Y3X2I4SUQ1bmZ3bkF6OUViNGl5NXpadFRMZVJKX29WaWM0anFVcmxSbVNIQXNiQmZyRjZEYlFiQ0pkamxNUUNQTV9KRW8xeUlzQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T17:34:00Z",
+    "hash": "891dd35022de99ca61faa34f78f05e145d33df1156bb4e181255b9d00355681d",
     "source": "gnews"
   }
 ]
