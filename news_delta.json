@@ -1,52 +1,102 @@
 [
   {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Faces Market Volatility Amid Customer Decline - StocksToTrade",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RblNhN08zVDBSSm90Q3ZYSkRJcGZVNVBlY2luSHdHY2VWN2tSUEt0b0prT3pScHYweWdUdlhTMURJWUZXRWRON0ROalpnSzBJODFZaWYxNjluVDhaTjN4bml5LW1ZaFlqWWp6SnlDSTh1VnhCRFd2amFIRTM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T15:23:46Z",
+    "hash": "5f140d0f4b173f4f011833b9d2633fa7592203009757d6f0586706e7c6035a36",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "GlobalFeed",
+    "title": "Handel: Großaktionäre, Saturn-Zukunft, Strategie: Die Europa-Pläne von JD.com stoßen auf überraschende Hürden",
+    "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/handel-europa-plaene-von-jdcom-stossen-auf-ueberraschende-huerden/100179772.html",
+    "summary": "JD.com übernimmt die Kontrolle über Media Markt und Saturn. Der chinesische Konzern will einen europäischen Champion aufbauen. Doch gleich mehrere Probleme werfen Fragen auf.",
+    "published_at_utc": "2025-12-28T15:16:08Z",
+    "hash": "6eede833406b18de66c3cbd7f970634122d6f56556d868be21ae5d65d193dcb7",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Morgan Stanley Raises Robinhood (HOOD) Q4 EPS Estimates on Surging Year-End Transaction Volumes - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWENyT0U5a1J0V015WDJxRy1BX0RnUjVJSUJrODBTMm5jLXhrT0o1VFpLMHJYQ3JNejJKOWVUYkFxa0c0cXFzZ3kwdUFqNnRXNktVR2dFTzE5UHp5LTVDb0ZpWGtUemRWU01HUDNCaWdCNUg2Sl8zaGRRU3JBRVh0UFlXMV8zdmZiRTZXOFFRcGgyQUhVcHdzdUVBSnBUZ0FhZ1NNN01PTEx3bTRKZWxJZEQ5TTRBdGI5d0o5SmswOWZ0QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T15:11:18Z",
+    "hash": "5ed70bd81b975d51b07e962eaed48a204176322e7981550095f7642964418ee3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk: Oral Weight-Loss To The Rescue (NYSE:NVO) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYUU5Z0NqMDRGTW50WUlUWnlhd0tSZ0YzV2FadEpoTnFmVk9VQXl5UnZjMHJoaXgzTm5kQkF2N3poS0ZXeWE5XzcydEU2MlFlbVpFTk4wM2lLTDh4ZU52OEc5anlzODJWT0xuVjVsWFVmcU93SE1yYkFDLUY2WFdIVTVwUDdNX3d1c0RaLQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T15:00:00Z",
+    "hash": "c29b255478fecefd0e59a78e9fad1fa709099ccc46d33e62250fdaaeaba094e0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "5 XRP Catalysts Coming in Q1 2026: RLUSD Japan Launch, BlackRock ETF, and More - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUpyVGgxWmplMjZQNnBPb2lwdnNOZXlHZzZKckszWFBSUUV5QVZaUk9SLWlwaXN0bm9PdHJqMGtqUmFVaGVuU1VEWktWb2pSRlc1RmU1TjJrZVN4endPZWstNlZMTTczZGVsVkY1NlZpVlo3Q2U1NU1YeEtUcXpocFZ6ZE1DWDdvaE9UaTJJZl9ybDJnUnF5cFpUTmp1TnA4WGh0NW5yZ3RZbHpPVnlFWUw3RTdrWVJabzlN?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T14:53:07Z",
+    "hash": "26b68fc6a68b4b637a97929cff5d71d49fc04e7954b73073ff9d321fab4664f3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News 2026: Ethereum Network Activity Pumps to New Peak, DeepSnitch AI Closes in on $1M as Presale Demand Skyrockets Ahead of Rumoured 100X Launch - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVFRMZnNHdEpZckVWUjVMUDJfVE5pbkNBM3JWeDVmeHZ1TjN1cHdxWUpKNU9VNGRwWkVkRmhxbjcydHptVk9NaHI4Z0hvLXZjN244MVp4MlZQXzNlUGRhcmh0ZVhMTXd4QU94QkpWMmY3dld0MmpQNVdDaHR3M09MWlVqMV9NZ1h0UFFpb195SVMtVlhpNXM0RVdvVzdienR5SVIwRm1NeVJBSkdEWTFnZDZqcXhkQmlDczZ1U3c0N2p0WFFpS2xmTzMxMDh2R2M1ZTBLSnBvMWJaTlUwYVNGRUlDOXhiV0NDeFp4eWlHX25EOXgwN0RZczY4NmNRQlEy?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T14:50:22Z",
+    "hash": "1c2c23fbee683eda24730d5a6dbab5c8fdff98758e20d15d12762ed989b674ef",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia Stock (NVDA) News Today: Groq AI Inference Deal, Wall Street Targets Up to $352, and What to Watch Before Monday’s Open - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWVZDZnpuU2ZERWZVQ3NPOEJ4ZzNtY3ZEZUE4R0hSTmlZX3ZMOVoxVm9wVHlnNE1rODVYQWlnWnRuRmduODJ3eHFxNUNDUkJGdXFJZmlRY1J1dmhZWUUyeEFJYTBjSjZUVDI0YUNpamNfdDQydy1BMEVkS3RiYXduWm4zT0I2emlnSHBxNjZZYlo3QkNVU2F4R0RMeks1Mjc1b2FOczJfQVgtTTRVUWZBZE5ZNHY3WUFKQnpNN3FUWDdlNTJGWEZlSUx6R0tKQXYzYWQ4eXFaQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T14:49:46Z",
+    "hash": "2ac6121aa1e006bfe8fb10902174230f01f9de41a73b0c437d074d4d5f09fdc8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Co-Founder Predicts $1T Stablecoin Supply by 2026 - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR0RSUkI4Wko4WVFDS0xJWExiRHJndndNMDNVZ2x4cFlNYkJlc1VZNTk4Mm5lRXk2Nk9ycVptcDhNYlN0Z0dobkI4ejQwZmdrdVZLMF81U2pkNzJWMndvMHotVEpMbEtRX1RBLU9GYklReV9pSEctVlU1dGh6TWE2MVJyVElDSVpFM0E4dTZHWURTdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T14:45:46Z",
+    "hash": "9ba60a3fd1d427ea689f2f208a0f3c18b79d385dd82718f2135f43a46ebb32e2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum’s two markets: whales accumulate $350M as retail confidence crumbles - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZExsOEtRMVlxMFV4ZW5zbWcySlRpVDNuR01TOTE1eGc0RElnSW9BVEcwMkJIQ2c2Z2dHaUM3WUh1UWFZeWtGT3pIeDlON1VvNkNCVWg4U2FEeUJhbXdYX3dEWGNXc3ZPUmgxbU5FVTZwVkluX09ZRmZCMFZmQ2g4R29R?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T14:40:00Z",
+    "hash": "58919c6313510def5a11fd956b9d8f1fd999196d53ba34415b3725e99e9fd6f7",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia insists it isn’t Enron, but its AI deals are testing investor faith - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFVBVjRYdHlzWTFMTTl2ejFZcmlTZ2xHdnpWM2pWMmVBX3FuWjBWTEVrRzMtZ3hXSVF1V2s5a1h2aHFwMnBTWDhlcFlXZEtRTXlWRlR3VGVtSHNRWkhlSU1JQ0hCQXlCNHQ2NzdyTEFMRWFBQnlEaDB1ckNHR1R4ZVRrS2EyZzd1YlRBODJCa24tVENvVFBvRWN3V1hOVHZXR0NBYkhVaUxITklSOWlLQUp0ODY4UnhhYW41cUtQbVA?oc=5",
+    "title": "Nvidia Stock Had a Volatile 2025: What’s the 2026 Forecast? - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOM09CR0JLM3loaUV0cFVlTkZBcDlMXzhBWkJJRzNKSGNFX1l6dE5zTzZYbDg1TmRPa2UzTHBxaTdYcnhpZFVVcm1vZkI1YzJpZWI1a0Z1TDJYc2hFWDF5ZktqMm1DSmFBWWduRDU4aFFQeGllYnktWDNQNG9lcFY2bGhwYS1tT2cwWmFJMHo2OGFCN1ZqYlZhQldjTjFQWXo2bDdV?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-28T14:10:00Z",
-    "hash": "8a2bde1f616d0e5e0bfb0f6565cec187212fa8185f0289e516bbd0a81005b863",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor Manufacturing Company Stock (TSM) Opinions on AI-Driven Revenue Growth - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZEcySTVKWXJTQU8wNFZpZDF1SDNmZEtHZGl0azZMY3Y1NFJPbWlrWXoyQnhza3ZKSWkxc3J0VjJIaEJZU2lzZXQ3Q3pTTVlBMTBMc2tiQzZnR1J5MWVqS0sxc0tncmdBb1ZmT3g3Y0hJUk9fUkFNMmJJM1NhbUtoTGNjbnRHSGwwLWM0QVFJYUE3VDliUFVnWnpKeWRveHZkVjgzQ05xbFh0dHFRSjAzOGhHa3hDTnVoaG5hdnYtNWtmQncyLUZN?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T14:05:00Z",
-    "hash": "8b4192e28712242709df23bd182075a32bc9574e74b72bd3172c5ab4a755a3d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "The Year in Crypto ETFs 2025: Bitcoin, Ethereum Thrive as XRP and More Join the Party - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmdnTk4xZkR3VXctdThQM29OX0RDbmJ1VUNyekZMSzB5YjNTMmc2c2E1ajh3OERlQk5pei12M2Y2SlVjdExZeFZpNzVBbjFUVWNTQ1RxaEdNMWhVWno0S0k2RjZyOWxRd0U3Z1lKUGM2WmJvMUR0SzBZcXhDVkxvLUlQM1dJMjRRRnRrUUFsa9IBlwFBVV95cUxOemlwN21SelNNcUNWcXV4eGt0NDNIX1o0Tjl6dGprWlIxd3A0VHNnTVhWMGw3Mm1pRmF6TUJhZ2hLUXJEbkZVN0ZmSXFJQU1vamxyX25zMVhxQjdLN3VvWHNHMWhXbWpzUU5DeVh2VlRyX0ZmNWM5MGVzWEF1YkR0aDRTaTV4bWhSZ01JNVgtNXUtR25yMzQ0?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T14:01:03Z",
-    "hash": "90bd0386a11be6ca5b0d7f2f1de5d71780a2f824287f82b85d276ad8808308f0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Latest Bitcoin (BTC) News: During the Christmas Season, a Large Number of Us Investors Flocked to Cryptoeasily - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0dBTzgwLV9Ga21KcFJfX3NTTDBDYXJhQWFIb1JSZ24wQW5ldlpBbDJ5VHF5VzRCR0ktd1lWaUppWkRUM0FnaEVRbmt5a19UWFM0X1luSjBKeFozLS1YZnE0Tk5jZTgyZkdyUUI0VWVMZXNQSnN5QnFKZEFsd2MzbWthMlJITnhDNC1PbVRCOGV2STR6UHBkZEV2TEVXdVpuQkdnVHdwc0lEd09TZzdjcDZHSmk1cmpvRkJnS1BvU3REd2ktb0E1di1MLXF4TG9DN0MtMQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T14:00:42Z",
-    "hash": "e061660a036737b57329b865910de1894467ba294f3056eb07e56f861f8069de",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple's (XRP) ETF Inflow Surpasses $1B, but Why Investors Are More Impressed by GeeFi (GEE) With $1.6M Raised - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDFFZGNqZTVOY1ZEVXgxaTNFczZWTGxnVG5lX3M0Z1doSU9pazdxWHJWdG1mTU9jbUFpaFFSVWZpV2ZPdEhJWW5nZnpUR1dPbTZvV1BsWnVKNXFsdGU3VGdzNmg2aDBsdFNIODNFTXhjdU1OdWNUUV9JelB0U2hYTVB5Zi1fQ2o4OGhDLTN6ZWFtZ1p6?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T13:37:42Z",
-    "hash": "cdc01007b87e1d3ce8d572420186eb2ec563ec01532f11ce1fce431262e3e99d",
+    "published_at_utc": "2025-12-28T14:30:02Z",
+    "hash": "c690446df5a4a3dfa18e9e78b62248e2f9b699d5682a6eda3dbbafae1a214ed1",
     "source": "gnews"
   }
 ]
