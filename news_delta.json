@@ -1,62 +1,132 @@
 [
   {
-    "asset": "Rheinmetall",
-    "query": "GlobalFeed",
-    "title": "Rüstung: Großbritannien und Deutschland unterzeichnen Vertrag für mobile Artilleriesysteme",
-    "url": "https://www.handelsblatt.com/politik/international/ruestung-grossbritannien-und-deutschland-unterzeichnen-vertrag/100187174.html",
-    "summary": "Hersteller der Systeme sind der deutsch-französische Rüstungskonzern KNDS und die deutsche Rheinmetall. Der Auftrag beläuft sich auf 61 Millionen Euro.",
-    "published_at_utc": "2025-12-28T10:22:08Z",
-    "hash": "2ad1258044e136b940a9a502404b9516b0dbab8f6cfe760ea8be37ecb771dfb3",
-    "source": "rss:handelsblatt.com"
-  },
-  {
     "asset": "Rocket Lab",
     "query": "Rocket Lab",
-    "title": "E. Ohman J or Asset Management AB Makes New $834,000 Investment in Rocket Lab Corporation $RKLB - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRDdBeGdnRHNERndWckVQMmVxQmpEU1czcmVqc3BCekxPdFgxc043QnA4TEdBLXZOTE1JYlA4WHd0WDRfV3lLUERJT2xlZFVwRlpDM1IyMFVkajZGVFJCY3RlbWlRYl9UQ2g2eXEwV19UZ3FHTnAtNXFjLVdoVEdQS1hNWmNUZ2lTWldoQmFvbzZtMWNncFZHdXAzN1htdV90cjhBNWVUeFJtd0VzVDl3R2drQmpzS2QyaGpHR3k3NkoyQk9TSUtBdHJlZVRPc0paV2VkbjU0dkgxRHM5bWlYelFHZmxZVEk?oc=5",
+    "title": "Harbor Capital Advisors Inc. Invests $862,000 in Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNklUaWRlQ25ROEdvbjBvN3hkMVJTLUg5Zm9qQi1ta3U0UFl5RDdPbEdjNW8xTkltekFSSHhBc25yZWVDSFAybkNnTExwb0JCeWVaZzJrOGdGTDNrTnJqUGVUZlRFVER2N0hpTzlCV1B2Skc5eGc3djJCVzlrNWhEdUNPQzdTSERzakEzV3NyLUYyRkYxeDI5UDhHRUVDb1Vicmw0czVtRGF3MWJuWTk4Y0ZMRVc4bUNZeHVwMktyeEs1a1BQWGVaQTBDLXZXdDA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-28T10:08:29Z",
-    "hash": "a391bab76145e351d3cb038e495be1663f92936acdf149c1d4bbdf6f9146e553",
+    "published_at_utc": "2025-12-28T11:08:38Z",
+    "hash": "7a1a776b55f670f536b073f44c06a241606a55a76a388fee1e69447dbeeab145",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple Partners With Japan’s Major Banks To Boost XRP Ledger Adoption - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1pSM08yRVp3bWxXcmVGN21IWlZhQ0FlWFhiRWh3Z0tKc0pWQW80OFlYallmVWJIT2JERFFnMGtadHZkbGVpWjJtcVdTbllVS2xaUTg1WElPRUlvM3QybXIxZDh0OWVWX2RFUzRIeDUwRDhTQ00xLVZLa2pMQ0p0NWROUTA4NmF5ODhQeFliNm56amFaeXhMVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T11:03:04Z",
+    "hash": "2979ce9f68c22715bc5431e708ee90b23bf70a81597d33163dbc7fcdf30c4b53",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "278K more Ethereum validators line up to join – Early FOMO building? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXlXTDdxNWNzbllpVVdLUUNDS3kzZEJ2bU94VUxIemxucFhTRzVfWm95M1pXeWMybEhNUFhJaW5sVExRa1lKWmJXZGpKQUR3UXRUU1l4SnA0QzFUM0dXbGR0eEl5ekdFMUVIQzlTM3JObkpoT0lmYlFSYWVDanJ4YnZiUVQ1S0E0ejJReDhhbU9nUdIBlwFBVV95cUxQUG8tRFlDY003eklsd0szM1hmZ0FxaWZEczZTQXZNZHFERG9oeU1ZS3JUV3lOajRJWTA2UEdPZzVhSVFIYVE4Y0VHbVp4U2hCRGZMMlBaVThTWEw5MzBTZ1pPTm13NzRpb09vbW5HUFhTaExsd3YwZ3lTTmpVaF9pYXREN1dTOHFMenN5N3dteG51MzY0Z3hR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T11:01:41Z",
+    "hash": "db6957114e1e652726420c9f1e11dc330143805c026609d3d9d438eae682a914",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Lake Hills Wealth Management LLC Acquires 3,983 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORnVLcnFpamIwTTZ5d0x4cFhrYzVaSGQyQVo0WU1pR2ZOVldtVzRjVDdiaTdjVVBzMTRCMTlEMExMOENFekpDRmloa0ljeWpqZ2NuWXlXQXRBS1JBLWdWN1VXeFpnbjc4VENTeTRHRjdzNjYwU21iSUo1X1I5WTdCdTlSelliZlBfVWxwZy1MdXBtSjMxa0tGb2I4VzYtdTRHZklxTHpQZjF2ZWgyOXZma3hidFVyUnVZU1FqbUlHUDFkYUVqeWhhalU3SDAtcXcwYldReEc4LXA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:46:33Z",
+    "hash": "a6e9dccbbb15d7e123546e98ff21725cdc3e93219ca96b1f2e5bccdf2bd3dcbd",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Profit Investment Management LLC Sells 6,073 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTRuQ0J5eE84RnRCMFNIVkMzWVdFMjR2RnRablZOdzRRNUJkZDdKTC1qeEZ1OGN0eGUzcENjTVVKMGVHUjVDRXZ2MXZ3dXpyYTltUkNxa2pHMlFNdXU0d185d3VGY2ZTdWo5N2FXc2ZuME9XemQ5UE1NSTdVZUY3a0h6TklZWVdnYWVuYU56R010R3N5a2YtalpBS1N6eVo4bmJpM1dEZVpvR2xyOHQ0SXlmVEVld3I1aTVwLXlkWVAySzlYdEV3QzQ2R05fWGNIREdiOQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:46:31Z",
+    "hash": "bfb3b16a64298538fc19af7b9ab449b98081b81f3375f9bc75a07fafae47c6be",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Holdings Raised by TTP Investments Inc. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMjZ2ZlJERUI0VVo2VlY5ZkdfRWdLdW1SZGtyUmVqeVhEVzZKZXVmTnNLcHZNdDBnVkowUEs0WWw0QzZNSmFYeXFzNWloOTBhLTY3eEg4OHBkOXB3LU8xeS1zSUFZZHZlY1N6c0ZlMkRBWFJEdVIxMzBWV2pnM2dzTkstSXpXaHJscm5XRlNiVlFpOG1EaFZDc3hCUWRsYUstcnkxR1RpVDBkaXFMdGxIcDByYVJ1T0VodDNtSldiYzk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:46:31Z",
+    "hash": "c21a9c1068aaa68703890e1045660d01cfffc21bef1d3ea527fbfc369e4e1cd7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Svenska Handelsbanken AB publ Invests $37.32 Million in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaW5IdFNrcXVJMkJlbXBaaXQ0TlEydW5ZS2ZrdUlHX3h6XzFMWlRyWGJrbXZiRFBMZldCZE45dzZBelBmbEFKNXFMZ3RkZzNsNm5MOXh2ekF3aWg4VzBSejlKSWtqbXc3NG1WSWNvNEdfT3plQXB4ZTcweXZmZjg5ZXZiN0ZyQVpIU0YxZzdEZy1nSkFkMjlXVl95YzNneDNTRUhOYUVuYjhJYUZ3eGZWSWFHYUtBWkFpUC1VUnpZdGMxR1ZLWFFXYThPbk51bkhfdkt0Vg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:46:31Z",
+    "hash": "b5da5d1ec16ccdc74b9589f43f57d0ca0692e0b3821b2bbc8c31577fbec58b30",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Holdings Trimmed by Legacy Wealth Asset Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc2tqcmRBdlNLWnNkN1c3MnNNVDFXXzEwZ0F0TndyTFFyRndwLWhWZGh5el9zaDlEMUFqVkV6R2dHUm93RkhhVXZBa2ZfZTlkdFJ2bmc3b0NRMUhRSFNONmN3RzhGX1pSdWR0bXJZNS1WZy1vYWItRmdZQWotZVdwSllIXzJVdTFTZ1RQTk80Nm9SbmJoOHY0VmlrcFJ4a21XeXB1UXZRNmJOVmE3ZWdJb1dYZ0Ztc1hGVDB2dmNTR2RRMm1fLThyaTZ1YUstTWFud2l3UEN3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:46:30Z",
+    "hash": "215fa24810f1f81e8840129662afd2f4b56bcd67e1d0fae01b3581ed559fc47a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Salvus Wealth Management LLC Acquires 3,835 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOG5aZG9SNlZZMTR1V2JVakVXeUNoSGlIMUJUNjFDbVAzMkt1dElTMmsxaW5DMThXZGplam9kZlVCZXE5SXl3a29jZjRiVTJHWUtnajNqQ2NvSF9mRHlpeUZHdDV4Z0UtU1BMOXdfcUo0b3Z0T09id2tjQmRUNDgwV0cxSngwUVU3WXhmSkMtQjJsZWpaMnpLQUFNTE1KQndIUXoyak5XY0xRZmZjYVh4c1hQcVVrU3RLOFNvLThkNXFSU1p5dzFKVXo5MlgwbUFaNS04?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:46:30Z",
+    "hash": "ffd87c2a900b21dcfb7468e99841a808e0f03510850054f052a25c9004877681",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia's $20 billion Groq deal sure looks like an acquisition as 90 percent of staff moves over - the-decoder.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUl0S2dfVlNqMkMxZmc2cUV1dl9OMmpYb3lCY0JBM2NWNEEtaVBSSGRma2diLU40ekREeXhpay1BTTluVXZjeVZpcnpnQ1hzSDBWZXVZMXZUa1pGOU9CLXB1bndlajhZdFNPSTRjSjU3QkdqX1dZZkZOSnBCdmV5RmFpb0JMWkpodUlPT0tiOHB2OHVpaFludFlMbUxPREJtNVpBZkp5WFkwd1c0T0QyOEpxRm8zQ0xrYVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:42:42Z",
+    "hash": "e1f9c4c140de4a662c53c1d8ff97fdbbff486e4a13610321b298e3e62a1b8a5d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Canton (CC) Rockets Again by 17%, Bitcoin (BTC) Stalls Below $88K: Weekend Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWVGTXF2WmZ5a2RSNGhZVXJ0TGZqRVNXZEJZQ0JjU3hnNFlZelhIejdtTTY3Z05uZGRuV0pZQzgxYllNU2stU3VYYXd3MHVjVnMwdGN4Mk5laVV3LWtNVklRQXVueTRFWlRaRDhOMXdlbk93bWpqbnhRQzBhcDRKQzFYQl8wWlBuQmhLSzNFR094ZUhUNkJBZjR2QUVwUWM?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:39:00Z",
+    "hash": "bf765c5843107b0900f07ca12159aa1b8f3d406251b6d6b66cdf2e785dbc9fe7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Multi Factor Analysis Ranks Hindustan Unilever Limited as Strong Buy - Ex-Dividend Date Alerts & Outstanding Investment Returns - bollywoodhelpline.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2daZTc4QS0yYW14RjVZRFRZakJkVzE1QmtEaWI3RWtHS3dZTmZmMG5JRG1wWkpPNWhHWHMwMkdLdVNmS0lfTUcwVkpBNGhieGJqajZNOWEtejhFV3hUV2FPekhENmZwVTVydWdUUUxNWDZxSHJOaFd0eUUxWno5STNyem85X09fNm1rZlNXU3diMFl5dlJLT2RqVjRTZ0N0Qm81T010QUwyNFJhaEc2UmlFaGxLX0tpZnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-28T10:37:19Z",
+    "hash": "9063e1fbffa5845a49d153830bfd788ac71e079a1243969b5645bde15a4531c3",
     "source": "gnews"
   },
   {
     "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Deprince Race & Zollo Inc. Sells 14,605 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPd2xMQUpKUlFfV01BRmM4UnJJVVphS3dKM2tGeVVaaGxOdFhOOVhKbXd6VThvaHhMV043SDFmREZ5dmRxOVViTmItVTRZcHRjTFdHbm1lUmQ4VWtaVHhQVC1XQ0dEMnpSYURZUHJyWmgzeXVfcmtNYldkdHIyeVc4SUFpVXpRWUZXdzd6T3ZDb29PS2tiNWZBMUJ2MUdncThZMkh4NEs4bWJkT2lXNTVRTnRNOVU2SDNPOUN1Q2pSU0x0bE4yVThZbGFmbzR5NU5DNFZ6UVdWT2R4dlZTR3lnZE1URFBhODdrV2lraXlR?oc=5",
+    "query": "TSM",
+    "title": "Direxion Daily TSM Bull 2X Shares (NASDAQ:TSMX) Short Interest Down 38.3% in December - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNm9RZzlFMmJXMldscTJCOXExZHZyYldVSGlyQWlIZVJGMS1BNXg2dmswWW9MV3RQWDU4ZHNhZWRVOTZYYTJZeEJPd2RWdjBwNkZQNjBKMzhxX1UwUXlnN1BTVkdEZkJSdkFfN1E4ZnE4Y1Rsd0NzUEdfaVFNeUtIQ2lHU3hZSVF5U1BLaTZZMnNJZTlPaWpFM1BXdDFOdEhsclpoZ05DWi1HWGV4WEtnMUlqSldNdnFoZ1F2VG9CRjREalpwbjJWTWRSU1hEbnM?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-28T10:06:28Z",
-    "hash": "c5c4653cb3b271b648012f6dc9e609378dd45b6cee40490ccfec13e25161c56e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase sees three main forces set to shape crypto in 2026 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rR3N0VmtrWEFXZVU2NDgtdk5Vbzh2MXR6a2JaYlRsbFcyQ0JCQ2t1NDZPRXhNVEJQYUxHZkUxRDJON0hlZ0FKeVA2MFFPc0duUmwxS2tvNDV2NG55X1R1LXVaRWFyZWN0YjQ3UE43X29LZTkySk5Wcg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T10:05:00Z",
-    "hash": "10658d467be932b91fdb32017c79c232b5ac2561492fe8804854790a68a47e98",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum (QBTS) stock: Weekend pause after an 8% slide, Wall Street targets, and the next catalysts investors are watching - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMUg3U0E5N29XQUNsbEI1a3FtRm84dG56SkxmWlFfdGVnM1FwU0FLbFdlY3ZsemtyZkJEWS1qNkdpYml4R3gtUnUzcF84VEJpT2U0ZUxlX1liblJwQjZ1VV96YVZHakVRNWV4NWZGOUtKVTk3dHhwTTRJQTIzb1ZVWml6b0dqS3dIeU9jeFdaRFpURWViNURONURCQk1yYmkzaUFLQzdkN0otWDdZbWU0dnh1ZzEzbTdzdkFPbHV3b2taazVvU3hsaEtNQlVIb1B0WHVsUGpkNHlZSDA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T09:54:43Z",
-    "hash": "e013970d2a8919b4af35359152c6a5dddfdc48c5a6274451710a61b779d0c531",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab Stock (RKLB) Weekend Update: Shares Cool After a Record Run as Analysts Lift Targets on $816M Space Force Contract - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0E2NGZkVUV4cmQ2UDMwQUNjUlF2bzVzOXN0Y2dXbHg1cTBJbVZPQTRKdjZVTi14aDBLMHNKamZSakdxbGhpWkVxdldCMGZNcFZycVRReXJFUGhlbUlRNmJ4RFRtZEc1UHlLSWVleS1sS0lHNWNLRGFsR3B2aVdFR19aUHNOT3RaU19uZUpHdHE1MGFXNFgteXpxREloVmJJcnhfcnVVVE03VWVkMDBIRDUyZG94cFpJTXBGMnVaWW5sWnVvUUpaLWFXbU1RWlVqQ25vVTZHTnMtQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-28T09:44:43Z",
-    "hash": "659c7dcf1dd622d1e4bfee663c26628ff801c18facfdf2271aa195739e19d8e0",
+    "published_at_utc": "2025-12-28T10:34:30Z",
+    "hash": "3c95fc7a52fdea998b450985143f41a4e2c928c3ad19e2d93331bafcd42439d2",
     "source": "gnews"
   }
 ]
