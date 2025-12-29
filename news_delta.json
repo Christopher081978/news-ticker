@@ -1,62 +1,192 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Whales Add $1.2 Billion in Ethereum (ETH) as Price Tests a Bearish Formation - beincrypto.com",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqc1Q2REs4UzY1RkgxdVVJMHhlUko5ZkJpeXZ3UUQzdEFKQzRka0gycTNwR1lhU01rVTV2VmRzQ1F0NWxBX1dfaU9XVm1yZGxEcnhSR19YYWNMVEhlMmtSNVRSOTlFNnBycDBv?oc=5",
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum (NYSE:QBTS) Trading Up 3.8% - Here's What Happened - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObTJ1Q2NTNjJ3ZWlhTlg2UVFqOGtMellTU19CbVhuNkxMVG1MMVM3ZVhrdm56SE82OE9ZRGVPaUVCNnJZdTFUcU9FV3daRXRzV3dDN1pwQ0tPeDRmTkU0eXRNUU8tWF90dUZIM2gwMENGaVBFdTNES0pQV19MVlZRX1J5VHVnMzIxbmVnbUhnRmMyVjBubWZaWG8xby05TkRnQkdNMFNuYlZUeVpJa1FuZA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-29T19:00:00Z",
-    "hash": "3756401628a9b095570ca12f1cb33674e1f42b475910b612cda9b6f428a7d3fa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Macro Trends and Their Impact on Siemens Limited (500550) - Market Correction Analysis & We Spotted the Next Tesla – See Inside - bollywoodhelpline.com",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUlmWUxMeXRsdEpYcE1HTnJrV1psSnNhTGZRTGZNaW9tNlRsNFVrS05HT2R5a2V2R2VYal80OXNIcXpSY3gxZjIxU3F3Uk0yMVhJa1BqamlybUpHMlRiVFNOXzR6Y2FzWXNjdVY2YVpHa0x3R0hKX1FxQ3ZjMWgzVzJsRVNaMVhxaE02am1PY0ZOdDRjRkZSSXZhTkNnRno3dGVwVkRrOXVhZUk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T18:54:59Z",
-    "hash": "7aa76a70deba5bb0791f3cf8527737b6f52b92a0700dafc9decffb4167a49025",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "This Stock Quietly Outperformed Nvidia In 2025, and I Think It Will Keep Beating It - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWN1d1djWUpYdEhKOXF3YzNaLXRNbFlSV1Q0eUc0ZDlnczY3NFZKbnVGbk1tY2E3TjhJQ3NLaUE5QXpnS2g1c1FZbzFLR1BlckxkZnBpTy16SjRFNUtjUlAwVE1JX1k0d3d1RnlfeDJMcE9iZ0Mxd2Npc1hVUDc3aWdDckRVMjBod1MwUUxIY2ZMNUhLWWlSZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T18:51:00Z",
-    "hash": "3d009371bd062bb2b3d37e4a7cab15a04062e6a3d7904121eb15f8b1e67d453c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation (NVDA) Stock: Takes $5 Billion Stake in Intel After FTC Clearance - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTlhUkI0V2lUMml5RHdfLXRUTDhNR2VmbDg4anJsU1IwNFZjTzVqcVdwX2pYZVFUQ1RmdzR1UC1pemxBOWNaeGs0bXBTZXQxcnVJV1JmOGl1MmpZRDZyNkdfdFZXem5jX2VieTI0dk5DdGRXcjRkVUltZXRMQklKQWw3X2JFNXNCTjRzVUpEWkZlS3UzYU4zbzFqcXE1dUZFNXpmSXFfYXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T18:50:49Z",
-    "hash": "3506215f8850747d627d651a8c5efd3552620ddd7e85d09dbce9a926f3001618",
+    "published_at_utc": "2025-12-29T20:24:38Z",
+    "hash": "4fb9b331b1dd94e9c2c1257f4ef4e271f3f5a29128c03fcfb33729a7b33f08a8",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP funds up despite crypto ETPs posting $446 million in weekly outflows: CoinShares - The Block",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdlBtNE9XT2JuX0NxM1p6a2NTLVYxYVpHeFpMLWZ2UUhURzNtZHhQVGlHUXd0cFJKSEVPbmZfTVFPbHJTX1BRMXRBNVl3dnN4RVkzaWZJdHY4WFNGSVF1dHpUc2ZfZDE0M21sV1RMZXZpeXJSS1NrT09sQjNmcjFOMGxzWmJRMlllTWhTNkR1NFpmRmNjRXpLYUFzYTdaSWRaY0VzbHRxckowS2ZYWlQ4UVFxc2NfUdIBjAFBVV95cUxOZm41eEc0NmVoZ1M5ZV9RYVRjQTZfYVMwWGw1MlRPRi05ZlJrWTh6dUQyM01LRmNrUTJJYUJLNWUxMU1fNmhXUDdiY2NOQkF5Y2hxNm1pdmxPRW5RaWhvaUpGN3g2MWhYVGRsRDJQMEJ5MFkwVDVuaWFYRGZNQ3dNaENaLXdYcGs3d1RZbA?oc=5",
+    "title": "XRP’s Price History Reveals Explosive Breakouts After Long Bases—Is the Next Cycle Forming? - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdXU5ZXV3S2k1Y3Fud3NWSlNJSHhhZHhKWkVjMWdyN25rQk9DQ2JtVENvdWJvRVZGLXd5Z0hrM2VSTFVkZ1B5RS0wSF9RRDdPNFZJT2ZGVlU0SVVQNzd6blJRM0tNVXdYajJDTTY4MEl3X09LMlU4cG4xcHFrZV9nZDQ4UF9fdw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-29T18:42:22Z",
-    "hash": "9d16bf6b96749caaba6416be6e5bd1d7ea32c1964834afadb6b9e4ea019d726e",
+    "published_at_utc": "2025-12-29T20:24:01Z",
+    "hash": "5291629824414ee14c14a866defad3bc31b06b9c754e27108d06f88ac0412943",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab Secures Landmark Defense Contract, Fueling Strategic Shift - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGp6OHRJYlRYOW5peTdwNzhiX3c5ak13LTYwd2xuMGtDRHljMnBPNmlicGp5VFpvUXJMMmc1NGxKbVpQeUIyLVUxVGJOSTVvbmxKSUFhQ3U1WWxEM1pPOXg1NnJYYXp5d0JxdWp1bGtHUVNyYVFTdGZFeWM4U2NFZnVOMDYxRUlYRWtuN09sWDFJUjA4UXVudnAyTl9hNUx4aUFUMEh0eW9wUEpCanBrWHllVG45dVNWLXpud0pvZUpOZndOYXc?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP treads water near $1.85 as crypto fund outflows persist ahead of Fed minutes - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMkVCenh1dWh0S3d5RC0xOWZQRGxQWDBkY2Y4QTQ4TDRrRGpWTWNrUmI1WUdfRGptcVNjWWNiQTRIZlVsVXpmOTdidzNNaDBESTZBNEVwSnpBZnJJUEJiZ3RXM2RYeWVGOFhoSndaQzVzYUc2VF85aWZnMEhsYWs0b2tZQ2VIemlOMWNJVmFpeks3UWluQmtRNl90UHRCZFc4THc?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-29T18:42:05Z",
-    "hash": "d7597efa582c1f24a6ac6add814b66d0937a6af0cf2b46ab6517b80e9f4f81fa",
+    "published_at_utc": "2025-12-29T20:13:01Z",
+    "hash": "f2bd4d0d2e7ee152924f7b2e50599e238e9e32d6bb361fdb8fc74ac4ed277b0e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana price prediction | Bullish & bearish scenarios - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LSGFFVU9vWTU0M3BycWdhUDdvYzdpYUFMNWh6aTdPRWlKVUVwUVJpLXRTR1A2REdQMVI3UkVTZzZ4aUFwbUlnckdHU3VycThIT1Vjby0tQmdDTjZCa3ZfXzhRVG9aOGxiOFUxdDYzRzM4ZTdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T20:06:56Z",
+    "hash": "5c2c2fd996b60045bae225623e4b06571bca2b507a980967f16051c3d6188d24",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Key facts: Morgan Stanley cites Nvidia for 2026; $10B revenue rise reported - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR3pFSUtlcEstZHZyeWVvU2Y3UmNyYXFIUVpxT1o5MU1VZ19GZW56ZnZUSy1BajRIUzFnZ0djSFpMSE5BMi1kZHM4eGNONktXVDRYNUw0UlR5Y0NhM0t1UnNqSWw4bUc4bWpHc0NJdWM3NGM0NWprbmRjUVB4TWhGeWoxM2NqQ2VKR2NBOXJZTWtLbzFJQ1BoWDYwcUx6RlVYeGJkM28tNGFuWjFSdUVydFR3VEpNZ3JiR3ZwUnh4VVo3blBMRmlwd3hfa2hpZlU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T20:03:06Z",
+    "hash": "9be9b77dfc98cab28194636acb7b2cf12d307e84eb432c471cf093d5e69f1e19",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Key facts: Tesla stock drops amid delivery contraction; BYD to surpass sales - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQajNXNDJTMFlXRVlJYmVKY1Q5R2diN1ZEd2Q2WjdQN0NYakh4b2dscmlCYmNZbkl2MEhHQmJqOFdUUHd5bXlTN0tBY3MtaGVOdHhFamJuZlZmSDJwNTlNWE5sZWdidW1FLUJqMENqbnZRQ1FTSkQyWHBmVjFYbVo1NUhfc2pJRk5pMjFuMi1kUG1HdU1jZ2JDVzZxQVFsN1RRZG5GQlVQSGM1RG5PajlQNV9GSmJyY1ZyZnFteVlvM0QyTVBwV2l5OTR2WDN6YWdXdnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T20:03:05Z",
+    "hash": "d26165cf209ee2d0c3625c259d608ac6c6d8ba6385db97a86cd76a12b10ceca7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Key facts: Coinbase joins prediction markets; ARK Invest buys $50M in crypto stocks - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ21EOFZscGRUVTB3Q3NVbG1iTFRiY09OczdWd3VNTE94Z1hOVzhBSlVxb21qUFhzZ0YwWWc1T08wdUR0eldMR0F4QmhzMExleVI5azVTYUxFNWpfQkQtZXZ1ckZCSEhkWG9uU0JDdHRlQ1BxdjdybHRMMDRpNnBWQkVpbVpGVjhwUVE5VC16Z0dReGpXVnJCM0d4b2Y4YWhobHVEb1RNaHJJOU9FQnBIeDRPcVVyMDRZRkRvdW51ZE1Rb3Y1TkZ4SnZGcjNNVzlENmlocG1ablF0QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T20:03:05Z",
+    "hash": "9cade0b87bd785a6c580a0b207aed1a2f3cbe3e5d7b3b44e428bb36303afd9c1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Five Things to Know About Nvidia’s $20 Billion Licensing Deal - The Wall Street Journal",
+    "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOYkd6dUFaWXdFcFJtQ2N3aVVLWW5JeFJWcl81SUZ0VnVqTzNiVE9xY3ZQRmNJazVGbnlDNGEtQjZFekNILW82MEgzOFIybi10QlEzUWpZWW04b3ZDWW9Na2NWNWdWRi1GNEp1b3c4MXFrd2JieDQteDEtV2RfNUJSdGxKUndySGcwb0xiMDlpbEJyXzNUeEo2MTZITVNBaTFxSVZRSFl1MWVrYTJ1TklXOTh6RnJISHF3bVFTU3BxLVBDSW1oMXJWUHZKSHpLSWdoSUJKSUVfcDlqWmpqeGU4Rk9HcllnUWdDN25hSEM2NlY2cFQ2ODB6NDdMWFRsSm1PV1VWUVVsbnRCcjIzQkVjZUlZLW9LelJCcHBObjlLTDlZUlRSZ0g0RU45dWpvaVhJMnUyOGJ1M2pxUkd5NW0zX1JsSF9JNDJ0OHdLdWFub3ZFdVVlQWV0VWZDb0NRck05NGNBS2wxX2MzeTZWeElXaUNxd2JsYjh6YkZBY2s1d1Q?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T20:02:00Z",
+    "hash": "fcad63500b7be30f9053c0b2306ccd6b9362ab89649c2f106c03b31cff0b46ba",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Standard Chartered predicts 330% price surge for XRP - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTjJkbko1d1NxSS1lTFBZR0pYalZTdmFOMUhMaFFScGpUWFQ0Tzd1VWEzMU5KZ1ZyZm9mRUJYNjNJSVpBV2E5Z21ZWFJ3X2tnbjlQMDRJejdMTVpzOUt4dVIwbVJBU0RJb2pjNVVsaU1JbkVjYmtGMTJ6TlZyUElMRUZOOFdMSTdZTXRn?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T20:01:45Z",
+    "hash": "8475c5022b1028efdd850b3b71fdb64f56ae4e4a3245363782541059115fbe33",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Intel gets hands on Nvidia’s $5B investment - SDxCentral",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNFJqU1RNc090T3Nxd2ozSXg3S2pwSFowbmNFeGdtOUtLU0ZCclRwVXZVYlhYVjN1RnlKRG1aUXBQVlJSN2NuRFB0QUlNNW9MMW1rT2dzcTE0UlJBSjlENVJmWDdOSVBTclU4a3l1dFdldVpaQ2V4YXlRTHZTN0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:56:07Z",
+    "hash": "934e4c2cc3fdb49a6aeace4d4026a52d0e512f93c6ac13177521f598ca4d27d0",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike stock dips as year-end tech pullback drags cybersecurity names - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTdrYmJERVNFdDE0cTVTbDRJU0lmemc3c2FvNDA1ZzVyNlRrQnIzckpTRDRFekxJdWo5WGtRaThXM1JaQkpiMGN5YXZFQ1hwVHczZTZ5dWNneS1zNXdCeENBaGFMYWVtMGh5dlZ3U25FNTI2dEliM3VsMk0yaXYyTjJCa1NzRDkzOWszNlUyRk9rWW5IYTFoXzJSOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:48:15Z",
+    "hash": "7feee186eff98b9809d0019f87e379b09b6f24949839c3bb74a77baeb05e1449",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer stock today: PFE edges down as Wall Street looks to Feb. 3 results update - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHdJc3dUekF0Ui0xdjdVSVprOWo3aWxsN29sZFZwSWU2aDNJc05BS3lJRXJ1Tjd6R3BTS1hvOG02cjNLS0ZCY3hVd0x3U0VnLUlLSTBZcGI5aW4tWE5xSk9VN1YxUVBrb2tXdlJ6WS1YY0FYRGEyQ3J4RERxRkVfbVR0NlIxVV9DUUl3ZkMwWk1pcWcwNG9QR1FJNGtjVVZB?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:47:53Z",
+    "hash": "49dd836bfa5d81ffbfb7c5898d4fed953bdba4568660dd5f6d4eaa98928c8815",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Is 12% Off Its Record Highs Heading into 2025. Is This a Dip Worth Buying? - Barchart.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWEVWOExOM2dPenduZUVvaFF0Vk5zZmx6ejduTkpRcllIaUEzUGZwMWFoNzRHNVZ5c0lHcXFMOXFfQTNrUS1EcHNDTEZta1h2dWJzV3VVRTBBeVpLd0YyT2llUVBqc0VMaEMwZDgwTWFWRHVGaGRubmlqUU42SGxtLTZTMG10RWZ3MlRYd2xaZTQtZTU3UXZSaXYtY0ZiNGlpVzRYOW5qSVBhRkFMZ1pGZDFRZFZUZUlCaTdNS3dJWlVKeVFXMFJ5WA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:38:44Z",
+    "hash": "5772df76c709d85eecc0d927c6bd4d7506231245750b77bc2c532c4f8f62a4ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "AI stocks slide today as Nvidia drops after Intel confirms $5 billion stake sale - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbC15bDYycHBLNGptV2lXMy1obnNNWkZNR0JJb1h0dDk5QWJBU1dobnRSdXYxbGhvTzdHbGJpM2xWbjhYT3FidHNDZUdFWkNWc3I2VFh3Nm1YSW9VQW52OHZVeEZaLXU4SmtpVUVldjAxSlRKR0hueG1fbGpVX25uZnlNM3c2M051RjJjRWxFZTM4S0VLY2dNOWRpd0Rmd3AteFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:37:52Z",
+    "hash": "439de65e3f344433bbc88c361849d7cd34380b66fb0718cf539660beecda22ee",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP price today dips as CoinShares data show fresh inflows into XRP funds despite broader crypto outflows - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDBTZ29ZbnlmUnN0MnNUdzZSMjMyQ1k5YmsyaERDbHk5bmNidmg1MzM1cjl5VWRzWXlkOHNReXlGcU9vSVh3REZGbFg5NVNhX250aGJURjNhdEJSQUxndzg2Q09wcHlhQ2JzQ0tQYXJCbHdud0FUMjcyUnlSUDZ1TmNmWEpyV2NUMXJuQVhZMWhjVkZPQ3lGcnZ5T3VlZjlRMXo5M1dialNyeFBpcHFUNnUzLWkweG9ORGZMZ2xPOXd6bVRm?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:32:51Z",
+    "hash": "1bb62441b0d13b6fe60d2394030445e4597695297a9d388d9cfe439167ec679b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Trade Sideways Into The Last Days Of 2025 - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdmpaWVZ2NnQ3YlYzTUxzZjdCbFp0MVhkcnByRjhSNUZ4YmVLZGFFZG9ZeWVyZXN5YlN2UmtDOXY0U3JnaXN2cnYwYXN1bmVwaXNZSGQwNEFyLUdfQm1ROHByQ01yU2xhS3J5d29ybkJXdjZqVzg4UkEyamRQWE8wdGkwcURFQ2xIWUJJZ1NyTHh4QVIxSVB6Wmpub2MwWGxXQk9YaDByQ01yUjdLVFVNMGluMzFlNk5hTVlOWWRTc08yWGpQMXdYd2pHNlUyZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:32:23Z",
+    "hash": "c32c844e109b69380a95b2bb20948480e7b07dbbe60ddf5079e634504833f3ae",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Trade Sideways Into The Last Days Of 2025 - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdmpaWVZ2NnQ3YlYzTUxzZjdCbFp0MVhkcnByRjhSNUZ4YmVLZGFFZG9ZeWVyZXN5YlN2UmtDOXY0U3JnaXN2cnYwYXN1bmVwaXNZSGQwNEFyLUdfQm1ROHByQ01yU2xhS3J5d29ybkJXdjZqVzg4UkEyamRQWE8wdGkwcURFQ2xIWUJJZ1NyTHh4QVIxSVB6Wmpub2MwWGxXQk9YaDByQ01yUjdLVFVNMGluMzFlNk5hTVlOWWRTc08yWGpQMXdYd2pHNlUyZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:32:23Z",
+    "hash": "c32c844e109b69380a95b2bb20948480e7b07dbbe60ddf5079e634504833f3ae",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Intel Stake Finalised With $5 Billion Share Purchase - eeNews Europe",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXlXOXRIazYxNF96SEVOUm10eUtJaHBDSU1UZ29zX0JaYng5VmNtcTA3YVVzbFlqM2dUeTJsTHdUaUVNTnJQcmY3d1RTTTVhLW4wUDRhUVRwckVXUHhtUTB6aDUtS1dCUERFQjNtOFZWOGQwQVozVlV5WUNJdGQ0UzRNbzlmWS1xNlJ5XzZ1S0RRN29kbHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:25:16Z",
+    "hash": "c2594fcbd245d86526ac57171dc2870e499b4a36020ac905adc5b606aafbee2a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "RSI Divergence May Trigger a Bounce in Hindustan Unilever Limited - Morning Star Patterns & Low Entry Cost Capital - bollywoodhelpline.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtqVlY4d3hiNVB0M1dLNkdoMXRfSU9zb013VnNQNUJqSWZLLWY1TVZ5T3VxR1lBQUY1MThEMlgycWlrYk81dGtBUWN4c05Ia1ZmMUVMZkk4X3ItVV9BTEF3bzZwUmstTEhUemw3UXNGWUlFOVBSRUdiS1J4VUY2Qm9yZUVYZk9YTGl0M2lqdVdlZjlXd0NBQUNScXYtOC1jQVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T19:24:47Z",
+    "hash": "07fb6f314f203bafcf1dafa0531b77704a045974883c4a6d6b57b87efc2e47ab",
     "source": "gnews"
   }
 ]
