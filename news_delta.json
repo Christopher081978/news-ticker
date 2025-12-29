@@ -1,142 +1,92 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Investing Basics: How Robinhood Helps You Get Started - Variety",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdjhnWWVlRUZYQkVQanJjQU1RUG02ZnozaHduLWZtM0w4SXZxVkNuc1BUQ1NhbzFsZGFUdzdQdWlueUJGRzdtcnlfODJRMUhYRmtsZEF2eHJQeEZJa2dGVTY4VFRXdkIxaUFLLVpKY0FyRENpRWxMUmxwNmlDYVE?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Data Breach Fallout Reaches India as Insider Arrested - Crypto News Australia",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3NOYXVVUFBkNjVfLXVyTDRRRkhhc0kzZUVjZmxfM3RtektXV1l4cjhSUE1mRUlIZ1oxWS1SdXhwNFBpZE84eklEYlNVNUlub3ZsYUI0Qjlnb2VvYnlFb3R6eGhfU1dRalRrNGF0dzJrS0Z5bUs3TE9jb0pyV1RSYm5IY1hfaVJQLXU0R1M5MjMzZ1FXWm9DT2c3cTRJUUU1d1pN?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-29T04:01:14Z",
-    "hash": "1ccc14ca84779c93ed8e69da98fe05103079e28f931e8ac6c86c5a02737c98a8",
+    "published_at_utc": "2025-12-29T05:09:01Z",
+    "hash": "dbdc9639ad5fe4764e433488a3979e57add964f3bf06f8b59ed64b41aacba926",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana’s Fundamental Engine Roars as Its Price Lags - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSndoZXdOOWtxczF3R3E1M1JPdHNZbUI3T2RxRVpidUUtNUhtOXB6RmJqMVJfZDl4d3RtcklBSUZEal9pX3dUZHBuWnBsYXZQQXZGOEZXaFlPN0ZNX0pIMXM2UENwMzFNRmpWSU1zUENLb3E0NlREaGhZTC1QU0tNUzBkZU02cVhCMDhPRUFUdWJNclNsUVJIVVJTNnIySFpCVnpNMzZVa1oxUlRvTUJj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T05:05:04Z",
+    "hash": "a9aa53bd32ae04d053ccee528832839c1a38094fa24bb7955923dd613e8a50d0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood’s Holiday Campaign Stumbles Amid Technical Glitches and Institutional Selling - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXFSTDgtYTFKU1BPX1Bza0lOcUVtYTBldUFPS0RIX3JTZnlzeFE5Y2tKWGZIVW5VOTlPR0c3NlZKdE1COG5BYzhJdzEyVzNreHJFLUhmV3JwWmN4U2JIQ2NTX0ozLVgxRlNkb0xvNlhCSWljRzJuM3NvVUxYckFiRDM3MFFGNUJ3azJRMDJ3bHU3QkxGSmpINnBEblZTcm1RTzU0aGRTMjFpZjJyNXpuWWN5MWxlRDQyT013bVByN3RYdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T05:03:05Z",
+    "hash": "594619a9f6d243e8538a6915dc07f7d8c50f0e6b746cf97abfb71a942dc52033",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Faces Critical Juncture at $1.80 as Supply Dynamics Clash With Bearish Technicals - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGd1eXpEcWhhVEdONGxlYldkQUE5ajROUmt6SzhkMnFxcWlabWV5dmxFd3c1R0JSZ2htblJtTy1IWjBUU2ZtREZSNExQbi1mU2pXYmFQbjVINDVTRDdhMHhMcFRfRlBCUnBlRnNBZGhDZEc3Yk9zMEtQZC1ndkNLYUVoNjdQZVNMVktteW9tTGVKNmRPTXN5aEVEMXBCT1VWcDdYdlhrSDh0QlJ6R0ZOYlpYb0JjRDk4dkRmTU5yakg0YXlJc0E?oc=5",
+    "title": "Why are Bitcoin, Ethereum, and XRP rising today? - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2I2VjJoaTNBc0tUMzdvWUZVbU5zU0J4VFhMMi00M0FENXVkU0pvdzVVMXhIb1dWUjlVM0ZoeDdxVkxCNWZDVVZCN1RIVzNUQm9PSnd2SHNaaTZLUEtKVlZfaktEbVVPc3I2cHNOS3VkRTNKenpXbENHN09pT2Q0ZlRZaDNtbU5mRG9zVDcyaEtkRkFWZkFFbk9mb3JUZ1V6R1dvVU1NZm81SlF3c0pjVTMxbnVqM3lxek53eUdxcFdpX09wSW40StIBzgFBVV95cUxPVnhDTnpveUljWTZqZ1lGNWFUZ3ZMYTAtNnc2eUtnTGt6ekNCOGNDaFlmWDQzQWlHbTEwS3JBa0hvcTVPVWhrYkdrWGM2MWJGTFNvYVdUVE95VVJubFFzUWNiOXRyZE9rdzZTeEhZRDdHNDZYTnhzb3FpV0FPTmdTSE84aURqY19nR1c1eUNhTHFTNE1WdDRId3dMbmV5QjNrRGE2TklHRWEzclZXWTlwWjJOZHNrTXBKSG92YnBaQ1Q1RGlHeHBlaHpoMXd6Zw?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-29T03:55:35Z",
-    "hash": "d959a7f1ffaae769d75ee3d65a91473757107d9e6c7f7c6f2e4e8b774f7fd147",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Intel CEO Lip-Bu Tan Calls 2025 'Defining Year' As Stock Soars 79%, Nvidia And SoftBank Deals Fuel Turnaround Despite Trump Conflict - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11VG5XSnNHS01JT1lrVjBEMHJtQzJqejJKVTJqQkFOSldVcXg0VHNWZkJKdGo0MXkxTjRaVmNpdUxhbEt2TXdLcDVJSTR6NDJfY3NGeVo5UlByT1lDZWxoUnVwdGJxMnFTeFhMaGVhbF83d3NHX2dvdA?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T03:31:00Z",
-    "hash": "319c3f6a12a07a9ed1a78e76332b741680074992ac93f15643bfd9edeb62788e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Bitfarms vs. Robinhood: The Better Growth Story - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQS1kbWgwMTFtZ295TnJjRkhMejZHcE4xLUVONnhTeDVBakJGU1d1bDRVdXJjMUJVVnVNdno0ZWpielhhRkZsZTRKNFFVaFhqcURoeXFyVm4xSmJqVE9OX19UMzRzeEVQNWFjcWstck1sRFpsWlpzcUFpVnF3SWx3OEltYUhVXzNlbFYyUHVUS2VxdVZJUVlOcVlVSHZrdmlkMHJYeXl0MEJja3Q2RzNtdkVmWERWSTNZWXBwSHRLanllYlZZLXluekU5QlppUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T03:30:36Z",
-    "hash": "0378ce8bd416b4d5e7be362727ebc0478fca96dfd92a0f2d96454e2f4dd15865",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP’s Contradiction: Shrinking Supply Meets Market Skepticism - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWnVlUmlteUhtZ2pvX2NsM0E2WE4yelF1SGhTVW9CRDlEdGpRcTB3ZXdmUW9VNVZiOXUyT1FSSFExOHFmSmI1MDV3NTFfcTEwcUkyeE81Rllibi1MNU5pWmludlhhYlVXb29id0NsOF92RG9kXzRFWE01NW5lN2s4UTUySWJmTVJKWEF2eV9FMWlqM2R3bEhsMjhTYjlXT3haa25oQ3h3Q3lYYTQxb2o3QnJlZm92bjlJRlJR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T03:24:04Z",
-    "hash": "a7cdb3ee7df2bc2bd68296596c93c2f581bc577e5def125090e8be85c569e1d6",
+    "published_at_utc": "2025-12-29T05:00:00Z",
+    "hash": "f126fe64498f84a94dbdd4dd8747ed4583764ddb6d5ea1a13cb55ee3a4aacac7",
     "source": "gnews"
   },
   {
     "asset": "BYD",
     "query": "BYD",
-    "title": "BYD Nears Global EV Sales Crown Amid Domestic Headwinds - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU0ZOQmM2bmc0dW1STDVjZVZaNlRKRkFBaC1hVG1TbzZlb1pteG1ZTUtVSnhjNmpvODBvc1R2UV81a2NITnRIdkxNbzhha1U1U1g4WUxxam52RWdSSHg0bE5VcVo2WnpPM3I0QnhlMVJYWkkyNFI0V2tvYWhwc1EzRWl2cVZTRm5kN1hUWm5HQXpXV1Z2bVB1N0FZSjM2MzZfX3Z2YWl3d3pjTEVkZGZva0hBNW4?oc=5",
+    "title": "BYD stock jumps in Hong Kong; U.S. ADR in focus after “flying car” rumor denial - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONi1FdEs3NjBYdWhyR1pycXlEcGNEZVJCaFdta0tOd0IxZkdUVVhNZF9HRWp5RDdQNlpHQ1lMc3p6V0E4dXUxaWlVeVEyTi1yc2FqSURxcW0tZzdYQTFqTGltdEFiVnhHdnBoVkI1X1hIaDZoVE81cFZMZlFsNUVDTVlEWGlIdVFGX1JZTTBxcmo1a245V2JWRHZ1QUk?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-29T03:22:05Z",
-    "hash": "ab9806e946ef064295d549c83f6c5dc7f19ad62a40c95f92f2bbaa20381d11ba",
+    "published_at_utc": "2025-12-29T04:46:16Z",
+    "hash": "bf4cd6a44281ed99287ad468c0e2e27ceb5012eb6c5b925984d8c5f3019ff3d8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer stock holds near $25 as Wall Street waits for the next big catalyst - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOW10a0hQMVJweFliaDNXMlY3V3FMcnBOb2VBUW56WktSVTB5LUctTEtoa18xMzNDOWxqZ0FVYjNOcm53YXlYR3BEcXJiX1BGRXZvZTBhYUEtRk93Rm9hOGQ5MjZEUDF3X3o5d1dmVjFrbW1KOTM5eVQ0SUlLZ0NFMWVWNk9kQVBrWEQ4Q2hWcGlaeEVhVWY5c3lR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T04:46:16Z",
+    "hash": "ef683e0fa9067ac0647cf9aa335b6ef8f672d3608dd468fb74a24f894d4f4ff5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Breaks Above $90,000 as Traders Bet on New Year Rebound - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGV1SDh0c1pHY0xVRmJWa01ZczBPY1JvLXMwdF9jVFpJMktQcms5Y3FFbkFsS1UyeW8yajUzV1dWWlZRcHA4T2VRSnZHQmx3TGdiamprMlJ0ZG5vUXVSN1gwSXRoVVNpUHJiVHVfR2tPLUtBaUZXRThuWHc3ZlFOanlaTEdweUthSXZ6aEthd3Q5VU56aDQ2anhqV0dvSF9CZ0dCeFVQbjRId3FMQmx1NFBoSWZBN3Bv?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T04:46:00Z",
+    "hash": "b66e1125b79a4ee0e4164620e430cb21faa71bb66bc8846cdfb59ced8fe32cf2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin tops $90,000, Oil rises as Russia-Ukraine peace hopes falter - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjg2WU5Md3RNNFE1THFRTjZhbHVOd3VJd2pMam1xVXFIX0hmenhLZkVENUc2Z0JjN3BYQU1uQ01mNkxnd0tPSHlZNUl5dGptbWtlVHZ6dkZQRTJMNk1zQUluR2NkTTBQNXFEYXh3ZjAwenM1bDlWb2dPM2ZfUzhUV2FONkQzUTlHcUxPNnAxa29KN3FzZ0RoWUJZRnU3dHZCNDRNVnEwaXdVcGd0dHVzWWlxNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-29T04:35:40Z",
+    "hash": "d73b90dedb4e77e7fc6234ba0e064674eb266615ce8a48aaff8b9faea174b0fa",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "Robinhood Markets",
-    "title": "Bitfarms vs. Robinhood: The Better Growth Story - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmwyT2hld3Zib21nNUt5Z2pTSHVkT29wMklUUHJlV3NRaHlPR0lRRVNjeDdWeVFOTjRoS2FQc3BZTXVlc0FRS2hVOUpTeVVlSFBzcTVpeGNqcEJWT0dUR0hpOEZiZVNPeGowZHU3LUZGT0NVemdXZm43d1F1VEdMUHN5eldtUUhJcjYtbkN6WExZZw?oc=5",
+    "title": "Bitfarms vs. Robinhood: The better growth story - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDQ1ZVJSR1hzV3M5eU5ZVzJPbzQ1dDlxWUdXNmtoV2hPcGFZSW51c0ZFNHF1dFJvaUpDXzlybWRiNEczOGdrZ3ZOSUdBU2dCWnlmT0dkQ19PM3h4MDdERThrOGxfNU5qOGFaS3pvRjNFZHpaWmxPQkZTenBrdVNwOVZMUzlQOGtOZjVlTzdUSlc2Z3ZSOHZiQWFrM0J0QkpfNUhFZEEyRnBIcUc1RHVveV9GSzdIZHp1VzB3NEtqT0llT1E?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-29T03:09:00Z",
-    "hash": "e62ee604b86091c999909d99f38092daff26ee281e08ce9a6a92d455ecf55ce7",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: XRP Holds Bullish Bias as ETF Inflows Offset BTC Drag - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM1dMZDNIMUlIbHJtdU5VZHFMLWVTZVpoZ1d0OFQtRkdmOTE1Q0tNeXhmYXE3UjZ4ci1CU1VyeGl3T0NURVRXRC1aYVZRcGVOZENBT3pNbDZBTmo5UUVmamNxZVZDLXdYUVFYYUVHQUJ5T0JQejluSDdJV1BUR2Z5dmxCanR6MXltSDg4Ry1rblhadzEwT1VIWDJ0SHJ2UEdTX3RMTTZWZzVUd1lyM1VMV3pRejlFNi1QanVR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T03:04:00Z",
-    "hash": "e0a7b6faabe962209ccbe8dcc9bc52b3d3ac2654831753e2e9cc233388d6c283",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Shares Pause After Stellar Run - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZkNlSXZtQUN1eFhsV0FIRWl5LWVXSHhwRmNfVTJOTEZWZVdLT2ZvTnBPS3ZRYngxaWVPUjRXa1JnZFFjT2R4T3M2bWxzX3lhWGllb0tGX29qYzVZb1F6eXRydUR4SF9ZRkhzNmNjc19pQmlCWEdIOHpRbEJ4cG5ZTVY0WmVTQTU5UHhHLTNHSmJUcklPeGNqbHpaRVphZFZvV3N1WDgyTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T03:01:04Z",
-    "hash": "1de425756c3c2dd1d45ef8674fa9f3f976be85f69f9a17c14f7d857453ef0e77",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "RHM.DE",
-    "title": "RHM.DE Stock Today: December 29 — Defense Supercycle Fuels 2026 Pivot - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcURESWk2Y3ktMWNlTE5qLUVXeGo4M0Vlb1NISDBac2tyeGwyVG1iUWwwZEpJYUJreGl6bU5WbXNyeUZGNE1xejY3M1FRWEw5ZmVtRG8yRndyek1yVmhTXzZJaG1NUlhKSHpPRmJ6YTBzYmtWQ2VRQ2F5cFdvWnVjMHpxV050dEFwa3hTZE0tMXlyWUZLQ3Jwa1R3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T02:55:25Z",
-    "hash": "44da6897e3eac33bae615bbdbeacb584efc7387fd8651353a7866335b976eaa9",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's Groq acquisition reshapes AI memory landscape - digitimes",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHBfbUJsX3d2QWlqQTVOMEJjN1BCdmViLWJmYmxELWJzeTZFaktka3JmSm95TmZSWExoeDlHUnc0NlZpelZZajluSW81LXBCNWhZNGdDdkVhNjBTYVNCTjYtM2xUVHZkRXdrencwaTRyY3BqdUpweGVDNjdKWWxQZ2pQUXlUeFRfbi1VS29JclVPb0RCX0U5WQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T02:53:55Z",
-    "hash": "cdcae6f3855553e8e3ebdfbb7cf8b079c0236a50ce424e4eaa0a01b093669c44",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Would You Accumulate or Wait on Pfizer Limited (500680) - RSI Overbought/Oversold & Small Entry Cost Trading - bollywoodhelpline.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUnY2ZnBKOHJIZTc5bXd4RTVsZXFEZDZTMVBKckRLenM2ZHBaRTV4RHVyMUEzblFGRFhqLVQtRVlIeEJrNWFPX0QyVThEOVFGenJ1bnZYb0FtSVBLSUJXbklLTmFneldHLWhralR1LVVKWEE4ejFzaGZ0WG9sMFVqV1JGZk5fcjVZWnE3SF9XcnRDTVdYODZjbkc5blVLSmM?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T02:38:54Z",
-    "hash": "31612bf4fcf3bd7dd6cec27174f5d951e24e998cedf9b4f3fdbd3ebd2a312067",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Hindustan Unilever Technical Momentum Shifts Amid Mixed Market Signals - Markets Mojo",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVUdWOWZkVUs2NG1BMWlaQ2pwYktVNkNtQ3FGckRNSnJ2S3NJU3VQVktLWkRrbnppUEJfZkhtTThuQWE5NXZ0WGZKSmRoMmNzT0FzUTFxamhaM3NVNEZfczU4dmNWM2U1aEdOTDV3MEs0bzlhZW1HaG1yRmsyNVNaOG9LRXJUZVFabExDbVJGbVpYR3BnRUVPdjVjdlFPenNMb3pCLUUxQ2l0T1dCSmktNWN6MzQyc1FsdnVRN1hZay1VS21TY1F0OGMxSF9NSGdYMUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T02:34:18Z",
-    "hash": "e33c071996cedca4b3c34021ac7b57f89c9dc6996f072215c981c61a24a9f121",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Daily Crypto Signals: Bitcoin Faces Year-End Pressure, XRP Supply Tightens Amid ETF Buying Surge - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUJDVG94Y1BaTjhISjRhTldZeDdXM3N1Ykh1cVU2M0F2emxHc1A3TnBOR3dibnFKVS1oQUVaM2VKb0t2ODBMRnhyQm03Q3ZnMFRNcTgzRUw0LWtreHJLZF9mZXg4S2R6QnV2TVVRNDB6bHRNZzhLR283Q2ktbmt4Ri16NmROU1lFbmw2bkdPUjQ5RExibDBDd19vOHlTeElfS285cXJDRmktLThZUC1pWW1YOEpJVXV3ay1tdGNvWmVHWVZVMjE4azE3WXdqbVA2aGN3?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-29T02:20:28Z",
-    "hash": "248bb1492b26235bab8d117bb1453965517f9afc53fb14e8d7988649d185a0df",
+    "published_at_utc": "2025-12-29T04:32:54Z",
+    "hash": "71536db72c925de72635d19584872feb0484a3ffcbc22ef1486d949f327cf060",
     "source": "gnews"
   }
 ]
