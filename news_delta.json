@@ -1,172 +1,72 @@
 [
   {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Here’s what analysts think about Pfizer Inc. (PFE) - MSN",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnpWZVhrcnoxSllwcnFmdENQV2JsbFRUQVNNbHFiMjE3aDhZVG9hSkhZWXRET1JWTjVyVTN4LVU2WGxnM09QZEFVOXNRTFBJWHlYcUdfanF1clVqNWQ3ZkNHYXB5MXEzdVlEalZSQUphWlJqTlU4OVQwdTd5TVRBajV1dGljSGtiTUFxaG5Xak94TEtFMUFyY01IMmJPeVVyUE9wc0pWU0haZWdlUE5RemRSdkZqSU5hS09md2FnVUNhQ3ZYelE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:21:33Z",
-    "hash": "382d9dab6049d57bc683d3cd1cf6839e303dac303e1ffc5ccb9896c8b571eac1",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Here's why Solana could drop below $100 despite steady ETF inflows - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaDU0bmNRUjlrMVhuazBhOG5mRDZNWjREcmtlckR1dV9ibXhIRUpLZVNmdHdQTTlhd1RsTHozVjg0aW9TdGxZVUpYNXdWTnp0NzJ4cWtBc3VmamVXcTROdHZEWnlTeTZZdV9aY1hEV0xGcmpQX3NGZngwMUcxejJLa2pEQ0FfWElnXzNmT2hpS2ZMVUFOSnp6aVB4eGpPTm5xMUVhS2RDUHVwRDN6WHp3M1BST2lXUkxYZkxGcGhVM2k3Z0czNzV4ZG4zSTB1WGpIMFdnZXB0R0UwbVdWcUJlVdIB5gFBVV95cUxNdlhWUVEtUW9qZFQ3dnlKRFlTcFd0SHZsN2xQeWgxTmhjeVAyOEhzT3JSNXN4eUVqQjJ4WmNYb0tZUEtMZEJoTWVGQTRfQ0xPUmV4X3c0VmZYSWUwcDlNSEdJdlRieTYyZ25QQVZudVZRZzJPbTlCRTFWd1hEaFB1Znl4VTVZbXUwOVY0UFZpMkJvYVdGSGR2TTZacWxKTEQ1SFliWG01NFFKMmdhNUtDa1A2U0dsUGNNd21tU0FXWXZMU3c5RHhnM0NmZTgzS2g4Q1docmJzNzdvWFM4MzAySmk3b1h1dw?oc=5",
+    "title": "Bitcoin and Ethereum ETFs See Outflows as Solana and XRP Attract Fresh Capital - Coinfomania",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObnk0d3pkQ3RyQmZjYnZLNHVhcUJ3ZHhOYmRUa3pXczJNOGJZTm5VcFNjQnRNSE9neVlBSTUwbnNfQkxvVzRHemVPY04ybEl2dEduaDh5YURteDdFS3pzTG5tN01EMVJlLU9TYlJ2aXcwUWlfaU5oT3N2V1hiNEZ5emNDcWktUVBXXzYxOF82Sm9tOUVpNjVUOXRPSXJ3RGVaUGxydWRn?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-30T05:15:00Z",
-    "hash": "801eba66b838f8fd3ee24b06e6276dea7113597c31ea1eaa270d55ed65f6d181",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Standard Chartered Turns Bullish on XRP, Sees 330% Upside in 2026 - CoinGape",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEF5LUZwNWFrbkpyTExxaG10N3FQWHVTdHNWeE8xSHBibkJCdll2Q3NYcGRXQ1poUFZieHZKaG9fMzF1cWNlWW5pM0ZmNVBVUTYzMHpSa3ZYbHlFdF9kdUZrWVRtUkxUbW9uM0ViSU9zS2FXa2VJZ2lXcVNmSG5XcXpLOHFxRmFNbTJybWln?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:12:46Z",
-    "hash": "13a2c5960179f89027cfcb8eb2fa68ced847548e5a8779592f91d12efef6c0ab",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Bucks Crypto Fund Outflows, Adds $70M as Standard Chartered Flags 330% Upside - Crypto News Australia",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDFXc2ZIRmJRYjUzSHlFd0Q0cE0xcVN4UGVPbmo3cWU2ZzJkZVF1aGJpWkdDZnZyLWZTbTlDWkE0RU9kMkg2RVBiOU9aakpza2hLcHNFQTJ5bVkyN3lUS2NjTld1R3VrRUw1YmRQRC1mNUdTb2k5dGFFeGt4RF9PaEhkTnVMVXR3T1N5LVd3elZDWEFiLVpTY3hBX05LQnZNeEVhajB4T1Q5ODYtVGpQWk9jQm9aN216?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:12:45Z",
-    "hash": "8ac8723b577ab1da2c922cb2f4ea4765122b86ba700a9da9d12ee08d3ac693de",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitmine Amasses 3.41% of Ethereum Supply, Eyes Staking Windfall - Crypto News Australia",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkIxZVJDQXg4N0tiemZhSXAza29xOG9PMTdwajdTVlZIQUpyWERvd1loVm9CMld3OTA3TFJhUTNyOGdkaEl5MjFRQUZ0VjNHMWZjZlU2YWdQQm5Ua3NGVTNBTlRvLXBYb0w3YnlpME0telN6Zjk0WV8xbGJ2a3hibVF3Z01vZkpGcDk3QUJXaHVXSW5zNXFHTFp4TjYwQzFaaEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:12:44Z",
-    "hash": "0a4131638b4ecb769c4f38a28c47559ca8e8410f91d2b82aa4e738217d424304",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Shares Face Conflicting Market Pressures - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbG45QlZJX01nVVJzN1VMRC1RZTlsX3dXa0hSeWVqb3ZSMjM0QWFxM2twNkxGRmo1MlZCUEltMzltZHpmbVMyUnZXQ3VuQnBDOHJwU19YYlBwUjl3Vi1aOEhrNnk4RWd2RGtNY0E3V29Zak9HX3U3bFgtWEpYdWxaQVJ5dS1IcmVIckowcTZvN1dyUGQyc04xaFlHZjFqU1E3R25wdW52MXJCWUM3SXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:12:05Z",
-    "hash": "b56a6071bdbf03ef1051ac7c1253a715ec242bb4c7476dd7f207256bbf3d0763",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Shares Navigate Insider Selling Amidst Strategic Progress - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa1VZWHQ1a3ZMN1FPN1hmeE9jczBrVmUzUDJESVpCVU84eVY5cWNPdjBLNFk1NUtPVkYwd0NjWnBmcWZmWWRSRHQ5aXJ6QmdVVXZBTHYtNXJnUklVcnEteVFGUDJXSERjazdSLUVobk1BNG5hYjRTc3RNNGJsOTlOODY3TDlVd3loR29nemVSYVhjdWRoYkFGQU5tM2lCaDZVbVE0ZjFxZGR4YXFoWkVYM1VPRE5nZldZS2ZuSHBDbmpvVHVXc3dXZkVNQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:11:05Z",
-    "hash": "efc93ca02b2c5ba109303a4f822b6b6a5cb8083cd8c2e246b794e9b110d1d266",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Where is Novo Nordisk A/S (NVO) Headed? - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBQTVQR1NZWGF0clFvWVBvWGhjTkxtUE5DdEVZN1U2SURjSFllQ2lLTnk1RDNsbmxDbnVaYk1iMDM0XzBzZ01HamhlUDBxeGZTSloySU16VEZqWmZ5eE1HcThhRHFhNnJ5MDRNS3lVeWV6YllB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:10:37Z",
-    "hash": "cbd24ede8dae9ac848f0679b7cd3172c986f0189cbf7c69a275a91fcdb89ea88",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Why Ethereum Is Risky: What Every Crypto Investor Should Know - Eudaimonia and Co",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqSjN3OWM3LW1jRFQyT0s3NHVIS3M4T0xCQXpwR0V6YkQ5UTUzSnRhaXE4MURSOEZTLVc3T2dKS3lxZ1FfOUJfTVV1VXB0UQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:04:09Z",
-    "hash": "1fcf125b86dc15ec6af79b45c4b55e0ef1cc65d03e4a868d667534449a4a6064",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Here's What Analysts Think About Pfizer Inc. (PFE) - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaG1fSk9KRUYzUW01ZXUtNWZTQS1mV0lWOXdnS3JESjhISjhEbkJTNmt1eTJsV29idnF2MjJfSnBiUzRaVE16b2F1akVTdi0tMm5ZTWp3Q0ZTaGdJazRZRmRZendVNUJiLXpCd3pTT3hFOVFVZk1mQ2gzSTRxR3hMQXRDVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:04:06Z",
-    "hash": "ab537c08b5d68ccc6627b04be2e6645c6fffb2013125263986078308e7ba6dc6",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation (NVDA) Aims to Starts Shipping Chips to China Soon - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkJueVRlZHNYSUozMVBKSWJJN2RkWURuQzNLdjdYM0liNVdTbVFWOEwwcWpicXJrSVZQZkFKaUZNLU9UVzRsSktkRVhhVE5QWF8wT3JuNGRjODYycDlfVXJNUFU0blAyZDhlNjVEMVNETjhkcUw1bDBrQWZaQ3ZHOU51MVJrTDJNbmFXQw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T05:00:00Z",
-    "hash": "1398c64af13fa33506f41287b033654c67728fdc4b5d6c5b8a3828a91a0f8946",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab, Micron, And CoreWeave Are Among the Top 10 Large-Cap Gainers Last Week (Dec. 22-Dec. 26): Are the Others in Your Portfolio? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVhzVksyQUlGd3lFaWxwb1JBdnhmMGlySUtYOGJVSjJtaVlWLUhoOUxWUllDMy05TF9ZellHQ3JQUERoZ1lOdFYyM0VsTGhwenNjWXRtZFpFbzNNR2xqZ2dsNXRMOThkYVhMQkd3OXlIZGMyUW9Od2lWNEFQMUJ6dXFUZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T04:47:12Z",
-    "hash": "57d0c1efa82364d7f3881fbd485640c9e414786bf6d04b48b513c6a158b6ac71",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP and SOL Investment Products Defy Crypto Slump as Billions Pour In While Bitcoin Bleeds - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZUQzdURGZjJxNTRiY1Q4TUdTdTRsSXYzckIxVjBwQW00dkN0Rk5meTc2Qi1kV1h1ZmRjTTdQMmxtQ0d6cmJrTVRFQ2dUbXljMWY4YkI2VEI4OW9scWRvcEJyTHZOWXJiQ3Q0N2kySkcxUmQ1SWdzS094UDF3NFBfblFkZWxzN29CbmtRVGZ4M0pxX3Y3QkdWMnhoeEJUQk91VTZoQk1kdE00VV9aVmY3eU81SmNfTjg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T04:41:00Z",
-    "hash": "14a654122018911d6c5645a65bf3105bae3b943b66c5972b11161061dc6d31a3",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia isn’t on Dan Ives’ top tech names list for 2026 but Palantir is - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTkNwbWhHYTRkSWxaNHZ4eDRiYU9RcVJienNZRjhFNVZNb1BGWFFPS0xnVFlvMWE4WmxPWkdkVmRSam1uOWY2TE1MNHFza0hBV0JJY3l1NGVIMzRpNDg3YUxrbjg1elV2aS0xOVZGXzdENDZOZkh5YUI1UzhCQjNGaFZKQXJrS0YzeHpMRnd2d2hPYkV5MUZJUFNqR290OFpmb2N6QlM5NWo5Q0s3ak9zWXVLTUNIdmN0VTZUdDNRNnBWR1Bk?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T04:32:00Z",
-    "hash": "2c25de9b4b19c33f49e71942536d8a78baf6bbfbade71b2b942448bdb33cf28f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google's Gemini Triples AI Market Share to 18.2 Percent in One Year - Technobezz",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWm01RlhmaGJTNldHazNyQmVMc0hRakRVenV2aE9EYnZpemdwa2RseFBacG4yWldteXIxNHRsTUt1ODB2NGotZFI1bmxxRTY5LU5MOVFOWk52VmRHbnlTUktOMTh6amFLTFRhWG40TEE2QWFTSnJVdjdGRG54SzVrVmVDc242ZXNBaC1GQXlTbTFUcUpsYUQySVFMOVZhN1F6XzBUMV9SaHBCUkhL?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T04:26:35Z",
-    "hash": "2bc7491ba543deb3ba4bef09ef32d6039a86e245c923dba40c90951039bea53e",
+    "published_at_utc": "2025-12-30T06:36:53Z",
+    "hash": "7c79b5967ab6e16f43d9aee29d5b0daccf9d8a4c81702e6455e87108418798dc",
     "source": "gnews"
   },
   {
     "asset": "Novo Nordisk",
     "query": "Novo Nordisk",
-    "title": "Novo Nordisk halves Wegovy prices in parts of China as copycat competition looms - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTFRfR1lrWmNLcWJ0TzhtbHkwZ2hNZFZ6ZVRHMzNfOWY5dFd6RmdSd1dkbm1KSUlmZWRlNERSME9zd1VWZ2JwX0RFckhUc05qbVF3b243RnJfamJBQ0NlZEVnYjF6dXFPN1piY1NkNlI5amZtc25sci05c08zUUFXc3prak5RMndzR3JMVjFfRTQxSm9PX2xTSXF1YW13cUR3QjMw?oc=5",
+    "title": "Novo Nordisk's 'long game' on weight loss drugs sparks hope in science, but the Street is impatient - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVVUtU2k0TnA1Uy1PNF9qMmREeGFLUXVqd1pCMTBXNjZRZ3BBSkdzRTNUVXI0eTVzZ1VkTDdWdHZtOG1HWHVTd3VxeVBwVFpKRHl1cW1lMGVVcjFfcGhmQXgydmRISkNfazU1Z1hqS2xSOTJKTFMzeDFXLVRpQzF4S0VvMktsYVgzc20zU2hBMk5fM1drZGh1bk9nN2hDSXdkMFFvMER6TnJRUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-30T04:08:55Z",
-    "hash": "6ada32ff78af4d51f0e6f13358eb9fadf2592897667a7664583dbe28275ec555",
+    "published_at_utc": "2025-12-30T06:12:25Z",
+    "hash": "3caeb2418a068c65af843a17c836d1ab5202cc64ca0a9be65ea2975c476dbf64",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer Shares Face Mounting Headwinds as Major Investors Retreat - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUW5YcDZvUW9IbEdkaGZSWDFvZ2FHY1pPbEdLU3VDck51UnBNaXJpT1JmRU1qN2RaQS0zUF9DOXFiZVpMbWUwam9BSmYxWWtRUUpBWFNITzEzcnE4ZDhScHlrcm5peFNHY0RUZjNRb3JLUFdMSXBtTEFtU19aWnZfblZzdzltb3E0YmdQYXJYX0U4MzBvc0dSOHV1Z1dJX00zbnhCM0F2TUNzcEZqLUFwN1p2MHVPalhYS295R2VWdC0?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T06:12:06Z",
+    "hash": "616c3ea6ad4d5f8de513e72f9ac8c21509ee82bcf7f08e41e5606ba8745038d9",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Why XRP’s rich list matters more than price right now - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVc1cW5IRGdfd3AwWWJ1NmI5ZHN6QlZ5VjZrMnlUZnFkcFpISjNzMlFyYmcyUklJQlJyeGx4TWUtOWJ4VEdsR29ZeENwYkRja2FRSF84dE54U3AzRUV4bERVd0VTeXM0WTVzOHJXS0YxdjhsalNiUDJjQlh1QXhZeNIBkwJBVV95cUxOUENWajVsNlZBNmxuY3hDejFHdnZlekdPSXdfbEVCa291bzZ5X3RfOTlhNmszQXlJaENRNnV3cmVydks0ZnJmRHNyODNqYjh2ci1RdEQ2THRzYlNUVnR0azc5Q3RyRXhiME80Ui1ORlNYZDJzSlBsQUktaGtrcTEtSm1fNmhvOUhRYlh5SVVhWTJhVS03cy1GZVZmQV8wV0ZGQ1hhcW15RWJvVDVTdk5wOTVvWDEzNl9rcFl2NzZSZ0FEYUxtaWRyNXpmUGd6c29qWWxBbEYyU1ZsNWttNC01eVZVM2tMdEFXY0RTUUYyZkVHM01xcjdkRkU1WGxCT3h2eDEydVZJaXM0U3FlRkktcFJ6Yw?oc=5",
+    "title": "Can XRP and Cardano Survive Crypto’s Evolution? - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc0VZSDRETXJGZ3ppTGNXd2tyRlgzbUZxYVRsOEc2ZUlXdl9CUkhfYmtaX3psWEFzOVFFTTB3MVhYNzVjY1pnRXNQQTg4SVdJTzdmU2lBTDlWM1hEeWpjelk4cEFPc0ZWcEE4R3JySVY3Wjl0Rzl3WFhxcDJwXy1xRlotLVY?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-30T04:07:30Z",
-    "hash": "c5f2799bb2eec13861193a86122c0ef1280802f4fef8355cddb2b15d327b64fa",
+    "published_at_utc": "2025-12-30T06:00:38Z",
+    "hash": "2183bbfff22aa826987d8ad073c12592b58b6037045b94336a125ea1f92a7990",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Can UnitedHealth Stock Withstand These Pressures? - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUFrQUhhN3RsTkdXWEJTUXRqd2FrYmc1cEV5RlB0MlViRzJSanoxMGUzbkVGNHIwQWxCcUpxd2xsUWItZVQ2dC1SdE1wTHpINFh0dkhnLWV0RU1udm9IaWw1Zk83MlBmejJId0ZSWlJneVA0TEQzY0dObDU2Qmdialk4bW82aXdNQUI1MnFDRE04eHVFZEI3dWw0STZkVlp0a2pLbXQ4aW1FUUVjSThPdWtJZGljNmdXS3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T05:45:43Z",
+    "hash": "cf870708637d1519d8198a7cf08253038b0dbdf201c02dad8a518226306e44b4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana's 2025 Leap: How Blockchain is Revolutionizing Payroll Solutions - OneSafe",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iU3Fzb3pGbFlPdFRPZGg4YkM3NjFibHRQMVBmRi1USWJOX2FKbGMtanRoQzcydWN6NWFIamx5Nk9aQUFBWWtZUl82OUNacDRFYUtTQ3d6RHZ1SjBNMVVKMWRNUWNFWVVldTI5bzYzU05xZzlIRllJQUdvQ2xzUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T05:44:40Z",
+    "hash": "d213f92485768756c7236c2a1803792e30925182d0cafdd110e513ecc6867d60",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Diverging Views Shape Coinbase’s Market Outlook - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVU0ZWJGa0dGd09YR1ctLUh0VE90QmdIV2lpWW5hVEdfS2dMVk9HVnVKSkFvVjlEZzRPZWN6QXBXZmg4UndOM3hNNlpzelBKUUdUaDFpVUhyT0JoZFU5bmZrSTNEX0xzajNSVmNuc3NsR3lWdXpxbGpqbVBDMkZwS1hrYnUyVmNlUnV0NXBaNi1tcEhUWmRDY2NkRzNNcHYzN2xoM21MTGdiQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T05:42:04Z",
+    "hash": "2e6e12d4636461d31445a7546523af32465f815dd08fed444d138897611c56fc",
     "source": "gnews"
   }
 ]
