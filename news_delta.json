@@ -1,32 +1,202 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitmine treasury news: Ethereum stock bet is down 80% but South Koreans keep buying - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVGRsYUx3a19yQ1MyVlNaSTl5OWFtNXhaNk1iUWlnLTN1aERrSW1zLU1lb2JwUjRsV2VKdlVuNEZQYmJIWlppMFE2bVlSVDZKSGkyYnI3QTFQRE96MlpYbVR1OGNNNnUybV9oTGtRX0FsU0FMenQyN25URHFNMnlrbFVkdUJEb1FRQkZSQXA2MnVVTW9xOTV4WFpQUDNwOWZZYXhZamdsMlBBdC1BcUNRY3VUYlU?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Shares Sold by Anderson Hoagland & Co. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSXIwNG9zRGtsYW5qSHFMNlV0YXZLT3dXUmdNZmVCa0ZUNTJVb2ZJVWJHWWFLazRYdGN2SEFXM0xmem1OYW44VFVxRkZfaTE1QUdkQ19IYjhqekwtMVBuaExGS29maFlpeUIxYTEzdGZsUkQ4eEdteWxxVkQ4M2lvYmhtM3ZwdlRqQ1p6dElCN3d5VnB4ckRpUjJHMV9UVDk1TTNqa19LMjktMElWV0RGdkZpQmxPWVFyRXd6dA?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-31T07:16:15Z",
-    "hash": "1e4a8b3b00f7362530ee013a5f0f0426addc56a6e97616ec3a77aa7d9a51f60e",
+    "published_at_utc": "2025-12-31T08:31:59Z",
+    "hash": "ec5d77c19a174591879598564bd3ace4126c327bd3dd31860dcfaede0da38242",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Ends Year Strong With $14B AI Chip Boost From ByteDance - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSmktenNrUTZZdmUxbWtUVG1YWkpkaVhpOEtmR095TXdoZUgxZndVbE81Mi1CUXQwWVZNYjFKdjJNR05SQWdnUzVocjdEZk5UQVdqRnNYQXY0Rjl2Z19aT2ZVQl80N2FySndEWGtrZ0NDbXdkeHUza2N0Q01PdzdsazQyWXJ1Y3dfREg3ODB1MkNNRzE1VXhDMV90Wlc?oc=5",
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Allspring Global Investments Holdings LLC Sells 640,137 Shares of Robinhood Markets, Inc. $HOOD - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNU0JMRktlMkh3dlFua0xCMjRyVy00UE52TGtwcFNVQzFVcWQxdkpoRnJUT2lmZUk2X053VFN6N01VZlE1NHNUNU1iWlJCTDlCQUd4NV9lVnp3Vlgwb25qT1NVa0pmUEdRZXBSZ00yOWd5TzJwMHZ3dzlIOTFnQW9hVm43NnIwUWhRdjdTbTlTMXcxZ3dMeWduamVUclYtaFUtd09PS2ZRV25mbTFJcXRERGpYUlFlelZLRGdEQTIyaFpSVWJEWC1GTGM4RUwySkVibUZnR1UtR2tUY0hHZjZjUGRuMDhrX00?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-31T07:03:12Z",
-    "hash": "30c2785c66472f524f8e2a928e3097901434f3ca756d40e8430660a5d80cb6f1",
+    "published_at_utc": "2025-12-31T08:31:59Z",
+    "hash": "c5fc24b78958ac389c2d47256ef717d1c00dc448c145ba2a756405254a0a096c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Partners With BC Card to Pilot a USDC-Based Payment Solution in Korea - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUNybk9CbHBUMmxYWVZ1NG1lYVRjY09VZ0c5UWlSUTNCSThHaC1rWE9UVk9Ka3ltbkRsSmdWS0VBN1JRaUZ1VmlqWm1za19tMWNkcFpnLTJsU19YU3hsNmplTDZpd0Vqc2VYMHd3djhXNmNuUFNhaWFVTjBqYjBlbVFsOTRhNkttVUtUS1hFaTQtTHpJTEs4NXg1aWJYMWJzWUo1RktPaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:31:14Z",
+    "hash": "5f789571fcfa0ef49df6d33183b87a437e40cf06b8913727c98416c7716a46a2",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Standard Chartered Drops Bombshell: Ripple (XRP) Could Hit $8 on ETF Boom - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVZKdV9BaFpOS2gyTlpYZnNUbnpjN3FjZ1dXekpHMnRPWHZyeWp4d1ZfbURDYTU3eVdQcE9WM3pJSkpDcnhTZXRMT081NFNScTNPNnhOcmZkVldCcUhnM0VrLU5vNTRDNFpicExOdU9DUWVocFZPUkdaYVE0UTRmNTFNbHVQSG9ObGhZZGFaTHVlZ1RXNU5DUktQR0pIcV9RaFUtUWlCMjJycTNLSUo4NE9B?oc=5",
+    "title": "After the ETF is launched, the price of XRP may rise to $1,000—a short-term increase of up to 210%. - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXRwVTZxWmtVZWMtWkx0T0J3YTFiWWxOTlJ0Vm1hc0RtMmpLUmNtQThiMm5Ja0tnODJrb3M5RVNqWE55bkNVV3VVODNkcThSQVNLQzZ6SlRwUS0xdXVGaVFtLWdmMVhENnZSdElqcWJYMUFEcmwtTFByUWgxTmhCcDQwWm45OXdLaVFzR0lNQnFpSGh2YzMwcjYzdkdKTXRpcmN0TTc3XzJ0SV9fWnptQ0l0QjJwc3pFSEhUNGJtckJGckZuR05wc3FzbnVJVXdkV3hfSWFJbGFyeXNL?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-31T06:53:19Z",
-    "hash": "273693f86f2e1cec04fd89dea9b87c8d70cdb0dfec994f1962215cd44c344454",
+    "published_at_utc": "2025-12-31T08:28:46Z",
+    "hash": "f4e876c7a568967853d4a3c0d6bc57b5531540ac3b9cde75d0c7654f6d662f09",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Able Wealth Management LLC Buys 3,043 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb1dPeUEzMWNNY1JPbXQtbGZnUFVqNU9JR3g4akltXzIzTUhNSnlkanZoNk01clh5QlN0TnY3cjEyUGZsWjFaaF9CSWVVOGRZa1V4S2xab0kwV3U0LWpxdG9IeUxFOVFtWmtpUWpCSXFsZXk2cGlwNXhLZG9UMFFqeHVBb3Itd1d4NmtWMjJETUdlTndyU1JmNFd2cDByVmgxS0x6MDYtNTAxazc3eWNCWmFSR2FIZmN2bndSbTlrRFp3aTRGNjNnSE0yOA?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:27:53Z",
+    "hash": "d035140b6bad2d765cab2ab98906aaf64645c4a9dd6f5923baffeca5135188a9",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "UnitedHealth Group Incorporated $UNH Position Lessened by Aljian Capital Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTkwtRjhqeHBrSHNRY3Flc0x2ZHRmTjN3RWJYeTUtMzFpVHRMNzFTaEZKWk8ycEV5RzdMdVJsZ3hwMjRqZExMYTVPTnM2YW0xbmJoZUpkblVNNzZtNjg3T2VMTkVuRk1LZ3BGR0xSNHExSnZJY3BWY215SC1vdG9kbkt1TmF3ZnJEckluLW1YM1Z5bFZBV3Naa2ZoRzFRWnpwVFNkX1pGdFVyVmxHcE42dmlUSzBMQXBEXzZ0VXlEQVVCOVNZNEdqTjBMaXloS0pTeFg1dlRiMHRSem41Ry1oUw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:21:46Z",
+    "hash": "1a921bab9cd5b4d9368be0a0fe1e88c48ff2e1b3b517bdb2dcbb7fd2932bfc5c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase exec warns Senate stablecoin misstep could hand China a global edge - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPLU5JdjRNV2ZvZUZ4bHJPaFIzNGYtcDlCSy1WbHZmU2lFUlg5b3FUN2l3QUloNElfQkpNNFAwVE9nUDBFTW5WbG0yQUt5T0t5THgwaDZqTXMxV2FRZTkyN3JNbzZpSEM3TEpaNUtVeFFIc24yTTZGXy1jOEhxdWNBR1VqT3FWYTZZVUxhYUpHcFFWVnA4MS15MzR1cXlUTk1ZZXY1RndKN3dEbG15cUlzTFltNEc5WHNYdDRJOGxvdUhGbDg4VHBrZmFocksxczJpQXJETGFsLXpsd2w0LWxXdmR6Q0FMcGZneEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:12:48Z",
+    "hash": "24ca25009bd168d5aa2ef8f5f80dcdad8fefa96b3886681bef368724fb2fd5f2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bonk Volatility Returns on Solana Meme Headlines: Pepeto Could - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUs0YXR0WDFROGVMemZ4V2dhMzVWRjRRa0xhRWYySERFY2k1RGpXLU1BZzlaTThrY3dvU1hWT3duUGdaSnYxMnFhaUJEVTIwZXZuUHdvdE9mdElYOEFDV0ZEZ2FhamozQUlmWU9IN2U1Rk0zTFc0alVkekNPVGl0TnBIMHhTZVpMM0xicjVnaW5paFJiMlpQSUV6amlVUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:08:17Z",
+    "hash": "83d41f203e2f725d8f7f928c72da527a0b47068c3ed4d9e15601eb152d655bf4",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD’s Strategic Pivot: From Automotive Leader to Tech Powerhouse - primaryignition.com",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckNRUkF3Y1BuNkFXQ21rSHRXc2luV2ZZVzZvaEN6M1I4bElmbHhzaG4wa2FuTVp0MEFQYTZHN1VVV3IzZ2xwdG1NOS1TMkk3ZkFJZzlWZWc0QWZ0NWQ4c3JidG5MRDNkZmU1Z1BnT0JRWS1Ia0RVblRjLXFaOUZuZzdxVFY1RnNPTjlWRVBrSEFKa3NtcHI5M0ZYUm9fVVBldkJpdg?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:05:23Z",
+    "hash": "7ba9d3ec0346bd0456deeef4af043cef45756eb76335a052e2e7aab5f016a2e2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Today: BTC Stumbles as Gold, Silver, and Copper - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkJGMnZybE1NdUhZNHl6Uy0xYWotTzV2V0Q0TU1KQXRwVExUSHRadHV2LXRaRGJsc2FSS3RVNVoyOGxKYTg3Nm5uelQwVklpQm5UYjlQNjNROF85dHBwMk5JOW5YOVRDazdOOTBHbllrVkVOTlh2eWh5RHJlQUs1ckE5X0ppdURKRXRoTUhUcklkZU5yRUxaY0x3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:02:28Z",
+    "hash": "03327be5bacc92b019de39cbda2a41945ba7ae24a712d925997e6ac730eb3b2e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Metaplanet boosts Bitcoin holdings to 35,102 – Risk shifts to shareholders? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ0NZc0JBdklNRDQyaUMySTdTeE1HeUh3aTVFUzNLRGFpTjNqMU9PeGo0dTE2dkpUQUZXSDVlT0JVSExkOWZQU2dlZF8wc0hfaFkzWUwzcEtxOE9scnd1MWY5d25CTnVLXzgyRnQybGxJR2JINjFJZ1hfWEkzZW8zMkxLa0M5NUpxM3VPWU9OT3VIWkJkWkUzbEN30gGfAUFVX3lxTE45MkMyNXl5RElmOVJTa1pxR1NRWlVPVGFwZmlza1hxTk12eGRGU2JZMkxLVjVoOTZacFcyNU9vbHV6aTdZMWVJUEd4dldNNXpMOVRBLWlYRl9qLXQ2aEV3WkJpaHg3ZVNSbGtPNkxoZ3lNeEYteFF6MmhJZWtKWC1vNUlWdGdDVVpqSExPajZfenE0M09QOUtfZE80UXBWZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T08:01:53Z",
+    "hash": "6f95b1bb67d45b7eb44fdb4cb27883f4e3e2a5a2cab056ce0f8fb1c977be9a04",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto Market News Today, December 31: 2025 Retrospectives on Bitcoin Prices, Ethereum, and Major Altcoins - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX3VxM2k0czFIZFlBM1lrNkJJUUlRaGt0NTF5RWEwLXdodmkzSEdFTDVjX242SHJ2U183cEluTXNVbmpESFpNTDlJc01UYXRnYmM5Ri1NTW5CalFEbzhkZjV2RU1Hc0ViMWZkMEgxal9KQ1MtbWIxRW5UeGx0MUx3VU8zdlhuZ2p2S1FxVmxiSHgxZkRGTFA3ZzJPTFl0ZXVpdlJtTGRIZDZUZ2k3Q3JGa1pXN2hmMnZFMGNzdUZUVW1UZTgwMmozaHJGaGJmNEU2ZWxQUEU1Z2t2LTVnMmdrX3FuRGdycGxvUEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:57:15Z",
+    "hash": "bcccf7e8a3e540ee0cc8c83f6e1a1de65f9ace582ec95a135272b2e5f4031487",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "US Risks Losing Digital Finance Edge: Coinbase Warns of China CBDC Advantage - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWZzT21BYUZjekx5OUtXWU92WExNMDNrTTJCdTM5Mm92S3Vvak9VVUJfbi1pX0NDZ29tbVF3YUkxaHZWd2ZPY2lmTzByczVMcTBPazdPY3B0SjVLY1gzV0ZfamQ4dHFaMUlxT0ZkWW01a3hmUzl1Z2tPbzY3TTJ1b3Q1NWtaRDdQaVVvamNNcFl1Nmtycy1vTzNCc0Y0Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:53:23Z",
+    "hash": "555516e41df36f7e8601de07148d522c14d9781473564f4152a912e652ded8e0",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum Stock Garners Highest Analyst Praise as Year Closes - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWW1iOGVhaXkyMlEwWkJBTVN1ZkZaUkxLNjVEMTI3dHp2Y1hQczZhSl8yNko3aFljUjJqUzVRQjl1eVJFUUhNYVFlUjd3SmpkNlhxdjN0ZWRLSzhZOWpOVXpBNi0zSGVSYWtrWXJ6VmZlVWtKbGR2OExsU2t2UTdxRHFrSTFYOF9wYkx4WGVDMDIzZDJpUEt4U0YwcjZ0Mm1HSTR4eWpvMTJXUGllVDRyWE1HNTJJTmJvdWI5THlPNUwzeFk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:51:04Z",
+    "hash": "9a41ab5f143681688efa89f10c477332fb4b884f1500323dcdc610f9f1a56db4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Buy Now: Is Pepeto Under $1 a Better Investment Than Solana (SOL) Below Its ATH? - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjNQVUlnU01pWUtBeUMzbUJQLTdIbkM0d3FIWHBWbUtXenhKRGNsSExtU29GLXhYWTJtYjNPMUs1bXJ0dVQwc3Jjc3hEZzJEaDZPLWMyNEs0X2E5dTRNdVpLeU1JWGEtT3RONnZOcFN4XzNwUmtNUG9uRHJUWTVmUGk3M0hDUTFWaGhRdFhzeElPbVp1SS1WUHhTUDZpTXNKd3Vz?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:49:09Z",
+    "hash": "8f1ea85e85b686ccdd4769eb3f271bf15b5e40b47231cd9c46491cba9c2048be",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum price prediction: ETH stuck below $3,000 as momentum fades into year-end - Traders Union",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbHFzN3QzTXdUekIweU1vRDR1ZkVHTDB1a2J1Q2FrdlYzNUFlaFdzZGtaOUxscFhHZWoyV3l6NmdRNHdhV0lybVZMQlI5UVZ1QWRKc2hBODRyTVNEZHBlbHNtYkVLcUE5N0p0aUlDMDFSLXpBUG13c1VLVEFlRzExZG53NWhnTUxqX1ExSFQtY3RJSEU?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:48:50Z",
+    "hash": "616478b8964edcb759af1eff59cb104116d129ae2232cbd54eb6eded3221ae27",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike stock: Cybersecurity star extends its rally as Wall Street lifts targets - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVFSOGhHb2paN0hBc0ZFSWVHM0ZBZlljT1I3bHlSVHVid09MRmxVVERYTE1IRTV5TkVNaU5HMUpRcUlpcFJZT2Z5ZzdrR0ZoZXVtREdHV0ROUXVUbnZNdmVtcUtxT01oeHBLUEVyU1dOdnJsZ0VKQU9pVUNPOGRYQXVfOVRZSVNYTExCeVJmVkxkMGk1LWlaSmNIaWo0ZjFNRDVZTk02emtiZFZWZEVaR0JsYTRmWWJjeUdaQllpX0pzVWN4QTNj?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:48:07Z",
+    "hash": "70800059385bcdb13075ac777af6ae7375e2b71399e780479f6c3e3ae090fcf7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana (SOL) Slides Below : Why Investors Are Pivoting to This DeFi Crypto - Mid-day",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3FabER2RjF1UktoSUNfbmx4WDY2TzNyZU9tZjdjdDRhOHlldEFzampuWllvNFE5aF9TeXdvVktVLU84RUpYdG14Wm5WdHRzdGlGWDlSWVRfejJrS0NFZEJLM3NTWW5EQlBhQkdHZlY5RFV1aFd3ZFBDdUYwWlBqcC1vMzV0R2YyRVJ1UmJFLVRXeWJUZmdpNEtsRmF1MW9oN19TSjFHa1REcy1WVzl2eDNDOEh2U2_SAbwBQVVfeXFMTm1YTEFKOUpsRjRFb2RuRzZoTFZsQVhjU012UTRnYndqR1VydDYtSFlmNVZKb0FIdV9QOWpXejc1U25rdnJTRndub01UdXpuWlUyYUdIZ25MbldPWF94dmUxNHpvemFnZ0hLV2t5aUQ0U204bDNnQlVYUWVRN2ZKQVo2eEUyUjM3OGtSMUQzbWJSd1ZLNFNraDJSb3RmZVJFZXlSdEpUNnBXLVZsbnhNcnJMRlc0ZDNmMWpfekE?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:47:00Z",
+    "hash": "64c9c6e7edbb3801c7f656cd1b7998ab4e70d9560ad7bd6893737764ba1284c2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum price forms a bearish pennant as December closes with $545M ETF outflows, will it crash? - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYXB0bDd5T2dEZEY1b3kwaU9yMU5rRzAzVHN3MmpuVV9udnQ4MTkyckNEMzBicTNCZ3pVNlNxWHhNSFVKVW5aR184eGpEQ3Utb1pVQzA1VEM4VTh3X0pKbmFadFloT3ZWOURCcFVJLWl4Y0xjNlVGUkVCTWQzdTlzRXR2WGRRUEZKbXo0a1JRYUtEVFp4M2h6NmNjaXhIWExkalg4MDB6MkEyTHBUbk1HS3VWTEhfQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:44:00Z",
+    "hash": "da8df3d54e97878905fe41899a05f7dad7444d6463660f5a87bdad53608685e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "'Net Buying Has Trailed Off': Robinhood CIO Sees Retail Cooling as S&P 500 Growth Slows in 2026 - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQandtWjlIeWJGY09tSEVhWkhQelB6OGUzTUs1aV91LU9lanpYRGlWYzdERDkzekZVMTVLZDI2VDJHS3JXeGVad1RrTkZnNFJjenRaWnpiSGtFemxENXllS3hhTGNETnpxTV8wVVpZY1dJRVVoWC1mYkk1MzZ0WlkwWFQ0WFNDMGFPR1RPd0N1VEhpR19KOEtkdXpETXliT3BfOWZ4NDdxOG02aHVGOGlwSm5BU2NpV1FmN1EtZDlqWjc2LV80MUhGbkZLSUVUMlR5ZG1FS0xB0gHbAUFVX3lxTE5abXBJQ19nWWhIQmVZWG1USlllU1RLZEY2TWxtcXBLV0gxeGkxN2VvNEZldEdVQkxCM2tjblNEeHVXMHktWnNPUEJKQlpJVm1ydG9aWDVxOUNIOTd1aUd5V1NnLUh0OXF6Q2ctVkZJbTFrWlZ0ek9nYW1wc3VuRnVuYmhFQWNKRVA5SFBCRG5ycHh0ODgtZ2pTV3A2bEtHdDVON013VUJPYmVsS091dElnYXlJVXhycS1COS1EY1NqcmUtUmZNS1NVRVJXODhoOEpfNU1xVGlGLTg2VQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T07:33:50Z",
+    "hash": "0837a2243d232e9e8e2c57de221583d8bbd5a7842205a5a8a945f3dba78910f2",
     "source": "gnews"
   }
 ]
