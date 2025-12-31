@@ -1,82 +1,152 @@
 [
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Stock Market Today, Dec. 30: Rocket Lab Regains Momentum - Nasdaq",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFlLSHA3QWwwNW4tSG5iUHlHb3hGRE9JbkRDX1ZLNkxuSWYzNVF5c0poYXFfLUx4OUlqWnZsTkNHTEF1OHRidWotQ0ZnR3lGQ0Q1dDVtcUN1ZWxFaEpvd1pnWjBZcE9RXzZVOXF5MjdUY1ZJVVZOVmU5YXZVNnp5WWVBZThvR2hIb25ucVBR?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T23:09:00Z",
-    "hash": "f22f1af6a0bab199fc9c2c8a2a654861336f8a12c46584a75c67610147847d53",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE) Braces for Bumpy Years as Growth Pushed Out to 2029 - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnpIY3U4UE9EVHhNenNjaEg0XzlhTkx5dkVvODhtZ1RUUEo0Z2tJWXNpeVcwQmEzWkhGWGFtLWdTN1hsZFNPVlczVUZxNnpmeG5pR2MyODd4cGpvR1BYVjVPb25EQjlCcUI0M29pUE91LUlHVVd0Sndsb0RkS0NkcUtTSUxVN1lETFZZZWdzaktjX2RHbFZqQg?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T23:06:23Z",
-    "hash": "af07a7f26e03eb157aa588a545d67aecec2d13b33d32527aca7535b9bce9019d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin price stock today: BTC ticks up near $88,000 as Fed minutes and ETF flows set the tone - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRVBYWGdFa25RMkkwbkhTS3NJaEJ1d2Eya19BdE1GUUhweGI0QmR0SVJ1dUliaEFpNFRFanlNa1dlX1ZxVmhaQUt1azZhX0htQk9XSjFydkFCQlVVakptSXFSRUVCcGw0aFZpMGZQdHU0NUFxYkt2M09QYzlCd29tdXBENXZla214NU8zbE45aE9IQmpzeC1lWmkxMDE3OG9jSUxjcVNJNWtFajNlWlJNRnRB?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T23:04:51Z",
-    "hash": "31a023087c69f8a7d14a1e63faefd81a344a769f8ded8ca23bb550031b5340ae",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD.com",
-    "title": "JD.com Inc Is Quietly Going Off — Is This the Chinese E?Com Stock You’re Sleeping On? - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVplenczOWEyVHYwY05kNzNZRjFEbk9Zb2pXa2xOMmdrNFVHUTNtaGV2NnVFX193eEVBdURuY1pzUDVLVzFhWEFvSVZCNTV4M1BGbUlWdGJkSXI0TlpuNHZSUWRPR1JKbEJGX0h0TEJidkRlcEZ6UVpnMTFqc3RnbHpiUXFPMi1raUhuUmNXX0ZLd2paTnRRV3UwZFduNU9teTVXdzJXRktDejdsQmhQZlRkNDhKRG1CUThSTmx2Zw?oc=5",
-    "summary": "",
-    "published_at_utc": "2025-12-30T22:52:06Z",
-    "hash": "09b43f50cbe13ebd9cf8b65f195e9a939473620bcbe4a3e809dc6c53f58d58cc",
-    "source": "gnews"
-  },
-  {
     "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "The Truth About Novo Nordisk A/S (ADR): Is Wall Street’s Favorite ‘Skinny Stock’ Still Worth t - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFFwc0RGZkVLZ2VKRzhNZnZDb2JLbFJBblRFRFljWFFwNzFVN1FFSFducGNlMVM1UmpQZzU1cC1KWDVNb29fLWxWUXZyclFtdW5fRTRTNG9mcERSVTV6SzVwMVNoQlVwUzRGUWc3T2w2NF9vXzFSdXNhc09ia0JCbms0c3ZYVEZqNXJuNWlYTVVRbGg1d2FZMy1iRjBDUmFxSXlYSGRkekk1QU1ZaVRDaFMyWnUtbENVYWVJSktR?oc=5",
+    "query": "NVO",
+    "title": "(NVO) Pivots Trading Plans and Risk Controls (NVO:CA) - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnBMUUJQQUM3NEptSFdXUnJxWFktTkF4VnI1OGc2WHdUenpNNzZUSmZwS210bXMwVEluanhMWXBXeGN4U3UyVFdONWQ4QUJpOG8tSGg3TC1GeEhkODlhOUI3ejU4a0VsQ0c5WG5nLV9BX2FicU1Iam9HcFU0MkxuRDJsSGZUQ3RVcGRQckR1OXhQWkVLcjlpZS04dGRMUUlYRUE?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-30T22:51:15Z",
-    "hash": "74a7e7fa0f2e2e1a74ccb0db3139d7dfe6ea5981580b9e5477349c0f1d8a290d",
+    "published_at_utc": "2025-12-31T01:51:30Z",
+    "hash": "e136aac56a8de20e764763c5f0032f53e42a2b3685a8729749660d5c90cd3cf6",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Report: Nvidia could acquire LLM startup AI21 Labs for $3B - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlBhNjFPc1pyNEJyZGEzZXlScjlwZ3J1azk1NHFFY2p5LU1scHBYazJtY2xOVW5ydTZXNHVQN1J2OFdsVmFuRXk5aUZFbXNUYl9vUnRMQllsVHZNRDExa3pPaGdMR2VjcWdieGo3Y3NpUmNqOXR2UEkxdGZ5MlRMTG0zbC1IejVVTEw4?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T01:22:11Z",
+    "hash": "4cd5714a57637ae569751488e09e359d7ec0872b0f64ad284d96cab48b2920b6",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase stock dips after-hours as Needham slashes target, flags weak crypto volumes - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1pyUE9BLVE2TEczR3BNOVJoTTBnS0o0bkdBbmVUYXVJSHl2dEZZWHlRZ0FlUVF5a3Q1X015cmw5TC1PN2xHZHNJS0xCZXJ6aWI4VXNGak9KNXg2LUFhVFBzcmZjR0U3RjduMWUtOVVmYWVXdmpfYy1DWmhTOHpPNXk4U0stYkN5Rmd6UmdmT0xDN1lOMHBqQkVJenA0dWRndUh6RWxBbw?oc=5",
+    "title": "Ex-Coinbase Agent Arrested for Stealing 70K Users’ Data in $20M Extortion - WebProNews",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2NyOFpfWmZ5X2ZVWFRGdDZ4VnY2UmhoVGNZRmVPX1RNUUx3NXRDc2RHZHVxUUhRVXhZTEtUakRHZ3dQQlUwN19SRENkdHVxR2dJcnkweF80aHBHYWx2bVotQjNhVnd6Y0UyTXdQeENOSW5SNDhvUHRWT2x6YXdDWkh0UFBnX2ZySU1RV0NUMU51ZVdUSGdkenlQOW5rM1Bv?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-30T22:49:51Z",
-    "hash": "5217933567da2f92bb34b855b6d42f6232e83bf8798574be3dc33d150b72d55d",
+    "published_at_utc": "2025-12-31T01:15:11Z",
+    "hash": "4274a8717e57a6997cc4608b435745a05fadf11d263b4d76cdb6a5db5d96c31a",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Stock Market Today, Dec. 30: Rocket Lab Regains Momentum - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaGk1bVNoS0VNa29QdmRvd1ZhQmV1NXEwMkctY0MxbzNOd1lpVkFhOEx2c2FpcEpKbkdHdndwRkxKbnJrRWNWNVkwOWkxODdvSWgtSlFKQ3pHbFM3VGRlVEthSERwdkRKeVU3NGJSODNvUnRrenU3ZmZ1NUJJcE9hVGhKYU1MZlRzY1VZRFk2LWtvNkl5bFd2Qk5Td29iM2hyaEs3aXYydU85MHFTNW11cEVqNXA?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Daily Crypto Signals: Ethereum Hits Record Contract Deployment, XRP Exchange Supply Hits 8-Year Lows - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR25Lcko1MmZNM2lMT0EydDdVbW5JTW5CekQ3aW9RcXhuVTJxc3ZiVVoyRWRfVlgxbU5paXlkWnNBa2NiTzZZdW5KVGdDbEpjQjlkSmdsQkM4TUJJSTZPY0h4THd5MDJJZEtPeWV5VzVxcnBTQnlWVGM5QmdJXzRZZDJ1cWNKNDFPV0R5Z2stTTE0ZURMSXpWZll5NEZuSmhlTFpUN2FBWEQzdzhKajI1bXNTQ3JTRUtJOC1KeEpWSEdNOUgtSHJPWHlPRmJkcnMtdzhyZ2Z4cnI?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-30T22:49:00Z",
-    "hash": "ec779d5be9b65c236b9833f1b32f1cedc0110f43d1559dde5dfd1352afa4c25b",
+    "published_at_utc": "2025-12-31T01:03:30Z",
+    "hash": "a1de7ec5aae594061f493f9d1b415b8692d817fe87d172d5bbc077d4a3eabe01",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Mutuum Finance Enters Phase 7 After Explosive Sellout – Is MUTM The Best Cryptocurrency Coin to Buy Before $2.5? - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMmNxNW41NlBPWXUwRUNRdGRISHg1V2Nmd0VCX2tIRjBLeTE3U0VyNjFJUmRzd1hIcUs0TFZuY3FJYW5TSGNSX1N0U0RhWEFrUzJGbEdMVWE5Nl91T3RydW1qNUd3MVBVSUVXcnQySWE4RUoxa21VUXppRTdpWVJyaF92a0Y5b3JBZzR5TVFZY3RzVDJkQnQ2UUJod2V1Tmh4aUZiUnV1M1Q3MkdLZWZQdFpINVY4Y3YzZWZJd2hDVmgwRE1jejJ0bHVGeFdtVVpOMG5Tc01n?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T01:00:00Z",
+    "hash": "04a02798b98c54e7009c1300e215de74cd996fd31ce163cdee2f261c7777e33a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Pfizer stock flat after hours as TD Cowen sticks with Hold; Feb. 3 results ahead - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVzNkTG9XSVY1VGxfZ2hoTHRwS0QzTjNuMmJhVTNmUHdIR1RPNHBaVlVBeTlWZENyWnh3eDNKWTE4S1R4MmJxSC1Ic3ZFbmRPcmp0NW9nQ1hPQUdlQlkwc0hWb041YjVxYUNiR1I4cXV4UW1EMmxpTW9BdlJDMDJ6dmtMSEtMSHZ0Z2lwUnA4ZjVlbzJuLWRtMGhoN3M3U09l?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T00:53:24Z",
+    "hash": "cf0ca36ef37c2b66bbf23dfb99f794276f9bb8cf0cd5e0b8bdac0b3ccf365858",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "BitMine Aims to Go Live With MAVAN Ethereum Validator Network in Early 2026 - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeWJkMWVFOU45U0JNZ1BxSnRtR0E2TGZqMnA5Y2hWRnlSNWg4cHpvdUJDX0ZPaUpOY1ZWYlR5NFRwQ2dsNVVkU2NBX1NzYTIzVE12TUZ2WTZtQ1F2RWlZWUlFT2RNZmFLYjVISXhTeDh1dmxHQ3NmQjRvNEdZTXUwTFZQZ1YtMEk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T00:52:27Z",
+    "hash": "ea00eee57513bf5d815d9965bb01de0ef3769cca5de522568d154d6c556615f4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Why NVIDIA’s AI Power-Play Could Drive the Next Major Rally in 2026 - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMEpxM0dLeUU2QUxxcFhtODluRXJ3YzRuZnZqVndBUTRyRW5CcEl6eVZfeGs5MldDZFoxR0JkWnNDZDNWYURJYWJLOTVSbk1NSHREYmtiRGl5b29JY1BRRkd0YnhTYXY1cjB5NTNBNU9nU19kenF0V0tGNXhwdjZjb3lpOG12Uk52ZFJqcldtS21BTENwSHlXVUd6OEVyWkFBcWtyeDd2QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T00:38:59Z",
+    "hash": "00bf697c61f1f002ede2dc97628d43fa7e663f90a00961f24245e9301b568b98",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple XRP: Long Term $24 Forecast Revealed - InteractiveCrypto",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeEFqZlVpc2dvYXdkM0VUODgxV3VoR3NzRWt5bTBEN1FxcjBFOE9kUkpMRWtqMmE1SE82YmRmSVA0cjhhYzB1V0htd2paRElhbG1xeVNEcDNzUDhUSHY3RF9jeU4wXzRyMVVUOXlTME5ab3FvNUVtNENLOWNPODFzdlpfNHlHNWtUZFljSEZDNS11d3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T00:07:12Z",
+    "hash": "82cd75fed9a335e35327dd6b7607a7c64fbf954675c314e0a99eae369dc4295a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key facts: XRP ETF inflows hit $64M; SEC lawsuit resolution expected to boost growth - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjZ0ekxIZlJ6RVdJRWtWRV9CRXpnWnBwMC04TE01UnEyLWNpRjRBRmtQSHdyZURwakFSRGFRWlhMTk8zX0R2TktyblA5TGpTVWFXa1ZpZ0lpaXpSWl9pUHY2dGphTFZoYWpwVFNuNnAzcXMzSmZreG1ZX2xpSkV4MkhQSm5QN19PbmZzb1hyR2RrRGFhVFl6NFhXZlZkdkhoQjJYaF9ZTmJacmplN1g5aVRybGlEWThQcjA3S2E3QUZTaEJ4Qk5xSW5nU1dUc3pOa3dteEZxRUNaZFk?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-31T00:03:00Z",
+    "hash": "edff9bc9d721a32bea0224f18433f201395ab84a2c205d7ca90109c89b038f7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "QBTS stock: D-Wave Quantum steadies near $26 after hours as traders eye CES and Qubits events - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX29KYmlvVmsteW1WSjZBVWxzY3M2RnhjSVMtRTRUTmdydEE4S2dEUXZXY25XM0VhS2RnZXVqZ1VfNFg2MXN0Tnd5TFZmdWRWa09iMVVyVkNKamliS28td3JTYnFRdEwxUEppRGM3aGtaY2lfb3dvXzVtYTNJSFdsUEZtSFozejY5N0VHQXdpeENReGpSN243MF9DTjZpSW9QNTZHWjA5cVZ5MXlMTlgta2R3?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T23:44:51Z",
+    "hash": "b10d5be09425c7e862b84a58fa513e0d08089dc54a789f673e01765bb4c662d4",
+    "source": "gnews"
+  },
+  {
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "RSI Reset May Fuel Rebound in BASF India Limited - High Dividend Yield Stocks & High Profit Market Growth - bollywoodhelpline.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS1ZSZllkckRPdDVTd01jdGhZRTFueUxsUzNld2w2ZldTM0s3NDgzd09pVzQwdW9ZTHZrNTFUTEQyQ3hWdUhfbTZ0X3BUZVZnUTJRcTl4RnhhejJKa1BEbzZDc2RuaHZEX05FVUV1alE1cmt2ajBNbmoxZXp4RVUtMGNQU3paQTVSSWxR?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T23:32:13Z",
+    "hash": "e8e3eb32a4793dd4e638dbd6fac55ab7589e5974c60fc140a8294aea41798953",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP trades below key technical level, analysts point to historical rally patterns - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmdHSU96OVVSQkJRZFFqTXkxOXZLX3hPcVJwOVpvVFVXQTROd3hPakpUV0xMT21xWU1Yd0IzTVF5bHVLenBJbEwtMXdWM1VFN1pZZEt2clhYNmNySTFyWHRnSXNkaHl1eW5CMWR2VURDd0RxLTdvMG0yYlF5Z1JlRnhKdDJPTFVXSGFtc0Q5NWFIR3F3WDN4RGcxYW9oOWRMTzVJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T23:30:00Z",
+    "hash": "8fac3a93b0ac1eb1980c005ba7e9d95ab32d8cff2e564e46f9b3b0286efbb4f4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Gemini Predicts XRP, ETH and BNB Prices for Early 2026 Start - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1NEaVJDSU1PeGloeE5Kb3VJRUo1T09janBDTDdPYjlhV0N5U2lCd2NxUDQ3ZkFzNDRlUzBFS1VPRGJJSTR0R2FWMGpGTjRKYk5PcnM1VE83Z0xJWTNpUURkbGNyaW5tdjIzNC1ubnl3V2hHWWVvVlVjSnhXMUdxVmZZN1JVMEJUSGlIcU1WUVdlSk1YbnVROEJRRWtIcVVNX0swbQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2025-12-30T23:30:00Z",
+    "hash": "5162f576d96b861349d8366a7a263d3dda75c35c551a882c9467ceb414797247",
     "source": "gnews"
   },
   {
     "asset": "Rocket Lab",
     "query": "RKLB",
-    "title": "Edward Frank Sells 2,500 Shares of Rocket Lab (NASDAQ:RKLB) Stock - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFpNSktJdkZjZnRjMjh1OXVQZjg4MXZNS2dUUXE5aGxoZFNQVFdERlBBOGZFcVRsR0Y4ODRpZS1jT0dmMVVXNDVfSENyNDNoZ0Z2Nk5pMFVnSTB6VFFnbkRzRlZtNHpNdkhINjAyaTRJWVRxdWRxR083UEpGcWdKTEJ3b3RSQzBOYVhiN2dIUjNnazBGY3RVbU16TFVqRnpKT3Bnbm9BWU0wZmZEUnAzMFBmNjFKZw?oc=5",
+    "title": "Why 2026 Could Be Another Breakout Year for Rocket Lab - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0FzUW9VMkpuRzZRTldHVXNJMEkxX0NxMkh5amx5WlNxbzRITkliQVRUMFpVb2VUX21OYWhKUlhWQnJ0QVBHUDZIN3dlMnE1S0FuUndZMnktc1UyVmxUSjl0WVo3Y1VIS09QNWg4YzAwRUtaQVIxSXI4LS0wYTl2MU9Pblo4M2hoeXZ5UkhnYk1NdVZpMW5j?oc=5",
     "summary": "",
-    "published_at_utc": "2025-12-30T22:31:31Z",
-    "hash": "fd82086b28e8b0da167f045ed86cad37d4e8af0e613813b638a054ddeae772e3",
+    "published_at_utc": "2025-12-30T23:28:55Z",
+    "hash": "a0f6094a607ea24451d32785e246fab7ca6a9129eb810c6178a1d587a8fd508b",
     "source": "gnews"
   }
 ]
