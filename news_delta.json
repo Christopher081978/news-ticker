@@ -1,242 +1,52 @@
 [
   {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth Enters New Year Under Investor Scrutiny - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmVaVzI1cGJkV1V0dG9jZllHdy01RFVFaWhGYUZoUVR1TGVVdDJXRDRpeE5NZEtfallweFpHaVB3UE82QkJDMUhrbGRqZGdvS3J6bzVfbjJUX2I5aXRVeVJKZHB2U1ZjbFJEaFVibUM2UmVZQVJRVFEzX2YySW9sRWxDSlU1UnFfSGFuZkd2QXpoTXQtRnBXTFBWZHVXVU9adnVxUVhpVnF5SFlhenB2Uw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:42:04Z",
-    "hash": "d7135330cbd58e183a658f1ba05db39f593521677c57823e3f1ed6133a93d376",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "USA: Die Tech-Giganten könnten 2026 nur noch eine Nebenrolle spielen – aber wer übernimmt die Hauptrolle?",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/usa-warum-die-tech-giganten-2026-eine-nebenrolle-spielen-koennten/100179985.html",
-    "summary": "Google, Nvidia, Amazon und andere große Tech-Konzerne waren viele Jahre lang die Erfolgsbringer in den Depots. Nun könnten andere Branchen in den Vordergrund drängen, glauben Strategen.",
-    "published_at_utc": "2026-01-01T12:42:04Z",
-    "hash": "8cf06c83e916a06320ed2fdd076cce31099cde8c38b277de2bb6f17603b851fd",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "This Super Semiconductor Stock Crushed Nvidia in 2025. Is It a Buy, Sell, or Hold in 2026? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNVo4dEJDZV96Y0RHMmxBRkVSeGdOaDlkQ29kRW5pY0ItZU9aNTJ5cDRsangzMmZtOFpFVC0zSnFjdDFlZllKRkxCaTF3ZjZWNGoxOVJlY0xuMlByeHhYRVV1TFhVdmlTVjVlOEZ4UVpCM2NZR21ZejJ3ek5hMFJ2YXZqRXd1aDVrVGpF?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:40:24Z",
-    "hash": "ed532da1e7e32d61800d891de722809407efead1fa7ee76b15cf3f0a5449614f",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "24,984 Shares in Taiwan Semiconductor Manufacturing Company Ltd. $TSM Purchased by Vanderbilt University - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaHlSNjhmcVhBYmUteW9sSUtaZGh1Z2wtaHAxR0VZY2hoVGxfZXNId05FcFlWdElSTmc1d1JXcXhTbHFiaEJsS1V6c3pIN3JRbDZFRWUxNXdEZExSeGQ2WjdzNVl1aFZYNGN6T3o5OF9UVW9iT0V0N0V6OUZFdjFKQ2s2LUhFbVd1OUxGNnV4cGtNaTlhN25QalVIY0pEX3JiZXAzem1ab0k0Mlo5blBBMXpiM3YzaEZhYzJTTnJJOUFnOXp4d2xPQVZvaEJpeWZtQm11LWVIUHRPZXpfUFhvNHlOTzQtT0tuclBFdGNkY2h1NDFr?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:30:17Z",
-    "hash": "7b479a6e8242c8bd1634769e54b5c7c06a4d7b9e8299573c12825c290ae53627",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer stock in focus on New Year’s Day after report of 2026 U.S. drug price hikes - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelZHQm53bWpNNTRCQ0VwN0o1SDFKNEVJSzBHT0RxZEJDT2o2YlJUV1F5alZ0NzQxcDBVMTZBTFdRb3VwV1k1S3Y0dG44QVliZUQ0c1lZUm90WE5RYlZZMng5LVVqZGJuWnlaaDhDbnU0T0ZwRy1GY3k4RWJkLXhSYnctYUFVX1ptUVFkSndxQko2WG52b1NsTk5Ld0hHdVJvSEU0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:08:53Z",
-    "hash": "f478d7bd17d16074e804439eeb486fab8904418fa87a86ad1807958a743170e6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "How the $19 billion crypto crash broke the 2025 bitcoin (BTC) narrative - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjZ3ZVQzOXpFbzJBRml1a09icVFPaVdUd19Cc3diMmFjZTJRZjIyVkgzam1UWlM0NFZPVjNPay1Ka0NmVUVwVVpiTWNuVXJUV1Z2YUYtNzN0QTRsMjVsUGhYRXZUZHZ3emVXQjFLcE1TUWZWVTRDZHRyLW5FckxQOWtvSFJPdFMxNGFKMUswVGp2dnZiblpfeEhOY2xTV1B2eXRRZFlfa1ZkWC04?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:02:13Z",
-    "hash": "afe1613768c0bf318bf968a02dd78e1512220e06b0f08e311c9ca3701bfa3759",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "How the $19 billion crypto crash broke the 2025 bitcoin (BTC) narrative - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjZ3ZVQzOXpFbzJBRml1a09icVFPaVdUd19Cc3diMmFjZTJRZjIyVkgzam1UWlM0NFZPVjNPay1Ka0NmVUVwVVpiTWNuVXJUV1Z2YUYtNzN0QTRsMjVsUGhYRXZUZHZ3emVXQjFLcE1TUWZWVTRDZHRyLW5FckxQOWtvSFJPdFMxNGFKMUswVGp2dnZiblpfeEhOY2xTV1B2eXRRZFlfa1ZkWC04?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:02:13Z",
-    "hash": "afe1613768c0bf318bf968a02dd78e1512220e06b0f08e311c9ca3701bfa3759",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bo Hines – ‘Anyone bearish on Bitcoin heading into 2026 is foolish’ - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM050T0dJMXhhbVQ4U2trYW5fNk80ZDV2MjZSZFJhTkVRazAyaUpxU3lVaTBkb3JfOTI1b08ydWg5b2RfR1RBWlYtSWl3Q2RJeThYWFZEcUZCbWlaWnFJTDlrS1J5cHk4V0V6ZWd1b0N2dGdrYndNTGxtdFFWWlRxQkw1cE5SUi1pSTNLdTNPRdIBlAFBVV95cUxNRXBLMkpweVEwd0o0cXN4UElxWkxtRG1ON2VJUV96T2pqUVBiaTRlMkFtMFlCZXBmUTdGclBWbEVCcFVxSFc4LWVvVUs3S2kyM0w5NE1MODhXbmRieGx0dllheG4td25vXzVtX3NZdkVPeTVGcTdxX0o5NnFUVXNWRjVJVmZMUUZqM2dMeWhwZHVyXzZ5?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:02:03Z",
-    "hash": "3873066456f9526a58dae4d265fcc5066ff25d59901fd944a2b2bc5ffd4ba956",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price At $100 Is A liquidity Event Number, What This Means - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZG5Pa1dfN3IxUWVrLWpMMWlFQWVWWjBYZktQX19WUWp3NWVBWVo0YkRrNDFHcENyZnNvUlRyazVkajVmeDRwOFlrU1haWjd6OTJzbmpzSUxQSU9zX3BBQlNidlVfR2NFQnRPdjh4ZjUtV2hxQnZzNzVCeWh5c2xFMkhpaEhkOHB3aE5YRWpscDZlYzVUSU43YjNuMU4wenRIM1F6ZVlTMEZWZG5yUXM2elVsNkFXRTYwb2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T12:00:56Z",
-    "hash": "8a6364dcf0e9fd2d54f3c546e5cfc2850a93195b7020491aa33210dc3e4fcbe8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Analysts Offer Insights on Financial Companies: Robinhood (HOOD) and Bank of America (BAC) - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOY1VMZ0VueW5xWENkWUZZWHo3WXpEWm03aEFvWVhBVnlNV3FhdnVhTXJJRlJjUzQzcUJoZWlFQXJlcFZ0NTBqU2N2ampLUGpTSjdqY2xZQnhBcGRCbjl3NjhaYzZrOUVMRTdkOXhrdk1PcmdQajVzVUZxYkZ6TWJUOU9IdUVHTmpzd1VVYnEwa2sxRWE3Mk95cTBjVENNaEFvUUFEZE80TW5KNlJyZjhnQ1l1S0Q0UXVnaXN3Z1BYR1V3VEd5R25RbHVKa2QwYUhHdjJ5M3Z2by1HaDB5YU1QQThHZ3Q5RXoydkFwYXAwRVpscFR4VUlIZTJpSFZVRzA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:58:50Z",
-    "hash": "c4dfb148e5a75a6eb58ce3aef89742b8885dd3f36a1e5eef0ba38e46831328f2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Tether Starts 2026 With an $800M Bitcoin Buy, Quietly Joins Top Holders — Here's How Much They Hold - CCN.com",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXlvVXFDYTdTVUlYRTFKTHFYN3R5ZDNUVGZYLUo2SXhFU1FfM2I2QjQzMGJwZlBPM1FZZ1M4emlhNW0tckFTVHBTN19WZGlHdjc3c3d5VE5xeWo1ZmIycThFMms0NGJ6dEI3bklmeWRvSnp6cW51Z2RnT3U5WlF6TFYxbkdCRUxkT0RYckJucy1zbjg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:46:08Z",
-    "hash": "98e3d7a85e4c248a880af7bc6f658335b52ac5772aaaf8b6139e6384573d7175",
-    "source": "gnews"
-  },
-  {
     "asset": "BYD",
     "query": "BYD",
-    "title": "BYD Posts Record 2025 NEV Sales as Battery EVs and Exports Drive Growth - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDMzRVRRTjNVY1c0YUhVcHJLaWFxaGM2OUxBMGdIYWVic3dkYV9KNVZJVDZHM3VwWUFwZjNYRGxCTExhX2JBMmN3SnlSYXE0Z2NnbXFYRlBEQlJta0kxWXVhaER0Sk1MbzRuTVBXRzRJOGdPM1BqaXdEeEtBUjZkTVZ1OU9wQjV3QXZuUEdETGpRM3JFNXNaTl8zVFpKOEtESkFRMVVXOVVqVTBORTVELXNsQmJZeG5fNWVoekxJV24?oc=5",
+    "title": "China’s BYD surpasses Tesla as world’s top EV maker in 2025 - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtTGNHVGprVm9XYVZxOVY3SE5GNHVabXhSS3hrNkV0U1VlNmpQOVUyaEI0Y3RfZnY4Zk84T0g1YTRxMHJwbDJ5TFJLZXJTSEgtbFNQbkZJODA2N3pTNGQ4eEFoWWs3V1Ezdk5tVXJNcUMyMFdOTHFxcQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-01T11:40:48Z",
-    "hash": "0558e201ee4a4cecd9ae8142f73d4f7ffc8894056a9de136d2083ea492b266cf",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum stock today: QBTS on hold as New Year’s shutdown shifts focus to January catalysts - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUTFfTkdheUZ6NGdzRTdDdHdIaVVGQkxkTmNuTjdTdUVCRXFVU0g5TVFIVFVHbW1iazUyM3VBNFZpbjV4NzdPd3FGal90aGRXeGNUSnhsMDJzNlVSTTBZUUFwQXBFZnV3VEhlR2F5RlZ3aUV3MHNFRGdEajc2aVZDRXFGLUNtU1paMksxSl9teDJicVNyVmpwWkE5YVJ2d0ZGZzI5aTRXSkxZdXByMXk0NXJENktUUXM?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:38:43Z",
-    "hash": "23040c93995a9d08a601c72a657b11425dd7e033088317f04dbe0d99c265798c",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "China's BYD logs record EV sales in 2025 - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43UDIzQkxYRlJ2MDFPenV5UXlFTVNmaXNsQ0EtOTNlTGl4bUR3OW9zSTdsa0FRbl9MQTcyU3R3X2JPT1VybjNMX3pQRGtMOUdaS3FWdC1iWkQyQzVRTDNvcUtfeDJ6ZnEycXpVdXIyeDVoQ3ZBQ2phaHpJWWtnSDQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:38:27Z",
-    "hash": "a16b66669039f14cd9805b9bd17345ec95a33e182dfe67404dae14fc64daf73d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Buys Intel Corporation's (INTC) Shares Worth $5 Billion, Here's What You Need to Know - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDhEeDU3bTdmVDJuc1RQSTNlYU5JSXZHeG1saFdOZnBVU2NDelZxUVNiTzV5X3Y3aXhMaGM4d2xfZTRHb3VhNTMxMTZ5NzJad2NqbE1tV0l4bmhTVmZQUk80NHI3clZfRG1PRHloT25DOF8ya3JSUzRaMHo2dFR6eDRBTG1lYkNMV00yRGQ5Ym0wc2dtTG1nWHVKX2lyc2s2X0xaV2JKNHQ4RHFKenpfUXFDamtkVnZT?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:37:44Z",
-    "hash": "d3c9c70280234eb40c270950c3a9e2d36af6653c73013532bdceef4cb3aa3bab",
-    "source": "gnews"
-  },
-  {
-    "asset": "Sprott Physical Silver Trust",
-    "query": "PSLV",
-    "title": "Sprott Physical Silver Trust (PSLV) slides 6% as silver tumbles — what investors watch next - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUZVbmYyWVVIUWV4dDloWGFxUDNtN2hNZHB2RHVsYk1zeGQ3cWZvSzFhTUdab0stX1ZEZTZaZFlHZUdSeWl3OWpCUEQzRzY3TTc3OHpMLWo5WWN2NlpVSzdZdjV3UGs5bmdraFRUUkhTdndMSUFrRGZGY3ZUcW54ZVduaEZtZmFXall5V2Itd2dZTm1pcWJaZXRvSDJmVWhzczl0WDRKWHBZeEk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:36:50Z",
-    "hash": "dd415edf36ffeac841e79bfdf107d9cbf065c62af57ae23d575542b882b41ce8",
+    "published_at_utc": "2026-01-01T13:23:00Z",
+    "hash": "d0c14cfbcb7908e10402cd148b8a318a6bf3e4481be5cbf649b1979c5106c8cf",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Investors Chill on XRP: REX-Osprey Fund Sees Holiday-Eve Outflows - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG9CcjRaRTE2VlZnSDR1ekdQeVNzSUFqNFAwYUIzaWotMG84eUxaX0UyTGNZSVBSQmI4dEhRY2hDYjN2MXVfcjZqVklXM1NuTFN6OTlReE5nSmFJYVlDTU9TQU1GeW9KSG80VjNiWU5pckdWMWZrS3liMndiSkZpX09PWU1rTGxscGlwaUF0TTd0d3M3RkJaZG5LMkpCR3hYS0xOcHNETTlObHU4UDBoQw?oc=5",
+    "title": "XRP on exchanges hits 8 year low, but historical data exposes a brutal flaw in the popular \"moon\" narrative - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXYzdEs4RjNZbGdzeXowUnM2VC1fZmdrbVp3YjJpa05MVmNRQ2JFeEE1ZTVHTkJJb0s0RHE1Wnh4V3NDZ3FneGluNV9JQ1pOdFY2Y3NiNkRwdXBCaThLa3VGVG1BQVYyVmVFREx0a2w4eVpFVjNlS1dUVkVSOEtxMWI4Qm5FM1UzcEpJaERwRjJQNjgtWDFIVThLOUVFd3JrbUVON0o4Ml9SVnRZVDMtMHRDOGZJMDVZcHpQVk4wNWN4dXc5YTIxRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-01T11:35:42Z",
-    "hash": "f18ede901ae3c23d81f157149f14b7ca0f772d3aae6676eb5105f4b4f0a1e07e",
+    "published_at_utc": "2026-01-01T13:05:00Z",
+    "hash": "56c3fe2e9a549755e45337714460d2f337a7e389d188b4fd894fe7216c9778c7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Could Surge 10% in Early January as Historical New Year Pattern Repeats - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTRxcEo2WDE0VVlMNDRibS10UlhiZmJqdUFRdEZldFFzRWZaaC1fUWk5WWp2UGRSc0VVcU1GbkI0aFpSVWVud0lKQnd1cldWdlR0R1RkVXR0VkNrMEE3c2YyQXI0bWdRUHkySndKeE5acEhOR3JBSmp2b19SSHE4Z2gwX3R5LV8weU9FR09jRm5CRDM5dnlCcGtlWEs3aW5paXN5LTg4MTdyT2c1?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-01T13:02:00Z",
+    "hash": "6a82cde6e7de1d8a36c7a69c019fe8e18c73536d28421ce60c8d8304c429dc76",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Investors Test the Ripple Effect as Bitwise XRP ETF Draws a Year-End Wave of Inflows - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSnNVZ0tBbWNQMU5DNDZPaG9QbmJVaDFMWm0wamRMVDFOazBrazFaZTBCVnhqa1F2V2cwZnVKSFhBclV2MlBtUm9yS0dWZ0ttYWRBcGNJTDhJZDEyLTF0OTlvNU4yNXZodVg2dVU0eFR5dnJzM19KcWZQR1hNN2FTemVBMTBteTlyNFBxdXJvREsxVzZJclptUHNnQVFKQXBXUExydkRRbGlzc3YybkdkTTRQQy1uQ3k0S2Fuc04yVFhfUi16b2JyMll1VQ?oc=5",
+    "title": "Trump's surprising move will drive XRP to a record high overnight - KITCO",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0FlcG1yNEFHUEJPb1E3cEI2UU80Rlg3WFpCWTJiQzJ3U1A5UHdzZVhTMFhsNW9oZW9Pb3R4UXIwRFdScXNhLUFWTnZFNklGc3dlSmc3WmVfbFYybTg3NkRQOGtjNFAxYVNReVZ2N21lM2Vfd2FrOElOT084X3Q3M0plN3dYR0FYT0g3Y0dtckNzQk9vWEVXQWNMOWhPc2Y4WF9oRkkzdEJCRkw2ZFEyamp0Y09zaUZlYmc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-01T11:35:41Z",
-    "hash": "5cb1dd559ebfca910ff197f0f58b813bd19a8ae7f4fe60899de3ae2fd76dc614",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Investors Step Into Grayscale’s XRP Trust Even as Token Extends Three-Month Slide - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMVdsZGdXYWxLeFpXX1BmZTNTVTBfcEZHYXdRcHN6SHE3WWFKZkpqNVhQakZaMlBDbWtmV19ob0hCSldCalN2SUxPV3V1RURDdWFxdDQ0ZnBjVk1vUms2Q1o3QUVXQnk4V3dhWEMxWWRHWmdHMWhjRk1BTzZuWVdTUG1BUHdPbDJYbllseGVYRGxJb1lwOGg0ZlAxOUZHVXFEUFVFYk92Y2FncFBoX0VOdlotdzNXVHl0dnM2dGlXMktUbW80c2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:35:41Z",
-    "hash": "7ef3b5013f7433be8785a82b06a6d4e484ccdbe2b1dd0a7f2dca357da0ab5719",
+    "published_at_utc": "2026-01-01T13:01:39Z",
+    "hash": "ead08835dc1d345857bffae1e3c1fd3badf604328f93ec89fab8b63f5a41d278",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Slumps, But Investors Keep Staking: Bitwise BSOL ETF Pulls in Fresh Year-End Cash - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMHU5TjgxN1BHQzlFQXV5U2RORXRBYm9Dcm1Sb0N5cVJJTkR4OThGclhFZ3F5YlZrRkRwLW1NdXc0YXU2X05GcDlGM1puWlRuUmpDNnJFQUE4YmZDX1JiZHV5aFhTTktDelRtaTJDeTRBdV80al9WTS1mS3ZiZ0RNMTNSSXhXM2VxSlMxbFYwQjRXQ0plV2FaVjVVSzRsWFZxOVRPY01JekJ4eXlWM3hhR0RjWEJRMDZmbnB4THo2RnBtejl1RFp4azJaUFZBQQ?oc=5",
+    "title": "Can Solana shed its memecoin image in 2026? - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWdlUUFiWEhEY3FWMXRJVFc5TGt3OGw5UmtSQmg1Ukc1OUJGT2tLY3lDVV9ZZ292MjdFNmJZV3pNRl9Bb2VSMVVQcjFkNmF0aFIwNUpmQjNadXc5V3k5NkhNa0VnUXdISXlnVlE1eURPcmFzRHdnOC05VFJUVEhhZkk3bWpVV2JFM3FqWHNEdUpfNll4dW1odEFTSTFJa0ZDdVNNeGM0US1vdw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-01T11:35:41Z",
-    "hash": "5682c8ddd2a16867505373451c35205267babbfcb5d5d073332a686b9bb0f3bd",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "UnitedHealth Group Incorporated $UNH Holdings Trimmed by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU0VycWdhcXk4ZEV3TG9XWnI3S1I0VTJkRmlYLTNNWV9rMmdlYVN0VnFYUi1peUlXWHlrZTFLSkdoVkMxdEtvSjlZUXlsODF1TkxBTW1LaVdWRVBPT2JSSE5ndjdOeEo4N013OGxuMXRXQmN3UGhWeXlnZUFtcFlJNGFmeEJ0eVBNcnFWU0RDdnRWMUxsUnNFemNRV1A1RW1HVm9nMXY2R1hWLTZGTS1RR08tLXcyd3RzYU5rTHd1V21QMzh5bS0tWnVUMUNiVGlOUHh4am9mZXBhR2U1ZExKX2FxRzg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:34:36Z",
-    "hash": "dfff201c710aa2c81755dc529d1fddbec1718248a1c15554b73b8975b3163f05",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Shares Face Headwinds as New Year Dawns - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGVzXzJNWGljS29LTEVlbWhPOXdjaC1hTWJfTTR2cTZqalRGR1dWSDluTW05NXhCS0hnRVNyeGlDMDBPWHA1aEZXdGhFTl9SUjlqUjRGZ1RnRHhuX0dHS2NISXJmU0R0LWl6WEdIa3V0TnRCc21fWHNTZlNKN3lMRGtxeXkzQTJDV211OWhqMkxKNTNpbjFha2dLS1FvRmN6MGlLdjc4Q25tVlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:34:05Z",
-    "hash": "fbfe9194ea1890755e9ff36056e9036380c7c3cae5662a452c5d5b1237684b6b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Is Coinbase Global (COIN) One of the Best NASDAQ Stocks to Buy in 2026? - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3FtNW1yV1RaTWdRZHZUVndGZ3cxblotbWJKd19USGRBWU1jY2dGZWVUZ19ubVFjeGRDY0ZJRXBFZUNYdDJjZHhKY05XT3pZOC13ZHZPanpqQlMtNWQ2SXZJc0FhN0JlOGJQNXJobGJNNUJNM3VjRWZoQndpc3pDMDBGY0Z3VGctYVhFVjNDS1VRcVlCb3dZYjdaVUJadHRR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:33:44Z",
-    "hash": "ce890db3407bf7fd4c86afb4639d62b9ab163f49cfe2ad7a5a7a7d91fc892706",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Shares Approach a Critical Juncture - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTFlS01QNHg4OXA1ZEZtdXA1MG8xb191N0ZRSl9wVVdINnkwQkMySnpoX1Zxd1lDRGdpN1ROZTh5ZlV0LWJWWWwyTnQzSVF3WjBwOXQ5bHAyXzJSQTk3U1Vubk51Q0tNaTR3ejV3OEkzZ2Vva2I4Y3VRandCeEhNU3dUU1dadGZPZjNMQ1NLaHU4M04teTF5RER5b0lCNUR1VlFwWmhRZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-01T11:31:04Z",
-    "hash": "a6c891d2d6d4fefdf4b91f9f5f5d1f3979a49e69b01f8ceaa0af363063f1715d",
+    "published_at_utc": "2026-01-01T13:00:00Z",
+    "hash": "7127e632f2f1968ed10d52331c4c234332de1fb27056289ddd5feb7f1044fb4e",
     "source": "gnews"
   }
 ]
