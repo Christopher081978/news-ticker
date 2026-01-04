@@ -1,42 +1,112 @@
 [
   {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "“Orange or Green?” Saylor’s Bitcoin Tracker Sparks New BTC Accumulation Speculation - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckVYUjBTWTBkdHQxaXhTYXo5TTdpZENTLWNDdXNJeUxrS3QwSGpzVXdvLUk0OENYM2N1ZzdsLXRBVUtvSkxoNmlxcC1xMUlUc0Q4bnByb3p2ZmI4VHlQVzYtRExtWGxPQkpNb2RFNWhydFFfZm01eUIyc0I3WU5MQ1NvSi0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T18:28:37Z",
+    "hash": "8ff2d901d25397ad477ddccd7ed8b88eb2bf458fb616fb10f8649af7729bb4e1",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Tesla stock faces a Monday test after delivery miss hands EV crown to BYD - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1VFZ0dyRjYwaU90WXNneXk5SkxJbGRXTlVzTUE3aFZPVHlSMkxiX0ZhMW1QV3ZiQmozdnpUeWJwN25CbEVqYWNneDBORVNZU3plY0N4M2FoQ1hnR1RBemMxanMtcXE3UDY1ZFFad1cyZl96TURDTno4S05HMVlXa0RnbmFfeGNnQnFISVdIUlF5VE9OU29YYllB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T18:27:52Z",
+    "hash": "8d55f41b454a399fbcf7619795f739240d4eb25f7f76452a15ca7d9321b1a4c9",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "4 Reasons to Buy Nvidia Stock Like There's No Tomorrow - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU2FpWDR4ZUR5cG5YU1N1bFRHdjc4ZktZdE9OWllTNXRobURhOFNuSzVrOWk1V2tZUVJSYVB2akZYanJ0d3ZZbjN6RXpfYnl0WHg4cWptbUNpWU90azlNTk84M1VmM01JX0x1cml0OVVLVVZDOGlsVVczZVVLTnVLZTNYYmcyVUZ6VDNGQVBsdlM2UjJDWGlFY29UMGxNMU1ueXlzcDdDQkRzVEF2WXBuZ2ZQYVRhSHNqU19sNkVYbWU4RVNZY0N0V2J5WEdFQlF0TEEtLWNWZ0M?oc=5",
+    "title": "Nvidia stock starts 2026 higher — CES keynote and jobs report set next test for AI shares - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXVSU0ttS0VtYkZBNGVnMUlOVjB6M3dTY0t1alZXcUo3ZEFkS19VOFh1X2xmZFpmemN3S04yUE5zekI2ZXpRaVliRWdDRzd3d3EtaUNNcmFyNzZWQXlmTUpONmxFdGc5NV9sMWRlVkVKSzVyeVBGOUhhc2ZyUnRFY2xadmVobHlBY0M3eks1NVNZUEZ0RnFmN0EwUVBobDBxbnRvb2VvaTdfTktQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-04T17:05:55Z",
-    "hash": "2c3d03a77d9d76b7f0fe408df3daf86d217bfb2ce9620903b98f88d59f7ddad1",
+    "published_at_utc": "2026-01-04T18:16:45Z",
+    "hash": "0652187909ab3adbe4fe7b84223445551a2f28cc6fe47752e9ab776e96697804",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Wall Street Brunch: Chip Names Set To Dominate CES (undefined:NVDA) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3ZocVlSckJ3LURmenhER2VyWVE1MUVPWFFJRzk2WEYxTFR0OUtOUUFPangwRGh2LThYcGExX3lhMnEwUEplZ3pjclg1aEdvT1laZ1pEVlJCYU0yd3VnbldfRnFiWW91TXJZcTVaU2FsQ3lRT2x0UU1TRlhSMW1oNDN1ekhyMURfaXZOYjJILXl2MUk3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T18:12:54Z",
+    "hash": "1e009aabd1132ddc40b93a6d04ac555d0cb03c271e9f4028813909bfaeadc132",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Stellar Price, XRP News, Most Popular Cryptocurrency - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQanpEOFAtUjFUT3kzcV82N3B6NGtIaVFFTm5NUDlEZWlWQlhrVmRjTXQ2SWFlYUNQUF9WdGQ1el9pSHQyYTNpcUl5YXhiX2IxQTdBakpqcmRPc21TVlBLa1VQSjV5YWhCMi1kWnhjOEVhUTJfVjRvLWRuQ1BqcWFhUUZKUHFLUHFKeGhhZGtOM2V4NURXa0Y5QnRwR1Y2bzNhWVljR3lYQkpLeDBXb1R4M3BYXzk0Y2wzLTF4UmJNb2dZMXBJR1ZscC1BSjg0UzlRWmhVMll2d3Rvdw?oc=5",
+    "title": "XRP price today: XRP holds above $2 as SEC exit and crypto-policy calendar come into focus - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWJLYndIZkFIZVEyckJiQTdLRUVwbUNwRmw1SUFEY1YyY1lLTHFUQXMwVjBCZGpkTFZXUjBMVjNhX0VXUVQyVkdETXZiaTRqZHFuRlJmYmJsMHJ6REs1QmNEUzlWSERMcGQ2RHZrRklFRXp1WUdGWXlSeVdMNm9sdklGVGtvVkxzQWR6dmlORWZQY3MwY2ZEaGE5aVE4Rm91T2ZWTEtHM2J2cVNPYXc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-04T17:04:06Z",
-    "hash": "db16365aa6c12c2eb1efa71c60d9f50b5b4680ce7a4cfeaa20923e2436075a3e",
+    "published_at_utc": "2026-01-04T18:12:44Z",
+    "hash": "b07e9e7bdd00ec5eeda109d3fa326769744ebb02482efca4d1bc52e3c8d54ed9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Bitcoin price back above $91,000 as ETF inflows put Coinbase, Strategy stocks in focus - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjZGU1BNQ0pRWVQ4N3UyYUVIajBSQlgyTHdTN2t3YnE5MHoyNkljc2xqTmM1SXZkNVB3cVpPWDBPT3V2ZzFpR043M01EUmR5Q0hkcUtPZzdLczlYMWZtR3BCRkZHNXFKOFVxTnVjUmJWQU9WVkh3SHNFQjdpWEVKUFZIb18xUVd3U3g4TzZNMUR0LVk4U1Z4YXBBdUxtb09NN3ZwR0ZGRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T18:07:50Z",
+    "hash": "f6da6bd1a487a1075ab415eaa565461e716de9db0710cfcb46a3f09213b860d3",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Top Cryptos to Watch as Trump Announces $2,000 Tariff Dividends: How Solana, Ethereum, Little Pepe (LILPEPE) Will Benefit - Analytics Insight",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQMk51OFMyLXNUWDhzLWRvMVY5cWZPSzRzT1NTeTNPNnRvdnR3VjJfWDhDT2tTdVY4aThBQ19aMmNlYkh0Nzgza0kyT2tiVFZSdHZVVXNzUjRPcXB3TWtOUWltYlNKUWxBek44VG1WRFVuMnNtdHpLZWowYU5nSjNzb0d1eGJoajVORm40V2kwU3ZBMzlzS1JvZFFHOWRSd2h0aFdGeWl2bEt1a3JxbnRYUUtEWkpxMVRkWUd5QmdUVXFadENhaDVnS2laSTlaejhhYUxuMS1waThYSjA2cG9lOFl0NHppQzBEaHdHMlpSNDZ3WU5NMmxuZTZhRlg2Y0xYOXplRnNMbjRqdHFE0gGaAkFVX3lxTFB6SDFUaFQxRHhxRUIzVUtKUjZDUWNrVHVwMGdDZWU4VlJLZnFVcmJYalJqUjlZa0NOQ2RSWlNHZGxPa01hZVB3d2lZT2VpX1doT1NrYzFDTjlIaUstNlF4bUttZ3ZVUXJCYTdnV2lBMFh1dzA2bFcwY3hjOWNPZDVSWDVMZXBLbEE2dk10RHdsNnJtanBYWEhSRUtPX09uLUIxdG1RMlFrWDlxREtkSF9jamZtamh3SFdHRUhyZkxvblBzV2Z4MktMX1MwRUpuYkhPNmdNUnhGXzdCMEw1b3otQlZXZTN3TlhUczAtTklBUGNtN1Ywd0lqSVE0U0pIRkd1MjJCOGNESDZvU0RYRS0zZFhKSUJwX1JGZw?oc=5",
+    "title": "Solana Price Prediction: SOL Base Builds as Bulls Eye $150 Breakout - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkVtRFZTbnAwXzBmSFZneF9MbWZtcmhOcGM2MlVQRUZPenZTZE80X0oxMTNRb0FhV3BYT0VCQWk5djFuOVFid1NTVjU3enBIbUFPZW54WXNkMlNSTmxmSTJRRGZ1SUtSVGEteHBJZGY1QVNRT1BmUFBUX19pVGtGWjQ1eFByOXZUdmJRd0FoWHNLSklL?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-04T16:56:00Z",
-    "hash": "9e28642684ff2db02de0d3104654bf02357637360d49d8a60ccc6fdd60f21903",
+    "published_at_utc": "2026-01-04T18:01:19Z",
+    "hash": "33d5e4456109205273432b2806cee8f57dbb9e294be9c12189cba0aeede489e3",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Crypto Market Cap Crosses $3 Trillion As Bitcoin Reclaims $91,000 Level - Yellow.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzhCRnhxZkpCdDlBUDZIVFc2SUE2b2FCMjFwTTdjWmxnUnNQaE42UTJhRHdGWWtYTURlUFRkQTd3WTlOSjFyV2YyYzVWdVNCMVZpcksybUhIc3FHQlBZbW83ZVBjOWZ0M01VRWNUd0J0OEFDTmZCc3lNQmRTeEM5M3dZUzVrOHZsMUNfcS0yLVdTaWJMV21KZmx1bGpsdGxfX0tnUGJxbw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Gains Momentum as Institutional Interest and Technical Upgrades Converge - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOW5MdHZtakRrZG9LYnZLNnYwa2U4OFduUmlxWWRHREVMYVc5ZUFWQVJnZFV0VGQ3d2Vnb1Q4VHdneEkxWUtGX2cxNnNvY2E5Vl80ZXJaUHlGMGJhazhOdUlQRzk2M0cyWi10cEdCTDA5THE2ZUhyRDc0MGVQMjBoUklpdmk2bXp5RzI4YURfd0s1Q2ZZMUZKblFaZGY2akhEekxGWTZQbkN3a1c4aEhEaVBQc29nS2Y0ekc5QU9KYmRZWDNFM3VFUw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-04T16:40:06Z",
-    "hash": "e81388b13f25421878a06e1e9e614512728160c015ec9c452771953110094d3b",
+    "published_at_utc": "2026-01-04T18:01:10Z",
+    "hash": "d5d6c708ada27820699b31d8f97cc5384c8a954562fb19871f7e73b0454c2a4a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "VIDEO: Analysis of Bitcoin, Ethereum, XRP, Solana, and More! - Sanbase",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObE95dExmZHZHclFvVTRLa0QxVDV1ODd1aXpzcmhrNFV0QzViQ0NTYnduOGZXSHNmYk5OTEtLSGxMMUxjd2FJNEhVYlRaSkNyeXE1Zm5YVEVaeW1YWnRraG02dlJFNnB6U3IzQ1JFdThvNXQxLUM3Wm9iMkhGM0ZvYnVmT2lXa1lxUWxKdFpWUFpQVHRvY2xSMjN2OW9hYlUta3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T17:51:19Z",
+    "hash": "c861298de9addc7c6497aea7159eb238a4d877c583c75385a115bdde4c66519c",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike stock drops 3% to start 2026 — here’s what Wall Street watches next - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSzhFT0tFOGM5c3c2NHluRXRYaG5RbjJlTDJWMkRweHQ3LTgxQTZIbThvS3p4ckpSbzZDeWpQbE1SUzIxY0JGVmNRaE8zX3ktUTJBdERzUTZfemlWNTJNdzFlSlQ5dW9fellwX19xTWR6XzFrUjBNMEFMZFhiZy1EVks2LXg0WUpCUGF0cHNBazJVQjBmMDhRRXFpbEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T17:47:50Z",
+    "hash": "7930d664dc37e3ea666afb26c232fb88027aff0ff888f9fc25a6c566d72e4f01",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Ventures Reveals 2026 Crypto Predictions: RWAs, Perps, AI & Credit - 99Bitcoins",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LRkdBMmp5V1pWOTVnSTBCdnhhckJNLWlwWjNLVmxXdHMzc19rYXp0Nmc2UUVBX0RMS1pDQnEzMjN4ZEd2V1huejRSOUxPazUwbDR2Zi1uSGtqY05GU3kzeXZpS3VRUDRNcFNiSXVKZGdaQ3N3SVpwMFhmVXY?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T17:30:40Z",
+    "hash": "ad5c62107c1843a613ae28afac327fa0621d60390bc50646a7574e4c54869777",
     "source": "gnews"
   }
 ]
