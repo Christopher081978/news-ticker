@@ -1,82 +1,72 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "MSFT Stock Today: January 03 – Thiel Rotates From NVDA, TSLA to Microsoft - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXpYN0RveGZHd1hZN3htX3FYQlBWaXVBRFJtcG91cUZPZVJmU2ZQWW1KZVJLRUR2WExSeTRyRUVFR01aU1c3OXphMm9xb0hmYW5oYUhTdUdxQ2dObDFtWEMtNWVyRVZhNEh2bUxuRGlSTS12TWd5QXdnR2E2VHVWZzhWRHVONWNNdERsWVJoQXF0bzJQSVRkV05iY1BkZWs?oc=5",
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "What drives QBTS stock price - Retail Investor Activity & Free Unmatched Market Performance - earlytimes.in",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSnJxNTdrVG13RUtkZkFqbzBZYVQyUGZVOHVEWUIyMy12UmdUN3FDX0tTUVZ4cmx4MFBhdGF3YlZWekJWdHhKTXBXS2NWVTRXTzdpUk4tSDBEdFRFcFoyUzVFNmU5VDRFZmthM19EQWx4aUhMV0RCY0MtaWo5WUppcG5YdkJ3R21SVmdKOEJVcERaZDluRE1HLWc1QmpHWWFfZnRLakJnaU1Xb2lLX0Ftc0lTd2R5dlA1LTNz?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-04T01:57:08Z",
-    "hash": "22cb1c251dc6b7a852a003f7a2d043b4f2d89c1423f452eef2b620c5ca7f8873",
+    "published_at_utc": "2026-01-04T03:07:23Z",
+    "hash": "0ed94f0139dec6edc731a51a65952deda70159354af034e9e6dc2bf73bcb2ad9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Shares Signal Potential Rebound After Steep Decline - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbmFjbktNejVaVVJRVS1xZElUTWdmMWExXzd6U1c2dWktOTBsZ2ZvX2taaVlVUU8ycGlrSzhpOUpoY0lGYnpXYzhmVXlObUV0ZGV5X0VsTHJ1ck5mWmhnamZaMnJYQ2VUTWdTUDRSQWxwSC1DQmpDcnhudGd6ZHVVa1pyMlFNNHVrUmZFdkdnV0kweEdfenZDX0lob2tGR0hkdl8wMXB2dlpKWFFtV3NkWXpzdTdlODZ0VlNvdWQzWDU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T03:04:05Z",
+    "hash": "7d44f528182d95af7e04ab9c8c9123cc8034a0022d75ff351c0ef91f01aa18ae",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Withdraws 20,000 $ETH from Cumberland, FalconX, Coinbase, and Galaxy Digital - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeW56SG1pcHN3dmdyYkMtMW1LMjh6MkZRalpYclAxSGpwNTJzTUc3ZWFlTXNOSVlSTFA2UkpZWUdWQTNoSHpCeGVHdm1hNVRUdVBmWmpTemdOSXRMWjZjcC1ZNFN6UDNmQncyQlZaLUxlM1V6NDF1aTQwdEFVQndjMVVfRHlYblJmanU1Q3JYQkhZdXh5NWphQ0l0N1NEQlhIUDJDUUJoMXZ3OFFGWXM3eEJn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T03:02:40Z",
+    "hash": "b40197ed401d84798d4f28e4acf653248428a25c475bc32d5f8a0c97f7167081",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever plc Stock: Defensive Giant Balances Cost Pressures With Quiet Momentum - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUVoeGZacHRfNHlDQVBwSTc5d01UOVVKRFlzRFZSSGt4S1hhc0NyRzlUd01INlhRVE8tQVNYOEJlVkFBeFVnR3dPZ0lxSXpxU09ZT2VKQW1VTkFjRFdybEJ2OEFZM1hKRXQ0SUJfcW5yb0Yydl84dUZNbG1hXzhrcWFTSmloM1NPRW5vcDFGd0pqZ004YTYybnRZX0p6cnBoWWx2dk1rQ3pwN3lMbTJBZXJJaUcxWkc5MHR6SmZHenZSdG83cnEw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T03:01:00Z",
+    "hash": "11d70e6d6c86c8d87f2437dd367aa10fbcdcff458c253f41f863cbdc40397fde",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD’s Record Year: A Milestone Tempered by Domestic Headwinds - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTG82SXZRUV94ZjMtZHBmb3pySFZwazFfaUpzbjYzM09pcHJ4SUMzYkwwZ2hLWkhmZDk3cnAyOVF6Q2YtT2ZkZmhnUXdMbENkOUJDa1BmSlVfcmkwbUlwMFAtOTVmNXZZSWp5MGs1dkQ5X1Y2MnJEWGJzR2tZV00tTWxrM0I0R1JJMFlxVjBsNVhoTW9ROGdqV0ttTjRRNDBYY3ZZdWtPekZHR1F4djA3RG53QkZ4cTZoNDMw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-04T02:51:05Z",
+    "hash": "054d584e34b2beefed9b33a28fb2c9906f909a3379f5075946e0e5167082b05a",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Holders Reality Check Sends Shockwaves Through Traders - InteractiveCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVNnbzQ0ZUdvNXAyQ2RvZkNOREs2VVZsR0FGcU4zSlFEc09Yd3BIRVlObDdhU1dTdTRkR0Y2RXI2SFNUOUVDT1VESWZxZVNGR1o2eXdMS0U1YW4yT2w1bndzNnprMVhDbndCQVlmREdZSVp0M0JCVnF5LWtkeTNTSjIwMTNzNlp1cHM3cnk1amdUcFZ6T1RnclFwSG1hb091c2wzalZaQ0w0UQ?oc=5",
+    "title": "Regulatory Shifts and ETF Momentum Fuel XRP Optimism - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWktTFpBX0xiczFmZEZtQzFxWGtUaDYzeDlMdGxfbmVSRmZlRU9jakgxM25mNDJtUDZGSnVINmh6azUyZ29FSF9Ob1pxQ00zQzQ2SmhLLWdXcUpFLWV5VzVWa01Jam9FU2RVX0gxeFFBNDUtRDRyb0g0NGtydTJWcVpWY1JOQnI0c0pwVmhSamZ5ekhSbk5pRE5QamcyZTIzallPdkxTdkRqZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-04T01:51:09Z",
-    "hash": "589a37733410cbfda0d9daac4ba1533f91530223f5a356ad85b24ffb3b321b18",
+    "published_at_utc": "2026-01-04T02:44:04Z",
+    "hash": "12d14dea2fd85876d192359392310175e8c98480517038640b8a22b2c07dee0a",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Projects Strong 2026 as US Crypto Regulation and Institutional Adoption Accelerate - Blockonomi",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm5hcml3a0hCYWdOZHlQZFpVbWtXcmdhcUp4Mm9nYTk3bDk2aFlaQkROY21kdmhBaVVZQmJlWE5lTHFCUm5HYzNJTUg4S0tRWkM3eUx4bnV3NDY4SEhscTVjZnRIMVRUU1lJYmpfZWREdndtYWRMbnZBWVBWa0dKRUs2QWN4MW1pQjduWEVmNHEwTDVEeVl3QzB2Q0RabjNuMXhNMlVBc1M3WVZlX2xqUFRsR3hlZw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Blackrock Ends 2025 With 771K Bitcoin as CEO Larry Fink Eyes $700K BTC - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmtHUk5WX1RSMVRxODFCbWV3UUxsVkVuTWFRcEpORnFtcWo1blNDOWdmSFhicWVCeGRYbTJ0QkdYb25yVHZuajNIdDlmd1RDeWxOdEQ3WFc2THFTa1JTcmFHbjM5d014Y1Q5QkhraVFSd0xlcUxVTU1ReDZReWRTRGc5RUhUbjVQZDVfTzZMdklEaHF3c0l3S2Jtbw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-04T01:19:36Z",
-    "hash": "c4ef99eff6341166645593a7285db8849011a5f404ff7779f79e2854ab5b3152",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth Group: How America’s Most Powerful Health Platform Is Quietly Becoming a Tech Product - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjhOMlJ5bVljT3ZNVW9PNnNKcFBBeElDd0V4UV82b3J6SHFvTFZJUG80RzZVRmNfSUJUWlVDNW1jTWJYXzRGQ0kxTFBmWTNFOXJFd19ZN2VCaXNYZEt0MV9XV2tSLWJlSklranVOeU9sRDFSVFU1XzFRVDNUVThqcHg0ZGdNV2ZURHgzTmxUUU5rQ0x1My1KUWEwVlprNTAwdGt0bUpiZ2tyQ1VQMHh5czdOcnMtQ1l5eENoMGk5TmJGZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-04T01:18:31Z",
-    "hash": "ffedc372c95162322effb09d69ac87db3fe7dbc21eb778bebba7c762195f383b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Hut 8 stock jumps 12% as bitcoin rallies and Coinbase credit line returns to focus - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHVNNE5yaG5vZWY1OWo0X195b3dDa3gzS0N4cDZkb0NRSFNacGFOZmhSOE40UTVueTdxSVpDckR6aURlNGJRanRfQW5Yczljay12NjdFSkh1ZmVnYVRhNmQ2VkdzcVVqWThxT2RYV3hLSjAxS0NKWkM5U2ZpQ3JiX093ZUZLdXpNUGd2UWFENC1Pd1V3RWtxQ09jblpKdXdjb0hkMw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-04T00:47:45Z",
-    "hash": "62c49d8adba8b90b136142045ad16342266e817478839a16b2bd8c10b7060553",
-    "source": "gnews"
-  },
-  {
-    "asset": "Panasonic",
-    "query": "Panasonic Holdings",
-    "title": "Panasonic Holdings Corp: Quiet Consolidation Or The Calm Before A Turnaround? - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNm9PbnVHM0ZUREVFbjgxTXE1eU04Q19GVWZtck9QNnRETEJxMDQ2WmRwdDF4LTdMS3lEd2duOWdDLVFhSy1PWE5GZjcwZkZrSnBQcGRwcHYtQllBZTI3NHo5NGt2OUlKeW5XZjdRVEg5cXpTNC15Q3NtT3hEZFoxcXlYeTh1MUZEVDRZN1JzNkRsaFJZXzdlQi1MLTVXWmlkNV9JTmRyNllYU215SzJ3ZElJelBOV0dJR3BHQlh0cjU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-04T00:44:01Z",
-    "hash": "cce2fff2b1b6f65b9eb04b1645f957a8183b94bf927733d5f30ee68ae049fd2b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "'This is different,' says Joshua Buchalter about Nvidia stock - MSN",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZzhhdDgtay1fVlpXZHVCUHhZNy1ZYUdTTVhud2tYSV9HdXh6NHpLQmF6WUgxa0tMbWktSGZKbUd1dWo1RkJTc0xFU0FiWlNpLXNLRFQyLW12NmFNNHNsdWJkcDNDN1FXaDMxa19XZXpyaG0yR3ZBWDdFRElKbDJxSTgxbGIweHlmbUNITV85QmkxeDhlLW9MTy1QTW9ZckJjUDNsX3hxcEpYa3JCa2prZE9NVUpmeDBPWDZQMWU4Y2U0cUZiY3VKZkxiR0hnT1U?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-03T23:58:02Z",
-    "hash": "05b0a032eaf0852e70d79475dc3c4a72bf449602fc67e9fe260287ebf47a75c2",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth Group Stock Holds Its Line: What The Latest Move Really Signals - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTy15NVgxTDlPeldlekh2SW5EOHl5QXlCR3FEQ3ZKaVd4VHJKZE8wZEtXR0lrdEt2VnJjNGo2V2V1VXVBNXQ4N0drbUtoeWdqT001U1VyTG9VLUNvdEljeXI3ZU4wSENXbUNHTHpERENLX3RsOU5LZ05XX3hyUkF0YU9neDR2V0lfT0hkM0JRYTNkYjZLZ0VEQjlnVktybmlhWFlQaFRaclAyQ015R1BFczBlTnlqZ1ZWLU1Gc3pR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-03T23:37:21Z",
-    "hash": "86d1c890d0697dc8813d9ca1a99537e752e67e4b2ab9abf48198b4dcecf9ca08",
+    "published_at_utc": "2026-01-04T02:39:07Z",
+    "hash": "e811c49e213070a2c7ba92535da1504f3c23bc74608725f04786318806d7152c",
     "source": "gnews"
   }
 ]
