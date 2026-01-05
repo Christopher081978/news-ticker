@@ -1,272 +1,142 @@
 [
   {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Digitap ($TAP) vs $1.98 XRP: The Best Crypto For the 2026 Bull Run - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbnNJazBpUkVBT09wY1NOWlJtRE4tblJSeXFFZ2JsZ0pvM28wLTdOT09uS1Z5UWJzb1JUN0JNZ2w1OVRlR2hyUkY3MjJ3OEtJSU0xWFE5NklnMmZTOUxMVTlQWThnZ2RFSkx1TWczTWJsTFdWMlRfVXFma043RGMxenJrdmdweDJFQmtWV2lKMGc0MS1MSDN4X3VxSFJ2UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:14:57Z",
+    "hash": "3d17c90752d6899705495f2dc3cc6a01ca15024c2b1ec318606fdfda3742d550",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "Exclusive: yMedia founder says Google’s AI crackdown squeezes crypto media - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmF1OWI4M2l0UURpNnpEQVpiMXVyOWVpd2todTM4U2VrbHByUlQ0MjJZei14YnFvMXRqdy0zdUN6SWVDRnZMQmVPMlhnQlVMX1IxS3Z4c1lMd0g2cTJwLUxBdkRSaUR1Z1I4R1JmckxpcWY2WU9od3dieXAtWXVSb0p3RXNFNWw5M2Rla0ZGZGVRcUk1SldvU2prOGxqT1VJbHk0ODl6a0FVVXRGOTVQSDh0YXBOUGM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:12:48Z",
+    "hash": "3f2f5f4b1e945f5aa0a278a46cbdbda3de845571d5999814824b316c06b487cb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk launches once-daily Wegovy weight-loss pill in the US; cost ranges from $199-$299 a month - livemint.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcWdtejBvSzNZX0tWRE1xVG9OUkh6ZlFQTnBHU1R3aWFldUNmTzIzcFQwX0Jpd0hVY0ZRX3NBN2R3TXNEdTlQdTJ2bU5YR2QxMW10aUdUUlF1c0Fja1BfNGhrZ1QtTV9FcWRUb2s3YU1Hb0RBWmNGYk1ZTE40dEZLby1kWG1tWS13V2xVTWZHQmhLY29LZEIzSXZxY2dnVGZhUW5aeEJkcnJMUGVPZHZBTFNaVTdEWU5CNVRBOWFR0gHDAUFVX3lxTE0tWmhWX2N4WUJPdlJTbmQ2cGJOV201My03M3VRZDkxWWk5TzJraWhUNG1Pay1GM1ZGVmwzRVljWEtUVEZrSU9LaEpHd3F0Y1hTUFZ6Z245U3RLdXdfWDRhcjVtVENSRjJvQ3hRdVp6dmUzZzlXdm1TYkxqZ2xxUS1vQ3VXVWtzVWxKRHNQWjQ0YkNDRGN3YnRULVFvcE5KLXJ1cWNhVzBSYkl4OHJ3cUFDaC1YUTMxYWNZVTFEYjJuTDltYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:12:35Z",
+    "hash": "44683c952f949c5dfccb19618ea398b2d47d5ca5d89ed715b080515063a1cbf5",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP price today: Ripple-linked token jumps above $2.20 as crypto stocks rise, CoinShares flags inflow surge - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUNrTGhtdjA1N1pyWGs1dVdpSWdXRXhvMzVQd2Zlc0NFa2lDTlpMZlByaVlxWVBoSDJlNHR5ZEJ3OXhjeUw0T2c1NmRSMGR6cGg3OXBSd29scXROVXZrOG9zSkNlM3B4UDZjQkVKTXdHM2psa0VBZGFBUzJVVjJnU0dIeG02TUFTNU85Z3VLc0JuQTlLbTA4SW9sS0lpaENpYmI1ZVYtTkw1TVVBZ0lHVVBfbUZwa3luYU01eVRFY0o4Znc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:11:30Z",
+    "hash": "cf2f406302bdac8c0c33427ffbc887137e81a272a4ca5ca2b16c23839589f472",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk (NVO) Announces Leadership Change Amid Restructurin - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdTdTSmdqT3o4RXZXSXMtNFY1Z081YV9IUGduUmRsOGVxSkY1ZmxMMHRKRE1pRGkxVjlRYXRLWXFKUjZaMGgyWU9JZndaNVd2VnBMVHlnS1pTNW5yY0JlOE1oWEpVRDJyLUZwWXRVYVJRbzJoY01FdjJZdm9ZU01YTzNHa3QzZnNEbXZzQ2lHZWZJTzk3QUdsb1k4bUpHc2FsRmN5Mg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:11:01Z",
+    "hash": "569f61df1a0aac1bda9eae0d14273d76d4b991736505334507a9ae8d5263023b",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSM Shares Rise Amid Increased Options Activity and Earnings Spe - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3NaLU96QnpzTm4xRk03Q1FZSl95MDdRSnpXZGxsbFV4TExIb1lLOVBKcmZVakgtUkpEMlhidFFPcUI5Um1IQmZRRFJ6bHlITkNZM0JoeXBXa1JIbzVmSWp6Skx3UHhNWldHX0hYWF8zOTVPZGxKbnRfSk5ERlJEUVZVT3o3TGE1R2N6d2JkXy14ZjdSUXlMVVVjTWdiN2J6Q3QwQTNtUjNxTVh4NXVpcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:10:59Z",
+    "hash": "0fc5dccbcec152b1d28074dfb521f7f6b454175f02194a59a0f08de5d13e9bb1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Bitcoin price jumps near $94,000 as Coinbase stock surges on Goldman upgrade, Strategy buys more BTC - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0Y2RjN0cGJTalJremU4MnJlT0tma245N0dZMmU1dU9yV2lYblhKbjdoelZ1MmE1TlZtS0dhQ21UMFd5aGM0R2V3SklSeV9qc25CaENpY0VSWWR3anNYZzVzWW5lVmQ4Nk5aU1E2ZFNMc0JFM201RXhVb0Zsa0F5bm83ZTFCcTU2a1ctemJVbmtvd3JIS2NJMFBiLUxkNkx6Q3huUTdidlJJY1JPWUVLcFJ4dGZRRnM2cWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:05:17Z",
+    "hash": "4f844912a186273a199151ddb3d12823b430a1320f0a23e94b6f8b54472aba47",
+    "source": "gnews"
+  },
+  {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin price today hits four-week high: Why BTC USD surges past key level as US stocks and gold rally - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUzI5elFBNXI5Nm5KcVlIZTdLdFRFWWdhZ21uQU81OE01Y1V4aW9iQktlanhDV0lodWpEaXZrQm9KRWZHOXJMZVhtQTZIZkcyNXZnaGlTdlRnWlREV0UyVjByZUdFOXpSQkF4b1hhTWctOTNHWTRSdjh2VlZPamxBakc2VlpLcTlqdGxET09RbDY5THd3MTRkMkhZRFVQWFpKamJ1M3dHUmttenZKa2JQbGNicFZfWGdiYVRlRnJpS1Vpa1VEODZkQ1NjbGh2MGMtS1JYWngwYkNrWHhiWE5NeVV4SU5wam5YcUNOVnE4T1RQWU93U3ZfVFdtU1F5M1UwMXFkdEFSdVfSAY4CQVVfeXFMTk9KRkFCLXdwdnc5Nm1uOHBwcFpoOTg3anZ3RGRKN2NPMzZLR2hkbUpfNkF2enJ2U3Fnc0g2dnc2M3hDN0UzNmVMY3AzeXd0OUhwN1o3YU40Ul9tYnR0bnQ5SGtyT0hGaFpJMEpXODJMeGZhSmFyYnM1alJqZ21OSXRMQUkwX0I4ekc5Tk5POG5hWGt5cE95ei0yT0s2OHFublpkS1VEV3hCUnhYUTg1blVXbjZuUmk5MFo2OVRScmpzb2JXTUIzR01ubHNyY0tCcUN4RVlkcjV1UVFBY0lEUEdYT054aVM0WkxTazZpN1NGQm5GaUpNMHdXekY0YjJiVVZ2T1lZZVh5YW8taHhR?oc=5",
+    "title": "Bitcoin price jumps near $94,000 as Coinbase stock surges on Goldman upgrade, Strategy buys more BTC - ts2.tech",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX0Y2RjN0cGJTalJremU4MnJlT0tma245N0dZMmU1dU9yV2lYblhKbjdoelZ1MmE1TlZtS0dhQ21UMFd5aGM0R2V3SklSeV9qc25CaENpY0VSWWR3anNYZzVzWW5lVmQ4Nk5aU1E2ZFNMc0JFM201RXhVb0Zsa0F5bm83ZTFCcTU2a1ctemJVbmtvd3JIS2NJMFBiLUxkNkx6Q3huUTdidlJJY1JPWUVLcFJ4dGZRRnM2cWc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-05T18:37:31Z",
-    "hash": "a0d841d5f818b8e4ae1b331f563e2632ab8918dc6c731a2df6f18e519179680d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Wegovy pill: Where to find Novo Nordisk's new GLP-1 for weight loss—and how much it costs - Fast Company",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2ZmNGRGRWdrZlgyaE91ZVdDY2l1M251MVdsUFZzREhJWGhvSjU0Qjh1bU1mdkN1SDJsSHJaMlB5OTVEQ2JhWG9manU1eDh0YldUVlQ5bGpXbVc2T1IzNVhXbWVxZGRlUWgtTVloUWVuLU1jRlR5ZjV4WmhibDJzX1NvQ2E3UWVoUE9uVVN3ZWdnNnBiSDBRaUpTWERKOW1iTWRvOWpONmVhSlBXbUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:35:24Z",
-    "hash": "a0b41ee98202ce12749903044556eb8abae3783eabc94962b36fc69622e0e305",
+    "published_at_utc": "2026-01-05T19:05:17Z",
+    "hash": "4f844912a186273a199151ddb3d12823b430a1320f0a23e94b6f8b54472aba47",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "AI Stocks Are in Focus as Nvidia's Huang, AMD CEO Su Set to Speak at CES Event - Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQazhlTEplNHk0WHZwMWhJaGlSRC1ERDVpNlpoa052MHlBMlJieVJ1ZGs4M3JTbkkwMEF2MmhVbkp4a3RqSzlBR2RLMFRIYXpyb3RaQVp0eEtPOVpSdVlBWnVjTzFFQzl3V3FxbjBxLUpJZG1kalM5MEdrYXdFUUVVWmFjc3Q3Q0hNMm1mME04WnNSeGt1UXI0ZFNmd052MnRza05vN3ZHLWpERjRtQVdEbm0xVQ?oc=5",
+    "query": "NVDA",
+    "title": "Nvidia, Broadcom, AMD among BofA's top chip stocks to 'ride the wave' (NVDA:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb0tTTk9zdFhWbGZoZWR4ZXp0RWluSEFHQ3p6WTViRWdGMFZYRkZGUlRCZ0FLRXVjZ3dtTmJyeV9OeF9DbVJKaUFPTGMtR0JQV1VhQjd4N3lyUlczdEI5Y0RINzFTRU9XdmtHZ2lfdmlRN3U5T1dWLUVqVXJGSWZ4cDlCRkYyZWFtQkRaSEFEc2lFekY5TkFjd24yTFQ0U3pSQWxmVA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-05T18:34:51Z",
-    "hash": "88e57b0dfd6c98c28478eeef5f6d21639915e69a7f9f0f042a5ee0ac4bfca3c4",
+    "published_at_utc": "2026-01-05T19:04:52Z",
+    "hash": "0b3c7fd4ce0b9a692a5e30ce6caa1d65ec77a6eedfc79a0c1aebdf02528eafad",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Why is crypto up today? XRP rallies as Bitcoin stabilizes - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUt1Y3U1dUFmQ1AybENYazVwR2pxZldmcWo4NGxuTURhZzB6R2R2cDJLcEpsdHI3MTE5dlpqR3ZrTGh6b1RDb0xTN1NtOWl4TXpVYVFOVllxSG5JNVpVQmhxQXNUZzJjNTI2NFE2Mll6b3lDNWFKNUJFU2s0bnh2N0ttenFqd9IBiwFBVV95cUxNYXhob19WOGZfTGJRT1k3SVYtUWRjZHpfY1VqZzV3UnM2VHRTX01kTmY5VnpUVnltY2puUEtmTmhjWlFUSXZSUnZBRFYwTnpYdkNGeF80NHZZcEVqOFUxU1NLX0t0Sjd1MWlPTHQtcjB4TUhEZ2pEWFhJa1ZZU2EzWHlWX2lVQjhfejVr?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:02:28Z",
+    "hash": "47489d4c794795a41690ea5c5dd2a12e886e2865e460e46c8febf6a719def54f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple partners with Japan’s top banks to boost XRP Ledger adoption - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcXV0VmNueGZMZDlKczlLQmJCd1NDaGw3aFBJekdhZzhfZmRZS1ZRSnRySVItOE41TmcyUEYtTWxVZDFtMWtsUWh6cHl6Nnh1MVRDN1B1dUVTclRkTXhjSDRWNW1XUnFTT1FKSUFQWWQwLS1lNmtMQ1BvMjNVMzFSUzR3MEVteE91LXlnT0xrUmlyVFdxZTNvNkhudFdoNlhYMmtBOHZFQ1NIX0FFaDdyRkdRNHhvWERaSHZLMmFiUW42bW5rQXllcjdlQ195VFp2R1VlTGtUajNCYXFJNEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T19:02:06Z",
+    "hash": "3e7f8e1cc4c5818a54c15d08597d1733375a476683bc125a1f522849802eab9b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Goldman upgrades Coinbase stock to Buy, flags execution risks and growing competition - The Block",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYmpuVmgtcXdaenNuWUZETF9TTGRvMkNyenJYeFBIbi1zUnpUb3czdVkzOHhpOUk3YzlGYzdWSUFqWkJjSUlhTW9RM3M5MGNGejlscG9DUG1Xd25wOTNTVTlGdXNaYXgyeUpudlcwVnlHd3FXcUJrOGlaZWxNZTVya1F4R043eTR2c2pONXJhaVhCaXlmWUhIQzZtaFNSQm1hWHYzWFZVQXdoZnlXaHlvbHFRNmN3Q2JORmp0Z1RMMnlPbXpDZ29RZXU1MUUtYlFNVFotYWxzZTNkUmPSAa4BQVVfeXFMUEFYcTh2STE2emdxS053M1dlbmIzb1B6MEhOb1hWcDRNT3dLaXRvWWJfR2lvY1ZzdlpzQldPZXdEM2I0SDZ1eFpNeWZadzljRkRXUHhhajMyRWhnS0ZNc0lJM3FpaWJFMjZMbF9MVUVseTNhOXliWWgyYmF3eER5bzlsUmhzTU1hWEdxWEZ1UnpEdXRNSWUybWlJa2VvYVRNTU83Wi1qT05RMlhnNjRn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T18:57:34Z",
+    "hash": "9552971c906e1764b553dba529d7c9b78d6bfd8c62170da5b86b400b4222d4db",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy (OTCMKTS:SMNEY) Hits New 12-Month High - Time to Buy? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGJ2QkR3T3lFZmdYV1cyaHJUWDlSdDA1ZVhrd0lrSnU0M0wyRVMxZVBQMWFJdDFRbnYtRUxiSmFBZk52a21HYkE4UlBjT2tjZm13UDVhaS1BNTJfNkxBRm42SUNXWmxfNzZsMEotWVFGS29lN29sQmJVT3RFWUVGN3l6NWdqNlJXT29rSE1xTmZzQ3FFcEpyT0JfZUlWRmw2dG9KaDNZcXNCTEVkejhtUlcyUXFMZUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-05T18:49:59Z",
+    "hash": "4b5dc8da211b713a8f7b135188f71559021c99604e024c1cb60b51bca0160938",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin price today hits four-week high: Why BTC USD surges past key level as US stocks and gold rally - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOT0pGQUItd3B2dzk2bW44cHBwWmg5ODdqdndEZEo3Y08zNktHaGRtSl82QXZ6cnZTcWdzSDZ2dzYzeEM3RTM2ZUxjcDN5d3Q5SHA3WjdhTjRSX21idHRudDlIa3JPSEZoWkkwSlc4Mkx4ZmFKYXJiczVqUmpnbU5JdExBSTBfQjh6RzlOTk84bmFYa3lwT3l6LTJPSzY4cW5uWmRLVURXeEJSeFhRODVuVVduNm5SaTkwWjY5VFJyanNvYldNQjNHTW5sc3JjS0JxQ3hFWWRyNXVRUUFjSURQR1hPTnhpUzRaTFNrNmk3U0ZCbkZpSk0wd1d6RjRiMmJVVnZPWVllWHlhby1oeFHSAY4CQVVfeXFMTk9KRkFCLXdwdnc5Nm1uOHBwcFpoOTg3anZ3RGRKN2NPMzZLR2hkbUpfNkF2enJ2U3Fnc0g2dnc2M3hDN0UzNmVMY3AzeXd0OUhwN1o3YU40Ul9tYnR0bnQ5SGtyT0hGaFpJMEpXODJMeGZhSmFyYnM1alJqZ21OSXRMQUkwX0I4ekc5Tk5POG5hWGt5cE95ei0yT0s2OHFublpkS1VEV3hCUnhYUTg1blVXbjZuUmk5MFo2OVRScmpzb2JXTUIzR01ubHNyY0tCcUN4RVlkcjV1UVFBY0lEUEdYT054aVM0WkxTazZpN1NGQm5GaUpNMHdXekY0YjJiVVZ2T1lZZVh5YW8taHhR?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Strategy (MSTR) Stock: Surge as Saylor Expands Bitcoin Treasury to 673,783 BTC - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWZ4V0lKMWp5cGFGbWx3ei04WnJ3T3paaG4xalZQRFhReVhEbld3ei11MkVjNXI2eTgweWxQT3dzcEdOU3BFVTRHQUs2NjBnTXFiWGZEcFY2emcyLTQ3NnM1V291QktHckRrS09HZGR2ME5FbUdvdkYyS0pJbkZodi1GQndlSk03ZWhzWW0zMFdBWFdwUzItWXhabzRMVEVs?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-05T18:31:00Z",
-    "hash": "ddc638404066e7f4adbb2b2aa9cbacfcbc3e2839dd38cb02a263580c958c37b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Former B2C2 Sales Executive Joins Robinhood as Global Head of BD for Institutional Crypto - Finance Magnates",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRS1qbDM4OUVaV0hCMjRNZTFrcldQVXlIVjBJa0trWWVpcjU0ZVB3emItS1pVclJDbE9NdnR1a05FWXNvaHJVdVZOXzRvQ000UjhjaFQ0NlVESW5oSlhzLTdydnRFbmdSbDZqVW1vU1BWNFIweGtSMGFsQTJiWlRDTWpaMEdSWTdvc2d2YzhfTk52OHVabTBBUFY2OEFkX2lOV2hFM2VnTEFITEdXNkFyN0RHbUNWWEVOTS1NeXhxV0luR2Y3b1hBU2pPeXdrQdIB0wFBVV95cUxNeTc3SFJaeFN6T2V2ekZpQXBHNk4xWW04cGtUVTk1Y01wcHByUTc2d0VBVHFDWklyLS10d01meDVGZFZGVF8wbW00czBSMXFEYXRLWVJVTFk0UWIzdkFhMEJhaW1NbW93NHBTeTBhNEVqQ1VOVDUyby1MSTV5ODFMN2FmTGluWk1uQWRUWVkzQW1OWmR1VVhyejNJZTd4MGVfV3FacDB0MkpuRy1OOFlCd05RbEZWZnRkbEFkbUxPQ3JlMUl0QXpmUkpqbmlZWUJJWmFz?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:22:00Z",
-    "hash": "c7842ac574b43d607a4f8b3acb81ccb19ab1ffba95a11982c39cc81cbea4ac55",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Why Rocket Lab’s Sky-High Valuation Is a Big Risk in 2026 - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEoxQlQ5RHRUTVEtTzFVVUZjMWdJZklPX2I4NlFmZ3NUaXYxN2lxRTQyVlhwN2hVVlE1NV9yT1lCVXpCbHNQdGZLWTBuaDgtMzA2VGJmclhkcGZJeURjU0E4QXV5VmFZT2pzV1FDaS1CQThFX1RXZE1JNDcwWVdHU3dHVUtVR3psTFZmaEJUejhQcU9jczVxYnVaZHREbE5RZXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:21:35Z",
-    "hash": "7391a5e6651b6fd07d93ba7adbd2c7dfb295a0b713175f22042e42cccb52e687",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike stock rises as AWS, Nvidia-backed startup accelerator puts AI security in focus - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3BJYmJTT013ZnFoZUxPZUlEbHRFbTk4Y0o1VFEwYjEweFRUQTNiaUZodTVFeGNEMlZld09ncVFTYTY4a29lVjNXNjhCY0o0SlVIaFF4UzNiNERmZHhCOEVQdG5PcUdHTUlURGt5dEZBMjZKM2VabUZuc2djbkJZb2E5aGNQNzBaTmV6QVl1dW9CbEtYZDY2R3BCX0pHcWd0SEpCdHUxcS1GODl0LVhSYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:20:16Z",
-    "hash": "a0a9c8ab731080c11331b34777fc7dd5acb6c4f9300dfffe7f6b1fea25fa6abf",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "CrowdStrike stock rises as AWS, Nvidia-backed startup accelerator puts AI security in focus - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3BJYmJTT013ZnFoZUxPZUlEbHRFbTk4Y0o1VFEwYjEweFRUQTNiaUZodTVFeGNEMlZld09ncVFTYTY4a29lVjNXNjhCY0o0SlVIaFF4UzNiNERmZHhCOEVQdG5PcUdHTUlURGt5dEZBMjZKM2VabUZuc2djbkJZb2E5aGNQNzBaTmV6QVl1dW9CbEtYZDY2R3BCX0pHcWd0SEpCdHUxcS1GODl0LVhSYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:20:16Z",
-    "hash": "a0a9c8ab731080c11331b34777fc7dd5acb6c4f9300dfffe7f6b1fea25fa6abf",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "3 Bold Nvidia Predictions For 2026 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGgyMDd2Snh1UVFfaDdBZVJqTnQ5dEFkSUFoVFM0VFUzV095ajJUdC1ySjc0TmtmMktRS3FxXzBzalZKem0wNDdCUElUeWZ4VFJwR29odVF1MG01bmlyRlNFdjJSWHhDekxIYmR2eUdNWU9LSHFRQlB6bVhGYVhBNGNzbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:15:00Z",
-    "hash": "73bc30727fb2acd8dfcc7e712b1bcca39a1d9a2dbadc4e3e7ec30f310f39493a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP crosses $2.2 after surging 18% over the past week - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LZEJjUklPb0FkVDhpR2dBVWU4cXRXNXVhVzVXdUR2MXR3TzgxVUY0NlZWSk10VW5DR1FpemZVc0h6aW8zUzQzb0dVTEtWQ0FOZUQzR3ZXVmVMUjdZeDJQa1ZtMVFicEFBM3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:14:28Z",
-    "hash": "53b85718f06a685b6c5d0e774610ccaaf9c644f3c505dc73bd94834ece4675b4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Caterpillar stock rises as CAT tees up CES 2026 AI keynote, expands Nvidia tie-up - ts2.tech",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXJpVHY5S3J6OWdacVRKa3FqUkpibWJrRWN1NzBsYU5kbFFoemxqbElrZDhhWU5zUTlrWHJTdTNxOWREcHRreWxvcTB0QVdMXzJrVTV1eEw3ZEl3aFNMa1BjRkljYWxiWTMybFZnV0gxelZGQVZwNm85YkpjSkxRUmdHMzc0NFRsUEs1RTJKYTk3WTVZREJDZ1RMYjhUdjY3TW9r?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T18:05:15Z",
-    "hash": "a76fe608dab9efa7ee650918451b253f7c7e82bbe98ae49e004049b7ff738c9d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk U.S. public affairs head departs (NVO:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1RXODNDbEJNMHRyRDBwTk8wUUlKeU0xd3QzZDdqa0dFSFVSeC1sRHZ6SG5LbTBqR1ZXUU1tMl9Dbm5VS1dkMkhUc1gtZk1SNVNmRGc2UXZGRk9NRXpLNmdHMTZBaV9zYi1hTXk2QTMxRHZvVUZzcGpaVUdndkEzcFQ2WGQ5aC1t?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:54:37Z",
-    "hash": "801f21093c6cb92c5d9afce3e7b1788ad0e525a9cadda686fcea4583fb70a2fb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet acquires clean energy developer Intersect for $4.75B - ESG Dive",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWpHZ2lhNzBTOXkydEZkX1pTS3NqU3RRWWd4NnEzMm9pYTRNRldhQmNVNmtfX2hLNnRYTF83WHA0ODVwMjN2SENsb2dwNWlPNFhXOW9BVm82VElwWjNfRHd3WWM0WGhScnVuSjJZM1JCWFliZjhYYzRzRlZiNmc3QXFKTUZSSnhCa05QT05lblpoOUhPUGFKWEkzWFhMWC1CX0dhSGlBaklFd3hZT3pLbmlUbUg2clExU0ZNOWRTOGI?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:51:34Z",
-    "hash": "62c4bea8a1a5cb1cb892f671c74ec9a3b137c9cebf1d1c6c7b32eb7bfcedee81",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Famed Coinbase backer Fred Wilson predicts 2026 UX pivot for crypto - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOU9vb0dqeFkzeHoxaHM3ckJZMEJ0Rzg4WnZPb25YaVgtbDZwVkQtMlJSTU9LNXNONFF0THFLWk0wdDR1X0piMUNEODVoYjhLLVJJeVE0blhQTFFTdzhjUW1GYV9leW9RZjJGc0trYU1WMzhHeXJNZlZmSEZOd2tpVGZFQ0p0VmVsdDUyc25xaHZoa1pxZjg1YWdUeUNkN0hkM3h1cmZpQnh5STFsUlM5OQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:50:57Z",
-    "hash": "bf7c54fc8edf93fb1926cd66bbce463642683c76af2ccf6c688d0254d53e5719",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Grayscale declares first Ethereum staking payout for US-listed ETF - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0lVc2luVkNEMGlMRDJFbzUwYWd5THBpejI1bnhEOUU2NFNrT2hQSHlwTk0xcl9KQ0dyOXg4M2hDcE5FZlJ1N1dCUDdVOXRSN2FJc1pQMExJLXY2cHhTOTdGcTdYMTFucTI5YkFOdnRScGRFcDNYOEVXeEZUeHQxb0JYZDFId0I2UTBwbUpCaEVTQ2ZiTUJpOUxsOWhwVVB2aDV1NlBNZW1HQnh1MDc4dGdXNUNySzV0dVNaU3B5dkkyYmR5cTNjem93?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:46:28Z",
-    "hash": "eb65a1aad042526fe836ac02124fdb95c84db237023599e2ad001bdbccfa6074",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Why chip stocks are extending their gains ahead of Nvidia’s CES speech - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxONlBSaFFudUFCUTF6cUZqSEhmRDNtX05DaWxCdmNwRi03S0hXRm9ocXMwdmxlYnd3dTZ6MFZxWWRwQXNCQ3dHRjdNdjRKdkhPS21yN3piY1BNU2N2YVhDRUFnWU55VUU3S2phWnlGSFMwMDdldDNDcGhEbm9RX0VfaHNpc05UVWNEb1UyUXpRam9mT3R4WG5XTnBSR2JkYkdIMFJYaHkzMlZFNldNVlpINTBGRWVJVGowNlBXNnVJQ09IZWxaTUUwQWI0ODFEekM0VEdHZXlGNXZXdlJnR3UtaHBoTThhUHlpcVdObjNhc2h3YmotWlBTcjZwVW5FY2NfRVpPck5kM3kzM3lBSHBtRkc2ckpMRllLWHFXVDZuMERWQUtkTVBHakhaY1owMVhvOVpGWEVuaU9fd3BDV25vMG9PdVFIVmUwV0xndHF1YzM3aVlETDV2UGpaRWRSeVBKX3piSEFFNzZnblNhNndKbjJZeUxxOWRwcnZrTW42V2tqcy1Qb0JhRDFuaGtUUWE3U29Jck51aHZWNUo2Vko0c1JYaGREUEEtMUk5aVFLZmp4WUxfWWRR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:45:00Z",
-    "hash": "53111cdd8ca386d0f8eee09e0a74c09a6dbf587a2590540e8cc3f38de369032c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia CEO Huang to take stage at CES in Las Vegas as competition mounts - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVHhZek9UTWNrcno2ZmZzM19hSW52cE9iSFpTMmE1Q2lBa3VsTDFsNFMtRVN1alh6aTdMenk5RTVDZmdfUUNBMjE4a1d3UEszamRJNFl5MVE3dk9JSWNoc1A4a2JNT3I2NUNzcC1wWTV0NnhiQ0dTX2pRTm1JVVRUNVlYX3RDSFB5S1B2M2lrRjItbERKNGFUVkVDTDJ5YkppVlNfMTRmUWV6d25C?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:44:20Z",
-    "hash": "9566dd710e0a6c7202db84fb8c10f0b5f7a70cbd37808759b6f216ca4d4f1fd5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Qualcomm deepens Google deal, Snapdragon X2 Plus, more at CES (QCOM:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkRENFZRX1NzVkIwUFZlMnd3YnVWZ1ZfNGQxbFFDQ1hDLUIxdEVpUGZ3MnpLMERFbFNxTGZNOFdxWHZTZHRXYS1IQ0l2ejYyV2xDbXRZRlFMMGZ0TUZrZVU4VzI1VmktTzN1bGJXbXQ5b1ppRmN3bjh0VFQ3cjFsLTl5YlROUHp4a1FHTG9fUFZCMktsX0dIY1l2RldUdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:44:06Z",
-    "hash": "aa8211ef0e68f1a75ffa44f3122a4cba032117af4661da711152dd0ea5a5281a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Chevron, Valero Energy, Comcast, Tesla, CoreWeave, IBM, Coinbase, and More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNWVRvODhKS09FbE5zQmo2OHpsTElFeUtMLVpVY3hzLWswTnUwdXZmMzlBRnFrQmFpRTdqd2hFTnJ6VUNKdEt3WGVOQ0F4dTdvUTNBcW5aUTVXbVJ2WTlWeUdTSjFkTVZXYzBMR01JT0Fod2RSR2w2WUdQeHFJZC1IMGFCTmItVVM3LUFoQjhCa1gwT3BrMWpNNnRfeVo1Wl9qUWx2eXlaNmtvNVlmZWVJdFpabzZVX2k2dUtPQUR4UnZRSFZoZDhQNWIxbzUtaC1Pck9OVU93VDJPMm5INzh4Q0ZMbFF4Q3ZpU1JZcE5KTUh5Zmd2bi1EQ2pnY0t3aWxGME1CeXNwYl9DSlFpWEZUNTN4ZFlWUHQ2Yk03RDR5UkhKYVNicUpaZno1cGFNWWI0SlVKR19SNy1NV0NCMzE4bUZieTdkcngyNXcyOUFKc2hhRWRETURhM3VOWHJkQU9zMXVybXFlN19xUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:44:00Z",
-    "hash": "085a76beac68f216080339d35785e3730dc324756f40680a15f30f7867842ed1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "LifeMD, telehealth stocks surge after adding Novo Nordisk’s Wegovy pill to offerings - Investing.com India",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcHlqSXg5RWdWRkdoejNGYmh2ampfSzA0NEFDUjNVX3NUc01HTjVvcFBlRUdqekVjcVotZHV0S1FUN3hRLUFaRFVaR0VuTUZWQ2E1SFc4eVVlRWtBS1ZSU0FPc3ZybVY3RDk5aTAwMGR0VmRoZ2FUbktteFdCSHRfRllOZHFlU2pFUkxER09EcG1kaWRyTHRVNDBELWdtTGhlYkY1REJRQ3htTUtXLWY0REZxdUNlbHVQUkFaYkk0Uk5rcGIzVi1YSk9vZnRuT1FlTGZUTDJsbDBqcTA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:43:48Z",
-    "hash": "b48bf143c52872d4127c1134e147a866da979eb3329a2819ca5a5cd00d218bcf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "PrimeXBT Boosts Spot Wallet With Massive Solana Token Listings - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDkwNVRoS3hFYWpYSENZaXNHckVIZ3VBODZZdXRTRkRQZUdnRTVuU3RMVllUUlBtRjl0RnJKVFlBaU1uS3VlY1V0MHZtNHFTWGs2bFR2UnZ0djRQV3RCb2ZFTUtmZHlpUm9oMVJ5SFAzdkJXS0pFQnREVkNyQ3k1S21CRmc5M3dQVkdwUGFRQXF5MmNSYzhJZTVmSUxXdWlC?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:42:43Z",
-    "hash": "f8c802671e619617939c4e472e02d8ab18ef6966a7c0e77c9d37693d84f5ffc1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitmine Scoops up More ETH, Tightening Grip on Global Ethereum Supply - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHFOX0xOTFFCa3NCSkpDYWFacjdaeHVPTlFybkxWS3ZNMThoREQ5Q2JqY2ZCSTQ4dnpaRFk1SkJtVV9UcHQwU3E3VW8wcTRqbjExclhFajZZd2xzbjJvN3RBaUluT3hLaXI1M19lNXVjXzN1dkJEV1lvSGNvcER0a3Z6b3NVSHlKZHVQNmktYW9VZHVkT05ZUlNB?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:41:11Z",
-    "hash": "c18be105a56f5516863557d23b88d1866845247d8f03a86614c8f12861862d04",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Why Is Coinbase (COIN) Stock Soaring Today - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUjFKbFBtc1pXa2hKX1V2OC1qSWw5T3ZlRlc2d1RFc3RSeFVGV19fVnU4TzB5eDh2S2NieDl0dlZhTVl1MmpTaVY4bWthRDZ4aEtTNHN2MVBzSE5ITTVCRjFRUWx0ZnVHWFUxZm9lcmVYY2hqRFFuTW9wZE9PbkdVeGpCcklJSTl0VmJYVTRKLU8wVERnaEpXZzFzMGdzUEVyTGtJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:40:43Z",
-    "hash": "ef22f101b146a67366730e1f7413ff304e855b2e8a3070beca4ea7ad916ac00d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Wins Buy Call at Goldman - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWTVWYXRab0tVR1h5Y2hmMkZVeVMxcUZUVDNIenJXMlFOWWV2QUJvZGhGOUFNMFd4NkVDLUg4OWUyczkxLVlZMkJGOW1lU2hBRGRfWVhpNmZqZmVRVF9RUUZhMENFYWNnMHJneXFKSzFsa1hmT0gtOXdaUWdJM2RYN3JEQTRGRmpRRlA4alpEbWY1MjNqV3JqNw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:39:28Z",
-    "hash": "69e8ffccfaacb4196542acb4a557874d6d19fb704f67477c6ac265cd613c2c49",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP price rallies from Fibonacci support, signals bullish momentum - crypto.news",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44YWYtdUpYU1ROWHFrcEx0ajVMVjlKeC1yNWx2VTlJdkZNWDR5eldzX0VPU09RRkRPT2g2ZlNHb0I2QlBBR21PMFlFWTlqVm12WlhmUFUydlBZNm5HWUhaNnZHREFNMUxVbGlMelVBX2tBVXhfbHliTkFkeld4dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:39:12Z",
-    "hash": "1fa565c6d98f303be864eba9d82aba32a200ffdb47696aec34a8e38592844cee",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Stock Rises as Wegovy Pill Hits the U.S. Market - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUc5Y1o2OU5iLXdJQS1nVFFjamFRaFAzTVp3QlROUUs0ZWFCYXMyQTVKZGdpVzJ2eVdOM3R0Wk81N1JfZVN3dVBnYWlUUWxlajB4RkItVHdnLUlUYmk2QTc3RTVtQk5SaEtiMzVPTjR1SUFVRnBNcl9CSEtQVWN5cy1oX3g3a19UbjZtX2x6MlowOEpWSE1EbVp1NS02dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:38:53Z",
-    "hash": "22f2cbac2253afdbb69898740190c7520271f798614e8f9421ee53cbabfff14a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet Stock (GOOGL) Opinions on AI and Cloud Growth - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmtXSE1LUUVuYTVnVzVFTlk5bHVjSVNwMU1UeFo0MGpfWU5tX1EwX0loVUw4cWgyQnU3UUkwTG94UHJVUGRRMmhjck9Fck1ITmJFWWhmSDRPWGhhQ3FjOE10WWkyNVVmTS1TZDdtR0hxbTA3WFNkdWUzUW5rV3BqbVN2V0xENG1WOXd3WVRHWDJDazNoOGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-05T17:36:00Z",
-    "hash": "d6004d8190fddfe52ef61100ce63a7a25df219f807c77519217072e68cd10601",
+    "published_at_utc": "2026-01-05T18:46:38Z",
+    "hash": "de001e2ccfd9ce8929636f2ca97c4fe3f6d9fcbd9288aed30088393a774b809e",
     "source": "gnews"
   }
 ]
