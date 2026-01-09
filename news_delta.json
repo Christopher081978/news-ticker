@@ -1,82 +1,62 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stock Market Today: Dow, S&P 500 Mark New Records; Nasdaq Rises; Nvidia, Tesla, Oklo, Vistra, More Movers - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPZ2RwMzlGQmtiRktIQ1Axc1FkSGpMUW4wcTg5SmFUa0R5Vk1tWjZ6N2VSU0tjdmI2YjZ0Q21jY1hDZmlSS2tCR3NmbnZqY2tjTXJzWGQ1ZFF6MlJzYXZqcE43Z1d1cmZMMTFQNWh4c2NhWXRMVTItTlkyVGk3dGhCcmtPc1pxWWxTaFg0M3ljbFppVHBFaVFKTnNTa2ZITU1vZjVSNU42ZUlGaFFWNXVzWWJ2ekdFUUVJQ0gycjZqc3g1LW1CTjVnTHNTTE1Sc29vOW5wdzBMcUszdjl2OWdqaHFWVXdKQ3A2RG5qdERoQ05CX2lfTml4VlpUSkd3Mi1wb0pubTZvWTJ5VWhIbFBGSnl5ZjVlRXprYlZFOFRjYjVSMEZKRGN4Z25Ta2dFcGhDSExSSDhxUXlQdkpOX1ZPQjB1UnJzaGhFdkxFc0ctMWQzSXB2enFaTDkwSmpiY0NZZG53dmtMcEVQSFo4WHRVQ1dLdjR5OElLeG1r?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-09T21:23:00Z",
-    "hash": "6b90d37ef21473402c6fa9525e8577da9113c2d5519d3a38efc85914df6c57ba",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Hims & Hers stock slides as Amazon starts selling Novo Nordisk’s new Wegovy pill - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeGo5Q0p4TzRBdmxNM1lqTE5WcmRSX1V5RE1nV1RKVWFMaWlkbGNsenNXV2ZRRTZPRG13VldfbmdJOHo5MHlEVElwQnBpRjN0N2dsQmlzRk5wT1M4V2o3b2hJcEhRaTNWdDFzT0JLcHJURHllSDJOdlhDRHljSnMzTzU1clJnYkVwamVlOWRoc2c2eTlfYWpIbExYUmNfdGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-09T21:20:39Z",
-    "hash": "259237b6140f7662b8d16e944fa79c66bc2b5a028caf24abfc3271d9c0445642",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, XRP slide as strong U.S. jobs data dims January rate-cut hopes - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc1pJLVVVa0tVSWo4cXJHRUk1ZWg3d3FsOE43dmlBZVVLeTgwMnd3dEMtS1BIWlhOMC0xTGxwVEI3UXhuZ3JKTkZsOWE2YTNfeE12b3ZtMWpOcEt2ZFotcFpqb01sSGlUR2lscS0xdEh2azN5UW5QTUh5Y25aREZGYjJuZmFxRUFlZmgtczFLTmN0OE85eWdISUw5T0VkQlUwUFFieGZnRzQ4aDBST1J3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-09T21:14:58Z",
-    "hash": "e1876fdc2027c835c48d775f6bce045d2d2a55cf8c6d47cc432060a4095f1b71",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "What next for Coinbase stock after the BofA, Goldman Sachs upgrades? - crypto.news",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91cWZBLXk1Si01Yi1IZElacmUtSTdYNHFPaE1uS0ZOc2tDRVRDcjg2aWRWRFI0OUYtLXpDQUtlNGhiSUw5RjMzTElXNThvRDVSeDZfYkJHc3BCMW9hMXY4WlJQdC0wb1AyVkZ0b29uTEg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-09T21:10:06Z",
-    "hash": "c4d81fea54f1ebf68c9dfa56900069659270d2f72868c5e468a495d899412618",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "BTC USD price target: Why VanEck predicts Bitcoin could overtake gold and hit $53 million by 2050 - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWW9PR2dTYW5YZ0gzVllkcllJX0Zlc2FOY2pIZWpual9WUHRTY0o0SVNURWFleHBybEpXaldaTmtYcURvT2ZUcTVTcmRzY0I0UGFodHVtMXd5V256c3I3N0Nhd0JuTWhJTzF0V2VxdWJHaUN5QjRGNXNiQ3ZsUGtZcDJiLVBsSVkxZ3J2dTNEQUhyUmRQaUtaQy1obGpWeUZtOF94QWFtVFh0aHZRSWxmRE5XYjEzSGwwMGltS0RQdmk4V2ctdG82NU1Dd2JQVVphTzNrcVJ5NHhNU2hSdUw5SFo4cUZqdDBqUml0V2hJaWpSVTBjQXotck5aMzJJRGFL0gGGAkFVX3lxTFBXZ1o3X3VBUG1Nc3ZrS1VZaG1ETzhLQjhYRWVNYjdzZi1idW5PREF4TU43UHdBM1ZtOE5HaklZZkRwaS1WR3BLZXdPM0hNZ0YwZlQyZGQ4b2g1YWJHdFY5ZFRNU0wzR3h3VmJ4VzY3OGR2eE1nbGNsdlluUFBDVnNXNHZVekMyMDJ2cFBLTGJiOG9tRldIZ3VvY2hWTEExV3BXQmU5LW9Ca05zYUNzRWdKVkZhcWVMLVVDeHpJbzlvQ1RrSlVoajhjVmxqZzJnd2kzZkVxbEJQYU1qQnphYmt4eXZ0OF9TT1lxbTlmQTVVSzZWcHhMYTY2QzBsTFFDbmZKVlh3NGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-09T21:05:37Z",
-    "hash": "c5fe0f002677fd43b48792b2fc6b04cab899f354222fbea04a831f6e121d00dc",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Crypto’s “Best Quarter” Didn’t Show Up: Q4 2025 Wiped $1T As Bitcoin Slid And Institutions Split - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlQ5TVRLamIxcWNUUXBqc2dMNTZrYXpGanVpclhlT0lkUnc3eF9hb2hUVWFuckUwSE14ZHI4RVBUdmI0eGNDQnNJaF9WYjlndng2MUlEZUkxbmdReUVSMGplX0FyTGIyTHQxS3AzSllqd1l2V0o4Tzd2amctc2FZYTN3UmhERGgwRm5PUy14Qmx6bWhRcm51andRVHJrR2FvbFBheDg2aVFrS0R3YkVHX3dwdjlLQTZ2c1VReG4xa3F0aDgyV2ZaNHdJTQ?oc=5",
+    "title": "Is Coinbase Global (COIN) Pricing Reflect Long Term Value After Recent Share Swings - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMkR4OHNlQ1VseUx3X0Uyb2lkT1F2ZDUtcXNDNktWWHVUdlFEVlF5bERLUTlTLXJoNERmWUtoVktwMWI5YlgtMW9ONDNCN0hJbmp5TER5WGtVUTRkOUtjcGFCWnplVkwxZmNQdXVOTXJBLTB1blplTTVXZDRVM0pNV3BndEtJbkF4X1NpTWJn?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-09T21:04:38Z",
-    "hash": "0074317b801d333d7050c9e6c2bbb1f694232fa77a509c6c791e41c722781f9f",
+    "published_at_utc": "2026-01-09T22:08:40Z",
+    "hash": "82556d6b22f3f3b6e22612ea109e387dd3f93e3ff25d1b063f929c1c44dfc2f2",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Crypto’s “Best Quarter” Didn’t Show Up: Q4 2025 Wiped $1T As Bitcoin Slid And Institutions Split - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlQ5TVRLamIxcWNUUXBqc2dMNTZrYXpGanVpclhlT0lkUnc3eF9hb2hUVWFuckUwSE14ZHI4RVBUdmI0eGNDQnNJaF9WYjlndng2MUlEZUkxbmdReUVSMGplX0FyTGIyTHQxS3AzSllqd1l2V0o4Tzd2amctc2FZYTN3UmhERGgwRm5PUy14Qmx6bWhRcm51andRVHJrR2FvbFBheDg2aVFrS0R3YkVHX3dwdjlLQTZ2c1VReG4xa3F0aDgyV2ZaNHdJTQ?oc=5",
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet (GOOG) stock ticks up after-hours as Google sets Feb. 4 earnings call, CEO sale disclosed - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaHVvT3pvWk1lNlZoRnd2OHNRX3hIbW9wUE9jNWdpZy00LUQyb25mSkt0Qi0telFRR19NY19tUlF3d1d5TngtZnFGdXFJOXllcnpLSWhzVHdVeUdxVnkzOWpOWHRRdVpRZnNzaEtpU2VTM3V6alp2dDhudDNPUUZXZHpkQzV0eDNwX2JCQld3TTJBY1VOcDAxOW1HQjc1c3ZlZC1pWnUteHBHc0xXSi1RY3pPQ1VlZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-09T21:04:38Z",
-    "hash": "0074317b801d333d7050c9e6c2bbb1f694232fa77a509c6c791e41c722781f9f",
+    "published_at_utc": "2026-01-09T22:05:39Z",
+    "hash": "aa2b74cfaf11f8330770a68afa9ae5665c56e46d4851f17a209fe9cc0ec2bc26",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Tesla Adds Nvidia To Its Enemy List (NASDAQ:TSLA) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMDlFTDJYZlpickdMME9DdHBGSndzbEN6SGNLaHFYWG5TM1BaUEp5bzBGanp0VU1uRWVCYVE3Qk1HQlE4SjJHQXZWU1BodlNVa3BSLTF3N2NZSmp2WVNkNFdaVjRKejJvNUpvSEh2LThCOE5lRGZsOG8zX0MyUWI0V2RR?oc=5",
+    "title": "Where Will Nvidia Stock Be in 5 Years? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVdlRUxFN3lvWF9qVTF0V0lUZDl2TFFlY2dIZU05R3ZMNFpST1pudTBuT0JCMHloMlpQRGV3V0VuZmtobHdPdEVrSFVMT0F0U0xYdjgyRy1EYzllZHFBMEFNOFVxUF84ZjlpdlBqb0pJZnNqR004TUQxeDdkbDVjamVUUGFwRTg?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-09T20:50:48Z",
-    "hash": "f9e0cf0f2030cea79061647d46e817abea20dfa1216fdfc825610c1d4c1b3119",
+    "published_at_utc": "2026-01-09T22:00:00Z",
+    "hash": "30d9f6a1d550f94f7d83c2b139024b9c588a060670e27149d44c448bf603ecf7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Earnings Preview: Spotlight on Nvidia, Palantir, and Data Center Growth - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGo1QjNSdjIyUUZIT0I1ck1fTmVOQ0llMXVqTk5PeHpLckJVQnVfc3hjMktpM3E5TkF5NzdEVHE3OUhpNWEzRnZvT3kwOTJ6R1o2SWlKelI5Z2RmdVVzbGJXY0NFbGh3YzJtV3VhWHYyTDFYZ21KVWpONGpXV2lwTGtaUmxXZDJVYXZLcmZwRzdPVGh1WkJtUTBXakFFUTdFVFJBczRmWXRtaFYzT0tXYVQ5aw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-09T21:48:06Z",
+    "hash": "cefb3f7cd9154137628571bdb1efd3146a110bffb455e322e3e605a65bb837c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Whales Keep Buying as 100+ BTC Addresses Set New Record - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zLTVDLUxKMEJJaHYtdkF0eGZhd3lSU2xrQ0xRSHRDMTFsQ2RsbjFjbUprMlZqZmlJSEotT3p0Y2FRSVJSTkE3cHBFbEFuMW9XUEpMckJoUVdPNHREd0FmRGJzWDZJODZ2cDhhdGlYM194WlVONVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-09T21:46:31Z",
+    "hash": "64e44c26bfcd1ad99f7f75e6f9e838620d604181d9e355f7b45f7531a61a1ad4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO Jensen Huang Envisioned Compressing 'Excess Energy' Into AI Models — Grayscale Touts This Crypto As Right Match - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOERib0t1b0gtaTgtM1k1M2lRZC1LSFpUYS1ZYzFVSGpUc0d3MTE3Tmg1cTVybEtoeWFINV9DbXNFVEZfN2pnSzNRMmM2ekhOYTU5SGlmc2luNVY5RXNmdkV0V1VxOFZvcjFCZEZtX3RPbkZEZ1NGUGp3UzVBSlJLY1VpZnFKTTg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-09T21:31:08Z",
+    "hash": "1b481b0fbc6c0a1d67f3574b98b39926617a3a8217680337822bc773d62cc658",
     "source": "gnews"
   }
 ]
