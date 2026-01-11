@@ -1,62 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Ancient whale liquidates 2,000 Bitcoins rewards dormant since 2010 - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KVGFmWlMyWXJaTDNUd3R1SFFfeGRpa3J6QUxmbXdkdFVhMFVPWkdfNWppZTBJdWV6b1M5YXFIZHhKd2RmVzdVRkpvSDJyYl83VGtHVi00SGkyM1ZBT2s1VHJGT1REam8xcnppVUsxNmdqbXpXbjhtRVB2SUI?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "How the Ripple – BNY partnership is setting XRP’s new institutional era - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcVU5aWd2SW9XNl8tMmVON2h1TTRRQXRBdkNXSVRpeHAxbXNydTZkQkc2a1UydmhFQS01OGg5anlETEk3ekI4ZEVYNDdVd3U5R3VuSHR1c2Y3R3lKNFVISlNDVVVwcUZmQlRvdTdubkVkV2dlVEloZXg0TFlHQVZfaWRzYklXLTYxY3BXVkRORm9iaGhlMFHSAZsBQVVfeXFMUEZZLWZEaFE0OW5jZGxQWWtWMVluZ216RWo2QnN0bHNFN28tZkVpVW9GS292T0xDekgzLU9BZDF6YS1xWHFKWXFEWnV5SnBkSklXejdQQ0hzVVhaYXV2VFczZ2F0aXZUaUZJazNzSmtqNE5Od1NfaC14UThjelRvaWlKNWZNUE95aG1RcG5KQTZ3bjZId29jZHRmOXM?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-11T01:35:00Z",
-    "hash": "6b36df827e4a6e4e5be4b5adcb23f142c47777808202b5f2a44ea6233b11bce2",
+    "published_at_utc": "2026-01-11T04:01:10Z",
+    "hash": "03ea77ec2a528a80708bfb8041f4449d3611fa46a61494d000a18332a86ef09e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Science ministry, Nvidia share view on swiftly setting up research center in S. Korea - Yonhap News Agency",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UNnJSNEEtZkJ2ckx5MWllbkF5UWExdENPYzI3SHh6b0tDWUt5N19wNUhuN3d2aExETFQzQVo5N1VtdC1IOXZwR3U5bGJqYTdRMzk3Vmc2Z09DQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-11T03:00:01Z",
+    "hash": "9920409b73457d1462d4666d973a4de774b6a7991107719597f99dcf7ccc941b",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Will 2026 be a massive year for XRP? - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2Y2ei1VcmZENjZMTGtrX0NQb2xhc0RLb01iUE4zZDQwU1ExcHNXenIxc1VDWDdNSThKb1NLV190T1pXVnExZGYtSVRibWYwLS1YOXJRaGQweG00OFBzd2tQZ1o3enZJaFBPYng0c01RRm54dHZBc2RvZFUxWVN6UUJHNURwS3lyaWFLblpibHRBSWg3SHBqWFN0bEV5V1QtWkMya3U1YUdROWJnd191NlhOQVN2YURpU2J4YnpfUDV4QQ?oc=5",
+    "title": "It’s Happening: Ripple Says XRP Is the Heartbeat of the Internet of Value - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR05wZk1ER3c1aDdHWnFIOTUxSW1aVVRONW82ZGRlSENMX0tzaWlOZVpRdTlDTG9qR1A5NmVoRUhwUGZXZjNGR1RFMGEzVzFpY3ZGdWpDLXRXcFdFdU1ucVlFaVpZdGxzZTVWbGZhVjczUDA0ZUtKYmJnQU9uS0RRdHJGY2tDZVYzZ2IzbWRnSGlmQkpDWVVmcUp1S1ZKUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-11T01:30:17Z",
-    "hash": "cfa33c215f5da87b9b9b45db2d81f4206baf80b17d71ef44306f46a8c8ebc9c7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana (SOL) whales pivot to $0.04 token dubbed the next big cryptocurrency - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPczZGbkx0YWdkaDNseVVhazdaanFJYm15YmNQTGl5bHdlMmJlRTljQWlZYkozT3l4VHZPSjVlMDVWSUhqcXZmX3VHQ0lqZXZ6Q2Y0M0lJQ1QzUWxGRUdRWm9zTnFPMW0wV2plVlRaMWlwV3ExOG40clFfOEN0ZUxtNVlydlF6ckFkeF9oZHBVSUZjVy1RMXlQLTRvcjBmbUJuZzUxaGVUcHBCS0pLbWdtWDJJSGthUmo1S2lIZ1V3OGlLQm05blVfQVc1UU5JdXBQX1B2WXJaQmg2RlJKUXptZjlVYWE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T01:11:01Z",
-    "hash": "84f915524b7a36aed0e6bf4b9445ad5e9337a5a7faba50d31f3a86dc2d7a3c6c",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave Quantum stock slides into weekend after sharp swing; QBTS investors eye late-January deal timeline - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2RSRkliLXVxV0pCTTg4SElTSkZiWFFPWXdFZmVROE91NEJoUzQ4enRBbFgxazViaHppN1hHQzkyNk02V1ZkM28yUXA0T2hZTVJRU0pmSnFfWVdWaXI4TU9PcnU4MFdnVkZ4OW95c2dTeXZzQi1wR0NxQUtPajJJUGhnWjlwalplU3RTV0pBQVd3RURxR1Vldl9NdUR0a2F5bkpsM0ZSSnppTEEtZmJ0M29lMjJXVklUYXctUDR0eDA2N0k?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T00:48:33Z",
-    "hash": "1084dafb62497c6e1edffd767d2bc5223a658c01709fa879157c63c1ea4b7b41",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Will 2026 Be a Massive Year for XRP? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX1E1UFo2ZGczSDVmblNXSGNRazlGTUVEV2ttSENZSFZHcWtya3cwc0dzSGhaamlSbWMzc1hWVUY5WUo3UWtWbGxGZk5RdGFSUTFBeGJrR2JWUDFwb0Y0dWdmdFhkN3gyZ0ZEWTdFclVHM2c3Q1dvYjV2bG5keGl3LVVxeGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T00:16:00Z",
-    "hash": "ade3a378b48c5bfafc55678f3b0b1b9bb651478fba16271a7e773dec381884d0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Urges Validators to Install v3.0.14 Update as Analysts Eye $187 Before February - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUVfZkMyN0NPVWFXOGV1ak5WZy1QWDFMcFlIdXRvV2VZRVZvX1JhT2xhZGJwZ183c01UU2ozX1E4a254WVFXbUhFQU4tci1HWVYxYmNwNEdYU3pQOUtkRTNGR3Q2cFlLQ3lKalVIUmNSRHFsV2NFOU9QMllhaE94WE1DVFlRUzZkbWRWdEstOGtlMURkYmdaelZCNlFSSUtsbXM2TUVWSjRtdlhwdDhKbWliMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-10T23:33:16Z",
-    "hash": "0441f8ec3c6b155263b671fbe10095fe1cf0216457d6c861d55527c87eea4638",
+    "published_at_utc": "2026-01-11T02:37:08Z",
+    "hash": "9ea8c43c0a9be431d66ca928e01edffe93adaa67321c2eb20f6af4cb225ec43a",
     "source": "gnews"
   }
 ]
