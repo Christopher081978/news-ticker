@@ -1,192 +1,92 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "3 Forces Behind XRP Outperformance Could Extend Into 2026 - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNejlXbE5uRG5zVll5UENuR0ZrLXMwOHNveUtONnZHRTMzbDRGUS1ORlhaWjRZOHFwMkpPZ0d1Y0E1MnFvdS05dFk2RGZxRGVFNG1tSk5KcjJBaGNfcTdiX09hMFNYaFpOenhLcm5GSzVjcmRBaTBOeE5QbTlvN3RzdXFTdDNya1VWR0JV?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:47:43Z",
-    "hash": "85959f93f8caaf8c2e1953786b54316994e5162929c6c41a9a95a04e055870a2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Holds Above $2 as Oversold Indicators Signal Potential Rebound Amid Record ETF Activity - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDlLUlRNMlpFUk13OWRxZXcwZnJ4OS02LVVITWJkVWEyQldHaDZVOUx0d1FmSlhHVGJtZHJNT0xiZV9HSGhNd1h2dmdxSGpPaVpLMkxmSjJoVUtCS3VvRWp6QkhVV1RNOFZxTTRybFd4eFNWMHJSQWZtaGNtRGVfanBRakRwSWJvNTZtR2VTMnpBZGwzYnVKTllyenFJUzFlekZwZGJPeldqS2pSUkgtLUo2cDZyX2pwM002NjlCYmNXM1p6b1BFVW5PLTFUZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:46:44Z",
-    "hash": "a07f4e5d9cb2c67f6b4fd47714a38aa907209784dd0cd76135488d6c12fdc1a0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase Stock (COIN) in Focus as Stablecoin Rewards Face Senate Scrutiny - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGZJSVFVWW14QllEbElhZ09uQjBDV0xhVXIyT19GcGNRVU5Zc0hJZmRtSzlaa3dlY3hyc3V6MUlrZkQ2ZjlmcmR5M0NjX3hhYjNQaFVHZlpQUGpYMEhFeGdZQ1BmMnV3LWNFY2NHR3dIWGFqYmItWl9Oc0hBZjBOT2x2OS1qY01aSTFoaDJjRTFmM0VHRGkwc3l3MUdydnpZVjVV?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:30:18Z",
-    "hash": "5f009aca4054936b0b95cb0db8a633a0c8c6dc737e62dfcff2df6c84645e7632",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Assessing Nvidia (NVDA) Valuation After CES 2026 Rubin Platform And AI Partnership Surge - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEVLYkRaemh4WDJTVldVSDhzMXZZc0hCdlM3aVhseTZJM2NneVZXR01ZTUwxUGxKWUFvUTFPWloxNHkxMkc4M1hoNnlwX3gzcFVZM1JfV3NmRk9lOUlESDF0WV9mQ0MxSlA1ZC1tTWVrSUNLZ0ZRbldEYU00M2NIeklrSmNkS2cyRm16Um9pMmJEa19jbl9LZnRyU1VUZWx0Z1hLaTJyMWgtY29iLVlsbEFtUmtQLWx1UGVISXdFRE5GMXQ0OEktVWNTNNIB0AFBVV95cUxNQWx1cGpfQjNuY2pKck4xd21xMEIwZzIwVFpzVW94Z2dyZmQ4WFRuYXh1VGIyZDMzTU8wYUdxWVJRM3hlM2JhOEZrNDFsRTNGa2h3UGF6Y1EyNk0tUzZUOF9yMG9WZ05JejVxNUFRRFNJMDVrU29GNDNuczBRS2JmbDI2OHdHRVhqUXhHRUkxQ3BsVi1zbnE0LXFLLVUtSUNYWGJ4WUlEV2R4SHh5TERQU09WZmVJcUF6VzBZNDhKLWZURkVjSjlISzFQOUhkZHl2?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:29:52Z",
-    "hash": "5cfc2b860098811a6830c85b8d067f856affd25008d1451acbcb7258bf125e0f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Is XRP Going to Go Up? What Investors Need to Know - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ01MMFM5RGlYcGdYbmFNUzBNdjRwTWNXMXhnVFBiSEVvcGxXUnFkWkZob0hBaUZ4RlVBbjJTcnc3WllhWmxqU3FaeDZMN3ZPWWRtR0ZkTV9JYkVNN3NVcjhQcGZ6Z0FmYzlXWGhVaDhvRlNZMXZkbEw2aDQ1WE40bEU0REcyVWp5Rk9jTmx0Yw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:24:49Z",
-    "hash": "03f9904adde935a28054e844ba3e98ebef141b7bafe758eaa288a96b08f7142b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Spence Asset Management boosts Nvidia stake with 104,568 shares - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzFJUjAzV0FXQjVwbHVjMmZhd2NiX19Lc3FEV2NPNWE0QTlkMjk0Y2laNmYxYWd4c0NnbnRYc3R4N1RtRVIxaFpYVWF5STUyYk5SQngxdVBoVkJCQ0s5R0hBQm5Td3gtcDlQRTh0YW9nNWlFSHhLd190U3daYkNGSXNCeDBORE1tUVBhdnBIYTFSRTBXRDVrZWxxaTc3M0FpLXg5RTQ4cW5hY1ZUTkhOTXBzc3E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:06:16Z",
-    "hash": "b044249c72a22c09e4741b20216f8a6424476a4448e52d74a0d7688b8736f0d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, Ethereum, Dogecoin Gain, While XRP Slips: Analyst Says BTC Remains 'Structurally Weak' With No 'Credible' Signs Of Bottom - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTWtCS3NyU2c3VkM2R2xhT3o1T196Tks1V1NjcXFKSEdaQ2ltb0ZlREhRUWlaQ0dFVFN5bEJ1NWMtQmhjckFNQVRRZWVFVk9JclN5Yk9LS0xkMmpWVmY5eVdrRmxMUEdqalowSDNiSDFlWkpsTk96NXpLX19NZ2V6bHRiRDBtWkJBaDlDcXlxVjl4eTRNMEozU29EZGlhdUJCa0Z4c3AwTTk2a3hjR2xJQXBMTHMzVUdHZjZlQ0hwWEtZYVA4YzNoamdGVDh6RzFKUnJNMzV3WENleElqSzU2ZDd2TVp4aUVXamR4Z0lUalVwdTlldnlkMVJ0X3hKd3pqMzJXd1BUUVV1UVlod2NVNlF3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:04:00Z",
-    "hash": "552671bc80bf64d7dee56c3cdc263b90c4c90cd7c0c47130ca44e642c0a65af8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitcoin, Ethereum, Dogecoin Gain, While XRP Slips: Analyst Says BTC Remains 'Structurally Weak' With No 'Credible' Signs Of Bottom - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTWtCS3NyU2c3VkM2R2xhT3o1T196Tks1V1NjcXFKSEdaQ2ltb0ZlREhRUWlaQ0dFVFN5bEJ1NWMtQmhjckFNQVRRZWVFVk9JclN5Yk9LS0xkMmpWVmY5eVdrRmxMUEdqalowSDNiSDFlWkpsTk96NXpLX19NZ2V6bHRiRDBtWkJBaDlDcXlxVjl4eTRNMEozU29EZGlhdUJCa0Z4c3AwTTk2a3hjR2xJQXBMTHMzVUdHZjZlQ0hwWEtZYVA4YzNoamdGVDh6RzFKUnJNMzV3WENleElqSzU2ZDd2TVp4aUVXamR4Z0lUalVwdTlldnlkMVJ0X3hKd3pqMzJXd1BUUVV1UVlod2NVNlF3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:04:00Z",
-    "hash": "552671bc80bf64d7dee56c3cdc263b90c4c90cd7c0c47130ca44e642c0a65af8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin, Ethereum, Dogecoin Gain, While XRP Slips: Analyst Says BTC Remains 'Structurally Weak' With No 'Credible' Signs Of Bottom - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTWtCS3NyU2c3VkM2R2xhT3o1T196Tks1V1NjcXFKSEdaQ2ltb0ZlREhRUWlaQ0dFVFN5bEJ1NWMtQmhjckFNQVRRZWVFVk9JclN5Yk9LS0xkMmpWVmY5eVdrRmxMUEdqalowSDNiSDFlWkpsTk96NXpLX19NZ2V6bHRiRDBtWkJBaDlDcXlxVjl4eTRNMEozU29EZGlhdUJCa0Z4c3AwTTk2a3hjR2xJQXBMTHMzVUdHZjZlQ0hwWEtZYVA4YzNoamdGVDh6RzFKUnJNMzV3WENleElqSzU2ZDd2TVp4aUVXamR4Z0lUalVwdTlldnlkMVJ0X3hKd3pqMzJXd1BUUVV1UVlod2NVNlF3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:04:00Z",
-    "hash": "552671bc80bf64d7dee56c3cdc263b90c4c90cd7c0c47130ca44e642c0a65af8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "Unilever plc stock: steady staple or sleepy giant? Market mood, price action and what comes next - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVJFdlJMbGFpVnFXMkpuX2E5ZTdlMlEtS2xiX0dEeTdqd3o5Q1FCUmF2cVJDSW1QR20wampsaldLZHlUaVFuNlZweFM0MlNKYklXdUpjcUFfb1pzalZ5bEhMS0ZEdzJBa3U5dmc3eEdtdEp5dkRKZmd4Vl9pZlJybDYtdmU4U29TUWhnMmxxSnptak1tVTYxQy1ZUHd0TURIbzkwcXRfNURULWh3SDNkTUh3OTY0TlZsTmpmM2k2M0NCbHM?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T03:00:32Z",
-    "hash": "5889cb9d8008424ab122d1b9f95ba92892d8121e4b84e000e3a7fdb5cb4fe015",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "GlobalFeed",
-    "title": "Einzelhandel: Filialnetz dünnt aus - was wird aus Saturn?",
-    "url": "https://www.handelsblatt.com/dpa/einzelhandel-filialnetz-duennt-aus-was-wird-aus-saturn/100190538.html",
-    "summary": "Die Handelskette Saturn verschwindet aus immer mehr Innenstädten. Standorte werden in MediaMarkt-Filialen umgewandelt. Hält der neue Mehrheitseigner JD.com an beiden Marken fest?",
-    "published_at_utc": "2026-01-12T03:00:09Z",
-    "hash": "480d87439f39adf7c548ecabf32657a8da24256a996ba85a6eb1dbbce7a07542",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) eyes a 2026 breakout, here’s how that could fuel Mutuum Finance (MUTM) 1,200% - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOanR0NElhRDF6T1QzRXhBbzNicTNPQy1QamhIVUpoWDJnZW05bHJ2VWVxdTBCU0R0Vk1YMnRsVDE5c0ZmcVRvam5QTm9mOTJlTUdKWVowV3VjUThlZXd5S2tGSks1NEFqbnhoNWFHcFIwOTZGNFZWWWtfNjZ1UG9ENHNJTWpkUng2a1lRX0d3UUlTNjZLT3JfeDFYeGRuMWZaSWxpbFFsQXd0NjdDbHE1b0d2MVc1ZGF1enlkc0hhNExnRU1Qa0NfeVJXcnlfRHJUM3cwVEZxTjlZVnZDNnJ3ZVdkZWVDU2dmR3M5YXdNcFFjYlZ2dWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T02:57:13Z",
-    "hash": "8e146b5e321d1e98af1cfff234904bfd316ca28a81de045ee97809b499be19ec",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Consensus Hong Kong Returns for 2026 Edition; Solana Foundation to Host ‘Accelerate’ Developer Event - BitPinas",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0UmVERmtRVTVNUHZRSGN6dVN2aEY5dkZPUXk5T1JyNzRmNHlmTi1UT0pJVHVVWXdTT2w2TER4QlJxcG10Q20xb0U0cTdMWXZqcHprZ2gzZ3dqQXA1TGxn?oc=5",
+    "title": "Could SOL rebound above $150 as Solana focuses on privacy? - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN0tGdjZRMDZrV3RIRDczbVhNTHN4enVGRDZSSno5Tk05MHVuZG9wdVNrbDhsOWo4Q1c0d0VzOWVDYjZqN3JlMEVzM0psQVh5QThjbVVVLWhZY0dQaEZwSkRiNXQzS05Kb2RVSlVjUFB2RUdzTEowdUxxOHFKdm5CT0xTQ2V2eGl5cEpUb19ERnJscldiMWtOS3pCNFRTdWp2MTAtRFhoYVdHNWdOWkdMU1BoM0JMcEd0Zk1ObVh3VzJRdGtEaTljWmFMUXZSdmh4aUxsRHFGeWk3UFlM0gHiAUFVX3lxTE9BZTJWd3BZZ0wyQ3R4blppZ3o0TlZmQ3RYWTZ6MXlmYVhuWTJoRUdneXBSelhnM0g4Vno3NDE3dy1FaF9EeGh3MTdiYV9PbWM3Wm9rUVlrSVpNUk9JSHJPc1piR0kzMGgwWTdKaXJKamVqNF9NNFpUSHRaM3dzQ2o4X000QXpxWDFJUGdZZktDN1pMUS1tWUk3bDdJZ3FPTFpVVGVLcFB0aExlalhSdUlBUjZjLVVjZS1Fd1d0OUxzNWVpRWRPUWVOeEpOeW5kNV9SbjF0QVdqM0xWNWI2Ulpxcnc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-12T02:44:15Z",
-    "hash": "1127b74b431446d993ea22d4e50e27dcbc6191988d97563fca917d5b572f987e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia set to hit US$200 billion revenue milestone on Blackwell and China H200 chip sales - digitimes",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTFXX29JajBzVUpSdTg1eEl6RVV4UmRVXzBDTmxnQmRHdWNjQ0V3bm50dXd1LWZISkJFSE02OVFiWjVSTHdIenpJZHJfdTYtVnZWX19zVlhDX08wVmZpa2VaYXNmSjJwVzJYUEZtNFIxakgtcHFkelR6ZVBUellVNEczWm9oMWkxSmRRLWhoSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T02:35:22Z",
-    "hash": "5c534ffe701a47ef9af6cf238aa8a673346c47ddfce8ed7a5641546dfb7e14ce",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "How High Will XRP Go After Lawsuit? What Experts Say - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON0J6N3VweGVvc09tcHQtNHpaZWRydnVIaTExd1pOU3FZbnA1dmEtNWNQeXZPbklKc3hDdHk0WmlmeVBHNWt1WFdnaU5jbWJxODUxZEhDMkdqT1E0N3BiSV9IOVd0R0dsS2lmSTA3VE15dnRGdlExclpIekdRSjFpTEpHZi1kWXQwVUJoczFZamVWQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T02:34:23Z",
-    "hash": "9fcad3b9304a5f8354f5f925cc17b6bcc28e9ad4f1d17c9e2dcf16021e231a95",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Taiwan semiconductor manufacturing split in 2025: memory rebounds, AI anchors foundry growth - digitimes",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZlRYWkF6QURsRl9jcEJVc0dQZXM1VXdFVDJ1RXBTUHI0WTNWbm9fRWNyU2VOand5dGNjdHdnQjJSNXo3UXRpb01naFBkT1VTWXVUdHZ1cUpUbloxdkZWM18zVVZhVnhHcHo4Wk5ZSm5HYlF1cURWMUZyUWxSTi1FYVJiUXFUa05WZTh3RG9kclpZbENK?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T02:32:29Z",
-    "hash": "0c90d7a393f3c12d6cb9e0fe73ffa5c5f4fc57b838cf2e796a26405d3e4e9f81",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "The Debate of Best Upcoming Crypto Apeing, with XRP and Tron - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeldkV0hBOVdNRFV6bUxJbnh1RE5LYWItRXA1dGFuTWpxT2JIRGU0YUowakNiWmRHSkk0VHRXc3FKelRucnl6NE1VYUVZTTFwQXM2UzZ3U3lHUkNNc3RoY3gxaks1WlB2cHpyNUJuQ3lLTXdjcC1ZT2RXeGlyVTIzcnluM0syRG0xejRlb3M5RmxORERDdlZkNktYMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T02:30:35Z",
-    "hash": "dc6e5c1175fce667c24562e7716b0acc9d428bbfb6822861763435930b958c36",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: ETF Inflows Cushion XRP Amid Legislative Jitters - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlhYcFVfWF9rWDh1VERDRzdDSzlHd29RX1ZJYjVZeXJIbGx2VW9KX0VvZzNNQ1lGUG5nbU9XYmlNb0F2S3FyRDNLcV9FSXN5Slk4MUx5OVpVSnYxRkxub3hISlV0UGJfM2hLT04za2p3UktFNHFmS2hwTTZ1RFp2cGp6dU1zeVFHQmllRTBEM0dQSUhOLVNfZVBkYUx2NmRyVVhYQk5xU1V4MkNEOHM1aks1UGE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-12T02:29:00Z",
-    "hash": "fbb10b370c7838d90494109ae338acb5574e7d1f6362fb1fb7e5ba9d110cbbfd",
+    "published_at_utc": "2026-01-12T05:33:40Z",
+    "hash": "8761f0981072f3929443246be0d5f64ac06fb8271b3c15c19a26ebf01751ac98",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase could pull CLARITY Act support over stablecoin rewards ban - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDk3OUF4c3h4d0k5R0xIc0RTRnAwRTR1eVNiamZFUlIyb21HdVVtRVNneUlnODllZnRCaldEUEJERV9JT1VDWl91OUROdVBCVWFMejZTOHNCellvTWV1enhzaGhtQ1hOckNDQjQ4RzBURXcyZHVZN2d6U3R0RTl2VUNMWDRsZks3bXBKb3dkTFJCTWxDOVNCUUlTWFhZbGdQT2g3U3ZNZTE4WTltSFFiWVRsWFdyWHRUM2hZUkFEZzQtY1N6N0tIYnlOUQ?oc=5",
+    "title": "Coinbase May Reconsider Its Support for the CLARITY Act - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemJBZkctWjNfQWx4ZndvS2poMTROQmEtX01Qa2FXNkU5aWU0WkJobW5GSGhoQmtUWENOblU3Tjlob0c5VU1YUlRkSnhydHp5MDQtS1lJblFWYmkxZVpLd0dfRTdvX0ZqUUpGanczZ1hNTkVLeTJJa2dfeldjSVhQT3Bwam5lRzdOVTU0?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-12T02:16:00Z",
-    "hash": "79745e025e13ae16944e5b080a3fee603b1a9cef46fccaae11dcac5b9fcdcc63",
+    "published_at_utc": "2026-01-12T05:32:36Z",
+    "hash": "8ad7cb4238b0840b9d1c9b7e16b2d9e90c18449951890076968b400e9ed8e5a9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Sprott Physical Silver Trust",
+    "query": "PSLV",
+    "title": "ISRO PSLV-C62 Launch Live Updates: Vehicle witnesses path deviation, ISRO initiates detailed analysis - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTnJZb2ozTElLNzlyR1NwOVNtMTMyV0htbEt4NnJtYllTaXlFdmxHUnRzX0ZkdWIyenR2NUthN19yVVRMWmdTWU5NcE5oQ2JOdmc2RUt6UTkxQThtemp6V0ZVdloyS3ZjdzNoWkZWQ2JXalR2UG9sZzBidm4yTkVURXdma1pncDlVdjdXUjBnNTF1YTNuMVZKSThqbi11VjBrWF8yQ3RtV1lSS1dlNkVlS2E4RGg0N2pJWHh1TzZBemwyUk8xMVI2Z1NqUHRad1ZCb25CUk55UmlFNlBWNDd1djBpaUFsTDNxMnRHYWtHM2RnTFRYdm9LcGt2VEdQQdIBgwJBVV95cUxNY2RteE80UzZiaWRkZTVzR0FMakpsQkw0Qm1vMlUyd2Q4NDRsSWxoSnd0NjBfMlZDcEhON3FHMkFiSERaTTJUNFZNVHZGenRUekFvN2J1T1hoYkdhMGZTOFBXeFB2VEg2MkhEV092ME1ZV2RVNE5UREo5Y2ZJaUs2OUk0WEFYajkwbkpWWjljM3M2UTVLNFlDajZKOGtTWEFDX0VyZDZPam9Ra3hfSlA3TUlzdE5fUlY2NjdPUmt6dHRmZTZ0YURxbS05LUhmTmxxVmszUk90REpFS2NMckE2M3ZiTXNmZm4xWE9NRlNzNWlNTmI5M2R4UW9IQ0JqajhsaHdn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T05:27:48Z",
+    "hash": "c67ff8794f7d71fc2a15d46da91b0062b8c8daa87e86915b2342bebc25c9c6dc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase may oppose crypto bill over stablecoin rewards - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MN0d4ZFZDa1VmTTRvY2FZV3VvQ09SVjl1bHNCX3FxVXNPZTcxdHk5VlA3X3VUcUR5cE1tN3l4UDVGcFBObTJxRmtNU0F5WEF1aXNTYUZZbjdSU0lJdENCZXVZTWpSRDZrR3huU3FOZEU5Wi1EaEs5dmZBUURHQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T05:25:00Z",
+    "hash": "268f792ebcd6720100e75ed226411b50fb0081f845f977224970197e9beee121",
+    "source": "gnews"
+  },
+  {
+    "asset": "Sprott Physical Silver Trust",
+    "query": "PSLV",
+    "title": "PSLV-C62 mission live: Disturbance at PS3 phase causes flight deviation, 16 satellites possibly at risk - Moneycontrol",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTW4tNmFKRnF1NTNmSWJ1ek10VTRGei0wRUo3WE56NFNYZmVxMkV2QTg4N3VBTVpDcC15Sk9URGdwcDUwd2RCRlU1c3RDcGEzZ3prVnlnaTBQZE5KMVNENUQyTmRzbDRQa1RpRGhsRXhtYTR4ck5HczlNZ1FDS1ZBS3VWdzRlM2xIaGNjaVhkVl9QdVdGWlVVM1puZGx4a2dfV3RpYnRGN3J5SWRkVndCVTRwZmc3SmFqTV8zYVp2Zkxra2dsUWNpeU51QmItOEd4WTFCNm8yWktWZGlKSmZqc0FVNzZNTmo4cHRxVFZ6SWhtVUp5N0JCX2hZONIBgAJBVV95cUxQb2s4d1JXQVh2YlNZRFNmanlKOE1aNGZobG0yVnBES1pwY1ByV2NSZlNPbDVMV0wzeWtoLVZ4STM0YmROS2dOSG5od0hEWURDRXVxblpIdHB4T3VYejUzOVV6WVd4Tmh0blNPby00ZjN1Q2tNdVVIeVNDZUVkQUo1a1lQV0dFQk5HUTd4cHhxbG1yeFhIQzBPcGZOTDBIZUQ3UHoxUTJsUUl1UDNXQkN4OHY3bjZGV2ZJV1AxS0Jnckd1aGZMM0VhVUdDdzFvRl9jWjUzaWtXcktZaHUyVnliRU9HaWxoeXVPMG1iVmZFV196LWxxS21pblJqVEtpbmtO?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T05:24:17Z",
+    "hash": "160b637f790641e45eca76284d1a2bfed8ea817015e05a6ae5b33a1d6a6ed86c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Pushes Back as CLARITY Act Faces DeFi and Stablecoin Reward Ban Debate - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnhFck1saGNIdHY2MnoyT0N1OTQ1NWphN0swN0dnXzBHZkRJTHNmalc0WXFUd0pYLVdRMzRwZFlEUDZCV284WmsyZGlvbmc5NXdDNGhaYURXM3RnczFsVEFXZXplWTZCMnhFbHFyM28wUUFiVEdLNXZwZ3RRODcxSlRWOXQ5eDBrdVE1WThzd3lQeUZRQ09mTEcwV2EyOEh2bWNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T04:54:53Z",
+    "hash": "ccc0ac29145c9b0db20fc2b1b47e741e87fb9fd6b42e506fa4e445620a5a6f70",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Early Ethereum Whale Makes $274M in Profit After Full Sell-Off - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ERFlFVENBZjYycGRaWXV3V2hlSk04TzNGekhPU3p6ejdWSVo3VTNlNlJsZG4tVW0tZlliY2hIcGhtZnJqSFZrV0o3dUs1SWJNRjFiYzRuWFNDbDdrRGJF?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T04:49:00Z",
+    "hash": "e02799aac5a3918493bdfec3b1348ea3ff330e61c91cbec3e79cca5d07b1c66a",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Strong Demand from AI Expected to Boost TSMC (TSM) Revenue Growt - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEJHc2dJMGdxY3BFYW9QeUZMYkpuRVY1eWFvT0xxTFJUTUI3dXUxdkllUkRCbHVzNUdZT0VjSFhPWGo5U2VTdEtpMW8xNWFmYmlHM1p1QzQxMDJrT2tKMFZabF84TTRpUFNBQkcwN2p4Z0I3Vnh5QWgxYzZ5WnAzYTVNdThWdmRIWDJhYi1HU1JoUWRJeE1vTnNSbVZ6SjZtQl92ZQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T04:23:23Z",
+    "hash": "08df3cd7ec3364e72341e69084ac817ac324e6dde0edcf4e7a126ea3bbb77d64",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction Next Week: A Surprise Bear Run - Eudaimonia and Co",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWhHN3hCdlkwd0hRdnF0U3pWdERyRjdOUm1SdFc4YWdmZGhwSkhKZXRKcmVydndRVF96MUJCSVdTZGpRT0dUUS1KS1lNOGJ6SkEyeUtfU21GdFpjWnRkTEV4aDB3S0xFV2hKLUJONHBNT3VkdG1lRGkxQWtaSU0tSUl1MHVBSlFSWnE1SldWeTNFZnc0bmV6UF92aw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T04:22:46Z",
+    "hash": "1713290849ad00ef536c49aa7f5f8ccf7dcf68e062aa02a2b1acd6b72f3205e1",
     "source": "gnews"
   }
 ]
