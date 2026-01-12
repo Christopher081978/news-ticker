@@ -1,72 +1,132 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "The Week Ahead: US, Germany inflation; Taiwan Semiconductor earnings - CMC Markets",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVU56R1Myc0dObVBLXzc2NjBqSUJLbXFqVjN4eWVQTnFLVzRfM1BsSzBmeHNPOTdvdnEwTHF6VUhUQUpfVW5PcFdPUkppdUFUdm91Q3BkRWxzb0pGMUM4RWlrc1E5aFR4LWM5LXZXcm45a2hwWHpDaWYyYUtqX0tGTm9aTlNXQS1UZUw2VGxLY2dBblc5TkE3MXFFV2w1NkRDUk5GRlNoN3J5WXlrUS1F?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T23:18:20Z",
-    "hash": "d5ffd9680c636a29a313fb1df312a62eb216677fbbf0c9d433f7fb50a6354dfa",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "If You'd Invested $100 in Nvidia 10 Years Ago, Here's How Much You'd Have Today - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTTdWTWFPU0hwRmdkUjRwZlJyNk94MExXbUtlVDVlNm1fQ0dNREx5Z2xHRUV6Y2NyTVo0TjNuZk9TeXV0Mkx4Mnk2eElvaFhrOVhXM3g3SFlUbk5YbUpFdG1PYWdTbTYwdzBfSGx4SnpKX3Fxd0F5X3lSdFdSdUpUaDllTjFta0d2RnpaWXF0Uk5mWjcwOU56RnItLWFlOHFKSXpSV0tsUkhSeWVOUFNpRy1aQWpmVlVERmpka0xpbWRfOVdwaU5CMjJuOGJieURjV1d4NFlUQVRDQ3JmdjJiWDFwSFoxM0hqWE5UaXNNQ2l2Y2p1TlBONw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T23:10:07Z",
-    "hash": "f9a0c9deb5019cce6018cc6fc6a5ba6bb9ec8176eabd420d288255bf64b11f6b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Shopify stock: What to watch Monday after Google Gemini AI checkout protocol debut - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1dFNkhBX0ZpWUl3ZEpqaHdOd3E5aUlYMzdPYlo5bk4zX0dRQUVuMVFSS1RTTE94Qk13T2tNVEthejZCdEVHZjJPMXZFUXVFYXJUbUttS2ZKWmp3Z05QNG9uLTVZNXlqcXExVXJva1NUQkFYUEN5dnR6RHdnN0gzR19xSGZ2TFo2OUgyN1JpSFFPRkZ0Y0RrMWRmQ0psSUNOeEJrTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T23:09:42Z",
-    "hash": "eb2aab0a61c59de1c1218430354e4cf52238d8fd7b3bd521c709c9971a8f6386",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk stock: Amazon starts selling Wegovy pill, putting next week in focus - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbkhZVWwyWE5PQk41X01kd1ZLRTkzSzhESzR1eXB1a0JYU2lpVHVCaG5uY3pWc3RSaFY2eDNtWndrak10OTVCSFNHSlNzUEVwSHhLS08wTHBWeGZYVThsbC0xNWVsSzRDdmRLWi1rS3NHMU91dW5BTVVRM0h4TlVjOTlsWE9NZEgyX3pueDloRDFGQU1tNmM1UlkzY2NUeUxacVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T22:45:37Z",
-    "hash": "f7ea7f455209eb0b378797bd67711300e5c7d9a74710be337c0bb69f0efcb1b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "If You'd Invested $100 in Nvidia 10 Years Ago, Here's How Much You'd Have Today - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb1VfbS01c1lsdjVsVlMxcVpvbVJaU2p3NF9vZVNFNEt1N2pKbWFhcndWdmFQREUzamFTWW9HTDluVk1kZG55OURPZDBlbGpvR0lCX2twRWtjc1NPYWR1OTJxOHFMeDlsNWRWVGFlbFQyUTJRX25OUzByRDdWWWttVDRhU1dwR0ozRFh0TE54aWY?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-11T22:45:00Z",
-    "hash": "25b6cfe4cc0df391dc9bd1ea468c4a193d5bc313b5e4ecb4013dbf34a8803c13",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase warns it may drop support for crypto market bill over stablecoin rewards - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WVzdHbFBNY3I1dGkzWTRLS3VKejRqZkkwNm1oWEJiSWxxa0lCZVdDR2F2NG9EemxocG50OWZGeG8xN2NOLTh3?oc=5",
+    "title": "Coinbase, the largest virtual asset exchange in the U.S., has stepped up its ranks ahead of the U.S... - 매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxdHNiYS0xU3V2MURSczhlSmRRdDk2QXRPSUVjMERaUTF2VjlIclFJRXgwYjFUNU1KVFAxQkhwbm1GdEJMaHQ2UU81RmxoTTQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-11T22:41:23Z",
-    "hash": "b993b0c8f070fc85a655f724f6e404a861baa33e1c5a695a1ad4d148af8f8df6",
+    "published_at_utc": "2026-01-12T01:29:15Z",
+    "hash": "02e7f653494a4e8714bb8fdcbd76b4c4b6b361bf62a4eaf83046f87aabae3e4b",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Coinbase stock heads into CPI week after COIN dips as bitcoin holds near $90,000 - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDhyQktfZjN6UkswTVUyU1lMUWpaM05kT3dBVkF0b3Y4b2w0cVlDMXd0ZkstQ2s4YVhoVUNpRE5nRTVYNGxFWjZveVZHRE5PTERvZktKNHNCWEJIVW42WmtfeGt0ck1ranJYX3dhMU5GQjBERjBQb3c5V1FsQ1BZaU9wblJITjd5VF9OeWd1Zm0wRlZrR29pSHZoTW5aU3M4?oc=5",
+    "title": "Corporate Coin Investment to be Allowed Up to 5% of Equity Capital - Businesskorea",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16azF1Y3RoZ0ppWm5qdVpSVkJQZlhQcnREVFdCcmJxRnNqdGM1eDBQd1F6ZWtwV0IxMDdkR0dqRHB3WERHZDlwNC1RNjBhQUNxZHBjWlV5YjkwOUowNXI5VmNfeG5GeTRpMVl1Y3dxajVrdFRQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-11T22:33:30Z",
-    "hash": "0795eef911a609198bff93b3c709f1ea6123ebe0cd34e8e3687abba8c754bf60",
+    "published_at_utc": "2026-01-12T01:29:13Z",
+    "hash": "f158ded1bcdf717a25c02b3bafc0c1cfd545135a8e1f85ce7b1379e51158f62b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever (LSE:ULVR) Valuation Check As Recent Share Price Weakness Meets Modest Long Term Gains - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX09QSGlqQVJLWGJQV2tUc3V3VmtyLW1oenhiRHMyc2hfVktOZ3daWWJRV0dYam9WdmxJOU5nVkdRWjlDaXVsYVhOVmlMenZDa2w1MFhJUG5ISmhkY3MyQ2VveHZ1NDRNVUpwY0NKbWVIWVpTNHBqaHd2NkNXYzlTb3JPVlVXWUljTlVHUmZtUW4tdXlxUVhaaWpMRDhuOExIdjFlcFVqbXZ5Z0ZvejlZSHg3R1FRdFE1U0NVaDZ4RDNldVVaeUdheV9zNDfSAdIBQVVfeXFMUE02THZ6UnFDdGtWSldJQmlacHIyZ1B4ZGJrZFM1ZExLc3N6ZWRuY0hTajdOdEdiUjdZRkFxX3Z4aVNZUnNrSVFYcjVJQlZvNEhXQ0N1SjhmS1JFRVdWRDZ5Q0RoZHotQUFsa0NZbXdsclI5UGRLM2dzakExci1PRThsb2FJM28tRDIybVk3aWZTWkQ3ZEs3TVU5dnRxWTNiN2ZIX3BZSmRvZjFGRmJRZjgyaE0zXzZiTy13dENCNmd6cVQwc1hvWUw2Y1NBZ1oybmNn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T01:17:26Z",
+    "hash": "4b45111d8eda3565e0dad7e0241232d56d7d4784a44bb769bd3c6ac641a4bf83",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "My Top 5 Predictions for Nvidia in 2026 - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWdpUnF0bXM0NTZ4WXVwdTNsTjZTQUJqQkd2NE1rVkNsbFVQWjgtOVVtY0VfemcxNGJPWHNuQWtvN1N4aTZDM2JzejZOY3Z5SWFvR2doc3BzeWNDUGJyM29IV2JHY1g4dzZjcDNteWNESnVHdEZ5QUVVRGMtSW5UYnhqV1JraDRhaHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T01:10:00Z",
+    "hash": "b1ba05e1b052a1fa825871a8a775d8f456f7b49899aa2a936c010fe7045a02f1",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Nvidia CEO sends strong message on Taiwan Semiconductor - MSN",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJpc3U1RUZfdWNQcmg5WlItbmVfQmY3YlQ1TWxYSlpUU19qb1E3eVZBT0d3ZERZc3UxQ0tveUZROUppcnZLMi1vWVlBVkJndEMtU2pEbzhDelVlVG9rT1YxaFpYNVg1bzZ3ZDNkTnFjbF80U01PRzJ2SE1JMGhaZnRmSDZhenJDUWdiT0JEU18yYTV1WVlzLUtUUFQ3SlZnUHF4Y3ZJSjMxQ3VzN3BYUm5qeTlPWEs2RXVleTJaT0toa2V5VGFTeGI1VHVIZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:54:37Z",
+    "hash": "15dab5b6bb331b44c1be8a6acf4dc2b78bc6f5429af15e15a6e1733795f296eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia CEO sends strong message on Taiwan Semiconductor - MSN",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnJpc3U1RUZfdWNQcmg5WlItbmVfQmY3YlQ1TWxYSlpUU19qb1E3eVZBT0d3ZERZc3UxQ0tveUZROUppcnZLMi1vWVlBVkJndEMtU2pEbzhDelVlVG9rT1YxaFpYNVg1bzZ3ZDNkTnFjbF80U01PRzJ2SE1JMGhaZnRmSDZhenJDUWdiT0JEU18yYTV1WVlzLUtUUFQ3SlZnUHF4Y3ZJSjMxQ3VzN3BYUm5qeTlPWEs2RXVleTJaT0toa2V5VGFTeGI1VHVIZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:54:37Z",
+    "hash": "15dab5b6bb331b44c1be8a6acf4dc2b78bc6f5429af15e15a6e1733795f296eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "D-Wave Quantum stock dips into Monday: what QBTS traders are watching next - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1pmWHMzRjdDY1lyNGROd1VIVHVYbDczTDZxYnloSFM5MFRjZHpvVDZYbVVoUHdDYVR3cngzY2xwWTdLZ0x0VU9JM2pvOU16cUhXeFJ4V3ZEQmxVSVJvbUg5VGt5QjY3d3FpNWRQT0x4QmxhOWM0S0t2R3lmcFJQZWp2eTdLazU5cy1yZEpSbldEMDNrUmdETnhR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:41:32Z",
+    "hash": "fdab5d417af38afdde3de41423f8150774ef9841eb4ab3c3df298207168caa16",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Threatens to Withdraw Crypto Bill Support - Sharecafe",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnJhY25MNktRVDRIdnFIdmNtbmM5SGNhUTExem9YM3JDM19vczdVX2owT0oxU0NZSjRRbDNTNk9yUlhwVHo5R0pxLU5fMW50QXQza3hKVnlKZFhpSnJyaFNYUlZKWFdqeEt3UnFIYW04a2ktZDdCQzRacmE3aDZIX0p3Z0FJbFNqWEZ4ZXl0b3hDUVFON0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:26:46Z",
+    "hash": "7e2d82149cd19d95a513d77929e93262722f979702517a5aaea08d86147d4c38",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "Ripple XRP",
+    "title": "Ripple XRP: Is a 15% Rally By February 1 Possible? Here’s a Sign - InteractiveCrypto",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUFLWFM4OUg5aVNZX3JDU0xrZFZEVEVjbUwwQl9SbE5qUTFCZGhqdlpXS3dxWk1ENWtUVzVpQV85Z0NQdmZNZV9ZY056SGJHMlMyeFZMV1R5NXRmU1g3aGd0Z3RpanRIWFBOVVdMS1VZaHJTQlNncFBXbERjcWtwLVpNam1FbDBLWk1nX0JwTEFJQ0NVQ0tMNmFGbUdhTUlWS1c1ekZpYXJUNmNk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:06:55Z",
+    "hash": "2014ab9245dd7799bce5dc891ce06dd38fd6574562c3a3eddb7179b93f563bec",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "If you'd invested $100 in Nvidia 10 years ago, here's how much you'd have today - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRjNOQXNtSV9nbVpVYlQtZmlvdlVRZUI2SjBHNWJ1S3JFTlFOVmRrMzlwVkJzUnVfd2FEZVdkYWtnb1Exb05mMnFyaExJbXRhVHA4RUE2Qkc1a3Q2UVZvMW5nWFlOLVdUQkExSFJKbkpiR2swSFRrTERKS1hPRWpwalFHNVBRSGUweHdwZzdzWFB3cXJ0Zm8zWHdNMzgyVERJak5xQTVqdTBlb0tFVFE4Rmhsck8tT1N2a3F5RUVNQWVySjN2ZG9OM1pUQVdBNU1TRldsbkZnNkxNaFpPWWdXZ0ZWd19mRHMwdjlxT3VpcFNtdV9oZ2xQR25R?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:03:46Z",
+    "hash": "3f8a6cf02eb09c67fa32c6bb6ee6d7be031bd86d3ad700817bce45498bba429c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key facts: XRP Oversold Signals Potential Surge; 99% Activity Drop Noted - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWnVBUVV3WVUtVmNRWVczVVNjcFNLc2U1azMwUFV6cFQtRjdjaW9NMVdGeWFRejhUeWUzREhBc2JYR2E5VGZCNGVvT3Nwc2RVS3ZWY2dmeGRBS0taUV9qZi14c3ljME9vdDcwZkY1ZmJ0M0tsZXdyTGUyTHhqNkhzTTBuQURuVkkwX1ZveTVneGNnRGNtQzM0b1dfVEpnY0dXTVlXXzNwRUxBelNMWU95aDlwdjIzdnU1MUZHR1pPNV9sQ1JuZE1IUXN2OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:03:00Z",
+    "hash": "d6fdca8983a2cc4cbfb975d9be6132820797ea1abdd69761020abc7f6287186e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Key facts: Morgan Stanley files for Solana ETF; large investors boost SOL futures - TradingView — Track All Markets",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYjc3VmdTVUtOMHdkbkVUMEdKUWlHcFpOeDhmTnFCa05lTUxuWW85OUJTcUdRMHV5eUZ4QzVJMm4zRHpZSm1pc0h4U09ZZmZaN0tMS0JOOEpGSTZjT0l2WGdfSERiWGxaQW9ualpfdnZWSGoyQ2ZLVEgycHN0dlY2UXJQc1R1dzVrSkR5dWdlcTRjM3g0VTZUT000SUtpdFFFR0hXX1owNU9TMVhYbjB1dTZWZVZuNHZaZE9JckdDTlpkZkRONUJiLWVGQkc1MXNNelplVlVpREo?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:03:00Z",
+    "hash": "be9ada206f429400417a08b2535f724acfad24d10835ae8dcff875b68c8f896f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitmine ramps up staking with 86,400 ETH: What comes next for Ethereum? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YZzhIZFZCYXkzSmlkczJELUJ1amFHcUVudHQyU1U4MUw1dmFvNjZnNklwWHM3LXRFd0s5SGhXTjlMTEp1bUHSAZsBQVVfeXFMTXA3ZzVISFJBUTVZeWpsc0JWMlhWYmR1TGVMclJIU3IwX1JORWJFX21SaHUxSHVvcXVtY1FrSWlWcjA5V1M2a2JJVEhuVlpXWE5SNnhiNWU3QXdyaFhfc1JzQ2gzYTB5UTR1ZkRKQjRDOGdUb1dRZmgtdXRCeDM2TzMyLVlPV2ItdUZERE0zSlJDaXgyMXhsTThfNWs?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-12T00:01:15Z",
+    "hash": "8c94ac5946536d7640eafbca82e2209020c038d56a62ce0bbafa683275402aa9",
     "source": "gnews"
   }
 ]
