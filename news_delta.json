@@ -1,152 +1,102 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase CFO Alesia Haas sells $2m in COIN stock - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON21BUTlQUXg4SDA4QVdMaWdhX09kNG1iU2syMUw2Rk8wcTRVd1pLb2JfSmNqUjN6UGxNbk1YTG1KeGtEUnljQnZjbWZUZXRNUHFmWEVBTUFoQjkyOWxnY0xLVTM2Y0xjRGxra1JXU0FuNmdkN2R5cWhBUVo5X2laSlNVeFltMVZ2SzZpbHBFQWd4THdveVdSYWhkNVU1cTlWQ1loazl0WDE4Y2NaS2pIRUpn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T22:18:21Z",
-    "hash": "c2dfe5b1b2bf11957b8d3c3a59ee779c37f757abc216ec6035e37b18d18080d4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Ehrsam Frederick Ernest III sells Coinbase (COIN) shares for $1.05m - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa3ZGMWd6LU04LUVCaEM0OFEtcUNGd28xTnJpUmM1NWhYV1g2Nm9wRWpoaW9nZlVUNDAzRHdZTmR4QWRJeFlqbkduWW9hOXA2QTR4UDd6UnliMUYzRE9VXzl5RW53X1lWYWRBdUljY1ZJaV9iblNVdUkwR2p2R0dFUnkyZmdjRy14RjU0U2FQT1N6NUljNU9QbFZ0V2dRMnFaZVdJRG9mbG9KTld4N3AxQ1dORGRUeUs0cVJPU212MzB4b3hxdnRz?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T22:18:20Z",
-    "hash": "9f6e0964e46e19aef0c9eee41130afd1c90b178d9133c96167f6a2c6c20b4f8a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Foundation Commits Up to $850M to Boost European Innovation - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXFfWXBaMUtsZTJmY1M5S2o3Qm5hbGIzSFVkOU5fcm1adEJDLWhrZzdMQmtLemJSWmhxaXRNUVZXZWZzWV82MkhMWEVYeW9fbjhpcFNzdUZ3TDBUZkxFWWNXRDE2VF9lNHNUNXNvQlRFVlNwSlQwM3h2ZVRJWDdvcUxzZzBteGtVckt4REk5NkhXTFBJOFpYa202T0Y3QXROdC1vT3k5cGNOSDN3Sm41SVRnaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T22:17:57Z",
-    "hash": "27b21a677d60bee3495deba4468c43739bb5e56f76dc6386a2ba17ab9a8233ee",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab stock jumps after Morgan Stanley upgrade, new $105 target puts RKLB back in play - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWxqSkViMS1LLVZSalcyY3d0NHctWmtXT2FwcG81SE9zQ2JOUnk3cGw2ejMxUE56dE9kNFlkY0d3dlRpVklmNTNzZUFaYmFpdk9pclRyQUxNWG1sNkdJVk9iT3JzaDdaVEdSRE1UT0ViUWY0S2VaMHNCNUJycGVHVmJCS3V1TlduTkwxS1R0MmxIUWdBSXg4YmhIWHREazdrNE83d3dNNFJZRVlwcFBj?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T22:14:52Z",
-    "hash": "2b2cd2a46c2a92a37b1a35eb9516782409a243149f95e279a8b31592f5ddbf67",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "U.Today Crypto Digest: Shiba Inu (SHIB) Has Chance for Recovery, Dogecoin (DOGE) Price Eyes 22% Rebound, XRP Bull Run Imminent, According to Bollinger Bands - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRUJqMHFUVmVSMWVnSTVkZ2VmekM1bm5fRXpBVm5MWnBzZUZsUGVIUmNMNEZWZ0EySG1ydS1fb0s0dDFsMHo5eU9wejFvaFkycWNLWUhfVTM3V010WXc4VUo0VF9aMXJyelFOd2kwMnZfazA1cjY1MWJrVzJ2UWVmZl9GSWhmWHBMdlJoMG45anFrRkNaOGRQS1FTbklOeXRfUWhyUDFuQTFRZ054ZjJ4XzJ3NmhKZ0RHSmVIX1hfRHdCYWczRlZyUnVlekpXODJXX0ppQnhSdy1jcTFsdFVPbnR1N1NISkVOU2ZVcERzU29zWUlKbnhPdFNJSGlwNkdwWkYyTjNCakktbmdOR2ZpYTZVRXJUT0FaWno1Qzc0ZnlMN3hhc1ZLaDFBSi1Odw?oc=5",
+    "title": "Bitcoin At $95,000 As Ethereum, XRP, Dogecoin Trend Lower After Crypto Bill Delay - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeEhjN3RFN1IwSzU4U1hwRUNhZmFxMEIwbVE3LWdTOE9ZRExvTExNTUtxSHFRWGtQazJwTUhmMUdIMWs5Zm9FT0F6NENpZzdVWV81ZGxSS2UzS3k2NVlLSHhyTzhFcXVwcFdQNlNRNEdjVG5IQ09aODhkcXlSOTZBa01rZldhS3hkSDZUT0QxSWptQ0pRbEFyT2llYmhNanROelBPVDh1OTV6UnJ1ZGVzcll2UUM2THNPNFdaMFZLbjFGd01XWFVUTWktQWJRenE0VV9PZVh3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-16T22:02:28Z",
-    "hash": "6a69fad69e851bb89778926982a5a793704fe2e41550dff20b4b2a2202688c5d",
+    "published_at_utc": "2026-01-16T23:08:30Z",
+    "hash": "36076db601bff8fa9b045d399df969ba516e350cc8585cb982945af224466348",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin At $95,000 As Ethereum, XRP, Dogecoin Trend Lower After Crypto Bill Delay - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeEhjN3RFN1IwSzU4U1hwRUNhZmFxMEIwbVE3LWdTOE9ZRExvTExNTUtxSHFRWGtQazJwTUhmMUdIMWs5Zm9FT0F6NENpZzdVWV81ZGxSS2UzS3k2NVlLSHhyTzhFcXVwcFdQNlNRNEdjVG5IQ09aODhkcXlSOTZBa01rZldhS3hkSDZUT0QxSWptQ0pRbEFyT2llYmhNanROelBPVDh1OTV6UnJ1ZGVzcll2UUM2THNPNFdaMFZLbjFGd01XWFVUTWktQWJRenE0VV9PZVh3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-16T23:08:30Z",
+    "hash": "36076db601bff8fa9b045d399df969ba516e350cc8585cb982945af224466348",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD) Shares Down 1.5% - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUxMUXR2OHNOWm5CaFVfZ1BKeld6bFREQjNIQkdRd216SVNtTTcwdUlwYWJRU0hoMnZyWjhBektYNUFVZk1uYWx3dTRGNXRUd1JNZ2VRS1pJcnB6U0VETFJ3Ml9fM2h4U2dRR0lEQkZ1c21qZTZ0ay1SM1BWc08wQ1EyeDFvRUNINGtZc1ljczRjdVBPbzFoSUU3YzlESEZELXBjR3IyblV0SGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-16T23:03:57Z",
+    "hash": "d59ebe1d6f5a8a35fe63bcaea0b66cf29fb80f098f50ef66a46ba19ef013e6d0",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "Robinhood Markets",
-    "title": "Robinhood Crypto Offers a Seamless Trading Experience - Robb Report",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNWlSNjBNQ2d5Q3J3cTZDLWZ6bzJBemk2ZkFtTDZIVWItSnNOYy1kX2FnY2F3ZXlGWmdkZ1ZOS20zbmpKOW1JVEU1TFg1WWNTcklhRzA3NWo4ZzZEZmhMaDdQZDBYanNuVmtaclR1Wl9wY25BcXVKclpyY3ZzdXcxRkphanRESnRDaGFURDRNYm0xM241?oc=5",
+    "title": "Robinhood stock slips again after crypto bill delay rattles traders - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2dQQkZOS0V0TGEzWXdBcy04a2pFNlc0d2kzYWw2RGVNaU5NYXNQRnVqQkgzLWtNR0Jvc2dUbzlnbzhjcGV3X3FIRTkwUFBXMGlzdzh1NlVXZ2VaanVSdzdXSElvR2hDVHdfS3cteGhma09HbGpZWlB1Y1RoTllDNHpSbm5OZng1QjY3Z3hfSkM1QQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-16T22:02:04Z",
-    "hash": "148fbb6e8b878e2810d87a9f37d64a3db95ebdb1d779a31648b9ee072d135981",
+    "published_at_utc": "2026-01-16T22:59:53Z",
+    "hash": "37f18d0871a934232a9c59ce960257e2dd6bf93c78807e372c4105b835c0751b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Rocket Lab (NASDAQ:RKLB) Trading Up 6.1% - Here's What Happened - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOWNma2o1V3BsNlpycnlDWGpXZGNXdEVTT0pIbU5VSm1HYjlNWmJTTVJwWmg1VHlLNGIzTy0wekNkRmlwV1BhT1hLOHR1VlB5V3NDQ2ZWR21RUDE1aVJPcThhUUVtNVFwbDhqX0ZITk5iLXI4RV9rejdnaFJTR2Q4X0RlcW5faHdvZ0lPS2ZjM3FmeEp2cW00cFZkdUljTkk1TXVna1pEY0hHLW80TWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-16T22:49:04Z",
+    "hash": "b90fcea94b314f8698b10df32ec9e5ffb5c81c62d2656b7832b2c35b371ff6a5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Google to Appeal US Court Ruling of Illegal Monopoly in Search - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczZlSVNoSC13Vm9XM1NSdExnOTBoZUJYdW43UF9ZRk9NWGN4Y0ROdExGbFhNYkRQV25LUnNEcjkyaWdQRGd1OC1WVkcwVTNUejhHb1hOV0Z1cXp3MXQ0UC1HNFRYQ2xZaVY2X1ZrVG9odE5EbjcyeGZ4QWMyT2dIcDd2Zm5qTkVQc09pYnFtT0g2SExLMzhrRVYySVNFd2NmWERrSGRacnkta1JsMjVOWTEzdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-16T22:47:56Z",
+    "hash": "2fe47111f34adf9f40fe5c6dd8ca387481783e59bbe3ff4100421abdd9abd65e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: MrBeast Just Got a $200M Backing From One of ETH’s Biggest Whales – What Happens Next? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNUJnM2dNMmRpazFMWnRjekFMQ2VPZFlSSWhYSVlFaHl0Um9acmp2UEQ1a2gzRjVvdlp4dUhCeUYxc1pXV3NuZ3RPamVFLXU2YmNzY0xrOTdXZzQxTE5pQlA0aS1XMFUybUZzUVdEZzJsbVY1M0hacWRQYkFhNkVVU2VQX2JPOERiOEJOVVZRd2l2QkhsT2daZGx0Ym9yWXEyOHpsRzFDclc3aVRCNnBqY0llNHlGREZ3QnZTZ3JaWEc0bUJqd3lZYzRwS09ibnI0QXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-16T22:45:00Z",
+    "hash": "c69795aba26e3b2b52d229f601ef81888d3798b76547d5f8839d563c3a866d24",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP price wobbles after U.S. Senate delays CLARITY Act markup — what traders watch next - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3ZFQlRzWHM0UVZsSEJIZnFRc2ZqMmEyUlFnOTh0ckZTVTR3YkNsWjNtaGpaY0tZWTlrM0E4U1RyX1oySldrYnF5a1pRT1lVTnZ0U20wcERoa1NWYXhNc2NIQ1RORF9pZzlCN0ZVTld6ODFUOXhuYVBWV2dEXzFZQjJpRkNOaF82dEFvMkhwMVFlWWVLMEV0VUJaQ1RnVE8tNmREV2pXR04?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-16T22:44:53Z",
+    "hash": "43c6b5ca9fa2e9b0024d7bd4c7a1651739504e67f3f95a7278113be6cb012d0b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Best Crypto to Buy Now January 16 – XRP, Shiba Inu, Bonk - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXFnUGdhUHVJOS1MdV96VWhBVVBDdF9YSlN3NF9kalVoalZYN05qd0JxMmFIbGJmcHZCckJyYTllSUQ0VnBlOGtPbnl0Qy1aTXV2czV1a3Vka2tEWHlOZ1lWWnptT0J3TzBrVmpiWmZlb0VLWUg3SXQyYzQwaXhrRkM3R2Vtb3BE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-16T22:35:00Z",
+    "hash": "45fb83aa2993c5f422ba5ff8e9f24bc9ce80b84d847d9da8d1fbe920478d1d27",
     "source": "gnews"
   },
   {
     "asset": "TSMC",
     "query": "Taiwan Semiconductor",
-    "title": "Deep Dive Into Taiwan Semiconductor Stock: Analyst Perspectives (5 Ratings) - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcF82OVdURDJCTW4yQVo1UmhYM3ZjSVZCV25pQllycTAxLUpHNnViVUtuT0tldzNGQkF6QjhGVlZUaUROdmFZZlNnTzZlY3R0OGZNUjBma2tVOWlibkE1YU9feGxBLUZ6OEVmY2puS25uc2ZUNU9rQ0F5TDJFR0loaHhVQmkwcFlQRVZWb0w4UHc4Vm5Ic2FkWTByUGtQRTg3V0RoNjhzRXRUWVlrWHJGcG01RVh6aWpSLTVSQU5vTlNjY2xGNnJ5anhnT216N0E1WW44?oc=5",
+    "title": "Stock Market Today, Jan. 16: Super Micro Computer Jumps on AI Server Demand After Taiwan Semiconductor Results - Nasdaq",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX2FQdzY1Y0QtekhVTF8wRmlaQXlhNUVVeGI0WnZmZDdEdEVDMVBFRWMxS0xqQTQwTWJmV1haNXBEZjczalJxLUZoTjNVZ3V5a3hBWS1vcjZLckxTUWJ0MVV4T3B4MGZObElIRms1YnVPVzFFdmI5dFBTdlg2SzQxUVFDM3JjamFCQmYzUzRBOUxjUngzYnY2dXdHZ245N2JQTHhib01DZFNKXy12aGk4VDYwUlY?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-16T22:00:34Z",
-    "hash": "0f8a9b3a21353ebc2e6f42715ef44d8222dfea7ffa75ece48b8abb58e1736c6f",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "UnitedHealth Shares: Navigating Regulatory Headwinds Amid Analyst Confidence - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOW95MEVKVndSQXFJWEhKTDg0WE1WczhPUlg3NjZaU2IwSTk2VUhKM2JHSGs1NUE4eXNkb1V6cmRzaS1UcThIbW91c1kyRnBvaTk5OVhXLTZpRW1kLW5FVWhDLWFOSXZIZzRZT1ZwZC14ZHo4WHRraGQ0Y19tai00Z0UyNkJtd1JETF9sQ3l5WEhsY3JqSmEwLTNGZkdvMDN5NzRZdzBuc3BnVjNJT2llOHEyTzhfYU00dl9DVDBFWFI?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:55:04Z",
-    "hash": "61ad225f19644a7b8065ffb33d82726bfa41ca48bf90d4e7e96d7ff53dfb72d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google stock price: Alphabet Class C (GOOG) slips after-hours on data-sharing court fight — here’s what’s next - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXNkYTVXamhIazljQ1JvTGJyRmxOU3d6WDllQWJpTktlSEpLQjVpUm5PU2ZGQkpOZ2pfZUZaSGMwYi1UZEJtclEzVDlaNG5jZDhLQ25jUWN2dE50QnM5ckJCcGRRMk1FWEtKV2NoVWN1Vmd6cHA5QWYwa3h0MnRKS2lYWWJqeWE0YUlKYklFM0o3WXZBank3Mk9rajU3NllnRGwxWWtkNXdRZUlacllVTW5zSEt2NlNqWHpiVVhrQWlQUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:54:52Z",
-    "hash": "a79c2722565a66565a0218e1f26a3efe0a837aa381c0dc7743c7b3dd6c075e74",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Dow Jones futures: Google leads 7 stocks in buy zones, 3 with earnings due - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZm5Nc1dCSW5KZFF4My1lNk1UbTFVUEhiRk5kUHR4UF95YVhHYWgxbFlfcFE3bXBpSGNsSGM3SXhnWjZHdjVOVjBHeGdrRTRaSzFORkhMcnFyei1KS1VmM2J5Vk5KXzVuNTBDQTdZSDhQWkswUnZHSEZ3N2VXdzl5ZjZkcHVrd0pLNjhQRkNpbGJzRTU5OTdpUzVGeTFKVEVHM1FVV1FIRkNkdFp6V281eGFkbkRGUDlfS1BuNHdPT2V1ZHhZWTZ3WF9yZmgwOThQa3d4VG53dG9LRUFHa0ItZGxRRmU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:50:44Z",
-    "hash": "26cd4d124026acc3b6cc924b3c551419dc626a481d66c7325c5efb002594d0b2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Air Liquide",
-    "query": "Air Liquide",
-    "title": "Air Liquide S.A.: Steady Climber In A Nervous Market As Hydrogen Hype Meets Industrial Reality - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMEhjWFNjUXYyUmt4bHlWVEc3b1kyV09RNmFjNWtVRHlTNmZCR1RtNWdYdW8zTGotRDlDMDBDUFdvZEJ5NGNzS1hBNXBMWkpGSXBVTVp2Njc5UkVIMU5IZDg5Nnc0Zzh2RlBZbDhqRWl4MWg0ZzhRUnNSRGhQejVnUDBWMmtQTmhSMnUxdXJSV0hRcmFaaWNGbS14RU5wSFFWUkxXOG5GLW95cGd3c3Y3UVFwQ1Y4cHQ3S2IzMDk2YWhqc3Na?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:47:44Z",
-    "hash": "e6e0863e31b5a063cf541e7ab6b07c5c18269ffb6f024e59820b4ac02ecb0a02",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Michael Novogratz, CEO of Galaxy, joins Coinbase’s CEO to fight the crypto bill - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yblc2eDl5STdPSUx1dHNtekNYZklMQzg0VG1FMTQ5Y0hTQTd5MjVxREJNdGc1NVhTa0VyVXB6LUN6NzEtSFhv?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:46:24Z",
-    "hash": "11effdecf6a0c9e0fcd0ef81c010634453c49a197cff01dfce900edd62f55d83",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google challenges U.S court order over online search monopoly, seeks not to share sensitive data with rivals - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSWZ2c1N2Tm1IdzVaQ09mcmN5X0c1LWk5MnVQWGN0ZTdpTFZ1UWRoYWxjVnNNa3VkQkcyeTRPY1ZFc1pBaEgwTFI2NFVWTlo3a045ZUVDbnpHZ3U5SWdwV3YtWWhIa1duaHc1MjdGTjlJbkdVVzYxTUVmZ09JM1hZRG1LSlFseHNsX3FuTlctTkxGZjlwVWYyY1VZeTRGM3JMX3FSc3RiLWI0MnhndXd2ejVCX1lYTHhxMUZacGhZZE5vX3M5TTRNQVhSMF9SY3ZrUVVxb1ozMjNrSk9jUWVCYW1jX1hCNThDSlRCdy1DX1J2TG1RYXYtNEtIcTZLY3E0NE9HcFV1RDkyQ01NUWQ3OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:41:01Z",
-    "hash": "4913b60248da11299752f3c73bca642fe15dfbb25d70167b2a3c8deaf2f9cf99",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Dow Jones Futures: Google Leads 7 Stocks In Buy Zones, 3 With Earnings Due - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDVpOWduQUEzRHpVYkRXX1RUZ2NKWEJ5QVJxM0M0clFGamZVSktEcTBIZnVsMkFSbnAtd3NoUjVaQmw5TW9jUjY2d193UmhFdWFkZElEaEFpTmlUeG1oMkpOclFIWkppeHA4WS01bzRvM1hBVFpmM1dOSHNKTnlfQm9udUdDRU1xckNIN3hNcEY5NWlLRGRYWEJteXp2Tk0tX0p5eW9tdUxmTVE1Y21pRHJR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:35:00Z",
-    "hash": "df38c6d8f5eac4dc723d96f1c786f7689a52dff5bce192d9c6c9540f240d87ac",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase CEO Brian Armstrong Accuses Banks of Undermining Trump’s Crypto Agenda - Bitcoin Magazine",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdDNidUJESWFMeG9fZlNSTElpZmR0cE5weWtVWjM1SXVIeEs3YTdDa0c3bER2eERjc1ZwNDhUTUJJemRJY2J3MFV0RkMxRTlDRXhQTUhZQTdEa0wtTWk5STlSMWdYcUdwVzRpaXdQcEdqQmFL?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-16T21:31:57Z",
-    "hash": "a3f97724eeffa83932f659fba9762f91e6876d97bc169294eaa82eca875c8672",
+    "published_at_utc": "2026-01-16T22:35:00Z",
+    "hash": "5d6642caba115b218e48fd80f4b1075e48562db5d95d2b0e7a758e6e15ec79af",
     "source": "gnews"
   }
 ]
