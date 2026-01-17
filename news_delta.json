@@ -1,92 +1,112 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple Streak Resumes: What Happened With the Spot XRP ETFs Last Week? - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUWQ5MVhEZGwzRS1teUF5VzIxQmhsY0E0V2dOY01uYTN3NFdfYmIwMmRzeFhpdVZsTFY4ZFRESjZFdmtOeFBBMFlHOFdFU3N1M2hlenAxWGFpOWlJOXVXaHVGdWR2OFpVRzdmRlh2U2x4eEFhS3BTVGJhcHBwdGZfRnBaQktpNl9XSWVzQlk4OGdfT0RyQlJBb29R?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-17T15:15:00Z",
-    "hash": "977ac9e4a13692ff67e9502a9dd91980aeb60cead6ed22bf2b04442cf67eda37",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Stock: Can AI Kingpin Still Double From Here? - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkxoQlFlSU5XU2dDR2JxR3BRZGxjWmkwWDk1b3BydUd0ODRBNm0zZ0pxRjJEeXNMb2JkQzdWQkp1dloyVzVaajY5cmpXWXN1Qlo0M2pWOWk0aEgydlRMdXRBblpIalJjLThxcEk0SHNBZ1ZRTG1JemlsUF95MkpERDRsX3BiNENvY0hTMWJ4T2JHeDZOcGxvTi1Ed04?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-17T15:05:59Z",
-    "hash": "4da510dafbfc0324a16fe6be3561a622ce000c4391719b4298311ce6754979f2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Golden Cross at $2.07 Signals Breakout Toward $2.35 Resistance - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGJWZDNfcWVlbFh0bUtkLXZpNFZGMW5VdVFwaWIzckp0V0x3WEtRcXlUY1NpV2NoODE2Q2FPMm9JU3JGc1F3dm9DdDFkcThLQm8za05Mdlo4d0x4ZzEybVE3NE9YVmlUSDhFLUswVVJNYWVwVkx2TUQzcU5qR1IwZE5HRFJ1bHZXOXl6R3dJd3dPWmdfNzByMk1kVTV4SEIyc0JxLVg5WUhWdnJGODFn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-17T15:04:49Z",
-    "hash": "851d652d8609a56ae0c9164e39994c0b17869db9725c13a6fe627f4901aa8916",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Analysis: ETH Nears Major Roadblock on its Way to $4K - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUdKNkxVWmNKUHdtYUU4OHFzMk41WW5EaElhT21UR1F3SVJQVEhOaDJaeXlGNGsxaHdsVW5nak1vRl9IV1ExTUV6OXdsOEVXTHM5c0RIdVA2RkNRdXRZUVhyZUROOGFrSGZTTEZTMmt6cEFDV2xBZG8tQTFmXzdUeUh0MXdZWXkzRWk0Ym8yM2MxbndhLWNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-17T15:03:00Z",
-    "hash": "14a4dceecdf33ddf48f4a67c608f9b62855d9860fbb48e2ac3adba7a58848de3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google stock (GOOG) heads into a long weekend after fresh antitrust filing — what to watch next - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTJwSkFZSVdiRXBnOUJjOG5UT1FCX0lid2JnQUtJcEg1a05rWURkc2lMQlpUU1Y1Z25va0JvVnpHOC1lRDZCNkNfVkZqQ204dTcwWUphY3FpN0dQZG5SMVZRNlE5TTZCeWlmMU9SNEgyVzNMOUdydUh3STk0WnJNcXpkV2JzSUticFJUUHdGRUVnaE9KUFdvNER4LW5tbDE1MWtZc3g0WG9pMWN5UENmLVl3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-17T15:02:47Z",
-    "hash": "21117203c97a335d3c392b2af254974a2188fa1c835c7ff05c5c75ee67c6fcbe",
-    "source": "gnews"
-  },
-  {
     "asset": "TSMC",
     "query": "TSM",
-    "title": "TSMC (TSM) Surpasses Earnings Expectations with Strong Q4 Results - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMHhqd1lKX01uNF9QMlJSMFUxUmNzS3BQajBMaDNtNkRna0dEV1RjNnVyWkJodkF0NEJsWGNIdW9wUXY2Ymc3RDJUQ3hZSFY3b1lYVExRTVEwRUREbkNlRTBtc2tnVnVpZVdoenlmckYxNi1lZEUxeFZHZy1uOC1yZW9sbnVabml1TnNwYmdRYzFtdy1PbUJFRW5FWVhvUlVWT0F6Yg?oc=5",
+    "title": "Lutnick makes 100% tariff threat to memory chipmakers (TSM:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMk56VEIxV3p1LS1PZ0JrcTF0eFRJR3B4LXhlOUZtb0Jkak13cnZqX0QwMjI2czI1dEdxRDdqejZVOXZfLTM2RlpNR3BCRXVfUmJWYXhDZ05FamU5Q213VWMtVWVKNDlkbzd2V19PTzl1YkFFank0dWJ5enlqQmJETDBOSVJwR2ZWaFpV?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-17T14:57:33Z",
-    "hash": "7f04fd8ceed40d7f5ed1e0d7e67d31b43273bc564df1cc5fd0975a70c952c71f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Assessing Serve Robotics (SERV) Valuation After Nvidia CES Spotlight On Physical AI - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMURPVEUxZmVteUltMkFZYnRhOEhvWkRfeF9ETC1QNG9KSUIydXNjR3dQaGlZMWVJMUt4ekVfN3VlcXJISFh3UzdjSV9JUXVoVzlfX3JUV1ZmYjRob2dnMUdjcVdTOGZCOVlyWjRzRVFnTDZPVnQybVk5ZlRqeS1CeFhxbDkwVC1QSk5RdHRFQm15SlRBUnp4dnhBU1NKTnA2UlpUdjJ3TG1ZRm53ZnkyaHRzVDdoMXhHcmluNTU5WUIzYjMzNnBFaENmOVNtbGFoQ3BFa2VadXpuUdIB3wFBVV95cUxQN1ZDa0h0c0RSVDMzb2oyWWFhSTRiT1ZrcGUta3dqdVBYTU9ZaHBZZU02RnBsZUJBQnRqZ185a3d0YzRxOUxscndQZ1ZRZjRhZUZKQko1aHNfekJMcG9wREdOLWxoNzllRm50V25SSzFWaE5LZGdNb21jcEhzdi14VFM1Y3FMeFFVZVJrRjBEeFJiUGkzSl83Zk5CYUxQaUVfZ3YxVVViQUJnVWtMZEpJeERHSVZVVnZ2M3ltVmhQVWNMU2g4NlREaWxTMnVWY0R3U3Q0MURqNy1vRFBLYjI0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-17T14:47:42Z",
-    "hash": "707affc91982084ada99e76b9bcf59c24aec714eb25e37e322d9189ef34e5c3a",
+    "published_at_utc": "2026-01-17T16:26:23Z",
+    "hash": "4f376f6627e5f5a6ab0ec6f1acd8f9b439ce8c685a85c5347c39436728bb663a",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Breaks $95K, Touches $98K: $96K Support Now Critical for $100K Push - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlBtUmVncTJFcE8zcFlXS0trNkxxWGxCUHRMbDM0YmJpMXZYZzNNSlpGYWd3UXRyUTVSOVI0TXpOYmlHek0tU0xZVzV0c1ZBMkRTdV9hMmxfTUE0TE1CcnZnRkgzRmxLNS01MWxqU3VMYlg1SjBpZ1RhdERFYzk0WWUtakZ6MjZpY09jZlUzU2YtY2ZpVW92ZEhVZnVwdXJnN05WeGZNalBjN1doVXZTWi1uaw?oc=5",
+    "title": "Bitcoin (BTC) Eyes $100,000 As Price Finds Support Above Crucial Level - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkJtTHNnMjF4OXRadFRZdVpoMmljRTEzNzhNV1V4bGF6WHV1aXU4aHh4Zm5qMXY5V3FVNjlnMnlLWWYyQ1lIRnRmemFfZTJOVkl3bUNKUVEwR01ya1htc0h4dTM5bUV0TEN1N0Jhd0pkZ1pkNTlVbzFhb1FCR2lrQnl0Ti11UE5QT05uYkRYeERORzV2OVNDS3I5aXVQRUE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-17T14:38:33Z",
-    "hash": "7f54a525c5435cb98efb4e0627951565b04a4ca627398ea46d51700c680b4afa",
+    "published_at_utc": "2026-01-17T16:13:26Z",
+    "hash": "dc023dd7a45888fa09349d4c1e09c9854cdaf46424151477ad465d6d4c2bbc89",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "SOL up 16% – Exposing the strategy fueling Solana’s early 2026 momentum - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTBFYzNQQXpaOEtqY09BTHY4Njhjd3BodXAzX1VEZmdPbmRGeGFIVExrZUxsbnF5NzRVZXQ5MS1oc1M1Z0lZeXlIenRHSHlvUG5McDZ1c1o1VjJjcDhhM3AxM0pYanJzWEs2aFBzZmtmZWpXSzBDNm1TX2JvaDRsYUNOSGMzZkMycnNjUGZNME42V0x20gGaAUFVX3lxTFA4WFZsT3N2dzBMNEVid1RTeHExZDZnR0o3aVk5V0h3R3BVdUhkY0hMM0YyNHo4ZTZjZzVvY0JNbkFMOGcycmVvbW05Z1pKVEJDVGNqRlFkN2lrMjNqWUlvT3FVM3VsbEk2NXB5RE9fWmZhYmVWNTdiX21OWXJUOTFJZTlrcmhhYjdNbDR4cXo5SVVuTTBIZXFMZnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T16:05:34Z",
+    "hash": "3ecbfe44e293bcd013564a6bd7344a55174de7f49722737217d42dd0679b4f54",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Shiba Inu and Solana Leave Traders Guessing - Zero Knowledge Proof (ZKP) Storms the Most Popular Crypto Rankings in 2026 - Blockonomi",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUs0OGJNRXdzb0JsQ2pudUxUWS0yVHhSVFI1TndTVUdWaFBDQVNvaGxGcHFKQzFXSERBbmF6LXpZQTJsZG1SOGphNkt3US1LYnV0T0JaQnREZjFMeDdxcGl1YmRpN3N6M045bEdoZlVfLUdYblo4S1NCZGJacGVjXzU1Yk9CejU5NmRJblMzYVNONjh0aUF3aHVmTmU5OUFtM25ySk1KaS1uU2tfTE44cGxpSXZsNDJxUVNON3J0SUNSa1ZyOFVBam84LXVUVjc1bDRSQklkSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T16:04:33Z",
+    "hash": "7999652d68e4a1f8bbcc74f2813a7a5342f3771c6aacbba9a78df1fbd14600eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction January 2026: Onchain Signals Elevating XRP Rally Odds - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzNIN0F3RkVqWk9qeHhSMXlFTGlCZVR1Q3hwNk5KaGJIUS1oUHZ1THc2cHRmQWQ3SV8tU2JQcUZLYWFTSHJabFg4Rlo4aUxlZW51Nk5HcmlITkMzVWlMMGIxVE16MWpOTE1SN1hnVVFHSmg4QTZWYl92VDI3MjdkX2NrNlhvZDJXWjBRdEgzS1daa2pQay1nd2RHclI0YUxBMHo0YzFIUUZ4M0dsYWZGSENR0gG3AUFVX3lxTE1KZkxibXhBeWp6aDN4SkQ2Z3htdS1xWF9COUxHZ2JMelR3dWRmSWdVVmUwQ1ZwSXdtN3lDS3Y3dGUwTlhpa1plTDQ1UmtlLW5MTTgydTNsYmFlMno0NTdXZXBIVUpjeVJvY2VwemRONm9HSHVDOURZZXh6R3pRd2dSRVRlYmxETEw0azEzalFqODVyaXBzNjQxVVNoZWstZXBSSlkxNk1UX25jU25tTk4xbnF4U0ZEMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T15:54:00Z",
+    "hash": "b04828045fe1830fbdb6eba3defb8719303aa1bb2217d63bddc5b1dd5658d6af",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Above $3,312 as ETFs Add $474M and Buterin’s Roadmap Inspires - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlFQckdUZU1rVUZKbTBLME5GUlVVRU8xaWhwWGhfTHplZ0xTZl9KSkRaX3gyVURQdDRCRTNzdllBOS1HU0JaaXBtVjgzYUhEZDIxaU83NHdBMVVnOUFIY0s2N0FKUHE4QS1IU1J1R1lpME1lYXdzVE1XXzJ0OHoyeE45bGZ5d0pSelBpbXA2cDR4czBXeW1iWF9NczRzSEVlTDM3V3BXZk0yMFZHcU10bFdhMU9IbUU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T15:49:30Z",
+    "hash": "30a80d73558e9cc103ab1e969dee82927b7216c7f211416e2a76bba6e471105b",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "GOOGL",
-    "title": "Alphabet (GOOGL) Stock: Tech Giant Fights Back Against Search Monopoly Finding - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOanZWcUF6TG82THVpZWFRVzdjNHk3c1Rvd0M3QzlZOXpZYWsxRjJuR0pTQzlxTFNUOHYteVp2d0VQZlNIQ1g3ZnFMTVJOakdEQVRlLXBuQndyblVZOFJlSHBjZ29tbUlTSzQ0bllZRnd0QW9Na2s3NGFqQ01VWVZqSGk1X3BHeUZHdnRHYkVpYTNBWWswSkozUmZ3Y0pScHZjNmc?oc=5",
+    "title": "Google's AI wins keep pushing Alphabet higher (GOOG:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSW96WjJPOHgwa2p1S3ZIdWFtVkE4Q3FXRUxMSk55LTU1d2ZZd290VEtLdTY3MEpLWDRTQjdITUgzcjgxUElDcWRrSVNwbDljVXkxUFFSUnluUUlQMXZiOXZsYWRxYTFkX19iVlljWWxrQ1NJLXRnSGpBTlJsSVVsQ3ViQlpBdDc2TUE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-17T14:33:36Z",
-    "hash": "9316593a63eec303c4b5a6bb87107045989cd76ea475bd9b2f56def0f48eaa37",
+    "published_at_utc": "2026-01-17T15:46:58Z",
+    "hash": "f7ce67cb622e5d2a407f020a7107443bcb0e374d4a627a0eef6429f7f9e3dc2d",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Massive News: Nvidia's Next Chip Could Drive Billions in Profits - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSk9LX04zS2pGbnF1S2V4RkRfY0FvXzNWSHRyaWRSQXFoQXRQRjV0VGpQMEZuYmlraG54eXVXUFJxZnp0WEtDQ21RZC1GaWhlT3dCZ3lFUkRFSkVVNF9tWWJMRHo1bXNsRlRZODJrNzlTaFBlTlNTcVFzcmMzcjlmU1dZYmJWNWtMUGMyRXgzUzY2eFlPQ2lPTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T15:45:00Z",
+    "hash": "76e82a6b36076cc4eb8cd7dd5aaadcada8b2f704318925def50a18e8b83a870e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Michael Saylor Once Told NFL Star Saquon Barkley To 'Throw It All In' On Bitcoin, And The Eagles Running Back Wished He Had Heeded The Advice - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQN2NUc2trRXZxTXgzelBsU0QtUXVRRFFYOXV2X1lfbkxHX0RCWE1xbDdLNHBTY2NsWDBhdGZicFh4WjNSV2JYcmhmVUd0R1RKVnNHLUFqQkJYdXdELTVVUEZKdnJMWWFQUGlhSGZXSk5Gd09HX1hhNzNySE1lSEpKLWtoYVJzcHZkb2xVN0RKWktZTWdfYk12U1NZNTU0TUVtWndHYlg1RGNHbkRmNjNsN1hqQ2ZUZHUycDFhTVJvTHhFREFnclFFZm55bnNzWFpVQUdrdVVPYzB4RlhyT20zWGtMQk1SWlNyZ28za0FsZmFFeHhUelQ3SS1JcUFYVkpPRVF4OGJwMklxVTd5bWZYZGJFRDd1QVNpNG91MEQ5MkZiMGI0MDRn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T15:39:51Z",
+    "hash": "190b713b1fd1b765cfda3a37c3b9d2933f091b0fca86f5b8a0e0533b425c59c0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Why Solana Could Be the Top Cryptocurrency to Own in 2026 - Blockmanity",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUdfX1kyRWRaMmFYTGd6SHdFSFZDRWNOMzE1eFExRUZUV0JzYmZub25HM3pLTmxDa1p4ZzhLOU9OeEVnY2EzQ0ZzZ3RoenZrLVhQRXhkVWVaZm5xNEhMeVBJT1VVeERrbGFWMWJtaE5RNTZSLUhRcW85YXZGZ1NYYmdMdWo1Y0o0VnJhSmRzX0TSAZYBQVVfeXFMTXN0SjU1THlOR3JJN1NyYm5EQVhZS3kxQ3U4Nk01d0Uyb2dlU3dWNWVVVnFWZmlmcmd3N3kyaHBxMnhHaFVtN0NWNE5nMm5uUlpMclBhX3ZfcUxxT3N1WmJHRTV5WUJDdm9RUWVXSFNaamZob1kyaVNEUFh6YkxSRTFHeWJfaFpHZlU1bVpOeVBROXZQM0Rn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T15:38:26Z",
+    "hash": "af95f4f3fcf6e8c5301fe5cde20b0d33b1b39f095d05620e8e2e2d062ff095c8",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "1211.HK",
+    "title": "1211.HK Stock Today: January 17 BYD Rises on Ford Battery Talks - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVEFwa3I1UW5ZVTltSHVRbm05eml1bTdTSFIxT1lSdUs4WllNWGNCTm9nTVNtYWxtcGVIdlltYVRod0R5UFNqSlNzMnJhUmh5bF9Oa3NnMVh1amdXRWd1Q2dFX3Jtcmk4ZTllMDltei1yRml5Sm1sOXRpS0hVNi1rUWs1TjZuanlER2RLY2E5SW9NRFVC?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-17T15:33:54Z",
+    "hash": "468daa34f084306d1faf49313b77e24bb06cae6028e6d7c375964e43a16f7b6e",
     "source": "gnews"
   }
 ]
