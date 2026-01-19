@@ -1,142 +1,82 @@
 [
   {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD Shares Find Footing Amid Strategic Shifts - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOek4zSzBIV3A3cGJnV08xaGt3LWYyNElNVmVkOWtDRVk5SGFIZWVFd011YTRkOGVmY3JxQ0dpNlk5TlE0MEQ5OFZ1N0ZzSXhQbVRWOC1FaVAzbEZyVmNiSF9MVDFBbm00NzFMZFhWZUVudHByQUNhTHFxZzlFS0p3am8tVkthR0x4cm9ZRG9SNkpuaW5XOVF6alZvYkpJRkh0ZjU1X3pTOA?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Forecast: BTC Risks $90K Breakdown Amid Greenland Tariff Woes - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVVhPNTd2eVRwanJtQ3oybG02TGViRUNJaWdQbzRwUjZnWUZfOUw0d3k1VVAzZDE0b0tkMDQ3cmR4ZWVEZkJ0NkV4Q2RxdHM2dTNQcmtCcS1LM2szSjRfb2U3WnBaclZyMUo3Q0ZBdVotNHRxUFdPSGVYbzh6MFZQSmxwbW1wSlpUb3dPOXgzRGsyeVdTSWs1dEo1RlJjaEtCQ1VZdzA0YzhRZ09QVUtzY1dkeVRWTklsUUE3X180dmFadw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-19T03:46:04Z",
-    "hash": "43ed90ffb5387cfa327f368185ff5bfe9842cf46e8d106f4387197f62abafe88",
+    "published_at_utc": "2026-01-19T05:25:00Z",
+    "hash": "f12fb5e830c1e265eaf4e2a4112f4e5c0c6356a8a7e224f3470f82f997170ce8",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Shares Navigate Regulatory Headwinds Amid Analyst Optimism - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeExmVGxOS1JTbXdEVWY4ZFQyYlFsYWVSMXNWS1BydXI4RzUtNWwzdEV2WWZDNGRUZ0xhTFJaQTJQTFZ1ZHoyVktoczRmb2M0b3dLLTIwaUJPT0ZqYlZlWThCd0pVdGtJQXBENWRSajE4dW9rbzhBeUM2b3hobnhLaGFpLW1nV18yY0w2bS1ScnhET253c1gxRHB5U2VtcVpBMExZRHNqdnVZQWdmYVpsUWExZWVmVlU0Y3pxOW5DY3FBNkVVWjBSaElR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-19T05:21:04Z",
+    "hash": "1eb0dbfb9d64f7fd61e55484e4ba7514cbc8f952c1edb257e565c73ababc65c7",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum’s Strategic Pivot Meets Market Skepticism - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVZhRlhlbkdyZGs1bWhTYURwU04tNzBYN1NzV0diRlhkSTVzNkwzMFNYbU83bFVBcEJucEdMY0l5Zk05LVhTbF9KWGdqRHNjZ3J3SFl3LWhVdEFwcko4d2pxbU9IdW9pS25IbjJEUUFrTWJBZWtFY2x5ZDVPTUVxNDU4VG15ZzVGcy1PRjVLcGZoMTI3R3JCMnByQ21Gb0lab3BZSFdOOWowczAxeDJnOE0yNG5BZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-19T05:01:05Z",
+    "hash": "6320e14e4f291a565f66f788591b8f2c1e9bb7e9f72ea09ffb9255a071cadb46",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "RHM.DE",
+    "title": "RHM.DE Stock Today: January 19 Bernstein backs EU defense sovereignty trade - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUdHT0h1LTFFb3ZtbDJ5S1hEaERGNm5LU3BPNFl2YUVXQnlTcmhrYzdudFdoTTVkY3ZxeDI3N3c2bUxwZmkzR1Z6MDQ0NHR0Wi11bkh6UThURmNjWkUtTTZ2V2tnLXpQRnNuSmh2N1lpU0JZNnRvbGhLdkdpOFhKZU9kYm5qTFNmRS1zeXo1MmxLd2o3bzhwR3hvX3FtVDQ5RlBlNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-19T04:34:51Z",
+    "hash": "ace0c8212870d383c7864b0ffcd1937e2a00a3a67440610b4cc069c63655a75d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Disputes White House Hostility Claims, Calls Crypto Bill Talks 'Super Constructive' - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmpOVWM1eENIVTJ4V1FTUkJPa0dVZ0lDZ0hDblZNRnc0SC0xd1cwQVRPNlZZZDJlLXhmZFBrOVhacWNUY0JzelV6ZjFHX1hHaEhFNkpZM0tlSlVyUmYtdzg5V3Q3Y1VwUVVtNHNPQ3ZRcHhPaFg3RFFCSGpRNUtXQkd4OG9TQ2pNNmZJODJiRWFDb20yUGhmUG01V2tuVEgwYlNYM0ozQWVZbXpyUWRuVk9MVlZQQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-19T04:31:47Z",
+    "hash": "82d954c42a176ff0afaf126f175cf9f8a221843516cf74e0a12c1efdddaeb488",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Down Over 20% Yearly, 10-Year Investment Returns 437 Times - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZllBQWUwdUxRZ081V0xFSTdybW9FRV9JaTd2R0poSmdseHVIbl9OSEN5Z0xPa19tRjhDQWhrSXQwYlJNU3FjakJNb1FUMjFaZ0x4cHRMS2NEMGJlYTVjZS1RdzVzZmtKdEhLWGY4cWYyRHBKOWlfNldiZHB5QU9HTWFtVEE0ZXRHejg3SnlXNHMxODlDUUNKZg?oc=5",
+    "title": "XRP price today: Ripple linked token hit by liquidations as price slips below $2 - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNW81SmdNTV84M1JvaVdzcUJEZUVLcTg0T1lIZzVPZG5CakFKbE9xTTJxTm1xa0Vqa2ZJZ2dGZzVjN1ZHMndQbDNuVFVwMFZIakR2cWhIQ2RKN0QxZUtlSzJzb0RzRWxsMXZmTlpTX2lQVVZNdmFtczk3a091TzhQMGZDT1R4SkhMb3FvOUF2T3dFWmlRdW9Pd2lMdU5oeHozWmc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-19T03:41:08Z",
-    "hash": "3e07f544d63871c0eba0186ca6327c303b11fbefd336eb1a53ac13869c1c6731",
+    "published_at_utc": "2026-01-19T04:29:12Z",
+    "hash": "063150ca3317d05fde85acf1fb25f61d6b4361e5da387601d526ebbc689867b7",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Surges 44,000% Over a Decade, Currently Trading Above $2 - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDB1Yk1fc0hSTUhUSTF1WThJTUR6bzE5OW1yV0VYQzVUTnlrMTU2Y0lWZDBEV2hNcWxTN1BScnJYZkJPOGlCYk1xQXN1OXhqaWp2OHFsUmpOa2dRb0FxTXliVkRYT29xb0Ytakdudk5sUzVNU05RS0FnWWtDanI0RWlDZEFmakkwTUNQakNFcEtnaG1k?oc=5",
+    "title": "Why are Bitcoin, Ethereum and XRP Prices Crashing Today? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOGlqZmxLVlA3cURNa2JtQW1MOFpFOS1NamduYUFzN3NWVnUxcW9ic3dTZXNpdm9HazdhZnV5Qkl1X25FUzV5VzVqbmI1OUQ5VU8xejF2V25CMVdkUHVrWUlYWDh3Y0JncXFURWppQkUzT1IzcHJ4Z0tfUkdiMWRmQkptaW9iUnFqdU9vbNIBkgFBVV95cUxQX2R2aWN0RWx6dTN2YnBDVlg4VHdzV3QyelZST0JVQno2b09SZXdCenlQMndLV2p5dUR1U2oyQW5Pcmdpcm1aWHFrcDNEX2hwUkJReUUxeFpLRVo1a1lLbzJrUWgtcXdjSS1QYnQ3UHhXWjlId2xaMmdCcWdHdlpUTC13TlN1cjRwc2s0M0U4QXhoZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-19T03:35:10Z",
-    "hash": "881f57674a33d4e85ec2158b61121f121da7b721dce1fe43e2f35b0628088bc9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Post-spinoff Siemens Pakistan faces slowing markets - Profit by Pakistan Today",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2kwR0R1ckwxNVlLWFd3LTV1ckNHQnNTVU8wWEExeURlTEZmbnlhQ0o2NjBIVmFVQkFXZVFoUXY2eW1MWWlzZ3pjM3lVNm5CdmhzYklBVUdCTGN6dGJ5cGVkRkdiaXJlMHNabktPeDRoZ3U5YVhpRkNkdnVHaHgyU1dCMFEwcFZyQmNQR3hzN0ZMYnRKTzk2MkdHNUstN1RD?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T03:30:02Z",
-    "hash": "2644b32857d0454eb9473a106897f20753f41c9d99949e265e7ba795057dc51c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Medien: „Die größten Player der Zukunft“ - warum Youtube so wächst",
-    "url": "https://www.handelsblatt.com/dpa/medien-die-groessten-player-der-zukunft-warum-youtube-so-waechst/100192678.html",
-    "summary": "Fast unbemerkt ist YouTube zum Superstar aufgestiegen. Die Folgen für TV und Streaming sind schon überall zu spüren. Das ist erst der Anfang für einen der größten Umbrüche in der Unterhaltungsbranche.",
-    "published_at_utc": "2026-01-19T03:15:05Z",
-    "hash": "b4693b8fca24df9cae6267dd981094b6c66c1d369970dd095f7a915b7f3d66cd",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Gains Momentum as Network Activity Surges - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0I3X1ppcnVZZjh6cXVNREtSbVU4T05fczFsR0xOUTVoTm1aUHFEdFhKaU9MR3k5MEFHTFlnX09rTVcyVUpYTl9SZk83LUp2VFJQX0hPUFRHbHNiNWxLQk51OURFbjBvVTJKUU4zcWFaYVJDZmN6Q1BKVlR4TmwzTlpVVmU0OHJXZDZxUXFNeVBDdDNTanZOM0kwdGhiRXpvX2hIZVZlMFZqRUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T03:14:04Z",
-    "hash": "3192152b6d24fc7db06488bbb500e943042f3c082940127ab7c6d7db4102e1e7",
+    "published_at_utc": "2026-01-19T04:26:00Z",
+    "hash": "3f440906600f8fa4bd2550ab3f3d143e56c467ebb309e6f0302a1987913d0c41",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Crypto Futures Liquidations Unleash $440M Storm as Bitcoin and Ethereum Longs Face Brutal Squeeze - Bitcoin world",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHVWYmhhOElZazJCWVJkZEd6eEtrT2tPNEJvZnBsMy1CNjBwS1BfQy1jUmYyNU41UnVpTm5Ib19BZkZNUXJZbVgxQTlBTkNJSm1qaTdZWld2Qmx6SkVfRTl3UDdISkxpRVVQYzRDTVdHMEx1MWNERnpFaXVvOWhlUzEyN1Q?oc=5",
+    "title": "ETH, SOL, ADA price news: Bitcoin under $92,000 on tariff fears, gold to record highs - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSFJGa214NXd4WlJTWnl3NDdmZE8yNzJIOVJnT1ZrRml6LVA5aDAxbE5oZWkxX3UzV2VIc0tNRTMybi1WVXhtdkYtLVY3YkVnN1dHVFdqdFp4RnJFMGRITmRVTDNDTjd2MUFUb1g2SGpkNVM4UXNYS21yRTFjclctLUI0VngySFA1bUlYbXdSNDl6aXNmdGdQNFNnUm5JS2JPd0c0OGNSTHRCTDI1RW1tcFFySXdGVXFjMkNza0p2TE9rXy1S?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-19T03:10:11Z",
-    "hash": "761f22f143d7337cd18afcf49332ca83bc97a26ef95b15672b1b6a3277485cb9",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "If you'd invested $1,000 in XRP 10 years ago, here's how much you'd have today - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSjE3bHlCZ2QxQ1JYS2RDQTNyV1Z0dTR5dV82c1g2R3NhQnZGZldfUkljZ3BFRlRLTVVLcEVmdHp2VHYxOHkzTk44Z0diaUdFemt2dU92OVp4VC1DdTMyOHR4YzRBaWxlWS1aNko3dUFSTWJEX0F1OVZzTFpsc0tBRm5kWTB6clhfelgwVDhMNDUwdmc0NF9WWDRHaDJZUGxyaW9nRjhvLTN0akp6ZE9xN2xKTXgwT3VtVklrN01PZUpicklkRjRhdkNkbTQ0dEJLYllSSV9LQS1QZGVLRF9GY3g4VmxGMWpDeGQtTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T03:08:55Z",
-    "hash": "7405f5e3ce3115b09b358b6db60de1ffc343106e4759969d01686377872f0de4",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP dip amid escalating EU–US trade war fears - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaWxEMEY2eTItVE9zVWt6YzJ5S3FsU0M2X01YbnB6amVYMmxxOUVIcnFDcjVScEFUZE9RYTgwaTlqMzJtcHRHSVNZMnVuS2ZVOTAtT3RfLUtoVkZvd1VPQm03bUp0TTlpeFhoVnRCc2I4djJMR0ZMS0VQOXRIcmJtQW1YWUhhN2J2ekdDa1NuY3BNNzBjemprR3hqb0JfZ0JvR2VrOVowR3h3RVBLSmlvWmxnSDlRNE8tRDRqdEJzUHo3aktQdnFBNEI3Nmx2Zmc5cXlNUmg4UnQ0dU1Ec2JzQUdGaTh3c1hsRUl4am9OR1huaXZkMWNF0gH8AUFVX3lxTE55MG1YZXhhd2ZIeE1va3NUVV9SNm0tTWdyWkYtRzNkODU4eGcteThoVzRWTDExYVl0cmNTQndYUmhoZ1BUYVh0OGxvTFBQMVp5NmZxejF4amk2YkY2cGtEc0s4cV93cE5mekpJTjVxUVE1QXgxWXkyX2FZa183WTV5X2ZjSWxwWkRIX2FDcnAwZWl0aDJ3WlFJT3Q0c09XZG5naGdpWS1NRzZfUVFTUFhZRldwMWhXOFNuQzIxTFlVTWt3Z2M3anI3emxPZ1lEaWZfS1V5cDNZUzVrMVVNXy11eG5UVktJTEQ3MEk1ODBTcFZfVTlHQTQ3V0R1ZQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T03:07:04Z",
-    "hash": "a834e77a27bda712d8721e91f36b4b6e36ba99d12f0959206f1fbce820302ef2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP dip amid escalating EU–US trade war fears - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaWxEMEY2eTItVE9zVWt6YzJ5S3FsU0M2X01YbnB6amVYMmxxOUVIcnFDcjVScEFUZE9RYTgwaTlqMzJtcHRHSVNZMnVuS2ZVOTAtT3RfLUtoVkZvd1VPQm03bUp0TTlpeFhoVnRCc2I4djJMR0ZMS0VQOXRIcmJtQW1YWUhhN2J2ekdDa1NuY3BNNzBjemprR3hqb0JfZ0JvR2VrOVowR3h3RVBLSmlvWmxnSDlRNE8tRDRqdEJzUHo3aktQdnFBNEI3Nmx2Zmc5cXlNUmg4UnQ0dU1Ec2JzQUdGaTh3c1hsRUl4am9OR1huaXZkMWNF0gH8AUFVX3lxTE55MG1YZXhhd2ZIeE1va3NUVV9SNm0tTWdyWkYtRzNkODU4eGcteThoVzRWTDExYVl0cmNTQndYUmhoZ1BUYVh0OGxvTFBQMVp5NmZxejF4amk2YkY2cGtEc0s4cV93cE5mekpJTjVxUVE1QXgxWXkyX2FZa183WTV5X2ZjSWxwWkRIX2FDcnAwZWl0aDJ3WlFJT3Q0c09XZG5naGdpWS1NRzZfUVFTUFhZRldwMWhXOFNuQzIxTFlVTWt3Z2M3anI3emxPZ1lEaWZfS1V5cDNZUzVrMVVNXy11eG5UVktJTEQ3MEk1ODBTcFZfVTlHQTQ3V0R1ZQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T03:07:04Z",
-    "hash": "a834e77a27bda712d8721e91f36b4b6e36ba99d12f0959206f1fbce820302ef2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP dip amid escalating EU–US trade war fears - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaWxEMEY2eTItVE9zVWt6YzJ5S3FsU0M2X01YbnB6amVYMmxxOUVIcnFDcjVScEFUZE9RYTgwaTlqMzJtcHRHSVNZMnVuS2ZVOTAtT3RfLUtoVkZvd1VPQm03bUp0TTlpeFhoVnRCc2I4djJMR0ZMS0VQOXRIcmJtQW1YWUhhN2J2ekdDa1NuY3BNNzBjemprR3hqb0JfZ0JvR2VrOVowR3h3RVBLSmlvWmxnSDlRNE8tRDRqdEJzUHo3aktQdnFBNEI3Nmx2Zmc5cXlNUmg4UnQ0dU1Ec2JzQUdGaTh3c1hsRUl4am9OR1huaXZkMWNF0gH8AUFVX3lxTE55MG1YZXhhd2ZIeE1va3NUVV9SNm0tTWdyWkYtRzNkODU4eGcteThoVzRWTDExYVl0cmNTQndYUmhoZ1BUYVh0OGxvTFBQMVp5NmZxejF4amk2YkY2cGtEc0s4cV93cE5mekpJTjVxUVE1QXgxWXkyX2FZa183WTV5X2ZjSWxwWkRIX2FDcnAwZWl0aDJ3WlFJT3Q0c09XZG5naGdpWS1NRzZfUVFTUFhZRldwMWhXOFNuQzIxTFlVTWt3Z2M3anI3emxPZ1lEaWZfS1V5cDNZUzVrMVVNXy11eG5UVktJTEQ3MEk1ODBTcFZfVTlHQTQ3V0R1ZQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T03:07:04Z",
-    "hash": "a834e77a27bda712d8721e91f36b4b6e36ba99d12f0959206f1fbce820302ef2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News Today: XRP Slips Below $2.0 as Tariffs and Bill Delays Bite - FXEmpire",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWdQTF9iS3FybmdOQmU5RkVPVkRiZnlfMk1US3RkM09XZDEtTC16amw0REY1S3RPSEd0SjhpeXdqaXhSTXBDelBRRmt5UlZFaWpqUjI4Z3h3bzJLUDJSQVpKM2NUelFmczhVcktLM0toTlB2dTA3UXdEQ2prQUhJTTBWZWFkRVUwNUtpMko1ZUUxOHNndUt1RVhpbUpFTkxvY1ZYUDlHUnQ2NEhtSUNPMDRFWFlrMGI0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T03:05:00Z",
-    "hash": "e09072007cc3fa5217ceb03711b88c274476c55603462314b541c5d8d8cea18d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Investors Buy the Dip: Bitwise Ethereum ETF Sees Fresh Inflows Despite ETH Slump - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTVOU0lDLUFIYmdHaENXQlI3T3c5RVp5cHJjN3VPcHdIbFRSdThTdkRyTm9peThQcjJ4c0xFeWM3T3RTeGxFSzVGNmswVVhUSU5HSXNGVjV6VHJqS05qbmpEejdmVk5ZZy1yeFhpZlBuUzQ5STczYmpuZ3lNaFVLQ1pUazJYYUNpRzlQOXFEd1MyRU9Zb2h0THJyS3MtLUVsVkZNbGJqbEZaOU12VGtrZFY3a1B5MVFoV2U1TWp1QU5Cd0pm?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T02:52:03Z",
-    "hash": "963f08937ca7e08a13888d57acc3e06536b916e927e3e0479e12eee96ba66bc4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Shares Rally on Strong Launch of Weight-Loss Pill - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYU1yX2w4VXctQ3hQeVJwM2dlbHAtWG44TkZNZ21ZNUY0cE5TR1FRVTZJbEFNdkpLSE9EN3B1UExnaTBfUEMteS1YaU8waTF5d0RKYXdFcjhXLU1tV3RxdE15dHpoQ2JvMFNGVm9aalV4bXJZUkdFeFNCQVlFZ29mWThaQUVoWXRzM0I4c0EzZ2h1dGxyN1E5cDZQdnZqSUVKdWVxMzNsZjdlQ1NqWkxpdGR2MHZQOFk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-19T02:45:05Z",
-    "hash": "9226af83bedad0fbd30b4a8f1ff7f93194589d5aa1e09e8daf82881e2ee5d140",
+    "published_at_utc": "2026-01-19T04:24:42Z",
+    "hash": "08867c66e46e795c835ab1e76c8dcc0c0a3fa564858ac3758d952e8c9d39ed9c",
     "source": "gnews"
   }
 ]
