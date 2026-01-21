@@ -1,102 +1,72 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitcoin Around $90,000 As Ethereum, XRP, Dogecoin See Volatile Wednesday - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMWZ6WC1OZGhOSUxFemNjdUxOUGZxakhneW5hOGhCaFRITVZWSDdja3ZjWVotc3Azbno4a2E4Y2UtYUpIOWVISTNPVzNWSFUxZTUwOHZUQnpUalcyaXcxMkcteTdDNl9nYU14dnBCdkQ4enRSakU1bXhCaDRkakJUN05PdXVVTnE1Y0hISExjcnFYWVF1MElzRVBXNjdzOTdaUDN5cDdYZm5rMEFJX0U5ajFMSlB0UWtTQW5fQU5NOURTYU96VVRPNzJ3?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Fluctuations Signal Possible 68% Decline Amid Market Concerns - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTW45WWNIeEU0eEtycFd4MFp5ZDNDZEpBcHEwVGF4M19WS1RnZjdBalMyNVdXUDVnVHFXclJnc1FhNTlfcGhBbV8xVVZEOU5HMTRHTC1TbF8xd1RnZDBsOTRIbS13WDdnVjQtOHctMm01RzJOeVBTbUp2REFpVHpPdDQzajF4WW9OdC1tcjJJMEtDMnJNZGpIWnYtRkRmZ0lEX09uM2NHYm0?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-21T20:36:33Z",
-    "hash": "542dc32f3768c9005fd04b1e712004b2fc0eae7d51893a3706ba1f12b04c75db",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Dogecoin Price at Risk of Further Decline as Traders Lose $1.2 Million - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMGNQaFVVNXlQRWc4THdvUFctSDItMnNnVDNxWC11SzBCVUhYUkZGMjlqUzE2ZG4tbUo4VWpvMDRYazFkYkVESUhMQXFBMWMtQ1B0RnpPa2xad3ZJNVozSVpydkkzakFWblVYblYtRXhWdDRsTGJGc2p2N084M1R5RlZlWi1LcG5qSnBIbHVJc1RvaWQ4dmlUSFZCdGkyQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T20:12:19Z",
-    "hash": "2ac2ca003b8608dd98189e7ec4b0a0c39b4f14dfdfa799e44a4a6245a01ff3fa",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "D-Wave QBTS stock sinks as 10.4 million-share resale filing shadows Quantum Circuits deal - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTNxWW1WbnJvcWxHWDhrX1E2NmVEd2p6RTdHY3BVckEzTTcxdmQyR0JuemZLNFItd0lZU2cyZ3JUWDFBVkkwTlRtaU43aFh0WXo1cmlEOGx4dXR3WUV3bE1BLXBCMDRGLVRWNU1NelNpcFk5QzF4R2swdkJPQ1NGczJpbmozWC00eS1TVWpUN1M1WDNJTWdzVWF4UHdPeDQ0R05WR0ViX0RibXVKYlpJ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T20:09:10Z",
-    "hash": "f56cf059f69e54537cef5f13042ccf0ca9e856e290fe3264b958f9da3fdc9489",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Better AI Chip Stock: Nvidia vs. Navitas Semiconductor - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcVhsbl9zSlA5R0dob3E5andLX2FUV3lZRHFUUFhaSVdDYUF6Y3pnYXo0a0xDQ0l1ZllSNlJPUVZBbGNWTmF3eEs2TnFZLXRQT1BDOGhxdXd4WndONExuM3FNeW9BdG1YUWpxNnR6OGRCWGRHS3dqQjNEbUg0ZWl1b2JRMEt5VHhDZTlicTkzWHRzbVNaYXptVw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T20:05:00Z",
-    "hash": "11f49dbe9c44d331b6b3bd51f2bb89459413dd84776e475a2e6e3e6bd4916409",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Crypto Bill Hearing Postponed After Coinbase Pulls Support, Igniting Industry Rift - nbcpalmsprings.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWdwNlhZenhqdzZkSzV0SEViT05QQUhuVVd3MXBmMHRwZmZNVVhyWnE2NWNnc2NISmdNM2drNlgyeVFFNkw1ZVV2dXFVX2ZmbHg3TzIyeFRXZVBBbWdqYkxCME90RWtWWXRfS1d1b19WclJ1VWo1OVlFZFNzNndXWWdtb0ZzOVJWTmw3R2k5MVlXejBDU05CamJDV0RlR3JoRW4xaUo1bnFRM0s4ZVlWU0lZcDVHYVpVNUJYemxyWlU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T20:03:51Z",
-    "hash": "4d7e9b1cbcfcb8c60c411f5ec09dca44a21aac3a268bae3fd9fc0172f1d61353",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Gold, Bitcoin Or The S&P500? Which Asset Polymarket Predicts To Do Best In 2026 - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcTM0NzJTa3cyNXFxRWZDRGdCWXNVQllQemVCT1duRjZxb2hOVDdVS0xuSTdOTzRwQWljZHRZQXJGVWxUUHVLN0R5NkZqSVRsWlE0alpOQXM1dF9KX3RDanBiN3NDVDYwUkpUbTJlclBBWklXbEJtXzZUM2pyU0tLbTliVnN6THI1UDNsV3M5b3U4cU9sbnBiQTM2b2xJcWtYNmtBdTBvMFQ3TDJXbjJBUFItSkhGXzhwM2dLeldpMlZiem1NSUVDTTNkLTJjTV9Qei1maw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T19:56:12Z",
-    "hash": "a18d8c3d48483851d0f23789eafef4b4811dc88f756da6c18bbfb45224dd995f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Why Coinbase split with Andreessen Horowitz and the crypto industry on a key bill—and what’s next for the Clarity Act - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2Q3QlhsNTVSQXdnejdrcldoU2tZUFhCQV9MZlR3dDVkZVE5S2t4dnV3bVhsSTlsYmd3YzVBbkRIRW1GcUR0dXpoWUlobmdleFlvT0ZEZl95WDlVaDVOM1FBVzcwaUxyN0JHTWd1M3hUMHhFeUo2dHhOODY2MGFPRlI4dHI2U3l6RGRHUzRqaEFoUm9LV2xaRUlyYVl0ZGVoRm9sX1ZxZUhtbTExQTZkU0d6OXpiOW5B?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T19:56:00Z",
-    "hash": "1d0e10ef8c104fb01cb202e246f57222b7dd5b0381b7cbfcb566fca5e1ba753c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "ICE vs Coinbase: The Race for Dominance in a 24/7 Market - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNblVQYlNKMFE2UHJVeU40bnhtUm5fbDU1UjFPTERGTVF4MlpvS2pEaEVqUWVWODVXNXdiamF4VVFsZy0xcTI3Z0oxdXhPSjJ5TldQZndORUkxbGdhTnlnb3dkNEZOZEJuNEVHaUtpdXhNZEY1d3lmTnI2dzZweVpwcDE0S2x6bnd6WVRqR2t5LV9zX0pqM181VQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T19:54:01Z",
-    "hash": "d9dbd4d199366320969aaa507e252381b896a1dfeb057d63869f07e82609f510",
+    "published_at_utc": "2026-01-21T21:18:50Z",
+    "hash": "1a75ed06dcbbdf50f64162feabf1c84fd8ce9d2725027273d551ed22488afdcd",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Mobile Distributes SKR Tokens to Seeker Users - CoinMarketCap",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNck80eDI5dnNYMzNPQzVQcDNNVnhBSVY0T1l1UWRxOVhTRUFYejJRMk5pU2FUTHl1aVZFVVJwTTVNSVQ4d3JhRW1sMXhwYXBNOGxLdGR1TUVGQTBVc3F3eXBNeURUUktkb1BsVkN3ZFVwRVd1dy1jX3UtTHhrSDlteDB0UzZBeG4wZzhIenJuQlh0ZnNacUFpZ1NBc05wZw?oc=5",
+    "title": "Solana price eyes a rebound after new Circle and Ondo Finance product launches - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HNGZFTmdLVXNhcE1JY29aMEtkVGs4bVBSVjZSUENZY0l3QmYxV3puT2Q0MnprcE9SWjJUVnFqSUN4a2NBYVRFWllkRmVyc3QyZEhYOFVJQjhISjBJekliZ2V2b3JRdDNaWUx4RzJpVUZnaFNlSTdnRnFvaVQtdVU?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-21T19:45:55Z",
-    "hash": "8a225a99c2d979139f9aa50b909bb36d06a11ae997d4a7c56b4448ba2fef8545",
+    "published_at_utc": "2026-01-21T21:14:23Z",
+    "hash": "6a1fafbbb56f97415a77024528b077b63be041a288232625a73e7e418ac3461f",
     "source": "gnews"
   },
   {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE) stock edges up as ViiV exit cash and Novavax vaccine-tech pact grab attention - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaHZnQy11VFpsWGN1X3d3RW5qT0R0Z0wzMHhxUGNJc1BPWlJObGFHcUFVelpud0w5U19vdmhUdXQzVXJxS2VXOG9tNEdVZDFRd1VLN3NnRmZJMWtNblF0aF9MT0RzSktjS29uSmx4WUV1Slh6elhnNk5DTFFmaU41VzlhNzlNcTMxSWZ2WWd6S1dzdE81Tk5lVjgzeUdrc1JkeGZERF9ROTBCR21zLXc?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth’s Calculated Concession: A Strategic Pivot in a Political Arena - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1RWMGllZDBvVFBsbVRTUk5yYXcxTFVUNk9CTHVaeE9mRXFaYkFUQ1BaMTllenpCaTBWSGprYThGMHpzMC0tSUpJVWl1NU04dHJZYmRTSGdWaVJXYlM1OXQyV19yM2FvVWhIc1JQVVd0RmN5d0R2NFhOQS1MdGdFUWdmdHU4bkJOcmpLeEMxcWxYTTk0LXRYeUYxTUc5ekpaSGliNHBLZmY4TFpiQmJaTHVndlFsQXJodDh2S1JPQ01Fc2MzY1o0?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-21T19:44:00Z",
-    "hash": "cc0f889a64729ee92435f653bf4ee42a28692c5d44d225524edc4fbe9037cb2c",
+    "published_at_utc": "2026-01-21T21:02:04Z",
+    "hash": "1ce01cabc74e7279c3efc1cea68ec9f16f69ef2bc01ab4e6251ee5ba820a126d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Here’s how Solana is outshining Ethereum, from staking to market momentum - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd0dXREFtdld6QUVQWmFuU3FWU2xUeUxCYjlhUEQ2LVpDWGZOZ0R2OFdWaVZuOVl5UmlmMl9tMzhReXJxa2QxN0oyN2Z4YUlZSHh3RTZPZGVEX1N2QVZxRHEyMzMyVDhrTVp3RnlIM2c5ai1mazJqdW5HOVNuZkxyZ2g2SFk4Uy1yQkU5Yy1Oa0VnU3FxOGVrdXpn0gGfAUFVX3lxTE9rTTRFMWRSMHpZYmt2UWVpaEQ1eXdKUEh4MWZCMFJHZVlpejk5d1B1VEd4Vkc1cGRmSTQtcnlIU2JJR185WmVnNjFhcDRxT1ZGeXdDWFloRkNBQi16NnFFbjhKbndyYU1TcmhvLV9ZOGo3c1VDSFJ6SGduc210WGI1Qm9mY0lqM2oyMXFaTFpaTzRqb0Z3cXN6ekRSS1VZYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-21T21:01:39Z",
+    "hash": "2505e5dc13eb4140aa12fee73f704271e00c18300193df1eb11cafe49d0025d6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Bonuses To Sell Burgers? This Restaurant Company Will Pay You BTC For Each Hour Worked - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd1JtblFQcVBiWGNGRzcyTEVkckstaENCZ2dQbWctcUY5d3lBRm1LMlRXMnJkQ3dvX1h0SkZOeEVRQnpraVFoLUV1OUVmZjE4VVF0OUM1QTVvaWt0dmh1WlhQN2ZiS2YyVWdqUVFvZ0cwWE9ZeVdySjBjWUFrdGxIZ0ZPQUVBZF9KM2JSTUpTcXlrZVAyb3NSSUFGUTBFb2l6aVpxNWlhZVlqZEVHU3lPOTAwaS1DWmEyaDVHYVJhZXlqcmRYeXNaSFNkLWFkam5NeEtfbllrSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-21T20:57:12Z",
+    "hash": "cf7f482b90c00b736dc98ef52f88a3cda0fac236f965979a16889f5c336bbcac",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction: Garlinghouse Talks ATHs; $5 XRP Next…? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUEcwbkw1RVR2U1pFelNNN3lSWEVCZkdZSGZnc3cxVFJzX2h1RVh6blZEbXREUGxXOW9fQTlTMUZZZ0xJR1R3bTdBWFZtc2tsWFY1T3c1NkxXQWlyQkZVeThPcEN1TmNzWF9DdTktUmdDNzZSSTFUTDVKNkktbkcwQnNicTktSXZSVG02aVpHYVBDTkZYejZ5NDgwdXg5b1lZeVpaR3lhdFN4cXlOMVZ1RQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-21T20:49:25Z",
+    "hash": "d853bf418b0584923102a2066eeb5edab3fb044eb15b473332ef49f5ba87a010",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVDA Stock Under Pressure as Data Center Risks and AI Capex Concerns Grow - Analytics Insight",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFZkaUJyOFRXZzhmYWtsWlVkRUVjbG1xNmhZWXdtejVncHBpV2kxVnRvUUpJRTVQVmxTaUJLU0hHUUJJajh5cnYxSEhpRk0xb0NURFNJVFcwaUZDS1plWmlRd3JlaFdBQU9wU3NyMENpUjFqYXVCNUlCb3RwM0dYRDNacU54X29sUmdBV2Z5bU9LSkxrZE9yTlVBVVhUNm5oS090T0tSNjJteFV1LXU0TNIBvgFBVV95cUxOaFBGOE8xcEpJbGVvcTZPZU9hYWJHanNxVHBValhqRHRsTjhIYWdvLS10VGhBZk1rakxoYmJLbFhRMjZGYlUxY0Z6ZHRLclFzYmg0MV9HTE5ybEhDUkRha2puMlJ4TDAwVVZ2WUpCUXppLXR3WG9wb0xJaUlDbENHOUJsNUhkWExPOWhCWEhiQWpMOTRDX1ZGdDJiSHI4dWowOFo3NUp3d0d3aVc1T2FTNGFiVXVzS1lSdGdDUVZB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-21T20:45:00Z",
+    "hash": "8abf23f3a523583979605593be4db515285f4bae681f1d9e14dd917ee2248e05",
     "source": "gnews"
   }
 ]
