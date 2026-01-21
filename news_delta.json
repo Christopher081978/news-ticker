@@ -1,112 +1,62 @@
 [
   {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Invests $150M in AI Inference Startup Baseten - Eudaimonia and Co",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRXdzRkpvN09DSEEzTFFlc0h6Rzk2RkFjS2pHYnlpYnFlbXRCdkRrTV9kSERRd0pWTFEyZWtjeDNlT1pRWFMtSFJPWEw3cmZpcHIwaWZiWm9INVVjYWZZSllSQm1xbEVmQXVMdmNjanVtUzZYamc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-21T06:16:32Z",
+    "hash": "12a72c583ede255caa78f16d61d281c8f09c71b2bfd388faabc0e0cb22fcbd81",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "New governors Abigail Spanberger, Mikie Sherrill congratulated by Brian Armstrong: Coinbase CEO calls it 'another milestone' for pro-crypto advocates - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPc21CU2xCOGJpWXhDSHFzMkJNTC1Yc05Eb1d0T3AwRVhtZXFZQ2tBbUdOakltbGduWXBHR3I4Vk43cjc1aUxRdVltVWptY3NBdlRSdFRsWUp1amRCeEJBWGZXYmFxTGZKZWN3ZWxNNTdrNWdnVDBFTVJXMTZyVV94T18yRXdpUFpJYTJFenRRcEl6RmRtcEVFa1AxT01pZ09pcDZWeFZDUnBZNVNXWFN1cnB4MGlkY0VNdkMwR1hHVnp6X0pCMVBmenRzR0VyTWJ0M2VTczlEajlZb19FRnM2WDc3bE9CU01nVnl4SDEyVzBFaUI1RnBDZzYyOUFxM21JWUNUYWRBbDMwUm5ZS0tLSV9jV2FGV2k1a0k0VERzNlpHaVdkRlRBQUdJdWpaM2RGZmM1dFVQS2w0LTZTVkZIcl9B?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-21T06:03:20Z",
+    "hash": "115537f7c5742155a3f42e8a70bfa82d9e6a764d1eb5c6a70665a2312073e343",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Bosch-Siemens-Hausgeräte: „Das Siegel ,Made in Germany‘ reicht nicht mehr“",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chef-von-bosch-siemens-hausgeraete-metz-ueber-made-in-germany-accg-110822302.html",
+    "summary": "Weil sich die Kunden zunehmend für günstigere Produkte aus Asien entscheiden, schließt Bosch-Siemens-Hausgeräte (BSH) zwei Werke in Deutschland. Unternehmenschef Matthias Metz erklärt, warum der Wettbewerb unter der Regulierung leidet.",
+    "published_at_utc": "2026-01-21T06:03:03Z",
+    "hash": "14b143ae19d92d84575e86423897520c5ba9b6a5cec02a60f1a49a955ac3ac1a",
+    "source": "rss:faz.net"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "BTCUSD Today, January 21: Bitcoin Slides Below $90K on Tariff Jitters - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzByRHVSZjJ3UlVkRUMxM2V4NkNVMkFUUmVZVU5YRU1STkNXNVdmM2JWSXRlTjlEMGx2Vm81cFd5eEc4TW96RDBmeEZUX0ZadFhGUkxxanlUZHNzV3pkMHo0SHFxU3R6TGgzVXJHMGhkVDFqWnZoWFBxRkJ3MVN5M2Z6ak8yUmlqc2lqVTdjZUlpT09vaGpWalRfVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-21T05:58:01Z",
+    "hash": "bf9f7d7abe4feb31f6246a56ddf9a0cbae02f93418511c8758a6a55cd8b1c72f",
+    "source": "gnews"
+  },
+  {
     "asset": "Pfizer",
     "query": "Pfizer",
-    "title": "Pfizer Ltd. is Rated Sell - Markets Mojo",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnZVSzAyV2IzRlI3aWJlbGVCNDR4OElDei1uNUJrWDU1YXNSb0VXYXVJOWtTS1JCczdfY1htVDBVb2phNzJuMDdob0JoS3ExVnFiUUN2R1hLYkhqNnpJaUpydURmWndtdkdCRl9DUVB6eUVZRmUwMVZsSzlab3luc3d5TFY1NGhIYjhlbnQ0aw?oc=5",
+    "title": "GSK and Shionogi agree to replace Pfizer's stake in ViiV Healthcare - BioSpectrum Asia",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ZJOGpZdHdWYTVyT0pEa01NYmlXVlZGYXFIbHpITUpiVy1PZmtwX1d3Mk1tS3FESWJGQ2RaaGRubWVFT3ViSlJ6eW1GdWtma2VNVEQ5TmI3Q3czS2RhSVdkZ2RlRlpjRlEwQTREYnpoV2N1WWQ4aW9ZY2NhN2xqaE9Od1plXzdBaTY4Z09HZmF4cEtFWW8zLTBoYTF1aTh5dTlLYkdSUGVDZlRYVU1CQmRaYTVRX3Mz?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-21T05:31:21Z",
-    "hash": "2aba7e0bfcb85b3d673b56c1c57836f710f662c263b214452f7a28c648611b27",
+    "published_at_utc": "2026-01-21T05:57:07Z",
+    "hash": "d4cde9dc6129dadd8684f1877f3a63989015bf5156b6b64127c2750efc789098",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Diverging Views Shape the Investment Outlook for Rocket Lab - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYm9LT3UyOHJuVURCeVJSS1ZBcEtrclZiUUJBcjJMbjJ1WktYc3BVUnNuNVhKeGo3N3M0T0FSOUJVQW03MGZ5RE1ldW11Z3ViWTJoTmZpOWgwbG5RNnJwMFVjVjltMkI1clh3QnB4cm50dnpDcmk1NEF5SEFRQUZFSDBldE1ZeHpjd1NOSGJNLXQwNWJoMS1jYXF1bndIbElOY2RNcU5sYkpKZUVIMG9tOXZNN1M1UXZNeUE?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Synopsys Weighs Nvidia AI Deal And Ansys Buyout Against Rich Valuation - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGY3b2N0eXZkQkk3UDNULUE4U0tGa2pHT1Z2bGd6Si1xMU1DQXE0Mkwzd1hnU0lPMURnNk00RHBLcEhpQ0thbWw3VnNGaWprQnFzdVYtYm5VZllpaHBldkM0cWdWQW1wLVNSei1GUDh0b2NOeC1rVzBTTjBxSlNmaDIxSjdGdGV6bjVoeFM2eFpYRTBSNVZoNHFXV2lnY0FuaFcycHVUaVZHbmhHdHlDRk9NVW5ZTmNEanFrYTlaWGRUUWRXUXfSAcsBQVVfeXFMT3RPWlhiQ0drRXBPdjg2ckJGeWY3YXpFYXk5TS1yaDVoZkFBTmd2a2RUVFpoVnItZHhNTHNtZ0FiUXVEU0RIaEhsd090Y0VJQjBxWUE4cGVDenFWN0V6MVB3YUJVU2o0NUZVeHdoODJ6elcwUi1OckpvUXhwLTVpNi1rMEVNX0Nic0h4SVhWV2VUWnlhT2p3cjFydmhnVVdEdWx2el9Ub09JVkxnRWc3UUFoMWNLWEwtakMtLU5sTWtDQk9XMWthbE1zNGc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-21T05:14:04Z",
-    "hash": "e9f3eb24d6f653674a610eca726af690d16dd795b65beee794f6e70a946f8c20",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Pattern Echoes Feb. 2022, Putting Recent Buyers Under Pressure - 富途资讯",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZ6UlAtMmlMQlcyUkcyZzVIRHJFb1hiZ0xWMkRHTTRjRnlaOUZIZTFBU2hmV2t0c3ZQc3JObEZoRUQ0cElHUEhEbzJHaF9NR0I3WnVEYkFZaVItZmJKcnl4SFNDWUZDLVpLVFJmSW1VVzBINVJ4WXpHZTQyMWRlUVFBQnh0elcxNDg2UW41MVdKTWxxTk02UEMxSzdQOWRBWWZ5Y2EzVDE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:54:16Z",
-    "hash": "858ae96810db54a1bed32cb98c6a9437c6764bfe28228063965881552da127d4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin risk: why Bitcoin risk matters before you trade BTC / EUR - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDJHQTRqTHlObXNxWTB3b3U0YklFSXF2LVJ2blEyWjRMUUlIWEJ4QkFRem42d0ZhRlU0U2k5TTUzaTE2N0hGTnRPczJxdHZOU243dE5RWjhHWXdZZ1pndVMwcFNLNGE0SDZBR193SWpuV2RwTkYzaVlJVklDaVd4dm5XZ2tNbGk1eDZJQXVzVDRyazZRTWkwT2plR1hQTUN3eVptMDNmamNmcjZIU3pnTHRXSmNJdEZkcUNaVGtn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:51:18Z",
-    "hash": "1f8e51fb715702ea04a3c901d92edf30c9a229f83679ea93a6f4b8feba2f8d11",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Investors Buy the Ethereum Dip as Bitwise’s ETH ETF Attracts Fresh Inflows - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFZETWpWMTZpRklqdldCNVFNbmVGTm5sZktvU0JsMm51bk40LVlOak5zZ1J6UnhZMGZOY2ZCUzZDYjNLeTI3Y2o1N0lwQUNmQzRXRloyenptaDJUcGpyS3M3UDJzeW9BWS01eDhpREJ0TGd1ZVhGOG93VEg0LTV0LXotMG83c0NQdHI2Rk1BNjJGZTBlYnRaQXBWeU9nbGxTU1paVDlTcUVBTUpGQUxMNDdGWVVLSFg0X2lvSQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:43:48Z",
-    "hash": "562c863665cc5d3cb19371b446302b580a796ec421af7097465468785fce882a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum ETF Attracts Nearly 12% of Its AUM in Fresh Inflows as ETH Price Stumbles - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVFlnN1JMc0VHa0YxMndFdVdQb21VaWRsM3RpVklTamo2RFhST1lveXZJUFFIemtBRXl6YTdRV01yd2toa3R5ZTJnempQTmZjbEJud3ljYnRvQUNGa3ZLaW9IcGUxc000Y1pHeEg5V1Bpc3BobTZOXzhNSVl1ci1QV3l3S19iTnJjaEJBbjEzWFFNMGtHdVAwaDRjLXZqS054anJuTUpuckVMMG0xNTlleDNIZm5jNlkwX0JzMXpsUUJjYzJOa0pr?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:43:46Z",
-    "hash": "e75600416e4eb63b048216bded4e21d67a97b1874de4b9ca03724e60706ab614",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) price now: Drop to $89,000 leads to $1 billion liquidations - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZXllQlB2bnllWjJFMzBWc1VLc2Jpb0U1RWlKcGZ6NnlubUh1VHV3c3F2M0FIbkc4YWc3bFZGcDhqNXIyOUx4OTg3X3dlTG40aHR6QXNfcVducVVJQTJLWWkyYWJJUTd2eW04MlZVRFpuaXdwUGM1ZmRUUTlXRE1tY2xJRURoTkZTMXZuN0ZySTV3MGtKdDdfOGFZT1N6Vkp0aFFUTUNUaGhvMFJlaFB0ZTlWQWNBc1hLYmR3UXJVVW1aQUk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:41:48Z",
-    "hash": "20d02e8d95158b2f3351bd7f56b9493d98e55e3d71ff871edd09adc22e15c259",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "New Governors Abigail Spanberger, Mikie Sherrill Congratulated By Brian Armstrong: Coinbase CEO Calls It 'Another Milestone' For Pro-Crypto Advocates - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZFJfbzA1dkxtaVh0VVVONlUtSUliWlZicGNaSm15WkdkNHk1TWhvUkNlRnhmTjZGZGg1SlVhQVFaMlQ4aGpQTmZyNTRZODdjeXMtOGtCME5oMXQ4dWI3SWNvNkc3ZGxYeG5NMks2TENMdHY1ckdIT1c0MDNHRndZNExYZVFCamJwa3AyTjBuWTltTXl1YUFLWUN4Wm0wTWNaa3lPeVhSUWdkREdFMU9USGVaNGtpYVY4S2NZdnM5ZUZhQU9SR1RxVHQ3NWZLWkd0Y25KWmQxWThoYzI1bUU4Q3RnbzREX1FJdlRSWEp2cUxYTmtJSExPTEUwa092MTdOWjVZSF9HZDhLTE9lb1ExNWlycEFHQmxPWkc3QTd1bWVCNFFRYmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:38:29Z",
-    "hash": "7cad14f6950f2e7a7655381371755a15f9122cb0af3005e0c5289643e4c75102",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum as an Investment: Is ETH Better Than BTC? - Trade Brains",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU9WMk1BdXBVQWRLdjRyRUQtTnB6VlNYU1JDZVVrS1VOcmZmU3hDYUNUYnU3eWoteFZrM25ycVN1YUhWY1NKcU1jdUU4S2Fod1Q3SkZmaFpVZDZzQjJiQ25FZ1VEU3p2bElfaUFSSGpJOEgzbXBRcjdmQ21oT0RjYXh1bnRkQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:36:38Z",
-    "hash": "0559349fdbf84f691f7ec7b446524b8a96ed04165d033af6ff6c89e2a2c17998",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Signals Next Financial Supercycle—Onchain Markets Poised to Reshape Global Wealth Creation - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME9hTFk5bVllaGcwQndKa2JXZEJWS2gtblpkWDlyQVFtbWdwYm1hdUZURnlmLVZLbmk2OXFyYTh4bGVfSVdiTjk2dFpMdEVwTXZEcUhfZjZLWEtMeHUwa25zcU5PYVpxMHlIRzlTX3laUU9scVVNYWVpb05Xc3MxTUxpTFd4SjFiSmlYN1JvYWktdG4yc1l6UWNuRHhaRUNxUDhpYW9wQXN2Y2JyRXpDN29KMnhpclV3T3NMeVhLYWE0Ym8?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:35:31Z",
-    "hash": "99360a9af433373f53de5b9dbd713c64ff174fda3129960d0f9dca951c4759ae",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Regulatory Headwinds Weigh on Coinbase’s Stock Price - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMkIyQWlVVTQtNnp6TVhuUXJ3d2NpVlVSUHgwc2RBUFNKVnRMZWRPd09iTGJBWF9fVUhYdDNVLUthSlJWTVZsSmtSZXlvSzAxdG9aSW9WRXo0bmludFFNZ3RhX2lVNExaUUNCSTZlZnd5RnNHY3RqdXNWVFA0dTRvZnMyb0wyQkt6U3VMYWNrbUNIMlpJUW1IU0dTX3N2MWpzZEFhRlBVbk9hZVdvVmxZdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-21T04:15:04Z",
-    "hash": "ee42ec6ba4b5167d77afa2318f1eadf3b204f88c608d69e5779d901f5b610894",
+    "published_at_utc": "2026-01-21T05:45:53Z",
+    "hash": "f0b5d2d785858fc650c86dc92e0c7c6147f9dc3484ceff6eaeb00f405795d234",
     "source": "gnews"
   }
 ]
