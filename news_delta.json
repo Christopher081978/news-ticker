@@ -1,92 +1,82 @@
 [
   {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "Is JD.com (NasdaqGS:JD) Still Attractive After Recent Share Price Rebound - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43THhIR3MxdlJ6QnN5M1VJeTRDMHctLWxiajQ0UlpsMEtjZW5KN3l0N0xIMUMtQU04UEI4VVpLelVneWRDSDZodlM0dHBiWEVWLXFUWVpvUFFnalZjWE80YS1jTW1wQWk0M0dMLUJHUFBrdWFOTzFKNlYzSUNTZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-23T20:07:07Z",
-    "hash": "05100584df7c41cb433046ffd823b0f4eefa155bedf4130eccaad31e6b1c662e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Reports 62% Revenue Growth in Q3, Continues to Lead AI Chip Market - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU01VT2Y3YXFld1czU0c4N0U4cHNFMU9Fck9lX1lxdDVaSlZXZk9FcmxJNE5qdWhDSldpN3JWZ1A3ZkE1VDZvT2l5TkppSUppSmhpSm1uT2s1Ri0yVW9IbW9peExLY2ZwWGpMS0syS2dYS2VVbmlRZ3Z3c3J6aWVIZ3hnSmhJLXhPSmlDMmlzRmNoWW9aLTE2VjdCdWhVMHZSeHZ2eC1JR2w?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-23T20:03:14Z",
-    "hash": "b1bb0169ab8a941ef5008ad7eb3b06ab005bf0d14856e906c73ca250ef578511",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer stock slips on ex-dividend day — what to watch ahead of Feb. 3 earnings - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWng1YmtDNERfWmsyQUUxX3NtNnBPblNnTjVUbmpGc3dtaEh4eVYzeGc1U0lCOFJhZ0txdVJNNkRWT0xSWjBZSTNvU3FIeHdOZUUwRVFjZUF6X3pWa1BacnpkNkp2X3ZfS3k0dE9TNnhBV2RuWXVFdHJtdlc4WjhsQkpYVTJSaWppY3RkYlhEZnp5cHg4RmJ1OTRXZFg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-23T20:02:33Z",
-    "hash": "6bfefe164089890c0cbc137fbff9de3f57fcf9949aa58541cbb7d06af39420a7",
-    "source": "gnews"
-  },
-  {
     "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "HOOD Bets Sports, IBKR Bets Utilities—How Fintechs Are Fighting Over Prediction Markets - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLXFiNVl1ak9qTlFoQllWaFo1VUx3MkppVjVKX0JSenRDSEUyU3M2VEltOE1lUVJYb3pjTzVPc2YxRWFXWjYwSFBMNmdBMmtPNHE3Uzg3cmZxQXQwUk1HaGhJR3ZxNlkwZlRGbkVfd09uajdSNUZEc1B2eEIweUVXZXZ1Nm1qMkhHS2ZBTnlINnNUYmRvR2pOank5ZUl4WkdqU3ZyekozSExFVTdvTXM2b0JsdHZoVGVQZlJ6T2I5b2ozZ2kyVGxRNTFZdkxqc0NzTk56VzBBXzQ0VkU1Mk5rTUZR?oc=5",
+    "query": "Robinhood",
+    "title": "Robinhood Executive: Tesla More of a 'Faith-Based' Stock Than One Based on Fundamentals - 富途资讯",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS2ZiX0NzX0VGQ0lpNldCWHhQVW1URU9EdjAtSU1MS3F2LVRYazgxQzYzRWlrWkRZbG9RRVNKZm9EOHEya1RHWnkzVWw4Wk9vOUpkWGR0ZVEweFlyYnRTOExCT3VVZFlhWXVEZWh0NWZfMm9qUXB1SkxFZkhYS0s4eEY0WFA2emY0YVZ1S0llZW5oOVh3Y0tQNnpqZVc2UGFH?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-23T20:00:06Z",
-    "hash": "7c915b7366c412f4c6c5d16cc299fd0a4f6b779eef54699fc94d918eefdaa987",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Why Rocket Lab (RKLB) Stock Is Trading Up Today - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUN0hZTnROS0hzNWVjWGYzNlhiVDRNWFVPUWp1TC1TdVd6OGdzWDhxVFdDUlJWaTFEQjItb1ZOeFhFVmdNaERjMDNmc01XMGtHRXlkR0xoakdVSkVKeDlONGFNQ1RVQnA0aC1QOEpVSUtqamRuYlpneGhTUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-23T19:55:43Z",
-    "hash": "47cdbe31d68f4f37dbb41f8eb08424892ba7bd8de95b2998f49843b943b0a2d0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Analysis: Where Can ETH Find a Bottom as $3K Support Cracks? - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMllUeUhoSVhCY1kwNHVneV94U2lsMUdFRTVrcGd0LWNMdm5hVW53ZDhtX3pzZnRmTE1sR3psSURpU01qZWZjTjBfZXVqTWw2bGJST2xVX1VJMHlHZjdkTnp3eU5IankyTVlRdVIxMEhfYzR5N25kdzlNclB5cHNrQnV5QmVvc3hPYTVxWDNLSjFrVkR4NHJqYzJNcUpUcVU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-23T19:54:00Z",
-    "hash": "098d58f47160cf951341957e4bfa36ca3975f7cb7708f054fdabd4b02d23f7d1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Blazpay vs Solana vs Cardano: The Utility Race Shaping Crypto Presale 2026 - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYU1ETmR0OVV4Skt5SFdTR1ljZjUwMzc4OG1XdEN5UlpBVllpZjJKNzBvbXM1LUhXRnQxX1JVQ09MTmctbUtaaXBxTi1zY0xKTjhWaW5wZWRmQ3g5ZTNQd1ZKOFZ3UnRMbTJOekRUNS12MXJzbW4xaU9pN2x1NVNvTkhSbUR4ZmhxaGcwRXc1Mk1mN3M2dklxS2hoSmk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-23T19:53:29Z",
-    "hash": "5d624cceb42237ea2f0e964e31ed03bac63e851989b2eb21ea288332108064b0",
+    "published_at_utc": "2026-01-23T21:13:58Z",
+    "hash": "cc567ace2702959ef2f9a53c8333113e9fe10067d76a016e62b8fb9633fce803",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Micron & NVIDIA: The Kings of AI Stocks - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbno1V1hhZ1BlNjBiOGZMZ2hhVlZtT0JLeERNTTI1VVpPSU1FMWg0b3prcjNnZVJ4R3VpRTFoclpFWW02X0pJOWFpYVl4NktuVlJCZjh1SlhmQ004dXF3Wm4wbjhDRHZkdHFhQW1iRGI4UkhNeV81YVpzeUhxT0hsOXNDRWlKc3lHYzFuS2FSTy1fZ2RnR25qU1lMUmZhbnBDSy14aHQ2R1NUeEJhVGNzRVJiaFdScWlxRmNnXzNOSQ?oc=5",
+    "title": "Cathie Wood Thinks AMD Will Challenge Nvidia This Year - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUlV5QThjai1YWHcza1BQWjB5YUdkTGNuNFRRMXZ0VkZUbW16ZkpRaEdNM0NQVXVqdGg1ci1VbWlGUEFsVy1xNnd2blBROXB1YWEtU1h5NEZ5VGU3T1FlejhwaU5jdm94YTVxaXJtN0wydURKaVdwaklIS3lmeUJCTHJfd2l4Z0lnbVJTZG1TaldMcWpBWkE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-23T19:50:32Z",
-    "hash": "594b049e479b21341f07e3df1e5945b99872536422d64ac83694cd5aa15eb4db",
+    "published_at_utc": "2026-01-23T21:05:00Z",
+    "hash": "a4760e60633fbefdb5f7a7dc5a37076da17818c3a275dcb3d051018b05154dd0",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Stock Climbs 7.3% as Reddit Rage Fades to Neutral - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGxHWTZKRHQzQm5vX0JsZlhPMTdJYUpCdm1PWUZFN1NnTFF2SzVKVWE5d1kxZGtQbFlXUU9mMWUtMU1ZY0RTc08wWldxcDlscWJtYVR3VnZSclVqQzJxc3RxUDM3OFZRLW5BbTRnN2R6YkYxeE5TU2h2QlNfV3VjRTg0NHVUbWF3R09HelRGR01YY2VKSE55U2k3bU5ER05IUElLaUpfZzk?oc=5",
+    "query": "UnitedHealth",
+    "title": "Political Scrutiny and Strategic Shifts: UnitedHealth Navigates a Critical Phase - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY1ppRlM1WFFXV2RtcXVRMlZwWGQzOUpTZjM1RnBuQjVaczZSaTVVcV9zc09Vd0ZuYU9JWW9ZNnNCSUtrUjdVcktXUUtWUExrNC1VMFZmVGk2VjAtcE1rTG9xN3lXWE5hNC1RZTBnTjdkeUxmYjhNNWZHR3VDeThDNXRpVXY4bnhqVjZ2X1pYUkVDdGxEb1lGOFBSSklEUDRZNnpVazU4aklPRmdoY3pZWWJLLXZNMHo3VmtzZ2lwNzJ4NGdDRFBtbDZuVmM?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-23T19:36:30Z",
-    "hash": "4369a36f3bea152e0e777dbae9119b185ca48fca61fcf73be54872cd3bf2a96d",
+    "published_at_utc": "2026-01-23T21:01:04Z",
+    "hash": "d525be07d29e3a4c137ab24006ded12876c37d4ca0bfaede789866e367ddf2e3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Tesla Trades on Belief, Not Numbers, Says Robinhood CIO - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0V6M01sRkFJbUs4ZVhQVjJTYVNCSnFqMkZOQXB6NUFmeHBnX3NGdkdDVzVaaXB2UzBWSzllQV9MeXJwVW1aSmlCcEJGVzllNk1pMFRCZ2ZsNUl2U1RQTHExZEhMUW1sZXAzZDhBTlJISTZtZDNvbFkyaHJrNVNGWkVLeURSVU0zbnNN?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-23T21:00:48Z",
+    "hash": "1bd1e6e18393899942a31d0e6614d007cdfff25edc7361f00346213a009e3951",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Options Corner: Lingering Fears Have Sharply Discounted Nvidia Stock Call Spreads - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU90UTBzalV6ZXpiMjBrUnIwOWFRRDNIVzBJaU5zUGlZb1dRMXN3Si10TUVkZWpZN0lHWkJ3ZEtBbzN4YkwyQWFnUWQxUlBKaFRyN0M0dnFlcEY2QWVES0FveHRrcjZVaEVwaDFXdWRYZWwzOGRPcGxPMGhSSUZCbF94WkxFb05UdFlnYWZrLUh6azRSYTBkMi1vR1RWUjUtX3FacnJLTGZHRjJ6TXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-23T20:49:23Z",
+    "hash": "3b665944eab42b7103a52002858f7a05c193b77020b5328e7c0b9971cb66277f",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "UnitedHealth Stock Climbs 7.3% as Reddit Rage Fades to Neutral - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lU20wSC15WmFKbnIyZWZKbUFMVElqMnBxX3F3VDlqWkh1UzJ6NGtSTUhhWFl1Nk0xYWtvZ1EzYlNWaVR5YUJaQ25XVDMyXzRGWE1TQ0dXeEZ5SGpYV0VpZzNrRlphZWFFWlo4UGljUmpNd3ZBMk9iSmdyVHIwQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-23T20:43:14Z",
+    "hash": "8619f3376c6a28ad2d723456029623be6e048cbbc054c2487f8037b5ec2a9d5b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk: This Run Is Just Getting Started (NYSE:NVO) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS09mc2FYbFN6UUlCM01aUkNEMmprRElHM1NJZ2ZKN0hqckpxS2d1SDNKQ1QwWUNfblkxSlBnY1RXdDFPTkZPWVdMdFEyYTVOQXVhWUpvUEkwMWVlckI4b0dkNDBwX1BTT1IzQlJBaks0R0J6U002Ung4SllCelZJN1pZeVgzcnE1azV0clRRcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-23T20:41:44Z",
+    "hash": "5406f3df734de9a3da65f8f3314b1ee40958f009333664a1f18e88aa90aa2e6b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "The Truth About Unilever plc: Is This Boring Giant Suddenly a Viral Power Play? - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZlZ4NHVaRE13WWFyMnNTeEZiOGV6QlpTeXZfNFR6bTFFcWV6MVc5cHhTbllFUVA4VGZPZHZfazh6M1ZJcTh3UjdZdkZxWG9NSElhSk10WnRqamxMSkd6M1Q3ZnNiN2hDTTFTRzhZcEpKLXBKa01KQ2lBRnBLaXZqZUUwNzVtdTV2TXh3SThKN2wtMXZ4NmN5VHY2Z1I3X3VKSjdYd1l0bXVJRWNuMXZMQVMya1pYd2ZodWppNE1lUk9HR0N2NGZCcndTVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-23T20:40:47Z",
+    "hash": "efc786c2b7e458ff35aadaae59fd6c9e9d76d1d0b07806443503916907241f48",
     "source": "gnews"
   }
 ]
