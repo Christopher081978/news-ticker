@@ -1,52 +1,152 @@
 [
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "TSMC stock jumps 2% into the weekend — here’s what Wall Street is watching next - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVB0aERma0xON3RfRmtYX0kxYm1INW93bFRkZ05GU1hLLVBrYTI2ZGxmb1lpckd3MHNMTDl1dU5FeVk4dGprUXpqeXNLcWJZT2Fybld2VXJHaWN1VjhvVHlFSjZ0REhNdEY0emdDeFZJNlJBbTVqd0RRRHViSkc1X3hfZUZmRzZ3dFU3eWZXMWlhSnBYcEFwN3U0NVo?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Daily Crypto Signals: Bitcoin Faces $86K Support Test, XRP Eyes $21.5 Target Amid Market Turbulence - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbmNkSFA2VFhEYmMwVVFWQ1p2SnF6R0pRcTZhRXpySGVjazZxZXpIcHhCSkFnVlRWVTluNjRneEJoTXMzLTN5MlhNNERkRjZ4eE9hME9paFBGQU5SOG5KMzk5cHVzUm9mdXRMZFBMTEF6QkNid2FId3BjMkMtS1ZndUFyREk2MFJDSjc1WXV5Q0VKeFRLZzdfZDNjQk1lMzdFdUFQYjZJMGRFdkVNV2taX2dPWVNFcGo1X2NWeFRfdE1RcFdPdDQ2QjN2a0pBWGgwa0JhTw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-25T22:10:06Z",
-    "hash": "92f886163857619a712a98315a4fad08c38d4447cf4c6c71f3de5889dc6db4fd",
+    "published_at_utc": "2026-01-26T02:18:28Z",
+    "hash": "cb77c3e0414759c493dfd71d110df125a51b924cca5c788994d6ca88110b4de4",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates - Gizmodo",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQektSOXE5Tmpqdy11NkVFMHQ3c2NRYWhLS05XaTNJeXZMb203SjRuYTBNTFFvTVlic3d6c2UxSzczaURPdTJsemdmaTNfbmxxRmh2VmkydTdJaU1FRGxzVTBmWXloc3FaWkhBVUJWY1d4dEdFblhjb1FBY2xXMFdpa0RHRVN0LTlrMm1ZRUQ4ZktaOTV3bGhnX2pQMVZ3YWxrZHQwNG05TEU?oc=5",
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD Atto 3 Ultra gets new Atlantis Grey colour option - limited tax-free EV stock offered at RM105,800 - Paul Tan's Automotive News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNX2ljcUFfUjRyeFRoT0FYazJTWmVOb1QxQkR0NlpCZXQzbzc4ekJuX2p0eWVjaWFqTm5qaGYyemlzM0VPWXN2VFVGYXNmVVRzRHFiU2E3TEhtcHVib2dsS0FHdmtGdExLU2hCa1pEV25kNGd6eXE1ODRZNnlELWxBTzVMbUZycTdkbVcwb3pINS1oZ3kxNXhXRnNiQ0gyZzBrRno0S3dNSzU2TVF5a3EtVUpoZGQ3Q0VjRWhRNzZlV3JDc2RDV2VIbFNyYw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-25T22:03:24Z",
-    "hash": "51fd7e40c75518ee874666f09ea304c21db3fc39d332c65fcd043b20f1ff1ee2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana USD Retreats -0.81% as $115.30 Support Faces Pressure - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkJpa0E2YkF2TGMyMXlCYklSMnNPYXFtMWJDak5zRXc0dGdpU2doNGVOck1hYkhqMHJmbzAybEZuV18ybEN0MGpPeGd3LUUwdzlZNlYzZnBuSGxkbHlfRnNVaHNhQ3VWVjFSRXVMeVFlWi1RSDAwU1l0dGpHQWVyLXBBZ1ZidmZVYnQ2WQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-25T22:02:46Z",
-    "hash": "9ac80fe3ae8eda789f84585d39fd55668315a70cae9573b29e7073b6c01abf14",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "‘GOOGL Could Hit This Level Soon’: Josh Beck Sets Target Ahead of Earnings - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWXJzRWVBTEpIczlTTUxSRUtGSmJkY1pRQ3BTZkppeGo1SEJZNldTWnlNSExqcGQ2RzdYY0VzTTFDNHZYQ0ZYbmZjcDRjdVFwTmR3cXBXVUJQcHUtRF9nb2tGSFhJZlJmdnBmUXotOU9UWWtHcVBNOU9xZXBqVnVSRVNPSWR6MGRsRjEwZzNSR2ZYTUpTU1VzWGdvb2FrUWJrdkNr?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-25T21:47:50Z",
-    "hash": "8007883fcc1fe0400f38b60bb74abf5cc60abf5b404c4d99635861e6c5471d2d",
+    "published_at_utc": "2026-01-26T02:15:00Z",
+    "hash": "4ef2058955f7ffaa34f0f84129873215a07a04a977a6260fc777d1dbd99fcffe",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia stock heads into Monday with China’s H200 signal in focus - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUpkejNLc1JhZm5jcXNWWDFyNkR4cUEyQWVPblc0M1BIVkNKckEtSXdLa3NSOUltdHFMOEJpU3BDU1N5Ui04NGdReGtlSVBmRkFqbEJFMmJOeDlTZXNmQUNrOTZlYV9NeHJWYmJLNmxLNC1pdXlVREdYOFg3STE0a2h6d0JmS3FZMVNxVA?oc=5",
+    "title": "Samsung Stock Gains as Nvidia AI Chip Supply Nears - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWsxZ0tFYU8zYlBuYncwUFZ6WURZeUpaZmptdGFZWUowR1Fyd0k0cmRpSXdYSkZzVDhYMnBSdWxNS3pPeTdEaWpyczM2NVBwZzNoTmtQSjlKMDR2NkUxaUh4bmI5SlNlRHhTWk1WOURPQmtPSElFN2pZMG9WTXljcF9CelVIaE0?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-25T21:39:35Z",
-    "hash": "25c84ef23af856b7d6c13cfb6b9e20f586af2e71dfb5c54223ad4b42bbaa5f6e",
+    "published_at_utc": "2026-01-26T02:13:30Z",
+    "hash": "6e7e89c42de5da8378b0c3a674f1b282f7a9844a5ea05b58dae425da3a22a69c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Gold tops $5,000 as bitcoin stalls near $87,000 in widening macro-crypto split: Asia Morning Briefing - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYlg3S21yVmlsYXNoMGE2NUFyZy1YaEVnandKZUQ4ZkVQVGh4cE1GUjlReFFNa3ZBX1BQSUNSRkxCbFJpNzVfMmk0ZE1ONHo3QU1BUlI5MHZiYWVjZzdqM3g4OFJIQ2l3cHpwaW1aRUVKam5WNTFmWGlhQWF0X1hkQndvc3BpTVkwVDZiLUNhaVZyOUFpUHpTYnlHVzVyTXJvN1MzaENUTkJxWWFFSFhlV0FKSHdBZ3RuZGxCN3J1ZEZYSm9kWWQxMzlhTl9HeDhMbnJKRHV1UlBhT2tabUtIQi13?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T02:13:06Z",
+    "hash": "27dfa2fadb8ac851388b163743dd3688edb33272ff427ad1b99f8375a200e604",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall Ahead Of Fed Decision: Analyst Says Crypto 'Preparing For Worst' But 'Generational Opportunity' Awaits - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWJBcTlXOW5BSHQtdEJLU2p3MEdYMEVrRnI5TElHMm1pcHhZc3oxamdrcFQ4Rkl2VjEzUmVnNzVVX05MdGhNMHltYzExcDZieWlJQk1tbnNXTzVQcG1XNDhmTUg0RmpwUTNad2RDbHFjeHcxOHhqTk5lckpFeHRWQjgtZHBDRlgtRHQyNHNhaHA1Q043QVkycVFteHBKaUwySlF5dmRXdl9jdlB3OHNPSHRPVTRVYUtTWVBPVFlhTGZtQ29aclh0Mnktb0VUMlFRbW81XzNWR2dEUDFTNmd3OFpVUFFmSkNNeFF0Y0FKUlAxd01DRmdEZl83anRYeUVNWDlUVW8tWFhmVmg2d21xZE9od1Zsc2NUQzRXeW9hMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T02:03:51Z",
+    "hash": "ba49238dec6f4561a49f337d797be3062e5b4c36c63dc4a1911134979ce34ab6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall Ahead Of Fed Decision: Analyst Says Crypto 'Preparing For Worst' But 'Generational Opportunity' Awaits - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWJBcTlXOW5BSHQtdEJLU2p3MEdYMEVrRnI5TElHMm1pcHhZc3oxamdrcFQ4Rkl2VjEzUmVnNzVVX05MdGhNMHltYzExcDZieWlJQk1tbnNXTzVQcG1XNDhmTUg0RmpwUTNad2RDbHFjeHcxOHhqTk5lckpFeHRWQjgtZHBDRlgtRHQyNHNhaHA1Q043QVkycVFteHBKaUwySlF5dmRXdl9jdlB3OHNPSHRPVTRVYUtTWVBPVFlhTGZtQ29aclh0Mnktb0VUMlFRbW81XzNWR2dEUDFTNmd3OFpVUFFmSkNNeFF0Y0FKUlAxd01DRmdEZl83anRYeUVNWDlUVW8tWFhmVmg2d21xZE9od1Zsc2NUQzRXeW9hMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T02:03:51Z",
+    "hash": "ba49238dec6f4561a49f337d797be3062e5b4c36c63dc4a1911134979ce34ab6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall Ahead Of Fed Decision: Analyst Says Crypto 'Preparing For Worst' But 'Generational Opportunity' Awaits - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPZWJBcTlXOW5BSHQtdEJLU2p3MEdYMEVrRnI5TElHMm1pcHhZc3oxamdrcFQ4Rkl2VjEzUmVnNzVVX05MdGhNMHltYzExcDZieWlJQk1tbnNXTzVQcG1XNDhmTUg0RmpwUTNad2RDbHFjeHcxOHhqTk5lckpFeHRWQjgtZHBDRlgtRHQyNHNhaHA1Q043QVkycVFteHBKaUwySlF5dmRXdl9jdlB3OHNPSHRPVTRVYUtTWVBPVFlhTGZtQ29aclh0Mnktb0VUMlFRbW81XzNWR2dEUDFTNmd3OFpVUFFmSkNNeFF0Y0FKUlAxd01DRmdEZl83anRYeUVNWDlUVW8tWFhmVmg2d21xZE9od1Zsc2NUQzRXeW9hMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T02:03:51Z",
+    "hash": "ba49238dec6f4561a49f337d797be3062e5b4c36c63dc4a1911134979ce34ab6",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: XRP Slides on Tariff Threats, BoJ Hawkish Shift - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdi1EbzQ3UHEzWGVCYm1WemtHTlFscndqS2pzak5SN2JEMEFHMVAzNjczeGwwdVNfMzdrQ1JDY0NlbURZb1M1OVRnbTFnbGRWOXRmVnBWY0xlOUVlNWxoMXctQk1wNHNoMFZpU21ZTC1Gd3B1VVhfZ1hwcFd5NzhMUU9RLVF0dVV2NHZ3Y1A2V29Db0Y5U1lIVzA3bkNUSkI3c0t4ZlEwUUpVQ3V6cXNXT0VB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T02:03:00Z",
+    "hash": "bf686465589dded702e65e614823232c6f31912bc797bfd517f4002e9fcc7533",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "(NVO) Advanced Trading Insights (NVO:CA) - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1JoekVmQm5BWjhtNHJPMUc0Vm5XeVJrV2xXaGxrSUZweWlLRzNjZm9kY09Hc3FfaG9vY1RSekNaeHc0bC1Hb2hvdXBLZ2JSOEZDNjdXVEJ0aWNYWDN2bmdGdEg4QmtJeWVyWERlbXQ4NUNiMUNkTzlLb3ZkWGgxQnF4cjB1SWx5X2JYbWpkOV8?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T01:43:03Z",
+    "hash": "f3e83a37a2b482712d5332976c8dd31e1ea36861705b8708aa7857b06fa69ea6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "BTC Price Alert: Bitcoin Slides Under $88K Amid Fed Rate Hike Fears, Tech Earnings Buzz, and US Shutdown Th... - Blockmanity",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmticFp6NEhTc25keXBvZjctbXlhRGhPdHIzREtDQ1NTVW9FdzhoM21RNFdTUU5jNEFwdXBobVJPb3h4aHpvdGR5SFdnQzhkX3JUYWluVHZLWUVFeGhfT3phT3ZmbHBXTExsV0JLTVZnYWVOZFVCcGtFWXJQTVFiU1RtX2FIMGR6YzlET1V5VkV6SUhHTHBRU1p0UFgxeGxlOWNpTVJlaVdQQWhXZzVfWkR1UWs3QXJ3RnpuRTFybDc0Q3FMU1Jmc0pFaFIxdDczdmJ2NtIB2gFBVV95cUxQNGp0c0c1Z01sVFVpdUpHdWZqNk9JQU9aTlk1MGZfZjAyS3B0M05nOV9VaW5MeWFud0FvTGhOaUhUZW5hVnphR0FmR05JS1RFd2E3TGowYncya21GOURkVThGOWhFTDVBSVdISjRBbjktSEJJclo5NDgwNVNUakJoT29PajZYUEpWV1ZibXQ2M1lQcFFQeDc4YkZzY0wwMjRHWFZVbWZrZXJsLWp2SXJzRWlkN2lJREhlMDJ2NWJPSE1rZlB3ZzFVUlNkdmMyZFBvMmJaUEZLZHJKdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T01:35:23Z",
+    "hash": "2195d5499a257136d2fc54c673dc569cbc4364c89b6dd109f7a03da09729a2ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Forex Signals Jan 26: FED Decision, Earnings from Tesla, Apple, MSFT, UNH, Meta, GM, Visa - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVkJyUURJUW94WHBOMHlQSC1tSzA1N1lyR054THBKUHhNN1ZoT3hYb3N6T1d3Ry1zeFdBU3dEY3c5Ui1XWUFxbmdTcU9OUThXZmtwRjJtVEM0Q0tqbVoxenpUZ1VJaktXcDVJNm44ZEU1MDdESHl2Q3hGVFhxY1pJeGlKSU5XakNEU2ZnVTBhUWsybnEyUDN1emV0a2NkVlV1T040bHlOUW41NUZWR0d4Rk51M1FOeWY1Vi1qRmZObHZWZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T01:28:11Z",
+    "hash": "d72389e43c4f3d87939c4d660103023a225989e7157aea8a3ccb351a36eb5048",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin: Why long-term holders aren’t flinching at $1.3B in ETF exits - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLUtnQXYyMHUwV0t2M0x0YW5ma19VYTJyUElUaUpBNkhaci1YMnNPWXplaWxSS0t5OFNyWVdaSGlPMkZPR1lQOVpBTUZnbERiakpqbGMtc0IwbmpON2ZtNFpmTjlRODllaWlpWVdxV3BSVWJWY29ZZ2xhZ0ljOGZIc3RKQUFXeWxZcFpJSDAyemJfX2fSAZgBQVVfeXFMUGFPRHBXMXZxbjhLTUJhR21sRGN5REs5TG5ULWdSMWI5eUdzQjk0QWE4WVVqNVA3UkxkQ1haQzVERWVmMnktSV9TMU5Ndngzd0RPdWYxNDVVWVlUeG1ZZl9TaTR1ekw3QUl4Z2dxU3JKTUlBSEI3azVuLXhTeFpWVjgyX1FwRkZBazFCa282OGRsRW9mS19HaUs?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T01:04:03Z",
+    "hash": "fff528ff6306c2ff941bbbaf779af712a9e694169e1308b105f01da86f3cf1d5",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Samsung to Begin HBM4 Chip Production Next Month for Nvidia - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXo2cXJ0cEpDeXhKa0lmdU5iZldSRkFPcDBYUVZjUzRYRHV1RVRaRHVnNHpGbFFCbEtVSDdubm9mNXVkT28yQmJrUVQ0S1VaUnBhNGs2OFJFMS16RjdCOHNxalV4YVhqak4tOFh4UDBhYlVCQ0VKMHIxUTlFRVg5YU8xSi1ZWTg5OHc5ZkNjNTJMcFpUQnFhSA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T00:11:42Z",
+    "hash": "bef75aee19e26a3c748a0734abbd8fea5ff5b6337b821af089aacdb6190d682f",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Revenue Soars 62% to $57 Billion, Major Beneficiary of AI Infrastructure - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOclpVbzhqN3ZsSnI3Ung3M1lPbi0wdThoU0FNckpCZmd3NXI4RWF1S0dSc1lHb1FqSmxBWXMtSFdEUlB5eGNVOXhEVkpJZ2JBeTVsUXcxbUpmV3hnX1hYU2VrVmpyaVhwOGhwUTE3SHJweHBOUG5RaGc0ZEtDay1EM19LSjZrSjN1dFlzZjFYMTJ6d2F5U0xCb1RoRk55R2t1dGhMckhVOTgyS0E4RVFJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-26T00:10:44Z",
+    "hash": "e2bbc7096899e678bc2f7f00e8fe403ace443d30116c1c49cce1509c7632ee0a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Indonesia targets Nvidia, AWS for investment: minister - Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWFOVlNnN0Z0SnZJSEtiZXJKaTNmU0MxU29fQy12LUUwZHhIWGs5ejdzTS1xR2lfMkJmenNydUNaQmh0Y0l2TnFvdG03MFhkN0NCRXl6UGxRUHBkaTVmanN3QWp6WWUyd0lmaWVoTndEdU1CYmIwYjVJR3hfdmZXU0pFUGVxOFFsalBpbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-25T23:44:00Z",
+    "hash": "b520ce834fd4aa89e4cee7831d7280d76086caf51b859bd8339bfa718dc82757",
     "source": "gnews"
   }
 ]
