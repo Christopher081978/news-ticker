@@ -1,132 +1,62 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP price: climbs higher to $1.90 as price remains stuck in tight range - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2c1MkFKZ2hURlVSMVFvZ2NSNTlLcE5iS0RhZmcwdXFadGVreGJ1dmZtMjRVSzNjZzdHY0M0VEJiU1V0Z2NoMV93dWk0NU5SUzJKalh5aXZEXzRhd2prcm53NlRqX1VzY1NPWS1OOE9BdG9UQjFHMUZENVRBTkxCZzY0S2ZXZHM1OWFQdHM1MFd5enZ6OVJ0cllTenVQM0IxOFdSZ29XM2xjdXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T05:34:04Z",
-    "hash": "bbf958753a121c322bf9d6f822fd3bdbd0906d3a988b26c51dbe735862e94521",
-    "source": "gnews"
-  },
-  {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Ethereum Staking Grows With DATs Holding 5.5% of ETH Supply - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYlFDQzNRd1preXFBMk1BQVpVNVZVWGZjbkVKeHo4b3FNeF9BdHNjblB4Y1QxblowNTZwNERYZmk3VEFWS0pkUnFwb2JpZ2Nfdk0yM1l6S0pvN3pyTGZqNXViZTZpcWVpMjV3YVlNd1o4cl9lNkxaQ1cxenFPYTJLa0dDRElFdHRrUWJteQ?oc=5",
+    "title": "Bitmine’s $7B ETH Stake Surge: Ethereum’s Centralization Wake-Up Call - cryptocoin.news",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZllrQ2V0dmMweXZUSk1YcWcycm9ReWh3Ti1VNXhsTXlyUHVzdTktR0l4RFFsSkhoU0JWY0dybFZkSktac19pS1RJY0RyWXhWQTB2LWRUZXdOUlNoWHVUdm9jWlExRi1HX1oyNlFFR2diWDJobzJaN001VnNNVU1jdzFZNTJMZVYyUGJNVzlhRmtXMDEzWGJ1VWwzUHF3Rk1qekt6ZQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-28T05:31:22Z",
-    "hash": "f520f7874dc5b52b0ff5a93c0bdf2351d8598cd9811713284e7c67ae86723bad",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Bitcoin price: Top stablecoins, tether and USD coin, shrink, posing risk to BTC - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHRySnUwRTVZV2lzc2dhZjM0Tk1HVmJSdWNMbUhHMjdfQVJVYnBTek54ZW15MUNHU1RaSTJQT0VaNzFSQWowR2lBTURHaVFZREIzWTFGTDBQdVZLeGpLbEtIYk9ackFBSUpEc0EyamR6dlJFNWltcXRZdVp5LW9xM0JjeHZMT3RpVXpHOUdIZE0zRURTb3lqZUlmMFV4YUZkY0d4clBvY0YyQkdPeUpzNmFwTVJZRE51dUt0WXIwLVZOQkhZSlFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T05:29:12Z",
-    "hash": "9d443809dfc24d81a7131b25d93078821e63b6ebe7e3368dccf1b46f57f8817d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin price: Top stablecoins, tether and USD coin, shrink, posing risk to BTC - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHRySnUwRTVZV2lzc2dhZjM0Tk1HVmJSdWNMbUhHMjdfQVJVYnBTek54ZW15MUNHU1RaSTJQT0VaNzFSQWowR2lBTURHaVFZREIzWTFGTDBQdVZLeGpLbEtIYk9ackFBSUpEc0EyamR6dlJFNWltcXRZdVp5LW9xM0JjeHZMT3RpVXpHOUdIZE0zRURTb3lqZUlmMFV4YUZkY0d4clBvY0YyQkdPeUpzNmFwTVJZRE51dUt0WXIwLVZOQkhZSlFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T05:29:12Z",
-    "hash": "9d443809dfc24d81a7131b25d93078821e63b6ebe7e3368dccf1b46f57f8817d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Analyst Divergence Highlights Coinbase’s Crossroads - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazM0MWdvMF8wZG04MENxakRVOTU3MFB2WnoydzZaS085RFNDcktBV2xtM2FXbVlST0FfSVdQbTUzX1RvdUpTSWxWWVdSQUhRck56TFNIYWRDbGFONm03bVRIZ0l6NDNqaWFOZnNGZVEzcWlOeEc2WXJERlBFeVNTQ1pNdENpZ3J4NDNsUmdvR3NQT09TZWNrdHJQdWgyZ3RzeEFCRGt5bGdtcUhNZ0ZN?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T05:14:04Z",
-    "hash": "12938fb64d66048d7a0939b72972236c12409f07ada4289b295281de5af415b0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood: From Discount Broker to Fintech Powerhouse - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnRHdy1LMmlLWHFvSE1VVUlFNm1BVjF6Y2w5VGtUOEZjSXhOZFhhVUNWMmVGcjVLazRJM1JzU0k2a09qYTh0dUtaYnliZFhqUmRNUGNqNDBwWFd2LXFiSnNWcm40MzFLcUY3dEw4M0xPUDctNTR1T2tvMWthREViR1g1TnQ0LWZJSFdiMVZPSzllREZQQkJuNQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T05:06:43Z",
-    "hash": "6889add61d5c0eefb0a665e3e286e7d3496707b578c2ebec86892ef68ae683a6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab Stock: Investor Attention Returns to Neutron Rocket Progress - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmNFYTJyMGxOZ2Fyd2RMVU9GeFVwVkxtN1BHT1pZQzVVTXN2Zi1IWE5KTHlrQmFqM0xhSE1ndk5vdk5rdGRfbHhiU1pUcWRxbDlHWG9aR0N1ZGM5Ujl0VEx6VEttbTA0UXJwbk1SNDhNb3FpcEFaTTNqeGRFcVhFS1ZMOHFxRGYyUkpRSWRZMVdUMUNyaXBkQ19aWUVXbDhlaHM0U2Q2MklNMkh1RzM1VzY1RUtDN2lYVVozY19yV3FqOFVEQ2xCNw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T05:05:04Z",
-    "hash": "25ad22527ec745ee2d2cffe18cd61924203685197a972bdd15ea6623a308069f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Panasonic",
-    "query": "IR/Press",
-    "title": "Panasonic KAIROS Expands LED Partnerships to Unleash Creativity and Elevates Every Experience",
-    "url": "https://news.panasonic.com/global/press/en260128-2",
-    "summary": "",
-    "published_at_utc": "2026-01-28T05:00:00Z",
-    "hash": "f352da8a0ae226eaca4799775a649f5cee57cdf34ded0c47c5f26a2a5d1e4c39",
-    "source": "rss:news.panasonic.com"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD reportedly weighs India expansion as hundreds of car orders pile up (BYDDY:OTCMKTS) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFRfMTk3Y212VlEtMWIxRldKTndMcnhGOHQ3U2hxblY0cUxZVUtmcUtxVUFGNGMyN2RkdE5VdXZMTEhLZFNpamJHN1VLOG1yWk8yT1BzMWxUNXRpWGhfamwzVkZsbjhReHNBUGNuWU1Kd3Nlc25iUEI3TFV0SHAwVVZ3RXJ2bnh6a0J3a0FSTGxyUWlLMktYNWM3SGJYQ0lOYzViZDB1VHRnRXBPNGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T04:50:19Z",
-    "hash": "74a8b4d3e29a8c749b694dc3472ad038e85ff8c5ef652a6a44afd6fee916e714",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "TSMC Stock Has Become A Buy Again (Rating Upgrade) (NYSE:TSM) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcXNyY0NlYUNncU9OWG1WT0czOEhhTS0wbkI5N3RMRmJXSXZlY1JuYi11R05rbzgxRnFJMzJ3OWtkVDRXR2t0VjBHNjVtRk9mN0J0WnhieDlzQmxTUjFFa1RtMC0yS3g5VWwyOHNDTUdHWkVzV0YwX28yOVBEUTBBeXpsdndMYU1TSDNv?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T04:39:53Z",
-    "hash": "6ddeb47f28f03a20e4d40b40af347e3ff2df249972d5cd6d542d7582d47dfb17",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Traders Turn Bullish as Long Positions Increase - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRNWNZUkR6R1BnMmE5NkNTSGZvRFdzRlhQa0tTeXdtTzFBS1FMajRZNG5oWHI4emhTU1BhWnl5RUFYWXdkVXo3N01zYWFFODBXWTdWNUgwZ1hSdmFXWnlHYW5wUEEwc0o3UFYtT1B2SmpQNE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T04:38:31Z",
-    "hash": "b269c30af44e2fcefcf6208857a91419a287e45bc655e857432fc6ee5ffc6564",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Positions as Institutional Rail While RLUSD Enters Real-World Finance - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmp2elRlNmRCVUQ4dzg5WVkxV0dOY19tRG9PcE9nZ2tvSWtWOEFFZTFrS2ZyV3dIY0lJOUU0NlVrT1lwMlVlZFNSVHgzeGJ1a0RZMGpLNG02N2tLU21jSnBtZ2pUazZhc2hyMmhnUXpYNVVZMnJiRmp4Q0pSQWFJVUxBbHFoY1pZQ19qLW96S0YxR3pyWWFMQ3pqRnU5amM2?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-28T04:32:24Z",
-    "hash": "5caba2aeb3d7c33edbcd685bf6f126495af65e12ea8f68d5c6e9d23273facf66",
+    "published_at_utc": "2026-01-28T06:29:32Z",
+    "hash": "a28af0f09b9c2be9073a733f59aba671b0ade36744d66b68a10d5fa7c05fcb7b",
     "source": "gnews"
   },
   {
     "asset": "UnitedHealth",
     "query": "UNH",
-    "title": "S&P 500 Movers | Winners: GLW, SYY, GM | Losers: HUM, UNH, ELV - Trefis",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXVzQndEX1cxZGs2a2FNTFJVYld5VmNLZm92XzdNWXI3SkJySmRsWmgtYURqVFZFTFR5Y21MOWt3V0xDVG1nQmstVDVVSjZLcXhZLXpTd08ydEdnMUhsUFFxTDl6R094YzluR0M0VlRxd1UwS1RtUzdqOW5vZ0ZHUXpRQ1lpQ21vdlBNZUZBcHR5WFFham9VRFhjMmFaOG5PS1RmNVNTX0pQRFhzVjNQVw?oc=5",
+    "title": "UnitedHealth (-20%): Medicare Panic & Guidance Cut Trigger Capitulation - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNURKLTNBRlA2VkQ2TXpQQk9FcXV4UUdzN3VIdU5HbjU2d255bGxtb08xRkE1eFpVc0RwT2NpXzAwbG1PdVdDdGM5UkY2YllsemtHVWhEb0NlajZEeDFKYlBXV1BDbzZSRXVWVWtobFZRZ0ZLNDN5YmdyYUxSN29kRm5yUVhKUWNFMUlLdDd3R0RfRjY3S3dsWmlramw1aV91Q1czQjY3ai13UWxZQUNlYUN6dFVEVVpFakcwY05fR1BFVzgwNVNvUVBLWGlVdw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-28T04:29:09Z",
-    "hash": "df6f3879338333debe97a0adfcaf1fa0c234fcaaa1118e8bb87cbbcfee988fc4",
+    "published_at_utc": "2026-01-28T06:18:57Z",
+    "hash": "5bab5616804fd23dbbab2daafd9d8bded86f586db0a861aa4137015eb9c97c07",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "UL Solutions Stock Pre-Market (+15%) : New Plug-In Solar Safety Standard Development - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU05fRmlxVEN6NHRlUnFFLWFGbURyTW53Yjd3OVdTcTJTV05KSTVLblJZREpEOGFQZFVBbXdEYTVaNS1QbGdhdEVFT0k3cTU1d19STGstQ3kwaVlzWWgxSzhMWGprRjZIVWtfTGVhTXd1MUZkZEJsdU9lTmFHcjcySXZHUHM1aEpGWnZuQzZTUDNzNTJMcEhTc3ZjTkxpUk1vSDdxMDllWG1FbmtueWg3OGdrWDFUMWwySURWaE45QXlnZ2dIdlNkOS1ZTDlCZ3NseS0wVWUxa2I1akJSRDdYSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-28T06:18:42Z",
+    "hash": "8ad9cc80ec577ad5b835db60841130915c7184d8a204e926801041527955165c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer’s Strategic Pivot: A Multi-Billion Dollar Portfolio Reshuffle - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGd3WDNYQWdOY0xCc3kzNHN3VUcwX1lyOVJHQ2hyWGdsb2ZQcEJ5bHRqSTlESkVqUl9ZZ19BVndlSi1DYWY4V0VRRnF2WGc1ZzgtVHN3TjZMc0ctTThKeHpJQlhQWm9XNXRpTS13dWlEWVdCTTdZYlcyQU1hS28zMU5kaVBLbENjOUtHck5QOWxLcllUb0VLSlZZVi1sTXc5MmQwLXRMSDRNVjdMY0xXN3pwdXJvTlZIZVRCNFF0NmpfQm5t?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-28T06:05:05Z",
+    "hash": "e02327d281c2c44ea766ac7ab08ab6eba5c125d8e285e0f110601fd392455e3e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Experiments With Flipcash’s USDF as It Rolls Out Custom Stablecoins - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZGZLamY1WHZEMkFnbzRMd2NwaC1xZG8xN3NNZnV4dUNWeGE3SEdna3lmajktVDZ3blppWHlTVC1rbFF0OGVubUdXNk9GNVlVNU9Rck5Uenlhdmg4WXR0Ymk5QjJfYVNGYVZ6V0RLQlNTSVllSk04azU5Y2haYzJwRC1qcHozczlucGxWMVY1UkN2SlppMVNIQmdyS0FwQkxWdUY5dXFiTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-28T05:57:34Z",
+    "hash": "91c9cdf5415655f6517ada7c0ff2a8a262863d168e3e45f7ec92448390b64c0b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "With rising gold prices and the debut of USAT, XRP staking platforms are emerging as a new yield trend - Latest news from Azerbaijan",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUU1nMnZiN3Q0ejVUS202TE9SZDVUOEExOUJkSmhENE5wQ2RKbVd3WE1ibHgybHRnNEMwLU41RS1GWWVUNUFHd1daR1ZHcndjVEtkT1VIUVJvMDc0UFh3MEZlQUxDa2J4WTNUcFk0TE9ma1duMFVTVjVwMkUxUHk5LVFmd0VoUlB4QmJEZ3dBdVN3LUhLc1I3N3J0ZW8ydEdlR0R0NVNXQThVd1ZCbmU0LXhRenN2TXMtVmt5S3FnSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-28T05:57:23Z",
+    "hash": "61d19c1d423030686e66c1dd734b685689c7ef7b45bd84107015d8ff42cf7181",
     "source": "gnews"
   }
 ]
