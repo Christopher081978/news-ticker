@@ -1,122 +1,82 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's CEO Says the \"ChatGPT Moment\" for Physical AI Is Here: 1 Move to Make - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlRDX3QyS1pPcmx5a3I0Y09VLXpWVkJESDV1akptOExOYm9wQzQ0ekRvMWhORjZaTFJVMlNzeGJ5c1l2OHpGblVVMV96c2laUFRlRTc0WmZLQUFiT2U0X0pYUHZEeERHaGN4T0Rmd05ZcGlxVGxpVkhydVRUeUJUaHlrNnJBM2ZMQkp5M2tn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T20:30:00Z",
-    "hash": "a1a10f3740b4eecbd08b558c3ccbbbf73f541aaad422f542add71fc28e6db198",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "When (NVO) Moves Investors should Listen (NVO:CA) - Stock Traders Daily",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFNNdUsyblVTZlBzX29La01fRWg5TU9ZYVdFSTdSTlRqdHQ2VFAzVXNpdmVOamhEUjl6SXl4UTlpQUc0cjR0dDZxcnRGRkRYRkd2cU04OXdMU3ljU1ROMmZsOGFUNnp1c1BPbVZ3c0NYTDlxQXVWSFFuaXlnak03blhFVVg3N3N0QUpzVWcycjdxd1ZuLURabFlFUnY?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T20:22:12Z",
-    "hash": "4b892e947fcf0597eef0e0bb51234b896e3b80f5ca544e3575eb4c26631735b1",
-    "source": "gnews"
-  },
-  {
     "asset": "Bitcoin",
     "query": "GlobalFeed",
-    "title": "Krpytowährungen: Bitcoin fällt unter 80.000 Dollar – auch Ether gibt nach",
-    "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/krpytowaehrungen-bitcoin-faellt-unter-80.000-dollar-auch-ether-gibt-nach/100196430.html",
-    "summary": "Die älteste Kryptowährung verliert erneut mehr als sechs Prozent. Besonders der wiedererstarkte Dollar setzt den Bitcoin unter Druck. Auch andere Kryptowährungen verlieren an Wert.",
-    "published_at_utc": "2026-01-31T20:15:47Z",
-    "hash": "70b5030d951a25ac4204e0e1d2e228198b3c6a0a13eb42942a598a3daeff248c",
+    "title": "Kryptowährung: Breiter Abverkauf: Bitcoin fällt auf unter 80.000 Dollar",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/bitcoin-faellt-auf-unter-82.000-dollar/100196061.html",
+    "summary": "Die älteste Cyberdevise verliert rasant an Wert. Geplatzte Wetten und die Nominierung des neuen Fed-Chefs verstärken den Trend und drücken den Kurs unter eine wichtige Marke.",
+    "published_at_utc": "2026-01-31T21:02:04Z",
+    "hash": "b35e76c3cd7a75ecbdc6e1bf76ea2ce3977ed1f4c16898ec7233c3e737c4fb9f",
     "source": "rss:handelsblatt.com"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "ETHUSD Ethereum Slides 4.58% as Liquidations Trigger $850M Selloff - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3V5R3VPV1J2VFl6QXBDS0VhaEJqbkR1WE9Od1Z5U3pJTkFJSnNhSVZqT1psWlhnS2E4YVVPdThsMll3NlJaOWludUUwUGJFVHVtUmVfM3FIbEZGSm5yX0pkVlRVN0xabnM1dHNJX0V3b1lVNERwT3RWX2pxRXZlczREZWkwa1pwQjhCNTNFY0l2dnJhQk9F?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T20:15:05Z",
-    "hash": "4835b8909b39b9e4dc1ef964dc17c1ef2bb167099ce9655884834f0bf9c17112",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "GlobalFeed",
-    "title": "Auch Ether gibt nach: Bitcoin fällt unter 80.000 Dollar",
-    "url": "https://www.faz.net/aktuell/finanzen/bitcoin-stuerzt-unter-80-000-dollar-200494887.html",
-    "summary": "Der Bitcoin-Kurs setzt seine Talfahrt fort und rutscht auf 78.720 Dollar. Auch Ether gerät massiv unter Druck. Kryptowährungen werden zunehmend von den starken Kursgewinnen bei Gold und Aktien abgehängt.",
-    "published_at_utc": "2026-01-31T20:05:23Z",
-    "hash": "f4d8b671947582e31e1911370cffde3ce1a8ac34932fb2d98fd680270e389df2",
-    "source": "rss:faz.net"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk Class B stock price: Wegovy pill scripts hit 26,000 as earnings week approaches - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGhqQ0F1VXNZVEdsemVia3lQVVJ4aWV1M2NJMVlxMVRxMlFtVm4xVzBPMWZfM0g2clZYNUIzNXYycjM0YWJWTmtUUEZvc1lUdWlwTjY5VGlhd0RtSC16dnduS0FqbWpnOVM1dGgzbElCcDR5WHpGNTg0M0hhWWJUSVBsNHBYWUVNWHdEbS1hLUI4UzdzVzJHOVNkRXQ3ZnJacnVPMzlNT2hjYUZ6OGU2aw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T20:04:21Z",
-    "hash": "08baf76499804d908540d6e0873b5c75ab9cb44fca58ace12bc7567fbd7043f1",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia strongly denies concerns about OpenAI deal - Techzine Global",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUprSU9ESUtZQjlMVzBfam1ES0xGX2xIVkV5YjIteWU1WU1IREhva3NORTYzNWI4UlNxOHNXR2oxN3JzTFN4bHpWcnVkRjRuME40eHZfeDRKNTFURjl2Mm1NdVZhVG5rTnNFTWJRRWhKazExWFJra3RDOWU5Q3ZaMi1BWWlXNUp4d0FTcmtMd2NrLTBocHFxc193dTNpdFJDUlRN?oc=5",
+    "title": "Nvidia Reaffirms Major Investment Plans as OpenAI Pursues $100 Billion Raise - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0JoNFgxdklXeE1QREY3dUJONFMtVXNUWnoyNTVLQ0NIUjhNRnNjZDZEUDlHbnk2MzRMUHNyYk1aSEJmNXhMQ0hKLUJNbzJlbmsxcU9PNUxtVzY4LVBVcVdGN2ZsZG1YQ3otSlhlSmNiV08yeTI2YlhvNzRoNDNQVVBER1NtMVZxSFB0SzgtUjA1QnNRWWVMMi1CdUg0c3hraUR5VFA0TG4yTFJmRDQ5LTY5UHh6UlByQ1l1TXFJcEE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-31T20:02:38Z",
-    "hash": "0a4c823cc7ef1eec59a3a8c06c386c29124577f86b73f3c7198f708dcb384fd5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet’s Waymo eyeing $16B at $110B valuation (GOOG:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWR3U3NYLWxWcUwwSUNNMGh5czlYRGJDMjZBLVN6VXM5ZXE1bWJtQmFGaHM3amhDNkVCLU1hQUNLVWsyMll0Y1FURzJEeUg1T3Z0VWhIbUJOVW0tTWFwNW91eDhBbWs1VW9qLVJsZ0dzX1UxWFNncFZ4cTBJek0zRmNNTEMzUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T19:46:32Z",
-    "hash": "f07f169b1d5b4f4d1e41e0b40fa2915590fdb218eb9d852aa4801824947428e7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "$818 Million Outflows: Investors Dump Bitcoin ETFs as BTC Crashes to 9-Month Low - Blockmanity",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV3V3NjRwT1lFR2N0ZWJJUGdzWElRTzJkVE5Rdnhrd2RKU09YWEw3eURDUmRCYUpTSkdsOGV5bmYyYXo5RnJ1WTNTUWRpclFsbzd0cnBhRVFzcjJidy1YMFAzUHUyMFQ3VTdma29yakxRU01PdDBBR2xvVVpoM2ZwallDaFBWTWpWSEZlMmxKc0NDNWY4YXh4QVVEMmQwNFl0V0hRRTJEM0swaTFR0gGyAUFVX3lxTE5MVWhXQVYzTmhTcW9fSGF0RndyVklCZ1RuaXZKclJhVS0xMWNtTHBJdGpiUmxtUDRQZnlxWnVWMUhackNZdlJxT215dzkxVVpubG1XcjBjd2V4czAxOS1kQnhfSjFVT3VIeWhZYzMtQjJDUHVRVi14Y2VwTU5fYzd6WHYwSVhJd1R1M3FMU3ZHTTgwVWJ3ZVQzQ2lyLU9PbUw3eExjZTJNVzRTdENROXA3REE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T19:41:15Z",
-    "hash": "aa33618638c1e25d6d247f7087b2bee1dbbd169e33e68fd37b9add4957bbc8e8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Falls Below $80,000, Down 5% Over Past 24 Hours - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTm1tb0dRdmJfZTRLMXo3OFJmZzBnOEtHRGo0R2tZS01pZzhkMzRSU2l3c3N1OW5NdjhFUDhfcy01UnJlX0dxRi1SY3ViZVo3ZkY4Slp2SEM5UDhGRHRnanc3M2NaYzZwSUxCU3Q5ZjRpZ0tmemw3Nm9kTTgxS0xMeWgySUg1SktUMW5hcVhfSmJMRk1DYmR4eEg2bWR3SWhwU21YNjcxRF9rLW9jUFpTTXZLZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T19:31:58Z",
-    "hash": "d8d1bac0398d0a7c04e8c30392315eb07cdf49d9bbbcfdf8ef5000fcfeb61121",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: $2,400 Crash Opens $1,435 Risk - Coinpaper",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkN0UzE0VWJGenVyeWsyYy13T3YtOGJjNTVXT1AtMzJ5TTk0N21DekN1dzFoRUh4XzZEN0RJWXR6RHdzR1M5SFo3UGUwV3pjT0xWV254UERTNGdISEJqTTN6YnBfWXBKeTEyclRtUUtIRl9iNHFDSDRBNkR0LXd1UldHM0RBM3dibUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-01-31T19:31:45Z",
-    "hash": "e06d13fc5af4925d361e3cba29142148d7b107b4b23013511f1d90357ebf782c",
+    "published_at_utc": "2026-01-31T20:58:05Z",
+    "hash": "af19f0eec47082fc1557ea752b0d740cb9e4909c08760d2803bfc914088f4d4d",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Bitcoin Price Crashes to $75,000 Range As Broader Crypto Market Sells-Off - Bitcoin Magazine",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OTmR0Qm56SkZTcC1GbzhSQTJYbVRXS3ZVMnlwOWQzMUJXNHJudnpoTjRSaS03aUJlWmZsVVlLakdDM2lCeHE3RXFJMVlKNmhWeU4xU1RadXphR21USjNkTnZWZndfaTE1RXEtelFmbGhKRGVM?oc=5",
+    "query": "Coinbase",
+    "title": "Coinbase Global Inc. (COIN) Faces Near-Term Headwinds Despite Platform Expansion - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbk1GTkZtRzg4Z1BUeXV2a1ZROXpObUVtcUl3NWg0bWlGUm03UkFoZU8tOGw3ZEQ0RjhnVEFhLUk5QWhIb1BOM0YxNUtuTE1ud2FnNFhjSE9reWV0WTN3TFNHRmJlQmpsNllXM3AxVTAwYTRCa0xhYTJhdG5aLUJLY3AyTlZ0YllLSkxvVEMwckU3ODhyRW1EbThobU1CdmtnZ0JjRkdmZV9Ea1E3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-31T19:31:22Z",
-    "hash": "7a7c39ebb62cb3fab913d9134ff769863360391096816142a6296b3164b407c1",
+    "published_at_utc": "2026-01-31T20:57:08Z",
+    "hash": "33f5bff42b1f7db5ec4504e6cdf81d5d9ae37c7f5f597dc4003efd85eed5833a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA is still planning to make a 'huge' investment in OpenAI, CEO says - Engadget",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNanFPUF9EUmdtdEFhcmQyaEhnU3N0QVNtemxDRmEwcVhWb3lRLXVtcWh0ODBTcXkxZXM2T3hoVnJDTXBDcTNndE9NV1FIQUlBTWpzVDJ5N2dDa19QcHdmOTY2YWxRd2RtLTR3V1llaXNSdDVTeFRZQ1V3dTFCcVM1Y0NPRHlaaVVFbnpzd3JaUmRVWkVUWl95U2dCQTdPbFEtRTB6MjhyNkJXVi1Iak1BUUhn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-31T20:55:21Z",
+    "hash": "77017ab2249f342798b6aeefcf0c3ddd459dd7a0eb5fcd1283c4d841d3791d4c",
+    "source": "gnews"
+  },
+  {
+    "asset": "JD.com",
+    "query": "JD",
+    "title": "Bank of America Securities Remains a Buy on JD.com (JD) - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFJCaXRwUGRfM2F1dlozendtLWpRNGltcWt3dlNpcG1tX2YxWXlvUXJPczBELWJRYjc5Z2xMdTRIOHdnMHZFTktab2RhVnNHeE5BQS04SGJ5WlJ1ZW1BclVQNm5VZk8wVmxTeU04cy14dlpTN0pyNUpoU2tkY2lHV2Y5Sy04YmlW?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-31T20:51:30Z",
+    "hash": "c4d84b3379d4f7cd27c39cc78a6c97b4b3803194fb0e83f558d9f4e737e21c5d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Global Inc. (COIN) faces near-term headwinds despite platform expansion - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObWFpT1FDemtMSlRHeXBZRWxwcWdfQ0lFd0E4Q3NidzJaZFlfNl9kSFd3b1E1OVd4aS0waE5LUE4tNjI0bDNZWkVSWktjNHloTTNlTFh2YXZtSlBkSTNYVGZia1hSWUcydk1nSXJiSUpjckhmMThDd1NCU0FvUlowZHM3SXI3ejhsUER1T0RDYWY1RFBDbnY1OC00UnMxeFNDNUFieXRIUTF2UzV6a2VUekw4ZHBBRnhuX0M0SjJ2LWgxMzBrUEU4ODhsblI2VUFTVE84dklJYllTWUxpOWJPbWRSckZOSm95?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-31T20:51:05Z",
+    "hash": "db23204c884b3b7e5fb707950ea9cc77f62c35d9e7d06ea865beacf5e48a9b69",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Aktiengesellschaft stock price: what to watch after shares hold near highs into Monday - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGd0MEc2dFB5NUpPczUzZG80dVZmRUMxTlpod0FzNGNhMU9MZ1hFOTZxUUQzNkFVZjFGeXdIYkxpU1hNSFVRMjl0VHByODJEVDZPZUtibGE4T2t4QzBmLVk4WEtVNXVBdGJMZXk4YjNtRFJrMkptM1hmZlVGYmE1MXpDd2tGbkZoX0xkZ0M2RlhEM0RsQ3Rla1AyUUdWVjRSNDFEWThnaEJaZF9IT1B2UUhDNW8?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-31T20:50:40Z",
+    "hash": "0b1572fdd521148535f2c5f127c3058aeb73a1339f235aa4038da059434e7f67",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia's CEO Says the \"ChatGPT Moment\" for Physical AI Is Here: 1 Move to Make - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmhScl9ubEk0cXFoaklJYkcxLUluQm5ORXFQZzdvenpkY0lzZkNoSUJNY016OVpzc09qWUQ3ZzM3b3d6czc4bDFhektSZlU1WXktUzN5SzhFZ0VzencyMVRmV2xxQ3AxQ1M2djAxeGpKcGpRYUczQ3NyZnphWGpBQ2Q1OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-01-31T20:50:00Z",
+    "hash": "5608b6cc1b601f251813aef569a22df17e911a1ef69dfee1bd8d62e7ea415d3c",
     "source": "gnews"
   }
 ]
