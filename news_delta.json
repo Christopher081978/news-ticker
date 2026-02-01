@@ -1,122 +1,62 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia boss insists ‘huge’ investment in OpenAI on track - Digital Journal",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTRSbFRUWnMybzJNVjY4LWh1eGV4WThBYUpyNjFxY2pSc2dubUs2bEw3cnp2VjdEOUdqdmxab29wWU82am9FdTVQTWpZdy1lU3ZoOHp0dWxMbUtLc0RpbHZpSnU5QUYxbUxLUUotQ21BMlFOOTBqallvR2JWZVJ5c1BWN3o2ZVRIU2hyY1ZEb1JrTE1NdE5ZcFB6TWpMVmpjYXpGLQ?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin (BTC) Breaks $80K as ETF Outflows and Fed Shift Weigh - FXEmpire",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWlQMjV6SlNsa3BVLThzREZfOXVGS2tNYndKbERNWWhrNGJxNUFuZ3BXYk1kc2ZUZzF1MnBFYTRha1Jmb2ZVSklUREtyV05GWU1xQndUWUg1RmFXUDJlNXJIcHZtVjNndnRzM3FrejMycy1oS3ZfTmNKTWNRY0RFZi1aZTEwY3YySFo4dFVRYkZkcUUtT0VaZzA4YjJwQm1ENkFtUGRPbUJmU1NDTVE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-01T02:48:38Z",
-    "hash": "55426c0dfd32c227114d3e2e10af8364c53442928cce98ec68e7068a5820c3b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD’s European Expansion Gains Momentum as Sales Surge - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3hyMG5BSVVSLUhiSXo5Rk1MZlFfalhLeWZJeDhvY1lqcFV4aFZvMVlvZ0pzcDYyNXFLNTlVcm5UQVpVT01sVWlsNWs4VWctMTR1NHhJQUJiOHJYb2FuTnNnazI3M2E2NDV6dDJHNTVlUVNVcndZQTI3WXN1a2Vfc0hYQ1dHN1VlYzFkRFAyRVBZdXEzd21ZUm1Rd3RQcWx0bmhSUlNzSjlxMXdVaGlkWXQ0OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T02:14:05Z",
-    "hash": "36fe36249bffd7327ccb4e008c2b5c93adcb05e070da89f4ebac1ba2772f2ca5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana’s Strategic Pivot: Building the Institutional-Grade Blockchain - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVJJLXpuNjAtUVRUVGpLd3daTjNzODJpWU9VdVdwS0pGZHZ6SlR0Z3ZTRzNuM0NSek9GRG9fWlZVdG9ZZkZpdTdQeTFWQmptWFMyRTBpTTdKbVRnN2pwYmJ6MVl4bEFtVXBSRjZOMEp5elB1dXlXUkgyMERzbl9lNUVaZDk0X2NPSXhvSzVUTE5mUy1obVdxM0QtM09JRHFUdjY3UEo2d3FsYlJ0UXJMRnVxZGZ2OUIyelY0dVhLQzBRWm9KZ0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T02:09:04Z",
-    "hash": "151823aa21dd4a7de23731c18eb815e25b538791f32dbce329cc143e392fff35",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Why Dan Ives Thinks Tesla And Nvidia Will Define The 'Physical AI' Era - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wZkhhc0hWYi05SDBjT1liTXFrVEZwYzhfWXpCcl9BcHMya29jM2Rnand2X3RXOHRtQnRDdW5kdkhNQ0JKd2tGRHRVSFVha3o5M2hiSWhydHdvM194Wmc2a0hUWFJLWnJ4V1p4aVFSaFBTSG1Pc1ktSg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T01:36:34Z",
-    "hash": "c190dd69bf97a06b90a461de9067912e58755ee863405edfa1bd17f4a177951b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Bitcoin’s ‘miner exodus,’ UK bans some Coinbase crypto ads: Hodler’s Digest, Jan. 25–31 - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYVV6MUxjLUdtanQ5OGJpM3Mzem0tdVYtRThuWGQtSHY3Q3dfLWg4VndLODN6Nmw1TzNBMnBwNzl6OHlXZHN1SWRlQlNMYWZTTXZFNDN3VGRhdFFPMHM5NDlRakZEemFidWxkdmoydXF3ekpFMzNzY0N0emFWby1ldFltN25wOTJlVHZteS1wWE9ic0IwRUwxbEFacTNJcnJfWVh0NDJHNjVhbDdwWXYtOFdRQldubHE2WWxBcXBGTks2LWlHMUdlU3lqLTRkR01Ub3gzcWsxWm5GOVIzWXZfa2gxYVVHTWdFaFptbEhTRWU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T01:29:27Z",
-    "hash": "67e7e39683750f5a69fa36da6f3e215c183908798e8e1f5155c974bf29d7bfe9",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "Why UnitedHealth Group (UNH) Is Down 19.5% After Mixed 2025 Results And 2026 Outlook - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHp3R0lIak5kSlg3ZS0yeTFTQmx3WUY2NjUtTFUtTlNESDhsZE1yNjBLN2ZOTlZwdUZoNnYtb2V1WG5VYm1fRmRSdlZGRktsWDI1aVF4dHhVM2pfLTd0SERYcWc0NTdSWG9hUktWd3JSbG5sTkludHV4b2ppVlJGQXRLUE5BUGdPQmxGeURnclNWdzBWaDFHNXhXRTZ5X2ZDTGtMdUU3RFRkTlhsME1YRXhPWDJjdjd1Q01sZHRaQkJLT1J3dDJaVWxRMC1NbXExV3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T01:00:44Z",
-    "hash": "deab21205e99ca02c52051805d5e22c922eedd14c7fd413345082916bdcd415f",
+    "published_at_utc": "2026-02-01T05:00:00Z",
+    "hash": "e2b6506071913c32ceba52c8adb73b661d1e0920cc38bf0ccab328aa84b9ca84",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "BTCUSD Today February 01: Dollar Rebound, ETF Outflows Pressure Bitcoin - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS214WVpkU2NRdVFxUkFZUWVNTDhQQ3RBVTB5V0FzZUJtMEZXaEhNeUlmTjZOcXhNWWNJcUlBaDZrQktXYTA0OFpucTBhSk5RakxmU2g3bkVfYTdialVtMkdnbExRRnNhTWFsQmRUa1lXanBydjY4MFVwbUdtUGNWT0xCZkE0OU5rd0VCUnN0S3Bic2VhdXg3LU9FaHVMN2s?oc=5",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Crash 2025: Why BTC is Dropping Hard and What Experts Predict Next - Blockmanity",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlN5QkJ1SzhLdmhzY3p1djZmN1g2UkdtU3ItbW5OUWVCVjBHT2FUSlNIdTcwN3lKTEtIRUdRSnJtclQtOW03NHp5TnJ6VEdfcEFNb3hyUXVwcEZKZEhGWFRxSTRXWEVXUDB5dXpQdVNoOHFMdDNCNFFtbVhtbVljV3NnaGVBYm43WkY3Yk40Rm1Bc2xmQjgxMnRxb2Z6TXpWUXpVa3V30gGrAUFVX3lxTFBCMDJseTZ4LUFqYVZzT1lqZVc5M1VtamZxRDRCWFhGNnozdnNGZjlMT1k5MDlKUDFKVjBqTmNPVGF0QmhWYXpNTFF3MnUtaG5GSFVXa0FxdF9JQ1djYzlyb2VsNlRRbXNNVnZDMmFpbGRkMTZwSUFGejhaVXU5WkNSX05kOGl3UWpOZkpiSmdCMEF0di1nYWItQ2E2Q1pPbmQ3U3lqWlJDTV9JOA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-01T00:28:14Z",
-    "hash": "a6111f8129b7e60d269f96c1ec1935805d9b266a13fefcd8964a2fe2f24fb7d8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "(COIN) Trading Strategy and Analysis (COIN:CA) - Stock Traders Daily",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXJ3aUQ4MGFOTjM0clhXYUN0NkNVdzVvV1FVVVJiNGpJcGZheFZfOTMtOHkyallYblp6Nkw1cGFxQnFpS2ZBWUtaNlUyUVJ2RjY4LWRXdXZtUzZyRFZPbkNZeFpWcWZHakNaX2dNQ2tRY09FcFFDT0UyeEtmLTJfLUhwZFM5LTJTeGNITy1HU04xNmZ2Qi1B?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T00:19:29Z",
-    "hash": "43e965b7564874225f3e39d8f8bae0520de86cf7fe44e72b0d16862b9c619148",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "BTCUSD Today, February 01: Dollar Spike, Silver Crash Hit Bitcoin - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjhZMmM1c2k4Wk5lM2g1cmJCZVAxd29PMl95U1BpVGRBcmVmOE9nVnVGNGN0b29lS0Y5WWh0X0tLNG5CckNtWHVsczVNSEl0all2ckppUnVXOWEtUzZaRVlpcG9faHUyNG1aejlnTHRjdkE2dXNFRHMtd3ZCczZEMlBEVVNhR0dTTWlmNEJuSURWdnFpS1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T00:10:07Z",
-    "hash": "bfc653d982960616d96e61a23ec048ba6ddf3289b4600fcc9615d5a95ff5556f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "2 Unstoppable Stocks to Buy in 2026 and Hold Forever -- Including, Of Course, Nvidia Stock (NVDA) - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOXzNWRlJPTzVCaWt2V3RiU1A3Z2JNU1FpdWI4ZEVOTmdjYVBEU29xTy1FdjR3eHBuNGFFcjlESXNnUnY5RkE3TXQyd3VlNGE3V3c2RllpXzV6aW9FclVxOXFGMDRNbUd1Q003Qk03N2JsMi05UTJsRENhZjRiNVVGWm94ME95VnRhOUs3LXp5djhSRmd4anhR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-01T00:10:00Z",
-    "hash": "e1a645d7f821528fefa9d0094a03e7122222f5f3eca562ba59a395b96eaf8c2a",
+    "published_at_utc": "2026-02-01T04:33:23Z",
+    "hash": "00ff9c24d7dff3a3a7a6bd229743ae5b6466ea7affd075dca2cf2a211c7f60f8",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Key facts: XRP Drops 11% This Week; Banks Call for Crypto Infrastructure - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUmM2cFRldkFsY1M4SV9UUXhXVnlxUXdDTmhKemRGaWtWYVRuREJpckRtamxTRkZFeFduUEhXSFNCUVVfc05aY1pVbW8xNklUTHFQd2YyTkRWXzNmRmhXbzh1X0V0M0QxcGRXZTVGMnl2TjRTWmxEV3c3UFh0aXNuTzBRVGVRVG1ncWRvcHdrWlgxczdTU1ZCcjBlVDhPak1hRnYxbnF4bVI3UEpyS3czelJIa2paa0Jfb3htNlZlcFZadnp5S1l6bTlMZw?oc=5",
+    "title": "XRP: Hidden Time Bomb or Once-in-a-Decade Opportunity for the XRP Army? - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNTBYMnpPYzVCVm5VaDNwYXNrdm9iU3ExWDBCSXgySzF3Z000bGw4dlpCM0hZcGNDZTVTZGhPZWV1enBYOTJGZGEzSWxidGtwZ2pTNVlJZ1JENDQyWXZCcHhrd1ltTmNtbWNqNTktancwajhuTU0xNTBVaXFvS1FxNW9XdTl1WnpvWWdaQXdzR04xRTBncC1XdHc5M3JtMVZpVGpBY2xnYnRZb2hzMk5qNVNkMjEtN0xNU3daTWJSLUEtTlpYU0ZN?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-01T00:02:00Z",
-    "hash": "f4467fa3e408de500c88a2d9515f91feb3e60aa042c117c55599f23bf5766171",
+    "published_at_utc": "2026-02-01T03:51:35Z",
+    "hash": "6d14c979f850396b5158bacb0ad4507b8b0f1e89247073a92d64c8000d31cf11",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI - The Verge",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEJSOU1FT3J0NVgyU19SZDE1MkJwdzhDYVRqdXl1cl9XenM5SjB3cGdFcE5YOUc3NENTS0ViYXduV0hNM0ZqYkhIM3FFLVVCNEJJUE1WRU1iLWNGS2dTMml6aXF5RllZV0lNQXc4ZjJKZTdBam0zMWVWbG9KN1M5RA?oc=5",
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Shares Stage Impressive Recovery on Dual Catalysts - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbm14LWI0b3BzTURNU0wyc29ndk1LaHAyaHpkazlPOXlCZWZDcXlUakVURlJqY1ZsT1Jpa0QxQWl1NlBDeGhUWm9sWDY1WnlJV2RmRWtfajJnc0xGM1dGeG5XS3U1ZFl3Y21NTGJKeFk4WjlhY0wtcnhyRzhLZmZRc3VBRTBIVlVGcllYakZKbUpiWGhsVmphR2dPSWR1VHpyd083MmVlVE9LS2oyYkMwVEQ0dUJVR0U5WUdCUG0wcw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-01-31T23:37:56Z",
-    "hash": "cc99373dd3add79d2a786dfd9a5bba6eb8d4083cfe796fa8dbcdccafd3f5c436",
+    "published_at_utc": "2026-02-01T03:19:05Z",
+    "hash": "bc33fc57f270e9c36ea7ce45bc6ff4b6740e38f52a2260d2c33b83eff75f5ce0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "BTCUSD Today: January 31 Bitcoin Slumps Below $80K on Iran Tensions - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTRtVzM2YVA3aVNDMl9iMmp6ZEpmNUZsWjlQLWdXNW9qUjVQdUVSNFZ3OWR4dnRvbmFjU0pGWHd6anllazQ1M3BKb09hR3JNZFYwbE01UWlJcTN3UVdySERZTHozdDFYTXVEZnhxblA0ZG9jVFFVZUV4aWNZdGR0TFNRVUxrN1BtUHNzY0NOUFMxZnJCSmdxT0VB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-01T03:04:39Z",
+    "hash": "53bcd1200d542f85def78410678cfcc7cb8cbd6ac5a1224c1f64e0cad43c878e",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Tesla's China EV Rival Xiaomi Reports January Sales; Xpeng, Nio, BYD Due With This Big Caveat - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYU9zNUN6M1ZsMTNzQ2dOMkhVNnd5d3ZJRVZLcENUYlh0bDQ2bGlxWkpJOEZ1Sl9DVlNkZ3pGQ01DbEoyblBqZ2NKakNxcEU0a0FDeDdlVzR4OTR0T2MwYVB0T1d6bFJBal9ocXBMOENJUjgwQ1lvTjBQSW9HMkRUNVVZSl9aaUlWMGpwNzhvcWRET1AwMHE1VEtJVzM4ODVQSE40dXo4aw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-01T03:00:00Z",
+    "hash": "3b7bb2f527ad5fd53baf3cfbe482f39eba9b154d5a52e9be093b0833695dffed",
     "source": "gnews"
   }
 ]
