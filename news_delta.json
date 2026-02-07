@@ -1,32 +1,42 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Key facts: Broadcom shares up 7.6% on Google AI investment news; strong sales growth projected - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaGlBLWhRV1FOc2tFb1hGTzFpczNGNjRTVzlfcUYxdjk2SmJzZERJc0FmR213VEJOdF9HYXZVTm9sRjdRX1Q4NS00YnVrS2ZGeGFDbk5JUWZob29WUjA3TnhjaWVSLTdpNHBRTkdxNWZfQnltUXdockNSSFlqTzlZQ1JkUTZXUU1Qbk9pTjVVamxuSG1IVTNsNmJEX0U1TXRPdnhjZGk3ZHNBWV9zVXhQWXNoODhiUl9OR2dMQU4xTGd2U2hDb3JLZXNZOHB5QXlIcFVEQU5UR1U2MzNQQnVhYkJ1SmxNN0Na?oc=5",
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD’s Market Value Plummets Amid Domestic Slump and Cost Pressures - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1QzV2FET25nM0w3TnJxSGxsdEwySGxiREpxZThiQnN6eGFtNC1DdFczTFpJNkhLdlJXY29UZGhwYWQ4Qm5wQTZVcWpTWW1sQWZxa2V3QjMxcWdodFl5YnVtbjVqRUUyeXNsd1daaHBQVFNLMXhhYjkzRFZlS2wwRkdzVUpUSHd5NGJ2d1owbHNhNTVOMi1YU2pscjdQX2g3SXZHdFBkZ3AydTNrWlY4OHZSbHlwVXVncVA4NDVPRHZ3Rjg?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-07T20:03:01Z",
-    "hash": "22780b96cd78608f5c5118c1d4371a0d73e0299ba00bac6b54796d7231eb2575",
+    "published_at_utc": "2026-02-07T21:06:05Z",
+    "hash": "ebd3f0de6d478c474b072df1f54ac496c74c31d257895ec2cf10bfe59c100559",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin USD Rebounds 11.49% as Fear Index Hits 3.5-Year Low - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNndGTmppNnpwc2ZMWnN1cWd1LVF1TjhnSk5kUU5DeGk2MlF4M0l1S210YVRfNUN3cTAtNE5KS0JqSUxfUWNkeVZlX1plYkVCSzBla2c0U3l1SzRPYTE2Uk5OeVUwTlFzT1l5b24wR3dZN0FkR0wxNzVwQU1tX2ZTc2V3Vk44WWF2Y2R0b29B?oc=5",
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Experts Predict COIN Stock Rally Above $200 as Coinbase CEO Warns of U.S. Falling Behind - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTl9DajNNSGJvbVRCc18tcGJhc19pMlRpV1ZCdHFEeFZGUVVXNHZCRXFQcXMtX25JZkVDRGlhZkZhQ2Q1dmJya0xkcVZaTlUxR1Y5R280WGotSWNnNXQ0SDNNbmdtQ09KUlg4UkZocVcybnRzUDlyRTJyVUlBQmZCRi1DY29OMVhUSlM0YW5QQTdrRnBmaklDYmlMOWZoVE04dDJoX1JCOXF3VnJKaDdlTmdJYU9tR3hCTlB2dw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-07T20:02:46Z",
-    "hash": "3dbc2cebc25a2b41af3aa250a7794e97d48a221a3d430a170867a888be973933",
+    "published_at_utc": "2026-02-07T20:59:06Z",
+    "hash": "c5c58b2c8a1dadd25bd7cff24a886af16a757f32715fec1ad1ea2354fffc07f5",
     "source": "gnews"
   },
   {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Completes Transition to Public Company - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHFJaEtWZ3hpNERVbE9YQjVDUnRQRXVuazhKLV92ei1OV19zaVBTdXdZRHFXV0JwZUk0Uk9PN0QzR0tkbERWMFNRQkRZVk5CQ2cxWERsWkJwTUVPUEwyNlZvbHhJdVdXY2Rrd0JKRkJZODh2THFrMjJGTDhtRkx1a0pEcjhZbEJwNmVTZmhBcXE4cGFJZVlqSlNtcHpDZ0ZFMzZMWDFNakxzeXFObGZOSnhB?oc=5",
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Citi Reiterates Buy on CrowdStrike Holdings, Inc. (CRWD), Raises Target on Strong Cybersecurity Spending Trends - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXlaWEpZQjVBeGtIWjlCanN6QkhIbmFfUnRDSlcyZVpJS0plWTV4MHFfQUNRUzE3S19fMzBxUXc0eU1vQTJQdE1kZkFrQmRXbmhVSHNOeHFPdjNMT0w4U2NnU3JFUnptbFRLMVI1d1FmSUh3UkNjOG1yVVRpdTJxOVVlaDBoV0t2NVdxOUhqZ0QyWU1oQnhtVlBTbTJ4d3hWc3QtTU5zdmlmLWNlRElRczlyRFBTbWdNU2NHWkxaSXo0S1d2NHBDdzZMVk5ZbXBUUlVJ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-07T19:57:04Z",
-    "hash": "a6c63f341d82ebc3ba5f1819d9285176bed3ea12194390ce3fa87d8ed96c2ac3",
+    "published_at_utc": "2026-02-07T20:50:20Z",
+    "hash": "211dbad40400e80d0be2e32b5e436ec401fa0abc60c8f55367a7f00c20f33e44",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "203,556,622 DOGE Slam Into Robinhood as Dogecoin Price Explodes 6% - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcVA2a3o3NE5JTDUzWW1JSEJVa19obWJKazFQVGVKdXNOd1lEcWZPOS1hZ29JTnJFQlN5UF9HQ21uaVF0cEV2RHZYNzBINXZKbzF3dDhDYWV0emhnampNVEo1bkN0QWU0RDRPSmp0VDVGcTdkVHc3d29PRXZQczk3bG1CS1c3d28ycTRqa2JmdV9hYXVPNTRtQkVrSnYxaEVlNFN4MEJpZEd2OUI2cF8yblZTOHZ0R2FRM2psN0ppYk0yNXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-07T20:41:40Z",
+    "hash": "7313353105d50b7a78d762cc04a94e2a6628ece2c195dd93b9291214df228eba",
     "source": "gnews"
   }
 ]
