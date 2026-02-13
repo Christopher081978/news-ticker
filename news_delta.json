@@ -1,102 +1,142 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Stock Of The Day: Has The Coinbase Rally Started? - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQWc5VHZ2TkJfVW5GTlFJQUZpOEF6dEZ6RTdRUVdCY2JBcTBFakdaQzBneEtGZFFGam1fd2V4aTllSmRJSTEtZDZNRmNsUVUxdGMza1phS0EwekgwNG0wdnA1bkNBU1FZblhCVmJpVjhHS2RoY093bnlFTTJNa2hGaGt4SHU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-13T20:43:53Z",
-    "hash": "121f69d06fbefeee6a48a20ab8cf115569b6c87a9741b1c2a4b8bae719d4c761",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Alphabet bonds’ lack of guardrails highlights investor confidence - 1470 & 100.3 WMBD",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXJreDQzdGNkQms2Vjh4akJ6M0VnZjFCQzlyUjVqakJkZUUwX2VaUnJYSEkzMEQzZjJhMFpHUWFUaWFUYXd3Y0theDJTM0xpOVNmMExMMFJ4eTg0bHV6bUlzeU1hby03Y2xqeWlfT3preFNjS01VTTJ2V1BzcnRTb2RBbnFETWJ1QkM0WjRKUFM3aUlFRWpUVXA2eEIwN00?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-13T20:43:06Z",
-    "hash": "aff69e129a9904991e2e0b3fc712e7b81aef81ff694433600afb6638963ae8d0",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia's stock is down and AMD is up. The culprit may be Arista. - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2hBUU1HOVkzVWRQOVFCR0hQaDlVdVhxT0MwRFJfUXVDLXlTdTNEVlYxWEp1Q0Nqd0FhZzRRamJ3SEdrLU91NjhMaWN1M3llN2Z4Q3JfZHdUU0VqNUNYZ3JnWjJkREwtOEl0TV9VQ3hHQXZ6NXJlclVSbjk4ZmtjdF95N1d2QmtFSFA3RGxqZ082WmZRM2JkeE5qTTF6MzMx0gGmAUFVX3lxTE5Lb3pSUENUd1o1OTR6LTgtSkhzbU9YYnl3YjF2cXhiRWdaZ2otWnRjVURURjlxQlZtOFNvMVY5UTZwQ2ktOTZaY1haYnU1NnRsdVVaWG5BTmRiZGZGMFYxRGZCdUhiV1FLYWdwdl9KZ3ZmaktBeWdEN3I0bTZ1MWRObl9rM0c0b2NpZXhzY1JESnNQYnk5Q2tlbDh6TlVBVWdUbEJORHc?oc=5",
+    "title": "Lutnick Signals No Wiggle Room For Nvidia On China Chip Controls - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lbEV3WHluOWFwZ2E0b3dvbnVHOHg2bWxUWWVoczJ4MlJWQTA4a0JGY3EtTjVDYWJLYU1lUGo5N1MtT0dyWF9HNDEwbEg2N09Zc1dTUlZpVXNUX2RMZXdYR3hBZ0V1NEJBOGdvNmxCVHAwTXh6ZDE5X3dtVGpURHM?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-13T20:38:27Z",
-    "hash": "7cbfd15d1107562524d7af5fc81802ace11df3150f0d215ca8a5414b47eb6859",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Surges 9% Today: Is a Reversal Underway? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWGhBQWEtQ1RXM3pmdjVmOGFyNDB6Rmd4RzVja1FzQk9ZZkFnaWZzVlhFZm41OWpGaXFNWkVERndjbTY5cG4yUXpVcW9LQnhCcHhyUHV6dTVfZVpaTmpnZG5tZjdlelBBWEk5b0VuYmFENWtGS3dlUzhONW4xZFdyRWRsSk5lZmFFaTFOVlR4a1A?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-13T20:38:00Z",
-    "hash": "6875b9571ab472bd797b7c33a597e9fa95a72b1d2f7df11bad74ef2d5f0eba18",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Abishai Financial Asia: Siemens Boosts EPS Forecast - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2FQZ25XcU9hSHdfR0V3MWlkUFRIQmJlVHJYaHJUckJwSFNraVdlM2dpRmRBMDdTdElaVHlzSEhlUHhYVnZlYkwzanlDNVpvRjdrWVlvVHQ0NXFnTlBMWFlTRXU0c3VIQXhDSFczYlZ1NFhFVHpKS1pCMm1JT3RvVW50SWVNckcxOTVSNWVWRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-13T20:26:04Z",
-    "hash": "8fbd4496e40e1eba7a72f2232ae62966f19b45937f674c2eba36c212c574ea03",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Key facts: Alphabet's $180B AI Investment; Appeals Court Rules on Patents; Berkshire's Q4 May Show Alphabet Stake Changes - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNS1JNV1Y0ckstSUJKOVI2aUpNdUJ5YV9TWG9SRGpsRmswWlFjZ01qZmJKU0RGcWlTdDhnUUp1U05wM1pma2lBRXMxZEF6b19TQTgxaG94bUJOYXIwT0JVLTJmeTM3VVhXVVd4Mm9Ub1Jld3NOcWhUVVY2aENWd0VJNFVFZVg0bTlOdDBVMDUxSURLVXhfV1Y5VzVrdVlzODdJWk16ZG5TRWl3ZmloZ2Q5VVdNWVdoNnBnV3piZEE4aU8tQnJSaWhjWUpEYlRlM0VLcDU5TUtHYWs3bHpuRDZMeFhEeHlUWVZ0MkdvVlRzb1BGZG1NeC1YN2RuRVY4am50em13RF9yZV9JWUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-13T20:04:01Z",
-    "hash": "53970ce4326b19068f888325b72f3be77252af212feed18ae11a128ffdf2e53c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Key facts: Nvidia to lease data center; CEO cites sustainable spending; stock dips - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcEtLcUFVN2hrLThzZU5RaXBvVXkwWHFWQ1A1V1ZSaklGU01iODZYcnZ3VUZDYkJ5M19USGhEbkZqam1SOUgxbkxXM0M2OWtoU0JOcXEyczhuWHVCRXVKOUJqa1hzcVdwS1pKQnZmRktFZk02VTBHQ0JwWDNrSHZybUR1aGowTGhzM2E2VGxleFhCa291YVEyQlFLYzlRSDNlaWlaNTZCdllIVjdnUFZHd3g3Vm15M1ZiZVc4T2lad0lrREtBbzZ3VjVhcEpmRW5IVTgwTFdpbmQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-13T20:04:01Z",
-    "hash": "bfaca8fb5bfd1d5b45e727c921d78c2c01636e01fb19f5cf2a0d77c4453b4a5f",
+    "published_at_utc": "2026-02-13T21:37:57Z",
+    "hash": "1a1bd143f4e260061337f67a5c2b321a5bda560fa64f5c357770dda91d6fb63c",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Key facts: Coinbase assets drop to $376B; trading volume up 9%; stock rises 16.68% - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNlgxM0I0NF81dDhZeXNyLWZOQlJlQk9JZUh2MkpEa0NGR3ZxUml3MFFxZU92THQtZHM4alRWc0t6WVJDQi1UQjdrX0dCMW5qTVdVVmt1RU1ES0RvUHhIeldtdXdGYkphcHdGNXhjLXdTNnd4QzVpTW4yNWFfb2ZtNzljRUpLWWRGODJHY0wtRGVQY2s3RHZQNE9fS2VMYmgxN2RIZ2lrbzAwYmNraHlqRmNtbllDeDlXSUZIZFl4S3NNa0l1NzA2eTlyMkdqeHhnV3Y2Xw?oc=5",
+    "title": "News Explorer — Bernstein Analysts Believe Coinbase's Stock Is Undervalued and Could Potentially Surge 163% As the Market Recovers - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNWhxRmYxTkVKdTF5WGtBZDEtNmQ3TEREaTVvdFVRbE5PNlpZWXNxUEtZT2I2Mk9SM3NzcWN1WU5SNE9UUEpwdTBUYkhZUnZZSDBDY1h4Wlg0VnE2Sy12X2haLVowVWdRcVo5QWlKTmVVWUxseDB6Q2c0Y0FNNS1ISFBzc1NqVHV3UHJjcVRpU1pxY1lwYjJOSklMbi1FZXh5V2cza1FxSFVMX0s4VVBnTVhEYW9JUkhXRHRHTUhkd2FVMno0YW1fZkNnNHU2QjBKZ08zTjNvSnU5M19uNi1wcHlsYnlNckcyWE56LUF3c0lDX1RTTHhIZk9n?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-13T20:04:01Z",
-    "hash": "dcdb56c8e322567e34055df5ff51140b994f01b9d6d43583e38490739d0fb39f",
+    "published_at_utc": "2026-02-13T21:35:11Z",
+    "hash": "ac73e86ffded21e92adbde6fd1bd22f2e47299b3b64402b4d9ca14fc2888fbbc",
     "source": "gnews"
   },
   {
     "asset": "BYD",
     "query": "BYD",
-    "title": "Securities Fraud Investigation Into BYD Company Limited (BYDDF) Announced – Shareholders Who Lost Money Urged To Contact The Law Offices of Frank R. Cruz - marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeGpJY1ExMXhzWUduNlBxLWZjb0VaYkZfbDBFLW5aZGx1b01BYmQ3MmlKbm5JbzJxbFlFSWZRMDVrMHl3QjJMeklvTllMYTByQXhHTmFHYThOckJFeWIycWZxNWg4cXpFbFBvblByV0ZKV3BlTVRLQUNCTVRzNFRIWG8zc0lrVTE2QnFaOXJSV0xFWm1XSWxwU2VrVUZTQWROZkRreTU2Z0pibm5MTjFxWEpVM09IWkR5dkg2V3dGTlpYTkZGeV9OZ1Q4OTREQXlZVzRYdXZ6MmoxTElkSVJjS2tB?oc=5",
+    "title": "Pentagon Listing Sparks Confusion Over BYD, Then It Vanishes - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVVBN19URHNUZlJ3c0ZOMG0zc25BUnFRQzliR18yckItX1VTZG5CUkUwR3QyZDU5cXdZUGZDb2VGZ3NvSUpzQU5zZFdZZFVxQi1nSUhfeEdkUl9QQWc3STNpQkYtZjhacHRsQno2cGZMRGlnLVpQU05DeUNrSVhkS202VjdjNUFxR0JySHVLbHM0RUcyVlM3TjBMQzNnOFR5NUV4RnB5VjZtbndOdUhnN0F1azNkRFBFbmc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-13T19:55:04Z",
-    "hash": "8e56e52ae7843bb6dbef6ede3361efc4de029067984667d64fe44e87d646108b",
+    "published_at_utc": "2026-02-13T21:29:03Z",
+    "hash": "821bd8d8806a3b4d1e44ae1f6771a3f9f487514c01aa3e331ce099062ddc2137",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Company shares jump 17% as firm rolls out borrowing against staked SOL - The Block",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjNMMkVtV0xBVy1ES3FpVmpNZjIzeHdXWkg3QkRhVkEtZ3IxbzM5eXJzX2tiS3ZoOUVFdGhJNmxWZDBwbkJvYWdKTTNKblBpckVqYk1Vdy1PeGVKeVJvR3FzYlZxd0t4NDZqZ0xjdG9ZQnhVSGpMRWJocWtNMHhlZ2xKWTVvSTl3d1YwcWVtRGwzcFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T21:25:17Z",
+    "hash": "680d38311feeba7e0bc4c670c5b2d786a34817a2e2c102857020eed83ddb3e4a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Eyes $100 Again as 21Shares Announces SOL ETF Staking Payout for February 17 - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUc3WDY0YXdwNjNBeElyMWJTcURYc2RtbVFQXzF3M3BNUFRfa24yX3dDSzBfWS1xQ3ctbHRKOGg5YlI2UlhvREVKbWtKNU5OYm84cENVaFJPajBkLVhnWWM3Qm9UQzVDWXg4REd6VFY0RkNfbnpRakZQTmVlck9INTFTM0U1Rk42NGJHNm00OU9SY1Ixb1V0ZHMzQTQtd0gzUkJLa01Jd2hEN1g5SmZYUg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T21:21:51Z",
+    "hash": "3686f295e2ee3116d65893bde9cb8c00be88bc9566f038276e113b862d518168",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Applied Materials, Rivian, Moderna, Arista, Fastly, Coinbase, Robinhood, DraftKings, and More Stock Market Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOeTBYRTNyZGZIb0tHTW1HdjlXU2VIN3FTUXpaaVhMd3ZSN05pMDFUR21MYjA0anMyYVdoQmpxUGNfMmtGY0xORTNKX2hNWHVrenhYdzFpUHJOVF9EdWpuSXVYU1Z1TjY0WXQ3OVR2QUduZzZycnVldGs2ckdGX2JhVV96UGpPcnMyVS1rYmxnam1RWUZZamFIaG42R1dsVW85WnNZOE1MZFRfX3RIZzV2Uld2TWVBVHAxaXRrWUltVWk3MzJPOVBkcTB4dGhUSnVIaG5oRGxLZU54dGtpd1FyWVU3ZFBaNTZCVGxLcmZNNTFFY2ZseHdWajVYRlYtTVA0VDBzNjNna3BDTGpSNmVydnRBUGlKU2R1c0FZcDdtRzA5M0M5MmVuQkJqTHRJT28wSlYyY2R5NkxTR3ZlOWZlNUZNcWRhekJXVmxIcGRDR3N3U1lqaEkyMTZBRmRTV1AxOGNCaFZTMDVOZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T21:20:00Z",
+    "hash": "016dc9dbcce22ffc902ce8599065508ed9e88cd33fc1f4f3cdf628cb9edac30c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Applied Materials, Rivian, Moderna, Arista, Fastly, Coinbase, Robinhood, DraftKings, and More Stock Market Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPRVlGbkJmWUZkdXY1ZXNNcVV2UEdZcE5IcUx1WW9zUWR0Z0VxdEFyNlBZNmh0Y2NSNmxlWGMtaFFaS3hUNUMwRzI5a245eGlGdXN6MUgzNURPVkZyV3hRVTZ1WC02Sm8ycmVTR3RrdXNfbm9JZGhQU2FHeHZFNVV3OFdLMkt1ZURtSmhlWF9nb1VpVW1yNEV6VHN5ZTVHOU0yYksyRVlDMDlmbDFQQWU2WExjTjBFeG1ZY1Q2RkdnR3RpOW44SmV4SjgtSW90TFY1bFlfazRWamFiaGFQYjRyVHc1RXV3NzlnbDRwV01Mb3ZNekNXSG9xRGxDY295SlJRT3hqTEhoSm9HMWhRc0RISEJuUFZoZi1NaWpKbTYwb0VPWUUxMG1YanltQmtDdVctMXFpSElOd09Hekdad2s0MHNxMFZnRFhkX1dPWlFPYTZOWGhZcVV0U3RnQ01PamRGMC1jV0RLOWxvUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T21:20:00Z",
+    "hash": "5d7e34968312a1d7382b97e347fca544280ea3759aa20e77ae48c8ff174c6e80",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Applied Materials, Rivian, Moderna, Arista, Fastly, Coinbase, Robinhood, DraftKings, and More Stock Market Movers - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPcWg0ZEFhMHVNMS03cnFyVnlBcVlDelYxM19GLXpVa2kzMFZqR0tvdTdzZjIwNW93d1RwT1FYelhrbUNzQVlIS2c4c215OVBVZ1g4UzlwMmRENGZEMU0wMDljVVE2M2dkblVXU0t5QlZ4Mk9VeDJpZFlyejNzdjUtY1l4TnhHdXhFMEQtWFdZdkpMMDdwY1ZOZEk5bGRtUVdjUlFPb01NQnptWVI4bFZocW1TUEN2b2hNRUN2dmx2NTBWazlmbW9DR2dYdXp4VWpoazcwQm8yS1pvUThvXzNPRHJDM2pjSVZIY0Ntbi1BcmZPMng0ejB5QlpwOXBUcnI2bU9zM1p5VUJfaEQ4Ql90X0dOdnpPOHRVZWUzQk5DVE85dHBfN0pKc01qNlROcVZ6X1hCMGtablQ5T0RzX01DNDhENk82bUlxRS1RbHFVZ3RBOF9LR3kwbUFtRmFzYmFlUmRBTjg0bFlEdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T21:20:00Z",
+    "hash": "92854e59ef4e2c4351bb966ae966512764439f22c53b6ec92a63b09c8be75aa9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "2 AI Stocks Soaring Over 400% That Could Be the Next NVIDIA - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYXItcG1QR3Q3aWY5T3NRQjNfTTE1NG9xVGV1elJuT1hrWmpTRlAxZUpULW1KSldUeTBJLWt0REVWZV8tNkk0eENjUUFFekJZcExibmg4N0RXaGphemNHS3N4NVN2Wmd2RndlOWtLUWd0TXVWM0xKZUlaLUZuczVWc0U2RXlDWG9GZDF6UVRPaHNsZWREVUNnVGs4cmo0UEczUHdmVHBnc0FLV1JoYkFsRENCMDNwSTNHQ2FPU3FTekNFeWxEUzFlQmpRcmlLdlNMME43OVhfdXlxUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T21:19:11Z",
+    "hash": "0e1a15b0c2c6e96b0009626bb490b05ededca8e18ecd6ef61b7e183b0dc62ac5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Billion-Dollar Firm Says BTC is Acting Like a Growth Stock – Is That Good or Dangerous for You? - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0hfVjlXV3FDakRLNjVfV0R2Wkw0cTktMXZxQ1E1S1FPT1lWQXdPTWhSQlQybkd1WjlTLXBpOVh1dDM2dlN3ZFMtQzhnQThrTGFySl82U0VCekZ1NXRzNzdiSXowcnV2bjlLQU1DV01vcThFSjQ3REtvRXkwdF91MkYxeFlBMThUMnZBMzNzYUt5NkxmZWpYeDFvQUlSVEFHS2tVOEJ1UGZ2ZDN0MFFWSmhCeF9teWlzbTF6emdwM2F5eHQ3MEwyU1FvbmJNd0xRZmNGN1RQcDl2TVhESXBv?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T21:11:00Z",
+    "hash": "8df67848a66f6ab91d8ddca138dafb556cab441cd09376f5c7485a418c7783ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin USD Consolidates Near $68,772 as ETF Inflows Weaken - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORTBtYkZMSnhibERUdGtYcXN2TEdVOGNZeVduU0hLUWRieFJHaUZDajloWkM2azFUYThxUlRTc3NKdl8xa212a3J5SjRMTzEyVGlNVHl3eWZwblA5U2g4UmpmczhGN2plaXVpRjdRaHYzcjF0M0huOFUtSWRJY0wzZ0xoN2dTQ3daSnBpR1ZnQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T20:59:07Z",
+    "hash": "5b958964745fb21f183ded001d7b5bf818b1f57de4bfd853419e64cd27d6bfd4",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Coinbase Reports Lower Q4 Revenue, Missing Analyst Expectations - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmtYcG9yejNXSm9MRUhYdDNHdnMtaFY5OTY2Uk1aZWdJdkY3MGR5SjNBdDJLa0VtUnFPd1V1bDRYanZkZTlDbnlMbjhwTG9wY3VxMmlzcUlNMGhvNWVnYWhwRWFoM3pOLUxPOEp0S0tfVFR3MTlWQXN0alAwTTJzMGhfemRkV0llNnA5UWZ1VnI?oc=5",
+    "title": "Coinbase (COIN) Surges 18%, Strategy (MSTR) Jumps 10% as Crypto Stocks Jump - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNUJrZVBCVGV1bUgxa2pFOFIxeTI5NTl6dTlJaTVKR2NzOUpudDdhMlF6M3Z4dUpIU3ZtRlkwSlBISjRZUnJtVnlIM1pUMk1UcE5kLUpPZks1M3BmVUdhdERLeFYxS29Jd2FaQ1VsOXVoenJBT0RBU1RtY096MEk?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-13T19:54:25Z",
-    "hash": "56e173d5f1def6b587861d7d11673a34a7aaed81a13f31670afa5f005c0e1fd3",
+    "published_at_utc": "2026-02-13T20:58:12Z",
+    "hash": "f183d5709e082886b813a13f8ad85b16fdb8ea0a3901fa9ec67e48b5699dfb2e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Surges 9% Today: Is a Reversal Underway? - Nasdaq",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Mkk1LVJ4UC1BSWpFa21oTVlyNnNZVUpWaVZHRDZHSV9qVGZFcWRJbkhnOWdLZ25URk4tZnJpTnVjVmlhRmZhTldPS3hkSDVoMi1YeV9FLXFPNmlFeUhHbFRBWmVTdVhMSURMLVhtWEhPVnVzN0xVQW5OTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T20:58:00Z",
+    "hash": "c107ba4d204468af4ba31e165a199c17ed92f7ccb39a9fe4da88d142879b7ab3",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "Anticipation Grows for D-Wave Quantum as Analysts Embrace Growth Forecasts Ahead of 2025 Results - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY0U2YWFmVTNkRmZyY2VQNW5odHE2d0Z5UjlnUWZpUjVIeU96VUpuUWNma0tydWNkb3EzV21GcUg1X2JFalVVZUpmUGpCaDFVVkgzOUZDYlUzR042SzhFUjNodllNWXpiaWVueFhGQ0wxSlh1RExkamlPRGpJdWdYS25HUUUtQUUyeEFIWms5MGMyUjZwdFpMWTdyd3hHam5OYmwzcGhkVTREcTJ1R1J3Y1ZTTnlfTlRZM2R2Q3VsUVozVm1qeHRfbHRYbEJ4Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-13T20:51:04Z",
+    "hash": "8d20ca8372ba1c8bac949aacb2d285e939c43259e0855d806366324155a4792c",
     "source": "gnews"
   }
 ]
