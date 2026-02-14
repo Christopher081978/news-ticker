@@ -1,82 +1,32 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum ETFs Turn Positive as ETH Reclaims $2K - crypto.news",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wc3JQckRIdGdlQVpySGxpNElCZ1pPREcxaGdDYUJBZEsyZk10UE5SOFo0eVJBZk9rYXNpaG1wQkhTT000S3QzcDNLRVlrQW1WMHAxMGNpcWlfQVEwMFFocXdNWUU5QXI2T2t0V0ZYZnI0MTcyQjRYbmw2MlBoUQ?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Company Stock Rallies 15% as Firm Enables Loans on Staked SOL for Institutions - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeEhXNkZBN0drMy1GZU14aVVQTXNQekR2d2tSZ19BbnppZkc2UWtKaThVNl9XMnN5QzdhVTlNdVpfR0MtN1VsR3IwYTM2V0xJTmJxamZRSHpUbTFpbVgxd2x5QTlLd0QxRjlUSzVwQlQ0TlU5MkxTXzY5MV83N25XeEttRTdOd1lkV1l2TVJ2ekE2bm9pNkw1cEVDR2ZENy1UeUdSSUpHcUV3OVhUdUcyNkRHRVNrM3BKLW5B?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-14T06:42:00Z",
-    "hash": "9eed5112ac25379222f628f1548f87c80058e4e1ee2b3cf1b1fa13cd362b6941",
+    "published_at_utc": "2026-02-14T07:35:18Z",
+    "hash": "3c3a0e671a4cb00a5d0d062033c635cbe84b691dad2176d131348313d1104f9c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Where Will Alphabet Be in 5 Years? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPczhpcWs0QWNGLU4yYi13dUs5SWpWUFlLZkhfb3FzX1BOYmRlZlFrci1oMW1xSTZBWUhnX2psMzNORkdQd1NtS21nZzg1REVIR0JHRk1KLU84Zm5PTVBKX01UYWtQUE9vZ1libjQtOGtYWXNGVDU0cmhpSG1tbjZOVVNB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-14T07:20:00Z",
+    "hash": "1f21cafb095a99b60b9fa9620e5b8f59ef409ff86f919ba690a14f6e54c51080",
     "source": "gnews"
   },
   {
     "asset": "Pfizer",
     "query": "PFE",
-    "title": "Daiwa Downgrades Pfizer (PFE) to Neutral Following Full-Year 2025 Earnings - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEp0bkFhdE54WHI3ZGhYUTdWWHV3LXhNcng2VWlEMTBzWEJ3RDRLTVJNOThCeWVVRVpnTkRCZ3RPbHpDVHBhMGJ2Uk1LanNZM0xidjVxb0lZQndGQ19NZEZaVFVXRVpTa1htUXFlRnc1M0VzeHZoMTdMb2I0dHJOaGJULUUxWm1VT2dDTTF6M3RodzkxeF9oR0xfeGI2bjhSTDB6OTBB?oc=5",
+    "title": "Daiwa Downgrades Pfizer (PFE) to Neutral Following Full-Year 2025 Earnings - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWJud1JGaEt2M0xpd1FBZGVGeGRaYVY5aFFqaXg3MVpDNjZZRlBvOWZNR1FyZGJoQnROb0xjNVNJcU95VV9YQndVVnpsWnBSMGRmUDBESkllNE5kM1dPam1vb1B5aEZKT2dHVkZ0UnBDUXd3Q1ZsV1JKclBJSjllQ1lMb0U5Z3l5QlVQM2kwZmNsWDcwREt4V1NRdllGb05HTEtXUHVLcm1qX3BnX2txN0R1Y254ajTSAb8BQVVfeXFMUFZaeXhnVGwycEEySnMyeGhPVHhLYTNZZmVEODBCaVJmVjh4b0lfbFVrUDF3dG5HbXQ0T2luOU5KWGhEV2FwTWVRaU5MdGtyZUF4MFdUbk5ZQTlxdk1iSGhUREwwVjU3UEVtVFA5YkkwRUR6cU1FR0FhUG5QLUwwRENHaGFpLU1Fb0VxXzRWcm51Q0M0NHlLY3ZTN19iZXAyVFZDbVFZbzdhNDExaC1CcXdUQlU5MTRWN2x1dGhUNmc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-14T06:34:32Z",
-    "hash": "52bd7f515f60b94a1f9f591c066e5386811cfa0e76a6ba6e3c54e462a50f34b4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets (HOOD) PT Lowered to $124 by Barclays Following Q4 Revenue Miss - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2JFV3h0QndsN3IyZXZNa3FPeFl5WFBMRHNSVlFkZ3Z3UnRSSGYyLXVvWHJNYndCeklLWVZpSmFTdUw0TTFENURZVjZYSFFLMExod2tfM3NGZDhBY0drYjd3YnRDZWxOVWRVR3NzVzFiclY0NjBzVkMzd3UwVzZkczhLSDE4cFk2Q2tkd0N3cnhKWUloXzNJVGpqUmFhQjBuRWdONXJQUnBBNmU4amc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T06:28:31Z",
-    "hash": "453d7ba2144061cf3f93070c7fefce32a0c0b393de6ddeb4be0372eadebcfe97",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Company Stock Rises 17% With New Borrowing Against Staked SOL - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWZxQWFwUDgza0dsaFpIMENpelBUaFFwcEcySEEzY1k4WjJFeW1seUtGdjJYZkdaTjlUTmd6alJOcHpMWXZ2dXVmWV9MeXM1d3FQQmVVRXZhOEZac2ZMU1ZwbGlVcmhORWNkNEo2ZFFacklaazJSbHpMWlM5WkZOM21Nd19jem5lRjJjTkdLb3AtcmdONFpF?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T06:26:00Z",
-    "hash": "4cc8713ebbd3bb88d47e033ce8a8f24bc35db734a87c5d2220947a87a8bf7029",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Global (COIN ) PT Lowered to $350 by H.C. Wainwright Ahead of Q4 Earnings - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY21uQTlJUXVJdmVBUVdySXRzQVp0RG9SSVFETHVyTzVCZExOQVVLajJ1NUNTWmdzWVdqVGtsLVRWR3lZeGRHeDBleDJZTThlMnpQenVPblF6cl81cE5ENzZPdlZacUMzdFBpQU5lU1JubzFoSzEzVGc3aTBhVjA0V1hPcjFWeVNOcHRkU25OUzZfRG9iTDhnSXN5ck9XdUJYcWstaWV0eTVUZ2FSellNUmRTY05JQmZzTDVQV1dR0gHGAUFVX3lxTFB5azhPZ3VKUFkxS1RvUENOM3QzMUR3cEJTNmJqLVVGSHBEc3FGMktYLVJxem9WWHBEZWlYNXBTLWFlSnhmRHNSQkE3NXJpX1Z3blJvbkcySXNnZHFObXlWYnpOYjJUbk5SRFBuZk9ZT3BrRXo4MzFTek1ENHpYd1VtOXdBTGVMN0R3Wm4tMVJRNl9EYlJNdmxOMFZ5SUhSV1RvUXN4bW83bnMtYnU1cEtlUmp5d1NWT21VX3ptQTJCWXlkMEozUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T06:25:48Z",
-    "hash": "9cbea954d6d05cf818a63acab9a0c75130e4fcfaba9cb5a9c856bbd37ff2abcb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Coinbase Global (COIN ) PT Lowered to $350 by H.C. Wainwright Ahead of Q4 Earnings - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUFGSHlSWlRuelZOWFdQdTM1aE9ULXdmZ2I2bjlrTDVENm5sMDlBdFVWbjJOQVJ5R0pyb1I4U3gxVEpxZGtmNnh4SnFhaEhWSEQ0aS1wYzRHZGhuRFVWdXUxYWlzZzZqUG45YzRJTVhXbHpBYm5fVExMYmZQMjUzNXZNdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T06:20:00Z",
-    "hash": "ab7b5d368e4d2eff905e21422f843a88b824845daf3b0881b7dd06ab763a9324",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Is Nvidia Set to Help Joby Aviation Become the Tesla of the Skies? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaGJVTS01cmkxLUZ1X2tvdGkxZkhPSXotWW11R0E2YW02eU5BMDVKY1dibEdCNFVBZlpOazlaQktDTzNsaERXMWlidUNqamZ0MWk2SlQ3eDNZOTUzTXRaSkR3elJoQldLb2xWeHFBS0J0eHBEYlJhSmNqeXhyUFF0R3MxR29KVndhY2JiMThycGo0Y20xT2dSUg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T06:05:00Z",
-    "hash": "cb8d784e25f5f0772ef6f7ebdea87b2d5d4e7fef5ac779881e91a2d6a47f2a13",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Is Ripple’s XRP Setting Up a Generational Opportunity – or a Brutal Bull Trap Waiting to Nuke La - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT0NyV2hnOWY1OXNEUmZOWkVxNmZIYU9PbW85X01pU1R1Y0JHYmxzSTIwTXBnOGlXelB2cXV2azRvN05GV3FrWnJ2RzhhRjFYNkZrN09KdmFXSVlUOHp6SUo4cDZweEtMUmJUdHZYY1YwZ1g3eW9FN0VNakJXRU5kRHFtVXVBYjJoeGpnaUJjNGhYT25FTGU1MG1pSl9MUEVRU09FTTFEQ1doN2dFamNycDhlY2Z0NnU3VlZOYmVRanMydw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T05:59:50Z",
-    "hash": "dfba691de457e86a6593bc65cee29b764680f6e4fa2b4be7144194aa9b3ad44d",
+    "published_at_utc": "2026-02-14T07:07:09Z",
+    "hash": "c8fbc0c80d2bbfe5cd5b7a2313c9b57d19d27d0b3d9988d302a7daffc6d11d0f",
     "source": "gnews"
   }
 ]
