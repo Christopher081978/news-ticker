@@ -1,42 +1,22 @@
 [
   {
-    "asset": "BP",
-    "query": "BP",
-    "title": "BP p.l.c. (NYSE:BP) Short Interest Down 34.2% in January - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONURBREpUYm1EbWNiX09jcDRWclpCbkl2aWluVmpwSU11cFhTVEMyM3VDa0l2dWxSeTZXeXFjQ2oxcDRSM0RuVnp6d1lpc3lkb2JDNUVJdGFwZEtoT2toQW5jLXFHeUJIVUtWQ2VGcWJmWjgxSHUwZV9LZ3VtcE9kZ1BNcjhsempLaFh1MzdPMW9XNjgwaWFaX2hQSnRTZUNXYU9ueQ?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum USD Drops 38% Monthly—Will $2,571 Quarterly Target Reverse the Decline? - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd251WFItMGttb05HVkFkVUVfR1ZvYktIRWRQNW5Rc3lsRTR6NkZ6Qk1lTHc0bVBBaG1mOTJxcEE4MFh1N1VvQlZ0QzdTcUdJQ1VLS044c1VkdzdKVkhWTmoxaHpZSndCU3dlRWhDOE1VYy1XLWRrUmRCRDVudWtldUJHVmVDeC14MVkya1Q1dElMTlNTU3p0Vnh0bXE1MXA3VnR3SmpCdw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-14T22:19:10Z",
-    "hash": "faef26262f01495e1a951fb30df7f5623488e01a14f3422d663ac6ed29eb3c44",
+    "published_at_utc": "2026-02-14T22:58:03Z",
+    "hash": "6f88bb54f35cc532fad60a26b402b462d62c12c796f55f7962eb180950aa12b9",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Benchmark cuts Coinbase price target by 37% but says business is 'more diversified and durable' than ever - The Block",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOc0k1LUI3XzdqQjBaaGo3SjRRMG9ybEE5SFdYOElJMUlCbkNnUFZlWmxiX3VoUjVFWjFmX2xPU2JZUUN6OEMwTDN6RDhYbGY2bVA2YmJrWTNHR1ZLdHBRbGhvLXVTMWljSy1XS0JnMDlXQWNlQkJtU0U3YWprOEJhWjlSZ0ZpOHp1VVVkYzNfUTVzRmpuODVGMUx4RjVLQ3dhQjc0QkoyX3lvTndXaHRvQWJlX0dIbncwem1aeUdXZ0JEME5vOEExT0NYWVAtZUZqZkhlU19zSHFZelQ5bEFhZlNib2xURVB3TFZob2E2RVZwcVljbDNobEIyVHZwaGhEUnR3?oc=5",
+    "title": "Cathie Wood’s ARK Rebuilds Coinbase Position Despite Q4 Loss - FinanceFeeds",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVFFTnVtMGU4b2dpNHNDLWlDYXplc2FXVGxiLTc0NmpPSVBJV1RXWFhWWjZySmRxMTBNQ0ZXRko3WHJVeWZkRDVuSkVRNTgtZGhiVlNTMXBVRjhFX0NnbzBjaHBxSEZmM05zLVdEMXRQRUhGT05qczBZSllDT2FiSjVnSHJENEV2blktVWln?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-14T22:12:54Z",
-    "hash": "c2ac9607c70bf144074db02350e2570106d575b399312f7f12e5687f03b39409",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet 100-year bond: Why did Google's parent issue a rare century bond? - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSW9sUmNiOUFnU1FZY2VadTJNeG5hRlI3RmNlcXpMek9ITjdRcHowQ3hKRzkwTzZLS3dSQll5SEluRU56S29TcHg1U3QwdEFWQTBSa1MwZ2hEV3VmOXlsclIzYjJjLVI3THllMHBzaVRaUTNUdnc2Q3BFbzZwLW9mekp3ZUhNNzRPcmhNOGRvTkE3dDhZdWY1aTdkWHJ2WktHOVNTOFQ2OS1HQjFGSUJUNlJ2cTQ4LVVhblJpZW1tWHFtTmcweU1TZm91WGM5bm9OMTdUOFhFeUFTWjlXU0xxdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T22:07:00Z",
-    "hash": "6cae5e718939c499a14a29c243ddff987f15e183ceb6c2751cd6b860a572f241",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Update: SOL Stands Firm as Meme Coins Ride Wild Waves - Blockmanity",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWHNzUGhWRXJzSzRaTW0tVWUtLWdnQ3V3bkdOWkdxSFVMV3RMUzFXdFhnc0ppQldsZklTeXNKQ3VPR01zdkthZFlodWZhNlNvaXZhdkhlcU1mTEdQdVNhMEEyMEVlOVM2blVNR3FTaTVxRXNoeWJCQk1RUDF4YnVxTU5YTzV0cm1mMEMzVDFUblBBTVnSAZgBQVVfeXFMTjdrTlhteENZVG1vSXZvRFVCUHJrQTZaME4yRVpQbUlwZ0lGeUZxWnY3cWMzemp0VHp4NG1QX2ZvYm9hT1J2VUNKalBpX3dSeU5kS0NlbnFab1l1V2lOSkhvSkpKY3FuZHNVX0RNeVpfbG5UdnZ2YU90a2cza2h6alR3cjJfeUhkTHN2ZXd5dHVDN2VUVHltOFI?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-14T21:36:31Z",
-    "hash": "fd4edf9e14acd6d7bf1a0d4a39c5bf0e2d5726b91c51aeaf50f1b5d2054d1698",
+    "published_at_utc": "2026-02-14T22:49:45Z",
+    "hash": "d36e79040f7ee782f3945a5be66291f5b5d1ceecc2a6da7e44d72de5f2e5bec3",
     "source": "gnews"
   }
 ]
