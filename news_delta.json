@@ -1,32 +1,82 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Exclusive: Robinhood hires Gaëtan Thabot to head crypto partnerships - FX News Group",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOGUtNE84ZGlhOWJqRzctQ1hRVnRGUXJ4b1d5NUN5WmFrNlpBZHcyTENZcXRfQUsxaUM1amxNTjZUejROeGt4ZDVNdzZpS3VrR0JHNVJtVjlsRXdORzdvN0I0SXBuZG1LZTk5ZzI1WGxuZWZaNnhlcjA1RkFHWEN6c0FFZ1JLdE4yOGhERXViQzlOX2JXSkkzUVpvLUNvYXFFek1HUGpzbW5nYkFjSXVYRWNIU1Y?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-15T19:21:37Z",
-    "hash": "3e4a6989412835e1f8ea853314356ff966c55411417c6218c268ded2507b6066",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Hong Kong is trying to build up its crypto regulations: State of Crypto - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUFIdFI2V2lHbUdqTV9nNnBIb3JNTW1Cemg1dFJVbTkzSEc1dnlQb2NrdUNZdC0tLWhYamRiX0xFMmc1enBycTZRSm9pMTVxTzZoWnZHNTV0cHYzSHRFY09MVGFEUlFZajA3RFJ6dDhRTEwxQUY4cmtXbmlBNUdMWk9sNUsxTGZBZTNEZDBDekFnaF9OZk9fdHdnYlpJSjNDdXJYUGM4SEdlWS1raVhjbGtzUQ?oc=5",
+    "title": "COIN Stock Surges 16% as Coinbase Users Buy BTC, ETH Dip - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlI1OC12UnJ5bjR0eEFJalZGLTNVdktsSlJadjRDN2NZa2xmOXNIeUo0S0YzUGlTVlJaM092anFiNmZsT1NMa2h2dDVJTjNyMUhGT1VCT1E3OUhWdWk3dV9GTzlNQU5qa2RKYWQxY1VSTjFlREJWMjFCNEp6eTdrUXVlQWdqRU13eHcyQlhJQkNNUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-15T19:01:51Z",
-    "hash": "f404d2c7d055f01466454f0b161087b54c734abdea87798d905a6314edf51c1a",
+    "published_at_utc": "2026-02-15T20:32:37Z",
+    "hash": "2866be4c6d2cd6836c8bca56c86cba770fc6c4eb7eecb12131dc5daf250f21ae",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP USD Rallies 3.74% Daily—Can $3.94 Yearly Target Hold Against Overbought Signals? - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTdOTTQzZVoxU1prYXpPWUlrellnbnVkai04aEw1b1NodFY2bkF2aFJHczZROG82Q2J2Y2JiMlprb3ppUGJRaTcyYm41NlhBb3c4T2pPQkNUOFZmeWtFNHdLczcyTHZMamN5ZGNDbWNJSE14bllZTjB1TXFaZE1xQnp0MG5zSzRjQ3hRWF9ZM0RYUk81cjJYWlBPcVA0M0YxWWMtbWNIcGNNZWc?oc=5",
+    "title": "Blazpay vs XRP vs USD Coin: Crypto Presale 2026 Unlocks - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzBDQkNiWEpPM0hJWkNiNWladE5rQjBGazlOTzdfTUJqRXVrWGlaTnFfTS1lMDcyR0FmMW51d0g3OUtEQm5GTTR4MEdBMEZqTmtEWThEblRkcHNtVGVEZjlLTVFoRFpXaUg0QWt5RlJGS3g2VVpoakN5WG1EUVducDNsMnZoMGFiS3FObG9PNTE5VEU3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-15T18:57:39Z",
-    "hash": "72e596849982f3f66783ded654f62effc5f91200dd29c4ff44890a8cb209ef9b",
+    "published_at_utc": "2026-02-15T20:27:16Z",
+    "hash": "52be224536cb5728fa75265e27b271d124b8f9728d6b58cf24b96e39dbd01df3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Blazpay vs XRP vs USD Coin: Crypto Presale 2026 Unlocks - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzBDQkNiWEpPM0hJWkNiNWladE5rQjBGazlOTzdfTUJqRXVrWGlaTnFfTS1lMDcyR0FmMW51d0g3OUtEQm5GTTR4MEdBMEZqTmtEWThEblRkcHNtVGVEZjlLTVFoRFpXaUg0QWt5RlJGS3g2VVpoakN5WG1EUVducDNsMnZoMGFiS3FObG9PNTE5VEU3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T20:27:16Z",
+    "hash": "52be224536cb5728fa75265e27b271d124b8f9728d6b58cf24b96e39dbd01df3",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Better Artificial Intelligence Stock: Nvidia vs. AMD - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1lMOU45dTJ1Yk9CNFdoaXZiWmNpRkdhX2UxRWRZYVFhYnM5X1dYTURaRGlYQ3lRY3d3dWtTdEQwQTQzQjJoaFp6cWN6cERhVEkzV3NSb2pqZkFLcE16eXFuUnNETW4tZjQ2aU84aDhBa0FUczVXOHNRTDg4MGtTb29DOHVGbHU3bWJ1c2pNQ2JGa1FNMzdoYg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T20:14:00Z",
+    "hash": "094360ec4e1d86b6d715516100d17ffb03e335cff8db9f66f7ab0d15ed6e7175",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Top Analysts Are Bullish on Nvidia Stock (NVDA) Ahead of Q4 Earnings - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXJoNTRMQzcxQ0lGMkQyQUxQSlNzLVhJU0Zfc3RRQTV1MHUxbUdCZkphQ2szWDVRamxfOTZRR0tEMm1uRnFzdXIzRTRKemRoa3VzQlNHTzhxNGtZdzhGYXlQdjkyajkxNERFU0JyR0FISlMxUlJ5V29sanczTjhPLTJ5RmY5Zlk5dFVmbzk1Zlczb2ZVSDU0M0JSaG4?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T19:44:45Z",
+    "hash": "d1c5c991718f089a0040662bf78291286b8fb8d31e2575d03281c0fb152ef829",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP: As Bitcoin Halving, ETFs and Macro Chaos Collide – Is This the Most Asymmetric Opportunity in - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZnMwMXl3aVllRWl1NHdubFMtUV9ici01ZU1IVTROcmE0NnJGeUt0UUxZd21sSDltcXlEWGVPdkdfMkhfVlVGaVZwb1Fwb05fRzY2RVQ4VDdYUGJ4bzN1ZWFDRU8zTUVialN2ck4yWENjYTF0bU1VS3JMSG1INDV5Q0ZkVGwzenM1aS0zbTRUbnk5SnpOVll0Rjlzd0h0V2lNa1ZsdG44U1p0ZHg4bURIODYwT2IzUng3Zm9UN0pSWE9tTkROSnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T19:42:16Z",
+    "hash": "4478cf3274061f6a1347c0fb1daf9925684b5543b5429196798af7bf483fe65d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Dow Jones Futures Loom In Dangerous Market; Apple, Google, Amazon, Nvidia In Focus - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVBpX18tdkg0dVlvVHJFZmxGZjBYT2h4MnhnX0pQalMwR01lTXlDdWJCNWFESmtWaTZUUExFb0l5Njl5dG94MXJBWDRWYURlQTJDTlFmV3hEcjU3NlQxVHlWbkJDaWM0bzBNYzJMQWZOaGpVQURQaDBmN2NUdU9OYnhPSmxnUC1LdGFPSS1VbVNMcWVhOGhVQ3hmNnB1dHBSb2RpVG9pR1p6VFMyNDdRZEVpTkhjdlVrekdZTmtYbnFWNTVTYjhLZ3BjTTlSMDQ2?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T19:38:00Z",
+    "hash": "140f1259f4f54630abadd4a097ba173431915aef0271ca4f6a35b9254e5e34e6",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Dow Jones Futures Loom In Dangerous Market; Apple, Google, Amazon, Nvidia In Focus - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUVBpX18tdkg0dVlvVHJFZmxGZjBYT2h4MnhnX0pQalMwR01lTXlDdWJCNWFESmtWaTZUUExFb0l5Njl5dG94MXJBWDRWYURlQTJDTlFmV3hEcjU3NlQxVHlWbkJDaWM0bzBNYzJMQWZOaGpVQURQaDBmN2NUdU9OYnhPSmxnUC1LdGFPSS1VbVNMcWVhOGhVQ3hmNnB1dHBSb2RpVG9pR1p6VFMyNDdRZEVpTkhjdlVrekdZTmtYbnFWNTVTYjhLZ3BjTTlSMDQ2?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T19:38:00Z",
+    "hash": "140f1259f4f54630abadd4a097ba173431915aef0271ca4f6a35b9254e5e34e6",
     "source": "gnews"
   }
 ]
