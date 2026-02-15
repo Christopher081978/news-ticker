@@ -1,22 +1,92 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Ethereum USD Drops 38% Monthly—Will $2,571 Quarterly Target Reverse the Decline? - Meyka",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd251WFItMGttb05HVkFkVUVfR1ZvYktIRWRQNW5Rc3lsRTR6NkZ6Qk1lTHc0bVBBaG1mOTJxcEE4MFh1N1VvQlZ0QzdTcUdJQ1VLS044c1VkdzdKVkhWTmoxaHpZSndCU3dlRWhDOE1VYy1XLWRrUmRCRDVudWtldUJHVmVDeC14MVkya1Q1dElMTlNTU3p0Vnh0bXE1MXA3VnR3SmpCdw?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Surges as Ripple CEO Takes Role Influencing Crypto Regulation, Bulls Eye Breakout Signal - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVJhUmRudU1LZDdOT0J1aTlDSHVpSVR6SlFmd21xWkFVUmM3ZkZ4VWxxWmZzNGNPaW9IV1BvZmc1NUlpV25CQldZenhaUXpqc01OdklWczhoUElvLU1yM0ZGVzVoQXRVNE5Jdkx6TXVLN0JmVk9zZ0ZkcGhaVkRpQkM2Ty1OWE04WnNsTlNwYkoyVlMyRzhTYk9TN2lobUhhUHRyQXM3Y1o3X0p4ZU5UckZ3Qm5UcEVh?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-14T22:58:03Z",
-    "hash": "6f88bb54f35cc532fad60a26b402b462d62c12c796f55f7962eb180950aa12b9",
+    "published_at_utc": "2026-02-15T02:34:02Z",
+    "hash": "511b82dbe3dcf6a11a224828ee904f00c2193b04cca8abd6c0a49ffb49b993f2",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD Mexico Plant Bid Reshapes North America Growth And Valuation Story - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM3ZSUGo5VS1WLU9QZ25KbTFMOHZDQ3dYTVc1c2dsVnRBZWdURnRFWG9mWWp2ZFZYNTRXaTgtZUdyMm4yd0hWUTZlc1FBTkdiLU9pWDlLS245NXpBcXotSk1KNFNKcFo1UFd4TmpHVHlpcm5uZTlNZkV0Sy1YRmRqag?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T02:08:00Z",
+    "hash": "a8405d8f7213f4063ec0a6abca45e0908338313587f91e05c55f5e865af6f0fc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "BTC to USD: Bitcoin Price in US Dollar - CoinGecko",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBRVdwek4yUE4yRlVwWDNHYjh6cDVnckxSVllka29yRkhHUW1wanF2YWJSWE8ycVo2RHZIaTBkdHVsMV9qd1I0NG41RnVZUFRJSm80Q3FLdkQ1QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T01:30:22Z",
+    "hash": "1c3e6af37ceb9fbb95f71bf5dbffdcf831b2db7e250e388c937be0f800543bfd",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "Ripple XRP",
+    "title": "Is XRP a Lost Cause? $1.2B Weekly, $5B Monthly Losses Fuel Panic Selling - InteractiveCrypto",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjdOMXdfNlpZTXltOHlaY05GZFRRY1ZxNVlYb3lxTFh3TDRRNXBlZkV5dVlQd2JUajRsNW82U3dRYmZhYUk4SUJCTjZpdEVxdmtlWWJLMUdLUk5oVy1RVC1PU29MUnRvRlhVSVBjdjNjVm90TFhlUk91Nngzcjg5c01oSEZ6RGg2bVdKLWVFV3lDODM0ZlhHbE1pNjZfM2ZXY3JzZE9JRmN1R0VQTTRKOFVwMHRxUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T01:25:50Z",
+    "hash": "01a33195db06efc9f018735b7a008d091dbe9da0491222246173899944074c14",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Binance Lights Up RLUSD on XRPL as Washington Edges Toward Real Crypto Rules - DailyCoin",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUTlQeURWSUl6SklscXhmV25VazlmUTliTHBYSDNzZjZvMEExY1VqLU9CNlhkNm9jMldHdHZ1NTZqRElFeDdEb2I0Q3BhUjhvbzVzTHJ3ZWk3cjFIUWxaVjV5a09RZW1sRTVlYWYyX2hsSENKckwzVkVFZUd1alVyT1YtQVdYNkVWYkxnOVQ4RHhfa0Q4X1dmQkxwQW9qVTJp?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T00:58:00Z",
+    "hash": "df6012d52ef0e184294b633fad1ecd754d1d81cc72dd240f3d8b4e427295aac0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Is RKLB stock a buy or sell - Layoff News & Smart Swing Trading Alerts - mfd.ru",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vODdHYWtpaVhiRDBwd3l2N2NXMVYwMUp4VUNRcThNblVYazhHSUN3Nmc3LVFQWm50R3lSeGl0ODE0eGpGOElrLXNJbXJMRU55X0k2VDI4R2E5V3U4?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T00:52:27Z",
+    "hash": "931d65545c95a1b6b0b58cd5e555b2626f7bf155c9dbbe89d788d0f6f30deed7",
+    "source": "gnews"
+  },
+  {
+    "asset": "VanEck MOAT UCITS",
+    "query": "MOAT",
+    "title": "AppLovin Earnings Call: AI Moat Powers Profits - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1dYU2R0cVRkUWFFSkpuRlE1XzRWZXdDcEg3NDlMejNpX1R3VkZYdmVNeXlUSDN1MlVRNUxFbklicjlEVkNiRUxFRkR5V3VwaHlXeHJSdjNPNWx4VzJIYUpnU24xY0FiWjVIOWxDNnZudWdlaU00eWs3VXJHdkRtbG9zYmV1YkJTUlNNS1NfX1pTSnFPcmRHX0NLUUJyZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-15T00:31:55Z",
+    "hash": "960a7a843ab7b794969d603e6f2f5ca0e818e38774882873b1543b27a4253fd1",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Cathie Wood’s ARK Rebuilds Coinbase Position Despite Q4 Loss - FinanceFeeds",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVFFTnVtMGU4b2dpNHNDLWlDYXplc2FXVGxiLTc0NmpPSVBJV1RXWFhWWjZySmRxMTBNQ0ZXRko3WHJVeWZkRDVuSkVRNTgtZGhiVlNTMXBVRjhFX0NnbzBjaHBxSEZmM05zLVdEMXRQRUhGT05qczBZSllDT2FiSjVnSHJENEV2blktVWln?oc=5",
+    "query": "COIN",
+    "title": "Coinbase Earnings Call: Growth, Volatility, and Buybacks - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnRxYXdvNnU5dE41V2F3TjRqdDU4OGxfM1lyVGNwNWJNc0NQTk5xRTdUZEs3RmpnUDEzdTYyVHdTaFhvT3I2eUxyNzNFbk4tek5xR1N6b0FqU25nWTc3UUFyNl9wbVZ2Q18wcDRadVNnbjhKNlE2Ykc0dXZpUUdJX3dJcW1HY1VmRHNBZG94TXVHQWo0S1diYlBiTWxhYlpnUGFBclhUaGs?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-14T22:49:45Z",
-    "hash": "d36e79040f7ee782f3945a5be66291f5b5d1ceecc2a6da7e44d72de5f2e5bec3",
+    "published_at_utc": "2026-02-15T00:29:37Z",
+    "hash": "f82f31749e472b462debbc2a9d728913d0f6494dad93fc64831cdc8d73421977",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "The open platform optimized for Google - Strategy",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pejA5YVNQdkZyX3hmd0Jqekt5QXp3SDdLSF9ISDg3RENyRlMtRzBycUNqLVBTNnBiTnFlTmhEMGtkVGlSS0FMeXFXLW1zV0hCSTlrZW5ZbHFwZ2VNZU1uZg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-14T23:36:13Z",
+    "hash": "a143f4ec766997f1e3a478d4750a390ff0305ec48daf85bf8f0d3fa9984bcda0",
     "source": "gnews"
   }
 ]
