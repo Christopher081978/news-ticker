@@ -1,112 +1,92 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Markets (HOOD) Is Down 12.2% After Crypto-Driven Q4 Miss Raises Questions On Diversification Strategy - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRjE4ZDlJN0tKN3AxcHkxVnEtRDVoT01EaXpqV1lEMEFsWUNNYUpPS3pUUHhOMmZnOFE1MjBwYVBwWVNvdUtEZUxaZ3V6MU9UU3RvaUliZG1HQlloYjJvQ0s3SzQtTDd0MTdGNVhCR2VaY3FLS1h6bFpNOFpkczJaR0E0bjdjNDhBcmJ1aHZPbDFWSmstSGp1T1h3dHNzejFVb0JZdDlrZUJfODViV3BGN3g0MldyU00waXEzMVBYVTNRRkNEM01vR2NwQUhjREM1UXU3bzk2dWR0RktRbEo4Q3laYlQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:26:27Z",
-    "hash": "5c5b861748920e7be39b1c36a58e752989c3074d079613900d08d203e5564320",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Ledger Launches 96-Hour Bitcoin Reward Promo With Up to $80 in BTC - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQW1lV0cyZkNldkZmWEd2WnJSV2xtRFVFcTQxcmZCZVA1M09wS3ByTmhXMVV6LWwtRmpTOXJwLVAxb3dSNmtfQTdwcnRVTU9NVDN4cnNfU3hqNTBpQ3UwdVlvczZOTi1FMHVVRGtySXFSQWtEWk9yOTcyVzM5bWFGbWtVaEQ0Y3dnbExKLUNpWF8zU0hyaW9iVVh0MnI1cUFyTlBNUHVR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:23:42Z",
-    "hash": "5f2a1f8fcc14ecbd92312a6cc407ae3961b9e38474d6d24de1b29693258109c9",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin, Ethereum, XRP Hold Steady While Dogecoin Slips — Traders Eye 'Best Buying Opportunity' - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTDRJUFlCdDlTZ3hLMVByZjRGZm9mdWdNRWRveVE1d1U5REJCZmxrUW9nN1Znd3VYWjRTTjJ0NUJadzZ5bVl6R1FqMGZJZU4tbEVVYmVCMXJrbURWUVdFWVZyTTFvTG80SThHenJQaGV4TGtBaVZFZjZLV2RyOEhZMTVfaXF5WW8tS1pjOHV5WjAyNDVGdVZ2cnhPY1VhUDcxaTc3T1oxZXl6UGVpc1hJMnE1Mmx6TXNYbEpNUmt5dVlBb0ZLRW11ZmNnd1B4RVFlRlhYZ0RraWhXNXV6eEw5amtFRDJ1dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:19:22Z",
-    "hash": "1dbb4d1715c13ef13ac737447d5ebfd51d9df03d609f3f7af0da8544927e0ade",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "The Robinhood Rally: How to Supercharge Your Gains as Retail Trading Explodes - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS1Jhd0FuWTlfU196emhBaF9yeXVIYXgxaWU5SnV1ekFfbW41cGxhbkl4VHRSaEUzRXN1STdHY3YzN3Q2X3BPbVg5WTdQMmtaVHlDS2IwbHdHZHN5QlFlYUMtSjc5TEVYMmp3ZUpPcGRCNmVxNjJvU2JTczMxNnFxYjlLRlFCSFN4cTNtaDhBaS0xZFRpUUpON2xzdHRBYmpVRFdmTlVKdVBBMlY2Y1VzSDhiNk9WM1pHN0ViNG81czNSem84TXRYQXpDak92VWhvV29hUmNDWmRrNGNabnhFaERsTWViOHk0M3VVRGJnU0pLZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:19:03Z",
-    "hash": "b5adcad71ed53fbcc5298c30c895f3eed830021d3f2acd95496d67b49eb6032c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Quant ratings on Ray Dalio’s Bridgewater top holdings: NVDA, LRCX, CRM, GOOGL - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVA4V0U0TXV3S1Z5dFZscjVqWFBMcGlmTl9CRnhzeWZQVFo1cjhaclhrZHl2V0pFNHBQNHRIT2E5bTVIZnFSN3M1MXFDdGdiekRwMGhqTTFiTGkzQ1paQzA2dDdVN3B6ZThyNmJoNXpyYUFaWXM5THljX1paWHhCaWhzN0pZeE5OS2tNLXE4NFFJNXBKRDZORTN2Vm55MEtWVlFnQlllcEdXMnRmOXNV?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:15:22Z",
-    "hash": "309201c7f03e190da2213871faac0bde8aebc575614ced59fa04d881747ec1e0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin vs. Gold: Expert Predicts BTC's Underperformance as Options Traders Price in $20K Gold Target - CoinGape",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFgtZ1VLRHJ2OGU1M2ZIS2pja3lzZzFZR2poZDR5VDFrSnM0OFBGeDFFUldHUjRwUUpueFdoOHFoaXRjT1dOUGZ0cFNvNmpud2Z1QnFqa0NwU2hjNERrc2pobG1MZmYtdjRpV25CeUl3YW8zVWZ4cnNqU1FwaU8zSDVZNDRsWDhpLWREbUhBUkxWUzBJV0hJV1l3MlVpTWZ5VDQxVjNOV1lyRE5qQ2c3NmROR2p6Wmp1VWNZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:10:33Z",
-    "hash": "fd7c3bc1f9e7886011eb47f721419dceded233c9fa2cc32d52b9597998e67547",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia Stock Outlook for 2026: The AI Boom Will Drive Growth, but CapEx Concerns Will Increase Dangers - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFV4Rnpjd1ZjbldwaWNLY0QybmhaVV9FbTV3dDFVVEhpb2NfQ25mWVBqNHNPUGFfZEN3RHRrRkVkQ21mRjdDSm9Gb2J0UGF4RVBncUswNy05OFdHOG9kTWRzOEZDcWM2d1JXMmlvbFBHS2pRLXMtcThnaFVGbWVEdW1ERWJHZ3IxRG5YMF9RUGhiUVhXUzVIaS13cmxhLWJwNHdUN0hFdDFKLXozelZZRXpyYVU1b1RYUlVhV3hqRXU5ZlhWM3lN?oc=5",
+    "title": "The Staggering Number That Shows Why Nvidia Is Still a Buy - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWkhpYkp1c1c1NE9oRHcwbGhRdkM5RTNZN25CeloxOXlWVjllT1NXTzh4dkUwRm92NDJ3MUZvSmFzcGwxd1ZUSmNSdmd2am5mR3BfNVp0WDBhRkdESURLTHlfN0hSYkx2RHRRbzZLNUtmY0U2cWVXQzdmV1NFVEdILWpVNA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-16T19:09:20Z",
-    "hash": "324e0e97f8e3e5e42de4cc0be2c65e4c7e79e30dd071dbcc9997e1faa600b3c4",
+    "published_at_utc": "2026-02-16T20:37:30Z",
+    "hash": "49b8ce24e7a3c862a9c0fdc27b120d8b3635be1690738e92b75feb745d8f0423",
     "source": "gnews"
   },
   {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1nNGV3WDNEdjE1aVM4N3FrWkZaZkNRakd3NGNaVTZxSVZBaVVtRzRCU3RoR3E3ZllFRUpyVlJuTndRa1dzdkhqazdRMDlWcVhTVXR4NkpUemtaNEh5Q0RSZzFLa09FSE5lVjFuRFJjVjEtY2RRbUNWQmw4alNUVE5LT05kTXRndlNKODA4dVEzRkcyZ3lWb2J4NWd1bmR2SHk0OFVaNXdTUGJ0alE?oc=5",
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Analysts Set $348 Target for Google After February Dip - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxazZfWVM5cmVkRUdwZ24yTDk0ZTY4U19XV3plQVpYYkdqZFdaUS1IaDBBT2JjWm9MdG1mOUstRmtILWdERS0zWTZYRHZBbVBwTWQ5NGVGck8zVDdzWFpWeE54RmlzUnlhMmJJMDZyUkVSRlNONFU1T1VtMVZ6UQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-16T19:07:15Z",
-    "hash": "df7bba13481137677b0bf1bf3ec116617905e1f4a3e746c97342ece6aba98b36",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Chip Stocks Split: AMAT and TSMC Gain While NVDA and Intel Retreat - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1nNGV3WDNEdjE1aVM4N3FrWkZaZkNRakd3NGNaVTZxSVZBaVVtRzRCU3RoR3E3ZllFRUpyVlJuTndRa1dzdkhqazdRMDlWcVhTVXR4NkpUemtaNEh5Q0RSZzFLa09FSE5lVjFuRFJjVjEtY2RRbUNWQmw4alNUVE5LT05kTXRndlNKODA4dVEzRkcyZ3lWb2J4NWd1bmR2SHk0OFVaNXdTUGJ0alE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:07:15Z",
-    "hash": "df7bba13481137677b0bf1bf3ec116617905e1f4a3e746c97342ece6aba98b36",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Stock Is No Longer at Mercy of Bitcoin. Cathie Wood's ARK Is Buying. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNSXV2Nm5sb05FQmVoVktXQlZlbkJQTGxVTldjSVhLWTE4anRBMVB4OEZVWVFPcFpuMURhR0lnVF9QTHI1RmgzMUo0cjFoaXNKZjFnVFkzOUVZWUpNckRWclZWREVrUHV3VGlzcnZWUEhPNkJoZllmc2VrRWQ0OXRIX1lsX1pRU3dHMW4zQlJRNW5BQ213dnhwSURqdEdiYlFqM3A2aDhpdHlCYVcyeWRSRW9LM2JZb1cxSHVpLVB4b1AzLW5hY1AtcDFDc212Y2NyVmFEZzMxd3ptTURIWU1DS2dzQ2xNMVg5Z21QSmJaX3M4ZlZsWjcwWGc5QUNRVk1TYWdTOEhuaVdJUTVpRmx0c2puUUYyMTBYeWJnVHlRakd3bjhpRVptalplbmRmQ2RJLXkzUWVDQ21mT1laWkZlemVxb2lhRlBpZ1hINUZQcjRxaUtZeE1aa2NVYWJmWjI4ZDFISHNIcmtmT3BvZjNLRkZUZ1ZTOTc1RE9kSVd3UEJiZkFWN1dtVGhqal8?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-16T19:06:35Z",
-    "hash": "8e103bcd7f1abbb9c92165d377e3ce26270ef75442d8582f275f6e85c504db82",
+    "published_at_utc": "2026-02-16T20:26:15Z",
+    "hash": "71a1426e38cf7ae2f2abe8eec9d4297c0402540a2ce607fb0fb6800007c6e711",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "GOOGL",
-    "title": "Analysts Set $348 Target for Google After February Dip - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTG1Zb0R3ZTBLVFRERm9tbGpqcDdNOVVfSUkzSExQLWVUN1VBU3J1MFZ2VHUzYWxWSDYxdk1KM3EzRHd1QlJZblp4WkpEU3JMOU5ncUNyQVR0bFllSmlPVmVsbURMWnFTeGQzUkJOZkk4Z0prUDRPMmdHV2RpZlIzWksyUGQ3bFZBU2JGbWF5bVFFR0ljSVhlOXNieDlSQQ?oc=5",
+    "title": "Google (GOOGL) Cloud Revenue Just Surged 48% And May Have Delivered Knockout Blow To OpenAI - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXgycEp0Y1Y2Ui1KbjNOdWxoQVo3UDVYQ2lFU1l2QTR6aXFRNUFqVHFiX1JLMERucWxmdGowSWsyc1BTNGhtRUF0UVlMOFBpMlhiYTkzMzdnUi1oTi16UzhJaVR0bUE0SDVyNG1ZZzZxazlHVGNsVUdzT3lvR3lXUnBCeDV4Y2wzYzdrNnhodzI0TTNsS2MzWlZWVHNhVGd2Um9RSnFjSXBobnFVNkZhcXI2bXBPUjFHZVdWQXNva2tlaVVBZlhIS1NlWmU?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-16T19:00:12Z",
-    "hash": "cc58d4e44c06e977761dcfffa6dfbc155fc6e711b8989f02a4ec8f4f2275ef56",
+    "published_at_utc": "2026-02-16T20:22:30Z",
+    "hash": "c073f069ce0eb13c82eb95cac7aec8266f095ae8836fa6a2696c24d258db33b1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Is Sandisk the New Nvidia? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WdkI3RWZXemNTZXZSR0NQb1FrYjdDWm9VYk05TmloTDZFNHZTOU4zVjhibzM2YnFhbTdFZlN3ZktNZlRKLTFKWm5GMFRmTzM3RWlyLXkxSDhGUlZxM3VBZlp4ZHV4MmZiMVVUTzNPMERqUXhTVlZr?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-16T20:17:00Z",
+    "hash": "4dbf4964c90932e82bb82c71dd094e61d0baea7556a8a28ab49bad793b0f2603",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Banks, Stablecoins, And Base By Coinbase: Fighting For Open Money Without Gatekeepers - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVE56TEZZR0VaRnQ3VFZ6bmpLcXhmdGp5YXduNWdMeXY3QkdZY0F1bnJJNTNzYlhfaVJmLS1zdHZXdnlPMGVMdlJtZjhqLWdsZ0lybzNvenViMzg1YXltSUFhUmctMl94QlpEamsxWFFwT21OR2UxeFpwYVpQd25mYnNOaUpYRVFQaDY1UXdWbl8tUFpXeGh1M3piOEI2VUM2ekhjWHRfSlY0Y04zaHotMlJ2TlJTTGdrYklUbFN4UlY4ZkpiSnpicnVOZ0xBblQ0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-16T20:10:09Z",
+    "hash": "75dfac150fe18581783867b9849094a72c56b01b586c3ec53f155aeefb5015fd",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Key facts: Goldman Sachs backs Nvidia; earnings report to focus on AI; GTC may unveil new tech - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzltbk1LTkJfZTU2aFk0OWRuZGU5THdCbk01YkMxM05aalBBSW11MnNmUmE0S1oyU0FPdk1MNkFDd0dvMjI0REFsc1V1MVhnN3dydXF0ZHJUcE9KY2owS2tiaF9OMi16blJXbkRVYi1wNzBLWDRHSWc1NXM5TlRhQ1ZWNU53aVpmMGFXcnk0VHhHSjI0RUFNOXFqWUx0X1Z6cm9TRkxDalg0TWhrVDVydkdod3hiS3YwWWUxSUdRU1ZCMWhOQnpLdzRsQkNZTlNnWEp5cmk2UkVCbDB3azY2VUdJZDE2VmJB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-16T20:03:03Z",
+    "hash": "18c1d14dc632f700d8e3de2653fef751414e896bb8cf82e1c311136f99ad6a3e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "3 On-Chain Signals Suggest XRP Price Is Nearing a Bottom After 60% Crash - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZN1NmckliLTNpdWFiZ3N5aG9RbE83a2JGMXVETE1RSHdyeTdZbW5xQ1hZUmN2N29BdlV3OUdsS0RRczlkY1E4QjlVbElONlVjN2hUb3ptQ1NTMFVNZGtaZ1NsVmJhM1pwMVFfaTFhOVRSbDhlYlJITjhn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-16T19:51:38Z",
+    "hash": "4348abb7c572f5c2bd5c52181bf51c01ac3051b5c96e1f54c2eb1d2bee62c0d4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy Shareholders Says Wind Unit Spin-Off is Premature - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWk84aVcyQXp4bkFDNUlPZDFkd2hQTk9wLU9JN1JjT1JxOHNhNDFzNUpLOU8xLWh3S3BBYXF4dVVfVk9qUkJvYnZid0xTdklqTHg0dEpHQUh1dzgyUXdnQVBiaWRneEk5Nm5jTjM4R2k2U0tnZFVHb2ktRG50ai12NUFqUF9WWnc4cFRldmdWb1JubEUtTzZxajBlOGtmY21uMlJWbW44b0NEM2t0eGp0M0tKeWNFTWNi?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-16T19:51:06Z",
+    "hash": "dfe087eaf79e27c2aba6f6ba792a7abd93bacd04d4134026593626ccd52ee8c0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "AEC Wallet enables users to top up AE Coin directly with crypto - Khaleej Times",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUlFFa3NFdFFyeDVXZmRHandXaFFTSnFnRDZKNkpnR193MHFqTnN2dUtwOWhtYVpaNVhKaEtMTnc4cUk2SmNHeHFUNzBmQlhZU3pCcUdFMnItSVVBb0VOM0p1c2J4UUJSbldUYXhTRkkzb3RFWU1rbFBlQUdIWE9hUmI4ZUgyYlhBcFNGSGFkYS1BX283c001NmZxVWJZbDdvb0xF0gGrAUFVX3lxTFBtbHZPbzROZGZMSTEwMFlvQUVBV09GN1ZOd2dLdXBiOVBtZFNFaUUySVoyZmhqWDRRZE9jbUo1cl9xd3p0VkRkUW1Xa3h5ZWdXOGhXb2Z4dUlvcjViMGpUT3NoVXNhVnh1bmU2WFZjODRzN28zSzhLYXVlNWVWXzFUcjFQMVlZSk5NYXZaR2Vha2tTZnlSQ1RfOVBrT0VOZTlLeWQ1cDVmNlJFTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-16T19:44:57Z",
+    "hash": "f36925239767478dccc680264ec8a97d12aa4d3ee5d67655af53a08af2db7ad4",
     "source": "gnews"
   }
 ]
