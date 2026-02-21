@@ -1,102 +1,62 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet (GOOG) Jumps 4% as Dividend Looms - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83V1pidXJMeHdEU0hqNFN0bF9uZThGVFc3QzdEQ3F3Q3Jna3NWb3F2dzZZSmZsWFdMU3BsNnNwRDlkOXBBTUJSci1kcHhPcDQ5NmUwNDFkdE1INHFGdGYxS3EwZmdXZlNIeGhzaEctUld4TldyZmp6TFF3?oc=5",
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Long Term Trading Analysis for (BYD) (BYD:CA) - Stock Traders Daily",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOG94eExIb3U1S09waW1HSFFkZkxxQmRpVzlqTjBIUklGN3k1VzNwRHB0M3lBZTZSUDM0dVdiS1Fwcy1MUnhGWmEzbG5fZ3dpeEtENFdmaUhucjRyZXBlbTVNdExSTWxCbUg5VmlWR0tCZ2Z1VWN5Q0JsTDNMd0xISDBQSk9HeU5RZ1RnNzItcVlFenRfUkxkUg?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-21T16:23:39Z",
-    "hash": "aea10b5df5dc6b9e74c958e9f90077ab5b72472e02d2afd61a0766c974d22f70",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Prediction: This Will Be Nvidia's Stock Price in 5 Years - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDRNbmhQbi1XbVFtWlVxNklqX1p2Z201dXBKMk8xSG1YSWQwRUFBYVdsYTlOS1FITHctRW1vWlVYWFBXMG9SNXZmcHlYQUVWWGdVQ3l4MDVaMVhySkE3X1pkQVRzT2x2eGpSNXZmUG9qUlhoN05XazJuM0ZPbEJQQzdtUENpUmg3OXhBOFRQLWNBRklRR1FLag?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T16:21:00Z",
-    "hash": "54ced2149cc45ac1c9413c407cbf8da35e87d21a8f68857b6e534652361e3ab9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum’s Great Decoupling – Analyzing the Growing Divergence Between ETH and Russell 2000 - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ1NTTjJTdnBsbHZsTUk3cDFDdFl5MnUxSkw3Mjc3TnE1OHhvY2xoZnVzUWRHc2xveTZJVVNKWmNKZ1M4WG55Yk9VUUpZckU0NWZuZjZqNzc3SXhZN0ZCeEdYcGh5N3M5TVdhWDVqaUFTaEl2M0tVQ1RubndvaWxqM2ZmUTNKaFhmXzZFcV95MTBGbm1PMXhieWF4VVMwaVJoLUNLbU11eVA5SDJhRXAyaUo2aFlZRHJzcFlpbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T16:10:42Z",
-    "hash": "2e6f575d88ac4c3ff4d1b5030e06d7c0bcb9e025b8a519885dfd8934a12f3f37",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "BlockDAG’s COINBASE Code Activated: Secure Your Spot in the First 10,000, While TRON & Pi Coin Battle Resistance - FinanceFeeds",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV0E1N3hWdnJwRjRPVXp6RjFHUkN3dFJlcFhhb19GektnZllqZGJ3dGZxaGp4THBxQngzcUlZaXkxS2FpN1Z4THhwa3hteTM4a0ZmYVR0T2x5Wk5UenZHelRYYUI5c1IyQW1FcjM2SzVBbVRYM0R5Q1FKSTNZM284T0JidXBRc0JYbV8yUDVjSWhLVHgySDNtWEJFVmV2aFVvSGJ4UmNwa29SZWQ2NFNvM05CTDdwUjlOZHlHMUI4RTNQYXBuUVNZTUdMaE4?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T16:00:51Z",
-    "hash": "4726119ae42883b6c8f257c7d4ba925e81d35e4ac5824daf343d40a8d37d1193",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "As Nvidia Ditches Applied Digital Stock, Should You? - Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelpJdVZZTThTUEU3WXduZWM3MVFsODMyNW5QajNNR29QUVZwdjExOHZBODZVY05QS2VmeHhiMk44d0N6Rm5xMEt0WHFwdjJKaW5NRHl6dFh0SGQ4bGVoTk4zQy1GZXh0a2JVTTRDVHR4MHlVUklIY1Q4WEpxUmVsbEJCOTh5SkFhNXNCX2RHdGFTZTk0RFVyMg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T16:00:02Z",
-    "hash": "a2166a602b2a56e414d3926dc3ef5fc12e36345c85b7718edb00e1d28144bd52",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Massive News: Pfizer's 6% Dividend Could Be Safer Than You Think - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTS04RVc3MVpGZGdpNlNPNWtCVkJXS1h2YU1PX2J4cTRDZ0E1OHBGQWM0SnlHX0pyS1Q3UnZFMHpRay1VbUl0c0hSS0lKUHVTb1BDMUNDQjlJaThVaG9pUnNYOHlGNWdzUEh6azRLWTVVcmpfZWhBMXB2WG1wQ2JPZTY1SnlSdUNXWkxSU01Nam1BMGd3RjlKUA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T16:00:00Z",
-    "hash": "512e17aaa007a6433c5afa4d0870ad9374a15f23b50ea473518a949d6cf1e7f6",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Is Ripple (XRP) Quietly Becoming the Most Asymmetric Bet in Crypto – Or Are Traders Walking Into a - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTTRMZG9ZcW03YzN0b1IzNGlDcHNtNWc2b3F0VXhfdkI0R3B3RHJYM29mMElVSk5NTFd0RGtsbWVtSmpvX3d5N1ZQVVFxRkVWOXE2V1hsRnd1VnBoZjNRbDM0UTZaejdod1REMldSeWt0TEYtc2xEcllWUFE5V3ZJRmlZNU1EMS1wQUtQZHhRa0szbDhCTVdob3FrZkRTR2YwYUQ3T2ZSb2tEZVhkaGRfWTNUSEY0dDZMazh1VlpBT1dUU0Fn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T15:48:54Z",
-    "hash": "61dc654fab5af78f70a77e4fe8ad3dfc43c37b5f9eebab8ac265c23c44894f05",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Forget AI Stocks: This Stablecoin Provider Is the Utility Stock of Digital Assets - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOc0h0TDF6ejdxV0x3TUtueU12MDBPQVRRakxfUUFsSnhuc1JvUFhpYUFMck5mbklONHNNeG5oTlNxNFVIN25YZmZaaHZ4UjRGSHRlR1hpUXlKTFA5cUZVNTktWTBadTVwV2NhOG5qVGRydkstdDdWOEVLclo2WVdDNkxmN2N4V283OXJYMFdaN2VyMDNXaGVsM0ZXc3Qwc055TE9udS1fYzNveEJhN3hwaFZkVlFhUDhXT0V1N3hta2xkaUhSdkpMR1VOYWtGREtaZ2d3cFd0Wi14dGRnN3RPN3drM3ZGN1F5WENhSWxkelBWMUhCM0pR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T15:44:13Z",
-    "hash": "c1ac332b80006da215271b463a634f7e424142323187b352e2bef54860d8f416",
+    "published_at_utc": "2026-02-21T17:14:12Z",
+    "hash": "17f612537fd9a909511bfe5f0cd3437c82c14ac192e8a8ede68fc9ddb7573a22",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVDA",
-    "title": "Nvidia stock price closes at $189.82 — now Wall Street braces for NVDA’s earnings week - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3ZPeFVZMGd1NTYxVVp3TDdEcVJkcHZYcExqeW13TlRCenZUVWM5R2V0OUdhdDRnWW41M2V2bzdiR3R5WUFMa2IxU1BYRVNKTFJQT1BKWTZVcDNVNG52N1RqOV9rRXd5bzBYeFo5dFB1R1NCWHUwLXc2VXlhcE5rQlVSWjdtaXpRTy1PclJsZ29vbFdSUWpvSTZqcGpnQUg0MzdiaVpn?oc=5",
+    "title": "‘Time to Stock Up,’ Says Top Analyst Ruben Roy About Nvidia Stock (NVDA) After Meta Deal - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0h5RmlrbWpvWldvTTlzbmZCMlM3T0dMNHFwSlNRclJKa1dmcnAzN21uNTNBOUwxVTRFZ3FHVnIwTjRCRWhwaXFaNDZJYlVfWmFjYnFiWnNYY2ZQaWJDeng3RGhDMTdDWGFucjlTQ0tEdUM3ZVhHajBnbS04c0JNR2hxTDNhb3pVNndydlozQUtoMXBxT01Fekt5LTVIeUo0Zk1HVVR2YlBDVFNqNkR1enhCVQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-21T15:43:00Z",
-    "hash": "63460a136a6de6ca890691d541196ddb62b8242bd876b64d198c38b9a9d630f1",
+    "published_at_utc": "2026-02-21T17:13:10Z",
+    "hash": "03246f778a86ac75cd6efed63c3f14cd84daefef077923b63c2c9f069b9736dd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin ETF Fatigue? ARK’s ARKB Faces Fresh Outflows as BTC Technicals Flash ‘Strong Sell’ - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaURMMWxtT0R6cnhWdEdSX01YQklEcjNEVzVreFV5SUFwUXZ5d0pIc1B0MWs5RURDRGh5ZGNHTmhzSG00Ync4UDhuSEdMZkQwOERhSktRREJwaUpzMEloX0dYUF9INldBTWJzek1TcVR2bzRVSTJ6bzVWMzJhS1VCNGgwRmVqY0dmVXNDOEVRNVNTdHp3SUxUdGZWQkRHV2t1LXVoSFlrdlpmaU1FSkxUX0JpTFRXcXRMM1piYjg1ak5pQnZzR1JPcFNOa3dWdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T17:05:53Z",
+    "hash": "4360769d5e6d1bf2b94bf50fef4470b1dcb1734341806bc802fe18f7a97a06b7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin drops 23% in 2026: Is this BTC’s weakest start since 2014? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObGdaZktvam1ucTlDdHdvWFpyOE1MMnFrS0hycXJ4Tmd1WjVnZURfcTFOUHgwVGhRc0N0VkVFeGtCVjYwbjBNLUc0NXZkSWxfclZHOGNrZmtENjJjX1pENnBLOGcweXJHMjQyckxJSE1rUm13c2wwbzV5WU1JRk5tenpkOTh2UFVUNHJwZ0pB0gGTAUFVX3lxTE96V1E4VTh1M3NpTUxzQXlUQTFlZUMxbGNpZVJZOUdBSDEzcTNFcENpWUpwcVhhNDdtQnNlcHpqVVRRc2JLZUktM0V0dDlsSDlYRkFXX0RzZDh2bDdvc3VrazNjaHo2T0swUTR4dTlmNXl3c2F4RTNLQU9fVE1fcVg0TFJ3MVZvWGx5LWVMa18wQkJDRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T17:02:17Z",
+    "hash": "238db02956b7267fd56930a4220f14388177c52749fc7c680a044549ff90e843",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Outlook: Will XRP Break Its February Curse in 2026? Why - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdFhnRmpHSEJBUUdPMWk4VWZ1TVRteXBBVnRxelhuRHdSeE5jX0c0amxINVgzTW5sUmIyY21nNnl1a2RXNjZRM19WV0ZXZnhza1o5Ti1IYnpHQWZZQWR4bnVwa1BuR1BLOGFZZ1lJN0xZQmlfVHZoamtGZlFtelpXVFltSWt5M3h0YWZDbTZZbWFrN1loaDU5Mk81VV91Vzhs?oc=5",
+    "title": "XRP ETFs in Green For 3 Week, But Price Remains Stuck - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aTGl2MkpBRDE1Uk9nYW5iRFY2SXZHTlRiaENLdl81dXA4NWxST2VVZDF6RkRDNW9vMEtZZUtKckxmS21DZ1FKZ0FabmY4Z25yS083a2lYNGFIczRJdk9HeGlUZXBsYzd5R2pj?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-21T15:39:58Z",
-    "hash": "aece4c85e6dec50ac667c3220cd559bb297e4bd0bcdfd1f4175d773bc2380c52",
+    "published_at_utc": "2026-02-21T17:00:00Z",
+    "hash": "eabefdeedb426bc4549cd10967b4a0eb040bc21e87195bc525130a2be6502e7a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: This Will Be Nvidia's Stock Price in 5 Years - Nasdaq",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVRZX3VyVmNzb0FsSE1fbXJsUXBGcWpTNHVuU2ZNSGlnZ0Nmdy1pdHdVeEhNbHhsLTZCRl9ZUkk0TjRJU0lNZ3U4VGpYUlNYZVlHU3VVcmlzbnJlc2hHajAwV1AxWnNKeEtZeU9vWUp3U01TZHNoaER4QWtxMGVFc3JGblg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T16:41:00Z",
+    "hash": "506fbad5c3f5970f55a53436793d8f130e76f01d55d714706b05247dc6d90b5c",
     "source": "gnews"
   }
 ]
