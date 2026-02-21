@@ -1,92 +1,42 @@
 [
   {
     "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia: Have investors become immune to good results from the AI bellwether? (NVDA:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXVNNThkLU4xdm5icVZYa1lTYm1wc2N5bEJnVmhXV09WdXJnX210Vno5aTlwcDFyaUl3OXZPQm51NXl1eWttQktQNndyci1TSG1xbmlqSmVhWTktWUVUX21odTgzb1REUkhxeVJPWS03Q2Y3d1A3S2VyWE9fb3BYWmk5X0Z1Zl93aVI1WjN3NjVBb2JkYTByOW44b2JnajNna1U2TWpLVE9RdVJVZldmRGhB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T19:05:30Z",
+    "hash": "64fce77b653491782fac5a7680cff42d49eb807e7bf15f4b78c45e46fce070ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin price analysis: BTC at attractive levels for patient investors - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHR3cXpCMm5MRlZ4eWJoZlpWNlRSc2tvZWVtZmplaDlENU9VdDcxTWRYamc2Sjg3OWRYT3JhdGJNSFYxaFdUMjFTRjg4dUx0SmtjODdBdEFSMjZPdGJBYXdRQy1FdVpYVU11SzJ4QlBUZnYtcFFrdnJvSnd0Y1FYa3hFNFlkVFhWcmhpLUd0YmdUa0hrWVNxNkRLMXM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T19:04:39Z",
+    "hash": "05bf1ffb16d7dc49f2266897b9a458ed1a2368ef3200a883a0390bbb9e91c244",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia vs. Alphabet: Which Is the Best Artificial Intelligence (AI) Stock to Buy Now? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeTdxTDVOcWtSZnRRWHhnUExEa1VHTUR5d3VDQVB4X0tfOTNYU2dESVplZy0wdDJGNzFsUjFBZWJQZHUxdkRCb190cWRNc2xrTXFYVkZOZkxmb0Y2QzJaT2FmMnBKUk9rT3M4WWk1ekR4c2FtREwzdzRUZUVXUlB3UWxrVDVzalRJeEJIckxTS1MyYTBPMGNPRw?oc=5",
+    "title": "Nvidia vs. Alphabet: Which Is the Best Artificial Intelligence (AI) Stock to Buy Now? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVFZLT29Od24tY0gtYVVEM0M0SmV4Rl9CalE0a3czaVhQcGZJbVpneVhzLTJwZTg2b2pYeXJaTGtkXzFSZ18yRnhVVV93eUl1MlRMV01oWHN6Z3Q5U2RLbUctaEdxdTIyRVBoOUppbDRyS2tXWkJ4bG8wbE83OUh3bHZ2TEhMd0E?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-21T18:42:00Z",
-    "hash": "63b28d534f6e41e8dab6fb33032e86900988ee141b9a0c49840ac46d7e259f10",
+    "published_at_utc": "2026-02-21T19:02:00Z",
+    "hash": "82f02280ec41a64cac87195a0ad15d287901163f934a8b16dbef49c534c6e5fa",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News: SBI to issue 10 billion yen onchain bond with XRP rewards for retail investors - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLV9NXzk2azVVOWkwYXA3V2pDY2JfZUFhcEQ4ODRuTDc0MTdSZUlUb1BMcENDbElEazI3MEFlZTY5VGNpdWxQUmNIMFFodHRwWWNZYThMdVd3TTM0N1hla0ZyQlJYUFN3X1hJR3FfY1EyOUxzVUR6akNaX19mYnhlakFEWnFGQ1VscHNGcVpnNjBDaXlUMlJJQ0czenZjLTJ0Tm5ZeXJUbVFZY3MzVnFGVGp2OVh3VE93ME1RN0xiblF5OWlTV29QeGNUOA?oc=5",
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "CrowdStrike stock hit by Anthropic’s “Claude Code Security” shock — what to watch before Monday - Bez Kabli",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUNfVU9UTnFFOXh3Z2EwSzVYRC1rRGVRekk0dGM4b2FxX3IwNFRjMXNoMUI5dExwU0w1NWtUY3Fuay1CZ1o3MkRtdzI0ZGlEUGVqWFpfNERmU0EwSTBCUnBqbjJzTWpRc1prZW1UNEdHV0pDd3Z6M2Q5Vk4tSU1ZTFM2SkozbmNGRjV3bnluUlZmcWRpZkNhR3FOUVZJTTBVSURvZkpxajNfdUVQX3Z3RUgtVVI4dFk?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-21T18:24:07Z",
-    "hash": "fe19c9fecebd90ee8f440217e4088b3efaec3d60ee2642e2e98cfbf0bc8e879b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "XRP News: SBI to issue 10 billion yen onchain bond with XRP rewards for retail investors - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLV9NXzk2azVVOWkwYXA3V2pDY2JfZUFhcEQ4ODRuTDc0MTdSZUlUb1BMcENDbElEazI3MEFlZTY5VGNpdWxQUmNIMFFodHRwWWNZYThMdVd3TTM0N1hla0ZyQlJYUFN3X1hJR3FfY1EyOUxzVUR6akNaX19mYnhlakFEWnFGQ1VscHNGcVpnNjBDaXlUMlJJQ0czenZjLTJ0Tm5ZeXJUbVFZY3MzVnFGVGp2OVh3VE93ME1RN0xiblF5OWlTV29QeGNUOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T18:24:07Z",
-    "hash": "fe19c9fecebd90ee8f440217e4088b3efaec3d60ee2642e2e98cfbf0bc8e879b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "GlobalFeed",
-    "title": "Quantum Systems: Drohnenoffensive am Boden",
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantum-systems-drohnenoffensive-am-boden-accg-110841734.html",
-    "summary": "Florian Seibel will aus dem Drohnenhersteller Quantum Systems den führenden Neo-Rüstungskonzern machen. Im Milliardenrennen nimmt er es sogar mit Branchenführer Rheinmetall auf. Der nächste Coup steht schon bevor – und sorgt für einige Debatten.",
-    "published_at_utc": "2026-02-21T18:14:46Z",
-    "hash": "5ce5e0489a6cb4a227c3968ef9c08782a42374bda3cedd55df26f11d99adc68d",
-    "source": "rss:faz.net"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Holders are Leaving In Masses – Will SOL Price Crash? - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vcmdjbTBRaUZja05DOF9LbVRqcHM3cDQ5NnVwZTcyVEs1VXJlY3VYUmNSR256blBpX2RGd3RaNHdqWDl3V3ZDM2phcWhCQjJIS2JvbWRSNWhtZmpaM3FzMUZjazdUNENKX09XcWFlWktFdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T18:00:00Z",
-    "hash": "5da04b817caca162a4fd4a4aa1b97fe92bbcf7a0d0594e2c9fef779a27bc9c39",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "What's Wrong With UnitedHealth Stock? - Nasdaq",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xQkk2SDdienNVblQ5NFVuWFZjcXMwdk1pTGJCbDE2bDdkUFFZSFlFNU1XZzBiMFlTNkhlWDhod3YwLUs1LVY5Z1Y4MFMtaWxGYjFtWHdJQVh6SjE4VWNobklzMHo1bkNVa201b3FHdEdidw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T17:57:00Z",
-    "hash": "99bdd6adb3448cb671481b2efa84bbd9f69eb97e6e5a15ff2d3e8f7c101556d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Billionaire Hedge Fund Manager Dumps Nvidia Stock and Backs Palantir, Robinhood, and Circle Stock - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjFlMFJISFNZRkVnanFfcWhtV1dUUkNPZGtHc1plZGNxQTZDdi15RzN5WFVGTnF4QjhrSEo1MWtyV0tNZTZQakp5NUY1dUZ1VjlBSUYtMzdkR0cxdFRkRTAtcmh6enpXUUsyMnZjMm4wR0tKcjQzNkZyY1o4aGlId3BCeDBhbG1YRlJINFVueFNnRDZWSzBEeW5aSEtmMXVXRGN6Y3hHWTI3ZndBMlFrRHJOU0ZvQjQ4TWtwZg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T17:48:36Z",
-    "hash": "d32496fe420ca3e877eed84f1aa10f3c66206391e66534f1e0b134d129a829b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "What's Wrong With UnitedHealth Stock? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWTAwajdMM2dzU0RtWVF2ODF4TUs1ZHZzRFRXUUVqY3dsSEhzWlZQcGJGUE9IYTNXSmx2TUQ4ZWdPQ0pMLU1uVWd1c0UxdHpReUxWd2pQQXZHQzU5YmtEUnJuUmxERmhRcjZEWnY2ZGM3VTdkVlJBQ3VOZlBHbWRyelJpa2E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T17:37:00Z",
-    "hash": "bd56df2a822eca492e63ed47e8c1276104864d4701f3dfbc34f75da8e97e3011",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP price rises to $1.44 as Ripple CEO talks up U.S. crypto bill — what to watch next week - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZkE5WHhVeldNNmdGMVFUcFZiTnF6RFZNV3ZmaW1hNkVxRWw4Y3dxVFJ2alN4enhFWWRMV0pCUUx3UTF3cDBDaHlRRGluVVFYWWpRaVJfZmRrQUxkZV9NLWJjYnVfVHFHbjdRVFdhby01MmVYYUFCUjFyYmZIekJ4R0RZY09GNHFmaFh3bGw3VWY4VUhYUjN3eFpaWTJrQ3haT3BHeEV2V2dUY1k?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-21T17:37:00Z",
-    "hash": "cf7d6f17daef84ed08bc3cc5b0c998882dd71a4d79c87cf26b60b24d34643605",
+    "published_at_utc": "2026-02-21T18:56:57Z",
+    "hash": "bc0ab5d223741b67d71f41e378ecc7b7e4e88317bcdb902f262d751bd51c65a7",
     "source": "gnews"
   }
 ]
