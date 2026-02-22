@@ -1,12 +1,182 @@
 [
   {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Stock Has Been Volatile. Here's What I'd Watch Next. - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOHVONFFxQ0xrcEJzNkZYMlJlYkxnVkxPQzJMNGNTUVdGUm1JLUlyY3pKS2F0cHZIUjRBV0FWQ3ZCMWpFN0VYLXduX0RRX1paeFFxOWNvOWxpWWNqQXZmVVc4UmJmbVVjVG1UTzFLXzAtYkFHd0htOTg0UEJGS3ZhZUotTVppdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T02:25:00Z",
+    "hash": "9a337008920fabeac3a6e2ca2552d45b3471dfb586b7c4139490f8fb0ddd9b9c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Stock Has Been Volatile. Here's What I'd Watch Next. - Nasdaq",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVlpYlhQamFDUWJhdkNKYW5uM2xqZ2hBbmU3NzZQeDNNMGRpeWxuWGhfRWpWbG9IczVFNVVGUl9fOFJ0QXp5QjQ0eDB4WnEwbUc2akViMFNCY3dDeFlWTHZJZ1JVU19Sd1BxeloyT0dpUFUybW8wSHhwY2cxWlpORzhTYThxVnU2U19adEhsMW0yNmh4?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T02:25:00Z",
+    "hash": "0311ccd259ecf4f6bca4066ce51a94185244a22ce995db98d03a6d6f5090e233",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Stock Has Been Volatile. Here's What I'd Watch Next. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXQ5MFlMWHhwVlBWTDhGMXBkS05hcFRJLTJ6VXBvcW5pXzU2WUtCemdId09XT1lMenk1aU1XWV9ZZXhvdHhUMUtJWlZJV3FTN1hsSHBFX0x1RWNNX1lxZGk5RDExbms4S1I5THdQWFEzTl9fUzJ6OG1hNXkwb0Z0YzdUOW95Znc4R05naE9Sd1BGeHFuREx3cQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T02:05:00Z",
+    "hash": "b471416ccc55aa927e666338b1358cfbf9b0174cf6dfedcb7d23e5963e1fd4e1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Santiment: Solana Growth Signals Hope Despite Woes - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZmtqVlMwV0NsLWR0OVczRU5MVUZXUlIyNndCLU9fTUtxZGRYaDJKRF8tNWVKZGo1N2Q5UHRxYWtYR0xfTWVVVllpZmJlVEVoU1luNU5LX0xkVzh3UmJuWWh1TURWUmFfaWdsenRNeDd2aTFWcDVxenNoOFliLUhlNl9kdmpoUmthTmFGSjBZMEo?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T01:54:03Z",
+    "hash": "c543cdb6e932ead8d0a29bad15f2858ae131fa0f11699d0b839adb042e6681c7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Gave Amazing News to Nvidia and Broadcom Stock Investors - Nasdaq",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYW5QQUtvd1dXRDBSd0NMTi1SRjE3Y0VNTUlvekl2aXNtY2lGRVRvQ052Wk02Tk5GOC1Ra2xEOWdYaTZrRWVmYzlxUHE4TVJHeERtTTA3V29PQnFNT3dwNmlYN2NhdkRDM3ZvWUpYVW5nYWF4T1NiOEJLeThUc21qMVAwcl9YeXpxcmFFc2tQcnFtUk9uRDJJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T01:35:00Z",
+    "hash": "172d19df261ebb5b05d0915b27e1fb3a4f3e4a68e85038bcc3f02751f67abbe8",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Congressman Has Sold Nvidia Stock Each Year Since 2022, Missing Out On 631% Gain - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkNscllrQ0JianlTM2dZVS1xUFp6dlJvTkFzTzhseHU4NDN4dVpfV0tUQUJtdy10RllaUkIwT3lMM28wd2JENUJMUmNNNnkyRVA2b2xUVDVQWHFqZXVaaFRDQThsQVI5S2FYQjZYREpVaHFQSlR1MldjMXBjQm9qeXNPWXdCd3NRQldjdg?oc=5",
+    "title": "Google Gave Amazing News to Nvidia and Broadcom Stock Investors - Nasdaq",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYW5QQUtvd1dXRDBSd0NMTi1SRjE3Y0VNTUlvekl2aXNtY2lGRVRvQ052Wk02Tk5GOC1Ra2xEOWdYaTZrRWVmYzlxUHE4TVJHeERtTTA3V29PQnFNT3dwNmlYN2NhdkRDM3ZvWUpYVW5nYWF4T1NiOEJLeThUc21qMVAwcl9YeXpxcmFFc2tQcnFtUk9uRDJJ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-21T23:01:16Z",
-    "hash": "34b65a44c671b5db57c70494190e55c8531d55311cbf806384c942843fa76c50",
+    "published_at_utc": "2026-02-22T01:35:00Z",
+    "hash": "172d19df261ebb5b05d0915b27e1fb3a4f3e4a68e85038bcc3f02751f67abbe8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Google Gave Amazing News to Nvidia and Broadcom Stock Investors - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk00ZUp4bHQzclBfRXBXZ1ZKVGxRS29IdUpBQnY5Z1dKQ3NGMkZWUG1ZNkZIVWJJdFh6SnZQNU1seXNvQVlLQWJxTDNmWWdTM0hfeW94QjFWLV9YUEV5cjYwZExqWDJvMEhKaDJST21XeGVEdEZiR2tfTXhIT3NISzhSVjVtNXowWXlqNTdnTG04R1BFVTZOXw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T01:15:00Z",
+    "hash": "49463e67e597aef6d1eb5c477cd8367a3d99bce564dd4a25910a8c8bf1d5d5ce",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Google Gave Amazing News to Nvidia and Broadcom Stock Investors - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTk00ZUp4bHQzclBfRXBXZ1ZKVGxRS29IdUpBQnY5Z1dKQ3NGMkZWUG1ZNkZIVWJJdFh6SnZQNU1seXNvQVlLQWJxTDNmWWdTM0hfeW94QjFWLV9YUEV5cjYwZExqWDJvMEhKaDJST21XeGVEdEZiR2tfTXhIT3NISzhSVjVtNXowWXlqNTdnTG04R1BFVTZOXw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T01:15:00Z",
+    "hash": "49463e67e597aef6d1eb5c477cd8367a3d99bce564dd4a25910a8c8bf1d5d5ce",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Congressman Has Sold Nvidia Stock Each Year Since 2022, Missing Out On 631% Gain - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXRWTFUzN19QVW0yVGlIeGpLVEgzLUtSckk1cVhkeHZlSGJGUmRUeG0xQnJwNEYtUUhlcmlmZmY2c2x0TzJyZkpDWUV5V0FoSjJrVk9TVG5IRF9pNEVFY2JxemFPMkctWlRkUVRnSDNIQzQ5dmFHUXRNYzhFcE5Ebm9iemd1dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T01:01:16Z",
+    "hash": "f9013b634b96df5408c88296a67fc1e285c16571f964dbed676ecf7b3733f46e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Whales Shift to $0.04 Altcoin as XRP Stagnates Below $2 - KuCoin",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYzF5Z1U5UmhqMXhxOGZSMlpFOFpUT0F2NWVSMWRYdG9vRHY1TkhpQVdQV0EyS2h1VjkxNWdORkZaU3lxY2VmTGtBNlIwMTZRaDdMalcxRk9OelA1U1ZWLURlNU92bTE1cURTb29iTk1NYlVSMHczY2NrS2o3dFIwb0pBWXpJWnh4SnhPM200ZXZ3elljM2U5VHNR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T00:37:05Z",
+    "hash": "b46143a3e4378f14fc124a28702ac71a01e8c5ccc8b1892170d985e1b2aa2ae4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum USD Trades $1948—Can ETHUSD Recover to $2960 by Year-End? - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWo5czVMajhqT3pWNWZOUXV3a2lJLXNMZkcwOExoMWVETjlMUmdvQ1dPb1lBWjE3dGpBM3RfUUlyWFc1WFYxcFdoTVpwQVlZZzJMbVhkaTZzRmFEdHh6ZjJhTU84R09EbkdwaElLbGstODdLMm1HZ2tpTGF0LVVtazVVSVRLWUhCM1FFLWo5X1BibS1oN3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T00:30:18Z",
+    "hash": "802ddee04f701c645b14abb7c1c7ed15af4661bbcb832ac86111dbc6b306ce73",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood’s new concierge service signals a push toward all-in-one financial platforms. Is consolidating worth it? - KQ2",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMG9FYWdjWnVrblphVGpTaXpfX0QwbjdyeDNHNFpuZVFCNjRQbzdhUTJNbTlQcTZEdDVFSHAtN3FzTzBJcndEWm8xclJVTlhCVGpWT21BMDN2SWJ5M2gxUFV6T3JWWDhFNUstR09nYUxUaDBDWUZNaWpqMXQ2NWtySnN3bURadWNFVDJwZGR2V1RNbFJsMVhjT2lldGxLRHljbUI3WWNrU3RXLUk0b1JMWW5ObWgzbEpyenhXMmRaSW1IYmo0S3hsT1VkY2FrNk9lUkNtMkZCTDJOVDZ3b05DY1FzdlZSVDNPM04tdXdJZDM0anF2UjZDc2tOTnVWUXZhNHUwSlJJN3p0dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T00:10:01Z",
+    "hash": "5356696d4b0bc9c75339c43028b12806e7df48575507a21670cba700a7bd8683",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Here’s Why Alphabet Stock Rose 4% Today - TIKR.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDVTBSTmliVXgxWUZYeHMyZDZra2hLU2V4ZnNoODd1ZnFNZUVXNGFUOG8zZVNlWEd6TExaZ2lxeERRVWF0WDBzQ1l0Qk5rdHJaT2gtd2ROSnpQa3I0YzAyMlA2YmtnZEttRElvVE95amI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T00:02:16Z",
+    "hash": "3d46263a26799cfde5e7e308dbf9902014fb088d77af3f78efc05ea1d18c3342",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key facts: Ripple targets 2026 XRP Ledger adoption; SBI issues $64.6M bond; Spot XRP ETFs see $1.8M inflows - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRnEza051M3NwLXFlUDRSLVRubjVDOTRvYmswQmhGUmNqQXBydjFYYlBhYnBvQTRwbTVrdWdzaTRaclFvdldQNTJkN3IxVGJvclRCdVBCNEM2aDdTMlY2bWZ4ZjlqSVhNVFE3MGM1OHFZb0M5UFZ5Y3VVRzlJM3UyQzh0WHM4ak96aEthRXRmU3V5ZktQYmFyeDE0RUtYS0o2TFQ3YmpZaTZ6eUhudjA4Zkx6bzVWQ2duWEJBVWM4QWc4YjM1cm15dGpmOERmUVFUdzMxZ3ByTUZmMG1ieVRIaHZWNGVPdF9WQUJJdFZhWGZTQ3E2V0Jr?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T00:02:00Z",
+    "hash": "9f856d5c7a3784ed2038efb07fa49ffa4691b3a28df36fdec37690abb9ce5fea",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "An Eye-Opener: Nvidia’s Results And The Investing Week Ahead - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMW1QWDNEZ1o1ZktxNmxNNlZsbEFrT3ZwZW9fM1BPUjRJNzVKQkpwbk43a1FMUVdXczFSbU42SVFGR3BvUHN6eEpuakxSMmxzTjZpMFo0ODd0N00ybXI5Rm9nQXd4UUhIRmFfMnNKN1pWLWlQNDhueFczdmkyRTA4SnNvRWpqc0llU3p4Wml3Y0s?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-22T00:01:45Z",
+    "hash": "9bb78154eb35457efaa06c4a1853103346e04d858dca6d13f6f378a7909caad8",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP: As Institutions Circle and Regulation Shifts, Is This the Most Asymmetric Opportunity in Crypto - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXNvQlQzWFhTQk9FVGZ6NDFFSGxFOVJoVkxXQmdRVjR3Sk9oaDZHc1VjLUYxWkY0MHdTOU5vd3Z5WFBXZEw4T1V5X3pMeUVnV2hBeXB5WnRrNTFPeHloZVhqTi1iSVY3TnprT2dMTWFFLTdidFNsZVphSmF4dllyem5mRVpCSlZ1SXJjMG9wb0RUemtvN0JUSVU3cDdmOHBrZzVvMHJDa2dhWnFTYjlpYXY4N3N4Vl8xNXdSVVpMeUhfZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T23:56:37Z",
+    "hash": "1f6b0d1d1f274bdc58f0b5c3a71b4620254d357ef3abda3ade1c98a436731175",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Reason For Attraction Towards New Crypto-Coins - SMBtech",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5dVNXRGwxZDdVcWFGTTVqRk1EWVJDUlkzdTFodkowSVlPc0VST0lRTTc0TFNjR21kemNPM1ktR0N3MS1FSFNqellLeWdMdV92aDhPTm1fQTI0WC1DdlA4dGF5dG8yaVRrUExTZlU4RzNOclI2UHdJYXk3UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T23:43:49Z",
+    "hash": "bbf912ea5f6d3413e260de1b03369eebb2f77c724abeb3fcbdc85d01b6972ee1",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple and Aviva Investors Reach Tokenization Agreement, XRP Price May Surge - National Today",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTkw5dGhVaGtMczdLUzl0RktwWHZ1MXFrYzdnU0w4UlpOSm1GSXRLOGJkaGx6VjIzR3Z2Smw2a2JfWjJKZWxvM2VrV296OXhkcVR5Wk9LZHQ0Sm0xbndxOEhDRzVhOEVmbnlQbG9sZmhqR2Q1RXUyMTBaaFpfclQ3cnBsQXBzcUZmNFY0bkJINTRtbGhOdDFVSGpONUZKREtxeFl1Rm9STmRiX1ZKaWN2TWV5MUtvVGxaZVFkeU5CT3Mzc0sxZ0VfRzJB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-21T23:39:01Z",
+    "hash": "2d36a992ab5971dc24654beb3ea0345200db2331f7c8d912fc87127406b237b5",
     "source": "gnews"
   }
 ]
