@@ -1,42 +1,82 @@
 [
   {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Peter Schiff Says 'Dollars Win' Over Bitcoin As BTC Hovers Near $65,000: 'Bitcoiners Are Delusional' - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGVmNzVSMmlkWlZXZlREQ1BneHFCSi0xZlZIcU9oc1FFVUxLQ19DY1F6aU0tX1p4cEpzTHhFWWhIeldkRDEtTDVGNDd3bnFNS3RIZk01RUw3SnZCUkI4amcwazJpcnNSVl9zTGtNN05XUC1MRW5kMWxlZThLMmkwbVBjNVhnWWM0VTVlUWVmWVNlaENjMkpzb3JMeldPdkliV1hRMTA3eGRfblFjRnA2dkVQODI4MlFpVU1UZ01sX28wTGRwMnV6MVpEbUlIVW82OVJXV3dLcEpQYVNtM0hKdEFac1ZSel9LcEVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T07:31:16Z",
+    "hash": "c0e3b1463a8d6ef66bd3edc1a437bdb7184076be510caf32ea9c85c200ebd2ca",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Novo Nordisk A/S (NVO) and Vivtex Corporation Announce a Partnership - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYW1CXzNlVEJkTkxsbFVmV0RITWk1aTNuVTRpMlg4aXlMbld1cTliNkZsNUZsMGtwZEFUR1dkY2poSVdhNWJuN2Vsdk9jb1pLQjZqemMtMjFRTlg5ek12UFZoZVMxWDg0SmhrYUtZckE4bS1PNXFTUkZ3dUlXYW9KT2U0Zi1fZjNiRUhXU1ZrZXVFZ2QtSV9Yd3gyMlM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T07:30:02Z",
+    "hash": "e1f7bdf63e9ea40960e0237e1a1753491d3d1285056a2a9d25b48c4b2b3c1f92",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "Where is UnitedHealth Group Incorporated (UNH) Headed? - Finviz",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZFlNU3k0bGxfMFA3TXlLUFVqektORThyUl9HTWdKM2lvX1pOeHNQS2JCWGtBQXFGNWM5bktKNlBVVHBHdU00XzZGXzd2MEpla3otSC1PVzcwQndfNkp6Y3JhUnhSSXZlVlROVUZFSkYxNGFsck9CcW05Rm9KQTJfQmQyUGpGSEpxclE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T07:20:18Z",
+    "hash": "4521171ed8b959b5dbef7fb038307d443c9ff3cf11864a8e863c78f291f91ae3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is XRP the Most Mispriced Opportunity in Crypto – or a Regulatory Rug Pull Waiting to Happen? - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmkwWmZYeU53X1V1eFBGZmJsUHNMTVhtOTYzdnp5eHVXaHBIVnQxSmNtSGxvb0tVaDhwMm1rZXpvVk9nZ2FVSm53ajN0WlNNOHhHaXNqRDluSVpPd1Y5MmVkcFExVmhYTk9xZU1Hckp0b1hYdDBSbmZubmM2QnllX2loTDktamNKbjVFWUVQd1NhdDBPcUFxWDgxRkRxVENNLVFick16dkU1aHVNU1pXNF9tZ1J0d2VLUkRFTFh4TjhyeTZI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T07:12:27Z",
+    "hash": "3d0dbced40cdb88eecbb8bb8856c086b0eb3de25294515fbc3142333fc810185",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is XRP The Most Asymmetric Bet In Crypto Right Now – Or A Regulatory Rug Pull Waiting To Happen? - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTHVweXdsVGxaZGdTSHpQLTF4VmNHbUR4LXNvTnV4UzdUeTZLa19IM3J5OFcydXkwbmo4ek1LNWFFS1NOcVNTMERMVVVBU0pHVWJWbE81UDdpeGltc1JhNTNQUlBvREZrbk9lYzJrUGFVaktFdVJFSU5ueVhvRmpxcF9CTW5fTWpMSmdIOGloUlpaZHZmM01hd09nTW56ZTZtS0xjMW9oS0RfQXBzc0RvVDNKb1RJeUN1M05BZk5RME0yX01ISTRsOQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T07:07:11Z",
+    "hash": "cd64ba452c8ddf9725f0f6bc7244ac73f3a607ef7005a36ae3e79c7c2170a4d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Short Interest in Xrp Etf (NASDAQ:XRPI) Rises By 61.7% - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1A1ajNlYU1zUkg5NkRZMkdJcW9RZ0tEMlM4NGZXdTlKekQ0LXVBU3VaZDU2clFhWFJyTi0wZ0M3ak5odm4zTnB4dTNodHdNUjNtVml4TlFUUXdFOFFTRDlxd004c1N0bE9xU3FlS3N6Z0JiajR1S21nRVhScUx0ZVlrc0sxWUJoYVdSRmV0Qk8xb0tRWXFrSUV2clg3NElKc2NJRGd3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T07:04:10Z",
+    "hash": "9cd4f06bbbd89a36a05320b137986d13b481f9a9f58e88d4855fb8c7295c5c23",
+    "source": "gnews"
+  },
+  {
     "asset": "NVIDIA",
     "query": "NVDA",
-    "title": "NVIDIA News: NVDA Stock Drops Over 6% Despite Earnings Beat - Eudaimonia and Co",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GWUtmTUZwazlCalpLOTEtVm5raFlvVFR5UlVBSVhNT1o0T3d2RG8tdm5SaWtZRS01NmJfWXNiZzZGTkxjNDllQzFZVWEwNi1RSlMtaGw4dGVmSU41TmhFaDg3LTMxdTdhZUx2U0p1aTkzYzdTMmJtVFlfaDYydw?oc=5",
+    "title": "Nvidia (NVDA) Stock: Climbs Ahead of GTC AI Chip Reveal With $20B Groq Deal - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTdKa1BLNGVibzl3NF9kNGFNSHRFUXBqZ3RDdWxzRzd4Z1poVGlReGJtU0RMcWtveFRTRVp1ZEtENnZ4Z2F0ZkZNM0R0N0RibHgtSkR6WHpSYnIwWmI3MWJLVVBubmdqNGVfU3JTSWd4aVpocjRadTFTVU5jS3Y1WHlnXzlReWM?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-28T06:40:31Z",
-    "hash": "8c836bbcd0e673f61104ce2723b8b4f299cacaf2bdfe888ac6a45fd7c323b307",
+    "published_at_utc": "2026-02-28T07:02:49Z",
+    "hash": "ce911999335cbafde1998f0c2b9f7c3a7c1a8aca23e07949622356f2e7d6dd9a",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP and Ethereum Are Both Pivoting to Privacy. Is That a Reason to Buy Either? - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS0tKWHdxR01IdGhyLXJIMTBMbEI3R2hBZVMtRmdWNkFQekFlcy1qZHRRcWJsVVU2RlFZTGJWeXhRZ2RhcldMZ3NwUTZVR1prUmM5Y2FJZTJqdzRNSTNpakg1NHJsYlhwdEdiWjRPcno4NHN6ZmtWREF3elpjbFVaLWZxZmlDZE9lOTlkZGJlWks5UU5xSV9BSkE5NkQ1aU9MQktDYWpyVWo0UlFvS3F3NzJsSEIzU1pKYTVxa09RTVJiX0dlaVpSdjdvRjVhMVZfZUkxanpEbXdRX0ljamdoOTl2WDhQQWJOY3c?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Bitcoin – Does Coinbase Premium’s latest ‘positive’ mean institutional demand is back? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlByWDdDc2R0azlZZ281M1VMVXF5X3BVWmxtWEx4b3U4a0RqZ2hnd1JJTHBSc1oxUXBKRXczLURDZ2xfMWkzMW1aTmV3S2Q5X2pYellpZUxsZHNlcHB4ZWsxa0JFOEhDV2VYQjhWWmJQVUFjbzhfN0hSNURZczNGdGFkdmxxZ1hRal9qREtJdG5kUWEwV1NzOENGN0xpQzRhQ1g0aE930gGrAUFVX3lxTE9TSUxxWGg4d2kycEYyelJaaEUzR3dzZXA4MFQyczZBVHpaZEZVZ01DYmxVbmFhWGZycVg2LUp1NlRMVEo3RlhDcXdxYTVRRm1ibmxnSUEzRXV3TWF0Sklrcl82aEJsdFljV1JQR2Jsa0RuZHk1Z3BiZXFZVFd5SXBKdE5pUE40NjBOV09ja0FORnRaVVdrWWVacHNsZklWQjM1aVdwSFhPbTVsVQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-28T05:52:31Z",
-    "hash": "2d595dbad582b4fa38f445636234b860149575f93fd6d667f8a29edc41e85360",
-    "source": "gnews"
-  },
-  {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "BASF Reshapes Global Footprint As China Growth Offsets Germany Job Cuts - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSUtTYThBaUhtMDZZVnluSUdhRzF0blh2ZjhuVDBsOTllZ3dGWHJWZHVEZV9UaE52R0N1T3JQTW1XZlJRNGpPNHZ4YkM2cWRILXRwWWEzbV9IV1FFbHFBODNMcjEyZm12NFcxWW1aREROemFpMklHZ282TjVVWDkyR1BkZmpDajBLTFhWXy1HT0JpdXNHTW02RTRuT1lvWjR0T0lEMFVaRE12V2hhajh3WjZHNjMyZU1iTEtoQ1VwM0xQVXhEWnfSAcsBQVVfeXFMTVlObWpaMjVlMkpHaU5pRnJ3UmdkMEZJV1MtdjloSzlRNHNTRVhuWklpREFadWFreHNyeU5TYjJ6dzNlUHZZbkJmaGI5OGttY1pVdl9fWk40R2VZY2NkVjk1SHVtY0R5aERMZDFVNHNNQ2l0bFF6YUJxcXVkY21NRVQ1d0ttcFgxZTJlYlQtZVdPTnNoU3d5aTlVUDczWVZJSWlNWTR1c01hMFlWeVdsUzRmeWtKekVQN2lPX0RSR1dkNWJXM0xJTlFlVE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-28T05:50:00Z",
-    "hash": "1e2b5d1e4db5f3a688943d4cf1164c3f4c9ed05620e9b2ce96e64e4c3760c558",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP $13 Price Cited As Heavy XRP Capitulation Mirrors 2022 Bottom That Preceded Monster Surge - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnl4TGxzR0l0S2hrYmxOZXZBZ2VRR3lmTnlaQl9MaDhPUHhPOTZ6ajhEUEFHY3Q2OVlMSndZYllmanRXeFJpbVpjYmRFWVROMUNzMEJEbWs4T1I2WnJ2SlNJQXlkcnExYTVqWHdYS3djQzRHZEQxcm90OGdGZjdUekdXVlVoTEJ4TGhmbENLa2VaWGNuMEtKN3lEZm9MMGoxSDVISHlzdTRjYmRfWC1SQ2hfaVXSAboBQVVfeXFMTnlmQnFhWjZGNnB2UlhfVzNsbXJYeG1GTFBzZ05mWEgtSF82Y2M1UHlaaTZRMzNlTnRDcHhYOFhBU251OE1QUTJuX29nS1hKMGw4Z05qT0czTWpwWDk2R0RONF9Pd0Vzd3JrSExtTDdCamEwWFlmX094Y1huc3g0cllzbEg4ek0yNFhxZFJOMnJtUlJlNGJVSW1idzhOMzRQX2swVlpoX3BaNkVYb2pTUlpsVktpelBuVDBR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-02-28T05:47:30Z",
-    "hash": "6b97b0a0c9113d22e2ff444991395d89c953449feb2603a348c890715971270a",
+    "published_at_utc": "2026-02-28T07:02:43Z",
+    "hash": "6aac2ee08d7bc7439a338b670c7044acd8a0624563314cbc194b76599358f917",
     "source": "gnews"
   }
 ]
