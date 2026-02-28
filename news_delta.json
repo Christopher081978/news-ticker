@@ -1,12 +1,102 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Bitcoin is stuck in a rut but JPMorgan says new legislation could be the ultimate spark - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTlhIZTV3cEhwY0t2bE9IOU9QbG8yLTNSTkNvRGtIV1JYdzJRRlBrazdTWEc4Znc3dk1LM2R0M3Q1ci1tWlRVbm5UYVBhYUFQa3R3ZFZySmRUODJhWGRLdG5fUXBfSlEycXIzdjZLb2EzOXVxVzdDNXBZQzJRSWhHcGl6ZDFLODcwazBycE1FbjNYTXVXNGFwVlpuNmJoYUxmT3Zoa09vV3BfRGhtSm1OZmR4M1RTUlJ5aGhHcWoxa2Vzck5MX3RITFFB?oc=5",
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "TSMC Supply Chain Risks And Valuation Tensions Draw Investor Focus - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORkpkMVRUWF9nVlh3cjhVTzJjazVFTTZOTTBtaG5KUlJUSEtoYWV3V2Q5ZG5UVlRzYWpoZHQ1ckdxUHhmRW0xTkh5ZVRLV1RTdEJpQzk1NXFSRkkxZ3E1c2cxVFhES0RnUDBUbWxXMi1mR1dQd0FrVHZ1dzlxTHpuQVFLWnZ4TERhM3NSQkFnVHVOUW9VX3c3SVoxcEMtOHVWeTU4emw0UFdLblBzb0ZzWHlDV1BNUmwxcDcwN3p4ZUUyUDRXc3JVYUVsOXFpaVUwbXFoSWxkemRUVVgxSnRoamQzaHR6VXhwNGViNtIB8gFBVV95cUxNNW01V1p4VzkydGE1ajhraEpPMXA5aUxQRDh2WDV6RGx0MUlVRFZxUTFpX0RDZXlZeGg5T0gxSENOWWFrbVk5dkpqWUpSN2NodXZVNTdFbGxYNHpCUlBzSW9XTXN2akVYYkUtTlM1QTRsb3VlWnFkLXpZd1NER3NEZmpPejFVMlFMSTd6aWpFS0h6TERUYjNqX0JqVlhBalZoSlR1WmNYZW1hSVA3T1oxRS0wOUxtSTZibkpDQ0NBUm1pd0E5bUhBTmZZSTJfWTQ1QzZLOFFudjdocmFOdUpVQzhBZ0ZfWEVkc3NTazcxTFVBZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-02-28T19:02:58Z",
-    "hash": "cbd99a4dc8a90f6d42c18cb75a9b0819986f53a6636cf70a48af7d24e3242edf",
+    "published_at_utc": "2026-02-28T20:32:00Z",
+    "hash": "716c3613d2af419882efd9abf66ffc327311c527b8a928ed311ad9f05b73be59",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase stock drops nearly 3% as an insider sale notice lands and traders look to a big data week - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFFNXzJ0d3gtcVlnN2Z6RHAyYkxhM1FOeC03S0kwcElDRTdrTzFDQzRYZ1pXeDBXUmpsQmhhb2Q3V2VNVHEyckJyZ0doYmdVNmphWkotczNzSmlFcy1fZXczRGloQnBDT09jWlJER0JWZmdMYUdsOFpwTVlwTHctSHd2d3lZekhiWGlZSmdPLUpmbWc4LUx1RHdhZGYwUTdtU1hJbHpNcjRCYlBoc0NFMVN0c2JiN3VQeEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T20:25:56Z",
+    "hash": "465568595162d663564a2f4bd5fbb31616547e586811575e86a9f0088e4d5ccf",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price Prediction 2026: Best Portfolio Strategy Pairs XRP With Pepeto for 150x Upside While Solana Slides - MEXC",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1sUjVsZFZCUWRKeVVEWGpOLXBqbFNveGIySV9SQWh4MW5takZGOUlYTlM0dDlkelNDS1dGUXlvakotaHFHSi1F?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T20:08:33Z",
+    "hash": "5b20fa2f30b45f6bfa9a4b963133409163b0863c9193bfaab6021e442cd9f565",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Key facts: Rocket Lab secures $816M satellite contract; achieves 100% success in hypersonic tests - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUTZVajdNRkNUV2pKOWJ2VkFySFpfQmRuc2VQQlFxcVdxbnppTTZmaHhCbHJYWE10QnZPdmVKeXRyV2JscEV3dVhMRzZ6SzJNSWFIOXNiZXFVZ0k0Mm5zUHA4RG9Ya1lWRTlhdVVsYmMwSVVfYnV3QlBUOHVaZTVzSXFlUWtteXppSXBOb1V1akpIejBKbUlPSW9DLWtMVGhscnlud3V3WEFiWWptUHFPSldiVW1FRHRpRWozd0R4TndjV3F5UlhOb3poelFOMTRfN0tkS3VmdWxUaHhCelhodnl1czJhUGppQVFj?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T20:03:04Z",
+    "hash": "43d894e4ab3209ad0048849dc4343700be2ac1d4ad343d4ccabab4deb3209f7a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto Price Prediction Today: XRP, Solana, Shiba Inu Investors Rotate Into Pepeto as Iran Strikes Shake the Market - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWJMSE5sZ3lWMEtIOTNqU1ZpZUdFUmIzMElXRXZ3VmZNamhuRnUtQWRkaGltcjdOQWZUQmZ5bnVGS1M1aFRDelJ1UlQzSFhOR0VXUGlGeUdDVXRqd3Z3X3ptWU12OXk3UGZWWTZtbV9JbDZ1YXdxbzVyMzZyNmVkcEctYk1XNXJDVUN2ZE4tZWhLbzY4RXNwZHlTSE0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T20:01:07Z",
+    "hash": "05014dc5fa9792b335760f6d2401d3944351b4d3e468e0677b2412f6c3fa6f18",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Crypto Price Prediction Today: XRP, Solana, Shiba Inu Investors Rotate Into Pepeto as Iran Strikes Shake the Market - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeWJMSE5sZ3lWMEtIOTNqU1ZpZUdFUmIzMElXRXZ3VmZNamhuRnUtQWRkaGltcjdOQWZUQmZ5bnVGS1M1aFRDelJ1UlQzSFhOR0VXUGlGeUdDVXRqd3Z3X3ptWU12OXk3UGZWWTZtbV9JbDZ1YXdxbzVyMzZyNmVkcEctYk1XNXJDVUN2ZE4tZWhLbzY4RXNwZHlTSE0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T20:01:07Z",
+    "hash": "05014dc5fa9792b335760f6d2401d3944351b4d3e468e0677b2412f6c3fa6f18",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Pepeto vs Solana vs Cardano: Which Crypto Has Real 100x Potential - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDRycjhpUkdTYmZlN2RCY195bElOUFp0dWRac1l3Z3RmV0xBVVdHNk9HTmp3Z3ZvWUd5RkhhNUxUNDZtSmVRRW5LVW10Vm80Vmd6S2tyZHJxdXVRakMzdUZVbkJJMkRTVjFFR200M1lTVlJoR3Nxa2YzeFJFTnlhWEtuMzJiS3VHc1o0MHduUEdfQlBVTWVNak9pTmdzdVdFb3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T19:59:50Z",
+    "hash": "3469483641e079d23df42eaf7af90029180d7bb2ed2c9d3bf689994b0976157d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Is Ripple’s XRP the Most Mispriced Risk in Crypto Right Now – Or a Trap Before the Next Shockwav - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcEJ0NnVhZzhLYUI3Y2VoT1pqbFFrWk00UEdsZFh5SzVfc0lVTmdQcW9LQ1d4dUhJWkpUcUlyY0tiVG1vRWdwS1g0Z0NPbWdJeUZ0bDhlX0hYSXNVLW9lWGtFQkZycE1aWTR1aUpaTW5OUk1iV1g4MTZiZ1RQdHVFc2s5Qng0YUowcktSWkJBYVQ5VVN3U0xpZEdWRmFYU1RsOGdjMDdPbEhaY1haOUhnd2I3ZnM1dGJSZDlGWW85d1A?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T19:52:05Z",
+    "hash": "073851d7ac4ba2e6fbe637b94573a09b4703b1fe14b6bfc145e896f2456443b0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "BTCUSD Today: February 28 Selloff Sends Bitcoin Back to $65K Range - Meyka",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlhibWtrVVQxS2pacUhCVmh2YXM1dVkyOFVXVmNsdVVXdXZpcnVfbVpydGxJVXp4TzNJWkxpQ3luT2FQQ1JKSU91ZU4ySnJ1OHZyeXY0d1Zvd2sxZk0wTnpqbmZtLXlySEtib3RTOTJZTFhqRlVzbDkyaVZ6SEJUeklrS1FiaXJ6N0RTak9qaS1td2ZMQWxKSw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T19:46:14Z",
+    "hash": "1721e2258f5ee9b66ca5614c3d1597958f98ec5603695c99afe27e4965aa26dc",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News: Pepeto Announces $7.369M Raised Fast as Analysts Debate If XRP Can Reach $100 - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS2V6RE9sZ09TVVloa1o4QjJrSmJrX3VvQzE1bjVVRFVBRmsyQ2RlSzlVQ2NTTjFkQ3J2OWtzT3BLX2J0LVl0bUJJOFFyU2ZqNWRyaDhfQ0VkUkhWa2JDcEJ6RGZjTGNSRXNTQWVwaUpGWWU3aEZBU0NmNU1GMWNWR04wZUpvVXBxM0pJOFdCLVlFVXdXTjV2QjNsbVU0UXllcWcwR0N0SEdnNExHLW4tTjdldURXTHpJZmpCQ0gtcmRIV0xQdExkbGhXLXkxazZnTFVMdXBQS2dQVER0UlVCSk9OX2l2QlgtLWVzSWxSbFRnZ9IB9wFBVV95cUxPb3ctelRSdVZldm5RV1AwM19jTlo5bnNCWFdLNFBJaXNyQ3gwU25Nb3c0ZDNuRGRLQXU3RDJOVHQwaS12TE1wSE16NklXNEVnSWYtb2tOd2ktZ1RyRGg2bFhEX0taTWtYdElKcFNXdDZ1Y0ctc0ZhTW5iaG1xeVRxcElvcUh3aHhwZmp5V28wa0xFTE94NzVPZ2lzZzFSTlpjMEUyeUpmTktlRzY4c2dIR2VxZmdUdFJlbU5LUGlhanQ0X0FFQUlHZDcybjNTbF9rWFN1ZlNxdm80RmJIX0NwSnZLMUNRR2pSekI5LVFHRVVVU0ZDWklV?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-02-28T19:32:38Z",
+    "hash": "130714a4d8703dd1986991999c0be822bd155595d85e9c56da0ac088ae1a4145",
     "source": "gnews"
   }
 ]
