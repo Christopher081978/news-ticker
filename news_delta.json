@@ -1,52 +1,42 @@
 [
   {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Hims & Hers (HIMS) Stock Surges After Novo Nordisk (NVO) Wegovy Partnership News - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmk3RV9iVU9wSGZZVU9TYlFxaGNMY3VTN1ptaVd0TjRwdkdXVU5YTUxQSTRoYWo3azdWajVjMjYxU21sbmMwREtkTTJtaTAyV21BNkZsanNVRTBielpacFR1VXp1MkZGbXFmRldhZm9pUVdWYzZQbGQ4UXJtVm9qc0pDQjZnQkMxT3JTX094NkFOekhRbXlOaEt0NXQ3ZW1p?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-07T13:26:30Z",
-    "hash": "c6082b75dcbe3cc5e95dc48b1d4da69c432a94fd735f5f77ffa26055a2a4adb2",
-    "source": "gnews"
+    "asset": "Rheinmetall",
+    "query": "GlobalFeed",
+    "title": "Verteidigung: Start von Deutschlands größtem Raumfahrtprojekt – wohl gemeinsam mit OHB, Rheinmetall und Airbus",
+    "url": "https://www.handelsblatt.com/technik/forschung-innovation/verteidigung-start-von-deutschlands-groesstem-raumfahrtprojekt/100205818.html",
+    "summary": "Die Bundeswehr hat die Ausschreibung für das „Starlink der Bundeswehr“ getätigt. Das Projekt ist so riesig, dass OHB, Rheinmetall und Airbus die Kooperation suchen.",
+    "published_at_utc": "2026-03-07T14:25:40Z",
+    "hash": "f8f05b6ce52fe7bcdc7e94441f715224d950b9d14987ab77048217cdf60f9ccb",
+    "source": "rss:handelsblatt.com"
   },
   {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Stock Drops 3% Amid Geopolitical Pressures and Export Regulation Concerns - International Business Times Australia",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZGd1YW03Z3NnSUhjaGtBVmFRbE5kS3pxSVlNb0Z5ZUJ0WHhreWVQcTlkV3kzOExZWUc2ZDhsWG5xakdON1JtS1lmZlJFb1Zkclk4ekZ4ZXJieWk4UTJ3WWthcC1KUHVqUU9sQVZvOXYxSzdHN3BaeWU3S0NnV0NXbTQ5U2tSeWktZzJLV1NKTTg4QlAxQTBrSld3TUhYdEw4WnQ3MGM4NzZBbjhPTEk4?oc=5",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Drops 3% As Washington Eyes New AI Chip Restrictions - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSk02STljSGNJOXpwcXB0ZFo3VmxSYjNzUDlCYzh1a1VoR0loQ3lCR0h5aVFlNjc4djZ0c3ZycGkyUFJzeWxxV3RzNEhDWVExRTdPdVg0c0lsZ3E3MVlQazNpSFdEX0tUWkhpT1VjYXJ6NVUxWHd0OXNmUklmeDF4LW5tMzU3akdkQk44bUdCajU4QQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-07T13:24:43Z",
-    "hash": "165fb101681e98cc1a8abb92ed25c377a9635a89245e0e6b17488b7e3393b9fa",
+    "published_at_utc": "2026-03-07T14:16:24Z",
+    "hash": "9e566061c17fbd2f8b8e6fc06b2ece700917cec614f3c0f34f4bd2288fed0deb",
     "source": "gnews"
   },
   {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "SPX Gestao de Recursos Ltda Purchases New Position in D-Wave Quantum Inc. $QBTS - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZW53clhLSjNYWG9IRFhqZjFPMTBINnU3czdZRUhyNVUzRFB0QjBWalJWbmxLdEsxYUJ5d1NyN2RBRkY3NUhZSnVkRnJSWnh6bzBtYlN3eEd0ZjdZR29JZTYtdEVFZXJwUTA5ZXpaYjNIdTlUWjc2aV9qczY4RFo4a0FweHFHSkwyc3QtMHVvWWhoS3NzVTBqNUdUU2lqZUlQSHBDZ0hxb250bTY4TTQtY2h4U0YtYVpIcEZjVWtzMFgySmZscmxrc0xlZTYzcGZuZi1jNg?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Nerves or Routine Rebalancing? ARK’s Flagship BTC ETF Sees Near-1% Outflow - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUGVBVmMzajBhb1VzM25HYnhWLUpfMHlvX191NnJ6ejdFbVdSdzhYZ1cxWThCajQzNXRVYldFUWw2ejNRUXJzQWoxSUM4N0txdkVScTlZWW0tN1FpNWdXdWUzSEJ3UmNXeG1wcU5PcVhQYUVCa3I0d3hwYTNLUXdQdFQxa29sZnYxTmgwVkVlN214Sk04bGkwa2hfS3NmN2tMWm5qV3Fwd3JXZnJMSHNkMkJsUlhYMnhuUk5LVVdiOXRnRWtk?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-07T13:17:00Z",
-    "hash": "668509324b64d9afeb124d30e113c33d1edc720368b8417d54847af6b0e95795",
+    "published_at_utc": "2026-03-07T14:12:27Z",
+    "hash": "34e9a525e81019181fd7f2355a03903629b2db1eacc7ec5e4028fdd884afe4ca",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "42,400 Shares in Rocket Lab Corporation $RKLB Purchased by SPX Gestao de Recursos Ltda - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa1B6bzZlbVplcDFVVW9DdWd2dnkybEljOHBOTXV1WTlxRWNnakpVY1dCa2pIUzhOZ0ZBVnRoYXFfZll3cEpHb3Z3ZWl4cWtSWkR1enI5OFBjbi1zNm1JZTQxZUxfNXRPdzFocXljYmdaTTc3M3M5YWsyTlluTmRrNldkcGdpMDByWHhfQ0hDalpycmJUdDhVRFJZTWtHeG5JbTB1Z1VYZ1hjWDRsRUpzdVQ4bHV4MkVBWnFCTWtIOTJpVHhraThEbmxOY05PNHd0Vm1KaGlpT3A2aU9FNGc?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Investors Hit the Brakes on Bitwise Bitcoin ETF as BTC Slide Triggers $46 Million Outflow - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3JZU2NMWE9XenRGX2dwc0JFWVRfbVhTeFhpNDRkSEJoWXN3Y1RTd0Z0TlRtM0VXckJsTmg2SzBLUGFvOVJXaGhyU2o2M3oteUZ6TTlHQUNQaXZNYmNBcnpTUTllX2JjV1luUkgwMzhRbTU0TE9pMnlNRWxHZDEzbmxhbEROdVYyNG04aWFZWFF2SG9HajVOQUZpYng2UERBMFNDSkFNMFhaWG1tN0RKUHNXTVFpUGdVVE9jMGFNTmdwVlIxUXZHLTlhTWF6UGo0?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-07T13:14:58Z",
-    "hash": "685e6b0fe5a5592caaf639af5a17db9fd3b644469de2f48c6098d8548e884561",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk and Hims & Hers agree to partner on obesity drugs - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWndycWZPbHFydWJxX0pKNDR5NGNBT3hXZWwyM2s3Q2M3RTdLd2trRlg5Ym5VY1QxeXhjQ2duTGdEWW5WbktSMUk3MGtvcm9XQ01Da1M3V0ZPYkwtWkNERXBsNmh0aUk5SEJ0TVNGZlY3S1Q3VlppV1JwZGx2YVZtT09lclJoQmtpNGJ3QkFYaERHbTloeGprUEtTRk0tRnowZE9WZ05yTG90MTRwZHI0b3N3MFd5d004SW9fQTZiaWw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-07T13:12:37Z",
-    "hash": "cee493b4dc220958a5fb79dc3f9a51319d52eff237236c5a08f9df93fada5ae4",
+    "published_at_utc": "2026-03-07T14:12:26Z",
+    "hash": "565f8edfd84ddf5055bc4897ec7bf84133fe214cdb967d100247cfbb9682cf12",
     "source": "gnews"
   }
 ]
