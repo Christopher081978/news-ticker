@@ -1,282 +1,442 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Is Nvidia Stock Your Ticket to Becoming a Millionaire? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTGVmVEh3QVZseHoxemMwLUV3TXkxR3ZxVTlDRUpDZFJFMnN6UEtrT0tkWEMyR2dFaUYxYmlTN1dGcGx1Qk1NbE9WdUFnVWloaUxvRzJkYmsxQ205LWtISVBVb0N3Vjd4VGp5eUlqTksyQXhsTUpOVWd3SUhDVDVoQTBKdHZ0TzZXWFNCeTBoaDZYS0w0dllXag?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:52:31Z",
-    "hash": "5eb89bef3df46c30e2bd08feac9a795dd16c1ae193f0f48687608ce2705b7c4e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Fort Sheridan Advisors LLC Acquires 8,029 Shares of Alphabet Inc. $GOOG - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1VtaHhmOGJJWko2LU1QQzFBMEVIR3ZhdjhfUTdUZWVXYVBSd25wOFpCemRHamMwR1VJWWhTaXplNXpCcHI5cEp1NXp1Yk5xcWVzeHFodkJibEk0UTVNSE5EMS1QaUl3blVjZVAyT1NUeUtPaHkxNU5RM0RoMng4c3hrLXVrZ19fQy1PSmhZa1h5U1d1NHhkU1ZSeHY4elljbUZ4clhaTzE2d3VzWTdRM0hleWgtdC1ZY0tRalg4Z2Zsa2pPMUZzYQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:52:02Z",
-    "hash": "9dd7f601921969f3f6f8cc79dfe3439e36140acb57826143970d520466d9ffda",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "BTC USD Falls Below $68K as Oil Prices Spike: Macro Shocks Hit Crypto? - 99Bitcoins",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWpCUU1mN3FNYms2aE1oUXJMLW1rYTVnQXM5MG11NVROOVNCbGVudTlRWERCWWZldDc4Unc2c1VoOW1vZGZrZlJwSmFJdy0yN2pVSkVzemowZnZJU1ZlS0kxXzJMOGpuQVgyQzlTdmFud243ZV9IODB0eG5sVHhkVUNuWE5XUDRn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:51:24Z",
-    "hash": "bc1fb1af25cac4127afc818b32a74a0f2bdc997281d1c6efb191df2b6c4fd48d",
-    "source": "gnews"
-  },
-  {
-    "asset": "JD.com",
-    "query": "JD",
-    "title": "JD.com Q4 2025 Earnings Commentary: Solid Core Business Growth, Narrowing Investment in Food Delivery - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTN0dVlCazlXSXNHSDhoNWFIMDlOY1BWVUI1Zks3a3pkU3dSdW5Tc1luVXZvRG9ZT09GVDNiNnY5bGZpUEVISTJ2aEJsR3d1Q3Y4YkQzM1R5c1VIMjVQTzdvWnl2TFowZ0h4Wlc1UWRWVUJERE5TajV2dS1rVFRKZG5zRVRReFQzby1TN3Nham43dUQ0RzNzdDUyRzhSU2YwRGlrQXJIREw1VS1HZzd2TA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:50:23Z",
-    "hash": "44f8f31a11a12fedba368d29a5d98eb16d06865118d4fecec325bd2e7c44375e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Bitcoin USD Dominance Drops to 58%: Smart Capital Rotating Into Ethereum? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWI0YUJFV1RSSDRWeDhyLXlyb1gtNm1HVW5MVnBpVmsyQ2tNbFZ0SzRFUm9mcVNHUnBYcHdTNktKSU8tc3F0QkRxalBNX2JsMmdsSEJjZWlZaWx6bzlYS0czQlVTNUJja2hnc25wbjgxY185UExzaWpTU01vVU5uN3UxcVBtT1Joc0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:45:04Z",
-    "hash": "ec032d035a55d4536594dd5d9bfcf499e8e355893d4432ab3d63e748aec403f8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Bitcoin USD Dominance Drops to 58%: Smart Capital Rotating Into Ethereum? - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWI0YUJFV1RSSDRWeDhyLXlyb1gtNm1HVW5MVnBpVmsyQ2tNbFZ0SzRFUm9mcVNHUnBYcHdTNktKSU8tc3F0QkRxalBNX2JsMmdsSEJjZWlZaWx6bzlYS0czQlVTNUJja2hnc25wbjgxY185UExzaWpTU01vVU5uN3UxcVBtT1Joc0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:45:04Z",
-    "hash": "ec032d035a55d4536594dd5d9bfcf499e8e355893d4432ab3d63e748aec403f8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Morgan Stanley Upgrades Novo Nordisk A/S (NVO) to Equal Weight From Underweight - Here's Why - Finviz",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNelNNOWd2ckU4VVFuYVdhU0I3QzVvcjdyNEY5U3BHcTJmR0k2al9McjdLcXY2NDV4ZzN4bkVwa0NNbVR2aGZQYjJTZTZwS2diZ2NmaGQ5TnhiS25wdkhDblhleV9DY2FOaUR6UGdYekxNMEtuN3RjREZZWlZRbnZPMWN0aC10TXhpU05EMTdsdzRUeW1DOUFyNVgzNWFJSXprc1Q0cnpGZ2NLVktvMVZBOU0yR3l4c3J6?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:42:09Z",
-    "hash": "05dd43f447ac1a070f162ccf054fc839563066a650d2d595b120bc154610af63",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Just Delivered Fantastic News to Its Customers. But Is It a Buy? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFdhMUdETEJZNjVPOXhUTHRIdDlEWGN2Z1QxMk5BckJWZjlPVUJ0Yl9LQm5YcDNnS2lWNmJmYUZKS0dIWlBhS2NCYklrcGZzQjR6MG1hRTdWbThKWWNBMGtFTXE4YV8wSHlSZkpNbS1NYVRjSFFJZUxTNk1QYWNGYXFmYUV1VXAzRGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:37:30Z",
-    "hash": "2ad65627738e21c1925d670fb437225e1e802b21ee4faabcbe3345eabbd6783a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia-backed UK AI firm Nscale raises $2 billion in funding round By Reuters - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOanFwQzBKeWgxQlg2NGVnUlEwQk9Kd2NWaWVueF90VldHVXphSndtdThHZjRjOWRaakRNOTNLNWpkWWlpM3hKZ1BsQWVFM0FLMmZkOUF1SHB0RDM1aW4wSkVMd2hNOWFmWDZMZTB4TVkwdHZwTC1CZVhiQnpBRHVhVlduM2JNakM5WXNzWWQwNWtTU01HTFNSM0JrQTNnbUt4ODZ4SEo3eEdEOHJjS3IxQ05MTDEydVFwQnRqNlVn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:37:22Z",
-    "hash": "206de230694d9016e394253444c5f5a68936cd332b6f7727b6d0084495a39be0",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Just Delivered Fantastic News to Its Customers. But Is It a Buy? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1Nhc1MzX0tfWGV0MTEwOGNIWVFUb1BqRlFUX2JGU1FGbkRnRzM2UVdOTWtxd3VXeTFuOXZMYWk4NFdQSTFYamJhZDlhaC1FTXkyOVRqQVhBWlJzLW5SOWdYbHFJLTlDWDUxR2pCMTVjeEtVYW15a1RBcElZU0Q2Mkw5ekJQLUpPam16TDJfWFFTcVN3aWlHNw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:34:50Z",
-    "hash": "341574ade88682c8080ab046d63da4bdba3f31066ab6dff706e624e43db02aca",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Stock; Slight Drop as Samsung Ramps AI Chip Manufacturing - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR2NGR0lTT3pBdElBYnFGMTB2YWR0cXZnREJTWnBrTms2dDBTLWV0XzdTMHFnTU52N2dWT05jNGwybGNHaVpYSEpGUnRBR3o0Tnh5bUpWNWwwV0dndVFxWVc3SURpSkh5d1lvTDk5RlBaZmE4LXJ2cjliOTAyNDdvWFJUUVVtOXRhTTg3Y29FMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:27:23Z",
-    "hash": "c4f0cad556bb263447e6ce84205c0d2d5480bfa6838efc12334c264ab225ef29",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet offers CEO pay deal worth up to $692M with stock price, Waymo incentives - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczRWWF9XX0p4ZUE4UDVrTzFjTzN3T3FsdExDQUQ5UTYxSlZadVJMNHh2YXhHajhUd2NVMUtJUkJ2TmdvRTBSdlNMdVh4UHhhTjhZVndTT1dXcUNzQXA0VUFUeXlRaVdhRkVfTFRBM1owZUFHNG5uWUVlMEFHcXIyYnNwUWVpMk1VSmJsQkEyek83ZVpUazIw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:24:27Z",
-    "hash": "cedb8f0b39d49482ea02332b778ec4b400fe06f463ab2dc1d490ed34d22b469c",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor Manufacturing Company Ltd. $TSM Shares Sold by Diversify Advisory Services LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMWlBN19tWE1WaXh0MWwteFNnU3JncDliTDV0a3J6M0hmVUctdnFpdldHaVZSemFxM3ZMSWJEOEkwVldnZUNzRkFSMm9WYXUzbndoT2NZT0RIU3ExS2t4MExGNDRFYVNtUjdENEZSbWs5c3IzaWM2dEtPR3NfZWEzNms2MDRQYUM4ZWtWNHoyeW9hLUVGUXk0UHpwRXc1bmdEVTA0NkdZRFJqMDJFN3lEY0VGWTFhYXdwcXBnM3N6VzEwQ2pLTUF1TXJPVUFGVTFYXzdkZ2VxYkN1WXVpeUxJU3pLbDBaNXk0aTE2UlMyMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:23:44Z",
-    "hash": "56a60d90ab2e88eb33036d4b6e0a6925a667a667fe6eecd14ba6783c1d1bee4d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Hims & Hers stock jumps on potential pact with Novo Nordisk (HIMS:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT29yY2RmbUhKUTdtT0d4Z3Y5MXNmNi1rVEtLM3AzdGluWk5RcEdic2ZONE5aR3NIa2VNRXB3djE5d3J5bHExZUstdF9PaUZxNmN3THVWSmhCc0NFVWxTLW5UN0M2dHRGQjVhZnNtRmhRNGVHYjYtNlJzQ2R4alJyM1oxZkJ3RzJwWjVtY0FyWS1IUUloaUtCNjNBMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:22:56Z",
-    "hash": "f9787929a80aa8e45d8f90f7261c78c01080f9c4b2625afce7499b55371dedb4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Is Ethereum Rising Again? Binance ETH Volume Hits 6-Month High - Analytics Insight",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGh3WjRrSlFUbEU0bXg1Nl9TZHRGaUg1eFVka1QzejlwT2xxODJlcWd5VkgyQVZEcTZyVkFlVnEzOVNNSDVrbWV3VU83bXZ4ejNMY0w3Y3BMcEdXVF80eDNLblBpM2NXejdDdXZJczMta2RFZmduczBIVjY3Q0dPUDlFYVBIYXNWV2lGQ1Z1M0ZMSnFnbW9xS3BzdGczakM1TXVSX28xc3hRUnZ0c2Y3SlpmOE40VlNkOUxpYlN2R2hTUC1NblHSAdMBQVVfeXFMTmVoOW1XYlQ4R2xldGZtUFBGbHVfa1Q4cHAwdVBqaE1JTHp1RnFRMUl1REpaMVpYYzdOQkx0anlwWklhb0hyV1JfcmU0bUJJUE82VklVUGdhMTV3Mm1VZ2syanc5ZWVjS0p5a3RnTWxsZVBydjhCVUM0aDFiQ1JfendYOGhLMUxWSmxhNTVWMVpRcl81Q0x0ZnpLR25GZ0xBeWg3dkpsVFZ1VTZFUjJVeU9qalZja3NPc3VXcTVXbHdZY3lRQlFkWFFub1puajBhcGpyaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:20:29Z",
-    "hash": "e111d8d4ef716294521f44994a4bed7b7ddb9a8ba6f719c398517bb74a91e60c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia-backed Nscale Raises $2B at $14.6B Valuation in Funding Round - Global Banking & Finance Review®",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFk5bXh3S0tFcjRPMV9xbVZOWkZPSThwT2hBN05uZkdSX292X1A1WUJkM2dZcnFNLXVWWmJlRFpoWGYxblhxck11bE9uQUc3cUJjV1BKdk1WVXZnQVJDd3J3R1pMSjBpLUpyQ2RMbXZDamtXMmJVQXFReThwZ041ME5jRm12cFRWdWd5NWFyeVV5Uk9SN2N6el9aZllaQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:19:45Z",
-    "hash": "877f66417222991f34ff58da1217ccb2586a22b08fc2284d15a232ff24423d35",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall Completes Strategic Shift with Naval Acquisition - primaryignition.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDFCWXd2cFprYTVrbE9yZzlQTXhIWGtKeTlCN2RSQlRVT3RGRWFaSGVycE5FcWl6RGw3VjdOV1lpdFFyc19XWFlpTDlFSXpiaGRUWHVLNVlFRjUzd25aNXYzUklvektINE1yN3VDMzFmNElyTkwyNE5ObnlGY29PenFFV3g2NVhFQ011aE1KX2Vsd1RGclB6M1hnTWdmdl92d1E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:19:12Z",
-    "hash": "2bc41d9cc6236749448251765f4182663b9f4ec069374f9bc886f51c5b149f86",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Bitcoin Price, XRP Drop. Oil Prices Could Dictate What Happens Next for Cryptos. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQM3BENVFfb2lRVnRWRDBtcmlHRTVDSUxtUzFxdGYtUDJ6ajhjQU1fZUNhQ2Vhd3cxWEhla1NEVzdpTlZnNEZpV2g3bHRxZU1fSE5UNUp4UGRxT1JmS01PbFJ5Y0xtODltQXBMVnFuNlJGNER3VVk3bjFkLTNlbXJmUlVuTFoySGNHdVFEVmk3X1JLcFNXRk9ubEVpM2prQ05BbUM0NVJIelp1UldWcF85ckJVRDYtZ2NhM21HN3JRWlk1akpNWjFkVHJhS215TTdqcVJkNmlIeTZxSDI2UzJKaW1BVk1YLUlQQktCV3J2QWlRRWxtYkFLd1pJeGJmcVA5M2NxWDNjVGgyMmJvT2drd1hnZnI0Z3pDSVNTU3diQTlfMUlrRUpJUm5kYTZMRXhJM0FLTWFqLTRjSTlHTmVMckdNcnRETTVsODl1UjNrZkpya3JpRDhKRUFLWFZ4OUNqZUV5ZDF2VjYxenkyN1F6NFd1eG9FcGZ0eXl1YldqWldGTFJCbnA1Vg?oc=5",
+    "title": "XRP price prediction: Can $1.35 hold amid massive 400M barrel oil dump? - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVXpyTWhpUDZRVTJVTC00WDFNQWxNTVdLRjgtdzM2R0dDblhpcjBCb2RFT0d2emJNRXM0UW43THF2cWUzdWlBTmxpdk1mMW1aTVRaVFc0bFhNTWZ3cEE0VGMzQXJRc1J4TGo0QllfaF9XYlNvY0IzZVo3V2YtSkpqdg?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-09T08:16:00Z",
-    "hash": "c7661375d8d16c2a4565e61131874e646fee831deb099db3a8ea666a3fa1c279",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia-backed UK AI firm Nscale raises $2 billion in funding round - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaUM5UVE2X1o0YjduU2Zja2dkQzhIaDZIQ0MxUDVTM3ZGaF93a2RuTW11Q2lwWE1Ta3FQTF91djdjRmFXRkdGenlPclJQeFZzalBQamoxdVJ2VFd0VXI0QnJtd2tuRV9GbWthdnNqekpJaTN1VVJuMnBmU0lVenBoTlFZajMxSm9qanVnWkJLUHlwQjVOZDB3cDFacGF0bWRVZ21tZnMxTXAtS0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:15:12Z",
-    "hash": "4134228ae4dd31fabed4f10b1a388455920ac12c3fda71af93287c7b05669075",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "BYD’s Strategic Shift: Accelerating Global Ambitions Amid Domestic Slowdown - primaryignition.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVBwMS0tWEZac3lINjAtdjZDLWdFbjZWOUhkeW00WmNvZGF0dkludUwySGZHa2JOTHZWcHFWN3FNRC04VXBhQ25JMFBpX0RsWjBMd2tDREJPTFpLQ3RYclZLdkZTYkFuR3gySWJCRG85WGRZeWF1dm00Q1kzUkotLWZlcjUtQUJ4U2ZTSWd4WlY2MUNYQWRNOS1kQXFVcHNfaF9PbUlSdV9RTVpiaWJUWUFzcw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:14:26Z",
-    "hash": "a3b505238c05ba1916de95f4403639e593a33f9cfc33b92a3b480b84a573a7f7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "First Trust Advisors LP Buys 96,040 Shares of Robinhood Markets, Inc. $HOOD - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm1nTDh5R3IxS3hmMklYaXhJRVJyVFp3VFZOQ1JpMDJ6eERjVlprTjVvWlBPSTZVV0VDakNIaWp1NUVzUkkxMGtXMG9tY25SeFNoQmVodUFSNnVNaVUxWXZMRlV1akc2MzFlVW5iVGxOenphWWtwVlFuXzVXeVlmSFNCVVlCanVpbTB6VFhUT1pRRFZRZmtvemxENkk0NmczdmZoVVNYbjhXSlB0OHRja0FUWVZNemlMMGNyOVNxZWs5U29sYWl1YVV6QTY?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:11:47Z",
-    "hash": "d258254e765065ae070a268deb6bf3d9451c357ac6f0bb5d77cf6ef1ca8966e6",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia-backed UK AI firm Nscale raises $2 billion in funding round - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSkZVUmVfbzVmdnZkRkhwb0I2UFMzTlIxX2hnSTdmMk5FWnVYcjFDcFFvNHhnWDVfRTh1THpQMnNmODlmRXlTcWZ3ZVZ2VFNIOEJxT24xdEpmSWdCRHgzSFA2Rk5TRWVFeFdIX3poVGw0LTd6YU5uMDlLNkFEM19qajJ5VG9qQkFIWkFJajNHRkJNY0F6Q1VoNk9oTnFCSEVXTEd6dk1nZzF1V2I1RkMzUnZuYnRTZFkxT3VnREI5NFd6Z0xOMVpibXdnSnFJd29D?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:11:32Z",
-    "hash": "2d598e34a871732d187d4cb527dcfb4546996f6db6802f99b60b22b27769e7d0",
+    "published_at_utc": "2026-03-09T09:58:50Z",
+    "hash": "16f77d8fe9ccde430d064a4b62aa07639c76ca0e4397b7b5f57ada166de9c1ab",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Bitflyer volume surges 200% past Binance, Coinbase as oil spike sends Nikkei sliding - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN0IxWk50Qk9WMkoxTXRmSHhPb0JNMmsycUVJX2VWY3hVR243NktHR2YtN1o0ckVwUHZSZWZfZE1ZRnI3cHg5ZHVvTmIxSWxYTFY5bWVCNHZDLVB5VWNZTmFSX1ZEX1BEanN3WG5ZaFlDQzVKNEJJdnNxRHFQMElicTVzZVg0VU9rVXh3VGRvN2VrTlNNNTZlVFNWcUoxRTZnbmlhc294S3MycDVHZkZQODYyb3J4eHNQYnhiQUcxaFN5ZFlB?oc=5",
+    "title": "Coinbase Rolls Out Regulated Crypto Futures Across 26 EU States - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVdhb2FCZTkxQmFYNWV2ZmRJSVV3Q3RmQXQ5WUZXRjJVV05Lc1Rrb2lNZEtjenNPRi01TUZ6cklGWXlPN3h0WEc2aUJPdWVsMVdKUGRwSHk5THJsdmxwVDlYXzFwNVhtTmdRTm90TGZMOHNJX2dJX0ZLeEhqZU9vMHg2TktsYWZrcGlCblFILVNDUQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-09T08:07:08Z",
-    "hash": "565db19b4063f1a071daffaffac00c106865c7bb69d9b0b72016b55d560d0d49",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood Bundles Shares in Stripe, Revolut, and Oura into a Fund - Which Gets off to a Poor Start - trendingtopics.eu",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmFYUzZsTVFwOEhUR1U1N2JpbnpqSjhtdWFVVG1XMUxVZ2VnSVFNWmVpUDNxaXU2aERxdlhNc0xaTHFHN2RUX3J3VV9mRkFlbk5QaHJLUXRBSXlDd1JEN08zM2MxMm9TVHJpX2xBb1kxQno2TE9mMDBlX1JNMmVCQ2lGOGp2OFpqbjZRbXJ1YVViZzRnQ3RUMlNCYXVUeTJYM09jV0VleXFCYXk2LURCRHFqbERvY3ZpNkpBSnVXUTBtblE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:06:18Z",
-    "hash": "5d2eb3afd3bef7e4bdc3e02d2ea686d45a187126421460dd850ec3a8b03416ea",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Hits $1.32 Low But RSI Offers Hope - Yellow.com",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSR1lIZHZKNzkyZ0JYODJlMjBhRkpabUFXN2dpY3lwLUduZ29oaDVpdDhIT2gzd0FLYUdCeUx5MTVJcEtEWlZFLXY2ZmRpN0NXWGZSc25JcDlqRFp3cE9kbGV5bzVIUEpnMGxVMEdGMUNHQVZS?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:06:00Z",
-    "hash": "ca07210e1c8d6945faf1f799f6d787100ff3cdf68197782617c6335f43a4ec62",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Google (GOOGL) Stock; Slight Drop as Talks With LG Uplus Progress - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HQ01XVC1odEVTblZkcGN3YjYyLW50Nm9MSHAyRzFSbWExNjBUS3I4d1pjbHFZNHVFbkVJQ1czUm82cEJoaERFTjZhMmhVZFBXZFRMYm5ZX0xLZUt2N1lZallfZUFXRnZKZnVvb29LZmtxV1ZYRUtKVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-09T08:04:39Z",
-    "hash": "1995da1058ebb13c7674b370da1f0f1944c233b6c53567b294b3e49d16688316",
+    "published_at_utc": "2026-03-09T09:54:22Z",
+    "hash": "1bb1a35ee1b56e64de13b9a8ba8a3a93e34f86397db2056edf7a0873bfbf5fbf",
     "source": "gnews"
   },
   {
     "asset": "Siemens",
-    "query": "Siemens",
-    "title": "The Siemens Conundrum: Record Performance Meets Market Skepticism - primaryignition.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOempOZWk0Yy1DbnZjcDNKLVZDT3F2aUU1bWNib2VLV3JEVDJKaWpmLWdSTjkzWlhuSjFzR25YRWs2Q0lFcDJlWGlWZmg3c3dQeVVvS3VCVWxlZmxueDh4WnZBeWM1ZEhTZHNlX0R3eFc5QWFNc05YTG8xSUVLLUR4eklVU3BrS3lmdXFselV4LUNDZFV2Zlc5Y1Y0dnpQNnVKSnMwWmJXcw?oc=5",
+    "query": "GlobalFeed",
+    "title": "Dax aktuell: Leitindex fällt zeitweise unter 23.000 Punkte – Siemens Energy verliert stark",
+    "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-leitindex-faellt-zeitweise-unter-23.000-punkte/100206722.html",
+    "summary": "Der Preissprung bei Öl durch den Iran-Krieg belastet die Börsenkurse weltweit und lässt den Dax auf den tiefsten Stand seit Mai 2025 rutschen. Die wichtigste Frage: Wie weit fallen die Kurse noch?",
+    "published_at_utc": "2026-03-09T09:53:21Z",
+    "hash": "4b8a5a3b9f99fc8e649970626d2db047cbbb76904b30aa9dd3f168fe99918944",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "FTSE 100 Index today: BP, Shell shares jump as most constituents slump - Invezz",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajY2cVZ1WjFnWU5YSFlhYVp1ekhzMVlUa3lrRHkwSnVYcTBidHN0cEtNcENxYmlld05NVVIyZGk3SFNyRWNLWmFPNktiWkloMjB1eFkyUkd4WFRXS3RIeU9sNVpuTkRyZGNYMm8wb1ZNamRFanJfZUtCWkw2TndwRVJ4ajRBQV9aWWZuR1FfQzZTSVE3Q2c3YW5Nazl5S1RqNWd2QjlpTQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-09T08:04:24Z",
-    "hash": "4ee7a1f975f962185955322d7cc7b28e1cfc6f880d059f1f3fa0e8fc1a4ac11b",
+    "published_at_utc": "2026-03-09T09:52:22Z",
+    "hash": "9dab27fbd9c895be62648504f4ae23be6a6fe951d1f00b898d9cb59985047bb0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP price today slips near $1.34 as oil shock unsettles crypto traders - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObE51M2RyNUVfZHJLa252SjJ4UzVRRlJHQ0hlOWduU2RGTkRES1FiWGlYYVRJMG84NWFSdy1QOVJkUlpqdlBWdUQyLU0zOENOdkxVY1FndE9EWGVMWjR0UllRanlOd3N3Y2hHWTM1RkRnTGhCdHJGM2RfMG9fNWFZUkUwcmdmWV9TdzZwRE1ubldWNHpF?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:51:18Z",
+    "hash": "834cd4b3519fb96b88ca606f1095d0c3b2105e9a4077b8fd059bd7553aba98c0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Grantham Mayo Van Otterloo & Co. LLC Has $20.76 Million Stock Holdings in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV3R2bmpVMFlFZzFUZlg0ZHBWcURsUUNOcVdGT3h6Qnh0ZUtGQ0t2VWN0TGFybnJVNUR1NzRVRktPLVI5RjZ2elIteGxaMDBtRl9CcFJyNTRoVW1wbmFpR2lBUWNOZGRXYzBBUjc5UWxzbnM3a1dpUldNMDliaHhEOWRubWlLSjgwbVV5NmpiaHg5cHR3QVpIaktIcHozNVpLZXpUeW93eTAwRnZaZWw2YU9WZF9TLU9MV0ZRV05KX3Z5LVpmb0F4b3ZuMHVrN0QteFF5bmtYNHdQQVJqbDBfSw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:50:20Z",
+    "hash": "674b22266a0cce2aceeb306bb01dcfb4f55c8633690fe353b31e2c847bc22913",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "HUB Investment Partners LLC Buys New Stake in Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaU5lcTJFeGROOHRvUGRtYzZ3cjV0N0pTNmxRWGI0bmxTcDk2WU1LZUkyeGtuYXhPS1VqVV9xeWFvdlB5N1pvTmRsZ2ItSGlWRy1laXcteHFGeXR5LXpVdGNNSDlrM3k4Q2VSek1tQk8ydnNKSzhBbVhsalZwblR3eHE2MjZfeFZGRnkzNmc2SDl3NzU2VGppRS1WbGxEU3dSN29pSkV2b3A5RW05LUlsSElXU2dFZXFZTVUtcmwtZUhTV3ZKMTBtcUoydFFVSlk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:50:20Z",
+    "hash": "bac910afa52f77a9b336d76d9c1c112f68526a8a37864ba8ccd26dbca26d7d37",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Grantham Mayo Van Otterloo & Co. LLC Lowers Stake in Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWdodldCRHRlVkx6NE1RNFE5VV9NQ1lUYUZwZFh0UHM1YnpNdGdMTFJmVTJuS3p0SkFDSEUyY3NFZ25nU0hjZEY3X2ZFcGZscmlMTC1aR3U4aEZEdDVYT0pYaWUxLVVIN2picHRlYXRsWERmLW16Mm1jbnJaM3J6Q2NVVzVfTmxOY2tndGRQcm1FbFdCVzc5QzJXS3l2dmp5YW1wNXUyZ1FXNVItSXd1am1nODJoN0Iwa1lORDh3WmJhTTdQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:50:18Z",
+    "hash": "8394fee88b4641cdb1adfc326d54e513d04a372c9ce830fcfb8862ca7ca2b260",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Falls. How the Chip Supply Chain Is Threatened by Iran War - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjlOV2pLeVJkRVpWRTRkSGtIS3JWdGhHaTIxcW1wUkVEVmhBeXRHTHVRQ2YtWGZOYUtteThhanFnLVdJQTVXYWNOUDVwRXVmUG9lejZ6OXB2UHpmb3ZDbWZJWGtXWmxkTDJBd1EwVWh3enVIZ0NGYlRldWpWZlhpbXlUd0lzRndUVjFIQ0NLQmZtQlBtZ0hUdjB4RmcyVUpT?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:48:48Z",
+    "hash": "691d1de14d2c9d6c07e3ea59f51a82b99a7b93c2dc9b6ff133659fa5701286f1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Why Is Hims & Hers (HIMS) Stock Soaring Premarket Today? Novo Nordisk Deal Report - Tokenist",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzAxZ0wtSjAwZFR1RTNiNXlkREtnc3hMeDVabjRfWFJmV1NKWndEczJ1dVVMWWlKcm0wRTl0UjhfNWlUTzZsX2UzQXM3ZXZtbzQwSF9pa056S3ExNUphSUszaGxyeEVwcnpqNjlUOS1hZmg2dGFKTV9sSUVnT1VDQm5aQ2JWSzdSV1dBMmFIRlBnbVJuU1JDRVh2SFZwX3M?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:48:32Z",
+    "hash": "13a8da46163105c48e9001b2486198c0d5a6895affd9bb17c9b5d6ab09e6676d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Hims & Hers stock rockets on reported end to Novo Nordisk weight-loss drug dispute - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQdVNIaEtEeWZzeURtZlBNRzI2djNCMWdBV1pIdmRPdFpfcFBpRExscVhIMkNrQ1NGQnk0Ukg2eUdSR1hMRFdQTlNmUV9fMDgzZnRHN0IxdXc4Q2dnSzFJSGVLaFhtcjVXSWUwQjZPRmRCTnlsdnZ2RXVoOWxTVEVLb3pkNXJnWkplb1A3SkVsYjJ1cVM4WDNzUHh3YzFTcTdmb1N0RG9fYjI1YWVzY2JPT2FzNEgzWW15M1k0bm1sSHNRYmFpR1hmbzdYTmZnU3JJNVNOVTdSNnFldzc1anZ3LWd5UEdDYl9MNVZwYTN2QWRMSjB5S0JCMW82NFBGQzVPRnRhaFVNLU0wdHloU0Nmb2dBMlJua2Z4c3JudDhxcG9IRS1HM0E1QXVtUDIxRVhnc2VYSFRIRHZRSmx1OW5xVXp1ZVRmUE9rc1hzQUxJRmhfLVJOSk9oNDhzOVdiaHc2a0d0VURGWVBqQU1kdEY2UDJZSHpCS1ZqR1hpQ2c2UU5WLV9mMDZiSzFrM1FhMmFobk1wU1RLZDFESVlDM2VJeDVCc0lnSTFrcFJXY01uYXlfTk03UHNMcVBudTg4UFU5NU55Znd3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:45:00Z",
+    "hash": "28388fbd3c4e6683b37e211ff92ef55371993bf6ee45a49b9dc7562172c163b7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Nigel Farage Invests in Kwasi Kwarteng’s Bitcoin Treasury Firm Stack BTC - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWHRVbms0R2VYUTVaSmY0N0U2aTU1Q2hadGNjTEk1anNSMF9mVmlqQ1RrTW1WWm5ibWpQSjNYMmZRUjZmSU5YR29vVUcxZGotWklkZk9LbmtjYzl3RWNHcXp2YVhEMy1TR2R3aXlrRnFZWG5WSGdLaTc1ZF9iYldVdzVXRVpmaXQ0ZEVmcktCM3BpUjBRU0JjT3RHNlczcWlGeXllbFQzVjcwUXBCZWp6MA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:43:57Z",
+    "hash": "1f2a69af83409f445e9e65d9d74340bf4a713dac21234d6682af28d90c438467",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Backs Nscale at $14.6B as AI Data Center Race Heats Up - The Tech Buzz",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWp1RGRfQktaUjY1R2dvSFJHcE1WTjFZU19wRXAzN0tFRDdPbUNWck95c0JjQnVicy1meE1tLTAxczhISkpfcmxRaUdWRmZzRHFoV0NCbm5DS0dZTDJHNk1UZU1hV2t0Ynl6SWVNU3B1STZHNVJjUWNYd3hSYUJETnNybV9tU3VpQzAwR0RNVHh0NnZ0clRxYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:40:00Z",
+    "hash": "50c90e3275803048e7f239d95b6f492ee886796764e40abcc9f86f488128d50e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Forecast: Will rising Oil prices hurt Bitcoin’s recovery? - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcGZqMmlQS0l0M0MwdEE4emFHQWZZNUZYNnk4NzVMT0U5MVBJWGJaWDFBd3pleXJpelJBZEpKQTliNGVrU3FHd1pENXZpXy1YbW8zbHcxS0tua19hQjRqZ3ZlcU1kTHFhb3B6aDFydzVVcnZHd1Q1aVhXNzhDeWtMaUo1cjVDRFQ3WVROcHJua1FMbmppWEF4Wjl3eHBfalRCVzBKTGp0UG9aVVZhb2tvREdXYVhmTUktQ0NLMnpZVDQwNGRGcWVJaW94WkJwSXIyR2dpUnZ0SDV1WnBfSTdZS9IB5gFBVV95cUxPZzJ5UTZ2YTR2UGlCUEQ3eUFVc09ZVERqQ1A0WHBHcWtTbi1QN0hDR2tIcE0yX0FCVVBNdmM4b1g4ZnNmRlNoa2VSVldpLTc2M3RNSXRNM1hSZnVNUGFRUi0wU2xJUFNSV09vVWw5NTU2SkZJdXFuR2tjY2xHZGYxZzNJemZhUXVLdjBEaDF2X2pBNlU3Sm5nb2xnTTBVQUJXZDJNVFQ4Nl9jOXc4TkNvSFlNVklPNGNnUTBTQmRmT19VZ09DUlcyNEJQV2tWM3VvYmVCXzRJTWRSVDMzbTA3Y2NVeU41QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:36:35Z",
+    "hash": "39050ab7d37578d60a34b57eb4d5b193e5148bae03d223fbc80a1adecdd4f763",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Exchange Reserves Drop to 2019 Levels: Is a BTC Supply Shock Coming? - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2ExRHNRTnIxMm5MZlVkMG1jUHp0UThZTVFsZklYWWZNUk8tV3NHVTU4WGFleTAzS0tJekRoRE41dXNQLTdlLThtazVmazJqSXRUTE01Qjg3dlYwQUNWRUkydE1LTnhWZDY0TVRyRGpmOF90aUVsRVlUcXc2NTJGdFJZVDdHczdWYTNVZzI4QmtEc0xGVTI5RHVzblh1dzBRbFc0QW9jd2F0Sll2ZUhYb05R0gG3AUFVX3lxTE5PZlhNbUhKcW9oeXV3UUJiTDZyM0U1aTRUQ2dHOGtLMkktdmNZaFFQaFkxUkdUZkVFaUxIRkc0WUR2cTBFNGVodnpWVUp6MWRCdUpELWxEZDlxaFhnU3BHOGF1UmVVN19GNlhRQTduTV9zWktlSk84RjVrZEpENERjdEFSRW5EVE8tR09CUHVPSGVyYW15cFZZWHQ1VXlDZUVFZWs2aTh0WFJUOUNtS09fS3FTeWlZSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:36:00Z",
+    "hash": "8bf8e74992095867b73a405c1889b4f5b47bb07dceb42d2e2bd299d808182dea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Nigel Farage takes 6% stake in UK bitcoin treasury firm Stack BTC - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0I2NU9uaGQyWjdpbHVnSEFZTnExNUtoNng1ZUNyU1lRU2J1N3JTRnRTVC0xSVIwTjM4N1F0Y1o2cnptREZhNTNkemdyVXRzYy14dFdkQUVNYmxKb2tGTzBoUUw5NGhXMXpuZlBjbi1nMGJ1WHlQemdnVklfNldKM2pOQWc0T0VzVEVTYnV2S0pnYlJ6R0ctWUJSTEdtUFpROGJ1blJsS3BueFZZWlE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:31:59Z",
+    "hash": "2819966c1166e2db9e0a68faaed5f481e6988521111aa013c30571e7fb4e6e3a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "Panasonic",
+    "title": "Panasonic Energy India Company Ltd Falls to 52-Week Low of Rs.280 - Markets Mojo",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmc4OWZFQjdBR2VQU3g4ZS1BMDhBNG9qUHdsNVYwM3dVS3lzZ0VDZklILWRrWDR5MHZhZGpMaTFrdTR1NWJBQnV4Tk5IUG4yZUc4T3ZwZjM4NlV4Y093bU4tWjEtdDFROUJ6OXRaUFUza1RkQW5jeTROa2swYWVZeE1sQ0hiNWp6MmVla255SGVnOENPbDhBck1LbndvRUJKdmxxM2tkbEI2R29PVDRmY2JNdHdUSC1GVnJUVGh2dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:28:57Z",
+    "hash": "bedcc16a0cde9c3d7b27fa8fcd91f3f40c3dbb9300a3351305ad7b4f457f930f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Hims (HIMS) Stock Explodes 44% After Novo Nordisk Flips From Foe to Partner - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWlBOdE10Q01KdVFvNmczN2tia0hHT1hsZ0Nrek5hRUZ2RnFHM0ZiY0V4cXRSTDRtS2REbFdIcUZ1MnBNWnhURU1vcldSLWFPckJFQ3QxSFJZdUNxdENGR250N2J0bzBJZHVqeVQ0dlBPcnVTVmdleEotUTU3MF9kc3Y3X3lzT04wbm5sR3AzV0std29fSFd3R2RYNDlaUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:27:33Z",
+    "hash": "9c5fdcbf93e7124815d040ec5fbd80d018c1492f4c4a4880551b05c7e998edc0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Launches Regulated Futures Trading Across 26 European Markets - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50ek1pNml6TklIeUR0WjNvSGdtUm9yRXhrQlNhaDV1WmxoYjZQdjA4ek1IR2p5SjVPbGsyS2o0cUNSdUJlOGltUjF1eEN5M1N4REVnQ1UzeV9yZFUxWjRVQll6ckxLd0xhQ2ZFaG05blNSdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:27:00Z",
+    "hash": "f72e817efc46b320790bef1973d39b7d980e5eaadf3ddd91370a62b39ae75110",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Bitcoin Options Traders Eye Rebound As Volatility Hits Three-Year High (BTC-USD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUkzN2hHVUt6WVlSWWR1czJBUkFyZjNyOTdwU0V0TUp3YUx3cXBuMmxPRGRhQWIxcTlpT0NOWFNtMTRsSF85dHFwZXpfUzhMWGU3bTR4NzZPanpXay15T3dCUDBmTGozek9CaXAwQWVHWkl0T3JiWk40ZDA2SDMwZTVYWEZ3eThYSUhUR2d5ZDhwYlUzalQ4blppMUNCMWVTVkE4ZnhYeTZaeVpB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:19:00Z",
+    "hash": "eefb3fec8d1b3cd545006d1b57eb9d6e442bd2f4359ef5fa0760c010b179affa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Michael Saylor Hints at Another Bitcoin Buy as BTC Nears $66K - Eudaimonia and Co",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeDlHbWppS04ydE1mWGFqLVFhT2VZWmJ6VHlsam1IUU1hUDR2Y3A0dEpVNnRqUFNnSXNCb0FWajR2YllaQWlidEJqZ0JhNWY3MmpHc25VQWdzaTd3UDdVMmVUcWU1MENidW5SLU9FaHAyQUEwb2VyMHZBZkVNd1FEc3B3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:15:32Z",
+    "hash": "6f61bf601d67a29642b747aad97f706890871994e4dd75ea2edd15cf5b366995",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Is Nvidia Stock Your Ticket to Becoming a Millionaire? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTzNsRGJLTi1KYjdHODd0RzZlSk5GVHdlUXlNT0ZzMHRuUmx5WTVKdEplTU5zek5IMTI0VE5mTWlNNVQ1UjJzQnNLeVBCOUpWWDhsYkNJbll2QUJuZE14SUVRd2xYMW9pTDRsNVlQY0dDVkZaQnljY1VMdzBwMWZ3aHRiQmpDSzRWd1VPUkplbDBpYWpsVy1yMDdObHcybk41ZVdQbmtuekt1YXB0dGpwUnlzem1NZEE2eThHWHNkcnc5Z3A5cEZ3VHdZRkNadEIzdzdr?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:15:08Z",
+    "hash": "a5be6bcbf338c88eb043263bf374ba5cab20c0046cb43d880ef239e56d1576f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Panasonic",
+    "query": "Panasonic",
+    "title": "Panasonic Carbon India Company Ltd. Stock Hits 52-Week Low at Rs.445.4 - Markets Mojo",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcno0TDhvWTM5cmJoS1FvMjJBaE9wc2xBdC1fZUxCQWtFWlZEQXVka2d3ZG5SRk5PbmdCUExmeU51UWlBOWNVUTVVVFNxTjRhaFNEUE1OeTg2emhuVnVqWmVyYWswM2FUYThGT3pzNVNNTjltTVhIZFRMTzllZktaa2stZURjdnJWX0IwNERqcEpycGVTN0JsakJNbTlhSGVhMS1qVW1FMU5MaGg4aHd5aVp1azFrZXJ6ZjY1enAyV3RSbkU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:14:45Z",
+    "hash": "f369b855aa5d23289f365fba04fd1d67fa7470a2599fd350b69c8019b18cac28",
     "source": "gnews"
   },
   {
     "asset": "BP",
     "query": "BP",
-    "title": "After rising 49%, are BP’s shares on course for £5.60? - The Motley Fool UK",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY0stcFpYSWxIWXRGWDJQLXpCakU0SVVEUnhIRHJvVW9kUFFpUVZtaUxzVVdYNlUwWGhDZDNJNnJ6NEdhbWk4SmcyQWk4YzE2R2VMZW1TSFl3ZkVibUVmQTNKTnh6OGduRFloWGRrSTVlZnpQUENKM29oYm8yX1VpRkZFblQ5LW9JWWxOaA?oc=5",
+    "title": "Stock Movers: BP, IAG, Anglo American - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHZ5NHNTVVBZNVpBb2pBQ1YwbGZlSDdiSzFqNlVHc1BoY2FlblhkdjdNSWdzOE9ZQldkR201eVBmTlluYWZ2WDBQTlJmUTFzcFRicnFDQzNvTTljNTNvdTc2X0Rwd0R3THZ1U2NHYk9UQjRoZ2hDMjlJX2tNNFZlSHlwT2UxbVlEellOaUJLT2NnNV80?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-09T08:00:00Z",
-    "hash": "8f59265dfd8ff878af75f18871f4dbfac978737d4cab1009a2e5ca0a011725e9",
+    "published_at_utc": "2026-03-09T09:13:03Z",
+    "hash": "25ad0eb917840a6d9e556dcbe79decb3edee8a573934db606c34825abf7a61b2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Alphabet Inc. $GOOGL Shares Bought by LaFleur & Godfrey LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnBJWkZWSmRhOEhrajgtZzBVamlMcDNkUmJIczNOZGZrYXpTZGpWcUREYVdmREcyUjFKeTVCbWpLMHBzWkFIQWNRZF95clVQT2w5ZEdBZXV2dkI4bWJDZDR5aE9XOVB6SEtVRU14UFJrVm4ySG1BdU5nQWdQLUdaLVppOUZ0TFZKMDR6bzlZNDF2S3dwd1VTc3d4SlR0Z1lEM0xUUTZmRUZYTUFqMTlWdGZnbXE1QUk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:12:00Z",
+    "hash": "269f4a308384c0277a7fc1758dcaa2f882cc02af9c6586f107e38a32c67b1c8a",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA Shares Sold by Journey Advisory Group LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWZUTV85TTBJa3MwWldQOW5LeC1Qc3V4aS1jdkNKT014QzVRc1I5YW9KM2xSNlN6RVBURjQ4ZXBCZnNJWHdieU1zQnh1ckVLZm8wV01DRU1yTjVmOTF2THBwTkNVTFZ1ZXJHaVkxQVh4MzVoRlh4Y0pSbERvQWJFVWtYU3M5eWlDSHg4cXZzQnUtUmN0N0UzbmhHUXBzTVBTNkpsQk9BNTI3UUExWFBUM1V6NEdQemdtVjNWWFNPcU5mN1NT?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:11:59Z",
+    "hash": "870af5b3b5bfc2e3bf2e5697806673ed5780705ff87bc6d4b3b0cf27f6410117",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Alphabet Inc. $GOOGL Shares Sold by Makena Capital Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUFScl83TkxwRm5rRTZLSDExa2FvVk9ZWThMeFJOQW1JaXRPZTZKaDd5b1daUjdyS1NRR0VzQVV4R0pFaklQUmlaN0F0d3liZGVweHBZWFE4UEZQcUxQN1ZldVNoeERxU19lZVE0aFBnVkJxcGFiQ2I1WXlQdzUySHlpVHA3SEZoQk5CZWluOXBNNldqU0JRanAySEF0Ni1zOXRCSEMyTl9BbnlzTVV5UkhPc2hIdlhtSGhCUURhWENVQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:11:58Z",
+    "hash": "7faeddbb742b1aca8000a3085c965af1c7d064d9164672e65570e9eaf766bf91",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Corporation $NVDA Stock Holdings Lifted by Greenwoods Asset Management Hong Kong Ltd. - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWWpRS0E3OUxNdUs0WEpjakJOU3F2WGtlSnVabmdKSkVoQXBnMTR3RlNrTUNSXzQxY1Rfc2pMVklJR2xiNGZORnN0X1Fuei1Pam02V2VhLTBGRG15MTNBVUZScVBYOTRRdE9HY3hvTlVjcjRiXzFtYmgtbEpJYk1Hc2xBbVM5MlJmLWZNb2cxOGVnQWgxWmk2c1Faai1SbkxQNW43bmNPWG1WVW9Sb1o4Q2FQck9XQUtQMmZYNXZQWld4cUdQZVVacjVnSWtTZ090MmFNZkp4UEdmMmhnNUoyQmd5MGdMUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:11:58Z",
+    "hash": "2efd905bb353ae9786a509b1a34f4ab14e3f4faf52f0b50a75bae76554ad3275",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "O Neil Global Advisors Inc. Trims Stake in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeV9jdk9SWmx6Q3hoTUtNanBTZjk5aGZCZjk2T3lXNGVHei1ocENFdDRQREJjcTNNQTRlWHBzSDRHWHhVR3k5Q1VVbnhhck5OQksxVkxsUXVOV2JJVGdDYTRaMmpDeE9VZ3VTcm9RMU56ZXZoRDdzQ0U4aERiVFFfRTlBLXBYN09vOXIwekVCTFpWR2RHbXcwTmt6bTZQb3BFN2VwR1A5SzMzVWN3R0x3S1V3M2lGRGZsb0E3SmNB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:11:55Z",
+    "hash": "498df6c4fc18c2a7c717411965cc1a46461e3d32eb10c02781e1276b9390421c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA Corporation $NVDA is Personal CFO Solutions LLC's 4th Largest Position - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX1JjZGxpa3VJUHNhTEFWYVU1c2Y4N19xZmRlSmVIRzI0OGthQW5HMUJhdkkycElJVjFVTWM3Uk5kRklLb3BNNi1CX3FnZjRrX3RjdWF5RnBGdDFCMmhMNGgzWEFLUnRVWm5ndHhqU1JHRFlmR2pnSFA4Yzd4NVFPQjhCbGF1WXNfOEhjOFA0TXJSN3VqUHFkTjhfR0tzRnVkNXBZZ2ZVNW43TXhDMWhUcUpyVXhvUnRlekJpaU1ZN0tuaVJHREgxYlJXXzVocF9kSGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:11:55Z",
+    "hash": "f42f65e51da68289d1f818f1c1c6baa899efb035bd65e1bc27b432c04783cca9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Nasdaq Lifts Bitcoin ETF Restrictions; Why BTC Price Falls Instead of Rising - Longbridge",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IX1puM1k1WGpsTVV2bXVna1g2b2ZJOGZ2ME1NU2ZhVVNnem1QdzVSekJmelFZUmNRSEREUkstS0VvV25yZG9zd25rRkpwQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:11:45Z",
+    "hash": "d5e4dab22c2eb7c1335a2ebee96a98907b0c9ef3cc836199ff616f90fc220a36",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Hims soars 44% on report Novo Nordisk to sell weight-loss drugs on its platform - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNazN6NF9kUDU0RzJOa1FDazNhRFEwcGI4SEhWb1pJSGIxMG55bTNvenM3dS1iTU45U1dHXzBRbDBmZ3dUUzlBYTBDdGFLWEFDdHNSMmp6ZzBIUzFuenZYQ2VHTEJ1dmNCbFcwNFdNUFpUMXVjc1h3WmJqTjFhZTBZNUZLTGU4SFVJZkdGVS1WYmMtX0RaeV9hTllJWVhyVENPYWRYUGVES0NpYjYyaWx2MjNQLUM0cm1GV0RldXFoa3U5cHoxYTlUQmlLS3hiU00?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:10:16Z",
+    "hash": "27e124bd4232b94462c2b73c3bbd8531841db2134f6d2016e8c56d9a66bb8402",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Mcdonald Capital Investors Inc. CA Sells 6,776 Shares of Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXJySHJwUXNXbGFxV2NxZlh4YjR3eEtramFVTHRTRFlwTWhrMUNzNlROY3B0Znc3cDNuMGhsLUZZUmZWcTZPWUVaVGM5UUhmbE9sbjRHNFRaWVY4bGgzQ3RhNmpjNEdtMmd6bXZYcDhTSHBuUlFlR0dPdmJzanRCZHJjY1NuNGRQTXRIeFhyRlVveXpNdU0yLTJNY0NqQ3lTX0w1NFBaTFdNa053LTdWWXRFQUoyWFZvamNGQ3lVMWRCcUVJM1pRTlg3RFQ4REk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:10:16Z",
+    "hash": "3bcee0100f0be36505dcd594b79509225913c5e04b04a3a64aebdbfe92ffeaef",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Princeton Capital Management LLC Reduces Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeW5GVVlOdlNSSjNoRmQ1Y2JCTGlTdDdkTHV6ZUUwaTNmNnNWLUI4Wm9YbDNJMDBobU1BVU5HdHpubUR2OU40WlJhS2I0T2lJOVFGVHBFUm1QSzZwYkM1Z29jdXRCMUQ3SVh1VFFmWWtfNnBLMkVBSWlSWjJqSDJtd3hrRC1relg2YkZMZDNjd0hYYWlHYk1LUS04azFnaGZyRGk3VUlrU2s1WHYwUVhOWEFNOTJmQlVQMW10a3Z0VW9CRjJmWGV1UEtjbGxvZTFtLS1RWFpNbnIwSjA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:10:09Z",
+    "hash": "fa00c12bdd2f6b5c859a15ec67c619552ef5c51399668bffc495b98d90ec84a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Payden & Rygel Boosts Stock Holdings in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM0lUNi12YzIxSmN1Zm9CeVdGV2JEZzNtQ3FiRndYdXBqWjhVV3N5SElpY29oQmpMbWZVUlNHTGFaY2wzcm9UbkFIemFpbXhTMVkwQjhRMF9vYmYwSmk3elpLenRWLUVMck9EdEJIZlBUU2JLYjdlVVFObkpaQVFkZERWMHE0TVRoNHd6UFBtM0h1Q1Z2Qi00NVE0RHNXYXZSZU9YRWtSODFqUnBGWGxTbEoyRTZvdGVU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:10:08Z",
+    "hash": "8ff747b553b4fe81e9e72595c85fb99e034b37094782950baefd90eb6cf1b916",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Notis McConarty Edward Sells 5,629 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUV9xcGVQU1ZtNzE3UERuM01EeVRud1pFaktGY0JvRmVOZk5jaVpuZWRXekVpaVJBT3NyOE5ydFhUQ0J4ZjNtMTlNQnc2dV9SbWhjN1hUbXhkUjFlWUpiMWpJcEhoWW5YaHA3MTdERFFFcTktaWNiNzFNRHVreDFkSVBkTkRKRzZ3bC15Q29qNFlYcWRfVUl3SFI1QVVuN1ZPTW1DbC16NkdTSkV6VVlzZk80NEFzakkyOEh0eUlSSlNQaEl5NHZJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:09:58Z",
+    "hash": "42afe569ca68519324d3cb27f12a72cd0ee5f3f1dbe0fdf191117337758be815",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Kovitz Investment Group Partners LLC Lowers Position in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVIyMlF4UEF3anA2LWtlT2hZaXNuWHlFdFRLVkdiS09RdC1uMV81eFEtUTAwRk9Sc2tGY2Uwa1o0MHNiLVdfRzR6M1pVSkp0NkVvcFBSTUE0aGp2NWpEYXVfUmVRbXdSdGxiQ0ZrVU1LbFNQM1hFMG5mZ0JNUkxpTWVsTlE3YVNuTjNMOFJndGhFWllHcmJIT3hvWjZFVHFFRm5EMGttQ19hZ2xjWmFDc1JIT0Y0Wl9SZzFnV19sd1NQdFEyUFhCcDdBelpzeS1z?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:09:57Z",
+    "hash": "50986fae20df3ac8017eafece63c0b826edcf225c4e108b924b172358ce04555",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Manuka Financial LLC Reduces Stake in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmhqZjJxNGZmdzE1cjdHR2RHLXRlNW04ODZYcEFBclR1R2p4ejVXMnBkcGRpZVpHcUlHT2c3NnhKbHlxVFd1QUhBVXIySWtucmVaNzlSWHVpMGduNDdwWS1VM3hrWUdUMDFiYU1wRkt5NGRJbkZGVzZNV0trb25Wd3BjWVVfSklhUElPbHFMRmlaYVlEWmRhUXJqR2J3b1VXeURlTHFNY1hfM3V0TGN5bWRuQk5Mc1RzRm5aUGs4RQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:09:57Z",
+    "hash": "f520a1f6f0a7f5ed6b786ca1298308e51e14c7602754332f30a73e2a872f94e8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Granite Investment Partners LLC Lowers Holdings in Alphabet Inc. $GOOGL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVJSWXM0WGswN0JNT0RmVVNiek1HMVVTY3JnMU9QOWFKYlVGSzI2bkpmU0VfT1pGdHYyYWl4MXc5aWJuTFRxemsyMW1xQkRJX0NOZDFNbmZzR0xBaFBvb0F2dFF6SXh6RTR3U3JKRWJWVFdMczRnb3d4a0otZHN4UEJPZXRQcXZZb2ROcGpKMEVyMXZxOVFaU1poLTJxUnozQ3BJN3lwSVFCd1dEaDg3ZGxEelUtZTZPUFZoa2cxTDdHdnAzUTBTMUFB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:09:44Z",
+    "hash": "51302ff8473498c69534f52b2298b1360a263ff31bf62e06fc9ff9fdb29225a1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Heartland Bank & Trust Co Sells 3,041 Shares of NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNDMzbi1BT1l1SWp4eXNPU1hNYmlyTmtTdlZPeDI4aXY1N0JiMHlHbXFPVW9yRExVdmpaZllhVGxDLWp6bkdHaU1WcEdXTFJGdXMtckFYWXIxTnlQU2VRVTExbTg4YnYwLVdwdHQ0SkNyNXhxR1MwOHN4RUhES1lIckN3RHQ0Snd1SVd0dmNleUlXbGZrT2ZEem9MYmp5RThaQUlqLWV5UWowX2xTa3lLbDNMVE9ZbzNoZ2RTV2lld1dQNDdUNVF5TQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:07:24Z",
+    "hash": "d321356d539846eb0f56875c965e2b8e2dcbfbe4da02a216c28e3cbff28b373e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Lion Street Advisors LLC Has $644,000 Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdzZkdEUxQzk5YzBfbzVNNTZjdmFoZkZoal8tMTBpSzU5ZFFzYmMtdUtBN3p2bkp4Vk5tZ0pqd2JHenN1UGlOUUpweklJcVdhWnBYa3RZYjR4TFUxa1hXWm9aYWVYVEpfckFJVVNYMTdtbDVERVdscEY2SEN4dmRKdkg4WHMwRXJaUHlOLXZHM1MzbzV3c3pxaVRDenljWVBFV2FmREhwVXpucXRrSWlNX1ZoOVNKLVF3RlRMRHdOUE4yYjdRZDlpeFkwV1pNTEhlN3lBdQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:07:10Z",
+    "hash": "99f94eab84eaef1f0c6190dc17e872608d795d973d20387c7ae6df86333e1168",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Quantbot Technologies LP Sells 60,015 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVTk4cWFtcnJaT1dDdGxNTmFJbnYzMW9ZWXppZktUbVh5RHRCbmxsUVVISXQ1VUZQNTVqc1NsSkpXanhKcXJuSmlsSzVUWkxZa1VIY3RVX2FtWnItR1NIdFFFUXZxQzZDSllnTG1ySXA2QnlwTUNER0tPZlJDYVNwMnd6TUotUmtvXzYwc3VzZWFETUJmMWYwaTIxZzBlaXVXSXViMFJtanlVNGdUUHpnSVV6RXNmLVUxVk1wdmRiRVdqVmtsN0lMVWh5Skd2d0Iw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:03:58Z",
+    "hash": "2c7353701dc69d2189fe57c7578f351b397d7a418d5a5279dcbe37a537e1118a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase just delivered fantastic news to its customers. But is it a buy? - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQVJkbUl3N1p4X1hQT0d6MTIxbERrUzJhYVd2X0YtTFV1QUo2am5kZXhIUlBjanRyX2NQZHRES0FXbFAxbFh2UEpoVVZDOWRKNXBMUUhhQjBjbkVBRl9oVGlSTW1xLXpOZnc4YmUzUlRmVnRBSzdVT2JlY2I5R2h0UmFpQ1pqeEZCcmdoeUVBeHF1Z1B5VWJHWG02TURQd3Z0R0VKS3VUXzhTR2s3UlRUYVR2bDRwdUtxcmJCaDliVVRkTE9VUWVrM3owOHRTc2U3b2l0XzhtZTBfZUlyTVE2WA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T09:00:00Z",
+    "hash": "46c1a6de2d215280744a8f4cc1c87129dd8da772d5a7a125c3fd878644aa2c1a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Nasdaq Lifts Bitcoin ETF Restrictions; Why BTC Price Falls Instead of Rising - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMUJVZXJ1eWlwX2J4ZnZlMWhSaFJZbTlFTElYanpmWm55RVNMOGpMR1Y1cTRDZGx0eUFhakc0X1hKbHU2RVdrYUVyNHNyT2V1OHNyYm9HcFVaUDlpQUxNSXlnYjNDZGZCRWotRElBdGJPSEJPNGVjWVJwVVp0R3JIXzBMNHFzeEJ5RXVHNWVEVGJpT0t0TGpxTUQ1RWdNX21mUTc0Q1U4Z2ZQelBEdUF6T2VFdi1FRTN0UXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-09T08:59:37Z",
+    "hash": "b6aae4905aaf7cac564c9d84f86fc252f31c33274442f2c62407ff2b5ea7bee6",
     "source": "gnews"
   }
 ]
