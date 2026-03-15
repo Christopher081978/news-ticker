@@ -1,52 +1,42 @@
 [
   {
+    "asset": "JD.com",
+    "query": "GlobalFeed",
+    "title": "Onlinehandel: JD.com will im E-Commerce in Deutschland kräftig expandieren",
+    "url": "https://www.handelsblatt.com/unternehmen/dienstleister/onlinehandel-jd.com-will-im-e-commerce-in-deutschland-kraeftig-expandieren/100207895.html",
+    "summary": "Der chinesische Handelskonzern plant mit dem Webshop Joybuy ein breites Angebot. Er macht damit nicht nur Amazon Konkurrenz, sondern will auch Paketdienste wie DHL unter Druck setzen.",
+    "published_at_utc": "2026-03-15T23:31:54Z",
+    "hash": "3dfcfee4910f4878aeecf78438b7f40e1293a24f3aec150e579d8847f61ccc46",
+    "source": "rss:handelsblatt.com"
+  },
+  {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Crypto News: Pepeto Announces Binance Level Exchange Update And Ethereum Price Prediction Eyes $7,000 - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTFVDb0QwcHFOSTU2QWVPMjI3UElPdlpJTS1GeS1ZRWl4b19sTmd6NjVNWVIxdzVzdGJoSFVNbDZnanlWTUxCc29iMGplTUthdGxkTjJhRmNCemw4al9RWkotdUhRYkxKd29qOHZScTJKNk9ROVVRcFIwOC1mV01UNG9LR2JoNndoejlnd196aWJHdUdsRDZCV0pYOGVFelJKRUFzVmNCc2FROFJQVm9oZEg4ajVhNndNcXZkRFh3TnhMakNYQnlSWmtiSjlKT3IyVkZ5ZGVOaW9rbUVPTnJFUnRQam9wRzN0V2ZoaFZNUmFBQ3FnRld3UDNNRXY3NDVfRGfSAYcCQVVfeXFMTzdjS1FRanZwcnlROVBYcWJYUDVuYXNFTHhKSzlkb0lqWUFXbnFvMVd1MXVjRFRDaThUSXpmQ1FDS3AxdVVwZW9Id3drenlKdHV0SXh4eUlVbW92WVZZa2NvQ2Nsc05ZZVVRakpyUU5PeGt0alJEeF9FeWRjcEc1OC1SNjZoMzRUcnJsUWlORlJSOTAtMkNPV3lrc0diLWEwLUZzaTVVeDU5S0hWcy11bWJzV3pGN0RzZlpCUlA2UlBwV25ZMXBWVUJmdEhIVmNtZ1VncTB3VzFJYnFETmpPOVdfYmk0aHNmTHlpQlpaMXAxQVM4MDRlbjVoRFYtTS1seEFNam5GbTQ?oc=5",
+    "title": "Ethereum Foundation sells 5,000 ETH to BitMine: A new funding playbook? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTlDZnRBcDVXUVctV2lBLW53YzRSUEMtVWpKY2ZHUTItWDNqVWUxT0pRbkFUU3M0bG04Nlp3M2NPWmtPRW1aNXZUTDJ1Z3BlVGNhQk9uSHR1WklIWmpvcHlmUnU5NXlBSXd1QVZTSFpveE4zT2thQjNJVkpsMVhfekJlMVpYdHJDNVFjNEVlTi1GZXNtbFHSAZsBQVVfeXFMTk5KRUxpLVhpZ2Vka3A0aEFyMTJMNnVWSFVXMmtUTmdGdFhvbjJiQjB5ZDBSUUJWVWc0N19tV0FBZ3U2VjRWamItQlZWQzRwdmUzV3BNLXlPYU1FMWplU2VpNWFCMWZiclVQdUN3TUFpYndBUTl3LXV6bHpnTWNNeWdRb0hacUhBNURLQU1ub0FmeUthVWQtX25JV0k?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-15T22:27:49Z",
-    "hash": "e03abeb3b883c25b5e869a4428505e25f8e9851ceb5831217660267869bbdd25",
+    "published_at_utc": "2026-03-15T23:00:01Z",
+    "hash": "2ee65a22ab87231b48ee93c2a25a4333fd03e769c26f78bfff561f330a838141",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Best Artificial Intelligence (AI) Stock to Buy Now: Nvidia vs. Palantir - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVpUc29FYXl2WVBUVWo5UlAxd2V2RDZDM2tPWVJtUHJqUzIwNjh0MEdiUzV5TVhLY1dMLUlmWk1DckFvX0UtckpSdkhfYTNqcXRKV1d5Q29MbE14NjM1Y3VTY1pRQ05TVWw2Z3ktc0NBSEs4N2c1MVZqWWE0SkluLWJ1bXRXQ1JZ?oc=5",
+    "title": "Billionaires David Tepper and Michael Platt Sold Nvidia Shares and Bought This AI Stock That's Climbed 40,000% Since its IPO. - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkpyNlVVaDJVSHlVSmRCVGEyWl9rbTc3X1VRQXY2OV9MSm5tdmpXWlgyN2stR3hjT3VYMExBeGNFaFVHRW9yQ2xXbjZQWVlBMWQ3V29pcEpTcmd0b09VX05TV1psRlFqWHJfQlhqOXlEeWRLcF9LRzZyMUR5cld1bURldEs2eFRGRHhF?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-15T22:07:33Z",
-    "hash": "61b41b775735bc5dc1ca2dc03e309fb457d5b3cf79cd60b75446f3788a0d6af2",
+    "published_at_utc": "2026-03-15T22:47:46Z",
+    "hash": "8f4dd0611573786a3b129e9db522b7b275419151e84539fb73887e8bc63cc401",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "‘It’s Tough to Beat,’ Says Investor About Nvidia Stock - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOck4tWDVVMkpJXzFyZWNoLUpmLWxsbGZvcndIOG5iRmpxeGNNTzVMcEtiMjFqTkVHeGl3VnljOFJqX3VOMlE0bWNzS3JSYVlzbHlPMFpLb0R2VExITjc5Z00tWDBfMEw1Sm5DQ04tQjhqeTVSSmY3N3FUTjZVeTd5RThRdkxaZjQ?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "While Ethereum (ETH) Fails $2,200, Investors Track This Cheap Crypto for 500% Upside - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeDBxZHBfV0JLZks3dDdOSXlWNmFNR0ZPVW1wVmpqN2FkUmxSeERUOEVKS0k4MDNCTnozVXlwck9GYnY4UkZyWDdUVlMtT2xabGx5WTdjNG9pbXhNLU1OLXAxbVZxRWJJbk1ZVmNMLUR2NmxQOVNHRGxISFZHX2ZXX3ZOSHJzcXhMWHhwazJjTlRxU2JjXzNSdQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-15T22:07:29Z",
-    "hash": "26a68de45afe7301ab191a834b744a222b7feaa297bfaabb8b896332dd2703b4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Best Artificial Intelligence (AI) Stock to Buy Now: Nvidia vs. Palantir - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSFVxVjZkckxWU0hDZG5sTzJjNzBxMzFiVjROdVp0ai03UTR4NlI2ZUZ2ZFNrTHhqcnZub3lSWnJzU0gyVlZNSm43cVVDQVVOMnhGczZHSjVaSlBnX2t5aEFLcHRvS1VNX3BETEYyaUJEc0hCQU1RLUpwSFkyaktPdVJfRmxicUliUXNqX0d6T2pWZFlaOVVVbA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-15T21:58:53Z",
-    "hash": "9ed70e4baa548f89655369eec7296159589c0f084730605fa473bf52c2293a10",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Is Pfizer Inc. (PFE) One of Goldman Sachs Top Healthcare Stocks? - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGxkbW5rV2hYQmlrcTJGZUxyU3F0MXY0SVByZnNhMEI1elJRUEFrTkV0OERPQ2FvTXVNbjR0Q3cxVU5MUjBuQ3RfaVJ0Z2x6ZjBjejVOZll3dl9mZEhPbU5mQ1NJampnR25ERjRwLXFDbGJad0N4Szc3U0taMGduRkdIa3loRXd2NGZOQkZrcjZRM0xpcEc5dllLWEpTVGVxX3hyX1pVZ9IBrwFBVV95cUxPbU1Ka1lTVVJLZUNRWEdmUEREOURtMVFqTTN1VloyVGtoYnVseFJOQ2Y4NDJJM3JleGhCQ25IX2NpVUtBSzF0dUxrd2xEQ2Q1ZWpnMXdwcm14UmVuVHFLRHlrdmJiTlBadW8yR3NDeGJNWjEyMWxfZnRaWTlFenF3VHluMDRIc1pQdU02a1VQZXY1bjZIUVlGbjBtZEg0cWFnTjF4Vk85S013b0FqN09r?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-15T21:56:40Z",
-    "hash": "df8505328ea303f0b58d6124623ed6a89ac9053c9a21337dd98243dba5b12532",
+    "published_at_utc": "2026-03-15T22:39:03Z",
+    "hash": "e563c4c9581e58442359f74b70105fc4a994e3f2201adfbff8f8c4ebca013f24",
     "source": "gnews"
   }
 ]
