@@ -1,232 +1,142 @@
 [
   {
-    "asset": "Sprott Physical Silver Trust",
-    "query": "PSLV",
-    "title": "(PSLV) Equity Trading Insights (PSLV:CA) - Stock Traders Daily",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMG9Da1lrZ0M1MDFWX3VuaWE3T3NsVGE3cW5mc3hGSGJPREtvaEdGMFREak1POFVwNmFBSHhGUGtIa1lMN1hFY3hzU3A0UTBYNWUxamJoVi1IYkdreW9LVm56bnRHN3gzUGhoRnVmY2FsMWtMcnk1dWR5T1lPMS1BakI2UXpfU3pGT3BoNFpmYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:37:34Z",
-    "hash": "8082952df83e2eddc8471f776d21b20aaed4e90970f110d39c2cd1410da69351",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto Price Prediction Today 16 March – XRP, Pi Coin, PEPE - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVZpdldnczh0NWFLc3Blbk1QZHphUUREaWd3OGxZblRjRUVXY0lfVVREbUZub1VxaHl1SjQ1WmlzUkFBSlB1R0hJekUzMUI0dEZrQ2QzRThoTjE3dElsV0xMWkZzN3hsbzhqS2xrX1hqZm80NW83eWU2d0RzWDdORXhtdTczcHA0cmY5RQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:35:00Z",
-    "hash": "124c02bac8c307439cebeae2ce9594c84e8b0967a70d28a143e4a3d5831a8c9d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Crypto Price Prediction Today 16 March – XRP, Pi Coin, PEPE - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVZpdldnczh0NWFLc3Blbk1QZHphUUREaWd3OGxZblRjRUVXY0lfVVREbUZub1VxaHl1SjQ1WmlzUkFBSlB1R0hJekUzMUI0dEZrQ2QzRThoTjE3dElsV0xMWkZzN3hsbzhqS2xrX1hqZm80NW83eWU2d0RzWDdORXhtdTczcHA0cmY5RQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:35:00Z",
-    "hash": "124c02bac8c307439cebeae2ce9594c84e8b0967a70d28a143e4a3d5831a8c9d",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth: Why AI Is The Secret Weapon For The Turnaround (NYSE:UNH) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWGozckJ5SjBfOXQtdk5maFI3M2pmNURyM2dMQnJuSUVwSVE3eHJpaWtEeGFJOF9Ka3VLekNqNWtoSjJlUU12OU1MbS1iVzFwM2ZfM1hLY3NoX3BxVmhoSjRzMlJZbWZGSkc0VmpnSV96ZkhiR21oeFpscF9jcHBvSTZaRnpveXVnWm1nWG05S0ROYmtacUgwVHRVaWJ2REdHWnc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:31:18Z",
-    "hash": "e8f2ea849e462f21c75bdf504bac61a1af9a8f408efe905849c25e5109860b8f",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia boss forecasts $1 trillion AI chip revenue by 2027 - The Times",
-    "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxONE9oNXB2QkVTejllSmFVc0lIdDJTTGxkTGxnTG0zcHRTdFl2UVFnc3VXWjZnVUZFZ0Z5Wkk0OXJQSkFURHE2RmxRSXpHalcxakkyeFNxOXRwYlZSRTZ6aVlwTGIyUHNVZUNPRXh2clpFRE44bFBHYWI1QmxidkktVE9CZEtwbFFqY0g1dTFRR2tUNlBKTGtmb3Rxb1pVVUxiX1p5T1JILS03a20xOXViSXBjT0RJZ182ZVhyMm9QQkhJU29xQzVfTzRRcWVvYlpjN21hTGRCODB0UnMxU01hX2JoZWhPVTZ5d3h4bm9UV1FjeFVtYzRKY25aR1VVSnB0UmlXMUlwVTBacFJuZk11aFVfOVJTeGQ0SGlMMzhjYWE0czY4c3J6dkFlWWxkaE9UR1RwVDIxYzlRYTkxU0JGWHlIRGZoa0g0ZE5oS2xkbVZuX1hGV1ZsRlRtWVBnVlpaYnVLeWZDY1VlcUZicmhfRnhRRDFwclAzS1YtSmVCTXRtalFZWWMxRGt4eXNTdFJ4NUdDOW5HYmpPMnFXVVQwOWFDZ2xpZExUQXAzU2syamhjNU8zZmc1REZ3?oc=5",
+    "title": "Nvidia Stock Climbs After GTC Keynote – Here’s What Daniel Ives Is Seeing Next - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUFzQ0Jtei1IZmZOeHltZXFCTGRZSE5HdHluM0N5Q1lMQ0JyNTZQT0pGeXNaN0tNYnVIZWQ2NlhuSzNxX2RHYjA1eFBvc3VWZElIWkJaT0hTOHF2Szd5eExsMU5JbDN5d2Zic1NSUTU4VS0zT0ptRElUdmgyazg0Und3Nzh5QnNIWTF3al8xekZpSG9aTVM3XzF1UHBIbDh4SWoyVkp0R2Y?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-16T22:30:37Z",
-    "hash": "aa842982c78984c840812f4e5eb3be061877ce5c21063bbfc8a84eeaf2911c19",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Leading AI Claude Predicts the Price of XRP, Bitcoin and Ethereum by The End of 2026 - Cryptonews",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2UwQ0tEaDlUTFRMSUtmR2I2MldnbG1CMWNPOTNWM3dla2pMd0FoZTVYQ1h1YkpVSTA4YUl6QlF3cmRNODVoQ242ODc1TFd0MUNRZFR5Vmw1ZDZLRThfRTAwd0lWR3drX25PQ2p3VlU1c19GcnBfcjFrc3BDOTRTWm1GWmt2NXFJWDF0Y2dFNVY4VlB0VVFTeG95bEFRdGthaUtsM3FITlJfazFfM0UzTndn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:30:00Z",
-    "hash": "9069a2c6b8df292eb9a69f81bd997eb99b57668338537a353232680fd369883e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "New Crypto: Ethereum Based Pepeto Updates Secure DeFi Exchange as Ethereum Price Surges 10% and Trump Rate Cuts Push Market Higher - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOSFIxdnh2WkV3WEQ1NnMtR3VGMTkwcnk2RlJ1c3pnamFMNFl5N1BWTW1VcTljODdQRG5ZR0dQajJXODlZMUI3TElrMnpJU3JnOGxZTHNCRHFCUEtpeUU3RmVmMFVkS01fdW1xaGhPRmpLZEVMLVpIU1Q2TGZqdWVhVnpRY3ZCQ2syZmtXbHA1bzVLdEdzcnJ2SWFnUmZsLXZQUmp3dXdYeGdpbktlNEtCajFMUHFhU0FZLV9qaE9hZzYycWt0UHM5cnRMcGZaOWdvWVdlMF8xdGJhZlU3OFQxMlp5ZUw4RUg4VjYxQlNYdVJCYzctUEx1M1RFS2p2eE5UdWZMQTZXT0gtMlBQVXRrcjZXY2Z4NGR2bUpJbjlIcS0tWkZLRVd3UnhR0gGvAkFVX3lxTFAxMHVmd0FiSVg5cVBWUXlfSktRRzlqMmpPTmtoWEEwUEY1anlUWWRsZGZBNUwzcXpuUXBBaUV1LVl3SXdmRnhiNElUbldwQU5GdlBILTU5UGNNMjlJR2xyMUMxTFBHR1QzbzA3Qlc2S1dJMFpYbHMxcUZFWmI0NFlFeERuYTBVQVZuRXdKTlRDX2dpTzZ2UGdPT2JLLThMdEFlRmRDYU9qLUh6WlF5a0dKZ3JURDhYV0VHblREeDFVbS1kRTEwVVQ0OUhkZ253U1dkaEtISjhMMHhDY3Fhb2hncUtSSUFhZ0dXRHVXSU9QM3NhSkQ3S282OWpvcFB2YjFSTXUwSTBWTzZIRGJrMFd4Y25TSThwYTFrNV85a21LMDBFVndKWE9DaXdqdW5ZZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:29:57Z",
-    "hash": "586dcabc72c29d19c3d2e10b6aa9b003670f4ac033a718f4f1754194e410f9c4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Investors Just Got Incredible News from CEO Jensen Huang: 2 Highlights from GTC - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGNBVHBQNGpNaGVOQWd2Z1p6ZE1BUGZvUmt4cUtjcWVoS0wzVXAtZ0haNWo2TWpvZ1V1VENEYlJOQm1QZXM5a01KRDJ5eTI1NDVCdU9Nd0hjV3FidEVzeU5qUENfTXY4WkhxemZFd3NuMDllc3QyX19GTG94d0R6VHRvSFZqY3dWLS1Qbk5ycUVQMWFTTmVTVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:25:48Z",
-    "hash": "e2981766f4b0255347d9194624b71638a129cf7dc43ab881ebbc480a8e0e5fdb",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA (NVDA.US) significantly raised its revenue forecast for AI chips, with cumulative sales potentially reaching one trillion US dollars by the end of 2027. - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2p6UUxtNnBWQ0Y4TkY3WkhnQmZQa000cVF6OTMwZ2pRcmdGTmZFWlRvbk1tbnlGeG0tTk9JQ2FzdjhUeFJ0cnRCblBZN2haZFctbTkxNTAtZDJycEswMGhsekhlanV3RUNzS09saUdmdG4tbG1mRkxINkhtdFMyS21ZWHRRX3JLNHlvUjBsa0xGWVIzMlhTN0wzZlJYYkZlcWExVEF4UHltazV0TlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:24:47Z",
-    "hash": "8a08b636a912c18427f5125188b2f10dda09eba2e33e8d94f6b6e282d713699b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "CoreWeave Nvidia Deal And Perplexity Pact Raise Big AI Cloud Questions - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUdUeXF5ZEVuUUxIMU9uSkNGSTRyU1NaSUhMdDFKU0NqYnBNQWxBQlppZVVxak9YRFBBc2RnQTUzemZ2Z2MzRjlPM21EanA5d3U1eW1WaWo0UnVlMDhQRVozd25pTGtnTXY4SXBDdkFkU2dSQ2ZXWmhRenZST29qSmtpRnZ3eWotVVppejRQSklMYWgtT0UxUmE2V0FCb05CaGNrczBjZEpVenZXRGFINjJuM0lCSUgyZTQ3M3lIZ3lqeFc0eHRN0gHMAUFVX3lxTE5KT0otN3E2R2VOaU02QzdKQmtVdTR4anhsanFhTnZOeGRQMlpVekVlbFJPZ1JRcEhiZzRWNHJ1YUhTcHdtTGJsc1V1cXFNRlNSbkYyTmFOcm80YURwSXpyM2ZPZ3JfdUdwbXpVNWdEMDVqdVgzNkpXSlRkUHhjZGxEaUpGeGFUR0ZzOUdtUzJpLXM5QjRGWExZQXlRMEJRYlBoa0kyZnc5ekNZVzIxVW5pdkh2SlR2X2RoaEZPYmtibmo3Y3BDM1FHTW1SUg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:24:32Z",
-    "hash": "8d9c2292061917d9bce90aa84fb165496404a7a1222bc96b7d4b0fa0c7b76780",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Why XRP Just Surged Past $1.50 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ySjNRUDk0QUhHSURNTVluY0dEaEEwSm1YSnVfQUJ4cXd4NkVHOEFOLWViR1prMlIwWWJNMklZb3NMWVV5d2xJS0I3VDB2clpPcmpaYnZQMjRMZTktdm5DNFRQQ3JLTFVrX1BxRzJVc3Z2WVVwbFJSZnNxaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:23:23Z",
-    "hash": "67d35a438ceb2930f5a9d3d82e63e4739aa3b64796cb4b2f2fc8ba9a07aaadd2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) news: CEO Jensen Huang's keynote fuels AI crypto token rally - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3AwM0Q0TnAtVGlFTWxndEUyZ3J3cFgzS0hEQWk3dHpGZzJoZWpJV2JnS19jMTRRZU1TbFEtd2gtU1hzYWwzbWZGck84aU9Jb3pKblZCUWJxdFo0YU90YVRfdDNrQTgzSHktenVHUUxvMXNLa2Zlb25FREVBX1pEalJITGxzOE1NSVdKc2hUcFhHM2ZjLUZ1bUpOQWJHOEdhdG4zRFR0WG5oYk93Y0pmTDZ1ZXdBMmhvcHln?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:21:58Z",
-    "hash": "aa43e30c1b3d8b00b90da6909bbf6e2b749ca858f849183eff8f8c7b9ad5b1ff",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Pepe Coin Price Today: Crypto Altcoins Like Remittix Likely To Produce Significant Gains For Experts - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTZZWUVQZWRRVnNaNlZWZFZIMjVNbmVjbGJrU3RxbzlIQzgxbmZIMDZJX0VrRzJVMXZFOTF2R0V0ZDJPSWhobFVneTRuLWhMTE8zYmYyZ1VweUsyTzEzTFFpc0szeEtMV3JUd1dwdXNvYnFsaG5JSmhrc3VTdFpKZ0tBSVl6WmZTbWV6aFVidm9ZWldrd2pPZUVR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:20:49Z",
-    "hash": "9ca473db530fa0674c5577c576365b9735177e35052663e6d0c138c3eb81054f",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Why XRP Just Surged Past $1.50 - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ab1dIVEMyS3ZVRHBrNUlOVXBIbVIzYXNsbXV2S2hrVW4xUFowcTJINDNPZ2FnVHBLN3BjLU1mX3B1SFhjT00zN3Z5SXhZWks2X0FKZjUxdEdkLUd1aGppVlozQ0hXdnc3eDlJTnA2UzkwY3RqakpZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:16:33Z",
-    "hash": "22414033b16b2af4f1bdb81c81a2eb3aba87f91792dc0ab1797e04b934bd2f0b",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Missed the Ripple (XRP) 2024 Rally? Experts Highlight a New Crypto Under $0.1 - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWHgtOHktY0liM0V0N09kYVJwWXVVSEZ4eWxGVE1KQzVOWXFRdWNQUjBMUE8tZWlzTmR5dWFSTTRaRzhfMG1JN3Q1UVpmT3RfSm1XYzVlcVo0TFBtaHduSDdHc0dNaEE0eW1rSmlZYTF6Z2o5V1ZSeHpyNUVVZ3VXWnpiRnFseXFWYWF3T3pNV3NJYW9vZ3ZN?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:16:15Z",
-    "hash": "9eff52cc83bbc60cc5f47b09faf66768b3e38036223e2566bbd7811a2307a98d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia stock stands alone at top of AI mountain, says Wedbush - Investing.com India",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc3Faeno3MlNHdnpKY0RfbFNJYTVYNmcwSjREZGVvSjVaellFUlI5Zm1FSjYwNFRqWHp4bHFYSm1nS0tKQS13c095SzM0Ykw3WF9vUUgwOVNNUFcwQWgtU3M3N1ZXa0F4U3puLUlBWVJ5MmdOT3hIZXdfeldaQnh5Smw0MEVKclhtSDM3aTRpSDZjTGl0eFlpd2NNdkUycEZNWjNteWlPVkNNWXp5bWxBOWFacWN2M0dMc2t3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:14:13Z",
-    "hash": "d2cd68da4b840ec618b048d60b1302f1b6c140bf62e76fdab2860fc3d0d56221",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nasdaq Charges Higher As Oil Slides; Nvidia Rises As CEO Huang Sees AI Revenue Boom - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0RZaUNRRk9IMkwtd3dOb0I5NThoRUU3clBhemVyMHFLUDNMa3ZBT2IzQWQ2UjF4M2YyZGpxWjcxMENXdEZMd2FhVXZwT29WYUpzZEJhNEpPUGdqVFJiMkdNaDFrLXhrMzhQdFJwcFV1QWlPTWZzZ3pObWlUam9lNExoeUJGZjAyT2xKSng0YktrRGx2UC1LT2JsOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:11:23Z",
-    "hash": "fe0133df2bd4c59d3b41ff67fd3912bb77f217ded7b61d12e54f9357d11bc2d8",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto News: Pepeto Announces Presale Stage Sold Out and XRP Price Rebounds While Market Turns Bullish - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaTlpWW1hcWQxZE9TN2tIRkViWXU2RGhNUV84SHRNX2xiWUNwTkdtMjMtSkpvZVNnYy1sT2dyVWJ5cVl2TGFIOW8zY2hSUnZ2RGxWSV9qYXlockdhdTRyOW5ncHVzcGRGakdYb0FxdzhsUFBQaTRDWlVlVk43WmRqNnpGSG13WWNVbTYzMW5XUTVSYUVYTWtIZ29PSE93Umdxem95X0lZN0ZGNEFaTFVrQUJrRXFQaWZ3eXhzUEZlc29JWmRFeDlCcTBSeElwS1Q0VUJEMWphelN3NnYwM3k2a2xLam9uWGxlNlpHaUhyWWhZemhPb2tGRktGZ0NMTlF1UVRqc1ln0gGLAkFVX3lxTFAyVUZaVTZMUnY1M0J0SGRCWlB2cG85NVA2eThsN3YwSzVEbWRPVWZzOFBPZ0JaTzJ3RDF0cXpFWEQyajBEZXZidlVfdUllcy1BcUlranYwMnJNUEFPbDM2bXZtVXR5OHFOY1dKVkRpX0NVNFA2a0hyUjRrNjM5LUJCeGVIRnUzZzB2dWlQOThiNjBwcU16c09vc0htZzl5MVVSWkstMG9lNWFVYm8yZGhxQ0NxOFAycV80MTBSR0QzYTdZenNNSkt0dkNLWEw2X09KTjlQUnpwclh3dkhxTFNWUS1iUVhwY2YwbzhnRUxRbWhjamhNQUp3dFV6X2NJcUZFaHVNOElkRVVpYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:09:43Z",
-    "hash": "b8d38a1633198d2b2a64e0fbb45c0ba625cdd49dad6f38382e261bbb711a8633",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dow Jones Futures: Stock Market Rallies As Oil Prices Tumble; Micron, Nvidia Are Key Movers - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemRac0NLamtwUGw5TGs3c0tjb0xZaVNkQ3ZnWHdWVGZWeERqaVdVRlhtOVhTYnpaT0k1SjN1cjJkMjdnYzVUWk1mMXRrazkyeHhCd2xYY0k3V1JqWURPeTdfaVI4blNhSTREZHBEb1NXblREVDJ4dV9CU2gwQjg1cGNQOWVmMktlYldwOUREMmpxbktJSnBNV2ZDT2xCV0JETWZBaDhZYkU0QQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:06:00Z",
-    "hash": "95ec5b810fba01fedb37a81c965b4b29d27623302e71c5f4fc95423fde57a171",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia growth supported by chip demand, says investment strategist - marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSG9VY3JKa1pCZ0FGaVFsLXViZjBDZVJpOU14SU9lNmtaVk84QkRMSFhmcGhPbzFpU1ppN3pVR01XOWZPS25LUWg0X2tTbHNmcnlHd08xUW0wck5BZW1jNDZyMWpQRXFFeDVyOTZEQmYwS1RScWVleC15OTVSbGtpYUZPa2p3U3VLb0dhaExmZHVxVldXQzhaR3ZEamlZZFd4d0lfUFNsN1ozaDJWS3ZYeWtQenNIY3pFd0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:04:22Z",
-    "hash": "6153e9b9fa6c1070c4b33b60a8cb6727ae67146377dba3b93a43c614db643cc7",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia’s Strategic Investment Boosts Nebius, AI Collaboration Expands - timothysykes.com",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44MmhLblVjdXh6X3B5eThTT0M1RW5GQmRxWjVrenlFN00xcmc5SmpsUTZwLU1PQUN2X1VDWEtQSk5TS05YT1IyYmFsWUZCS05JY2FhZ2puTTlMN3Z1cE51Q0xEd2Fxam53WGp3emdDRkFDbnQtQmFQaG4tcEZRdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:03:00Z",
-    "hash": "8db59b11f4b2603a74827de6ca8a83ac70e5de437622e8a913b4ea96030cc6e5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Futures Volume Outruns Spot 6-to-1 As Macro Stress Weighs On Crypto - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMHZNN3pkMkdlYVM0RE44SXpjcXcwbHdXNUNrdDF3SEE2ODZsdmNCM1hSVk1wZEg4S212UERKRHg5TWczalQ0cHhOUV9aYl90NFZvMmFjRmxjZmFWN3RUYnNNcjZiaWxab1R2cjVjLXMxVXFnakN0RXdIRkZuOTROVUNTSmxxTk5KTFVuQl9vNVF1TkNUR19TUDJocmIwTzBXdXJtZUFKaHZFMnBXMWFXcU1oeUc5WVd3a1pEY2JFOFZsbXlrWkd1VnR5YTY2Y0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-16T22:00:36Z",
-    "hash": "4388b39e21786a006e35ae2b00cbe4ff7dfdf8d84971ed41358d2fc714888825",
+    "published_at_utc": "2026-03-16T23:29:50Z",
+    "hash": "856a0689473e89b79cfc4b3437898b85982acc1f5f6e57a40a253a704804ba5f",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Spotlight: Why This Top-10 Token Surged More Than 7% Today - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbjZaXy05SDBNU3NfaWp1bVZ0MTRqdFF1eW1tNzJqQnZ5djB6OEdneHlHYURvSzFIRUROM2tMcFBnVEEtZV91LVBQNU1pZy1jR1o5X0hjVTJqQWcyalh4ODh6OUNpMXhGLXFkUlRjSDRIODA0U3JWT2VObkNfVWFNUUFMblUyZkQ4QUpfYW9VczNDX1NsR29zMA?oc=5",
+    "title": "Solana Marks Sixth Anniversary with Trillion-Transaction Milestone Amid Market Pressures - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ1V0RmVRVlBHWVpueGZJWXgtdnVvYTluYUpxUVItZURoYnlRTVRCQnk5b2pfSmMxbEYxNFg3ai1xOERjd1piOXlGZHI4UHMtbkxmcjN0T1h4Q2YzdVhpT1lVenJQVVR1cjQ2RGl1VmJvbDhubXo4QVJVZS1ST0E4YzdLTjNhVDUzcnJXNng2QVpPZ0pocFk0V0ZZdDY4R2dUQUt2LVFna1RkM04wVEJvTEdnU3RISnRvUlU1ZU1hZTdNSk1BeW5XOGZn?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-16T21:59:46Z",
-    "hash": "3eb4f3f3e4f4fc11a30912ad0679fe9a90ccc70fd0114757d64ff328c25e5ede",
+    "published_at_utc": "2026-03-16T23:28:38Z",
+    "hash": "bee6a3f815380d8b81d92a4b714f77449cea4abfad58a141ab5f7ac2864ed7f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "Rheinmetall's Strategic Ascent: From Defense to Deep Space - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGlybzQ5QmtDOXBFTTZNWHdIZVg0a3R3eXJ3T0tfaGZjeHRBRGdaZGJmam1KZ3A1bk1OQ2x5dHpXWnpnRGU5VmZ5aG5iV1Q1RWFKSjF5ZDVHT05Da0hTektlMzZEb1YzRGJ5OHhpMDh5YWpFSTVuUDh5Q01kRjNJdEtVWExUa3NoMlgydEtjMkNrMUNUYUNvV3JPSDlpYnF2ZzBJT2Zwb1BXakpYeWxfQUZCTGJxV1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:18:15Z",
+    "hash": "68ae4647da7173e1b7da068c1bf5ea2de548bed5eb23eab8ab3a3d5af77f56cc",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "This Artificial Intelligence (AI) Stock Has a $19.4 Billion Microsoft Deal, a $3 Billion Meta Deal, and Now a $2 Billion Nvidia Investment -- Is It a Buy for 2026? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdyTkpmMlBYYk5JT3hHbnRGYmp3cmxNY3hmaGRzWTBJMFlvLTJJUWNYRWtmTGlocDJjNlJneG0telNOSUFOcG9TN0FlbDJVUXd3VzJVU2hXcngtSDByTm9XQzFwLTU2S1M4UzUxYUs1aWRHZDlSQ2QtTWRKbUY1WGNoUG16Z01DQ0FPUk9WTUt5MEhRaTRKag?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:17:58Z",
+    "hash": "6b07563a360bd1d0d0fd40becb7d17ea0f28113b84792f8ceb96d3889058bd62",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Highlights $1 Trillion Opportunity: Jensen Huang Puts 13-Digit Figure In Reach - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaWxPeHlzWGZ5TG5fYjB4NFVfUVBSZEVtWkNrVXR2bGp6RXRNb2VKX3J5TGVmUE5QVWU1RTkwV2ZPY3dQWV9STkR1ZHNXZWI3dlJXSGpiR0ZGdnhtNWU2RXlFeG9WaHB3dGNxZFdEenJoU1VCdjUzWFh6WHhhcm10LTFXRkpRazNfTzJrRkpjSVZoWHh3Qkh1NHZlbkVGTEk0a09fYnVkamNLMEJBLTI5RU8ySVZtdDZYNUFpZEdvcm9WNXB5RUQtYWJvQ3VKT2NrblE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:12:00Z",
+    "hash": "45c406a59e7e0afc1a3d4c0854c7543322f857efb8acbc8f6a7bd68a528b73bf",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Oil relief sparks a stock rally, but Cramer says Nvidia’s AI boom is the real story - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWROSUVfSE9pakw1eWdLYlh1bmRTLUZCR19JaG51SEFoSC1FcGs2WFJ6c2xpZFRoNWFIdzFjb1Nrd3NwUzhrT2h0NUplOVpLaGtndHQ2N09ySGN4Z3k1bGRGVGZEMzMtRGpkTUtMTmtobjdGS3NOdTByMFRMLUh2NkJHMjRya2wzZG9vQVlsZ05hVGZibFVwWmx6SUNEOWNBS0syVVlua1lqb21jMVgyS2V2S2Yta2xyRHfSAb8BQVVfeXFMTVVMWWhjQWZDRWtRS2Q3Y2U3eEdQREtpcGFmVUpfOE9ZcmpEMDU5YmRGaXQweXpIMDdGZ3ljVFR3NW5CeWM4azlISXFMRmdvU0Q0cnhuWE0xd0dYT284d3dMUGxEN0wtbmVHb0pJTVhPOVJtR2R2eFdFX1d5OTZQY0tyU3JpZFl1NXFEUDlQTjBCbzZkQ3dSME9oV1NlNjZBOFJZWi1mcjd5UEkzalpGNGRMa016N3dqNjlzY3psOG8?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:09:57Z",
+    "hash": "f06bdf286f507279fc54e534773256ea18ede4d413d94ff724b62afd2202efb6",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Expects Agentic AI To Drive $1 Trillion In Revenue - Gizmodo",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNckJlbnVJWmU2MGpmdVZtYXI5MV9GdW9jd2VHYkF3RzRCR21jaEUxWTJja181NFViQ1VnVHpad0tCX3FzeHF1OV9RM0dweS1EVVNtcmU1ZFBLVVhXTzJOM1FrYWhieHV6UHlFMEVGODJzNXNTYXRqdnJtMXRqU1VQZnYwQzkyWUF1ZERqbjUwX3Y?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:09:55Z",
+    "hash": "565fc6b2194958580c3fa9803855c44287b081896cd68b82fedff568d6de2b56",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction Points Higher But Pepeto Replaces 8 Old - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmtUU1J1RFA4S2kwc2U2RjRUQV9yWmExbk5YejdvNnhabXpUX2xTSzg2OVhMaXRhcVFkQXFBNWk5WkFUWkxWV1l0RnpTc0ZSWWxUaExEb28yOFpXMDVYWU1YVkVXajdQVUpxUTI2S004emx5aGRzQnh2dWZPYVNvTWszX2p4dVdXdDVfUEhLcFBLNnMxbUlZR2E5NmlRb0to?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:08:57Z",
+    "hash": "652762ea744c0b6df08c415c65a4a697cb2c5d8ea4555d2e8966563e99df3ab3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Why Stablecoins and AI are Coinbase's Real Growth Engine - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2VBaExudkpKWGQwbmduQ1lpYlY0NkRMWXphc1NyN2l5VXFCbnFaYkoxa2FaOUItR1NicF9OYlJOMVJGY3M3Y2VKR1ZCV29FSi1fYTFOT3hiSjlXR1IwYU1wTTBpM1E1ekVpOV9IeW93akhnWDhxZ1JHeEdNakozXzBLTTljQmdpWGF3NEk4cy1JZWo4RTJxZjQ4dWI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:00:59Z",
+    "hash": "2dc509f0fdf7520eec49a8910803eae4fe195fe72767e1e337c3a53fc3ea53ec",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Lululemon earnings, home sales data, Nvidia GTC: What to Watch - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEFPTUM1cWRadVVOVWdWQl9tUjVoUkhBLXZhaWYwc3dEX09FN1ItNnlGZjJoeDlzNWxxM2ZiamdsWTVsS2Frb3pjOFVvbm01U09ydHNYRjdiTFN2NmNmcXJ3XzU4YUVpallMS3hlamxyMWZYVW9EUlJQMFZTU3RyZUdGUDE3ZkxN?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T23:00:00Z",
+    "hash": "3e86649c3affba1c02f2ae1032e649f63c3b6dcc24e6985aea0d37f20ce262b7",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Why Nvidia Stock Just Dropped After Jumping Nearly 5% - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV3FWZlNWT3NTb1pwcFdoQVpPWnc5bkhtbFBwRHN5MXZ3NmJfZU4xZHBia3Y3VUFseVBsYVBQZ01NMDMzS09xZFRLSERPQi1UV3h4b2tUNktRVXFVUjJpWldKUXpBQVFlSUlGZGNxODM4Z0hQbXkyc1FINlRUbzYxemkyU0tXeHc4akNzTHVseXhIUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T22:58:07Z",
+    "hash": "aebe1c1445237cf698090cd409e479a4245ce4b36d17eebc91ed84129f652a91",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Investors Just Got Incredible News from CEO Jensen Huang: 2 Highlights from GTC - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMms0a3h6WHpDWVBLdl9VVGFWQU9UNTJaeFh0cnNVOFd1ZWVnTlM5TWVLQS1BSVdTX3E2d2Z4YXM1RUUyR19TSWk3dTlkX0VUc3ptYWsyb3pVcGxjQTJMTnd6aTdhZVdkXzFOUzVwNUQxMXZvcUUxcFJuME5RZ3Z3TktzNmItWHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T22:55:28Z",
+    "hash": "d38c00f5b1174ace1ebf1d6de50e635793d293c3b4b6a40b736da4ca2b876798",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Fails to Rally Despite Major AI and Gaming Announcements - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0VqOTNPaFBVLU50WGp6S1k3b2dqM0VlV2hxWlo1RC1RcjVrekg0ZzNBQ2d2dFhuNG9rc0pwei1kdUJEVWRMZklvYW53MEtaMWo1c2NzaF94dkVHQkZ2U01TcmNBRHNEb3o3ZXc1ZGFKZ1piMFl5REZRaWlnYndlY1RR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T22:53:00Z",
+    "hash": "8d7489a2ffa06ba4894cf988575114aada3da233abf15070ab8bf81ed3c3ade4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Hits $74K As ETFs Rebound Amid Lingering Nerve - DailyCoin",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2hvM2xacXJjT2lpVjNTLVppRXlKeFNqSXlSZmVuUm42Y1d4OUxWdlhySE5PMFloeHFqTGlReW5xSFBRR01UaGoyWmkzQXRNb2RVUjBabkV5RUNuR1lUME14b096OHo1dVRxZjlHOFJLM3NtNjZuWHFoQ0hOMjR1aTR2ZG5oM0VqRkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-16T22:47:00Z",
+    "hash": "fb0fa10c24e24ac5efbb252c8a4c74bc386be8b7299319b0f7775c04eb555286",
     "source": "gnews"
   }
 ]
