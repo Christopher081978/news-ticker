@@ -1,122 +1,42 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "U.S. Stock Market Today: S&P 500, Dow Jones, Nasdaq down. Check Nvidia, Tesla stocks' performance - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdGtHbDctdFdNSzlzTFVBLXRpUWQ1c1dDRi1QWFhwNUJyRnpjYzk4N2s5bF9tSFI1TXdJUzI4ODEzcHZveTFjOWkyME44MG1qQTBDbFg0ZU5jLUpkbEc3RmlnWTJnaldvbDVBWVN0ZFVId1pyb3pYLUZMR3RiSnFMU1pvd3FkUHQ2T3RFM2VNS2lOZ3dndHFkTVgwMjlNUWR1ZHpZNUpfaVcwQm9faFVSYkFnRktSeDBLSV9IYmlJLXNKMWd4U0REVlN4NV9MRHNJenFwcFlWM09FeDd3QnZtOVpxWS1qUkZjWkxJZlpQSTk1UFVHNlBjbNIB_gFBVV95cUxPbFJyczNsZUpJT2lZZk1aNEJ3YzFDQk9vcUt4TUNSNnNfYVhnbmpRemkyUEdrZFhDTHktZmxwTm9rd1ZVRjNYRlBxa1BEQkRSQ3JvMGpuWHZtRXlEcmdsT1JWMUpuOUl4dnVkXzhCWmdWb2V5SU5vS01CbUJ4UGx0RHZJSklGS29DeUxreXNwWFZDNHkyMVhZRHBvZzhZNU94VEJReXBGQ1cybzJ0NER1TTlac1p1RGN3RDk4M3hwOEw5Y3ZrcGNIeW1senp4RFlwdy1XcVFkZ2h0c09aVWVWWFFhTUhyZHNUOTItdUV4YkpwOVNGNl9nQ0ZmSjJOZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:30:02Z",
-    "hash": "2e4b85fc92fc021b531a51fa63665aab070850ef7d46e37f8852fe021a3aa8f5",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Who owns Nvidia? Top insiders & institutional investors - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rNG55VzNRMnV1aFR1NFV3VzIxWjgwdU9fdmVzTnFmM2dfNzJHNHdDaG82S2ZBdGJJWWtDX2dKMzZkSlhLS1Q3U1hRWEdTVjIzdkpSSGxZWkc2Q0djSTRlbS1PVlRXaENnZGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:29:11Z",
-    "hash": "094e21dc02f8e04b64e4634970518f1afd7e8fd37ddfa16ed10b4bb0c54bfdbc",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth Group",
-    "title": "UnitedHealth Group (NYSE:UNH) Shares Down 1.4% - Here's Why - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTzlTSzRSaWY3cUxibGxaUllNQ1ZveGVqYktMY0V1SXRtUzd2OTNQSElUYXd6Qi1WUlg0TzlxSDlnTjA4TTVGQkdpZzJybXYxeTJRenZKSm9EdS1xV0trMm0tOC16LWZuSlRpYVl5SVVfckwwUlMxc08wOWUwVWg0cVdvTkVfYWp5UXVXNS1Ec1dxdjhfMVppRnVtMXYybUtpNFlyUldhb0o?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:27:18Z",
-    "hash": "c65eee20974a2f655854a1c5d11822d48c03f313f7ec530f3369842b180d1238",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk A/S (NYSE:NVO) Trading Down 1.1% - Here's What Happened - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaUJHeHNlSEVzOXVjVmI0NTIyVDhxLS1HVUFZSkl1T2xwX1pQUG0yWVdESjZvWWgtcmxLeTNUVEFOdmRNNDczc2tvandENk1DUVA1M1VGVFB4RDlXYnlLYW1LMXprODhCSEZKQ0NxdmNJdER2Qmc2Sm1PeG85UENrU282cjhqU0hHX0hxV2hKRFhyeGMxNVdjR0NpWnpjNmxDVjc4NDNzSVpsNXRSMml5aWIyQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:27:15Z",
-    "hash": "3c00ab5008d53b937e1a3f9b367d593e1e3a1ad7fa96d6599a5b1b142752e903",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab (NASDAQ:RKLB) Trading Up 3.5% - Should You Buy? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQai1ndXM0d1kxT3gwOE5sS3lWRHpSTXZBMm1WUWV4MEkzRy1KbmhIOWRLM0tYanJPRnVWRVpPMVZhb1dXN2xRUjNTOXJ5RGZFZm5iUmFpQlhGR0tWaVNCamRhSndrT2NtSjVQcUxRY3NQTXp0ZU9VY2szbEI3dy1FTTRVbVM3V3VpZ2h5SkEzVm1CclZrQ0pjVmstV3B6Y2xXWVVIdjVzQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:25:15Z",
-    "hash": "efd020f832a90c8e83cf4905e5828d19968cd0f4c6ad9c991dfa45db745bb718",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin ETFs See Huge Inflows But Standard Chartered Downgrades - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGNUbzM5ejIyd2tPb0NoeEhIaGZTdm55dGdEWGo2eVdLejU0b3hYWm5LYWFuY1kwVkFYMk1Sazd6RHJqRHNURXE4OExyekZjZG9namtOeVlfeEpvRktDZWo2Y2xjTjZVbnROTzZObm8wNHNUZVB1LUdZZkJDQ1BiMmpRdk5MNTg2eHg5OTVLdUhnUDdxUGNvT0FfYVlWRkVP?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:22:12Z",
-    "hash": "e863cf5e630782c2deb0d8ce3d263280486c8e0e700db9bb92d2deedf09227ff",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XLM Enters Elite Commodity Club with Bitcoin and XRP — Stellar CEO Reacts - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4dVJQZWdmWkM4d2ZFRjlGbjhGdk11NmdUenUtQzhzcmMyMVFYZlJ4Tm43dU0xOUN1alh2Qno0RzUxSk9RbU9KRmlZY3p4VjdMdXRoTWFnOWk2Zw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:21:36Z",
-    "hash": "4f7ab784eaa14990816fbe5844782d44c6e4e03c35730d6f714458b93db35d11",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Delivers Fantastic News for Uber Stock Investors! - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcGJsSFRVWmYxeFF4TVlUcHlNQ3FBWnpPTVZFenZWQTFBQWs1ZW1iUkg1Y285SHd5dURzSWpUMnlvRWJSbUlnY2VQb0Ixcms1SUhxdlBUc29vbW9wZlNIVnEtM1Z1UmtOamlnLXZiaGxxV1cyU2EzZVVMb3BGbzBiaWlaaE1SdV91VlJVVHQxYjg2RVZIdi03TEdaWDVidVh6RlpkVTdXdEJUYnVOZ3M3ZXBhOVFMbzNMbVBOZFQtbGt2VXdLblg5dzJZZWRNM3plUWtxQUxn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T21:11:32Z",
-    "hash": "31efc6e8296825540aece223a41ca1fd5a65edf2f81ca4d35dc7b455da7dac77",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Boyd Group Services (TSX:BYD) In Collision Repair Sector Developments - Kalkine Media",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnVMSklXRjdJbDlSdVpBbG5ybFVFcFl1YkpVSWxEaXg0OEtqTWJITlhLZzR2b053a09wekhLazByd0lwb1BjbVlYUW5IRHc1WnFYRllWN01JMkhaZ3J5OUdIeHJSN1owSTNvWURSYUJkZ014aWZhY3V3dUdrVG1WWWxCdmI0Qk1CcklzLVNra1pnUUZ0RDZhemVIOUZmaGZ1NUZoMFVpUVhaTGxUMjJ3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T20:58:00Z",
-    "hash": "be3dc2c6bc75b997e2c201719837fc0b477206288c2b70664627c8c7ba1ad127",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Bitcoin Struggles At $70,000 As Ethereum, XRP, Dogecoin Reverse Gains - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWno2UlF0SXpZUHgyYXN1SXZ5SF9BUWRMRWdYa1A3WmJBemp0NHZuTG9TWHR6NkxCYktpNnM4ak9BckN0QUdpa04yUzVyc1Rxd0tYcTNFeUtmbGIxak1xV2FHRlc2TTZ0akVYdkFfYmRzNS11VmRIXzlvT3ZmSzlyZkE1S2VkZV9xZlREdGtEZjAxbDJGTFdoS1VMZ3ZnNDdQbW9XeDZzbl9GMDFrT2RmYzhqQ09BTFdzMnpMakVIazRXbFlvdEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-19T20:57:00Z",
-    "hash": "c25f3d721c32d15fee9f1368beee5c986fdfddd9baef84a2008ef18158ca9214",
-    "source": "gnews"
-  },
-  {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Bitcoin Struggles At $70,000 As Ethereum, XRP, Dogecoin Reverse Gains - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWno2UlF0SXpZUHgyYXN1SXZ5SF9BUWRMRWdYa1A3WmJBemp0NHZuTG9TWHR6NkxCYktpNnM4ak9BckN0QUdpa04yUzVyc1Rxd0tYcTNFeUtmbGIxak1xV2FHRlc2TTZ0akVYdkFfYmRzNS11VmRIXzlvT3ZmSzlyZkE1S2VkZV9xZlREdGtEZjAxbDJGTFdoS1VMZ3ZnNDdQbW9XeDZzbl9GMDFrT2RmYzhqQ09BTFdzMnpMakVIazRXbFlvdEE?oc=5",
+    "title": "Ethereum Price Prediction 2026 & Beyond: DeepSnitch AI Surges 197% In Total After March 31 TGE Reveal - BlockchainReporter",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWXF6U3BnekE3emNtZk5EVUVTLThZSjlUMW1vREhzN1h5M2h5ek1hZHNFVnlOTWlZNDdOYUc4Sm1WYzl1ckZGRGdyc1l6dWdRU1RkRjdmdmhUbTZUWUZSNWwzNk1vcFpvejdXTzZKazkxWkhuc2J6MHEyTlFvcXlrVHZ1OS1yWk9pNjg5SkNVRlNWWGxJbG9qSXItWUp6Z0NObnh4ZUlfQzZoY1BkMkVMZGI0ellabE9LUHVCVThIeXhOcVYxY3Nsa2Q0SDJDOGJBamliU3ViZjZFc09lMWZTZlk5T1ZxQTFRRGVIbXpMQ205d0RNdW1EX0U2elRCcHNXcDhVeXNPeXlkdw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-19T20:57:00Z",
-    "hash": "c25f3d721c32d15fee9f1368beee5c986fdfddd9baef84a2008ef18158ca9214",
+    "published_at_utc": "2026-03-19T22:30:00Z",
+    "hash": "2a8e61adec44a304b8e6ecb31dd4f1d82e5ae5874b0d32e1cc81b28dfd19c214",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Forward Industries Funds $27.4M Share Buyback, Deepens Solana Treasury Focus - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2tlYlM3cjVDeldVazVlOTlWTVZpWHgzMTJoMFhpVFNvV01GajhvLXowal9XS1VYMmtGTnhVVWZmT1RrbGQwZW85eDF5WldRQ0dhVm05empIWWFaUnhyYWtMZkxCS0F4RFpWZDFmRVpwWWNKeHk0OFB3OUZTZEIwbkR2WEhhSkJISktnc0t3MXg1WkczUFZKM2lpNURuN3lPTThyc1dWOHY5Vmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-19T22:00:14Z",
+    "hash": "0501c399fa8b5563a8c458b817094e87fe9c0d1ccc732d207fba256ae6cfcb7e",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia’s Jensen Huang Urges AI Leaders to Avoid Fearmongering - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeHNVejVqZV9yVU1JN1d0TGhIMHllMXV0WU5BNDhtNXFmZW1CZXozcDdWd1d5THpieWt5UXNhVEhxYTBONTNFWTlzVEVsSWhoUnhid0tlOWY2c09FTS00SmRYLUJ0ejd4ZjNMTEZlSllPMkt4cXV3OER1cmxQSzFJM1hjdF9walFYaGhhNWVNZE1BNVgwZFhFZW1fUEQ1ZzQ5TFVuTE9wV2JGZzhidE1jYjFB?oc=5",
+    "title": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Stocks Instead? - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWVB6M2did2JJR05ka0JxNmpybWVzRTZmNFhxSFlkUUY3VUc4MFRSRVN1aGI2RzNDN3N5SUZGSUNNaEtSeV9jb0xQd0xpNHVsR2NuN0Y4dFpLcGxUWGExdWlDRWY3bmxaQXRLM2dMYVZ2RlByOFA0elVtY3k0OFk?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-19T20:53:45Z",
-    "hash": "47c74abeb0851b81da9381785138ef063a7e5ad41c2262d3837829a20842ced9",
+    "published_at_utc": "2026-03-19T21:50:00Z",
+    "hash": "00b78e257a02b09b3bd623aa973b07bfa05f1de08cb8eb48043de38f4abe2b6c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase and Apex Launch Tokenized Bitcoin Yield Fund on Base - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSUxGUzVSM2U2Tmc0Rk5yZzZPX0E5emZWS2NXSVdGcF9UamdfSnM5X1Q1TTkwQVRNb010Uk5xa3laaDZiQkc0amstMmltNWxRNDUxekRpN252Q19Wamh2REd2eEtPNm5UWjRaWUxkQ2ktbEZ2MjJySTFPa3RlcjJRR1hvZmpIdFFuWU01UFdCaThoWEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-19T21:49:34Z",
+    "hash": "0b0e9c69482caa2571e90b2c5e041bf2365dd99f55d6871831007105b0fbde11",
     "source": "gnews"
   }
 ]
