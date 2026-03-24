@@ -1,192 +1,22 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood approves $1.5B buyback as stock nears 55% drop since October high - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wWnJBQ3E0SUs0RDZsVzhxQ09FMHdWMTdEb2JZY1lBTjVsZU14X0FYSE9mQ1htVXJKeU1PVmwzZ3V2MndrOGpFeXh0V3d2TDFkUkx3Wk9Ydzg5bXlsRXN1WTJ4MGs4aE1Hd09yXw?oc=5",
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab (RKLB) CFO Adam Spice makes bona fide gift of 1,558 shares - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSERWWWI0TUFtYTRDNl9JOE1NcEtLNmp2bzJZOGU2U3loZXBPR2p5OERpSnNTNGR3N096SDlpQ0VRZjVhQk9pa0hMV2RyT2cyc3hLYWMtNzVlZkt5bTFQR1NMM3RwVHNONDg1MmFqaHkwZ0RwMC1PTUk3aWR5QnZWNjRvRDh0MVBacDZzT0UzOTBkbXJJcXBPQ1FpTUpUclFXUzNVMmlaX0VVcUdpc1E?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-24T22:38:35Z",
-    "hash": "2f0cc4e69ed0840dd4b8191b98e0428493c5b6c6188c1673ad1751d8fc7d4619",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Approves $1.5 Billion Share Buyback as Stock Gains 77% Year Over Year - FinanceFeeds",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlU4d3VPVlowT09GWUREdnJrSU9ITk9Vd1NncFI0bWRROVd4NHZVRTdaR2tGaDB3TkR5NzFQZWpRYWprc2lFMWxDLXZ3bjJuZ1FQRnVITkxlSkJYV2pRZVZzaS1vV3M5SVNRczBOX1JUbHo2NjZQYjkxeXVyeUhibGlfN1FUQ1JIa245SDJ1VUZuRkF3Wjl6b281bzNNdjRtU29KckxR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:33:24Z",
-    "hash": "78f5ab28cb5f3df0a970f9f86724f3920d52c500a9cdd94a9ba00fb1bda6b80e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Why Wall Street is wrong about Coinbase and Circle stock - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObFdwbUYtR0JOVUgtWXpxTVhDTHNKcGZuYnIzUXhaTTUtbEZJRWxYNURyV2MzNXZrTW9VaTFwcEZyRmwwU3J2enhZZEZvVUlkS0VZc0pvSkZDN2NkZi1yN2JUOXVWYThCMGk4a3ZzRUpmNXZOTTg0NXkyZjBxX2RaY204T1h4UlJobjRrVDJqeE1yWFN2b1VHN2NkcUtXaVlTaUttYU1palF2MlJudl9IdUp1YmtZcy14MDdOZnRpbTZsS0VDajhLQU9JazBVMC1hZnlMcnlOWFQyRHJfeFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:32:08Z",
-    "hash": "c242c56fd2af6e57b26a5f99b9a204febb3a677d6da0f880ffa27277a42742ea",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Stock Market Today, March 24: Circle Internet Dives on Possible Stablecoin Yield Restrictions - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0dEeEY3a1RRXzVfcV94elNvUTB6RmxnQ184Zk9JbUZYQXRNNlN6MFdxaXBBWGVhSkJ1UG81SlB6dHpTemQ2Z090aVFybDNIWFFubHBvU1A2czdDVHNxNFB4bWFKaXMtQ3RlTzR5UF9xSnplSDcydEQ1eExpT05GNk1kSmdxSDVlbDNWakgyWGRPWFFTWERj?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:24:27Z",
-    "hash": "00be51486f9ac823bc4c8408aa01f0b138122f53bf90c15554091ef42bc3b067",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Direxion Daily GOOGL Bull 2X Shares (NASDAQ:GGLL) Raises Dividend to $0.58 Per Share - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU3dzTzFiRGxnWUluMG1KUjhaSHAwRjRPNURXdW93cEtpTUdXcVQzcnJtelBBTnJxdF9zZmhubTV1LVhKbDN0SXRnYmhFZUhyX2xCUzRjN0ZabU9PVE5xcENYT01uZlRDbU5wbU5Da2ZpVFRuNktCQWw3WjNZWnpZdG1OTjBaZ1ZpdHBlLWJVTFJVRVFDeGZzbkUtUUdEZ2xDcE4xSzQ5SXZEUEZScWctUVd1c2N6dC1tUzdxRHdpOEJTSktILWVZWVptakRHUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:21:24Z",
-    "hash": "463b4a668b47ff7b32a2d410dd66e06d89978f6f6e480ba85fd359fd92876055",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Better AI Buy: Nvidia vs Micron - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsbGEzSzkwRmdVaVhWMjFpYjFBSWdUT0V1Q1kwR1VZazUydHdkb3RJVUM1MXh0MWVMUUpPekRZV1N3RHYzOWlLX09OVGg1SVZadllYS2JWdEVZME8wb3ktMUNGNk51bkFUYkJmblQwdW5XbWo1Ym9jR3RheFZyUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:19:32Z",
-    "hash": "a087573122d9be96bf090ea3ddd6fedb658e7c06dfa7915968c91b093609328a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Why Wall Street Is Wrong About Coinbase and Circle Stock - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTno2QmY1c3JJS3c4cnltdVNlS3lHTDJBemk5YlZuc0dWU1VoczdPbG9LZzV1aHV1SG5ZSEM0Y1plUUpvZi1CS29IaEl4ZHMyNzVUU2Q0WmgzZWxLODRKTjF5SXZZN0Zfb1J2N1RkYm1OLTFuaU1uN3JJeUFXOVdKUGktN01ZSFpLZ1BJdV9Pci1KakNvbEpzWE9yQ1o4c1E4VjU0TkZycjhnN2hTQ0ZGUDI4OE5lcG9Jd0ZjS2NJZ2ZrdWI0ZzRZVVVSRzNGaWtKOXU0ZWw4SQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:18:45Z",
-    "hash": "a332464698ef9de387ad81d4ac8538848111fcbb88826bbd6f0a6502f0b0fd35",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "1 Brilliant Growth Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $3 Trillion Club - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NS0dnWlBXSS1oVktqaWN5d2dQZC1uTGZiRlpvYnl1OHNsMThHOHhlWVZfQzYtY19rTGJNMnp4eW16VWtVdlpzRmFNdUJZRzlpVDIwMTlDRWcxel9fTEhkLUxzZ2dVdk02VTFNRGVNMnV6N19pWl9lTTNJczg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:18:39Z",
-    "hash": "4872b5aa734ca145f48353df4cee913586ec88e45261198fa1ed97203ef312e5",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Direxion Daily TSM Bull 2X Shares Announces Quarterly Dividend of $0.24 (NASDAQ:TSMX) - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU3pIT2VoemdwejZmS1NFVTllQlF3XzBORnRhVWNWRmFPcmIwa28xV1NWc21qcFJRZ3g2clo2VHJaZjJYQ1B4U2Y5dzRsVG1TU2Y0TFZYTHF4Q2szOWdwVGptcWU3SUxxUXp0THdHTHZ6c0FscVpiTUdwaVRpWkZwY1otbDVVb0oxREUyTkZIVDNGUTNhWGN6T3hPZ1BxZVV5QmNKZWc0RXpYZmFvWnFMZGJpSEVmR1h3RXZ1eldBQWVPZ19jQzBxaDRWTGVDNlU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:17:20Z",
-    "hash": "e424dbfa7188fd45e5d05900ceb91dd7df0b28014d08c4ba62b08d14addf805e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens Healthineers stock hits lows despite key Moody's rating amid China woes and tariff fears - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb293M1kxRmRCeDNRZndYOEhkVHdpMEg1X2xONFk3SkxJbUNaZXVhbVJxSEhpUXRfUm1hR014SHk3LWdaSXpBNW1Bb3BsUERaTldOeFZ0VmNNakdLU016V2pWOGpVTGFBYUhNZkJnRXlJNEU3Ui0wMDZuNUQtZkZuRWZBQzFlVWNaNlNfa0o0cFlXRWdnekluejVrV2JJUkJWSXVJRTFsLS1jRmpGajd5Rk5VaHQwZllpTDRGZU5BaGE1RWlhZTBsajlNUnpYQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:09:10Z",
-    "hash": "866b7fabef1a43f5d15a8bc2c4455e548e88e430f722dbe4d85d7fb2759b622a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Here's Why Nvidia's Stock Looks ‘Relatively Cheap' According to These Experts - Investopedia",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkNvbnlTdGtWaUxodlU1R2NQSW5od255YnpGUUtiNks3RlpUSDl5T3N2WnUxLTdkUzhQUEd2ckRLS0k0WkEyUFpybzJmbE53NldTOTJqTVdUWEVVajZaWlI0QjFGd0N5N1JzZ2xqYTJBZTdEY2VNczloODVGTHdWMFNzTWZhNWgtdWwwcjNybS1qLVh2LUtJdkVYTk8wOWJNbjB1Vjdjc2NvYWVpdHBuYUtENlQ1NnNTb2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:08:04Z",
-    "hash": "d9477268a17472276a28246baf3c6a04f4638d3fed2b16826c6d9da83a177a10",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Here's why Nvidia's stock looks 'relatively cheap' according to these experts - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUWNpQlFlRktIaWVkVFFBV3RrNTQxeTQzTTdFbkd4LTVoeWhpZTIzcVRzV1ZhY09La1RZaDB6N0JlZzc4NGkwTk1pVXhKWnZEaE14NGdOWXhpRWQ1dGRPYnNTSllEVDJRM3MwNXdnVFMtdWFzWGs0YTZodlFkNk1vN05Oa1NGSTFJYklUbFpLTHJEeXE1NkdTcFVjUzZOOFVEbGhYUXRKSzItSW1LTjJyVzItTTdsVkJpM2NfZHRxNWtxQ2RYYkFtUVVubVJ2OXpNTWRxT0IxakF2d3lweWt6QjZ4TWllRmR0dlJz?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:08:04Z",
-    "hash": "87b2d4a31aa30b9e0a61dd7038c3ed74b952e50fe1ef058bac72b1af078c5153",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Drops 39% In 2026 - Yellow.com",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvdy0zdE9ieExaZmd3V1ExdFg0bGhoWml3WnVxdFRRdmt3UVg4bEFhaTVpN08zWWNkM1VjLVBmbjQ0YzM5U3ZJaWxxc0J4NUxNTmt5aXA4T2JFQWN5VE04dGZqMXRXT3N0UlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:08:00Z",
-    "hash": "5c4ba57e0a4866712c030d34b222da6027c06061eb8ec5a70fc27ad845296262",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood announces $1.5 billion share buyback - wkzo.com",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OR1l1cklSNG93X0JOUXB3UHJPODdENEtvMTFlREZwa3A1OWg2akFLc01OVHJyZWV1S1g5MlpKcFFUNWJQbHo3TUM2Q1dEY1RvcnM1SVYwRWNfRnFUZDljdTlMeFNqOGNEMmNWY0ZQelVhZnJ0SEhheUw3TlpHLTQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:05:45Z",
-    "hash": "abfc591520d8a173079be9fc30abf422d83f81982303848c89d593c7e7a65a3a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "This Under-the-Radar AI Stock Could Be a Better Buy Than Nvidia - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTBXWnFfVFU3aE9hZWhjUGhWd3Y4X2ZyRDdRNkxrWjZNNnZsSExiV25Vd2RhSlhJdjN3dm9iVlJ2QVA1RmZjOUliRHpZMV9NMExCUVNUOXdVVk9BNFpYaVgySWNrNXZsbG03dlNDRlc3LUdqc0pJeGZBNVVIWEkyTktOcnJfOEJUY0JWVG1fSlo4dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:05:03Z",
-    "hash": "bc87ce41079c682a653210a46ba6ef1b533e61ff41dc97da101b05fec9bd72fb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana’s Builder Debate: What the Foundation Says It Offers - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHd2dnAtNV9GaXJpRVRsRENRNW10ckJ3N1pxUHI1b1otdzYwLXl2SVlsV1g0MG05Q2U2V2ZUS1JvSGMzSXNQRDVPSU5Gdmo5WUhVUXJvTjZPTExWS3JpcGI3eF9HZm9SMnhEWUdKOE1PUzQ3UXQxblZ2c1NVVDgtZ2p0OFBvUWhLUVFr?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T22:05:00Z",
-    "hash": "26fa3642a34883afcc01280382091316acf1208250b4441d90620141425a4782",
+    "published_at_utc": "2026-03-24T23:22:59Z",
+    "hash": "8dff0b7c9b488e4b32e8f59d98d2ac35a6231797d6476e6acca3554c44df5dbb",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Crypto News: Pepeto Announces Exchange Update While XRP News and Cardano Price Prediction Target Strong Recovery - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPOHJoSWxKakptaThEcDRVTTI2UlltaGY4eW13VWxDRVF2SzFkY0RNV0ZoUjluZHd3ajhFbWtKaUtSaDVqU0VtY0NGM0J1bWZPd2tpZ2VaRl9HRncxN3BkT1VUV0Zja2pwQzVFY0FTRWpjYTdkQ2JzTm1Hbk03ZW1aY0xfajhrNmlaYTRQZVJWOE54S3g0M2wwaVBremZBQWFRbzVTMmFjcVVyV2pVZWVyRnNKcmp1aXR3YTNCaDNVWWkwR3RoeE4zWnFEWEVONTlmdGw1LVRNUkdtMUxxLWxGY3MxR2t3VjAwWDRlOHVYYzNVeDBxWkcxLXp5QUNEYU02OGZkeGRRQTAwUFprRXpwZXhGTdIBmAJBVV95cUxNd2RiV1hvN0xjZHk1SU9TcEoyVlN5djhUZHF1aUg1UFF0OHRDWXd4Z0hwblJzQlN1NEdXMkl4OUtIazFOV0lQa0h6eVlIRUVaWUhhRHNmWXZrYjFXcXAtcGlsMm9ZcF9GeFdCYjRzcUtpNGJweHJFMDRteXR6M0lwQWxMN0lYd0ZDdnY0WGlDdkh2dVhUc0EtT0xMT01lOVkyZzZWOC1NZkowcjZKZW1VY2ozaU1nTWhrZlk0dEE5bWwwNWo5OGMyNTlKdVZWOEU4dW1LWlFvYjg2TURWUUtoVDNya1A4VXRQTjdDdko3U19JZFo0eEZaX3dWSUUwWk93eDI5dUpQT19qM2JYRGxaVThZalV5Qm5S?oc=5",
+    "title": "Ripple (XRP) Price Prediction: Token Falls 13% After Commodity Ruling as Macro Headwinds Erase Gains - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUFLV1hLTWhIWjYtLU51SlRNX21CRUE5aHAxVmNSYWNTdFY1a3VQSFVxcGVnZUNjYlIydnVLVXZoR2xTRFJ3QUtlUnd4WUViWUpHMXBSMmc3dGZQU3Z1ZER1YTZnWHpXZ1dUSnRlazQ0M21FajUwSUFwYnFqM3hPV3F3Q0N5YXU3bm9uUFNOcFNCcEhteHhqMExn?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-24T21:57:09Z",
-    "hash": "3968e85fbaac844a035cff34cac58b4e7cd26196ce2c50f117f15e5f77bca690",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "1 Brilliant Growth Stock to Buy Before It Joins Nvidia, Alphabet, and Apple in the $3 Trillion Club - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUxoWmpHZlUzdDRzaWJFUVR6ZzJnRkszZkQzbHY2VFRKMzdTSUoyYmFUbDRYd3Vfa0NjVk5YbXJXRkx6eXNuaC1VUElRSzdzb0kySnMyUVkyZDJnVUxWVXVObU5pUHA3VkR0UDNvdnF5ZzYzMDFrNFVkT3dKVWlLU2JidUZ2TjFzVTZHYW9fQjVQNW9zV3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T21:53:53Z",
-    "hash": "6e18f6e345a9292659b0762f893ef9b15c0fab6864d5a29757dcd8a1af93565a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer CFO Dave Denton highlights firm's recent oncology milestones - qz.com",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTWItaWczVEo3TzJxNmp0UkgwaXRhYU5IbmljMDFfTDRjZ2ktbi1mOVhyelU2Y3dKZDlnY2pZdFFNUzJCYkxoS1NLcms0V3l5M1hGZUhBbVF5U0VwUkR3aWY5NkhMSEls?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-24T21:50:44Z",
-    "hash": "2ee1163f26e3b7809b009b8f39980675855be7d8786679d65b0b29b18430d8f8",
+    "published_at_utc": "2026-03-24T23:09:46Z",
+    "hash": "380235255b076a65b2166b63361260e500fb9947fd4689a904a6843716243e4f",
     "source": "gnews"
   }
 ]
