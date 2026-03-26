@@ -1,62 +1,362 @@
 [
   {
-    "asset": "BP",
-    "query": "BP",
-    "title": "Assessing BP (LSE:BP.) Valuation After A Strong Run In Recent Months - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVlFlb05GdEtoQTIzSDFjeWh1RzVPWmo1RjBzZUpRZGFCdmxCVG1jaDBwaC11aG16Tkl1c2RUU1QwTHNnbkN1bUNVS00xbDQxa1NhVmxCT1VmdFpidktVWUJDekV2REZPay01N2lmbU9kWENJdDNoUlNvMWcyOTByNE5ZZHU1MHluSDY4eWhnUFdRU093czZfTE1zRGVIQ20wUXNzbHZBaHM5a3R4OHc3eFprRUdZcVU3VUdvOHVsWdIBxAFBVV95cUxNa0gtNEtOdHlpZU9sQ2ZKeXdockhaeEtISzZ5UUJiZXI0YTdFZUIzcVZnNUZ0UGtaWS1kc09lTlpGVFJPaUZVdExzeTFDQ0hOUnozSWFSOFpNZzBrcExweWk3eHViX1hfaUJXd2pCYVJqSWNmM3hwMkx4U3FjbEVBakhRX3RYN3NxZ1BTOUVUNHd1MUhpYl9Da0htMDJLbndUSFpKUS1xS2dHa0lsaUNRWDNNNHhQZURTb1JVcjJGMnMxT0oz?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-25T23:28:29Z",
-    "hash": "94cb74f479a13fc54b23213ad59f6eb596c9a3773c52c869031f65e39ed1725b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Crypto News: Pepeto Updates Binance Level Exchange While Ethereum Price Prediction Targets $7,500 After Buyer Volume Spike - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQb21EUkIzM1dMQzRiYV9WQnhoeENMTjBHWXVlZTFxSlFVOExvZkFONTVfRUhhVXBwUkpTcHo3eUd1cUxrT19id2U1ZWpSUnBtMDNXNHRNYzJQRHFtQzFkaU5iWjE0QU54bm9PaU1DMXVTODBpcVlLbVRpQk1qdzZ1UEhmYThSMm1rQ2pBUGg5dGc0cG1zVXFETms4QWNfNHZiV2NtcnVRWGJFY3prbl9YSnBtbTFoaEtjZUsyaFNoN1ZubGhya25Qc0dManJVSUFlbnFNcVhIWHVCS2dYZ19NWFRWcDZjZVNwdjdKZ1hGQkFDRjlnME9KUk0xc3ZGSmU5MUtCMHA1cG9vdXRQamIxSnU3cnhjaGZfWFlwVVJB0gGjAkFVX3lxTE5FU0ZyUnpvOVhnNVBfRjJQTjJOeGpxN29zcmJQd0hSUUN6WUZTMzhOYUhMaUU5RzdWNk41SmpYbWZBb294WTN5dEFjRjhjclg0N20wMHpTZ1VTci1YM3o4QjM1ZElDQXVIT2dHcGFYOGUwUHgwRkRjTy1tQ3E3NmpwNUJ3amNQUWlNdUpsVTUyUVJ2VWVYcF9DbHdQMjN2aWNDMnlvZnJHX2JVMENLTEhmcS1YZzlDRjQ4bzhiT0RpMkpGZHZPcUVtS29SOU9jNGV2UFlrdkpZUkVVNXFjXzByaHBacFFmdV9JTHVvQ1pTczVlNHVCdnc5bHlraVh2NzZuVjU5d2tlZGNMay1KM05EWHVKOGZQTlJRZXlnSW5wUW9oVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-25T23:26:48Z",
-    "hash": "3126c28e0e51cacef79492411032f5b58241be187686f8b3ea450c7f8d451678",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer Inc. stock steady as Guggenheim hikes target to $36 amid Lyme vaccine Phase 3 success - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcEs2ZlRfaWlUa0EwR1FRNTJyaXZtT2ZTNXN2b3BEU19pYjR6aThjbFZvSHQzRFltdWt5bUlRdDd2UVFlRThTLUoxNEhTTTZwRzdxMFFLRlVoVmNnLWFwZkxjVnluTVRzd3BnMG9rZVh2cG53NXNaaHhzRG96UkZzck1kVk90d055SWd0ekh6QVJHUUF5cDRFd21rZklyNmQ1UGdlaVFLQ3hVRVo3VFpsY3p1MHRlcVljOEE2bUFFWEFEc28?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-03-25T23:25:08Z",
-    "hash": "b99f30cec8ff01b527831ce0f815c8c8532d9745df1bfe6aee546fe57ce27830",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Market structure bill compromise draws wide-ranging reaction from fractured crypto crowd - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlRQVlY1cXBWLXNsdkhOZFBsRmphX2FVUV83TklfeWhUWTk2WXozMUNUU3hUeHVNNGhoWS1BWnlZeldUV3ptZHo3ZURIaTNJN0tMWGMxNVRkakotZG5Zc2c2U2h5R2xiN1VwV0hlem4wYzJXN1BLVjRfNXAzWk1jcHlpN3Uwc2dBcWNlY0g4RHFRYlU5VmpFRXh2ODlHbG55c2JWb2ZScFJ0LUlQZXQyMVE3UEZRc2c1SHBhaWZqdkVSTHBnd0p1aWEtWQ?oc=5",
+    "query": "Coinbase",
+    "title": "Coinbase again declines to support updated Clarity Act draft: report - The Block",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45dGplSy1ZaExzX045OUpqcWlxcU1VckhyT0JiLVFuWTBUMHBkVkZpaDhvZklxMTRiQTRtZ2FFS0Y5QUp0YXpSM0YxVzVBeWNmdG45Mk1IUXM4R3hCcm10ZDFOTnVNUTVrMHlZVmdOSU9aNlBhUThxbjVB?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-25T23:13:06Z",
-    "hash": "8efe3df0809dabb9eb727759910f24a81e9961bf938369495ed38acdcc708a0b",
+    "published_at_utc": "2026-03-26T02:29:32Z",
+    "hash": "76d727169910ee76ded2c92650f898bb5222d220eb2f913f801367680061a5d7",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Analyst Predicts Bitcoin To Gold Rotation That Will Send BTC Price To $800,000, But When? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSEdnWHo5cGJTV1lONTAtMGFGcmJhbmp3NmpHN2RZc0hrUHMxZlhJYUVBd0dacktTVGQwRUQ1MXZ5a1FyaXM1QnF3WWFNV0NhdGlka2RIY1dpY3JtTU5OaG12OUJ1dW0tM01HV05TZmVyenNYTHEzSzdXd3lsck1Ja2ZmZnlRajhYaVhzdWFqaUl4dE9oSG5Vcjc0b2l4NWxLOExudjNkekh4UDUzOGRva0hHY3l2ZFdHcE5hRDJoS0dhSjIwdE80UURHSzdEZXhSeDRteGZDaExyWDUy?oc=5",
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Memory Stock Boom Seen Resilient to Threat From New Google Tech - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTFVfZHFWd3VwcEZOX2pIRVBQa3VmcGw2MS1lTHZaUnVhN0htOUU5ak5uSlB5TVYxR1drV3ZUSWJzVkNFbDhzVVNQQ1hicllleFBiUHJVZnNuU05Yb19yY1hlU0NuT0ZueXJHbW5Ca0Nrc0dCTTlYNExfUTY3Q2xzS1ZUY2VldGptcXZacV9WT25xbENxcnI2OTRQanNZUGF6SnJHOWZ6V3hDSVpmX2JXTkJHOEQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-25T23:00:42Z",
-    "hash": "3dcb0c8cce9d8a5242741a19c56b324a34ad412c1055606156405b869656d82d",
+    "published_at_utc": "2026-03-26T02:29:00Z",
+    "hash": "4a68470bbbf35ad54d960a54dacda49a22188e3c980331308c294b6a73bf1fbc",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "Ripple XRP",
+    "title": "Ripple (XRP) XRPL Handles 2.7 Million Daily Transactions but XRP Token Holders See Zero Revenue Share - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcnE0TnZxYmFXR2REV3N5SE9TLUJyM1dDZ24tLWVseWo0V1d4czNyTUc4bXdjOHZKQnA3eXIzdE1oQXJWVm00VWRCSHJXOVhLUkUyNnY3VEN6VkRqbFljLXZzaF9EUXRLajNlOW45ZDlPWWM2Zy14Sm5SOFphLXNNYjdvZDNlSEtuZ3lZR2JXSHhaalZnVWQ2cXhnYm9zTjA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T02:26:55Z",
+    "hash": "79fb2038cfefaf2ba19643c3ef33f1108533a5782fcd9ae2bda04704361dca70",
+    "source": "gnews"
+  },
+  {
+    "asset": "Air Liquide",
+    "query": "Air Liquide",
+    "title": "Air Liquide builds Taichung plant - Taipei Times",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCMTFCUzZla1VydlNacWtFenNjT2tHS2FDSnBjTmk3UVhxZHFDY0JHaTAzQVRVMlpRRExYN2VEZEdQTzNPLVRaTUJwVllZY3MybGpoQVNWZW9CeXRRZW44YmZOSTAtbEtQUjJqM0h5Ni1aVHBlWEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T02:10:36Z",
+    "hash": "1f5bddad306b0653753d82ffe3c204680ae5f8ec17fa17992b5325aa13c648f2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana (SOL) Pulls $540M in ETF Inflows Despite 57% Price Crash as Analysts Maintain $250 Target - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlRFajBVbmF1UkVZTF8yekE4NHo4V3JIWmlURkhSd2ZGQlUyVkEyYVVkQUZnRzhVUFF0a1JUYk9KeEhKa1d6QnJFc3RRR2FBRzl2cWNmbDVfdW9vUWNNZ0ZlaGs0NXZvb3Uwd04wUEVPM0l1YjZPRWU2ck1iUnVldjVDMGcxSGI4SXZQc0xnYVlDallfTHBTUlc3c081S1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T02:10:14Z",
+    "hash": "dfe5ef9d93a3d5d9a757a29b8a5ceb0ba3bb5ee6ad1fe385ef8595bc218ba51a",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "CFTC’s first self-custody no-action letter signals new era for XRP derivatives - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INHZoSU0zbTBXOXZvYmlZRUZTV3VJUVBqbzJqTUV3VkllOGFGeDlPeWV2YlJPazM3cWpWX0hxbzFHRWl3a0JscnBTZ2pzT0xrNzA5X1JB?oc=5",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Amid US-Iran Truce Momentum: Here's Why This Analyst Thinks Now Is A 'Great Time To Buy' BTC - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0pSd1EzY3VHc2VpYkN2cXZOOFJnU1dGdmg5RzZsU29ETlcteGdvU2hiVXVEOG1PVVhieTF3Y0xmVmF4Nkw3akY0MUs0WlRiTkFOYkVMaUJRSGhJZmRDX1VJamFOaFRfS2VkTEtSV2huaG5zSVhROV9GOGI3VEw2S1NnQU54R2RMT181OGRJVjJhV2xuazQxcFlMbXZXZ1VXTl9SY2xPNkNpRmZsSk9oWXNYNWNaM0h3R3lR?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-25T22:49:23Z",
-    "hash": "a7c178f5db69cb1456f4e3647f16026bf9d9dd5cf89ff7b96110e4d8ac692053",
+    "published_at_utc": "2026-03-26T02:10:00Z",
+    "hash": "4e3c9bc44a57920c5429777de1b292fee9240510ca01ccd7b4222743bc6654ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Amid US-Iran Truce Momentum: Here's Why This Analyst Thinks Now Is A 'Great Time To Buy' BTC - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0pSd1EzY3VHc2VpYkN2cXZOOFJnU1dGdmg5RzZsU29ETlcteGdvU2hiVXVEOG1PVVhieTF3Y0xmVmF4Nkw3akY0MUs0WlRiTkFOYkVMaUJRSGhJZmRDX1VJamFOaFRfS2VkTEtSV2huaG5zSVhROV9GOGI3VEw2S1NnQU54R2RMT181OGRJVjJhV2xuazQxcFlMbXZXZ1VXTl9SY2xPNkNpRmZsSk9oWXNYNWNaM0h3R3lR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T02:10:00Z",
+    "hash": "4e3c9bc44a57920c5429777de1b292fee9240510ca01ccd7b4222743bc6654ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Steady Amid US-Iran Truce Momentum: Here's Why This Analyst Thinks Now Is A 'Great Time To Buy' BTC - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0pSd1EzY3VHc2VpYkN2cXZOOFJnU1dGdmg5RzZsU29ETlcteGdvU2hiVXVEOG1PVVhieTF3Y0xmVmF4Nkw3akY0MUs0WlRiTkFOYkVMaUJRSGhJZmRDX1VJamFOaFRfS2VkTEtSV2huaG5zSVhROV9GOGI3VEw2S1NnQU54R2RMT181OGRJVjJhV2xuazQxcFlMbXZXZ1VXTl9SY2xPNkNpRmZsSk9oWXNYNWNaM0h3R3lR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T02:10:00Z",
+    "hash": "4e3c9bc44a57920c5429777de1b292fee9240510ca01ccd7b4222743bc6654ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Will Ethereum Price Crash Below $2,000 Again Amid Whale Sell-Offs - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWVZMOVFTSXlMakRNLVNGdjZCNjQxNEFZVE9vQkhVSU5lN2NLdFJEZ2M0d1hHNkp0TmZORDZkZmFpc01RcG02MElsTWt1U0VYa2M0UTJ6dURMQmIzV3RndERUOGZ4UEVXdkpuTERGajMxaDc0Vms0eDdKQ2xfZjNGQ1QzM2VDMUVaVTNUc0R2S0NmaFNLU3B1VzVZcDY3NjRlbGhYZWlXNHZzRnIxOTVYbUZNbWJfeWdoUWJhbFprQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T02:00:00Z",
+    "hash": "799d83acaaee6bbd154103e99bd6fc0a8cc27652d223216bb28c24c3e2128de6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana (SOL) Price Prediction: SEC Classifies SOL as Digital Commodity in Landmark Regulatory Shift - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTE0Q2tVbFB5MWhRSzVlal9SX3pFZm8zb2d3eTlsNF9UODlyZXN6dzAtUF8yWDFMakRxSGJoek93M2hHYnR2ZUpWV3RXNWl4UE5EcC13NVBvaUZ1aFRTMHhYYUtOVnkzSUVVZjA5dHdiWDhBbVl4ZlJpOVdfcXRnZEd0aXRiaFpIZEZvRjdrb0drUFBpTWFDNg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:58:22Z",
+    "hash": "8c6066e5bc5b431e2f87f4b11bd8da5aee564e38438746b38114804839cd6b7b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Rejects the Clarity Act Draft as Stablecoin Yield Fight Escalates - Coinpedia Fintech News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYjJERWxpR3pDbEd1cWVOQWdUQVgwNE94SDBtT2Z1SUJnRXdLeEYwVmRiUDFTV01zWVVzbmxjak1vV0RHLWcxRE05WVUzT21nMTIwUFFRelhiTWlkTVFLdlp1Tk5WLV9jQ0NkZEJiODdFRnQxWDBfeDAtU19lQ19BMWJOMlFBNEw3NlVvSF8zOC1ORFVzZUlQcE5UaGduT0xmT2JXZNIBqgFBVV95cUxNTDlXX1BQeVJISWtUT1N0QURnVmlNekNnRUlGWURzZGhtdkt6d2pISWpSQVc4OFV1U2g3VVZtT1Z2MWdHSjhJYW14S1NYT1RjcHFzejJUUEFUX3psZWNaODFNYk5xZGwxNjBfWlR3YjcwaUxHc3ZWX0Nkdzg0R04wcTczN0lDZl9YbWF3TjdKLUFNRTRqdlZlZjJuQVp4OG1QaVplRDQzbUV0dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:51:00Z",
+    "hash": "4ccf0c094c8924cb494d7adeda2e992e06872c9b095256e75cd83862e3e86223",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Crypto News: Pepeto Presale Staking Update While Bitcoin Whales Stack 270,000 BTC and Now Target Meme Coin Presales - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObV93aEoxVUZnZnpKUko2V0dmS3pHQkxZQUxGTXBpeUNtU0NjYTA2QTBlVjZPZkRfYk16SnR2MUppTHlQQXlYdkFkMEh6aFFZQmgtRm82N2VqVmh6LUkxSDFibExoZDZSczVrR0h4OS1HYzFTZzY1aEprY2Vyb216bm5GUm9jRUYxUFYyR3h6NEhHZjN3bTFjVlpVd19rcUIzMmp5cFlKVlZTRFVyMjU4cU9jcjNHSG9BX1BwQi1Zd3gxSlVMVFJHWWUwR2tZcXFKR3JDTU5iV0x4aWtFWjhDVXc3WXhWeHNxU2FHeHpFOVZHVU12Q0RMc2Y3d3pNMkN3TU1vNU9qSU9VbGZhX21UNm8wMnNqd9IBmwJBVV95cUxQdjZiTThfMHpFLVV4a1BTNnBMN0h3YmdMdG8zRE9UNGg0Zlg1UHJYTnE5bmEzUzA2UTlEelIxcklGUVFxamQ1aE9VMV9hZklLZXdsV3lnVEJPenFERVRkOXBBUWM0NV9RNm1nYV9JQ3B4d0FvVEVXeWRFekR5eko4Um5SWXRVUXVTOFh1OTl3QjNzR2xuTW85X0NLSWZDbUdSX3RZMW5PR0pYZUJPR3lLQmllN3dCV1NZLUpBQXdNZTdHY2RYbGhtYVpKSXYyWjJjVFlYVG51OVJZdmxRUlhxclE1NnNhSHo4S20zMXhIQ1lfS0hsTGhyd09vNzJ6c1RsQkhqSHZ5bERlY04xWjhySmJLbURrLTA4Ui1j?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:47:36Z",
+    "hash": "4bfc943927daa923854ef5ac7243276a1faa64e186b335a503baff0245a29804",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Crypto News: Pepeto Presale Staking Update While Bitcoin Whales Stack 270,000 BTC and Now Target Meme Coin Presales - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObV93aEoxVUZnZnpKUko2V0dmS3pHQkxZQUxGTXBpeUNtU0NjYTA2QTBlVjZPZkRfYk16SnR2MUppTHlQQXlYdkFkMEh6aFFZQmgtRm82N2VqVmh6LUkxSDFibExoZDZSczVrR0h4OS1HYzFTZzY1aEprY2Vyb216bm5GUm9jRUYxUFYyR3h6NEhHZjN3bTFjVlpVd19rcUIzMmp5cFlKVlZTRFVyMjU4cU9jcjNHSG9BX1BwQi1Zd3gxSlVMVFJHWWUwR2tZcXFKR3JDTU5iV0x4aWtFWjhDVXc3WXhWeHNxU2FHeHpFOVZHVU12Q0RMc2Y3d3pNMkN3TU1vNU9qSU9VbGZhX21UNm8wMnNqd9IBmwJBVV95cUxQdjZiTThfMHpFLVV4a1BTNnBMN0h3YmdMdG8zRE9UNGg0Zlg1UHJYTnE5bmEzUzA2UTlEelIxcklGUVFxamQ1aE9VMV9hZklLZXdsV3lnVEJPenFERVRkOXBBUWM0NV9RNm1nYV9JQ3B4d0FvVEVXeWRFekR5eko4Um5SWXRVUXVTOFh1OTl3QjNzR2xuTW85X0NLSWZDbUdSX3RZMW5PR0pYZUJPR3lLQmllN3dCV1NZLUpBQXdNZTdHY2RYbGhtYVpKSXYyWjJjVFlYVG51OVJZdmxRUlhxclE1NnNhSHo4S20zMXhIQ1lfS0hsTGhyd09vNzJ6c1RsQkhqSHZ5bERlY04xWjhySmJLbURrLTA4Ui1j?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:47:36Z",
+    "hash": "4bfc943927daa923854ef5ac7243276a1faa64e186b335a503baff0245a29804",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: RLUSD Stablecoin Hits $1.6 Billion Market Cap but XRP Stays Below $1.50 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUZYUkxtaXBjUHVlelVoRDNTUkpDZnJrS0lMMFhyTERHOGNPazFaZG1EbV9HZlpqak5mNzRZUzd1eE93X2pkSWE5ckM2LW9tMHhhWXpYU0hKZDNBQ2NMRjVHWm81cDVNSk4zZkRtbGVUUUVlQXEtZVlhaHpSR2hid1B3bDJIZkxMeklrVlNOWWJhQU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:42:00Z",
+    "hash": "53d4344b396c9b1478228a7ca7159b79fb1dbb8c0c4aedeb987ac745012526f0",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "TSLA stock rises after-hours: Musk says Tesla, SpaceX still betting big on Nvidia ‘at scale’ despite own-chips push - MSN",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUmUzMFFYTFRWaFpDV21MMmZKXzVGUU1xVHgxbDBzSmQyY0NaWGoxN2pZYm40NFNUZ3NCaXFudW0wZFNMUTVQMlp5UGgzVzdwQlY5dGExdmhvTGFwdUNncDYwdlUyTjZzNEoxMmdnX3dHLUVvbTg4NnlCZzFBSDAzeENxTjFueWhzMmFrWTNzNmNHZkVZX012dmRJZmFuZG56M0oxTmp5S3J5OGppaG5FZER1OVF1SFY1NWlZNE15VUJTMDJDaWdnVzRxWU1lbzNmd2pjeld2bUdfTWdTeE5UczFISHZPWXJ6SVJtaVNtVHNnRE54dlBKNWp0ZkRudVduUjUwc01sN3lzOVlWSkw3Rw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:35:19Z",
+    "hash": "7333af31189a9d37daf2e65fbe828347262d5b153d1433ae73c2d6632e4642aa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Strategy Elevates Bitcoin Security as Massive 762K BTC Holdings Raise Market Stakes - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaWR5dlROOVdxMUEzNk9BY2FYRGEybDRCTEp1WmphT1c0S2NfUjJVNXREb3JLbDl6TkVqdzk3c0praFE4RmJ2R19PVnp2dU1oR05RUnBnU0hvX1ZENDJqbFIxMkx5cFBETVVlSkEwaGs1QnhrRDhWYk1iV3BzcnR5bGZsSVJ3V01IcG9TYW00V2VuanF1NEpQU1QtZERhY0xmRTNTXzRhT2hLRkhIeVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:32:30Z",
+    "hash": "ab63722838bf2bb780e2734e272206733d20c0f801d3a318e78a1f952c65df24",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Sits at $1.42 as Treasury Yields Compress and Investors Seek 80% Profit Share Alternatives - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbUs0X0loVFFfVk4tU3FhdEpxU0MzUGRRMzRDcVpERThpRmN4WW1WU2FGRGw4SU9XMjNrMHJKRGZPTkw1ZlhzUmdMeWFTSmhycDBGVEhNbzQ0TS16NTdFNGp6aHBxVnhuYXV3ZDBlYnhKQUV6VFhfckZYWGZ2bmEybjJqU19iNGtZbUdHR19YUlU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:29:11Z",
+    "hash": "8ef4d679731d7cae7219d3c4fd73b9534ac569b73d02ec2551688a9d98cf045a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk’s Recent Momentum Shift Prompts Fresh Look At Valuation Gap - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWWo5XzlWbmoyTzcyczdMX09fVHI0bUNnMktjaHhJd2NwbFh1cmE3LWc3QnhQZl9oNnhZWnlJZnJmbFBrbUsxX29QcXhjMlpOeEFEWmdtbXQzOGdLa3ZwT2h3UElpOW9ReTV6YkZWTDViNVQtNGo3b3RNQU9zbDNpTnl0SExDQnhwQ05pQTFvOEJVcU1Oem1NcUF0UW1RWVNRUkJKYnBEeDZyc1ZKdldGY0tKN2hRaWQweUozcXhERXVmVWpHT3lUYWRjUXFpcXl6ZDJMZXdqTk1iRkHSAeABQVVfeXFMT2ZmQ3VldWljR3cwcVNrRkdCalltTEM4RjdLX3R1TnRkUEQwNW9OY2hGcnc3TzVvdjBYSmE5bzc3U3FOZkZZcnBYOG9rOWdjX3JDeExzbVhWWTV2OU5oZ0FPeTNyOVZOZ2VLVGoxaGdSQU1kcWVmLXZ3bGgtWXZ6VjBsZlNSOEs1SU82U01iRnlXTGJZVk1oRkxfNEFDcnlZeWlvTVNzV0pUa0xvOThXbXVmYVNDZWYta0YzWjU5elVnWGdnMF8xcm5yNGZTU180aDhWYThmdG1BUDBDNXcxU3U?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:15:32Z",
+    "hash": "ffb72bd36ddec361bea5be06518f95444b97c12873efaac5c8d252c180b85a23",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia vs. Alphabet: Both Are Down Big in 2026 -- but Only 1 Is a Buy Right Now - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtZlFZS2ZhZ0lxX21OVHYzYnQ1MEJFOWQ3Y1JBZG1SMFBIOWJ0T0d6MmJoSnB6UHBOWW5TVmt1VnFiR1BoVVRSS0dJZl9aM25yU2NOUUdWTF9UZlFwQzlaMlluaWl3VWNqZE5pLTBXSnNUMXF5U0wtSHBBdUU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:13:46Z",
+    "hash": "2ab468b38ecbbd1248901d602fb46fcc532e0c07541758a307ab03971fbdb8b7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy AG stock surges 4.55% in DAX relief rally amid easing geopolitical tensions - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0F2V096RTN3QVlfbDY2V245dzVBYXM1OGp6Q1pUUFk0bWptSW1aZHdnRW4tdHFSQVpiM0lDXzA0RFVCVUduZnFCZS1NZmpWck5MY3hIOERzdmNTdWRrWlpOb24tUUlfNnNhUVdsMXRIeGR6UDY3bVJpeTNkZzNGMEI5bk9nV2tVNHMxQ09UZFA3ZGxXUUNhSGFiUFYwQzdObXlBTGVxZ1Q4UHV0d0hsektIYlpaelVGbmo0aExLWkxROElKNWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:11:54Z",
+    "hash": "19aa07b5782df73af3ea7c1c5089be3922166a781bf9dbf566fbe84a890ad6d9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "McCormick & Company stock faces analyst cuts amid Unilever deal talks and Q1 earnings anticipation - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFhoUnY1R3R6dUJNNFNxM2d2c3I2Q0dYUHRBWE92T2xsaURKZGZfR1JVWGdxdl8wdmZPVXhtWFJVUVpJVFZQNGJGQ2E2ZVd2Wi1DX1YwUFkxc3JjV1JnbDZncTVROXYwUDdqT1ZldVozN0FoMnhhaERnNUdHbUI3RVhQTngwX2VrMjRPWTdNeGE3QUJwZ0pVMlUwX1hlRkVvQ3BUVUU4R2hsZndpdDVmTk16cFNzc2lXZkc0dEVQaVVraHVNYWlRQ2VB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:11:14Z",
+    "hash": "bce6c0c7bd842052945af2c49104478a6dc2a0304fe099ed7184cee0974bb64c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Alphabet Inc. (Class A) stock faces pressure amid recent declines and unusual options activity on Na - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONEhJbnI1cFlFaTg4V3BpYU1Ka3lBLVUyR044d1RkaG1yLVM2SkR3M2k3YW1JZllaOVhsMGpFM2xoOHQ1U3R6ejJNeXNjdDhNVEVRbFJuYU5VdURJZVlsS2pvUTdGWUZNc1hWZHNtbjZLeExTa1BwR2R2Tkd2VXNkeTJfbVo3dW5zRnJISFRRbUhCM1ZydDFlc3BQQ1prNTVRalpUM2tNcHFKUXp0VVlZQVJUTFp5MHhTLU04S3g0OW9tQmM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:10:22Z",
+    "hash": "ee214fd1992323a710e9d45acdb38b4f6c77128276fc486fa7122ff604cfb191",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA And SLB Target Energy AI Factories As Shares Pull Back - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnN4NmxkSG5QMDJqdWpacGxvVlJvNUpxZVo0RlN1ZlJnU0J3Q3FKcHlkdXNIM01nM09IdThaOElaV3dQZkZ4VkFlZ2ljOVB4enFOUE1rakxDOXNMT21oeFJUWHIwelBoWDZ1cGZ3djU1ZGowcFk2b0J4RkVqNVdkdlRB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:07:00Z",
+    "hash": "d8481a90211b122950b1aaaf085127eff2d30c8c3667cb810737edd2fb215f60",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum rises amid West Asia crisis – But this rally isn’t safe - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNk44NWtmRHNobzZxUTlMRTBUaDY0dHlIclBjNkozQ2FKZ0pER3lXNGZKZVNlNjllOFRxVEdiSHlGc0JlX0h2NXVpeEtkZEg2WWNyUjlSOWlBSzlJaFV3dGZFLXF6d2dBTlQwRkdRb2xRVlRfdjI0TG9WbVIwUlRRVVFOYjhqOHlDSEtvZNIBkgFBVV95cUxObzZlWnFhUFR1RWFXWU5rQXM3TmpQZFdZNk1WR0p4NVQ4azZfOXRaelRPcll0a2FlMGFyTHZMeXh6NTZnSk1PYmhvLWx3SnRjLU9OcXd6MHZBZlY1eTlzcUNZV2tNQlBReVdWN0NkV1dxNzY3dEQ5SWp1RmlYQWVvdzdhV1lKVThweWdUX3VURFVpZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T01:00:20Z",
+    "hash": "65272a0aa193d73d7c9d81c6e5efec38a8cf115b3716268a97774c6a50393d7a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: Mastercard $9 Trillion Network Adds Ripple but Token Price Stays Flat - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGhLSkFrLU5jeE42blJicFUzR25UeC1FNEo1dThid3dYel9XX09Ta0hzc0cyY0hwLVVVc2syYVFZYy1wZHNqQmF1VWtScVlUU3luOGx3dmFROG1vRDFPNlFLLWFXelpiYTJfdEMzbE52eUhXbkZOaGhhZVhicnJZdFZLRVYxT19tM0J6NU5yakRzWXNyUFlKZg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:57:02Z",
+    "hash": "ea8f45a8bb0337bcbe100b46444bf38d7051b6d448b5687d71dcc59d652560df",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia vs. Alphabet: Both Are Down Big in 2026 -- but Only 1 Is a Buy Right Now - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTQzRVV0RHBnRDl6Mm91V2VjYVpLbTJtSktOUG1NYk9HeG5jSTJ0QmNDUk5mOUxNMDFYM0UyVlJzQWNSVzFMMTIxQzRJbGpvX2k4eDl1c2c3a2hxZ0JMcXlEd1ZPZlc2OW5LaS12ZGNNbmJTd2F1MTB4VW03NUswakFWcVNJM1c1ODlZODRnSVZ1NG5BbTJMbg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:49:10Z",
+    "hash": "6ffcc7c1ad590ee2c3408b59cdc033132cb264cdad10a91957fa8eae485f7c3b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Price Prediction: Standard Chartered Raises Its Year-End Target to $7,500 in 2026 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYk4zdVhtcVg1VGE4aHhyelBSVHJGZlF3VWUzd2VTUW01OWg5aHhGYVc2Nm5LOGIwVXFsd0tWSzNKOGZocWMxWGRVMk0xUGNmaUFfdW16WUtWcjdScU43S0JQQUoxVUJkdURSVVo3Y3lHeHcwNlE4dlFVbTZzOTR5NklBa2lHTmRNNkJTd204MktNZVhnSVllcGhRZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:48:31Z",
+    "hash": "6dd24408fda7ed4b8c329914c1f7fbab052f33c61c5e7d02908482217c65e138",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Up or Down - 4 Hour Predictions & Odds - Polymarket",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWV1ljUWhKczlyVjVrUUtZRlY3RHRia2FIenJVd2dfaW5uSmpaeGN1dVhHdlM3M2dYaUNKUWRxQzE0enlzdlJ3elhlYm13dC1HY0t3dzV1SW5PTHhTeFgySE14OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:46:18Z",
+    "hash": "d07fa529f7321b464117f42ab74528641d5edc7aa4779834af1331cf27b0fd83",
+    "source": "gnews"
+  },
+  {
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "Is BASF (XTRA:BAS) Pricing Look Attractive After Recent Share Price Rebound? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXJvYkhmNmM2djFRbVRTNFU0U1RsQTdQbkF4TDF1VkQ4MmFHZ1V3RmE1QUpxN1M1TUM1UmR1NkVFVnV5SnlfOWJZTW5JdW1ONkd4ZTBOMGZtNF9WeDRIaUVCX0dBY0ZkT0lvS04yUXJWdnN2cGx1Rnp1ZERrTnlsbFlRS3ZHWVBDb0JFRi1qeU1WVjhOWjlicTQ2ZkFreXdnRzRZTlk4ekFIeGNQX3RzdVFPcEtDMFNIVlF1bGpTbEU2Z2FkMWkxStIBzgFBVV95cUxNM3BlTHpHcXVzTG56MjN1SlVnZ1hmdTlEaE9iQzNIUG9GcV9mVDZyak15R3UxQWZZZlNoUDZvZjhPQ1RwZ2RLX0E5OTNoY3ZuUEgyV3FFS1UwSDV1MUNSc0ZNY1hiYlc3cnd1dG1rcXhIeERFY1VjMl9wU0tXTFVlOVQ1cUtDVWFCLVpxWVJHN0dkRXBEQVdCSmVMaWxHRnBpdEVBX19IM05lcFZ6U2lkRUQ2U2p1UVVXSVh2d1RzdE8tS3dJbE8xbHhHTTY1UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:28:50Z",
+    "hash": "1bb7c69b021031291251821abb38148cf350291e4f21775e64cb0e95485a5533",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "Rheinmetall (XTRA:RHM) Valuation Check After Recent Cooldown In Share Price Momentum - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWTc3MlFZMGtsLVRyaVotOTJlczlKWlR2dWlQZGxubEIzVzlVWEc5dEk4YjAzTWgzUDZrYXlmelg4dng2T25Ka3E2VnB2WWpnQ0twM3pwWl85bVFabzlXeVgyMkptM083dTRKakxQMk1yeElCV1lyOFVXVlVQaTlXYlF1S2xwc2lIbG1FeVRtVmNqMmFiYkhCaEtSaUlXQmtNaXJaTUdtc0xreHBaRXJ5U0p4WDV3bDNoQ0dRRW14QlZCcEFtQllwQ2R3WDgtd3NlN19TONIB2gFBVV95cUxNbTdhenVDS3luQllVSWZCdUctNVdtUFFmSkYtNmdXaXRsM3RDdWo4YVVpaUZJYzlQZHVUalVfS3hVYW9Nb1N3ZDZJeTRDbkNBQjFFSHJHalIxSVBFRVFWY2RGUlc5dXRVS2NxRlhNTXNWamtJcDNXQWk5VkNUMTRTSVFZcl9kM0dUMUZlWXZ3aUZIYlJzaHlpc0pNT0pyT1FQQWtBcm5HOVViRmtFS094alpzYU1VVlVvaExlRmdrZkZncVdYVHF3bTBlcmpUUUxSRFFwTEJtdnFYQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:28:48Z",
+    "hash": "b89167dbe3f0107458e3df7be498c53c6a67c689942891a863d670e5cbc590b0",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News: Pepeto Bridge Update While Markets Ask Whether XRP Price Prediction Can Reach $5 to $10 Soon - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUHpZX29rN2kwSUQ5UFo0azZxYUJpSFNjNVZmbnQ1eVhuRGVTUVg4N1NkdmhmVThKV0xXY1dlaEN1R0J5SzZLdUh5bmM3Sm5WRXF0ZzU2emlWdDVfdWtsOFpzblNXM0dfb2E5aEtGbmNoSTVRWkxvRUstSWpyN3J4ellWaFFtU0ozamJST3FSalJnZWZuTjlzaHEtXzV2dnZvUFEzdlBZUTl1dklkY045V082elBDcFVOYjF0ZEpldk9mYVY0c051ZDhuamw2WDZTUHJaMGZxQjFKcGxTNFlEaEUzTWJua1FIby1IdXBGSy1sczdFWC14aldUNFplZ3p0clVKVU5hd9IBjAJBVV95cUxQR1VpWkZFOFNSc0xVQndndUVFd1Q2UW91M1Z4c1NacEQ3Q214WU1YSEFVUUlObHFsZzJUX1VsQmNXZzMzT0xNM0tHMlZpZnM5bjdTZWlmazROaWNLakNsVk9jZFIxRjB0Ujh0ZFFvQ0llbGZmNi1GandYOHRiaS1uckhSMTl1eFk0SGVmS2xPaWNUY1BsbnFLZFMyLS1pX0dYMWdkMDRHajhDOGJib2VxanJDS1JYLVUwMVZSdU12V2RJYS00VlJKUGV4TllxbGN6bFFqenNLTmtRZmhjY1loOXpZOEVYdDRGRWdXamJyTFFQdU9uUVotNDJMZXJMUDZXYlh5ZVd1TmpGS3dn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:27:10Z",
+    "hash": "ef08e389834a60238ec02313b0169ebcf26e67d8e586bea9276efc19d97efb56",
+    "source": "gnews"
+  },
+  {
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "BASF Opens $11.6 Billion Chinese Site as Iran War Stokes Turmoil - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR010RVBIMDZQMlFLNWU2Z1hYalZ5VlFVZ3ZveDhzdEFoSHZsSWw2QWZqXzBJZHRseGZodEp6OGFNZTVtM25rTlNEYlpuaEdNd3dvcUhLOGk2QmViUWJQNXFIbjZWNXZzb2puVlhGR3hnMGdJdzRzUEFmOTZnWklXUDluRXNDN1NDUnFUZzlscjBhU29ZazBXb3JTY0FrV0Q0OHJJV29RNlpzM0pEa0c2SUdB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:11:00Z",
+    "hash": "45dac60a6ecf78fc8095d38863d4721823de42b873ae632d9c241c9bd30e47e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "New Crypto: Pepeto Latest Updates While Ethereum Price Prediction Targets New ATH After Whales Load 750,000 ETH in 48 Hours - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOWkhJS2w4bklveUJvZnJkcG1xb2RmbTFUbWt4eU1lT0gxOElDYnN1V2d6UkpBN1dWTVhjNEhBN010OEN3MGROaUxBRHlUUTZSNzdwU2ZtUTdRck1Rck9rWUtSN0NaX09HSWd0VW1fOEFGUFJ6Ukd6R2YxZVRNaDYwbzhPZDI4a2FOWkZha1pJYUJ6b0R1V1RyVDNwSWpPYVZIdEQtd2lPMnhqODVXUm9wUS1OSkl1TmZzTVc3Sk9QdFI4cmljTEVGX3g2Q2laU214alZQcURJdHVDd1Z5UzhOb1lNOHFUM2hLQU5YS3B5QWhXeE1NbjJ6MFVyTmdmS0FLdlV2Z3AyaXVCT0wxQ29jdVM0enlJbXFnQk91bUVSb2rSAaYCQVVfeXFMTUozQ1NvUzd1WTk2c0ctTXNrUXc5amhxTjBrZ0tsR0p3a1J6M3U2cFB1elZvVWo1al9xR1VqdjBkQ0owX1NOWkZ2cDdaZVE4Wk9GdDkwRVd1aXRoMHpkRmY3NGhZT2k4elRmdGdjeGs0bmtzaVVsYVE1a1FaUkRwMWJZTDBQXzZxZ0Q4VWFHV2k1NjJJc0ZnaWpaMDJ4MEltX1MtdHJ3dEVWa3JYOGFacVZiMWsxamdrMUdONnRPakw5d0x0RmRtZGNJV1h1UzJqWDlMalhoMlpFRUlBX0ZFYXdkVjNXV3BGMGNvR2Uyd3piM3RxNWxyVUJNVGtpLXVCZGpBQzhrWHhLZDQ0WTdQeW1UR2paTF9ONDRLdVoxaHE5c0lhLU13?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:06:59Z",
+    "hash": "ce8eeda91df6d999616cc36f99297ece8623b406db4a3ff939b67041d70ec8bc",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key facts: XRP pilots RLUSD, NYSE note; SEC/Clarity, flows, suit, CTO - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXprdDA3TUM4VWFaXzFxdEpDQUs5NjhZTmxqdlhtUU5PUDAtOTluOU5ZN3locU9wdDFjazJFTFlxeWlNQXFEcjVXYXprNUE3NnBlVTZtQ1E1N2ZWQ0M5a0tIeHhyN3B4ekRxNmx2cm4xYS1BNEZyd3FoRjRaV2ptZnVtM3d1Ml80QnpRWm02eDlPOVBxaUd1SWxXMTlib25wbmE1QThINEZ4REtSd3NzTVJFMkhMSzl0VDVLYW1ueGZER1U?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:05:00Z",
+    "hash": "30ec7cd369afc4842d5bbdee095c095857fbcc9820ed944a245adeed13aaf348",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction Meets 1000x Pepeto as Hostplus $96B Pension Explores Bitcoin While ETH and Hyperliquid Hold - FinanceFeeds",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2pDYjhMQWt2cnV5TFB3VC0xdTZCaHRwVERTVGFCTzlwTTZyU0hfbnBsNG92cTRhZUVDX2FGMGtWTm1WTnhMYXdNWWhWWUhvdUpWaHVXRDkyNDMyd3NYSktReVVjN2EzZUE3d0dXWUt6dTJ2dGY1RHV6T19JblZHT1gyelh2MDdORDV3UXExNjBoWmh0aTVpNXlTZjBmUDlmcFZZd3IzejFqLThwWFF6cS1YTklQeG9MX3dCRU1PaS1hZjJkWlBrVkNZT2g4WlBOV2VvWE5Ua2xQQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-26T00:00:54Z",
+    "hash": "2aab33e77071ba32e0ff3768203f0bd5ac3923eee11edcf0532a011f5b22c8eb",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple’s RLUSD Rise: Is This the End for XRP? - Disruption Banking",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOUxSWTJtOGdfRjhTYzh4UjRQNWo3OGpWRXZob09yUXFOT090YkhoR1ZEektDYktNMHlJM004eXFvSjhueTluanlCeWlrN3VPbXVLSWYzSFZoYTl4OFJtZ1dHZmlIVkY2NVZpN25XZDlFM3lnLURvUmhZVHJFWDdNQUFYdURqQ01scXhNWV9NS2Npdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-25T23:46:49Z",
+    "hash": "6d809b5c67b205ca33ef0e23e5403e1bf632e8b18327fa97fa167c783184a1ae",
     "source": "gnews"
   }
 ]
