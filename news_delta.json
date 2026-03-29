@@ -1,22 +1,82 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction: Is $60K Inevitable for BTC Amid Market Weakness? - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vblpXbVBJRzAzOUV5MGhBUzdjZ0NzU0JLSU9rejQ4M0hRODRrdXpiWFp4SmFqNUNBUl9CY0REZW9fU2ZFZGg0T0RwZUx6T216OVNqSWxuMHY?oc=5",
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD's Strategic Pivot: Record Deliveries Amid Profit Contraction - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdXJIbnVxZVhsZmxNb1BubEhPLWppak11dndITklaV0tvVDRBWnBTamFici1FY3lUbUc1SnpPdXlBQ192OGthVGRyWlZza0JiREFRRnE3Z1JmdHhaS0xVWnZ2UnQyRzZRcks4c2JIcHRXd2sybU9YSkQ1WkU4M0xNMXRheTZIUzNWZVZsbkJoWU5DRU95Tzl5Nm5YZi1wX0lORktsVlBiOXF0aVZUX0s4NExfa0g5eDZkTTc1LUdDZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-29T21:20:44Z",
-    "hash": "5e384d281d8c36cb3ab0f368cd6e0506605bff8c4c35481e3b3868b2d847bab8",
+    "published_at_utc": "2026-03-29T22:36:55Z",
+    "hash": "18f40e8746f024f6a996b941b581c3fe2d63ace16410cee20e8754cd42edac0e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Gains Regulatory Clarity and Enters the U.S. Banking Mainstream - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV3lSSGxFdlRvUlNob3ZqeUo4Tm93bXdKTC1kSy10aHl3dFBQanpDak1pYVBsUDBtQTNaWldZZVZ2dmJJMEp4M2NDaF9uY1NuWGRWSmNzUzYxYTZTcmNFN0lkMjRDY0VSLTVoVVZtLVZ3TzNxYl81cWw2TFR3NDlyOEZZRW9hVkdRUndPQjg0QkpaT0pjMHZMMk9CVWJSTUR6b2JoU2h1aVlQbExBRmQ0MTBsb1Jua1V5VjNPazMxWTh3VXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-29T22:08:26Z",
+    "hash": "a6cfc72fa4c9d3240617f2f04cee70c881beb6e77c4e6afe28732529c798484f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy Shares Stabilize Following Record Rally - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPME83S1JjaGxoSzJBMm9wbEFLNG56TnNOZ1p4R0ZsRXBqVUw0cndaMF9wcU1SekhZZFlMR29MYU45Z19IYno1T2NYSy1jU1pyVE5tdFZOdDZPRUxnYzdaU0ljNW5abGJoSWdWTGlZeHBncjRCb2FCdHBEQjVHa24tOVM4T3R0RVFvU2NCZ2JCYVVLdVhOenVTZTI1X2JqWWRrRWZnd2tOc1BnVGhTR3Q1TWY3TQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-29T22:08:26Z",
+    "hash": "737f830e34b7a6f7eecd85a51f5cd734e44f83ae54db4c4ce2d683073321ba0f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy Shares Face Resistance After Stellar Rally - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGZ4TU44MlhsUEZWNEVRVlN1M2J1QnBZV2xLdDhnMXZzLXlUWTlDYW9NTHdyNF92T1QtWnpCeE54TmVpcm4zM3hiUjJQNDRyMGhSc2lfZHRCRFFDSmdXdmc2MGFpWEZIbUJtdnBBcUNKSUxqUXpYQUFfZGJraVZnLTJMTnMzVXVSTFRZRkhUQm5Eckh2bmc2enhTeGpPdHB5YzRnck1NYzI5d2p1R2Q0clR5aDFneUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-29T22:08:26Z",
+    "hash": "c7edbfdc83313b1a087c3be448703f38a5bae4adbe02f66537c2a060fb5c6416",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "Analyst Caution Tempers Enthusiasm for Rheinmetall Shares - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXQtZEN0cG9WY01WZUJEalhFMXhEbTRsd1RUcnhQU0owejZscUdvNzVKbnN2QkFOLVgwaVZYalR1QnJvNDlVVmxQOUcwRnhpQ0VESEpIQUV4UjNGczdNLXFWc29wNnBEdmZUcHpmUHVURWh3clJXdGdDRV90UWNqTVJWaUlGUzUxdlFQV1ZMcFVURXhiVEN2TFFheEVLbDRHUnZDeDlKdkh4b3hsRUhjbmthc2N0NEU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-29T22:07:45Z",
+    "hash": "86688c6ebc063acdf7c14dcf706b9247f3c2f4e4a4b807fc9bb10d8e7f7f93d7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Navigates Regulatory Milestones and Internal Scrutiny - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTU82MFFfRV9fQm91dEpsWnh2Y0wwU2t6aWx0enR4OW54ZmdvQ05NM2p0ZnZJbzE4NUZWcnFCYUplQUZQazFkbzE0RHNmRnFFcGM3QkpEUXdvbGN6dEFWck8xaFRER2VQLWhZMENvcFJzM1Uydk9IT1dKcjVIVDBFVGM0RkpGN21IZWdxcWYtbmRTWDdXUlFHOGVrekpQTHlKMk5nblZOQTVRWlBkYWVuWUFITmtZME1QcGlpSldrTEJZMWs?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-29T22:07:45Z",
+    "hash": "fd20747eeef616459f7239cdaa34c42c6df05c34bf88f7d78e3a5a3e361fc91f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk's Clinical Pipeline Aims to Stabilize Declining Shares - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaFQyMWdTcTI0VVhSLVpUTEpGcHllZ3FESGNNRW9YaEZTRnJjNHk4NkIydF9aa0w4cW1hUHJQc1JjMG5sc3lCa0JPMHJ5c0ZJYmozQUlaVGdOLUZobFhidE5xVUZNZTNuYnZaMm1keWE1ZGVLODJpRWRNczB4b1FaOHczbDZXRGlsbS0tdVhFdHVGRWRiS1owbVFqcEhMcm4tWHE4OEpLZ1FPZ2NDcGVzdzY5ZFBBemVnS3VrV2NkWXpPY1NN?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-03-29T22:07:45Z",
+    "hash": "fde176ac72578e21abde2f7bed25eac45196522ede2baebc29b1a1cd110746ba",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "I Own Nvidia, Microsoft, and Meta. Here's What I'm Doing With All 3 Right Now. - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLV9EaEVPQW50UVliZEtUTy1zb1hJMVk3dVVjRTJHaGItdGRDR25KSTRBaC13Vkx1Sm9uTWdkOTJfbnFreEVaRGV1c1pSRGloWWlGQmtKWHVjbk9ldXNIS2FEbTk2TnpMOTdaNFphUFlzazRPNEZLRW54Z3pKVWlFMnBxUFdkNkstT0c0X2ZmMHBmcFpydTFyRG9oUGt1NE5zT21hX0VfbFNnQTZJM2d1b2RsMTFiaFZ5N01ULWR4WkhpckJicmhPNUsxSV9BTUVuLVVCd0hlZFJEWVJFUjYwV0ZUTDVIQTZh?oc=5",
+    "title": "Nvidia Stock Growth & $1 Trillion Chip Sales Forecast for 2027 | AI Infrastructure - News and Statistics - IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT2xfWmFvNzEzcDFYZzg4MDNvNHg2VzF3TDkxM2x6eE1malhpTXVKa0JNUjZ5cFJfMFJVcGhYWXFnejdwMV9lWUFwcG8zU0U1TVBPRFRBbVc1VXpBem1IVmdHZlkxZjdaVE5uajV4aGVobnlxRlItVjlBOHJ2S2JEY1JreFdEVlpZT2p1WUFTUWk4b3VqaWxfdWZ0Umdtc0lYM09IWjBB?oc=5",
     "summary": "",
-    "published_at_utc": "2026-03-29T20:45:23Z",
-    "hash": "ffef85133dc709fe74a8f02f06320c685792b6c6e73d20204d193e07b1bf9870",
+    "published_at_utc": "2026-03-29T21:50:00Z",
+    "hash": "1f6e387983bfaf662f444605067e49e17d7dc57a4658b704aa17a0788fa95938",
     "source": "gnews"
   }
 ]
