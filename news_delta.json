@@ -1,102 +1,112 @@
 [
   {
-    "asset": "TSMC",
-    "query": "TSM",
-    "title": "Taiwan Semiconductor Manufacturing (NYSE:TSM) Stock Price Up 1.2% - Still a Buy? - marketbeat.com",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkFTdDBQcjdUTmZkWEtRd0NSNU9NWUgxU2lqYnQxTVhpY1RjbTQxUFNtQWNHdXEzT21fMnVWb2IxVThsamxYTXZjTGk2dFBJamVobC14a0p6TTZkaVg3SWo2bGd0VW9RWlJpcTdCS0lMa2hENVRPRlc4WUxqNW10M3ByamZ5ZkJrenhQVzBGNmZRc1hyTC04Slc4MWlidDVIX3NlY3Z6Z1c4aVd3MEMwQjNqcnFrZ21PYmJBdzJZbVhSNC1U?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-01T21:49:51Z",
-    "hash": "960e2ae6a05279be8b361e0364c56c663257a0b5352493a9f3a94075cb943453",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum stock has lost two-thirds of its value. Time to buy? - msn.com",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNW94OUR6N0tqRlJ3VEpIcEFWNlhwWlFCVklNemxnQzRsdEJYRDktel9hVnplRTFaOVlxaVVfZEloSnRZTVNnUl9Na3RpX3VPdTR2WnZGemNXbWNYMUtkN3NuS1AyeXBzdWZpMlhDM3d6R0FqckN6MWJxS3VWM3JNVGdYbzZoVm0yZGJNY0hJSWduZmRtNXNQOEMxTnN6RUp4azJtZ1lVUGgtd282dlFmVWpuM0lZWHV1UEZGcjJzSGpOd2Q1cDNKU0N2Mk81VmI2NjNSakFtYXJNdVk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-01T21:45:42Z",
-    "hash": "d70f63a5d028e135e0cef6d1537dcc968c878bdab59de789d96d1dab3c46041d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Arizona Moves Closer to Adding XRP to State Crypto Reserve - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ITU5LVC1oUTFUZ3dFWXFfU0QyWWVpd0VkSWh0aXpnQ3lmUDdqWUgwZm54bG56SU85aVpTaUNRLXBLa2tzc2F6R0d3TGlTaTJwNDVhd2d3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-01T21:39:08Z",
-    "hash": "3b3fa19c7e2be98f7f37d9cbf856f4f2cc0403d0139e9f5bb0dfe1f6ceef9234",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Faces Make-or-Break Moment, Needs To Hold Support Around the July 2023 High - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GVHllczg4MExQbENBMW5PQXRjMmQzVWpKdW9GcXY2Ul81bGdEY01xalpFLXNMTGZiR29QS0l0dXMyUnpyNk4wSjMtOXVfeFVHbnVQNWk4ZDBMckE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-01T21:38:39Z",
-    "hash": "1c875942d2aa269502a61caa4c53304ca88af75f0fa09348472706ceb1c976d5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "Unilever",
-    "title": "McCormick Is Acquiring Unilever's Food Business for $45 Billion. Will This Send the Spice Giant's Stock Soaring? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY0VNcVMxd1VtR3czTkhGLWtXX0Q2OUYxWm55d2lHbVFYT3lwUWdvM2RqMEppN3M0Rm5kY1hFbkVnazJ0cEY1RVhzTGljd1NwX1E1OGVNRnAyekxIb3lLMl9UMGZ4Z3cteXcyel9STWY2N1VVQ2lqbzk4VEN0bjFDRXpIYkR2c2tHYjlqRUQ0S0lVdEIyMHc5aA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-01T21:35:28Z",
-    "hash": "20f62b4c7e229272115b10eff280ac282c0829a6e59eb874d4fd46eaa65e45f2",
-    "source": "gnews"
-  },
-  {
-    "asset": "Unilever",
-    "query": "UL",
-    "title": "McCormick–Unilever Foods deal details, ownership and guidance (NYSE: UL) - stocktitan.net",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVS0yOWJxNUJYTllXLXNyS3JYT2tBUXNRbTVvSy1TQms5SXBiQmZ1MHVCSk8wemdTSGY2aTBMN3hUMkRmMWxxWnRlRVA2NlFLRWl1bDk3a2hoUHhCNG9rTEVUaDN4dm5kZWlwQnRnT3JxYVBhWURvSWxVSUVkd2owNG1qaFZsSHMzblVhSTMzYVVlTFFYai0waFVPOHBUbXZESk5TV3FaakR3MUNnMExhMw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-01T21:27:50Z",
-    "hash": "80a8d225ccf95ec1938b70963ad75ce899bbaa84fe2b5ebce467b4d091432da5",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation (NVDA): D. E. Shaw Trims Stake - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnJoa0ZYakJmTG1FS09kcVdmVDJPTWRIX3p1TGpGLUZyTFB3UG84b0NfTGJtVVdzb3pvM3RWWHBhZm01aC1wS0pfSW1JNk9tY0ZKMGRzQjZRRmVPc2N1cGJLdzIydUstenF2MmZmVEJXQV91eFltNXplelJCTUFUenpVZTBtSUlNMUEtbG9PUml1UdIBmgFBVV95cUxNX3NzZnVtNGczNURSWWtiTWFpSGFwSTJobjItQXc5MWZXa3FYTzlzLUpxTnFxazRWWGtmRTFySkxPd21VenpEalU4QXBBcXdSRlpCY3dqQV9OeHBrZmIzUmRMdTRZNFhOUnNJNUpOaGMtMlM3TjZ3ZWNFUlZhVTZLMEtZdXpmVHlhUE1rSWNvWGIzMzdmZGJQY2p3?oc=5",
+    "query": "NVIDIA",
+    "title": "Nvidia salaries: Executives, engineers & CEO pay ratio - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vaVFWdXBDRHNEd2Y2QmU0VUFQWXhZSkNkZDZZMURPbGlNdDdNQ1VnelpPSVZIVU5fbHhIdmdIazJmLS1hUnFqWi0tY0pod05oaHFsRGROS0NTdHR6ZVVwQ2p3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-01T21:16:43Z",
-    "hash": "f328b1489d60cbf797780f26c6b1687155a598aa22652a6ea9a380fa8265d707",
+    "published_at_utc": "2026-04-01T22:41:51Z",
+    "hash": "e2d05e4eb983a9235c3a2ad574bfd90262a100ad811064786e55286c49c41b5d",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Sets Monthly Record as Stablecoin Volume Hits $650B - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzZHc1RtazRWcl9nbG1uRmJ3RUgydG15c2pTVzFMc2hvazIwbG0zaEVJeDhZeDVLVnNUc3FNNE1QMGNOdjBYUEVkZFgyamh6azZvbkpLd3U0YjViOGdjWHNhM1EtT0cxVzdLZnZkaGFHR1A0MlU0b2MwUGZmTkhFajUzUDUzSndFaEZj?oc=5",
+    "title": "Solana Price Slide to $51 as Bearish Channel Tightens Grip - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rb2U1TVMyaVlaLUp2Z2VyUWpEVVRBVEcxcHM3RlJfZUVYLUJkWTdueklQMlkxZEFuRkU1cVZrYU1KUWxXb3BlNXlUWEJxejlBbUxudV9pc0cxRHc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-01T21:12:00Z",
-    "hash": "09d7bb20ae209d33856331ca6e88e2ca69afabaf1901154b8f57bca21f3460be",
+    "published_at_utc": "2026-04-01T22:38:39Z",
+    "hash": "651dc458c6cae56cceaf048199a0d2e8050c9e6a5bd87269621911ed17eb72d0",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Cathie Wood Just Snapped Up This Nvidia Cloud Play — Here's Everything Else Ark Traded Monday - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWR4TVNNOVlhc1ViWS1qT1Y4V05OOEtXdkdzOXpSM2pzcmROS0F5YjlCNEZwREMyY2VuSmFnTFhCeC1mQVlXaWhBclpjRWtWeHA0QVIzS1lvTXZwVnFyamlEX0hDTXhMODlWUEdvSVRGOHB5amVhZFdTMFFheE91X3hNbDUwbW8?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T22:31:11Z",
+    "hash": "64f279e7acf2fd58e7370e883527b51ccd72a77ee7dd2ddb866833fad96d00a9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Just Did This for the First Time in 13 Years. History Shows What May Happen Next. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTdhX0xBRDJHY29CWXg2MzhCTks5X1VJcFpqUEprX0J6UGsxRVpJSmJhLTB3VWFqb0pmMnQ2c1huZWNmWlZuNm52MEtzQU1mcEhoVDVuZldTU05aMVBkVTM2czdEeWpPQmNZalVRWVBoMHpzbnJsNjBPRy1ZX0tRbGNEd3dhT3dzbFprQnc0THdSeUVyLXNIOQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T22:20:07Z",
+    "hash": "4c548ff553264e93b9d021200d33d956f5996cc843ce3a15a722b14534b0e7f4",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA Corporation (NVDA): Billionaire Ray Dalio discloses major buying activity - msn.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYnlTWWN1NkFkdHFoeTYxR3loYkExeU52Z3VsWVNvRW1sb1h6MjM1QW12WWFVblhPTmVibFpXNVJvdmJta2IwZ19JTWhsYnVRa2c0clhxaERSNUtzUHRhQ0MtTkZ2TVlKQTJSUlpabVZVeXJaMDR1OWZjM2JjeVhxdi1hcXhITWFIU3llX2E4MFlwWHZSUGxDVE5Ceks1Y2VkNmZwRjNoYUdNY1NLckZEOGU3NHpiYlRvWi1YaFRjWlpxZnNNQU5NSm9rSXVEMF9BdUZNZkxsWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T22:10:49Z",
+    "hash": "d2fc286d55a9ae922d16563338c9e523fa5bc12c0ce2ef01a06442fce7f0a342",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "Novo Nordisk",
+    "title": "Novo Nordisk Gains Ground with Strategic Cardiovascular Approval and Subscription Model - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdE9DMDRmd3lrX21ORGIwMmlkek9FVHpVU1Zzejc1N3Y4eldUNGZpQ3JtUFNFSmxvY3ZoREREbmxLcVdWNDhQYWptd1Ezb2ljX0JwS1JIaXd5NmhIRjJyRmJEUmRtSVdPcDBxaFJwbW9IQU9jb0M0NW8ySHg2WW8wTi0yaEZtZGpBTUFNSFkwWHJnTm1WNWk4Y1BvQ1YwWEJLVTlNeWZfeWZDZjhDMVRxNUZkY1pBWFgyT0tDc0h0VzROMXIwWUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T22:08:50Z",
+    "hash": "687b1aad39812fce5ad648cf0caeb346a19bfaa8bdbc3ef97add2dcb46a42808",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy Shares Surge on Middle East Expansion Prospects - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbkJXNTMtTXVsZlA3TTNFVllPdG16bGx1N1k3VFRyMFZFcDdhakVVeDhZdWx6ME4xZjcxNTdhc0ZoWFQySEZBdlp4YlFtWVJ4eE5ITTBOZkpDT0dTMTB0akl4bGhQWUdnR0stQlBkT3AzMFZHZ0VyT1U1aEljdmNrdGE0UlRYRm5HUmJ1YkpRcnZMNWx3c2UxVDJ3UWtPTU5aX0NJLVIya2FHMV9VYW1DSk1rbVlQcDJIYm9fZFRB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T22:08:50Z",
+    "hash": "7f81d1f14d5efd772c5e4293e714bbfcad16b8909819c1e6756b9aa73fcb46fa",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy's Decade-Long Order Backlog Signals Market Dominance - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFBmTGMwcWN5TzduLXdtZnF3NFNOSXpLRndPZlhUNms4NTdzRVlNVEVveXF3OEpfZ05mWkJFdTIzN2s5ek9PWHVtUG9sUTM0ZVpsdlgxLV9kSTBaNlRnelZFZTZiWDgwX3JZanhzcUQwT25EQkZ1dEZNRmlzX0xQVjkxdHNJa3ZiQzd1eFJWQVVqRFU3YmduLUhzQzZUb2FkWjhzZHdoZDFBNDBLdjRiNjFvOHJDMk9OMlNpNTJkeXZVTFN2?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T22:08:50Z",
+    "hash": "ea1cd1babf9bc7caf00345521553c7e206e00c0bd2264b84b1facfeed06c6993",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "A Dual Catalyst Propels Rheinmetall Shares to New Heights - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWRsTGwzamdpVE05a3VBV3VHWTRDWm54MTVuSjVCVEhLVV9Hd2dpaE9LaDdpbTdhSm9tSFdHUEQ4ZWw2ZF9KV3ZrWGlfZFRJeENtZC1rTnNJYlpuSi1FVlRTenFFUFRoY0pNelRNM2kyNzRiX1VvbTE1R0owWjI5dy04eGJSVll3dXZINXdGaURJVEFpM1NqRVJyMWVRVjljSWk2aFVFV3FJdmJFZDIydGVHUzlVSGM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T22:07:56Z",
+    "hash": "8d1f296d1a4b6f7bc6ed2044361b366071cafc6e082dd14c89fb3a56a7999fc7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction as Miners Spend $80,000 to Produce One Bitcoin - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0J3amhadDVJLWxnazVidTVheGdDZTg4cG1BMkY1WVVreWlYQ280d19WbGdKSm9nVTZ3UDBoQVdDMllZUFBUcHNIM1lhMlhsT2lBT2hIQlA5bVgyX1NrckJuR2EzdHpqZzZQSm5wUTNCS0xpdlJiWjQxbFMwcVJ5TTFkdXY5V3QzNmNoV0lnRWRnckg4WTBTM0FReVRXOWZHc1o0VE1ZZlJCRkJ4bkRwc2h3cw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-01T21:57:27Z",
+    "hash": "a676513a396a302ce6243425e2a830406eb549186812534e5ba6b4c850396d2d",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction Targets Recovery but Pepeto Delivers What ETH and BTC Take Months to Promise - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNTJRNXloaW4wZ1YzVEtyR09BNWlQcm51Ui1FVElPUDlSTTF0cjFXVDJZdU9BQWJiVFBoLUY1cm9RVk9Vd1hlWXA3dG5WQVdFZnJVbXVGdEZuTnhlTUpoLVA2QkVIMjh1TjMxS1ltY0JxVHRySElUZEJZZU5fX2xZOW1EaW9xaUZad0pfZXU3YVlfTk0wR3RfZ29hX2pMZjg?oc=5",
+    "title": "XRP ETFs Struggle to Attract Capital Despite Multiple Approved Products - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX19HRnZ4QS03MWJYRHFjaF9IQVVGN2lTOUdING1RWS1ZWlpNT21iTzVBaGJ6ZzRoUVIwelNIMy1LV2RGWHcwUjZERnQ1WUZpOVV3WjhwbHZUQWFhTUhDUzBIdU15aXJRLVZ4ZVR6UHYyYW1YS3EwM2Z2aHhDTFV3azNDVnFwSnM1UFJWU3NYMndYQmltVkpvTUxLZjZiakIzZlZUR1FhQTdqT2psa21NQVFadDZsOFU?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-01T21:10:18Z",
-    "hash": "8bb75c6c55fbb48ef8140a28d87cf3e2b2da7ec25c1e4814988a3655bba98b4e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase CLO sees Clarity Act in 48 hours: Will BTC break or shake? - seekingalpha.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLWE4cnNSaTBiSTF6ZDB2Y0kxOFlIYnFZVmVMTGFmbUU4S0NIWkRjSGZUd1NLcFdUeHYyYjVMY2FvU2RhWHExcUFyT19COE5TTkVTenFFWlZaWkdVMWc3bkR4OWR0c0ZIbEx0b292ODJUOUx2ZGZlZFFZeTNpOXZDUkgwa0YtdEx1eWhuUzRqR3NPcWwzb204aWdrUVNGZE9oTTRNVzRn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-01T21:10:09Z",
-    "hash": "172f912a35f6ff316e7dd0964f7dfa698519c98fd4f2bb4a842cd0aaddbda517",
+    "published_at_utc": "2026-04-01T21:56:30Z",
+    "hash": "0e6c0928418a18e262fddf4518faeaf7d609b80f2ea598b5eb70c097449795b0",
     "source": "gnews"
   }
 ]
