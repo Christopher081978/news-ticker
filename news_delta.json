@@ -1,72 +1,62 @@
 [
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bullish Signal For Ether? Ethereum Foundation’s Latest $93M Staking Push Brings It Closer to 70K ETH Target - ZyCrypto",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTG1xQU83X3JyMXpQN0NzdW1Uak5PWlZ6UVNJdVYxLV9tUk9wMnBsbGVDa3FIZC1hNXFVSjIwb05LRGxGQVVtSkFqcXV3LTNNWjBHRWsxT3ZaU1g2WDNhRlBMQTRDWjJlMFpyRVY4cm9ma3djYTJ0VE9VOFpsd1d5dWlTQUlqOEphdzRMTllMSXJvM20wd2NNdGd2VWRDZGVmTFZlQ0lndjlYWVAtWW9RSlJrWE4yNjZGZUtBMVZVeW0zekZR0gHKAUFVX3lxTE5TY3h5WVRaUnRCTVV4TXpUcmVpYVpQY0ctajM4YjBqQ0NSNW9JSXBSWkZMN3NxMUJkQVdBamNXSjlIaEZqbUNnNTdJX2F2UER6M28wRWdwRHZUazNuQ05tVXJoN3RPZ3JCc0RBdTRRVUhXWU1pNDVuNlVSaWtFRWZETGhKV3U1WWtlaFlEWWYyS205Skh4NHFmUEJFRkdZUkRqQ3VZUGZnT3lyeFJsLU9aTkFtTUZXUkxCQVc0VC1JZFk0T0tQNTN1VWc?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP at $8 or $27 Next Year? We Asked 2 AIs to Assess and They Said, ‘It’s Not Impossible’ - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1R0R2RjJXc3ZPMFdXVm50Z2hlbWpmaDV4QmhXQ1c0NEwxM2lXZVJjdWdCc1p4d0hhbmtoakdEODFhVk1ETGk3V1JERlR5Z2dzZGgwZWJfM3NITjA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-04T04:12:00Z",
-    "hash": "e1871c37eae055860186a80febeae9cd948e9b7cabbff6eb45e4bd46a6e2e5f2",
+    "published_at_utc": "2026-04-04T05:53:58Z",
+    "hash": "889dd5ac3a097f084ff4b2d24c7b6994a3fba867c76ac8ab707fbb3a890f2788",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet (NASDAQ:GOOGL) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3ZQSjc4US12VGVMSzM1OHFpVmNIUE5JZzFVVEZYOUZ1c3dfM3dHd2NtSm80cDJJSmpCcXhpUE42bkV0RGFOS0JqaDJjdzBmV05IMm9FNVdNY1NLWEMyZVZsNkNtRXA1d082dkVfTm9BTXZ4dVVTY1g5WkVNX1hCSE5vOGN4dEpfX0twbUVfUUFXNUNxM3dNSTA2TGM3TFlaVE9KQkFvbUZ0QXBHM2VEMW96N192Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-04T05:39:19Z",
+    "hash": "56e6e6778922c4db8fcf263870c87213b3cf5c14177c59dc4dde30d4ff66ddf1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "The Siemens Energy Investment Thesis Hinges on Its Wind Division - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTzB3SmpkVk9Ja0tZbF91T2IzYzU5a1BkcjBOc1lMR0hRbUdSTDJ3X084TXNoM2UwVzc0c2VFd3FER0ttbkhiV29ZYWQtQ0lqbXlIUkVnLVNsbktTMl8tMHJoaEJNYlZ2Smh4aHZCak1DZ1RIT2lHTEpvbllxOG9JVmxPbTRKbk1MNExHeGNPR3h4V0dzaEgyQkFabThfQzRlMnRiR0puYWVYVmJ0M0tVLWc3RUJSQVU0dmU2bkFncE4?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-04T05:34:37Z",
+    "hash": "661ebc2364ee4206c2a9bdcca2085c57079e67834fc0f3e2325028def3401603",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike Stock (CRWD): Complete Investment Analysis, Falcon Platform Deep Dive & Price Forecast 2026 - techi.com",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10WnBpLTdRN3h3WG9XVTFfRFo1dl9WZEtHMkRDZzV6R2hlaG9pNXNldkk0Q0hpWk9zMWZHMlozMHV5NV9Ia2kxN0dET0xCOXp3WUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-04T05:32:30Z",
+    "hash": "75d5c013ad7e4169ed9d6464b5412cafa1ef5bf5733ffc52a936d8f226317b0f",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Prediction: Ripple Won the SEC Case, Got Commodity Status, and Still Dropped 27%, Pepeto Offers 300x Without Waiting for Congress - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1anZydVd3MnhLM2pnUmFLdkxGMmNWdXVSdWgxRnpWOS1QekQ4Q0s4cDc5RFhGZl9lLVlyNTFuaUZtRlpWYUxsVw?oc=5",
+    "title": "XRP’s Active Users Reach New Milestone, But Will Price Follow? - MEXC Exchange",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82dlZiQTZoOEd5NlNINmZCMEhUQ25VenFoVXdmQjV5cXJoS1ZWeEV1dW5HQkhlNE9YLS1adVZnRzNfZ19DTnFJ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-04T04:08:55Z",
-    "hash": "2bc5cd26e0779be141523cb7eb8ac512e268611dc0e8757fb0ba14b341410716",
+    "published_at_utc": "2026-04-04T05:15:39Z",
+    "hash": "9b0633a97cbe32b9353f1be777bdbe5a5e62eff910ea9f31018983814f10034e",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Up or Down - 15 Minutes Predictions & Odds - Polymarket",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MNjRUSG9CYUNzbUp1bEdhZkcyNUZ6OFpKU3ZoMk0wMWUzeXAwTVpxc2pDMkVhc0RlRmtzRE1iRGZaVVY2RERCelhyUXRGZEFVekZzU21xd2FzWldpVkpRb2Y0TG8?oc=5",
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum's Strategic Pivot Amidst Share Price Decline - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTFXd2MzTXdzTVgwMXpHXzRYOUxPb3pMTHdIVERwd1JRWmp5Z255SEg5akt5OFdENHBkOWlyQkw2Zk55Z2w3UGIyNnlPVHZHNzNtbkNfbGIyTFBHR0dTUHlodFI0YXI2UzNCendEd1kyRGFuMFZOQlpWdUswLXdfQXFtQ3lOM1U1dzkyUjNqMkZIbXIyODhTaDRZdFFMb0tlUS0ydnN2TnZrMVVEdTZ6RFdZX1Q0NzBoblE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-04T03:25:45Z",
-    "hash": "4281cd04052ff0017199005918f01c8f1a93630e49f513a1f26119f4c4ddc4da",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Ripple News: XRP Liquidity Hits New Lows as Ripple Report Shows $107M Impact - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lQmZ3N2ZnZ1d6VW5kY090bGZ0WGZ5NDExa0VxUnVZUi0ycHVXVklVekhtaU9Gc21VOG1OMHBoVzc1REItNlM5Mw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-04T03:10:36Z",
-    "hash": "62387a3ac41863fb8ea288a2550c6865b1db4858658f69b03e676b29e361a597",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Will The XRP Price Crash Further From Here? Major Levels To Watch - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZjhKbmh6VThTMXM1YWNsYnpteXpMNHhKUFA5eUtudXBpaHBhRVNmeEs1OEJEUWR0ZjJZMm9OU0hzRFBMUzVfbzdiVGdOQU1HS1pIYnQ4U003WEJCV0JDT0pqd2F2dExOeHljR0lpQUtfS3pjdEZKRl9KWWNRS3JpZEVCRmZoUkkwNVZSU1ZuaER3MGpHWHVQcnF5a1Z1cGp1SmtNZ2FkNm5VLWFYV1ZCU3lTd3YyQXludk81NGFiZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-04T03:00:00Z",
-    "hash": "6d76bb2553249a2acefcdebd9231e5d3e4985c030c8d7161756d54e047603f06",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer Exits Key Biotech Hub in Strategic Cost-Consolidation Move - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUDR2aVhZa3Y5b1Vqams5SEFlTlg2TzZCRVhsUzlPWkFHS1p0anpyU2dDMkNqc3U5X3YzaGhIS2NnZUxGUXJNU0Z2R0xaWTBLYzRKQzZQdDJBNDRiWGFHUURTTmRvYW9sN1NJRUVGOHpuakZyLUhxM2lta2ZzTGZiVlhvN09maWlMSm5TTFE4QmNoSlpwaWpyZWhlQ2duX0xQTGJlbVFsdnNDS1VIa2pxRFlWQklITFpBN0tFU0VRbkZsUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-04T02:55:09Z",
-    "hash": "21184c99f15f0f76cb9e989f7ec2432b9f61758771944c9e82b8d969223e733b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Charles Schwab Announces Crypto Accounts Are 'Coming Soon' - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMkVzOS1BNGhUa0szbFhYdkFSZGlRVG9NazdHQWRob0RldW82VmFxUzlyS2hBcFNvVEtiaTduRy1kUXo3Z3dZXzlmQkVfNTlvTFh1R3RzLVJXaGQyTlgxMldWNXcxOE56UkN3SXBROW9kUjdhRVhwbHhxYWJLY0ViWVlCOE5BSVZEWXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-04T02:45:59Z",
-    "hash": "4d85bb203e3683f5111f1e1ba296a14a5e6f0f22e8e18fd4e07b008e1798da35",
+    "published_at_utc": "2026-04-04T05:14:18Z",
+    "hash": "18299955455a2e1ae998de3e6d65e3d51cfa2021a24907be8b7800b863152956",
     "source": "gnews"
   }
 ]
