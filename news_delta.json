@@ -1,42 +1,232 @@
 [
   {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Is It Too Late to Buy Nvidia and Broadcom? Here's What History Tells Us - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdkxjdG15STBlTlRONnJlOTVwM0NnTGI3VnJPSWY5SkRqRVRkUkFsdnEzZGtJalFrbUNWS1Voa1dYQ21KcUYyb0hvYlNVR2ZtLXZwZGw0QmtCSDRlVHhPYlFzZ01IVThCS3BBV29vdEw3UjN1RElxNFRVOGhhVjAyZG5IckRfbU9XM0hIUw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T03:11:42Z",
+    "hash": "4b7753dc4e8c71b921c8d10e9b69fcd7d0d03d6376c5a9954f1a7bd0151aaa62",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Holds $1.35 as Analysts Cite $120M in ETP Inflows and Price Divergence Widens in Q2 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFAxMzVVUlJlbTlEeG9pYWpLSUxhRkE3emo1YWs3TVZoTUVWb0xVVGJJYWx3MTJCQ3QwSmV6dEJodm5EaEZmRmZrYnBkR3hySUI4eEFIdjNBYXdmUmllUlRGX0JWNFdLQkVtUFBTekd3UEthRlJaOHdOaDFqZVU4NnNCTTJoaGNoLXJGcmNGRmtyamFHRjhJNXR3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T03:05:52Z",
+    "hash": "34e710e74f47483d8a603c08aa962571944ec132cbbc2aed9366fe1c428d897e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, XRP drop as U.S.-Iran talks fail in Pakistan - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaVdqWDNlaW9zU2N2N2F5c2U3eTliSlNJMTdqTTFfVUNKY0ptSmw2R1l6RXZLQkMxR3oyVFo4NU1fbWRpLUFKQ3JkWERpS0MzamtsZDBmTGVSWFZ4LTBZcVBjZTQtMmx4S3BveU5PTlBoUEFIUHpCTDJmSjdPcTdqSWtndVhLNWNWTlR4RE8ycFIzc3hJLUNN?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:50:14Z",
+    "hash": "f79babf0abae139e873b6589c483736fda8f7e3f780b2275119300389694c1a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Standard Chartered and FXEmpire Set New Ripple (XRP) Targets While One Protocol Offers 103x Math - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWhpaUdPUk5RREhhb1EydUllOElwUDg5dlJtbTkxOTJZS2ptS211ZjRuenZFY3BGUHVFdFptTGd2X1RZMmMyTDVqcUVBdUdmUW9WWTFhZWM1N2JURFRaYU1HZ0R5RzZFOGdEaE1PUDd3T0o5a05Qclg2Zng0WUEtM3REU1lWV2VxRmx0Unp6RTN0aEtGcjk4cjl3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:45:04Z",
+    "hash": "4b9ade32ce1238110f3e8b5fd53c9e250b83c7807b5a83e6744d0d530ba7fca6",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Where Will XRP Be in 5 Years? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rM2lPLTVUeVNDQ2pVd2o2YVV3ZWdzT1JmXzlvbmV2UHRaSE9EaWpZX1FtT1Bxa0tFSGx6bjQ2RTJURDAtcmdHNWJTejFneGZ5VklDMktTaS1WcHlTZXNkRk9BdG9vRTVMSDFZdlBLdEsyWjRMUGVpWEpIQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:41:42Z",
+    "hash": "7e68d9e0224a6ce9d4589022d3c66accbf18e36fc71ddf3783fd61958c630a58",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Where Will XRP Be in 5 Years? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazZLVGY4a1ViaHJOVG9WUlEtcTBaSUozSnBxNXBpVmZyRkN6WklNYlRyOVhJS2F2Nm9vSzVIMGZDNmJ2cWJuOXk2TC1Oc3FjRUhqRWFvZFRZS3VaTk1qcTRoWHZTdGdvTXlUMGVYSDVCcFlUV0p1eUFxbWhnYjBmaUV6LU1VM2N3amc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:31:00Z",
+    "hash": "8bcbcc53fa45e863e91ccc48506428a34ce335fe17e3079c2f7bba160592a40d",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia backs SiFive as it hits $3.65b valuation - Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCQ3VQVDZUd0tGbFFKNDl1SHRRaHJfaDVpVzc1TVladFRrdG9jX2NScWpaQlFxYl84WmxZLUpDXzc4Tk1EVTdfdWxtb3hxQk5HTDA4U25TQ0hFekYzU3g4QWVuZXFjazdianlfVTVhS3lwc19iVHZ5aGFvZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:17:00Z",
+    "hash": "663cd952a603a574fd1fe11dd725470001af2e959d9ff113cd64b0c46735220f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: FOMC April 28 Meeting and 65% June Rate Cut Probability Target $2.40 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQazBXX1NKUU42cWdXckoyZnVqT012dURfYmtDem5WUnBiZ2ZfS2dYT09LYnAwOTRNbDlXZjF2N0NqWGRXdjdCZTZxSkU4T1FzR05yZXBQVVc4Tkx5bjlMQUM1c1lhanE5aElEdklVNHpESjEwV3BPaHVSQnBzQlZ5b21uOXQxUVk3VEItcVhPRTVkaXBCR3BXdjJTMnpndw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:04:09Z",
+    "hash": "d815bd9e6ed5c2fe2defeb18859796f7bafd59f29ffa133d611539b082c56a11",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Valuation vs. S&P 500: AI Investment Weariness Examined | 2026 Analysis - News and Statistics - IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc1E0b1pVYV8tU3hsVFZTNWloZHZWY1NqYVpKbXJLUWNQUEhRa0lONmtTYXlBSVVzVjBDSjhPemp1OE9kZXhfSER5NnJfQy1yZ1owclN3WENVM0treWU2S2ZVMENvR19OS0Nwd0ZuOVdleGlueFdiNGJTY1QtQzRJeGhQUGJBM2pXT3hVaFA2ZTh0UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:01:00Z",
+    "hash": "6a35450e78b3a32b921b714b29c4fcc13c22569caad83c6dcebde13f8a49333d",
+    "source": "gnews"
+  },
+  {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction Turns Bullish at $72K as Whales Grab 270,000 BTC While Pepeto Loads Quietly - BlockchainReporter",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLW5GSFdFZjBqanJZYVExVVBMMG5aNjdKY1k4akx2dTgxQkJLNG1TMnhFMWRGU2lCTmdjczktNEg5eGRHclNhVUtFUWRCZmZkLWNsTzZhMjJjVnlJV2Q3N3ZkSldqQmZwLW9hazB5ODQtQkcxcmRtMF9YUkxHUkxJWExUbkhlSzhBT1JnS2p1ZjVCREprY2xZcTk1UEo0SXNTNU9acTVkRWE2QU9sNUtHTFl6YmJaM0poTXBIdkg1RGdqQzdGeU03dV9R?oc=5",
+    "title": "Decoding Japan’s revised crypto framework: Can THIS move decide Bitcoin’s fate in 2026? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzdXdE5zRm9hZXFMYzI4MGg2QmFHLU5pS0tHOUZuU2dIQloycW9UVlZLbjUtOGhScGhGQjBhdzVQaVB5c3hvNmdMZVVsUmdTbTcxN1lFUTdIVHdQOGRXNkMxamhuelBUWXpVSVdDYVJBcmZvNXdwX2N6bWFTOTdub0RSZ0xPekJTdjJjQkNkMk9MdWU5dVQwYkxiS3g2bXJtV2t1TDBJRmtIQdIBrwFBVV95cUxOOUlpWUgzRnRXUjFaaVJxYkdrbl9XMkFXZ2RLMlB5YXFDMUhrT1JTRUF0UkZkY2NTY3piOEFCWDJVakk2MEo3bkJMbW1HTkdBeWRTQXY0c1VqbWZvckZvbGJBMVFwalExRlF4cGdRY1BlT0NqQjlIdk9xc0cxR1V2TkNRVzFhbDFpOUZGd3pFSkxudHphNlMySTFGRnFNV3lreEF5QTJWZmZXQXZBbFVB?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-11T23:36:08Z",
-    "hash": "ee2a9c7c96518df91b8e774759658b8498f7c2f5417f981bcdaccd8f19983a21",
+    "published_at_utc": "2026-04-12T02:00:40Z",
+    "hash": "34ff67acc654bed30fa7e6e0c12aa1e3b73df473140d9f6fc54ed246c8bc8e8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News: AlphaPepe Stage 12 Nears Sell Out While XRP Price Prediction Targets $10 Following New Clarity Act Victory - Carroll County Mirror-Democrat",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnNsYWl5RlgzVXRkdTRHakRrdXFjTTZsQ1lyeXpVRnVpVFYxTzRELXZMT0VuSnB4dWtHbXI2ckplOWJiYllSRGtaazdZQURSb05RLXVXWWhGUzBILUk4MXAzaGtQZ0MyOTIyblhnNEhkQ0ZPVDRVeVVCWWhCWGJHQWdyTkxMLUhXeGY5ZTlUYzlvYUh5MnVIV01BeGNPeUVvUElXellLSDJpcm1XY0hjWHFmVTdqX1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T02:00:00Z",
+    "hash": "addc152e7ae25984c7cd8a17cc677f33d3b09232d9d50da05e1665406dc89cb2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: Fear and Greed Index at 15 While Institutions Accumulate Toward $2.80 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0UtYnB4UEtZUl84X3JwYU5CaDg3ajhqNWxXdU5aZ2ZTNmZ6YjBIMmJUeEgzWDdFdzlRVS1zckpqRXN1R3RRVEMtODdoZUYyWVhLLTZ2aWdNOWtFcV9qLXdDWXphQlRRUFlkenNOOC12azNHYUZPMHVjaFBGMW4ybjFTa1ZvMmlidmNqNExsSXNyMS0zRkZZU1hXbmo?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T01:43:18Z",
+    "hash": "730657410acff9bbe5f8474925f3fe0a3516bec2e07d7b12d241f7457a355bff",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Assessing BYD (SEHK:1211) Valuation As Drive Thru Charging And In Car AI Target EV Adoption Barriers - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGFhQU1iRUZrdUpKR2d3NlBEdUY2M0VrTi1iUGE4UXI3WXpOYVJVeE9iOTgxTklwS05uTHozVGhLaGdqcnl2WjMzaklrQWh2b0NYLWx0Sm1RdldLRXBmRTdmd252ZU9USWpFLVpSTS1xZ3ZIbjNqRVdiTzFselhTM2pCMXJ6SjJKWFVvSE9vZFNsVDlvakJFSUxNWDVYeHZja3N5UmxsMVR6R0FRUGlfbTYwaDRfRnRYSlhwdDRya0poTU9NVTBz0gHMAUFVX3lxTE4xOGNCTnI0eHRaOUZYU1lZd1RHak5ta2l6eVNQSThBZFFLSFNueE9FdGhqT29uM1BwbXU5WXlQT3pZY2FRSk03YUx0S3pyMkY0WjUzV2hzZ1hxY0RtS1p3SnFibXFaNnNGTl9oakxjbDFLSU9EcFhFV0ZSOTNqekVqZFJJYlJrcEZZSW5LOVFGd1NKc2lhR2xod3dZWDdJRmY5VDNHbU5iRWxwX1VqeGNBVDZFVDdkMEsyLXM2Y3JkamJmWHZEUFY2Z0Y1bQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T01:40:52Z",
+    "hash": "137e6295e5121fcdb8c429f152a5a79b2b54021f10774dd02cad118b9cfa9523",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: $224M Weekly Global ETP Inflows Put XRP on Track for $2.50 by Q3 2026 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM0dMRGU1Qk55N2k0RVV0QkRuR1hTS292YUlST3dlNnVySmRBRkVTcXdfdEpwWDZ4WDBmVENILUI5TG85VDhNZ1hYZVBNSWVVb1FFOGdyMVRlRzBuQXM5YWE0SURIWXBLVmdRY1pmdGRBYXZUcEI1ZnlNZnFFM2dkdlpERzhTNEtLYWtUY2FkSUhXX0RaYk5kaTVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T01:22:36Z",
+    "hash": "b8ad8dc688198bd6daf331677abf8988f3b3675dffaa693e29544ab127fede9c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: Bessent Treasury Endorsement Lifts $2.80 Outlook as Clarity Nears - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSktibGtQelp2WXVxbGg1RG5ZYnVrS2FJU0p1SS1RNEE3VjJGVjRUZ0hkUC1RclVsZXFlRXo2cVY5LUJNc0pvdEZZd1RBX1I4ajhtQ3pzTDgxelNIeHA5RFhkZ1V0cGVNWUdydFJFa3dyV0JSa0VHYVExQTR3am1wYU9EN2ZoWmN4SUhjcl9lOE9PMFRDcXU4?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T01:01:47Z",
+    "hash": "a62bc9fc34d289b1af4cbd93f1da74dbf187ae1845b377326ed215d265907b03",
+    "source": "gnews"
+  },
+  {
+    "asset": "VanEck MOAT UCITS",
+    "query": "MOAT",
+    "title": "The Sumitomo Warehouse stock (JP3401800002): Is its logistics moat strong enough for U.S. investor e - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVC01TkNpX2dWU1FVQnNpWWRhdmpoWGxHazFKTnhMalFxeGQ2NWNlanQ3TlVRMEpFd3EtUFU2RXo1U0M3VlJrT2FHZ1lmNUQtcU5YQWxETHNEcFRod3Y1N0tUX2xwY2hUMjIyZ3F2OWUxcWp2NV80WS1vakljbTRoUmNfYkZHRExMTVRVODV0aGY2RG1PZGVaUFc2VDNKaE5oZnZ1Y185VVlhYTZPaFdXSkt5QUdvSjZCUVpzaEdIR1Nhc2QtTmtFSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T00:58:15Z",
+    "hash": "83c72d106a785d6fc8d4c91db32ec8af9e9b911bec0af55ee1cb4852b46f5a99",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: Armstrong CLARITY Act Reversal Sparks $3.40 Analyst Target for 2026 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0l6QVI0ZTRmc3BmZkNWNlBOT21QWmtaa3czSFZyQmU4SGd4SUt3XzlXdEJqMG9tZFUtaXd0ZDJpN0QzQkxKSldhd1Z2eVBpRzBveDl6Y00wZWVEZTdOUklQdHJ3dm9qU1l6RFlnVmtuYW02bzM5MTFLLV9MY3VDZjU4M3VjeGJLazB4SUl0dk1iRzhZT0Zob3lB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T00:57:50Z",
+    "hash": "87e5d6465cbe60db1b99350ae000f0ef65e2ada3eadbd9182c29fd215b4a7343",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "A Look At Firefly Aerospace (FLY) Valuation After The NVIDIA Ocula Moon Imaging Collaboration - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ3RYbGgwRzNFZW5MdVRia3kyM2hlQXNtTEJONGh6TzZHUzYwanNMMno3NW5NNDRxWVI3d1EwSmZlVlI4RExDTXNHZzl2Y2l4bkVmeHZ1d09zWk84QU1aVC1EQ1RKcG9RN2ZYTUZhR0JLZVphLU80Y2dkODlkakZuc2FMRGtNTGdDQ2VucHBjalpkelh1V0pRLWpVTUdYSHdlbkt5SDRDRjhWeFFSSUxvblZSWHhIT0hlM2M2MjE4alBMNFJ1dnp5ODlWMjJyaFRuaWs5Y3lrQdIB3AFBVV95cUxPSDQ2U0pjS2FzUUp6eDQwbmtCMjk4UnlINHFSQ05XcXhIR1dqcWNnVndIaEQ0NjVvQWV3WTJMbU5SS0YxQ2l5ZlJaMjJhUTVmWElsNDFBVWQzblNEQzZLelBhZjZJcnJHdlR5REJYWDNTSnRiNWRXaTVhdXh3UURUTGFTeVFkWE9EVE1ERmdmanBiWVZRU0RjSE1iX0oyTGZaVlVWcXpFMmdNSTREMDM2UEFqV0lUdUVMLWY0a3RyYXo1Q2wzOXVPWW1xakw5b29oNlJMZHZMNENjX0Q1?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T00:46:44Z",
+    "hash": "1b808761273b5f7624db5c71ab45d678ea79b35d61a08ec5d7c3a4ad7b519a56",
+    "source": "gnews"
+  },
+  {
+    "asset": "VanEck MOAT UCITS",
+    "query": "MOAT",
+    "title": "LG Uplus Corp stock (KR7032640005): Is its telecom moat strong enough to unlock new upside? - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnZPcFJPVTlVeG9HZ3hvLTlmZkFZNjBMMjZyYUJyTVprRUxnbHZJTFB4RkRmeV84d2tObVpnOGw4YUpjVUU2YjFTX3ZYLXNqVjd4aENfS1Uzakh6RUdHYXZaWkh4OUh0QWROejFJYWhlUU15anA2VEk1cEYxNHpucnJUYk9iaFBGYU05VzBXczkyRXk2YzhSWmFpcFFrb2ZjdU91U3djR0ZOeDNzOVVTLWxBcmpTV19XZm9FUHRDZFppbVljekdN?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T00:45:57Z",
+    "hash": "a1f0e03e140828d34b5a6124ad94076cbd55083f1e857a18c42434b6ae18480b",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: Senate Banking Committee Markup Targets CLARITY Act Before Summer - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVktSdXFJQnlfYVIzTnZwQVdfNGo3X090bmNTSlFrSElkeHR6Y2dCRHJPM21lNTZfY1Q2NHVraWdlYnZTWDQ3MlV5dWI2MXFZdVZxTnR2a2t5VjBIRjk5SzRXeFpScDVtQWFlQkEzU3ZwZklnTmxoUnlrS2VUQTVnaWM5dkxScU5CVUM0Vy1UNVVGODBZRGtYSkRSNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T00:37:06Z",
+    "hash": "26c73facfdf9520df8d937e01a7d0cd525151440ad1c16793c9799d7c1d6a2c7",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: Standard Chartered Cuts 2026 Target to $2.80 Amid Global Tariff Shock - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0E4SGV3Z1RDLXczUHlJTENqajNPaEtMWExKNEdLQjAtM3lkd0Z4VHNvWlkwQ0h3WmhnazgzclpObng5ZEF4bzN1MXpGdmF3MU1QU3lFX3owbkVqblBoei1tejFVTjI0dXdTQVY1Y2tuZkhyQUxWLVNPX1g2UmlPeUxBbU5QUlRsc196XzQtQ2VMWFhpRnA0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-12T00:35:22Z",
+    "hash": "fb85446d21f5ab31b0773f1dfb458005f82fb9630d3f4531c42509f7fa03ba65",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "What Is RWA in Crypto? Real World Assets Explained - Brave New Coin",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeDhVbWwyWDhIblN3bDJ3azdLUlRCcE1UdDAyaWtPbGc0VmFsYkZmdElfU0lvTXNqeV9zVHhUR3N2VXRUNlJXUHo0V0hyZUdXNzdma2J2UTFjcVZZRW5KVlpfMkg2alFJdlo1eHNxZzVWX1NyUmlHalpYZUJacVFHamVPb1ZGUFRYMGVz?oc=5",
+    "title": "Morgan Stanley Bitcoin ETF Drives 3-Fold Impact as 16,000 Advisors Open Path to Multi-Billion Demand - Bitcoin.com News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTDN1MUF1X2J3WVFzRDlqTjJ5NWpRQ29nNGpsUlVYQ0NTVFpVTndWNXlfZWZaZHhzQ19rQmhKaGhzT2ZXM1pGS0twclhFS3pXRW9OMWFqaU1SNXR0aUJFR1B6THdpR0dZVFZBOXZLczUxeF9rTDlCSlJZdDVoaFptc0d0OU9VQ0NIOGpUZjBET2dnMXcwVXN1WnZyQ1B4MHBIXzc5TkozdjlKVXdvd0lLSUhmWjRkZ1JaZHgtenpNZ0tfa1U?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-11T23:32:00Z",
-    "hash": "e3fc3069f733ea357e776c41361efede801d7479424fc54a7f8a350492886110",
+    "published_at_utc": "2026-04-12T00:08:33Z",
+    "hash": "ae3e252437677a26531b1a36b6fa2990b787029019bb1205ba380d984e518a58",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin (BTC) hits $73K after CPI surges to 3.3%: Here’s why the market is rallying - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQci1peVctanZETF91NVRTd2p2eDlKZk1wbE9oTjAxS1RyNUVJN0kxaDBleHFYN1FBa0oya3pHZ01pMmtpN1lKVHpTeFdGMFNHQjJwc0ZfTzRvaE1LbURUMTBaZk5vVFhqV0duYnN0Sjk5WGtPeUkyWmVoLTB1WWhhb0pyd3JDT2tjRTJ5OV9DOEQtOFBZLXRfZHFFakZFOWNrNDFJRU9zS1N1aVJqOGNvZUNPMkNXWGZGM3VWcnNpMUhMZkJkZFBsYXhjTml3NnNDbDBLUG44VVB5YXdBb2g5OHdQSXY0YWM2Z1BtZA?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Key facts: XRP 1,100% Needs Catalysts; MVRV ~0; Price Flat, Vol Drops - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2xsN2hUVk44UlBTeFN3eE9GNElwQ0ZaQXU0emV1U0M5enFjY0J2YjlqNU9JNGs5SWszNHA0dFdhRk5hSC1UbDVxajhKdXNRNDlzclBZRmVQSWFHcHpIVVpzRm9yWERVU3FPczR3WVRnU1hsNnItSnVlVmJENEF0bllmMTRicUJlb2FxOXhYUFBaWm1yTkxKc0JzZUpJYmlpQmlFYURGLVR5Z2dNck0ySFpESlpweWxGaG5HMFJFNUxhSFU?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-11T23:11:05Z",
-    "hash": "d62e0b3e2af4ed817c4974919a69b2d60590a420671f78922a267028babd6f42",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Weekend Crypto Perps Are Signal, Not Noise, Binance Research Finds - Bitcoin.com News",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHQ0dVFkWFFNX014OFUtV3FTTjlTVkRteUtnZ3BHaXROWWhKYXNlY0dZQ0I2RkJTeEFzZ2twTDR0WmNPOTVLQVI4dWNxZURYYXJxSXNKYTEwbldwREZEb3NIeU5hN3RyS25KbHFKWWx1S3pzLWF2RWhvRmVLRDBocXctVXFpVlExczFZOWJKdmpSNTQ3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-11T22:59:32Z",
-    "hash": "4b2d2872f9b9a278ac82c57dfe271ddee77cf70feb1d40b178936e9b376f8029",
+    "published_at_utc": "2026-04-12T00:04:00Z",
+    "hash": "d1a242422bf37fe302faf2df3957189f32cd69876475ec8e1811579d010001e8",
     "source": "gnews"
   }
 ]
