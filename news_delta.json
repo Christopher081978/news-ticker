@@ -1,32 +1,252 @@
 [
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Pepe Coin Price Prediction Reacts to First PEPE ETF Filing While Pepeto Fills Presale Past $8 Million - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNnE3ZFVpZzRLaWxKVXdkLUUwSHRpcVpSWi1aTlIxTVh1ZXFsek12b1BpQUlHUGZpMkJTNnhiWWNnNlV3STYwLXRibTNpeTRIRnNBWVY4WUd3bGJDZFNaa25NZ3VwLXBOVkcxZEhvNXpQbF8yS2hpdG9oRnJnRm1lWjY4b2ZJV1VIOUxNVDVWLUlPOVZ4b0tiN3BLRDMtOVNzU1E?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds 50-day EMA, ETH and XRP hover near breakdown levels - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVUhCMmxnd1VnU3pWdmVVZ2ZibVFuOEcxQUV1WWVPNzZwNGhOMzAwZmE2RUhWY3J3d2tQTV9wOEUwYy1kcUZfby1GcWR5ZzB5ZEhmWE1na01LU1BLUlVpaG5fRGpzbUhfb3Y0QW9JQi1rTWtVMDRuaHZyU08tcktwS3oxV1VRNzdXVWJGcHY1b05QUnlmT3dtamtxRXNTVElHTzlHQlBVQ3V3MVJLUmRMRFZLejdlN2xfLW1ZMU9VY3lBUmJFb0JCeGxUanR2NDkzVTlVamlITFZSd2xORGVEUHhpc2NwNjFqTTAyZ0JIaFl3ekdmSW4yMEhvaw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-12T23:13:27Z",
-    "hash": "445822540885edcd9a0c4fa25caaa1e0555ad06bd38429cdd183d7ae3ed2f228",
+    "published_at_utc": "2026-04-13T03:21:49Z",
+    "hash": "2660b5f2538969c6d68fc0d0bf92ce48478bbe4976ff23145be58fd7379e1902",
     "source": "gnews"
   },
   {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood Blocks Some Prediction Markets Over Insider Trading Worries - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGVRMGtPR2Q5bDZ5OEZTWXFTY0g4NlFwcVNxTXg0UnNOLV85bU4teWRwMktfWW1NT2RqN2NzVlFTNWkxMVlkS1d2UTZOeWxfSFhxUGlJVm9JMVh4RDIxZlluQ0doRUFuX3J1LVJna0YwRnlRYmxHLWFIa21jWTRIdXRKUnoxbGtRZHZqV2xOb2FCMlMtRHRud01PVUNtaVZHQ1dNM2VIeHFrZw?oc=5",
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds 50-day EMA, ETH and XRP hover near breakdown levels - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVUhCMmxnd1VnU3pWdmVVZ2ZibVFuOEcxQUV1WWVPNzZwNGhOMzAwZmE2RUhWY3J3d2tQTV9wOEUwYy1kcUZfby1GcWR5ZzB5ZEhmWE1na01LU1BLUlVpaG5fRGpzbUhfb3Y0QW9JQi1rTWtVMDRuaHZyU08tcktwS3oxV1VRNzdXVWJGcHY1b05QUnlmT3dtamtxRXNTVElHTzlHQlBVQ3V3MVJLUmRMRFZLejdlN2xfLW1ZMU9VY3lBUmJFb0JCeGxUanR2NDkzVTlVamlITFZSd2xORGVEUHhpc2NwNjFqTTAyZ0JIaFl3ekdmSW4yMEhvaw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-12T23:08:10Z",
-    "hash": "5fca745ada7314f8da2b98bd322ac7db9c5e78a9f657119de3a58cfc0238071d",
+    "published_at_utc": "2026-04-13T03:21:49Z",
+    "hash": "2660b5f2538969c6d68fc0d0bf92ce48478bbe4976ff23145be58fd7379e1902",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC holds 50-day EMA, ETH and XRP hover near breakdown levels - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVUhCMmxnd1VnU3pWdmVVZ2ZibVFuOEcxQUV1WWVPNzZwNGhOMzAwZmE2RUhWY3J3d2tQTV9wOEUwYy1kcUZfby1GcWR5ZzB5ZEhmWE1na01LU1BLUlVpaG5fRGpzbUhfb3Y0QW9JQi1rTWtVMDRuaHZyU08tcktwS3oxV1VRNzdXVWJGcHY1b05QUnlmT3dtamtxRXNTVElHTzlHQlBVQ3V3MVJLUmRMRFZLejdlN2xfLW1ZMU9VY3lBUmJFb0JCeGxUanR2NDkzVTlVamlITFZSd2xORGVEUHhpc2NwNjFqTTAyZ0JIaFl3ekdmSW4yMEhvaw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T03:21:49Z",
+    "hash": "2660b5f2538969c6d68fc0d0bf92ce48478bbe4976ff23145be58fd7379e1902",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Up 20% in Five Days, Over 50% This Year: Why Was Marvell Technology Tapped by Nvidia? - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXJQRnA5WEZmXzFvV1l2S0dtZE1rcGlQNXJvUGc3dWNSdzZCZWlwMWd6ay1uM0tNcjhFY19QVFhWX1F6c2JqSlhDMUdLU0FUc3RURElJbUNWQ1lndE1zaDY0TXpnV3U1S2x0cVdVdTM0QmtIVXA0dkNxTTc0S0w2M1JmLWJPV3VxdzFjOWtZY28zYlBHYXd1OUdYMnR5UVVFejZMLVRuMXlHc3Bmc1NUMjhkeWhWTXQyNlVv?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T03:13:12Z",
+    "hash": "30348455feffa93683fd762332913336a3173c16918f79f1068ee4c48870033d",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Stock Movement | BYD Co., Ltd. (01211) rose nearly 5% intraday as the company's overseas expansion gains strong momentum; its sub-brand Tengshi’s fast-charging new model enters the European market. - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSldvZG1lcE0ydFJ2OC1tZjRfLXg4bDFXY1VuYkZqMU4wSXNKejJsMU9Ba1diMFhJN0tDbi1yc0VoWGd2OTk2dDdNNTROaENucHlPcW9QSldTM3l3Q3pEaDY2Y0tWbnloY2E3WXQ5UlpZWkdZTWtsZjlYN01ZbWhTRkZqbnU4NUZYZjlQSDZtX0NCWHJ2SWE2d2NEdC0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T03:12:41Z",
+    "hash": "bf586724aae730dbf4b31c4a05ff696a9dbb093634de661f4a495047d18812a5",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Stock Movement | BYD Co., Ltd. (01211) rose nearly 5% intraday as the company demonstrates strong overseas expansion momentum; its sub-brand Tengshi Flash Charge new model enters the European market. - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSTJxNnZhREJwOVdsazQ3bnZpalpaWkVIUVRQcV95Vkswbi1zYVpQdkFkNEQyNzlTakctSTh6Z0ZCRVpCUFN3M1RkSDFyS3Znb1ctMGU5ZFRtMUJDVjcxX19XR3BvN01YSVdsV0RzTVRGV2JIb20wLV9tUU43RDh5WUVSN0xZOVV2YU0wX2RQbTZxZV9JV3lsbmQ5VQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T03:12:40Z",
+    "hash": "ea79efddaebe015064a7ee48f92406375b745d91de139d9f087b30955072b147",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "3 Parts of XRP's Thesis Aren't Working. Should You Sell It? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1amlKQkR0N2t6QlcwOUZWWTFIWEVZaWkyd0RQYkpXTzgwZGVaRlV2RWlCMFdrSlFDNlMtOC1zRFA2UGxSZm1NVFY4ZDRJTFY4Q09zRjJrNHZpVWY1QUhOU1RKWTFvb1FKbTJqTGRWRExrZHoxdmdZYQ?oc=5",
+    "title": "XRP Price: Top Analyst Flashes Major Breakout Ahead, Eyes 530% Rally - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wM1ZEYXhlTnhwWHpta2Q2eHpab2NXNldZLUxZUkZ1Sm56b2xJVmNLeEVmcWtLdk14N3FjTnFOb3lST0M1NlE1Tmo5eHFKQUtlQTgzVVlDLTRnUE0?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-12T23:02:35Z",
-    "hash": "36dcc7fb4a35206efe42882c99b338281c269698dc60ff21723c4611b673d455",
+    "published_at_utc": "2026-04-13T03:01:22Z",
+    "hash": "38db7cb3e2def64e7b0a6c8e0955c9bb0de8f8b6bdba932ebc75d287ab4c02c8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: ETH Outlook Heats Up as Foundation Locks $100M While a Fresh Crypto Eyes Binance - FinanceFeeds",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlFrODFPbVpEaDBGcnA2enZQVGVaOWNkZVVXRWR0R2Iwa3hlSUVZSEUxbnVhNFVyOWVuMGNRV2w2RUFGb1Zfd0ZFT2d1di10WnMxSm1PZVZPc19vYndwazkyMFFfQVJ3Zm5lcXc5emxfNHdhRVpOc3ZCcVlOT0FocUFlYUU0eVJkWlpLdjVqZGJmSHRGWW1rdnJGdU1GQXhOY2pObDFlRl9oaHpPbllWM1NNY0FLRzJzMkgxUkxkSHJpM2hPRjFucXFYNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T03:00:40Z",
+    "hash": "cdd18755c09eb342b8e326d534401240e485f202ba95859b67f967bb0c30dee1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Crypto News: Pepeto Presale Surpasses $8.1M as Robinhood Launches Own Ethereum Layer-2 Blockchain - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWGRJM25pc0RCdS1XUFVwWjZyRmk0RmNGZmdyakZnMEw1NkUwbDgzTEdhc1ZwdVFZNURWckpHSVlGTVJ2NERqZWhXQjdYQkJoaldVM01leEY2eTg1clBnN0p0a0ZnVFU3X3Q5N3gzNHdfN18xdWQxYk5saEpJNFRPVkRjdE5NUF9PYnctS25EWXAyR3Rp?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T02:59:42Z",
+    "hash": "f2f796afb5859fb5df8886f98ea97c75743c09c57e1ff16efca13831e2b32c3a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: SEC April 16 Roundtable and CLARITY Act Could Reshape $1.35 Outlook - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlZtZFUyTU15VlFtY2J3S3J2MGV1a0ZIMDNDb0xBYWt4Ukk4NmZKcWJ3aDIxeVU0cUhDOTlaZE1mMWtBVElEaTVXTFVYMGNrcVNiRW14VGN0eXJXQVlxbmF6YU1fWVNKNnhSWXl4ZjZOSVk0ekJ3djVNVEN5TGxaY3hrcWNUYnlrUGJhVm9WR2s?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T02:47:29Z",
+    "hash": "4f2c8a21264a86c7ebef631920e3b4254b6e4ae07d7aeb990025444621aa2cf3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Arbitrum, Solana Among Crypto Token Unlocks Worth More Than $221 Million This Week - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kbURLR3o3MlIxbnhWOUloazV1cFVjd3kxMGZhajhiYjJfejRsVHhHbmtXNmVaMmNQQVR1b2dranhYTlpUQlFWeV9xaVVPaldqTi1ydw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T02:22:19Z",
+    "hash": "8260c0753fa37b4e6a2564208fcbdd16c8ea79bbe452c4b9b96c3bc502473b47",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Next Crypto to Explode: Solana (SOL) Firedancer Hits 1M TPS on Mainnet With 167M Monthly Holders - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlg4bXVSNVVKemRQM3JNMzh3dU4yQ0pPQjFCSXdIeUNlOFcwN0UxRUx0Mk5FX2Zmd25yN1E2MkdsZVBkekkxWDViRmF4ZVF1M1A1RlJZM2JpMG9Hd3RJMmZld21FRl9LUDVFSU9tUUN5R3NfR0stb29sRlhzRWo5a3hjLVcwbWJXU0JBLXhIMUQyd21OaDU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T02:05:08Z",
+    "hash": "bdfa21aedda3a78c878401d40887dc5b0f3d82e1f5290f38cc2979a4b3b70b35",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Corporate Adoption: Scaramucci’s Bold Prediction That Every Company Will Hold BTC - MEXC",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCSUstRGxxd0JuMlYxTFJZU2pId3p1SlNSLUx3VHowM3RPTURkcFREeVRVRW5Rcmd5Q3YzaEo4OVVfQk10R0pzRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T01:53:50Z",
+    "hash": "d0909f1e1449a1b86be9bfda2bbbdc52c48c0d7210e07088aee8f820f9c7779d",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall As Trump Moves To Block Strait Of Hormuz: Analyst Says Risk-On Asse - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT2FHMG1ZRFNjVDFDREhSLVhsQWhRWDR2MWNfM0hycWhMZ0ljUnZOQTg5RDdoV3ZMX1UxWHYxbjVqd1ZEbU1OUnBLRC1Id2EwYTRNRkl0SVpyR0hTdXZiRzVKUGR4YVZlcWgtNU1XS1VxcWljdmRlSk5mV1Y2NzMxeE85NEc4SWJWYzNwR2l4dnBKXzVkdUZuNWVxUTFDWlNkODRfVzMwMEgtZnBSZ2hIVXo3d3ZyVjRnb212ZjlDMS01Z3M0bDg2RExn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T01:51:09Z",
+    "hash": "d14a8e63adb37c672d3f10afa810a61e7b65404f27e4a5e50efda463540f1094",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin, Ethereum, XRP, Dogecoin Fall As Trump Moves To Block Strait Of Hormuz: Analyst Says Risk-On Asse - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT2FHMG1ZRFNjVDFDREhSLVhsQWhRWDR2MWNfM0hycWhMZ0ljUnZOQTg5RDdoV3ZMX1UxWHYxbjVqd1ZEbU1OUnBLRC1Id2EwYTRNRkl0SVpyR0hTdXZiRzVKUGR4YVZlcWgtNU1XS1VxcWljdmRlSk5mV1Y2NzMxeE85NEc4SWJWYzNwR2l4dnBKXzVkdUZuNWVxUTFDWlNkODRfVzMwMEgtZnBSZ2hIVXo3d3ZyVjRnb212ZjlDMS01Z3M0bDg2RExn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T01:51:09Z",
+    "hash": "d14a8e63adb37c672d3f10afa810a61e7b65404f27e4a5e50efda463540f1094",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) ETF Inflows Surge $120M in One Day as Institutional Analysts Flag $40,000 Price Path - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQkY4ZldIX1V3NEtLaDRlZHJZNXVVS0FHb01DQ2V5RkdyMlZrNFdmc0FmeThLeUlUME1TcDJrbms2ZkNuQ0JUbXpZQnc2YnNpVW1Rbm4yMElFT2x6U1V6anNTX3VRcTNONnFCeUl4eHpYc3NwbWZ4OHVjSG5zQi1Jd3BaTDR4c3RiVkhkM1ZR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T01:43:57Z",
+    "hash": "28a7b5be5161c1bb080433b8edd23d3962f7aa392533bfd81520e536fb4d2cf0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Healthcare Stocks: J&J & Pfizer 2026 Outlook Amid Tech Shifts - News and Statistics - IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0VudmJOT2xOVHFjQk1SdFRobTZIVWg2bTEzMVZWYWF4dFdVb0Q1SzhmYTBKOUo2ZFNWdlFLSThTOHpqOEVCVWxsYUx4RWdpRjUxYTZ3Zmhlb3pVaWJUdVBPeXpJUjRXN0p2YnRJT1RuWVdmZGZhak5OU3ZaUEFUckNrazZLWmFYM3M4X0VTMlFQR1hkc0tzNHlmUkRqaDkyZG1jX0FB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T01:31:00Z",
+    "hash": "36379b707c7ed3cdc941a05a0e945461bc36a198211aee173f58433cb180498f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Binance Coin Price in April 2026: Pepeto Presale Fills as BlackRock Q1 Earnings Approach - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajR1WVNNYkI2RmJXMm9LTy1SUm9vRHhhMzNIUFo5VUJ4OTVIcXpPY28xcEZhUWdwdjdRV2FhREF5dm9EY1JLUXctOTUxQUZLeEtaMjFqRDliVGVJOWdXOVh3VlZFVnVMWHJtbWd3c3d5VWlPRVdmU1dhakZsdzlyaGxKMTMydVFYaU9jZ3NqTGVsaVhxWGlz?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T01:19:53Z",
+    "hash": "e97f05d834a4eecab44e35a4f3c0fe0fdf9fdf91582144d760d9f876ef7d2618",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News: CLARITY Act Returns to Senate as Pepeto Presale Passes $8M and XRP Holds $1.32 - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU21Peno5QmVHMC1fWnpKU2RGRU53N3lNRWQtYy1fdldTcGtsNVp6eXNSeENRYVhWejJaR3J0LXRVS2RVdVl2UEFlMEpWNDQxSkFQMXR5a0E3LXNTX0d4eFU5UXJYbDR4Tm4yQlkxamhKa1BMSTQ2RmExTjlHT3RQY3k3MHRicVMxSDBzVmdmemJOZzk1eDN4YzVNVmt6ZnJi?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T00:51:20Z",
+    "hash": "433d79006a1f4da27761fc8d30b330ea0f0a84285c304ea6bac096b8016b4429",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana's Institutional Breakthrough Faces a Volatility Test - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHJSdjB5QVZydVNDWW55WHhCS2lvaDJ2ZFlDal90ak9KenNMamJvSFN3NERlWnF6aUZSakZqUFlOa3RQYUNsSnlIbmZKeW1mRDE4UnVkOUNGUmo2dXdZbkFBN3lxRnRsVGx5T2FGS25qOHBNN0trMkhScGdGX25CTjRiNTc2RzBJR2NweXJQOVdUN2RvT0ktdUFpdGV4WENib3k1VXFHbE40TzZIOExaZUZ4NWJKUVl5YkE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T00:51:07Z",
+    "hash": "815dc16f107bb493b9a1092f1e72bfb83d5f693c94c2865869da6505179a2209",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Atlanta at Miami | Prediction Markets - Coinbase",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yQVY0MzBWZWdJdm1ndUtWRUNZYmtTLWxtVk1fZVY1VTczQ19VY1lPZFU5cl9RRnMwWDU3WDc1NVJCaF8xbVZEazdLaDZGTVBteGRGazRHZkhHRzhra2pxNXgtQ2RYLWdOMUVTRVA2cUxud1pPQkw2UFBOMjQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T00:27:00Z",
+    "hash": "e80e7838e39ffc6b40b0990d8818809ba7b6c798e02cb08750e4ae556617d786",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Korean Investors Bet on Space ETFs, Rocket Lab Ahead of SpaceX - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnhaZzhVRXZHc2poNFprZ1VPUC1abnJBUFJ0Vi03bmRZNGo0b0hWbTRmLWhOYk1PaHVJeHhxUFhIakl3YUpydTJmTlJCVjJDaVY3RHQ3cDhsckZxbE9CVzVlWWJ1S3pEcmVfRkQ5VklyZm9Ub25SQ19iT3N0RE9PMDA3OUc3WlVLWllQZzlB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T00:22:45Z",
+    "hash": "ca5e8221c27ad71651042301e4431519238b408775dc673297b0da1346bcbb19",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Ripple (XRP) Price Prediction: Standard Chartered Raises 2028 Target to $12.60 on Adoption Thesis - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZHZici1RMWVWMEdSSHpfczdiYTN5ak9hem10a3hzM3lWcnI3LUlkekx1eGdtZm1IeVloSUdtX0dWcEtWSkY5c0pUaXZNd05WakRoREMydTlkSUswRENjbFczeXdkWXZBZlNFSTFjdFg4NGdNbEc5b080Y3BkaEhwTUpZMTY0QzJlZEcxVTUyLXROeTNfck9jdnR3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T00:16:48Z",
+    "hash": "47a779f6310cef1a185510800cfa17ee94d1b5f3a83f704daf0d6091af198389",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "US-Iran talks fail as Bitcoin and XRP fall - grafa.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmRU5SSmY2WldyTXEyWTJGTEJRdmdzU1dNd1I1QldCRV9hVUY5Mk5feE4tVklwNm9kLWxURE9QUFlwbkRFbGhKdlZUSkRjc3RiNjJGMjlCY2lOQ2wzb0cwcXA0LXFzT3oxcE41UExVc0pPRHRxQVhJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T00:00:00Z",
+    "hash": "2108ec8923fb1c0c04fc5895a99e1c9aad8c7055ec49fdf2ce13ca937ca7952f",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike: A Wing And A Prayer (NASDAQ:CRWD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ld0dFZFZvUG5JdTl6V1FJSWFtb05xWmRhRDd3VzV0eUJLb3l5LWl3QzJSY0QzLU9KUm1CN2JCcGVURXRhSlhHTDFLZlMtNzUyaEFWRFhDSE9VVmZYd1FtVV9TdVpTQURpbVRhV2JiZEFKV0VnNGlaa1lR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-13T00:00:00Z",
+    "hash": "6c0ca56c6fc3fc16c4e6741280d62ca6fa87ec951d4314952c2608a59e7f5ef3",
     "source": "gnews"
   }
 ]
