@@ -1,222 +1,112 @@
 [
   {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike Falcon (Software): Cloud Security Edge Faces Evolving Cyber Threats - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0tEdjAyMzZGWlI3cU4xSTRMbnpFekx6TTVCY2d3NENoRHJGU2RuSnFQN2lXOHFCX2F5ZVdGWnZTaFJ0OTJqdXU4dy1GVkk5NHduVWxUR0NCWFFQUjhHYUQxdFB6bm1OTTByVXRIZG1JRU0wNHpPOUtFNHpUc3FvQ0g1c2NnMUU2MlZyVmphZGpqZHdvd2MteGNJYkF4Q2toeGU5UURUZU9yVjZwVWVFUHdSVE1CbGh1Z3d3OVpvM2NwN0dkVXc?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Cramer Highlights Nike, Amazon, Nvidia Stock To Investors: 'Why Would You Sell It?' - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2ozaUNXbWVyZ1Zwajk0aUNhZVNLYTZMckxtOUhnLWpSUGNEQlMxbVdEWlpYWUI5QVpzQTRfTlp2TXI1dGNhbUxvWEozYkFNUWZrRXg3R2xjZURzZy1mUVFJalQ0LUQzOHdsSU5YVm92a0g3QVF0QWRpWFZ1VVU4OFRnVGRpNF85NXA0dlJxbEhxMmI4YWZaYlVpUVh1dHU0OGhv?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-19T20:43:30Z",
-    "hash": "bcc13b6ba87c827cd1a5428dd69ade36a1613dbdeb7c67aab81bf3f001985b74",
+    "published_at_utc": "2026-04-19T21:31:10Z",
+    "hash": "e60bfb221a54711dbf411fa50e7dfcb39823ac33d626efeb573cf5b1793354f5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Hits Record 3.6M Transactions Amid Price Volatility - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1l2TjZNSHVDZ1p3czNtOUpMeGdRbThYdzdBcmxzUjBQakJ6dHZzbnVZaUZ4N092bVQ3OWplVl9WYmRRUW41WF9Edk8xdWZzU0lZc1NpS0RXdkcybTJIUUs0eEdhTW84YVVTX1JUeVJlNUNLaUZwS2gyMkpOSmJrVDhTblhOaTAwekJmbzZoWnJ2Q1AzeXc3X1Nn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:29:46Z",
+    "hash": "6d27e5cb0a7d09d1829513c517a8b70a81c0badcdd980909022948511e6efd05",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Solana Dominates Q1 2025 DEX Trading Despite Late Ethereum Rebound - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3FtNFFGeXZEOEdkUXpNc0ZHMGdzdWdLVVBTV0hwMjAwdkx5MVZWYXZSWkpqdHhScG44N0hwVU5ZRzliYU5TWWU1R05icGhFTjJ1THRnX2xwY3RzaVNESndBTzBhVklzM0RVR3hEbEJjUXQwcFJkaXFvY2hjMEhzdHN6RnJ2TkpLaDMxbXl6UHMwQzdFM2EyeDZqMjhFb3RmWnNn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:28:46Z",
+    "hash": "ed3d3795ad1da4adcf38dab1d0f9f28325c2ad9dbb768d2c6905b2011b3daebb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Dominates Q1 2025 DEX Trading Despite Late Ethereum Rebound - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3FtNFFGeXZEOEdkUXpNc0ZHMGdzdWdLVVBTV0hwMjAwdkx5MVZWYXZSWkpqdHhScG44N0hwVU5ZRzliYU5TWWU1R05icGhFTjJ1THRnX2xwY3RzaVNESndBTzBhVklzM0RVR3hEbEJjUXQwcFJkaXFvY2hjMEhzdHN6RnJ2TkpLaDMxbXl6UHMwQzdFM2EyeDZqMjhFb3RmWnNn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:28:46Z",
+    "hash": "ed3d3795ad1da4adcf38dab1d0f9f28325c2ad9dbb768d2c6905b2011b3daebb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Investors Pull Back From 21Shares’ Ethereum ETF Even as ETH Flashes a Short-Term Buy - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV19nOG1CWU80UzlnSF9TRXV2OHB6TXpLdzJnQUo4SGpLZjU5QVdyd21wTUViX2Q4NC1EXzVxUXUweE1KUWRtRS0zSEdyRU9SSHR3UVlQU1RmdUVldVVDLXdVck5LeWFHM1ZRdFpFa09LUG9RbVRuZEd4U3NZeFgyMHFMRnlqT3VnaDFMZG5HMzRJa3FtZzhOYWxBUFQ1eU1HRWJmc2lwZDlERnpYVFFWSFVzZEdsaFAtRzdQYW82Ykpuc2F4aXZiX0hn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:27:41Z",
+    "hash": "801a923d142c2751c37f1a8a48008bc305ab3a4648fc6ce0f3801d60c76b3c61",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Investors Buy the Dip: Franklin’s Ethereum ETF Sees $1.8 Million Inflow as ETH Slides - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenc5UF9ZUkcxeUhrY0U0R1diZkFGT1dYVWQzNERMM1k5TTNmOGMzSUxxd1JGdlV6cGJQcnByNkl2NmhadVdGcjVGZm5HTkdNWWFNTDJnUUhJTFFUY016MXhlQ0hhWXFjXzNFUXpOWTBSaU1oaGVqWml3Z21lRml5eUtnVmhPLWtDOEkzUExQajFrQmRnaGRkR252OFlOZUVUVlhjSHVlWjZMeDA2RWJYSHQ3MmNUVWtxT2Nsd281S0NralNEbUdEdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:27:41Z",
+    "hash": "471430566825c32236ca40d70f8977005099879c1e8e28c4d51094ccaec92daa",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum Stock: Institutional Bet Tests Overbought Waters - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0VoX3JNUm1QSEdhRlBkTmlqTkVZVXVkMTZHRk1VZWxhTkpGZGZSYkpjaXRCVEFlVXR1R2JxckFha09wS3NtS2JOd3Z0V1BtTmlRRTEyTjlWdzAtQjREQjdMZlFUSUx5Z0tBekhmS19ZVnMxSmpMdXktdFZERUs1VHV2bW80ZmJ5ZW96VzRkTmFwS1hlcURlWGVmUVJnSVhDT3FiSEY4VTNuM2tCM0dhclZkRldHQkRRYXlheFd3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:22:41Z",
+    "hash": "f6edde5e6c61657637e3c12ffc502caf12506482d2b04c353577f8f9df7dbb1a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction: Can Solana Overtake Bitcoin? Here’s How Far SOL Has to Go - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmVwbjZ1WVpnU3c1MHI3MDlvMmp2NWpJZS1leXhJR28zUmRaNU9abWVmRlc5ZjRpM0ZBdFg1SnhhZ3JURUhzd0wydWxUQmRYdktRazlzYklPRmhxZXctT2VKbGUzTmV4bldiRnprUTFnM1B3SmRVbmJ0OW5iSW1pbXF4SjNqenEtUzdHUHpCR1ljbFcyZWtDNjZRT0RMblVlWGJDaG5qRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:03:26Z",
+    "hash": "f44373eb2e8fbcb2e46da4f6068958a012efde6e681934f93908035ee57edd2e",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Cloudflare Inc stock (US18915M1076): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVkhQMDVwUHR4emg3TzBHa0JrQ0ZmZGFVdnpKSVVyWm1fNlBuampISDdoQ1QxZ24wY1F2dVI2eTEyYzc1aHBIMlN1T3dRT1dlSGRqbk91YnJyNGpVN04xSFNkT0pNMW9sUnI1N0pfU0ExN2hTbEM5MlpSSjd6aV8wNm5qRER2ajFDdmZ4WnhLcE5zOExRb0ZIWW1OS01zb3U3T2xEMGF3b01xSGJWcTZ6YlVNaHVYM1RWS2NOckRJYnk2blZTcGc?oc=5",
+    "title": "e.l.f. Beauty Inc stock (US26866L1044): Why Google Discover changes matter more now - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNWYVlTZXpmQzJ2a2VvRHJWRXBWaWlYcG1wSkRXeFRxbE9BWlBLdFpuUUdBSlVBVUhCZ2ZqX2lqUU9SUEdaMGJwU01ScWhmUGZPeU5Cem9MVDJaSFA3TG56eE0tbTVEUXhSZ0paTk5BcjBfQ0N6bU5vcnBDcDR1Zmdtc0VwRV9VdElST2FrMlZjczJIZVpENkJtS2hmMnFVZUNJLUxwWkdxRUdJaGJ0VlJZclRCWWlyblJ2UkIyNGlzTjZzRGI0WQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-19T20:41:37Z",
-    "hash": "05f86591844b5025bdc7dfd758f77fa0dbb7be62d9947542a8c3f5ed5bbf4e5e",
+    "published_at_utc": "2026-04-19T21:00:24Z",
+    "hash": "05a392d180e2fccbec585766d4b3d17f4ad8e86ceb72bdd200fbdd44bd5042f7",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Lifts as Morgan Stanley Files Solana Trust and Pepeto Becomes the Smartest 2026 Choice - FinanceFeeds",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUJkVWtMNHBZcHFSR0M0U2FwU21hWmVQeTFad3FTTzNEc3Q0SHRBd0tJMFNFMk1ldzJtbHNIdTVIMXBTWmNELWE2V3oteXBiOVJEc1FVU2wyMFVRY1ZuWWVNc1E0RnFBbTA3S0lHRklSRE1fMEVneXZ6aENsY2hBZXU2c2lHRktSNWFqUnFqSEliSUh6b2ZQWFVLektfUkY1Y0lNMEtBMEJleGhSdUFvelZNNUpBQ1JYcDRLZzVuZTN3Q28?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T21:00:13Z",
+    "hash": "1b5467f3b0f712ec7b2348b22c19566faf32169e1aaa451a9e4a8f9bbb33bb16",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Google",
-    "title": "Sturm, Ruger & Co stock (US76243A1043): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHVtbk5BbjJlcmRBLV9GYzBwRFljc1NVd0hSUDZkYzNQYmlVaTRCX251aThrVHc5bFdPOV96SVlDZUJaQ2xOUEZtSjBLYnZVcjZTRXNTNXlSa1VtQmZxa2tiMFZDQUVOWTN3UTEwZmhLLUctSGIxV2dicWRpaDI3d2tNdm1ERzJuSGFsaTRlcGtLQ3lsQ0JCeERTc1dvbUxaMmU5anJQTDQtRzJvdXJEeFpCLWxQSDNLZV91UkJvSC03dw?oc=5",
+    "title": "Quaker Chemical Corp stock (US7473041019): Why Google Discover changes matter more now - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVHBsZzBjMm9hX3ptUmN3RXlROUVtWUxjOG9WUEFLSlMyeXFKSDdEVWxxY09EU0pnU0dIZ0puOEstT2UyWWJLTnUxYzQ0VENOSjhpWkJDcF9rN0wweU51STg0V3NhcHNXLXZtVTByNzNOa0prbXNMRi10ZDNwdTY2MDNlcHVMWENPcTBXNlBKQTBhY216T2taY3ozNWo5WjBYbnRyVnBFc0dzUjE2WUJZZDBhTXV4b1pMNDUxaTZlSzgyWi1k?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-19T20:41:26Z",
-    "hash": "ff6895af166865359d9c3727bb2f7e0433bfbc5a635cde30c3ee7056f35302f4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "BTC/USD: Bitcoin Price Dips On Flight From Speculative Asset - MarketForces Africa",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOelpxZ01CNC1YMncyNnFQcy1Ia0dZU2RkT1NMcV9NQ1ZnMGdsd0hnR25TMXJOMzVyM3JWbWZtWUhrSTd1ZW03emZRS28ydVowbGxxUTJMdjhYMVg1ZXp0dUpPSU5lSW5zS2R0QnBnVE93SjdrTWdWb3FRYmtpTlE1bllSY2tLMGZnbmlwM3lsdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:37:19Z",
-    "hash": "e0e65867b1ab8b9bec161dd984ea57b43aabb248a1dfe58b1a42541991f4de17",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto News Today: Pepeto Passes $9.2M as BTC Holds $74K and XRP Leads Weekly Gains - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlRRYncyeU1NWUZNM3hNV3B6dEZxZXNkdGZuWEgtNnRLMzhqZHAwX1JDMGZoS1Y5bTVmck9iSGtBMnJkQ3NoZXlmNGxiT09NWHNwSjlRSlZSbEZyaVpvSXR3c0tBUWYtck1lR1ZBRzgweTFHQjNhTVlXSEFySWNsX3V2SFUwc1M1OGNfeGE0bUIxd09pWG10RG9aZWVtUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:31:03Z",
-    "hash": "71d9bfbc7e5b5c2c761e581322026b478b76d376c6826ffe593f23fa26883cb0",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Set to Skyrocket with CLARITY Act Passage - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWM4V2ZySWNMaUd1bzJuLU5vUlpVZ21CdHFrS0lNc1JhMWpPcGVkOGdYcXk0Y05GcWk4R2NwdFdpT09qRlBrQTljeExrRlBzVjBQS3pVVW9KQVdnTDRCdm5qaDFoM0FlVW10cEZlYnRqU2FNLXdYZ1JwUjJjbFpjTFZvcU9iMmdmRUZjYW91WQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:30:36Z",
-    "hash": "79b25bedd4415080c4629e198f5949bd2afdd79951ce4fa9c6828e0015479d34",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Bausch + Lomb Corp stock (CA07174N1090): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDJJQ1B4WXh6ckFOcnI3YWFNTy0yUkhYUFpOWktVUVRkWmlXOVBMUFVaOWtWMUVkdUZRLXFOZ2xDNWNBbjhfbHk4UElOV2VHWHRQekUxZ25za2tUMW10NGVpUGU1d1BBb1ZkbENWYXJHTV9hbVhPcERuYXhmRndCYm1sclhHM2NJZDRHTTlKdmpxNDUxRkxaT0hrSDJwazJUTVMzR0lHWHhCeDRtVVduTHNoeHlwejN1QWwzeTNhMA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:29:08Z",
-    "hash": "95a3d6acb76dace4bb3d2a801264530a1ca201ddb22ab3435c4017679b80d716",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Energizer Holdings stock (US29272W1099): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMG1YeldDbzhZaDJDVkx3UXdqUGhadmpKaTVTMHF2MGRrb0hUMWE5V25FSk1xS3hHLXVWeFRhaGd3OVc3UmM4X1laVl9lRW0wTmYwUVVlQzgtMFZLSkE3MWlvWk5fLXJ2VVlKNk9BZGVPU3VzNjJwTGFpT1hvLXBFX1prSy1zenhEZFdwcmRKLWhVN3p4QzNFeDZ4TnFKekg2RFdQWnA1cGNaWmxGMnZySFEwUXpLSTZxLVViaGczcDV0dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:22:15Z",
-    "hash": "bf9f4d4c846e9f06da00eec8bde0ced43801fb23336cd0491dec7574026ffae6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet Inc. Class A stock (US02079K3059): Is AI dominance strong enough to unlock new upside? - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFZ2czE3dGlsQUNaYklEcHF6NEExa0FXVTZ0RGh0U0E2b1FMLVBXTWQ2Z25nZkQ2T0dWaFRMbmI2VUpMSWhUQkJic0lFSkxDTHlkemxNQTVGYVdha2dJVGc3bzJtNV9PNFIzR0RERTdXTldWUXV2LWN3ckwzVVNVcm5YRjdic3FQdjJrR1FUT3YydkNlVE9COHI1dldacnpUZTBFc2VRamtSRVVXdnpUN3RfUFlYcjdRUHpwOEl6X2gybHRCd0Nj?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:19:05Z",
-    "hash": "90c2fd7ad022080e1adfb835e9e00718431d5d44fc54169a5d69607b2213315c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "ManpowerGroup Inc stock (US56418H1005): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZF9qTUxQS21Oa3EwZU1pMWFodVU1S2hvOUd4S2tnd2UtSU80dVBHYnVTaUpEb2ozcEdUWlZPV2twRHNJSTJDWl9oSE16RE10V3MwZ3l5TlhMbTVEVW5Wb0JOdHB2N3EySTRwQmZCaXRRbFJZMllyRVc4VjlWUFp3bDE1Q1ZQclRFeW9ibWMwZTRzdmg3Z3NJdU5zSjJ1MU5qQTlVcWpUektkN0F0UnJuTGl4d3lubWxad2w5ZURCakdvd2VHcWNlR1Jn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:17:26Z",
-    "hash": "e3f545dcc6137016ba8f2c596a5e1fda68108fbd435c00870995191f4aa74ad4",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP ETFs Hit $55.39M Inflows, Best Week of 2026 - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KdnhKaDVIOFptOWVRdTQ4OWFCVTB5MVJ6Q00zVGdkU1NYV0NuX1B6bVpLRWF3RnBUbDFTXzNYeElQcjVLdlZiNQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:15:34Z",
-    "hash": "0d2b02cbfe948635ff25f5094f82ee6504f8280d3d4204746c13b1871259474f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Crown Holdings Inc stock (US2283681060): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTEdaZFRRaDItWHpyR1JaYmFTVUJDV183d1FNeTAtMnJHTFVTYWc3UkR0UkdiQ1QzYXpQWGFmWXl2anktMkRPdWtOUHN0S2VzTWtiTnQ4X3pjMmZ3WkhweFM0NGRnU1BneEpkOWlUTkN0cUhZdUxVaEh5TEsyUlFpX1lVV043dFdWam9PUjVJOGR4eTY1OGNEVWRZQ1gwT2xvbjhMRFYtY1U2bjRmNk1ZNEdJMks0NGxydlZYU0VXY0hfUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:14:59Z",
-    "hash": "f9a6aa0dd760d1aea46f7040a872d717bb36188b56b8dceee963f3e2ac262400",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall AG stock (DE0007030009): Why defense sector tailwinds matter more now for global investo - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkh4dG10Rjg5aVljU1hGaW9mRTBOX0k2cVh6WmJ2NTRUY1h2WHgyOTV4QXE5YlZhREc1dzdoOWNXd19LQ1cwOG41ZHkxVmlEZDktSldZMUhWeWNVVWpGQ0o0ZHM3OURVVXdEU2FNXzR4d080NzBTSHlyZHBCUUFxdkRxSDVYQjAzc0U2NnBJS2JEMTFGYWxIR0lmSkdpbGVIclV2ZmYyVk1aQmtDeXBndEFpUnlaZmprdk0tZ2tHM1hTbWhibFhv?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:07:38Z",
-    "hash": "0f2e305a5fc7920ed7d4140bdc5c6b39c060c465527bf48180fe1587970ad305",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Maximus Inc stock (US5779331041): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjgwZl94Z3dxMXhQTGZMenZXanA4b0dtMzhPRWxxd2JHeWdFTGxSV1RTVlJuakV0RHdzbmpyblJuRElTeElaMFVjMDl2QlRYRmJIMTF3Qk5mNHJNS1E3dXNqUkZzUUdBcjlrLXdrb3ZQMm5qY29EdHJITmV0OGU1cGNudXR3NlRfLWFFdE1faThMSkFWQkwwc213OGhWOHFMZHpTdVhsMmxzWmc0LW5JakFCU0RmR1gxcHZsdlBlTUxONVFSdGY3eg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:03:07Z",
-    "hash": "e904f786b04dd5bb2a8b3ad52370f306466eaab44d44b9b21427b1ead5eb069e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Catalent Inc stock (US1488061029): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRmVWWlU3a2FqZGU5bVlkZ0tXSXJBaUpqVFZoV3FyQ2dPeFpMbVRXUTF2a1VQcWg3dENqajBaaHg4SzJCZnBBQjdiYTdpaTFRVnRhRDNhQXNkTWlhVjZ6cWs2QlIwOGF4bWo0aC1sSmFWeWxZTzMxbUdYZFktel9IR01jclhZdEtfYk5FVWdDQU05ZVh0NkViX1VnUTZoTm9jaTZzVlYzVk5xejdBSXBWaVE3eW9sX09FekJVZXFEUmxTeWw2YnowcjFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:02:22Z",
-    "hash": "0c0b153e9c071619458a187707e0f8afcd12dfcc12cb567ec5ba8b457d489e2c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood CEO Vlad Tenev Opened Up About What Success Means To Him And The Legacy He Would Be 'Excited' T - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWRaYW4tRFlRaFY0OEY2Q2hIVVZ4cVZEd21LNTE4ZUR3VUlpV3hQMUZicVBGdm5aQTBuRUZCUmhfT3BieWpHRjZSZklIVEotMlhOUlYyZXJqdXd0Sk50VkRXOXhvNjZSMVc4aHBsXy1PN0RUT2RlbnctaTB5N2E5ekNOemw4UlB6Qzh3WFRLOWdXdG16dW80OE50NnlxNnZuU0g4dDNYaGRWZDRfRFBLV3ZXT1dPXzVZdmNaTXdR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:01:59Z",
-    "hash": "217e988619b1d3903080e531ae0a961c87f214f9be63bb8062cf03887ebb08c3",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto News: Bitcoin Eyes $90K Breakout and XRP ETFs Cross $1B as One Presale Runs Into Listing Day - FinanceFeeds",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZnFsQWFWcHBLQno1Sm84Yk5hbVpacnJfMDFWMlJBcWZZMWdSd2doSEEwZTRxaDFBTm1aNGlOVDFYVE5lRGZmR0RFZnNieURXTjFISmlaSk9aeGRBdVp0SjlWQ2dZWlBvV1pVTmlOU29zUnVuV2xxUVlpTjl5QnNMc2dZSzFkcE52UndrYUhWSk0xRnlGSVB6ZjR4TnNaM25GWUJxMENRZk5kQTJmWU1yOTJwdmtSZ2IwZ2Z5VmN2aw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T20:00:53Z",
-    "hash": "05dad6bf1c3bcaa8d8a0463604965b4f9ee4757b6a8566bf32e97a54e77825d9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Game 2: Atlanta at New York: Spread - Coinbase",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWld2eGUwaHRIV2VraDVxbjdJUDdPLTFfWEY2cU44Vm5jRjZ2UXJnNU1qeHJ3MmRDWHRBNGJuSmRXRmtWMFJIZHl0ajg5dTRfay1hUzNDZ0NLelRGSzNaazlKOXVYM2gwSHZtT2lVOGdCaWdvcE9yaGJxeUNlb28?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T19:58:23Z",
-    "hash": "4fbfa1b1666fbb8d14c2f83405b792ef836e89d5fd1f2b9ca6dcc5083d4480df",
-    "source": "gnews"
-  },
-  {
-    "asset": "BASF",
-    "query": "BASF",
-    "title": "BASF SE stock (DE000BASF111): Why chemical sector resilience now matters more for global investors? - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcmhzTkNLcFE1bGhlbjJlVnlpVUdWWFJ1RmRlMWprNUQ4N3FnY1ZDOEx0RUp5RTFSYVZsU0NZZjdsY2pmUGxpTTYyS0FBN0wtb3puemQ3WDZRXzY4a1ZCdWFiUk80ZFVBODNfOTdLNnhlMS1tMmttVmRPb0k4ckpBNUNBY052RWRTaUh1Qm9FSFZsYXdNcGpZdE0xVlR6enBMR0N0S0JtU0JQdWJENndFZ0NubjVhOVVPV2taQTZtRVUwY3A3ZEpZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T19:57:36Z",
-    "hash": "d4423bc563f3e796cc008541720c5415dc155b87bcacf81546d25493cd264492",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Intrepid Potash Inc stock (US46121Y1029): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFpsTml3YXAxcjF3RVV6dDhZS1Z5dTBEbnVDT3Z6M1NPMEM5SXd2a2t4NXlUbFFZSWU0bXJBbkQtNjVoQ01iZFZQczAzOXl5TERYZFE2c2ZIOEcxRjIzZjBNbnBadnUxZkVMNlZCeWNRNDFrZG83V2xBWW40cWZNQzhPLVJsc0hfek0yc1Z2NGI0Z1NsNEVLQWhhSWQ4a0tHUUl5ZXdGX05LdllhTUdDVThuY2hFWHNKdnNrRmhGVDY4azA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T19:57:08Z",
-    "hash": "6d106cdf3d5d0c2d15e075f87624babcf24c8c87a23df5a8ff81773dd8b96636",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk A/S stock (DK0062498333): Is obesity drug dominance strong enough to unlock new upside? - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnBrcjRqTGdkYk1aZVdLV3phdHg2Z0VwdEFPR0Q2NllsZ3BBRHJOMkd2LTFNeUd1c2ZHZ2JWM085XzJCVnNCNVJ6UXlCdFdxdFhXb3NrbFFsZ3lISDZUMWN4MldVWml5NWg2UjZabUFjSTZ1eXlBTTJHaEp3Y241Q1dWMExfcTBtdnVmMG1HRk1yNVlhMTB3d3lTZjBqSHRXM3Job0VFQjdoSDZuNS02cENXRHB3Ry1Dbmg2VmJqUlpDZGdNUnc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T19:55:08Z",
-    "hash": "0141c15650253cecfc7cc45412cad90d950ede7e70cf161d31bc9b4ccf07f3cc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Leidos Holdings Inc stock (US5253271028): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZEs5M0JJV0NKZnE2TmxLQUdmdlkxUmVZTTV3amg5QkJ4VXAtSjd4ZndQemw2YkViYmFXZW85NUJJaTdVSlpmbmJMX0NUcW9vdldDZndDYkV2WTl6OF90Tl9EZ044YmhuVUQxQTdXM2VuLUdBZGpsUS1vMTZhREJtZ1JJWXM4ZlZBWkE2bnVKQ1pla3hTdTNkSkJ1N2FneEY2bV9yLVNfZ1JIYzdsalh3di12U2VGWk1ieWhkQUtXTHFxT2s?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T19:53:27Z",
-    "hash": "c3a0130e02f3f4e8553e65a3d6ef5296dc9971c11ac9516eb2ea5ad262f6e5cb",
+    "published_at_utc": "2026-04-19T20:55:42Z",
+    "hash": "a95ed6937dd4466142cd51bd499583f0864b8c5dee67d6fa1a5c964a2b7a434d",
     "source": "gnews"
   }
 ]
