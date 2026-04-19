@@ -1,112 +1,52 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Cramer Highlights Nike, Amazon, Nvidia Stock To Investors: 'Why Would You Sell It?' - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2ozaUNXbWVyZ1Zwajk0aUNhZVNLYTZMckxtOUhnLWpSUGNEQlMxbVdEWlpYWUI5QVpzQTRfTlp2TXI1dGNhbUxvWEozYkFNUWZrRXg3R2xjZURzZy1mUVFJalQ0LUQzOHdsSU5YVm92a0g3QVF0QWRpWFZ1VVU4OFRnVGRpNF85NXA0dlJxbEhxMmI4YWZaYlVpUVh1dHU0OGhv?oc=5",
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens will deliver hydrogen trains to Romania - RAILMARKET.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmk5ZUxaVGhHeG9JSFRYX3dZMVhNSWQwUEdzSml1RUMwYndSTmF3MVlmajJBdm54cnE3cEMtX0hZOEluclo4N3FaZ01iQnlMcHF5Tm5TZVpNNk9Jek16T2JxNTA2WDNjQW4zN1JUYWVNeF85UjRpX3Z2Q3NNVndIUDV4ZE03VWVWaHh3VlBQVzQzbVEteVJwM21fSXVjSnZ0RVpvckpQdGFyeDFpSjNkakZRb0Ixdw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-19T21:31:10Z",
-    "hash": "e60bfb221a54711dbf411fa50e7dfcb39823ac33d626efeb573cf5b1793354f5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Hits Record 3.6M Transactions Amid Price Volatility - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1l2TjZNSHVDZ1p3czNtOUpMeGdRbThYdzdBcmxzUjBQakJ6dHZzbnVZaUZ4N092bVQ3OWplVl9WYmRRUW41WF9Edk8xdWZzU0lZc1NpS0RXdkcybTJIUUs0eEdhTW84YVVTX1JUeVJlNUNLaUZwS2gyMkpOSmJrVDhTblhOaTAwekJmbzZoWnJ2Q1AzeXc3X1Nn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T21:29:46Z",
-    "hash": "6d27e5cb0a7d09d1829513c517a8b70a81c0badcdd980909022948511e6efd05",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Solana Dominates Q1 2025 DEX Trading Despite Late Ethereum Rebound - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3FtNFFGeXZEOEdkUXpNc0ZHMGdzdWdLVVBTV0hwMjAwdkx5MVZWYXZSWkpqdHhScG44N0hwVU5ZRzliYU5TWWU1R05icGhFTjJ1THRnX2xwY3RzaVNESndBTzBhVklzM0RVR3hEbEJjUXQwcFJkaXFvY2hjMEhzdHN6RnJ2TkpLaDMxbXl6UHMwQzdFM2EyeDZqMjhFb3RmWnNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T21:28:46Z",
-    "hash": "ed3d3795ad1da4adcf38dab1d0f9f28325c2ad9dbb768d2c6905b2011b3daebb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Dominates Q1 2025 DEX Trading Despite Late Ethereum Rebound - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3FtNFFGeXZEOEdkUXpNc0ZHMGdzdWdLVVBTV0hwMjAwdkx5MVZWYXZSWkpqdHhScG44N0hwVU5ZRzliYU5TWWU1R05icGhFTjJ1THRnX2xwY3RzaVNESndBTzBhVklzM0RVR3hEbEJjUXQwcFJkaXFvY2hjMEhzdHN6RnJ2TkpLaDMxbXl6UHMwQzdFM2EyeDZqMjhFb3RmWnNn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T21:28:46Z",
-    "hash": "ed3d3795ad1da4adcf38dab1d0f9f28325c2ad9dbb768d2c6905b2011b3daebb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Investors Pull Back From 21Shares’ Ethereum ETF Even as ETH Flashes a Short-Term Buy - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV19nOG1CWU80UzlnSF9TRXV2OHB6TXpLdzJnQUo4SGpLZjU5QVdyd21wTUViX2Q4NC1EXzVxUXUweE1KUWRtRS0zSEdyRU9SSHR3UVlQU1RmdUVldVVDLXdVck5LeWFHM1ZRdFpFa09LUG9RbVRuZEd4U3NZeFgyMHFMRnlqT3VnaDFMZG5HMzRJa3FtZzhOYWxBUFQ1eU1HRWJmc2lwZDlERnpYVFFWSFVzZEdsaFAtRzdQYW82Ykpuc2F4aXZiX0hn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T21:27:41Z",
-    "hash": "801a923d142c2751c37f1a8a48008bc305ab3a4648fc6ce0f3801d60c76b3c61",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Investors Buy the Dip: Franklin’s Ethereum ETF Sees $1.8 Million Inflow as ETH Slides - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenc5UF9ZUkcxeUhrY0U0R1diZkFGT1dYVWQzNERMM1k5TTNmOGMzSUxxd1JGdlV6cGJQcnByNkl2NmhadVdGcjVGZm5HTkdNWWFNTDJnUUhJTFFUY016MXhlQ0hhWXFjXzNFUXpOWTBSaU1oaGVqWml3Z21lRml5eUtnVmhPLWtDOEkzUExQajFrQmRnaGRkR252OFlOZUVUVlhjSHVlWjZMeDA2RWJYSHQ3MmNUVWtxT2Nsd281S0NralNEbUdEdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T21:27:41Z",
-    "hash": "471430566825c32236ca40d70f8977005099879c1e8e28c4d51094ccaec92daa",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum Stock: Institutional Bet Tests Overbought Waters - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0VoX3JNUm1QSEdhRlBkTmlqTkVZVXVkMTZHRk1VZWxhTkpGZGZSYkpjaXRCVEFlVXR1R2JxckFha09wS3NtS2JOd3Z0V1BtTmlRRTEyTjlWdzAtQjREQjdMZlFUSUx5Z0tBekhmS19ZVnMxSmpMdXktdFZERUs1VHV2bW80ZmJ5ZW96VzRkTmFwS1hlcURlWGVmUVJnSVhDT3FiSEY4VTNuM2tCM0dhclZkRldHQkRRYXlheFd3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T21:22:41Z",
-    "hash": "f6edde5e6c61657637e3c12ffc502caf12506482d2b04c353577f8f9df7dbb1a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Prediction: Can Solana Overtake Bitcoin? Here’s How Far SOL Has to Go - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmVwbjZ1WVpnU3c1MHI3MDlvMmp2NWpJZS1leXhJR28zUmRaNU9abWVmRlc5ZjRpM0ZBdFg1SnhhZ3JURUhzd0wydWxUQmRYdktRazlzYklPRmhxZXctT2VKbGUzTmV4bldiRnprUTFnM1B3SmRVbmJ0OW5iSW1pbXF4SjNqenEtUzdHUHpCR1ljbFcyZWtDNjZRT0RMblVlWGJDaG5qRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-19T21:03:26Z",
-    "hash": "f44373eb2e8fbcb2e46da4f6068958a012efde6e681934f93908035ee57edd2e",
+    "published_at_utc": "2026-04-19T22:14:51Z",
+    "hash": "e4761521b2b34cffd91a09e8d0c70b22467f7912de24583c9ee6efb12e13f257",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "Google",
-    "title": "e.l.f. Beauty Inc stock (US26866L1044): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNWYVlTZXpmQzJ2a2VvRHJWRXBWaWlYcG1wSkRXeFRxbE9BWlBLdFpuUUdBSlVBVUhCZ2ZqX2lqUU9SUEdaMGJwU01ScWhmUGZPeU5Cem9MVDJaSFA3TG56eE0tbTVEUXhSZ0paTk5BcjBfQ0N6bU5vcnBDcDR1Zmdtc0VwRV9VdElST2FrMlZjczJIZVpENkJtS2hmMnFVZUNJLUxwWkdxRUdJaGJ0VlJZclRCWWlyblJ2UkIyNGlzTjZzRGI0WQ?oc=5",
+    "query": "GOOGL",
+    "title": "Alphabet (GOOGL) Is Up 7.7% After Massive AI Capex Plan and New EU Data-Sharing Pressure - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3lMOVlOdG85Mi1sSkhOSlVENVB2MUdiMkQ4aEdKSW1fdW91bzVwNTZEWTVKVU92TUpJOGQ4ZmdIb0ctNHR5M0JUMjhTT0xGTEFMTnl4cERGRWMxMndjeDd6UHlCYmM0blJOQ2xyWnJ4dmh6LWpSaERMMFF0VmVjVGRVUy1ObzBCcHRFM3FFVDZzbWF6WDFHQ05sVVNBSzkzWHhkYW9NWnNjWHpJazlQRWphOUxpaWJsY09saXd0aXZ2d9IBxwFBVV95cUxOZnF0MjlfWjdDZ0ZQNVFuSnJRMF80OHlDZnliYW44YldoeE1xV09NX04zT3pmakRSM2pERll3cmkxTWxrSE1fNVZKS3N0YnVSdU5SUWp6NXM4Ui1pblp4LU02REQ2UEJ3MW1iNGNVVEJMZ2R5MDJVMzZHaUVXX2tYSkI0RjNMajk1MEppTDRiYk5RSUtVeFZ2bDcwTFFOVVQyRnpZVXVHMU9BS2FIUkRvTXdvQWZzOTByNmN6NGNFbS1TazMyay1r?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-19T21:00:24Z",
-    "hash": "05a392d180e2fccbec585766d4b3d17f4ad8e86ceb72bdd200fbdd44bd5042f7",
+    "published_at_utc": "2026-04-19T22:12:29Z",
+    "hash": "bedf52b0904f5e9f9790f8af2ff5a85f523c355947f611f48a114c9a88a45866",
     "source": "gnews"
   },
   {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Solana Price Lifts as Morgan Stanley Files Solana Trust and Pepeto Becomes the Smartest 2026 Choice - FinanceFeeds",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUJkVWtMNHBZcHFSR0M0U2FwU21hWmVQeTFad3FTTzNEc3Q0SHRBd0tJMFNFMk1ldzJtbHNIdTVIMXBTWmNELWE2V3oteXBiOVJEc1FVU2wyMFVRY1ZuWWVNc1E0RnFBbTA3S0lHRklSRE1fMEVneXZ6aENsY2hBZXU2c2lHRktSNWFqUnFqSEliSUh6b2ZQWFVLektfUkY1Y0lNMEtBMEJleGhSdUFvelZNNUpBQ1JYcDRLZzVuZTN3Q28?oc=5",
+    "title": "AlphaPepe Named Best Crypto Presale Amid Binance Listing Talks, Outpacing Solana and Cardano with x100 Potential - CaptainAltcoin",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdG8tSUVtNXVDam1LYzNiaVN2eVliNkc3dG1MT2dzc2ozbUxRQjVya0M3OW9VdFdScFRkUzFmX0ktS1BoRWVQVk84em45T01nT0ZCZDkwWE9XLTJRR0w4SzlrZlFXbTI3Ull4RjViZnQ2NEIzV3BwbHRHWEFvdlBKWGUyNWtmQTU0UXlZY0FETXlkaU5OaUh0THZJR3V0QlBYTDRaSW9IRVJnSTkxa1g4X0h2b1A3RkhIWWJnU3ZnamhXSnd5eXppTnJfck1sYjh5LWM1X1l3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-19T21:00:13Z",
-    "hash": "1b5467f3b0f712ec7b2348b22c19566faf32169e1aaa451a9e4a8f9bbb33bb16",
+    "published_at_utc": "2026-04-19T22:03:35Z",
+    "hash": "08f9a654266de32f150a73722ffdbb8ca88cf3161fd7ffe23cd490a8ba1e61c9",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Quaker Chemical Corp stock (US7473041019): Why Google Discover changes matter more now - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVHBsZzBjMm9hX3ptUmN3RXlROUVtWUxjOG9WUEFLSlMyeXFKSDdEVWxxY09EU0pnU0dIZ0puOEstT2UyWWJLTnUxYzQ0VENOSjhpWkJDcF9rN0wweU51STg0V3NhcHNXLXZtVTByNzNOa0prbXNMRi10ZDNwdTY2MDNlcHVMWENPcTBXNlBKQTBhY216T2taY3ozNWo5WjBYbnRyVnBFc0dzUjE2WUJZZDBhTXV4b1pMNDUxaTZlSzgyWi1k?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Top 2 Reasons Why XRP Price Stuck at $1.40? - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kaEpTSWk1M1RFUXVFU0dMX04yMGdZQktsNEtHdVZfc3ktY3BkVXlMWmhrQTZEbENnM3RiXzhjdVB6Y2dMQWpWbEIyTVJ0dUpudTRoc1ZHckdISmc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-19T20:55:42Z",
-    "hash": "a95ed6937dd4466142cd51bd499583f0864b8c5dee67d6fa1a5c964a2b7a434d",
+    "published_at_utc": "2026-04-19T22:00:45Z",
+    "hash": "f1c0d76211078aa929367bcb32140954ff6daae4acc925229a3f917b88412264",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP on Solana Under Threat? New Alert Sparks Security Concerns - Live Bitcoin News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMXh1dk9jZ3loV21aNlRHTElQaE9Hc0tvT3plQVRkZFZnalZ1dEhyYU1ubllSWnFCblNtRjlHeHYzbzRvMF8xc2pwWnIyMkJZbzdKYk9SS1BEb0xYN0FUV3ZpZkE5dm4tTnVzZEZkS1l3RXNSRzY1UWtfMnlSajh1UG42ZDRwQU9YdjhpSE1lMWVKb0JrYWhDNk9n?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-19T22:00:31Z",
+    "hash": "2489f065cb54bc1e2c8ae73945d3073a4db18d154acacd8f812bf6c3ec6249d5",
     "source": "gnews"
   }
 ]
