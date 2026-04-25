@@ -1,92 +1,132 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Mango Growth ETF GARY Volume Surges on Nvidia, AMD Rally - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2t3cDU5Rkg4bUw0OC1nN0tZTVBjZDdaNkF4RmVHRmtZMmV3ckJjSFJBZm1pWUdVRTlka3VTUExXUFV0azZBOFI2V2Z4WHk1cVl5UXM5b2RXaUNqLVNLbzhrRXcwZmtYZnNZMm1VcWNHeXFKNkJEMGlTZk10VUhpOWZPRTJwUDJWZEs1aXpKdlBRRXpIWFM0OXJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-25T17:26:44Z",
-    "hash": "2053847bbcb6734f1e98ba5d86602f4bf55ee4b8f3e98b8df9ec32ba85bf7dec",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Nvidia (NVDA) Stock Jumps 4% to All-Time High as Market Cap Clears $5 Trillion - CoinCentral",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZVdJUzdoZWRlMmFqSF9kYndjZG5VZGVLQzVZR2ZMNnRhRlExME0ybTFHX0FWTW9tRFJNcE9ydDhlN3N0VkotRHlfQmRxYVNUZmNUajJEeHJ3RllZZWdvVlBqQWM1TWM5MjFBMk5VcU13a0ZOaG5kaEhoZFZzUmhVZW5tQVFjT2txZGZ3M0o2M2Vxd3R0V2ltTnlrTWpsaHBU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-25T17:17:52Z",
-    "hash": "91fca46c7433ed5d58158f56aef48145c269dc9bae81ff12c9fb1e5a9a39eeeb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk (CPSE:NOVO B) Valuation Check After Major Diabetes And Sickle Cell Trial Successes - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOHRMOEFrWm43VXlrSjg3LXdIa1RpekZ5Y3A0MkwwYXN0LWlGM0l4MXk2T2FyZnI3cGdzTFhUazJqR3NRV0xKdjBRaTRZVjhHeE1pZm5EVS1ubGF2M0pxQTVQeHNyME0ydWQxSEE1MjNjN2toVlJYNGthdjVwSUxVWWlYMWJnRmVLaXAtYzZwdXhmcWFfTk8xdTJtTTVaTHpGMEZPMWlQNG5WR3ljbmlxSlFDeHpKemU0WmhFRHBWbXEtVWlLc2NkcDdwZUwya0F5MFdzXzBOZHB4d0dIeGh1UmFJbnJJNXPSAewBQVVfeXFMUGVyT2lPbHZOWkhoTkg1UkFwcVVaS2U1TXhfbGdQUno5TDUweHlYMWt3OVZ2YjVHQzZsbUo3d0lXc1BWVVdpeGtUV0paeHFhVDJVZElWNUIxUDFWUEpmOUFqMF84emo1a0hXVThPZEpYYWpscnNCcTZIVm9KM3BmbjNpNlFjVGxaWW9IOXp0cV96cFF2d0ZVOXB3UHdmY3V4MjkybE1Hdm1ER3VrOUxZbHZuNFlRSTdVTk5mT3hwSmJIYnllTVZ1Z1doazByRFZoaHB0M0l4WVM3VlpiaUYtS1lBak5ZcXFrN0hWT2E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-25T17:16:02Z",
-    "hash": "fefaaf4cb3eace591fe291e204f1e87ecf928acced9caea61ecdbfead972b996",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Whale Cohort Approaches Critical Buy Signal - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdW0zOUVTNjM0X0FlRkJXbFFHbjFBVVNnODJDb1o4aEFSczN0MFB4dzR3RWxhQTFxOTdYSEFtMHJtODQxV3B1eVYwRkd1cFd4amQ5VzcyUTNwa1NkcmcwbzBLbzZ4ZUROLU5hLVFLZElxMDIwbTNuVTVXV2lvMGFMaS1pWGozdWVqNHR5QXZ0SFc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-25T17:10:10Z",
-    "hash": "457df923da38193a4ddc154fbdd449830a472a4fad5a2e0803862871555dd12b",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "XRP Price Shows Potential for Breakout - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sRWdCSE9sYTg2dmVGUDNhV3NVYnl1UkpFWHhkWTVRWDZ5MUJGV2cwczlPYlFzN3pBWFZoQmxFcWlvejJHLWdOOTZBRklJYTBDVVlQajNYRmFBLUNweFlZQWpPa3ZKSGJJQldkdlhndHJGMWYwZTE0NGNndlR3Zw?oc=5",
+    "title": "Bitcoin, Solana, XRP ETFs see inflows; Ethereum faces $75.9M outflow - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGdnT1ZMMmJFUjBTMlhJa1RfNWl2U29YM3ZoRERRY2pVTkdudmV6MzJqcmdVNUNyYk56SjNNcDlfZ2NqeTJCWmJvT1Z6TC1peXd5VmNodkFYcFJyNkFsOUE4WVdnVjBRWHp1YTkxd0dJYzJvXzdCSFZQX2JzbzJzRzZoWEhWUnJIbEpTZXdqX25GcGlQaEE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-25T17:08:10Z",
-    "hash": "92680b8a117556e96a818e3642dc245786276d0cc3ebf647a77293c711dfb2c8",
+    "published_at_utc": "2026-04-25T19:03:55Z",
+    "hash": "d1dcb3946115931d7eccb7dac3e4573d89018285bfce0c5a531edf7f413db586",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Slides To $1.43 - MarketForces Africa",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91TmpCaE9kN3UzRXItdWhhYXg4dThrc0JndXNnc3I3Y2ZzM0t6ZVpJbXE2TnZ0eTVRQzQ1TGRjYW9FbWp2WXhKb3liR1Q1M29ncjVIWFZUSXU4Q0JxVEdTeg?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitcoin, Solana, XRP ETFs see inflows; Ethereum faces $75.9M outflow - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGdnT1ZMMmJFUjBTMlhJa1RfNWl2U29YM3ZoRERRY2pVTkdudmV6MzJqcmdVNUNyYk56SjNNcDlfZ2NqeTJCWmJvT1Z6TC1peXd5VmNodkFYcFJyNkFsOUE4WVdnVjBRWHp1YTkxd0dJYzJvXzdCSFZQX2JzbzJzRzZoWEhWUnJIbEpTZXdqX25GcGlQaEE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-25T17:05:08Z",
-    "hash": "52dcb45b097afd9a9a0f25267600bae220c9e59bc03589c05dafd3c7775ee7a8",
+    "published_at_utc": "2026-04-25T19:03:55Z",
+    "hash": "d1dcb3946115931d7eccb7dac3e4573d89018285bfce0c5a531edf7f413db586",
     "source": "gnews"
   },
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin News: Metaplanet Plans New BTC Buys With $50M Bond Issue - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RRERRczBLeWFxQ2k0TVVxSkdfRlc4dng4MHN2NzFJQ3dSNVhfTVZWU3NiYkJMbGhNYUk5OGM4RXpJOUx5eGJxdA?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO AI Agents to Power Future Crypto Payments Economy - MEXC",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15NlNsbm9XNzctbl9uT3ZhQ2g2UlVpeDhRUDZYMVNHRmRFVkNNZGlNZ3l0cmVnQzZqLU1kMm9HWGdUcUdpMkdLWQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-25T17:04:51Z",
-    "hash": "e858a83442a8b8c244eaa95f28200d7ed2c97ebe8bd7e12f691f3e2646ac1752",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum News: Bitmine Adds $11 Billion in ETH While Pepeto Quietly Crosses $9 Million Before Binance Listing - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjhRSXNfWVhPNnpybnhOeGdlakZuNEVrYTk1VEh2bGN5N0MwN1RpVXI2ZkNuclhQMGItcG1QWVBEbGRKX1FyQlRfbU9NSjM0OF83QVZfZkJLc3MyRUg2MTRTcFZZY0lLazNYcXRwZXlKellUQUNPamZRV0ZwRDV2QXBoU28zOG15RW9UdEMwXzRUalhGaHNMcQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-25T17:02:54Z",
-    "hash": "cd7df304529c464354a4e2b38577addac6f8a2009fc48fb4a124f9f01e8f8291",
+    "published_at_utc": "2026-04-25T18:57:54Z",
+    "hash": "552905923e955a2d651a90db57b3d9864d486d6455dcc51ee4b6589e7902b6cc",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "COIN",
-    "title": "Anthropic’s new Mythos AI is exposing the hidden cracks in crypto's foundation - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFhSTmdmWVdDeHBkMkxhX0c4UnBWYy1ZVE1DTzhVZ0ZDcGg4ejR3X0xFcVpJWVRZc0VlQ0NZNTE3andqTTB6bHVxMk9Sam54YnZidWNHZVppRTRfUklDRU5EUmQ2bE1qN2h3MzlsbGZkajVxQ2cxb0c0M2l4QmhJVDNZdW1LZWQ2MWtHZXJXR0RaSXYwY0JmTjFMR24wQ2dMWjB5NHY5SmxlcWNZUWpVS2xyNGp5QmxrY25sT2xnb3JFREpLMUNWSmhURkJzQlVWMXNN?oc=5",
+    "title": "Why investors are flocking to BlackRock’s bitcoin options to hedge against a wild global economy - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZUtlWGN3OVBTeHdCd21IVVdOelZNYWhoaHg5dm1ERlEtbUdscllZU2RLaEIzY1dLMHo5cjYyclJTcmJZcEc3UVFwZnVfdHN1WjctbVVobFRSeHVIWHh0bG10dW9DUTVFZHhyQnZNT0VVbkFfbWstRUEtYXRyYzV4anh3ZVFabkVySHBJTmc3Rjl1Q2V6cEZselRfQ0RRLVZxdE5obi1wVXJ1d2hKNGg1M0VHN1lFbDN6T0FWejRMVG9kbGFMTEtXMzU4ZTlja01aTzdKcTZn?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-25T17:02:34Z",
-    "hash": "f5214c8fe43ff563e98b8a26934db992152f8bc884be05b13789ee65ff4c860d",
+    "published_at_utc": "2026-04-25T18:32:34Z",
+    "hash": "27eb783ce850229dc8e88f434a4dc4e77ec2025595cf302b9da7ca283f7fd2f3",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "35 million XRP leaves exchanges in one day, bulls eye 30% surge in the projected bull rally - Cryptopolitan",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOekRfM1hZUVp0STRqR2JVRUFMOEI5WkM1Y2VIU3J6S2V0eFIwVndLVUVlNEg0Y3RTcDRqSlo4QVRoRF9UR3k0cS0tcHBMbW9HbUFNZU9vVnE3U2tId05lUVhOcUI5NnByVmRtQ0IyQTdMMGY1NzdjU3A3RWFWdFp6SFJxeW5wMFdFY1VKVFRmaE9VaU1LdldGQkF1LWpVYXpTaUw3dWJHcUFaZFdPb1F4dkJQYm1naVVyMFNXbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T18:30:00Z",
+    "hash": "87dc9bfee561f29b21afa905316db3e8bb2253d477a66dc0f285a1a1256cb515",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News Today: Investing With Varntix Is Better Than Buying XLM Claim Crypto Experts - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUVPNGlpcktXZy16dy14dmpaSGNzSnJGMWNGVXdWclZOajllRHMta3pqaFVjbFBoMHV3NmtsY25xOUtMNXZYbEh6bUlYbTA1bjFIRmhtVzktUFNib1ozdDFXT3ktSFQ0S0RvdUdLQkJFSHRWRlpac0NrSENiQ3VnLTlBVWd4VjJJN1JQcmhUYU1fYjRlamFERERhaEIwMG9n?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T18:21:38Z",
+    "hash": "98c01767aea2cf26cfa4e838ae44daf0cdd06264f9f94361df931602154516ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Prediction: Where Is ETH Headed if the $2.3K Support Cracks? - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmd6bkhoeWRPNHhxX0IwOGFtd3NBREp4T3hkcFF3Nzh6X1JDN0g2UTIybGdyUUEtTUdlc0t6Ym1QTEZ1VmVmMlhZaG9mdy1CZWxQT1B3dlJvZzd3NTd1allTaWh4VVRSSGlhbjNKTFRkVEJ2b3dodWZORWN4TmRoa2NxdFAzT2NRdXF3b0ZRdnF1THJ0QWEzRU81UlR4MGM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T18:11:00Z",
+    "hash": "5f82f8d7adec5b4a71b2515787ca425fb52fe8ea210cf6aa6fc26735e49535f3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Metaplanet Raises $50 Million to Buy More BTC - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTbFQxWndsRFhqckpndlN3cUFUWF9lcVRxVlRJekhleWZBZ1hETVNFY0xtcHpKVDVRTlBCbDVNd2xXXzRXU0pEWnhKd016VTRFMWtVUU5sYVNJZnRmTXJ1SkVkSFp5bWdVbGJDcUc4LWhBMnRWU2RF?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T18:07:00Z",
+    "hash": "a3206caec27f9161bb81f5788344795f22e74e7f25832f68e685a2b6470cb0ce",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Tests Key Resistance Level at $2,338 - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDJhV1JZaE1kY1h1eHVncnpjX1NmUmluMHR6MzVQMG5UY2lvUjlOeEVsRlRuSTNjMmRZZlNjSVRrUVZfNldmRTZEWG1CTEJEd2VCNXRxTmRBM0hBU0JTYjdtWUExRWZCcHNmTGkyMDVaQXpqeHQ0OTkzWlgySDVkM2ZoSldEZHZEb1FKUA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T18:06:18Z",
+    "hash": "c7911a15d1f11692252d29910aab5ca3d5dceb66af10c27ed893fa7128668e3c",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "How Oracle’s Canceled Nvidia Server Order At Supermicro (SMCI) Has Changed Its AI Infrastructure Investment Story - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlhVUGxkNFRjbG5OclRHU1RzWWZtVEdMb19MeldtcmZHd2QyMEpHWlh5N3d1T2hENzNMVVZqTkdieEJsVUIzRmhucF96MnBqSmxNazdmZVlIQlA1SDJ2NVo1bWhPNjJlVl9jTE1GeXB6Mm1CbGNOVXN0N1phVHZycEZ6cFlXM2tMTWdNaFk0WjZ6emFyczh6U3pSNkt4V3RDb2Q4NHF6OA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T18:05:57Z",
+    "hash": "0e77c8e36755cc96274f8602bcece07f9580c0936b0655e2a7629b500ffea63e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP price news: 120 crypto firms just told the Senate to pass the CLARITY Act - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMnowYUJGU24zSVA4el9IQll6ejJ5TTBWUmF3Rnd4T3drNkhmSzMtRm41OUpVTTVmRm5TYmEzanJ2SXBOMlNhMnQtMTFwVzR4RVduTF9wcW1rbkV2WTdodXhEVF85QVpkbGJGWUVlRl9OYkJZMm85VGhHOU9uOUJHbElzMk1YMWNlNm8yNmVZNWxneUJjbWZaSGhpQ3loN2drUGJBWWctZ2xuM01fQTdUZjRVb1QtaFc1YTR1X0h2MENycTFHV2g3N3dfVXhoNzVnZTNRaGhuLWpjUXJISjZsNlotaXFBVDNjaVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T18:02:06Z",
+    "hash": "b46fdf2c6ee5fa8328457bed6d5ca6f157d4b64b7729a2438a6edd07472c85ed",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Chainlink News: Coinbase Pushes Data Onchain While AlphaPepe Gives Buyers AI Pre-Swap Analysis - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0QyeXhYTHFncVViVVo3bEY2U2R4OWRNUXNjaS1fVlpWekV1bW9RUlFPWkU5WUJ0SV9ZWkVGWE5UNWFPdk1BUFNLcDd0TjBkZF9TM0xNTXpZSjViMXVjdnVrWmJUYV9fMXZFazNlaVhDeFpIaHhnUnJ5S1pmR0hfbUhoM2lFMmNTcC1HVm50RmIzZThlTzgxX1NxSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T17:57:33Z",
+    "hash": "0aa736cc68be473069c3ed30b9569160860cebf679bb3b68842b74a4c1d8a2c9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: BTC ETFs Pull $2.43 Billion in April While Pepeto Presale Crosses $9 Million - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGVoSTU5UUlpdm54ZWlNcnJ3ZS1zWW1zaUdES3RpSjhnZ2RWUHQ5RE9ZTVBrVFlWUHZrUVVfRGZxSDRqRmRoYzhwNUVDU05XWTFVWk9GSmxycjB0MS1RZHdRRURmanJCR1JkN0NzZVZRSHRFZ0xoYkJQYXR2RVVsbzZMcGROVERZdWE0bjZFMnJKczBmLXJGR0pzSXk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-25T17:51:33Z",
+    "hash": "f8f0676d0d1ec4d2eae9ab5dd90000a215b303f3cb2e7245c8e4d1c73dee3ab0",
     "source": "gnews"
   }
 ]
