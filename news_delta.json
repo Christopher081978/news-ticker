@@ -1,122 +1,602 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP ledger sees $418M surge in tokenized treasuries as RWAs go parabolic - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5LU1KRXRzWWlUUzR6RlVPNVphTzVfRGt6bW56T1ROZEdseHY3bUs5VlU0N1dYdFRuckdsMUFYMGtaQ3B1dGZCcV9SdldpelJJNFVob3o0LU1ZV0JKREZ1UEotMzZlQXQ1Wlc0SkpnMFdNbktkajRrbEtn?oc=5",
+    "asset": "Pfizer",
+    "query": "PFE",
+    "title": "Big Pharma Pricing Pressure: PFE vs MRK vs LLY Management - Gotrade",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZnliUzZwWFJwTDlUZjBPaXNGT3lrQUpwaVE1UEtDbS04eW5fSUF0YVFNQzlOclRreVFycDNUQmlQVHcwTVRHaDJuOG85blVRUHVQdjNndHN6UXZZZmJKYjFJMVRIT0hkSzc2VzFjWGFvdXZhSEVJUy15dUFDNGZXUw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-29T00:01:00Z",
-    "hash": "9099b1cb354a7943a18d1115bd010635255c6a925e991d6bb91adde7a545c024",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Forex Signals April 29: Google, MSFT, Amazon AMZN, META Earnings Preview - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYk9iRFROaGMwcEhnVERpLVdITzdiU3lfWWg2dUtVbEpnaDdMeVlPbEdKVlJ4V1R5b2M1NmdjTGF4LTMwVVBDX2YzbjdiWG9Kc1ktZWVsT2VzSFg0ZVJDT2JJdWJsbWw5ZWZxenBoLXBnTW9KUHlBN3ZDVXJQS2tuWkIydlVCem1wYmZRVlhLdndjVlF0cGRQeWFsMEMxWUZqWFZVZ0M4VE5ON2xORDhubQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:47:24Z",
-    "hash": "17125b4c6f0e58ff2c935f175ccec6dbd447f1ba65027934ae4d2305aad5fe77",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Markets Q1 Earnings Call Highlights - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN2IyRTRZRG92M0FMZktYSGF3c3dtSDJtTEN5NzFzZWQyQmZyRG5DaDFoNEZPU3pnbWxoNWFDNmZvX0JGc0haN1NhRlZjNEZubkhaZ2VBUmIzVkpTVVpXajBRWlV5OXU4MmZqQUEwQkVaNmF6V1ZDOUhWTVR6a013Ul9obVZpNEI1clhqVjc3M3YzdXlQNU5pUjhJM0liaEFO?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:46:04Z",
-    "hash": "7ae20ccd01514055249ed052abd24b040ba3f6cdd0e8ec4dfe31c37c03a501ec",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Purpose Investments Announces Increased Staking for Purpose Solana ETF - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQU5aam1STVMtNko2Y3N3SC15cTlXNC01dlJOMUNiMVZZTWlNSjVxWEJhTDhNSDJpQTNzOFQ2Mkh2aUtrV21NZldJMHBGcjZWaUIta2dIV3FwOUVhaTg2NTA3RjhSWTYtZlpSME1aV0plZ2ZVTHdieHVLY21yRGk5Ql9VWVFGTFk1Wk5FQThYNWNVa0Z5R19LZEpQZ3RQRlNMaER2X3QzVWwxQjVyd25UNUd4aGlHMkhtSHpuNkw3UmY0cmkzQ19SWmo1VXB1RnlfQkNxTWJPQ0xqSk5E0gHiAUFVX3lxTFBfU2dIQ0RKczV4WVpyOVVpcU04S0VJVjcteElGOEg5dUdpZk9HTHk3NEVRVS1tbllCZGl3ZG5jZ0xpNXVVS1Q1Zm1yUkR6VmVxVkJGNnM0SU5wMXlTYzhxN3ZVb2hUNmVUREgxdmtic0YySkRoX1h3Z1U1djJZZmRVXzQ5ZjFYZXRlUjc4MFUwUDRsUVJCOExTQlhBRTh5MC1PRWZOY1hJOS11aWRJS1MySXpNVTNWNVRYZEdoQ25iREg0TXMwbndrUGd6Y0xKWEFYT2FpNHdZX0s1bWFtODN3Zmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:42:02Z",
-    "hash": "288cb0de5e980001259d05d128b85cfc595b02284e44e88bb9cfbf251b1e4f0d",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Crypto News Today: AlphaPepe Presale Hits $1M Raised as XRP Price Prediction Targets $13 - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRWQ1OTd0bTNTQ3M3MXpKdGJYREltS1J2SXYyZEVzaFUtVGRfVW1tVU5leXJZQVVHWkZRTHMyRGpXT2tUTmsxWjdoZUlkZUVQRGlLaF9DLVVRWHkzYVlYeXBrT0U2NTZ4SWU4ZS1iY1FEWFFaalRkbEhxcVhaSHZaZUVhb0ZhcF80ZkpMV0ZVSE9sQkxfTjZjN1FfU3pBcDJoWHBJRXZYdS1YdExZVE5NblVQZDNXODB5Uk03ckJrcFBGTG1CQXhnMFVqb2RjTThOUV8zbXdwUUZjY2lINFNWVDUtSWJOdEpMZVhBZHBzRULSAfYBQVVfeXFMTUxJaTFjcmVfMXBzMEw1MmFxM3ZZNDJwQ09pb0pFSGlOYmxFN2dkUWNUSFptZVByejlQV09NeG1QZmh1SmItMzJLNUFoZ3VEb2wxRG4yeEJicHVwMm9MTGxVWTdKLW13UnRTb0dybFBqdHQ4VzdoVG8xdS0yaVF1anJ1cnY3WVNuZ0lBQ09wMWVXaktGak9Eajh0RWJRU2hKRUJRTFZCODFxazFGbGRULVplNjhRUDVDTEVEbGZ4ZE5ZX0N6a3VCSE1SYXVLa093UzVrUnJ2VHVWMjltMHE1eHozZGVoN0VPRnFnUjIyWHdsMXhvZHFn?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:42:00Z",
-    "hash": "750112bce6828bda24b22605d0e89cefff01cab274098131335e6c3799622eac",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa2pyTnFIaExMVHJ1NVpfVmlhUTM2WTh5TEVyM0UydGJoZ1FOaU1pcFdVQWxkdW9TemNlejRHZG9qNVRRZmptckcxQ1kxd2l5WTNaeTZjeF84WFBKMDRwUnJSZXBCbExFZzJnY19LbTR6anZqNEtrRTIzQ2dlVHEyQUV4UFZTQmlVV2ljNWFkTFNpV0lwaDQteDdvaXJ6MDUwZm5aRm9xeUFLdUFFSnJvYjVaVjBKQmpMd2YtVnRsbkVtSUh6dURpZ2k4WURtbU1fV0diTWlid19tZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:41:03Z",
-    "hash": "42a5f4d027444a386da2f09da640218a380740d771af1ffa22097f8d635f184c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood stock falls 8% after big earnings miss due to weak crypto trading revenue - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa2pyTnFIaExMVHJ1NVpfVmlhUTM2WTh5TEVyM0UydGJoZ1FOaU1pcFdVQWxkdW9TemNlejRHZG9qNVRRZmptckcxQ1kxd2l5WTNaeTZjeF84WFBKMDRwUnJSZXBCbExFZzJnY19LbTR6anZqNEtrRTIzQ2dlVHEyQUV4UFZTQmlVV2ljNWFkTFNpV0lwaDQteDdvaXJ6MDUwZm5aRm9xeUFLdUFFSnJvYjVaVjBKQmpMd2YtVnRsbkVtSUh6dURpZ2k4WURtbU1fV0diTWlid19tZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:41:03Z",
-    "hash": "42a5f4d027444a386da2f09da640218a380740d771af1ffa22097f8d635f184c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Q1 2026 slides: revenue growth continues amid forecast miss By Investing.com - Investing.com Canada",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmFvVEdjWllYM2FuVV9PZFpmanNteTFZbzhIUWtLcG1oOVR5TEs0bWNkMmV2Smp6QXBDcTdNRUhDVDh3V0xjRkFoMTN3QmZZU1JBdUxNVWZMcF82NmpiczVrUHE3VXBJcnZzV0U1UjltcUp0VGRZTzdlV1ZTOUJNZVZDeHZEeWs1RDVzX2h4c3NnbUd2dm5uaXNycnQxMEhDdlkxM1dMSzRRbjNlSGVIckVSVTI1aVQ2ZWZqTGVHWUxXZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:29:41Z",
-    "hash": "e7a716269f642e0b18e70eb4b0a222645152accb5a714aa3e3487b2cface3cd9",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood Q1 Revenue Hits $1.07B as Crypto Trading Slumps - FinanceFeeds",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdVhHU1ZCTjZIaTJEaEllNTBWOGlWWEZNMElTUHNrZ1VLMk9BUnhMMERmUlExSXZSZkMxNkExX0o5b3Fkd0xDWUZudDNVWkVyYURWaXdOQklpNm9xT3JDSGRCVXVnbmstXzh3SnpfbUxQZGU0RDdBOGxkanMwWDhCWG1PV3k3N09rV2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:20:40Z",
-    "hash": "4ae8bc65e6f448d1c32333027be86fe04173f04cd030a369c70478f1648e69c1",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood misses on profit with $0.38 EPS as crypto revenue sinks 47% to $134 million - Cryptopolitan",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01NG1WWld4SWJmQnNweXFhc0c0TTVhaUg2SGlJWDV2dkZRTm5TXzN2THRvY1lqLW1qbVY5bFRQT0Y2X0RnVWFieEgycjVoUWV2Tk13OF9vQ1BHZEtWN25WenRpTnh1ckR3aHB4T3lSZEwxZ1FG?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-04-28T23:19:00Z",
-    "hash": "09e59447f76b2a16004168a7385bde9b3a84a14b103777adf00514c78517fc23",
+    "published_at_utc": "2026-04-29T04:24:59Z",
+    "hash": "fa73da9a4a3dbd8789cf303dd1c06e7615d9e04f689c8836091d961698b1e67e",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "HOOD",
-    "title": "Robinhood earnings miss Wall Street estimates - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0MzQ19MZjVFTE96WktyNExRUEs2VjFyX085bjhLV1JrS3RDdHJmcU8yeTUtN3F0WUhhV1NySEhVaFNYd254bGU1X1B1MlhhSW03Y3FFOXNwV044ZEt5RHZMVDFRbWhGRnI4YmZGNzAtUnBTb1FuVjZUSy1OQVAtNzlTcUFkLU5K?oc=5",
+    "title": "HOOD & MSTR Earnings: Crypto Exposure Signal in Your Portfolio - Gotrade",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqOHlGMl8xZDFOcTQ2V2V3WjlOWkUwOUtHZnZBRjdaYm8yZjBYQ09uQ1hDM1ZMelRIRUl3cUxoVFBrenlucVhQMHRrQjBicl9LMlc1YS02X3hSd1cwZ3JYWUZPalRUbHM5LTZuVVJUMmNvTXRJU2c5Qkx3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-28T23:17:27Z",
-    "hash": "68d1f5836154b80ff9d3db32455d258f48f21b098df87e8bfc3f34e10d9360ae",
+    "published_at_utc": "2026-04-29T04:24:57Z",
+    "hash": "3a10533b2537372375a4d1e578bddf07310f54f3d0577bff082d31d6cae91885",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab's $1.85 Billion Backlog Masks Insider Profit-Taking Ahead of Earnings - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXEyRHpGa3BzRmVXX3BSNXlCUDZ0UHRvZ1hYN2dlNEZlR1BXbU5zNE9IaXNlaU4ybVBKaDg2b2J4b3ZrX2pZaDZfTDhCdG5kTTM3aDFNVjVTbllwU1FYTFV2STFsOXFyUTRvbldDYV9Qd0QtM0NyNTVHYzhpTXFUV3JEOUxKMWZ0VHdHS2FqNlo0WXRSTFFkcmlEeGZWNDJ5OUFiSmhnN3l3N2U1VFcyUW1DMlBodnMwZkJ4UEtWT3Q2bWFHd0R3Nw?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Why Solana's 516% Rebound Signal Comes With a Warning - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QNTk0Sk5JTG5WeGJHS2pUeC1DYWZQLXE3X05LWFJqdnU2c0pDczZId2VvZDM5dWlyZWcyWG9vYmJSSV9LRy01ZS1rbjFYTko4eDNHN2llLVplalJQTjNrYWE0OGwtZ1V4Y0QtN2N2SHQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-04-28T23:05:39Z",
-    "hash": "aa9f9f0a25efdbc45af80e81f885a1e47752ea86914f505d6044166d2eeeeb65",
+    "published_at_utc": "2026-04-29T04:12:00Z",
+    "hash": "6c6e9ea02999f5d6b89495bf8d750fd1fe2b35ee2dad40b299cceb46b5e3a43e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Hyperliquid Vs Solana: CEO Frames The Competition As Path Toward ‘Bitcoin 3.0’ - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bjkzUFBTWHhjRHZHalg3bGtoaERVWG1jc2FLeFNpcm9OU2hCd2k5b291cVpFZUxiNFdaWnFPWTJMT3VrOXJVVXlPQ21kbU80bDNQLVhRNHJBZjQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T04:07:39Z",
+    "hash": "68c4ea2d76b43857affa2074f813df3200067b0f8dc3fd2f8fe35f262c47607c",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Traders Scale Back Leverage As Ratio Drops On Binance – What This Means - MEXC",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RVHI4a042OV9JNEp5bDhGclhqSjZiV09FSEZLUVV1QVE4NzdlTXE5NG5odktJaThYVzN2bHR6Rk5YV2ZjdjhKQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T04:03:06Z",
+    "hash": "7cf1c350ee85dc7f43d1c087eb0491916315b0fbc495c49aa7f4b2e90b942c19",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "GlobalFeed",
+    "title": "Künstliche Intelligenz: Start-up Spread AI sammelt 30 Millionen Dollar ein",
+    "url": "https://www.handelsblatt.com/technik/ki/kuenstliche-intelligenz-spread-ai-sammelt-30-millionen-dollar-ein/100220428.html",
+    "summary": "Die KI-Firma beschleunigt die Entwicklungszyklen von Unternehmen wie Renk, Rheinmetall, Airbus, BMW und Mercedes um bis zu 30 Prozent. Nun bekommt sie von Investoren neues Kapital.",
+    "published_at_utc": "2026-04-29T04:00:00Z",
+    "hash": "be333b83baa9f90b1b188f594cfbd9106de76e4d224b6aca49cb9b5abf26b44b",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News: US Tokenized Treasuries Value On XRPL Surpasses $418M - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BVkRhakkyN05FRTZ3ZnRDVXlTaS13cjVGM3htcUlaaHo4MnlkRlU2TG83ekdsNXlNZnY2eFlBc24tcGYyUGJfVjZGV3czT2hLY3lwZEtTVmY3QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:57:39Z",
+    "hash": "ea5d6859a660ced603bc52abba6075cd3fd26aa839f8bd933b39e31b0e8666da",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Robinhood's stock price plunged in the aftermarket due to its deteriorating digital asset trading pe.. - 매일경제",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtZnpEVTZDS1RiU0JnWXkyNkNGaWU4bDJJa25TVkFyUlE5QU9ONjgxaVZzV09yVjBmMWpweFctM3hySGx2eHRoRjNtNXlQejA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:51:48Z",
+    "hash": "af52cf91503ea177a0c6c752a4062d5a8ab441c7213ea4fd8134a82a3856f3dd",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "CLSA Rates BYD COMPANY (01211.HK) High-Conviction Outperform; 1Q Earnings and GPM Show Resilience - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjkxS0Q3cGtmRnZYRk5SYTY2cjV5aWtCdmlsMlZ1bzQ0YVlZNHdKU0lZd2dOYm8wVFdDRGY3TWdmMGtXcjBDM2s5aEZtdzhleFFjZ3lNWTRxRERaaWc0RnNQMjdkRlBKZGRTRHZmSTh1WkFIUE5uVzdjdjFqZUE1dkdLWVZ6aFJDbks2ZjBPQVFIZmxV?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:48:00Z",
+    "hash": "d806053567b49a52db4c11dfe8a2dcce241ab616baec016199ba17475e3167cc",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "CLSA Rates BYD COMPANY (01211.HK) High-Conviction Outperform; 1Q Earnings and GPM Show Resilience - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ra01COXBIdlJNQkJ6SndUSjBmcE1ORUNtOUZONzdLek84WGgxRlladkxOUmpsQVE2MFFsZE5xNnI0ekdUU1lVN3lkZkV5M2Vob09yd0U0NFozY1NmMEpsLXVlQm43T3Z3aWZ6aldrUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:48:00Z",
+    "hash": "6244e8f39c1bbc6ea1d5052ec30bc0c76dcaf9adef035867525af220a225f4e3",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD’s near-term borrowings soar to record as earnings slump - Free Malaysia Today",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0RGc2dFYWRWV2JBM2E0bE1ycnRVWE1NeHNEQzc0YUdOSHFaUDdCeDBSRW1yY0hGWjJMbF9OMElwazc2VGs4ZE8xbXQ5MURWeVhNSkNoREREREtMV3VNaGF0RjBTOU1wRlRxRlRQekZRWDBMc3A1ay1MNllqMWlQenFGZkJNbXlXa3QxQTl1ZHRxOGY4c2p2aHNyOFh6amtLTm1VZmp3UXdqZmJYZTdBYkpFcWJZMGs0aFNDd3Rn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:44:54Z",
+    "hash": "dffbe7b44c82ab6ed8420a33e5421af38d46a0770b3590a99e20d47f1f8242a6",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Citi Expects BYD COMPANY (01211.HK) 2Q Core Net Profit Upper Limit at RMB11.3B, Maintains Buy Rating - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVlh6aEt3cXNQbmtwa09veTRINWxMX1VuQzMyY05ieTZhY3plLUx1MDhxcjJaZnVmS3dSZklGa2NVSUZzYlRXX1JicGFwejFhdkFfZEtwQTVuT1Y5WGRwT0RTZXFoVExZQjVDWnVzVlJCZTdKMWZKdlZqZk5lSDhLdnFfdmJEWlFoelU5Sk5hWTR4TTR1clE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:34:00Z",
+    "hash": "aa56db2d3bb9608727cd20ff07928a133ddd772728d40c2d83d5fca3fabffa8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Citi Keeps Buy on BYD COMPANY, Anticipates 2Q Core NP Upper Limit at RMB11.3B - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY3JzVndsZjYxUnpwTk5ENUF0bWVTdW1sWUdwbHVmQk9qekhhcHEtUzlNdk9GdUl5WTY4WVNJMHV6eDlXd3lJRF9zaHdPQ1VHcV9wX2J5RDh4VHRPUHMxRjNtUVg2NE9fOEpKSW5HT3IzVVZydmFzZEdBYVhSX2tnc1JSbXQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:34:00Z",
+    "hash": "f5013f6d1e77c7e153e0754af923bec24d375f5b4aed48f717000fe6fe17e351",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC nears key support, ETH weakens, XRP slips below key EMA - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYUdhLUtlRWFTUFhLQ3hKakZuS0JUOVRDaERDc1BiZUFGNFJhNWItYzBxeDNmajVENzNEXzJPSXRPd1JtRG5QMFpTZkdFd253bkxEbjhzTHNHSkNwdUMtam9jS0F1TXI0Z2YyXzdxbXFGRHNNR05tck5YNmVJbTRLMmdURUdqcVpaMlYyNXN2NlBjTFB1QnJGdUFGbHViVWpHR2hiVkdGempFREtVSkhrU1lickZJYTJmbDRsWkhydDNBRVVjUF8xVTFrT0wyd1FOV2ZTejN5NURzZ2Jfam5sdkpibnNwS0JYYTlqVXRBRC1neWt0VnJZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:30:06Z",
+    "hash": "17903d94f5132bb161558e4b916e7c73e8b207033e8bd2e92f9f225826050b9e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC nears key support, ETH weakens, XRP slips below key EMA - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYUdhLUtlRWFTUFhLQ3hKakZuS0JUOVRDaERDc1BiZUFGNFJhNWItYzBxeDNmajVENzNEXzJPSXRPd1JtRG5QMFpTZkdFd253bkxEbjhzTHNHSkNwdUMtam9jS0F1TXI0Z2YyXzdxbXFGRHNNR05tck5YNmVJbTRLMmdURUdqcVpaMlYyNXN2NlBjTFB1QnJGdUFGbHViVWpHR2hiVkdGempFREtVSkhrU1lickZJYTJmbDRsWkhydDNBRVVjUF8xVTFrT0wyd1FOV2ZTejN5NURzZ2Jfam5sdkpibnNwS0JYYTlqVXRBRC1neWt0VnJZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:30:06Z",
+    "hash": "17903d94f5132bb161558e4b916e7c73e8b207033e8bd2e92f9f225826050b9e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC nears key support, ETH weakens, XRP slips below key EMA - FXStreet",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYUdhLUtlRWFTUFhLQ3hKakZuS0JUOVRDaERDc1BiZUFGNFJhNWItYzBxeDNmajVENzNEXzJPSXRPd1JtRG5QMFpTZkdFd253bkxEbjhzTHNHSkNwdUMtam9jS0F1TXI0Z2YyXzdxbXFGRHNNR05tck5YNmVJbTRLMmdURUdqcVpaMlYyNXN2NlBjTFB1QnJGdUFGbHViVWpHR2hiVkdGempFREtVSkhrU1lickZJYTJmbDRsWkhydDNBRVVjUF8xVTFrT0wyd1FOV2ZTejN5NURzZ2Jfam5sdkpibnNwS0JYYTlqVXRBRC1neWt0VnJZ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:30:06Z",
+    "hash": "17903d94f5132bb161558e4b916e7c73e8b207033e8bd2e92f9f225826050b9e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer among 6 stocks showing bullish RSI upswing - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGRVTVI2Z2JFR2tWTUVKalVuSHFzbzlXS1pJUDF2U3BUaWN4VGZpU2ttRks1Tzh4Wl9WN09hcURVQWNKTTMwblg5My12N3ZESUNXNVZldjRaVVUtMV9reTFWQk9ENnlLS3d1Y1FMeDFKRlY2SGRmSWd3T19zMF9hcTF2bnNMNUF2NEtpQVNnc29DaHhBQ1VVaUtXQ3BKbkxLRjhDbVNBbUxwck5nazFzN2pKZ2h0anRId2pYMzJR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:28:22Z",
+    "hash": "aeea5369f04cc7af6dff890703ca2cfbbf75edac9b71a799081d39724821d496",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "What Is Solana Pay? How It Works and Where You Can Use It - MEXC",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGI4dmo4ZVYzSUZuTDdMMHhQbjlWREhJTHNmUkNOb0NUdDI3SEdxaW1tU1dMZXJtQW9MaEtKSDRVYXQyUVg3LUFUaW5VbjVBdHBUdkI0ZGJaMGZleXEzZE9mdlBDZzhmWWlQUENIWnM0ZVdnaDRxOEgzcG1EMXcxeElCMWFkUGVpZl9BV3ZZS2pFUkhZbXB6SQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:22:53Z",
+    "hash": "eaac2c5c7c1aa06219efd24b362002e7a30f59d32a5dc818d224b092ae1792f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum ICO Participant Moves 10,000 ETH After 10.8 Years - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG9FMlFCa25Ub2NIZldfb1pHZEdyYkJ6SWxkaGUyQXkwNk9UT09oQUZrS1Y3V1gxSzN5eE1Nckt5Z0JXd0djVnh2Zk82OVNtUXo3XzZXMUVSUzFNMGl3Y0pWT1RSTEI3eDVnYTZ4UmZCc0JmQ1p5Wk4teVNjdEFacE5KeXhjeDZQMVB5RHRBYWRnQ1VhRWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:19:32Z",
+    "hash": "fabb37f518918d681db303ec14efcda2438c5cc714fda8f8c22b4f4be45dd133",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "The Third Force: JioStar emerges as India's answer to Google and Meta in the revenue race - Exchange4Media",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQREpvbFRYalVEcHRKUktsU2hMUEJMRXBMbEhUQ19ZR3R5cWlPMUx1d2ROUm5xWVo3U1BMdGFPTW1SS0I1N3FIZFUwRTJjT1lYX0ZhRHhaUkZLbl9CTmJkVzU4OWNmVWFIOHl1di1QemtvR0JsSE9xbk5uSFVZRl9Ram1hX1pzTUVVaGRPX1JkRkJsQWdZd0ExWG1mQ3o2eUQyeENUbE5Jd2dCS2U5dlBYV1p6LVIzcjBMaU5OLXllU29xSnR3ZUZjaTU3WGlVelE3ZklrY3JVbk1OT2Ix?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:12:57Z",
+    "hash": "195a35d8c77a39ba7106a2d749d44f1990a07eacfb6aeef2fd4740cf802e54c2",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Nomura Expects BYD COMPANY (01211.HK) Overseas Expansion to Be Sustainable Growth Catalyst, Rates Buy - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YMDgxd0pnMDNMR1M0S1U4Q3ZMUVl6eDg1OEtKM1B4eG93d3pnQXF1YkQ5NElNMnhPNFhfOFVCZU1HNnJsRmVjSEpMclBYM2hfeWNyZXp4bXdCZEhkQzRReE5pN2VFdWdlN0I3WGpMcw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:10:00Z",
+    "hash": "90f0c32d046dc8bb76fb3bbd2b13a819a8ca87be4d396c5c3bfa9ca63a70a59a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Crypto News Today: Varntix Adds 19.7% Fixed Income Pools As Solana (SOL) Price Predictions Underwhelm - The Daily Tribune News",
+    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdHhVM2VpQ0VJakgtZGNDYTYtZGZoUmJPTW9RaEttRHlDdGRRd2N2RzE5SVpqS0VrWWNwem1kTDhqLTZmZjNmaVp0SVp3VTY2MjNoWnNhY3lVRGxaNnFOZmtoTGF1cVhKdWVMQmtGZERWZjEtVHlUQjNmclJ1eTd6R2JodkJlN0lLRHVDUF9fOERyeDZ0WnVvTjNrZEplZHhXdEhha1VKcy1ITm1NNXJHMEtVdEZ3ZWF2MzBvM0VOcEZVOVVYakFmY1hrYU9mV3ZFY0RXeGw4NTMtRmNaTWtMSlZfQW5zZHlVUUtINVVtZXdxcGpaRTB4VUphWWV1VnRaZldkN2cwaGg5WE41dE1MZ0QtM0Y3YTBBYm50UThRMWY5V00?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:07:38Z",
+    "hash": "361f72997cb2f752d081c2a9fb668bc033ec27386e002c208486cbde8c03052d",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD shares rise on better-than-feared Q1 earnings, export optimism - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1FHMDVyNmVDVlpzVXJVd1o4UFhOY0RYRkdtZE5HNDBFX21vbFBCUTB5VC1DdDhqOW1vbW1QMzc4WjlJQkZFLURPRktHQkZMcFF5b3Q4em1DZk85MEFFRV8zeTZvYzhzdE00eVVPbGFhNzM3bkFEV3I0U2FxdnZUNFlJMHE5RVQwWmdLZ01fQ3JfRUdzeGVWeW9TREdvY0NWSGRRTmhnVFhBYlkzd2didUxVY3dxZ2UyN1hMTQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:04:52Z",
+    "hash": "2f2d9dcbf78f14093b24f4bb467e308ac3a028b8c44956fc354a3d0778e0187e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Robinhood Slumps 8% After Earnings. Revenue and Profit Both Miss, Market Fears Coinbase May Follow Suit. - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWFOUE5zM3VKU2RUWUs5OEVlUF9wc2VjeFItVWF1c1llYUpoUFRFNUFOcW9BdURIZmp3TVVLLUtCaWNYTFdWMTBRdVNzRGtHb0U3V3gwbjhEdHlfNjVJOTM3OTZTcDVyVkQ4aGpEd1dFOTI3WkFXMnlQZkliQVZRc3ZLR25YbkJUYUVxQ0VYeG9kOHItQ2pnRU9tWkt4di1KV1lGODNncTNKd3JxUGxpQU5ncnp1MzJBSklMT2xwSmlOdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:04:50Z",
+    "hash": "5307bfd1fff8001ee159371af95a7d5e89807b5956a6122c60531266908c3414",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Slumps 8% After Earnings. Revenue and Profit Both Miss, Market Fears Coinbase May Follow Suit. - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWFOUE5zM3VKU2RUWUs5OEVlUF9wc2VjeFItVWF1c1llYUpoUFRFNUFOcW9BdURIZmp3TVVLLUtCaWNYTFdWMTBRdVNzRGtHb0U3V3gwbjhEdHlfNjVJOTM3OTZTcDVyVkQ4aGpEd1dFOTI3WkFXMnlQZkliQVZRc3ZLR25YbkJUYUVxQ0VYeG9kOHItQ2pnRU9tWkt4di1KV1lGODNncTNKd3JxUGxpQU5ncnp1MzJBSklMT2xwSmlOdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:04:50Z",
+    "hash": "5307bfd1fff8001ee159371af95a7d5e89807b5956a6122c60531266908c3414",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD's 'overseas narrative' has become a profit driver: overseas markets contribute approximately 70% of automotive revenue, with significant improvement in per-vehicle profitability. - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYU1scVc0dTU1QUxiZGZrSGg5SEdQZzk2WUEwWkF6aUZHd2VFNVJ2YndRQktiOUtTLVF6LVA4RVo1alI5NWhWdzhDSklRZ29zUVE1ZDdIN29CaUJFODdhVG5JOGVVSng1RGM4YXc4bzRBWEhiSEdfVUNXU29TSHdiTXNmczNiUGtfdERweHVoa253NndZQXhpQWp6QmNMdGU5Z2c2bw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:04:37Z",
+    "hash": "608f98fedf7bd85ab4842b6233e3d06bb76053e6ce9e0ecabae6befa5c7e1a41",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Citi: BYD ELECTRONIC (00285.HK) 1Q26 Results Miss on FX Impact; 2Q Still Under Pressure - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGhGbFZpa3hrbEdMem5HaTlXM2ppeWRCanFoSzVEQWhrXzZLTmFIa0poUkM0TmQwVnBSSGRKMU41c29MeUZxMzRBazUyalFyOTZqc3Q0RnlfODBwQXFYRUJoa011XzdqVks3VHlXLTlfaXhGVUhNWjhITE85cFh0YTg2N05HaFhhNkJySGZ4YTBOQkFP?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T03:02:00Z",
+    "hash": "33ca4082aab5439519dc1164ec7dc47b3fd5055a44a84891d31e5ba083363dc3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "The AI funding loop: Cloud giants pour billions into Anthropic to sell it back compute - digitimes",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVYtM2hxNXc0OXREWlQyaml5MUJVaXlpRmNLQS1nV1NDcGpBd19nbU1iYnVraTdBOGp2c2NwTGJUUmZKQTZVM0ZPRWp2Rk5KTGZqZXNoWGxPU0VBTzZ3VFRQRnlRMlBlS0tidXJiOTlHY3dKaGNVdERBbFc3MVI3bC1tYVVqNV9hbDlkNU5vWjU2cExOTlZ4Rzd0TQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:45:00Z",
+    "hash": "715d7647013ad29c83f9c5a8989bbe91d3ac37e4d65522debafac09ae5734db5",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BNP Paribas: BYD COMPANY (01211.HK) Earnings Forecast Faces Downgrade Pressure, Rated Underperform with TP HKD87 - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGRvblM4bWJsbjYzVFRWVVZNOGV3ZWk0a25lLXA5MUkxNXRNcS0xQTdMWWIyTDd3OGxqdy15TDNnOGZ3cWRadDNfTkp3QWd0dmFySGN5QlZjcHZRczYyWkx3Q3VwbHZQY1ZsN0R6U2lvcGZoYnZpT3lpZmQyTFlWYS1IM3V6cU93TmFGMHUtM2x1bkp4?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:43:00Z",
+    "hash": "e28576b0a4c8287b5eec43ef4851da01bbda9862ce1fa9a6c024d070d9032b89",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum (ETH) Sell Pressure Concerns Rise, But 4 On-Chain Signals Flash Bullish - Mitrade",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzliYW9uUlpaX19hcTd3aVFkbDFFcHVJamNMZlZrMG1Lb3VuYXRzWkIzMklHSnVQdmJFd2drWlE4dUFuZXh4aVRmWnNkSk9XcEg4MWQ3bVFrdFJGWDdnY2lfQ3RQMDZkSlpnOTF1MVRlenluTHlsNkUwRzhiWFJPc2k4X1A5Ui1EX2c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:36:55Z",
+    "hash": "0bcd8e300f36f52a6be1a8de5d550a3381b42d45a81e583280ccb8629ff3937e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "HOOD Stock Topples After Robinhood Earnings Reveals 47% Decrease in Crypto Revenue - Mitrade",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQalJIUU1FT3NPUzBFOG9DT2lKYzF6aEdOUnZEWWg3dEEteVZ4aXJkRW9HMVJKWmJ1MWFneHVLd2l0RDJVZmcyQ3dIcU1ZVXBEcWZnSDlXbVZlelhSZ1VSelJEWUgyTlg5N2l2aklJMXpRRUdrNVhNWXFwMUFOWU5kbXpXX19LVUZLTTB4eEF4cHpVUWM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:33:28Z",
+    "hash": "e0f8d61c07a6759bdf90225c84c9c9f1518735ca861fb8a98abbd26870fd2cd0",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "A Look At Boyd Group Services (TSX:BYD) Valuation After Recent Executive Leadership Changes - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejhha3FTa0FiZ0toMFVXZHFXcmYwN3JQcUlFcnNnMjZjWGRYSzNSMTVCWjBWb2lwQVExeGhYc0VnRlNLWktxTzRsbzQ0eFdaeXV4bjFYbzM1azZzMzZKWkVSNk5OWm1vQnJPMXV4TFh1M2JCcVRhcHdqYi1WZkthcWJaVHU4LWZrbk1LbDdsSjVyRWVFWEJxWVpOS3otTENTR3lEQ2x4aW83cm4taV9CS1RUWFBBUm1ab1FJRzdabURfOGNpblQtZXNzWlk4aHVjMmN2MmEyMWxnTTVmU0V4czRNR1NMaEtE0gHuAUFVX3lxTE5qRDFmVDZLTFRmdzJVOW1yeGRFTEluS1RrTEUxUkFYRXhuN0xUOFJyb3FLNEdGMTNkSGtkT2RlOHdpbkV3Vy05cGFONWwtOW1FNnVTeVpzMXEtYmNPcjZGU2oyMTBJY2ZNdFhUbXQzYjFtNmxYdUV3MFJMd293SHZZcVFzMXFPVkFmWEhhVk5jRUI0S1Y4dTFQZkx2N2w0YUJ0SzAyNDk3TDhfeVBWUS1QSUVudi01XzJ6bDhmdmVSZEVjUHpXR29MQ3FmN1RrSEUzZVZlRXNKeDVnbVVXT1pLR0hDNlRJQm13TG0tc1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:30:46Z",
+    "hash": "814f1a312b9968dc3af5622317b68139a97f51f953e956bb025aa49f84ab8e40",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Best Crypto to Invest In With 1000x Before Listing While Solana Bittensor and Render Hold - CoinCentral",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHNDTGM5WUJMWmhLS0gzallDNjhKbEhlOUxRdEtzOUNaYUYzWWgwYzNkazJpa0JxN2JYek1XNjBkVVZETThETEhCWUJmZk8xMmFTM2VSRUpoSHpSdVl0bkl5UU9hSFUwcGktd1hRS3Z0Vks0bEJFZzRhbElrTnpnUW1zODFEVDRWUUpCYXFJQ1FXZllIQi1sMnEwaWlxeUZQSVBudWN5a0c4ZXR5TFNRbFh5X21WajA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:30:10Z",
+    "hash": "8e7ac1d2e44018b0cd8b8211eecfe0ca0e971b2de5f755b8915ffc3f4f003636",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Three XRP Scenarios Mapped From $2 to $100 as Real World Adoption Hits Three Continents - Coinpedia",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1ZCaEdod1N1VFNJMmhNeHg3M1h5OGVSc3FPLWRlcl9KcHNsd1J1VFUta3FrWGh5dl9FNzF3cUxveTZCTklKWVNUVzRoazRlUnhQSGc4eVBONWw3cTVsSUtFRHg5WmhiUzdfX0JPU3Ywd1Q4UE5MdmpuaVl3bDk2NUVSN0dEOVRraUhNRGxINHBPOXJvcmlKNElndnQyZnBZY3VROVpxLUFITkRkYWlENXAwUdIBuAFBVV95cUxNTHJXa1hxQVdOOFlUazhvX04tOW5KSG9DdGE0NUFTdjllbEJyamJFYy1qVndQbzk2Y0ZVZW8tTFRjdVhFb3V0TWxLSEZUU1NibUlXZTA1UGhsNWZjb2pEMHBhSS1uQkVGLUFkMnI5Z09YNkdTb1JNemR1Q1VnMDV2VU9yaFZrLXdmTGtfOFp0T25VNUlWajVwWmJGRVBZeDZWa3ltUTVzdkI2S09kaFpYbEJxajQ2UVI4?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:30:00Z",
+    "hash": "6852d018fe0221a7c22311e173a74f2a77bc0ef94f379c2962cc2607bee7c0b5",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BofAS: BYD COMPANY (01211.HK) 1Q26 Net Profit Falls 55% YoY, Slightly Miss; Trims Earnings Forecast and TP to HKD119, Maintains Buy - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObmpQdnVZV1hlSFMwU0pZUy1aNG5LTEM3SzhSM0ZEMjBkZlF3cTd3WHg5YS1yYndJanl5MkpRejdneWt0bFpkYzRHMnZQRjl3TldKU281dTY2R0RUWjA2VS03WnU2WnBnckV1b2w0bHZ4Q2VMVnUwanpzZmNtdW1YS0RrUG9Dai0xMVMxTVpOUkltSmdk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:23:00Z",
+    "hash": "41800b43ebe5a0c9d3420cdd6daeee8bd8efef9440a25a5b29b6bf419554dea9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Adds Citrea (CTR) to Asset Listing Roadmap - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2w1NTVreUJSTXItV3FpNHE2bm9ZUy1iSFo2Ymt1U3drOUZ4allIa1B6LVpOT1VxYnpPWjN0T2hueVY1Ujl3WWtqVExESnR0SlRVSV9BN2I0bmFwVzktR20xa0hESTBEUmR2Q1lSOWFjZExBUVphMVdreXlXRjVGMnRLYjd4NVp1ZlJ3MQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:19:15Z",
+    "hash": "483c4c1b8bf70d49b208866248b2ee944db1e0e3d2498b76d0b0c69771a95048",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Bitcoin, Ethereum, XRP Slide, Dogecoin Flat As 'Fear' Sentiment Prevails: Analyst Expects BTC Bull Run Be - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUExJcFdaXzZVT3lkWGtpLXlnQmxRVmpzR3pKYmVMb3laMndteGpVR3NQWG9nTVFlVm9qWXQwNWNFM09MWUo2dzk1Qk1yZ0RqRnc2bl8ybnpKREJQbG5DaTd6YWR5N1padnlzdzVFWU03eldWWV9Mb2xnbktiSEdWbG4zcW93bEZodmN6SXpvcmhrbS1pV1VSTFpBbDBNSWRRdUNxeERWVmFnY1JfX0x3aFF3STVFcXVjSERPZTJwU0lDWUNlV28teU9USE5ESTNyZkMxTFlGT2lHSGlTVjRpaTJMWTREd1J0dm9UV1MySW9rUUtwakhkNHBBOXdpRjZnSVdSSWhTdnVyLVd6RGVPdzNhM3ZRX296ZWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:16:01Z",
+    "hash": "796a07088e9b944e7844c53d0049a797275af4fb1e1cb100aaa8c9938ea131ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitcoin, Ethereum, XRP Slide, Dogecoin Flat As 'Fear' Sentiment Prevails: Analyst Expects BTC Bull Run Be - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUExJcFdaXzZVT3lkWGtpLXlnQmxRVmpzR3pKYmVMb3laMndteGpVR3NQWG9nTVFlVm9qWXQwNWNFM09MWUo2dzk1Qk1yZ0RqRnc2bl8ybnpKREJQbG5DaTd6YWR5N1padnlzdzVFWU03eldWWV9Mb2xnbktiSEdWbG4zcW93bEZodmN6SXpvcmhrbS1pV1VSTFpBbDBNSWRRdUNxeERWVmFnY1JfX0x3aFF3STVFcXVjSERPZTJwU0lDWUNlV28teU9USE5ESTNyZkMxTFlGT2lHSGlTVjRpaTJMWTREd1J0dm9UV1MySW9rUUtwakhkNHBBOXdpRjZnSVdSSWhTdnVyLVd6RGVPdzNhM3ZRX296ZWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:16:01Z",
+    "hash": "796a07088e9b944e7844c53d0049a797275af4fb1e1cb100aaa8c9938ea131ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin, Ethereum, XRP Slide, Dogecoin Flat As 'Fear' Sentiment Prevails: Analyst Expects BTC Bull Run Be - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUExJcFdaXzZVT3lkWGtpLXlnQmxRVmpzR3pKYmVMb3laMndteGpVR3NQWG9nTVFlVm9qWXQwNWNFM09MWUo2dzk1Qk1yZ0RqRnc2bl8ybnpKREJQbG5DaTd6YWR5N1padnlzdzVFWU03eldWWV9Mb2xnbktiSEdWbG4zcW93bEZodmN6SXpvcmhrbS1pV1VSTFpBbDBNSWRRdUNxeERWVmFnY1JfX0x3aFF3STVFcXVjSERPZTJwU0lDWUNlV28teU9USE5ESTNyZkMxTFlGT2lHSGlTVjRpaTJMWTREd1J0dm9UV1MySW9rUUtwakhkNHBBOXdpRjZnSVdSSWhTdnVyLVd6RGVPdzNhM3ZRX296ZWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:16:01Z",
+    "hash": "796a07088e9b944e7844c53d0049a797275af4fb1e1cb100aaa8c9938ea131ea",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "OpenAI-Driven AI Bubble Fears... All Eyes on Google and Meta Earnings on the 29th - 아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80Q19ES0RCb0hNRkpGVC1UeW90c2tlRFpZNGgtejlfRFFlMFFma1lTcTRJTW5GdS1sN2FfUVBfMWZMYnA5UEdBaFVBRjN2OVYzd0VJS1h4RE1PV0tBb0N0dVNBUVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:07:31Z",
+    "hash": "56b1efea1d5470290ede4a321c09d682be18045e0222200ea8560f49d4078467",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood outlines $2.7b-$2.825b 2026 adjusted OPEX outlook while targeting Q2 Rothera launch - MSN",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOb1NqTjlsY3d5TF9BYnZsUmxZTjZTRGZ3WVpOMlFhV0xlRjJsajQ3blZ4R0M3MXFrWmJFaUllS3ByNlJNSWdhQ29MNm95OGZsd3V5bUpFNGtBYjRaVVlNSUJySTBaZ1Q0OFQ2a2RfWlFta3RZbkxWa0RjUTktRk5yR3V3aWxKZ2pCU18wakRNNGVka1pxWWhoOHV2eU82ZVhLSEkyVTVid0xJZGEyOHhXd09Sb0NHWkMwOG5FU2lORHBnVlpwSFJjclZZbWtUUl9ObThSeGNSS0NNUWtxVVpqcEhxR28xZXVMc1JSa3Y4QWh1YzExWWdiWDJIbm1fOS1I?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:04:54Z",
+    "hash": "d073a9bc37900095a6ff8cf2efa4333fb1d1a881bc3cac08d9dc5251d692fd8d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Alphabet (NASDAQ: GOOGL) CLO John Kent Walker gifts 69,602 Class C shares - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkVMY3psVXRKVEdPdFhKTkR1bGxsSkFySHRULWhZOW8xVmJNSVZNSDlUU25VOF92T090OFpnZV9tR1dnNF81UTZGdnVCMWZHWGlVcEN0ZF9vdm4tS1VILUNLN3I0b3FnTFc2UGpaa3ZhWWRMWXVtZFRiRThuTXRoSzVBVEd2OVNNZEdtQTVWaHU5MjBicFRTOHZhb0dTeVNURnJseWtpRTNsS0FndzJQblJlNGJXTm8?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:03:33Z",
+    "hash": "fb728b4b67d3b6ce20c9b72ab342e2f2b489142fa4d0434d4e276ea8f548cdf8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Alphabet (GOOGL) CEO Pichai nets shares after GSU vesting and tax withholding - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXVvQnNGRUdlTUN2bmRTSmVQV2c0WVV5c1dhWmxNeTNxYkZHR0xfQjVLSGJqRFBCWFNfWTFjQnpHZXR2XzhTOVBzV2pncC1EaDVsbHBxRmVVOThnSmhuNlE5WDQxbkZWSnVmWkdhRjJyTE9tbTR1UTVxcHJFQ1ppd1ZpT2k5Z2JrWXpkTmhjT2d3eEFZUGRacmk3T09WUWxJRWxWRWhNdXFWZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T02:03:32Z",
+    "hash": "5ba155cf8cece4a2a9f60f9fa42bbf3f87183a176675dd87a81eaa8f1ed01d0e",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD COMPANY (01211.HK) Rises 3% After Results; Nomura Optimistic on 2H Earnings Rebound - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90b1NYeGNsQ21fc282RG54Nl9udmJ2UC1aRG1UYkZ0SlY4WG02UkdSVVgtYTg4dW1Gb2hHb3V6cVJ2UGdHZ1VPcXhHRnNJOVBUampYMVZMSGhQZjh6VW82cW9kMUZ4MVZJOFQwQlVtRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:58:00Z",
+    "hash": "6e920d49a5f33377f1d9d19053b087e51cdc991e5592f994f0146e536eb00edc",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD COMPANY Mounts 3% Post-Results as Nomura Optimistic About 2H Results Rebound - AASTOCKS.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XNG14ckpUUDEydlh3cGxFN3BUdlpwY1E4U2pqWV94dGs5WlJWdEhlU25SdU5RRFVEcDFOWlBuc0NPOExoRzBWUnFQV3E5UWt0VHlxVUdDd21aZWNmbkozTWl2ZDRyb1ZuYlJpRDJaSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:58:00Z",
+    "hash": "72c7eecb23aed6862113ee994f09dced109d568991e874e45ba487b91bb86e90",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "NYSE Arca names XRP in crypto trust rule change, final call with U.S. SEC - 디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHN3bXZWbWJrQndPSVJQd2ZmV04xNGowQzk1N3lmUEs0MEVMZlhiMTRPVjgxN0xNR3hvLWdETDZKbFBOWWxkOUNvN3QyNkF4bExjUnVVb1NHSk9Pc095MEEzck1BLXRaRzJnQjZYWlBVMUVoSkUwc1dNeEJtQzkyaE01VzFndzlSWDcwVXVQTXlEN1FabEx4M1FqX2txRWFSdno0aHl6eWtYeExfeU5TX2doUDYxQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:52:37Z",
+    "hash": "bb5ea86e2ee42c1e5e7c79c1f4dec23d32c4687fdc1ac36206f29715c97ef905",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum’s Institutional Stampede Meets a May 12 Earnings Crossroads - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1p0VG5HQ0tYS0lTRnZjNnlGQ3AzX25uRkoyeS10VUMtUzA1VFF3eFh5S3IzYWFvdWdvTVdMdFlqYUN2WDRrVGg4VWlEQnFEcW5SUzdHNF9BYlpZc2ZRWDc4c2JTMkRKWHczNnR0WlA2bU5rc1Y5TEgxZkdkX2RpU3lCVXJ2OWhocy1hVnhvR0o1Slp1TWZRakl5cUN4eXd4OHJ0RjBlakQ4OWxFdDliN0tBQkpVQkRuQ1dqWkNZQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:41:01Z",
+    "hash": "a2988c62a25f757ffb90ce7f09a132bc027c0ce607826c9b7e188acb45ef20ef",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Why Nvidia, Not Alphabet, Is the Best Artificial Intelligence (AI) Stock to Own for the Expected $1.75 Trillion SpaceX IPO - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWG9CWmQwOXl3RWRqXy1EUGZ1bzQ0YVRMWlZFclRXcTIwT0NRalQyTVdmZ0Vtc2E5SXZuR2ItejBFbVozYUVWVTlLQmpOd2JJTUM5ZWdGWWVyenBRS2dDd1o5UW9PVVJYRHIxdnRsWHpVcEJPbWxYVWh6ejh5bnZicFlBRzJhQUZ1aGQ0NV9hbnZrU2dZR2pfeg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:36:55Z",
+    "hash": "28e99ee6024551f00e0e6cb0ba08416a970354bcd5d84a6bbf6e99ac140df07b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood misses on profit with $0.38 EPS as crypto revenue sinks 47% to $134 million - MEXC",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00UnNuQXVISlhlMXJfSVE1XzhwVFlDblQ5V05YRFRla3otc3VQc2xjWXRUc19mMkRGaF9XcnBzSnFqTzRLQkJ3Rw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:30:00Z",
+    "hash": "bf7385d29fb2a3bcb1bd5e09dac74ce3c457c3af097274eabee1f3fec75917f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "Ripple XRP",
+    "title": "Charles Hoskinson says Ripple should use some profits to buy back XRP - 디지털투데이",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWVyelcyZmRKMWJNZXYxdHFSaVktMUVlZmVQR1RMU2dUUHVkcmMzbzFYaXNnNmVFQnBDZlNfLW16anFFMXNEZkxfWl9fWTJPc1RrYUl0TVpOUmpnUFJKdkdNVldyVGU4X0dkSmdNOEZtS0tsNU9tamFpY1ZqRTBsWGRHVTItaUJwTDg4V1p6djZxSmNfR3NVNzB4N3duR3M2akJEQnVQYjRXSGN4NzNFenJ3djM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:26:31Z",
+    "hash": "d4af22df020a30a7e862e34e083611005e74895c2b4b64398dd2eb57e272cb2d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood's quarterly profit misses estimates on weak transaction revenue - The Edge Malaysia",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yTVJYbnE5YUdnQTV1RnNRV1pZcS1pRkphS2R4SVc0TlBWYWQzUkc5dzRCZTMzYUx0Q0NaaFFFcXB6RmVoTGl2UHlIM0tFNlFV?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T01:16:46Z",
+    "hash": "4fb8187af126d96fecc608553b2cc7189694e9518919e7e92597badabf03b2ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood's earnings report fell short of expectations, causing its stock price to plummet after-hours. - 富途牛牛",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkhHQzA1NGw1UlNVOEdrWW1RNzN5cm5iNHlacUNtaVFxUlN6SEZGaHlTZHJGQmUxMDdRRWprVVpXc0s4RXFrMDBDaWNFWmlSWERJN291bGN2RWZhMERTZzluZDNZU1hkeWhyRENJV0UyTjVqQm1LZXZaeGNxV2Zoa09iMTdkaC1VZk15UklaeUU2TUJlbjlxbG0xcHhpNTI2Y29pTGptVm13Q2s?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:54:45Z",
+    "hash": "808d69d5c05c34765aa65fa648daa377e2bd759172d9b633dd51bba7184647ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "NVIDIA stock upgraded from Hold/Accumulate to Buy Candidate after Tuesday trading session - StockInvest.us",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR0xDc0dsQl9XbnNBU3BvNFJqV2lIZDh2WWNSdmp6aTlEcDZLY3Z4OFpxRkY4QzBZaDFwR3Nyd09ZMnBKVGl2a2tWNkhWcDBIR2JQX3RLdmhLSUU5SGdRSk4zRm5ObzZudGxTU09NaDNOWXRPaVRZd1B0RllGVEdIbE5rM1lGNFRFdE1sYXZadGMxSS1OcFhCb1IxeHlXTGdocU9oY3FfQW5OX1QxMExvVjhuQ09BbzJHNFZhRm1haGxzcFFOZUhWUmdWN2NtQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:48:54Z",
+    "hash": "e89162732458f3927cfeca1c46c2beb3d66f4a3766832cfddd2c0b88a1035f3e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Q1 Earnings Show Prediction Markets Holding Strong as Rothera Exchange Nears Launch - DeFi Rate",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjJHRHJkSHB3V2F2clQya1RqTEJJUWN3RlpRa0luOWdWSnJFZDQzSThwSW10SmpjcEwzcmk3Smhxd3RybjVrQ2sybHdZUDYyaUxGbnFnS1pYM3B1MFV1MkZ6ZDZlZlBOMG1ybUNvamgwcUVVcUMzMG44dm9PQWw1dEp3U1g2V2hvRnliUnFZVTFkb2IyV051WDV0dlhxVll3Z0hQeEhZZEpzSkw3NFFIT0VwcEN3ODlsa1h4aQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:48:15Z",
+    "hash": "c59146efc37667a8fe75d60a680d7e5de4442210491dd6222aec7af6a205626f",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News Today: AlphaPepe Presale Hits $1M Raised as XRP Price Prediction Targets $13 - markets.businessinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMVFZNnR1NkpGcEZLbTdWbmxUQW56RThyLXptcXZqQXRRUTdIalZSWjR6LWlTUXhBazB2emt0dDJIblNKN05ESnZ0VzJpRjNRVUpUZjg2MncyRklDQjdjWkxuQ0F0ek9MTTVvb1FleHIzSjV0cVlmM2xhY2VTR25UVWdIb25mbGtTLWd0dmhwdUt0NGdCX3UtdGltN3FkdE1YVktEOG9qMkR2NDJvbFJoN1d1WE9iOUdLa0dISXZueFMxNjNMaXZSQW1adGQ2TTRuNWdic1pvSWJERWlD?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:39:00Z",
+    "hash": "c37c9d46e0241c05d41e7dc1abcabe337b9f118fb6ecde9a3151c0c9afbd36d0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Crypto ETFs: Bitcoin Inflows Streak Ends With $263M Outflow, BTC Price To Drop? - The Coin Republic",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmFnVWV3RVRVRk4weG5TZDBJZ3RZSW1lMXljMk9MR1RaYkhsdnFfMncxSGNVdjRFOVZza1JCNHhMR2FwTC1SQUlrMlRBQzFONlFEekFqajExLWtWd21iUGFJODhwMGlsVEw0WTFHcHhIRnROaVhmNS1tU1JhVF8wb3pXR0s5dU5mTzJQU3VUQ2UxeTE1OHhHTE52TXFZVFdhbVF0YVFhU3Q5clc0eXNxQjFqbDdxVEtXbjZr0gHAAUFVX3lxTFBVV0tyR2V1aVRaVUZpR205alc5Z2RGMGd1cVBRVVdGUTR0YlpGRm1qSGlBNEpWbjNqb2NEX1MyOFVjUVFTSkpEZkttWnh5THJEWjNaTzl6bDZmNERLV05wYmxsUktueUtKNEtGUlVxMDN6OHFDWmNSNTVKakdYekt2Wkw3X2dKemxwa0toSkdTRzNkd0x0T3hSMTdYWHRYWHlzRjV1R2VMSm1lVkxDWWZrR3h1SHFCeTNHbEpDZnRsaQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:30:00Z",
+    "hash": "08a369374988ddcf6b4d9ed12d950c72a474c683a2cfa2220bdf7bf57f23871f",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CrowdStrike",
+    "title": "A Look At CrowdStrike Holdings (CRWD) Valuation After Mizuho Upgrade And AI Security Product Momentum - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3piZ01DYzZ6cXlHM2FZbXF1aU8wZWhQSUFQOGV4N25MU3NJZTJyVy10TGV2SjlQOTkwTHRXeVEyMjBSNjJvRmFHeFRBMWlrZnRqc1NJd3VPTzFSQ1M1MzNBNGRORFVZSkFrOGVSMHpjZW16cDdMWkJRc3pDUFV3SlpXMW1rVnpnc3FkUFltU1VaSVlKclh1d0ZqLXJqR3ZzLTlIOUhUcS11MUhFOGJBOGRFWTlKQWE1bW5TTkZGR1pYSm51RC10eDFHVElfRmktdDc3Nmp30gHbAUFVX3lxTFBJRVZMdWwtalpYOGFrT1VDVXhVR0N2aXdTenQxSVRyQ3p3S2hvb3ZWYmlHdGxFZVlkNlBUeVR3VnVDRkR1X0xzTDZxTFpHUHM0U3JDeEtkblJjOXFLd0FiSFpBSFVESXpVMmRIM2NZYnkzUGtweVhCM0RsUi0yLW00RnhEaFR1akVyQU4xdmJSdVdIQTNSaDNhellXbTZnRThTWDdBWm5yQzIxcnp2cExQQkxJZkpkRkg2RUlHUHRRTFBHYjltRnI3bXJMb1FRTE9mMi1sVlZESzhVNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:29:42Z",
+    "hash": "18608965664ac2a8d3f7ffe22b65a013b126922af48895576265abe552aa1a9d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Crypto Fueled Robinhood’s Rise. Its Collapse Is Reshaping the Business - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGFxUEMzOUIwUGxldW5vQkZhUVBzVk4tM0xjbll1akdfb3VsREJ2N3RrOFVZb3diLWhweVFlYlpCU3pmckdlU2kxemdxRk1TbnkyeEJUMnNIM0JOUGZDNGpaOGJVbHdPTFBrTGwyVjRha3MxOEc1Q0hkbHlSVFdXRHV3SndYNXE0S0liR05Ea3hlekI2aDR6M2RBWm1VYVJReVNoY0QwcXdKdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:26:17Z",
+    "hash": "996218aaa2a9948dacf41333e805713f95e7e0cf941ee6b4533a27ef7f524834",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD sees profit plummet 55.4% in the first quarter of 2026 and revenue fall 11.8%, increasing pressure from Chinese competition and weakness in the domestic market while betting on exports, ultra-fast charging, and luxury SUVs to respond. - CPG Click Petróleo e Gás",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOSlk0RnNNMDlEOGxCWUMxQV9CVjR1UDFNcEdHTVJZTnBYcjBleHo2dm9fVm1iN3dNUHpxOWlFbUE2c0NTa25fWDU1a0p4b21BTjZnRjAyaW1UOGl2al9nSDlFck8yOUFUb05DdWliX2VuVmkzYU1BR1FveFUxcE1pYVFJeXZ5SEFndEh4S1Q2UUVCUGc3alRVcXBPTmxpb3owWjVRbmpiSlhRdU9sTG9vMGNvRXlYUk9NWU5yYjRSWXhQUnpkNFJOa2VRbUdnTThtNG1Jd3NIbXFYNzJKbWQ3eXVtNnd6aHh1aDlXRHdKOXpNQXZFMjZjc3RVT0VPenU5T21vVTcyWW1tdUQ2Qi10cg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:23:00Z",
+    "hash": "2a30691abad33a1bed3a5ff2d5800f1adda66119decc76b0abc4edbe49901555",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Bitmine’s Ethereum Accumulation Signals A New Corporate Playbook - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96Ym1hdThPbjFubHdjdHpMcjZ6aS0taHFMTkRqWUtOVWxYMVgyNUx5S2pabXZzOHNJSTVoV0ZRVzJZSUtwYm5PQnFiVGdUT1ZyZUx3V1JMNkYwV3dKYWRXRlpkRmVQX2FJMkIzQV9QXy02dFQ4M0s0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-04-29T00:22:24Z",
+    "hash": "046df358ee83e026402f0414070c627078b99ef7c3c2c557a905d02787939322",
     "source": "gnews"
   }
 ]
