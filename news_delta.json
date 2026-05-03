@@ -1,112 +1,82 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price News: Pepeto's $9.2M Raise Sparks Buying as Traders Stay Optimistic While BTC and ETH Slide - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNczhHWk82blpLV1RTaElJem9veHk3OEhtMXQ5bVVON3cyeFFmX3VMV0RoZVoyZ1lBVlFaYjA3aUlaYTg5SEttWnlUSW50U3NrNEtmbTdERUVkaUU2VnVfM1pOMXk1cm9FdnRBWkc4VGNvQnZ4MVUySWhzRWVMWUZ3MklPZUdLZGdqWDd5Sjhid2R6TGtTX0p5SjR5VQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:47:26Z",
-    "hash": "84e8f2bd6bfe98d09b0cd4fe74c21e2487328979cbb8151749fbf4c0c0894901",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Prediction: It's Not Too Late to Buy Alphabet Stock as Revenue Surges - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1dIQS03bEtiNTB6NWJGNndpM0x1OVEzNTFHWHZDUVlCcWxZVzhtLXNPSlA0TkVLVktXbHVoSmthbXY1NUxYb2ZySzRjWHZZcnkyUm9MMlhLbXJCR1lvcWIzaUlZOHdrUzVSTXJ3cW52ZWZBakpJZ204Q0dyajg0TDZ5QkR2NjlKQnpzM1ByNEpDYjJlaFZR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:35:04Z",
-    "hash": "648260a4f65f10b286d48f1e8211b16c0a3bedbfc4197e801b9f1ded77eddffa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Robert Dunlap Sentenced To 23 Years For Meta 1 Coin Crypto Scam - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGU3aWg4RjNmUVhPeDRsb29ISlNFV0tjRFBjSXJnYXhjVnhGUkE4M2tQVVc1QUk3bGxMVUhvN2h5NWlVY3ZFb2hsVkhOZmJNSXVDZFVoRVpsUFdJeFRUaGt6b21abVREN0ZDWDNuU1lpaVNRWHU5Vlk3Z0p1MGxOTWFwOTBuNVRRVnAtZUdoN3hIck0tVllrRC1iZkR2X1QzcVN2V214QTJSZktaWV94U1Q2VDZWZ0tD?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:30:51Z",
-    "hash": "36583b97da0b384ad818ac6799380a8f3316944ee600bcf8e88a2964169f1087",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Bitmine Acquires 10,000 ETH from Ethereum Foundation Amid Concerns - Intellectia AI",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTFc4X1pkMnI3ZWdkZWo4MTMxVkEyaXFQUER6Vktta0JnZzB1WlhoQkE3U2xnZlZ4UThXMV9JRzVTa0FmbHdxWVZ4bXRXSlhkUDdKYjI4M0h1WHBOVXF0YWJiWjBFWkg0TWdlYTItWmZCRlZnUXotbUN0dWNNVE16WTdCSDdLUW42SjY1WFBqQmlqdG5WNFFwM3V2bXlDb0dleVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:18:01Z",
-    "hash": "b6eeff66976777ca2eb1622ede0f2fde7e6ca819f7f2f63db7aec31e96757256",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Whales Accumulate 140000 Ethereum as ETH Buying Spree Gains Momentum - MEXC Exchange",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sWDdqaUIxS2VKUk9EZFFfWThkR0s4eTQzdmpwVUxiWTEwMmZxSFc3U0pTV29hMWhOdlc4UlJrLUNTNVBIZURDQ1RSTk9lbWs?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:12:04Z",
-    "hash": "29b066dc518a0ea9679c0925c8a0f0b49766c85b237e05a283c24de0ada59bb5",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Is Losing Ground to USD and Crashing Against BTC: Ripple Price Analysis - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNczdDeUJtU3Q3MmxiRmh5VTNKb2ZCeFdtZTBHMk5YRTl4QVNVNDlvV1dReHFQTEFDNEFDTjZiX1h4eEJYNm5VX2xlRzBta2poNmx6XzNqSTdHcGtFOGx4S19iLWtuZzc0bXJCY256TWQzSWlQVnJCMEVoWmxJV1pES0hLWDdkbTlxamZtaFpfWFRUNmNQRlpTOEdON0MwOVRValE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:08:00Z",
-    "hash": "3a95b765105c7d95c595a6548772b83bb59550c63027cad2ffb40193193dee69",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Analysis: $2.4K Remains ETH’s Biggest Barrier - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmNlZHpKbHhZYXN0SnJvcVl5SlBmOVZWOHY2QTV1b21wZUZQQ29qVzRZQjIxY0FzLXhOOWZJNHVNZ2htT3huaDNXelk5ZVhkY1FRbG9WYmNEaTlLOUNMbklBSFlXVFZNRnJTaVZPaEVZOEFyVmRZbjI5aWJWcTRZNmpUVThPNzV3MUIw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:04:00Z",
-    "hash": "32a780a067961563c152773056e11e229a996133d5dd8564c1ff794db7522248",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Investors Edge Back Into Canary XRP ETF Despite Sell Signal on XRP - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWNyYWctcHRuQ3pGZHpDOGg5WEYzejlKM2h2QVMtcURFWjZKOFU4Zlc2QW5PbkFuSnF0aEhNVHdtU0dqbFhUTGNPcml1STdoYVhnME9iczVWMnZ4Ym9OY0JCUUkwNlEzOUlHb0FZdXF0NTVaTGc0XzlGZDMtZldMaXpfSV9VNFBLODZydzRMQTlvZWNpWVJQVERNQ2pkNDk1eW51VFByaDNMQUhxZDN0ZTlrdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-05-03T15:03:58Z",
-    "hash": "ca7607f79753a0ee4dec518ab6bc664a43c9aabf163dd6ae984ea19ef0228d7d",
-    "source": "gnews"
-  },
-  {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Nvidia’s $1 million problem is getting worse in China - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTJQbFVaMFc2ckN6Z3F2cnlHdjVPTURvR1VsUjRvbVJxa3RUT2FsT0NUUVhpUU9yMVdicF9QUHFpVF9iNUViWDg1MmxJNkpzU3VOMmpoT3RZRXdfLVg5Qm13M0U0MkJuOTdudVlvZXVfZEprVWlHUWJ1Tlh5QlhtNlg0QmtyTkk0YjdWS1hn?oc=5",
+    "title": "Jensen Huang Just Announced Something Big. Here's What It Means for Nvidia Stock. - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHNQRWZiWUxiVi1HSVoyZ01mUFN3bS1BX1hpck9BaHNaN0RTVW9NdFFiODQwdHBKVWZWZzdheWtydkNBaFdKMUpXVmlHOW9ZX3hNSmwxNTgtSm9kOXloeDVFUG13YW0xMmw2eTh6Vlg5YWgyNGk0Q1RGQjdoaS1mWkp1eEhIUkRhY1R3WGtVc1BrdW8tT0dBT2dubDJrQXBDNFpvaW5WLU1CcHZISVhQVnBkYl92S3gxdnMwTXpGRndSNVZBdmFSNlN6UEV0Y182T3BrdmstTkRDTWFTOHhwSklwZ2VhYzMxajNvaVhvZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-05-03T15:03:00Z",
-    "hash": "23540e218b36bd0ad3e6b2bbc9b098c553194b689465f37e7fdd46f48785e20b",
+    "published_at_utc": "2026-05-03T16:55:01Z",
+    "hash": "ddb486dbaef151febdf759394804d7d7163b78c6221a0bfd8d21ce2a5d57e468",
     "source": "gnews"
   },
   {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall Faces a Pivotal Week as Record Orders Fail to Lift a Sagging Share Price - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUFaVVNOS0pIZUdobzM0R09BX1E4d25ySDF0QlBGbEpBZGV1OGdaYXUxdzE2Z21KZkc0ZVRlS09KcUJUb0tKN1V3eHcyc2lxY0Q0VHlQVjBWaEZIVmtNTWNUSDFnSkgxYlhwVjF4ckVOMGhhLU9DRi1uVDFfOXRfTXg0OW8tdG5uZVkwajM4eFZpR2g1V2ZUbVZLUDlOaFJKVFJ2bGY0QXNNZ1h4UDA2emd5bmJ0bmhPX011cHdtM29UWGJDUk1IZDllNA?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Circle mints $750M USDC on Solana as capital shifts from Ethereum - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYmEzbTlhU3JQX0RvajRZMDVOcVZ0UGtlM2pJZy1YVTlON1FfMUV2X0N6Tl9tQURqOUw5LUZjQmk4UXZzZVBxMGItbkFKVTJjUldTdkRZdHYwMUtscFYwakI3OVJnbnFmX1lQWmQ4NjVnMjF1VVN4Si1HQjV0Sy1ZNTJIYmdKUGhqRlhqVG1rMjk5YzlFSVNn?oc=5",
     "summary": "",
-    "published_at_utc": "2026-05-03T15:01:17Z",
-    "hash": "4b17d897dd7f10546f6a98e3695bf54cb598d9f886a9a47ed9271550d7ed0493",
+    "published_at_utc": "2026-05-03T16:43:18Z",
+    "hash": "531c6178221cae2badd51417cafeef0d4b28243daaa7e95fc804c3f88a98c987",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum News: Trader Turns 3 ETH Into $1.27M as ETH Tests Key Levels - The Coin Republic",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGl1QnA4RGFfYndOUDExRFdfdnN6RGQyV1JZLUplY192Z0R6aThYeFRhSkFCYThBQkpJSEg1VEpPTm5fZC1xZ0YzQlB3c3FPN2lNSGVDb3RzUjY1NUNIdXQwTGpieUZSamlxVS15NUt2NXJsXzJacGdYdm9zNVFSX0pZWjMtZTBvMnB1cnRiWU9PZ1J3aG9kYmJzRGFVTEJtZHdwY1ZQcHNaaEI3X3BmOdIBtgFBVV95cUxNTkhNMGFjbkFXVHF6Wm5WS0VseHV1ak1NMTRoMWM4U1RncjhMUHpiZE5DVEN6YlBCUWJPZTN3a194MEpQYjN5dklLSHJWekFnU1BvWDUxMnRTYkhtYmg1eTZjaFRpdHRNN3FnaUgzOXNiNnVhYlRCemFoUFhPTUg3M3hKM1d6d3BsTFVWWUZZYUVITkdXT1ZCOG1HUTNobVJxY1AwZFNhU3FOaHVvMHZubFNRaGlXZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-05-03T16:35:59Z",
+    "hash": "1ac04fae5aa21931b5d6d4f638989d724449a68687d9005b3e3abc4629214e88",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP News: XRP Stuck Near $1.39 Despite Las Vegas Hype as AlphaPepe Races Toward x100 Gains - openPR.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNWVmTWppdHhrbkc0b1hWYThCY0hiQWJPRmdCYjBaaVJWTDZ2b2piUVpGbWZwRXRMZVFMMHRtV0dYTVJxQ2xnSDMxZWxnUExRTldobGcxNFNNWEVHTzdPNzNteTR1V1hKVHp4cFhITzBRV2ExSXhaRHljaW1ZWm4xbm9FamRIc1BCMDlBcDJyVGRCZXJLMTlXQmI2UElUZHhTNFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-05-03T16:27:11Z",
+    "hash": "0f192425d5b0e130581b389e7185ad6d484236b7edefb3fcf971cb97e7986103",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Was Bitcoin’s April Surge Speculative or Structural? CryptoQuant Offers Insights - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkVBajdwWmVGM0JPUkNZaWtYZThmUS1CQmNPQ1pCbno1QTBKemt4alp0NU9Ka1JFaDRPVVk0RmJfYVl3RjlhNHdsZlBVaVRMelc5MlJjQzNCNEFaY1hkWlFubk0xOG1DbE5JZGZ6dEtxdU5tUW5zX0lGdjF5VWNiaHc5VTQ2Z3FIT2xBRjF1Z09PZUpQeG1zRy1YUVRpcGlkcHF2WTBzWQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-05-03T16:16:00Z",
+    "hash": "8c441030f5f0a6da70cc5673aa0ffc914387d94ee6d73f24cc2953530ece761a",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase launches CUSHY fund, boosting institutional crypto interest - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmlBMFo2QkNGSXZlcWRUbHIxVnZ0QzRYNHk2Ym1zRzBDczV4OVRtd2UzTTl3aG1WcGVXNkhPbGFwWU9nRjFuNTU3cmpBS2tidUF0Y0N1WmpsRjJiWUtMbUVSZ3hNRE1lUThUbUc5bXA4Z3VwaVZfSWRYWUQtbWlPeXhrMVFabENCUDhRcUhLdGppcFZ1VVFXRGFvSQ?oc=5",
+    "title": "Coinbase Chief Policy Officer Says Prediction Markets Are ‘Maturing’, As Firms Line Up On CFTC Rules - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTDBuMWtOT0hzLTJWTTlCbXVUUEZGYkp2LWEyZjlkUmxlLXgtcWtYZDVXb3pBV2VFMThvcThwVTI2UkNnOEIwMTZEeE1wVVc4UDM5aExiR3pQY0U4RWg1VnZMVTNGZDA0MnF1dEdxLXpDeE5yVkxIS3U2ZkRXaWlmTV94Nk0zR1JZVk1zelFzSjNtOGVXelpIc0pORjdhQnRDeE13b2FRWWpDQ19xOWVoMm5qVkcxWlI5aXFUQ3VYTjBEQVIycDRWQ0drNzNvNkxvdFZwd3dFZzNYazVydlJ1c0cyQTZRWEZGV0pVZU94WGVSVVk?oc=5",
     "summary": "",
-    "published_at_utc": "2026-05-03T15:00:39Z",
-    "hash": "5e9d796d9305cc87712a3a65183c8e205351d77d5b2058e511a8e78b83aa9b29",
+    "published_at_utc": "2026-05-03T16:11:00Z",
+    "hash": "05904e8dee002f04831199b63c87079bd8b50700f50f258a10f2ce2354a24484",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP: The Possibility of Becoming a Millionaire in 2026 - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGVwSEkySWJyMzFiZUtIeVk5TGpWS0ZaUUJJMnFIOF9mLXFmQThTY0RCV1EydnJmNGxPTEJObWZseGxQcXlzZ25sM1ZTZGZTNzZfbHJxT3VQWjhpTVBxSG04YmZRYkRkYUxPcHMtRmYzWEZGVkhkMmE0bmptd3FmX0tiMGRPWHFPM3NmUmVlQUk0Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-05-03T16:06:03Z",
+    "hash": "0e49bf6029030df7577ea5a360dd5f450fd9723bfe0067eda138a1b01f7d30f6",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Las Vegas: When AI Becomes the Weapon of Choice for Crypto Scammers - Cointribune",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1BPZm5uMk0zc1Ixd1ZUeGI1M3BDUWVDSG5uNURqQ21HbzlDbFVQdmZjUDhERjhhU3UyeXpIVXNIMUl1eFZQbmNjZzZEZy1PYzBwbVE0dzdHWlgyNHlwVG9paEJETGt0bGROM2ZtWlZYVkZ1T25GREp6SDU2WFFSanUtbXNuWjRUd1BpTHZycEpqMnBrTFU5THNaMmtZQXN4NWpMSDJDaWlsVUkwRHdWMlVvVkw4cXRiZ0NIQU9YSkMtU1duNDJqV3VjZmZONnpfN3pPMEZB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-05-03T16:05:00Z",
+    "hash": "0d4a2d9922c579b94ddcb8e155eb1fa44971812978666ff00268d68ef2f2d649",
     "source": "gnews"
   }
 ]
