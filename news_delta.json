@@ -1,102 +1,82 @@
 [
   {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Does Google Stock Have More Upside? - Trefis",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHo2RWN0b1lwOGV4Z3hDSXpDU2ppUVdSbXI5ZEtKTGZKYncySkZHMEF2b1FYOUo3WFBVUW9KcmJ2amNmUkNMb3NER21hVUFONGNkLVhMSUk3ZUMycmZRcjloSGR4U3FRX0tjTmNpcHM2TUNfdzg4SWhkeUdfbGZBMHFHTGFzMWxXVGFVZjBfRVBvSFVUR3YwOGltYlU?oc=5",
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy’s Record Backlog Creates a Four-Year Wait — and a Test for German Infrastructure - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTNUMThRMmlYa0hyZDFqZXd4RnNaS0oxNUdNYTR6Z0hEd2h1UW40OVlFdTIxLURtN055VmFia3RmM19JM0xEakFjaVVyYWotRVZtb0hONHZOdkxoZnVZMHZuOVI0bk4wZFhxOGoxN0loQ2VJNXZWVXROQkw3RkFUZGJzOVc4V0k0d0I1elhkTkVaZ1ZMX0N4QXhVN2tsdkxkRFpBbklqU0ZoSmhQR3FrYy1INlZ3UllacWoyMlk3VnY0dE5n?oc=5",
     "summary": "",
-    "published_at_utc": "2026-06-12T23:07:56Z",
-    "hash": "83cb227e714a4ccd9baa211b1e45940b040e488f6a0f0c2ffd59b71cbed847fa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC-USD",
-    "title": "Clarity Act by July 4 paints \"green forest\" for Bitcoin—but are bears still patrolling? - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzBCdi1oZllrUzFJRW1hbllqcE9PX1VDNldLblFQc1RmRElubmxNemdpRXZHVTJfRDhaVndpNXNVbjdKU01wX1lnU0xxTlROQTZ0b3BuZy1CYnRab2xxQUdCUEhWV244c2pIc201ZWFUcU1LVF9LMS0xTTktRktaZU9rR0JjVWIzdzVLMzY4QnRtN0NMdjRjZ2diNndjRlZzd3l3azlQQUhadzlxb2U3Tm0wNldZQVZPWUNwdGxwVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:56:25Z",
-    "hash": "a6e0f36be224c298c712cc38ed6bf6d32b35779fc88e224a749d3c68e90fd19f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google Publishes Tennessee Search \"Blacklist\" Guidance - Search Engine Journal",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjlkSWY1VGpINnk5cllZazFLOWJfQUQ0dUFBUjV2TjRzNTFBRzREWUtDNVZPZmRkWVFmeER5WEJvXzZtcEgzbjM3eVdmY3haNER4LUV0LXl0QlYtc0xxTHpwUGRJS2oyak9wQkI2TDJVeGpSTzNra0x1dUx6RWk1aW53S0dITGo0V0VoY2JJeFRHcXFvMTVUejJhSzk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:52:58Z",
-    "hash": "76f17083df55017558f67dbb3eb5b5f21c980de43573b29d2aa0ffbf1697f4a2",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth (UNH) Settles FTC Allegations Over Insulin Pricing Practices - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ19fTjRCeUFYU0JPWWV4R21BU3ROUHBxQjhmVF9adG1kcDBJNEtVZzNlbTBMWmRraWtjazFhb1ZRTkJfY1g3NkRkNzdBZVNBQVhzSFljSUx0MWpCRVdOZldpNkl5Z2s3ZUtkSDRNX2RYU3NIZWJPVXluYzZmY0RHdnZ3YmxuUXpvM1pQQ2Y3S0N6bl9hVzNXd09UcEdTLXZfQUppVE1oRlZpUEFRcDhr?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:51:12Z",
-    "hash": "756c6aae94844f7ccec9b983f53bdd678c17e8ee94843677ef7287d98361f48c",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Is XRP About to Bounce? XRP FUD Just Hit the Same Low That Sparked a 50% Rally - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQblVNckxqU1VCd0NlWnRJR3E2TFNOVGxzWmhBdUhoemFjdW9NUl9kdnd6a1VERzVnWnJXNVk1dDAwMllIbFBoUGpjM0JmOFdveC1LNk1ZVWpzUkNNeElGbXVQU3k2NGpidzhUOVBLUEtUMnJNdFVfVy01N2N1S1NKVUdidHoyZ2JTTG9lRkFkTGF0cFlic2hZQloxZzctWEotT3NneGpQZXlQUGRoYjNNUkNJUEpMQ3BWSW1TdkVJY1Y5Wl9IM0dhd0lYVk81dUdO?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:49:52Z",
-    "hash": "ea6109463a559808a6819d8ffa135430c16e1ab44b026b75338b10ff0732ff44",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood (HOOD) Stock Analysis | Market Reaction & Support Levels Today Ben Shelton (oCruoD6sEO) - Fathom Journal",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RODFCNC00RzN4Rzh3eVFFTVZvWWozOHJkblhFdWVXTWhrU0NQNjYtM3FQT1Myb0dnMG5sXzRVX0pmUkJ0QWRPMVNTamc4bEEtcUp1cDQ3LVlyY3QtRVg0bmVQcVM?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:49:40Z",
-    "hash": "0f1e49d7509832f02cd9102303926244b59f05413af35efc0585fe2dce97c2b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "D-Wave Quantum",
-    "title": "D-Wave Quantum (NYSE: QBTS) Faces Valuation Debate As $884 Million Cash Position Meets $368 Million In Losses - foreignpolicyjournal.com",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY3VpMnlfZUl1WXd0eHpHUk5USnBmci1Cemx0Qlk2Q0ZrQ1VVdXpzek1qeDBmR3V0S0lVd0htamVLdnRjVjA4VElwSUhrNmJzUFA1UG5nYW5RMzRsVlF3elNEZHBDNVVwZnRoMi1Ta00xdDdBNWJmdEo2ZXdHZjF0LW55QVhJNnc4RE15UTBqY2RUMHg2V0JqdzVXODRKVFJvMzNRNHhjTkdJSEl5QzlVcXFxdnRXWkItWGZtVlpvUm4tOEVqTFcwdEJoY29tNFE4YkN5TVRFVjdFOHpmRGJhb1dJa2xUcWw0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:45:00Z",
-    "hash": "e6b9f7ffba7ec921794549b7ab4f60dea020ca3d26aa93526aabd433032b23c2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Drops to 2026 Low Near $1.12 as Impulse Pattern, ETF Inflows, and CLARITY Act Signal Recovery Toward $3 - Memeburn",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQczltRzNnU0hiejQtVE90QTRmdXJLNHMyT0RjWjZMRmFEbzNjX01qSThzeTNUekdSZUFYMS1QV3F4UXQ5cS1kN1F2UXlUWk9vYmZnb3JvR05Zdk1Wc1Y1OFN4ODlkc1M4eU1Z?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:33:33Z",
-    "hash": "b14313522cb57644967dc4e5e3f33efce14867627014f1d9ab94e9c952ac1ddf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab Corporation (RKLB) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ1BSSGw0N1g2SVlLTVVETm9aal9sZ2VWSm1UZ0pNU3ItdUtnYjZwcktQak9fajJ2dUFsdDF1YVZBZnZ5V1A3dlN6WXp4S1dySmx1ZEk5bTVaeUtfaXBnZ3Foa012V3dfREVQT0JJU3lEWWNWWXdSekRZaTZKeV93OTBITXBOVnRwTUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-06-12T22:15:02Z",
-    "hash": "08c44f391c860a07d01edca698934355f45cacf784eaa51d2ba012c18a18d8f1",
+    "published_at_utc": "2026-06-13T04:04:53Z",
+    "hash": "351421a715ab59c08b63e1fed55562015ae211566d5c9a0a8c7e0ca50ceb4584",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "NVIDIA’s China Vera CPU Launch Tests AI Growth And Valuation Story - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnE5bWJuLWUyb1VSYzRWa0pDTUw4RHRzRUxxbk1lZmpFZkhyVkRfS2hfOUpvQVJ0Tl9yLWJwTjhUYTl5d3hjZUJoOGM2bDRhTDNqQjRhUks1V1g0aXBOUVNpbGtDZG1kbEhmQ2ZDUExQTkx2bW1iZ3Rra3ExN0RXVHlBNXY1TFF1ZzVaS3ozbjFpYTJQbjBVVg?oc=5",
+    "title": "What Coherent (COHR)'s NVIDIA AI Datacenter Deal and Indium Phosphide Pivot Mean For Shareholders - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkhlcVdtMF8wUzhXb1N5WVRfTjVGaTBNNHN1MC1QME1FTmpDSzFpU0lkeDh2YWYwbG8yemNiaUh0SEtnNU81U2sxY2RkT1pqSHVNN3VQTmJKRUJEQWE4TlY3SS1mYmJIVDVTOFdFR19NajU2Mm40aHRmbDBvN0h3czFJck53SDRPYWg3QzRTaWY0WWJaTGRHNzIyRVhNQUM1eGZUSUF4NFJVcVZLVE1ISXRaelFtOWg4N0hDclBB0gHDAUFVX3lxTE9PcWtoeHRjWkU5cldBLXNVUnN0dTZFUFd4NlVoWGxpM3RoSmpiV2xFYzZXWGxkNWFqWHFRaXU3UWlqNHhTOVFxZjBkSG5KX2h2NWRvVFZQdV9yTHduVVgwdnMxUzBka2JyamswSUtyc3RFRkV0Qm8yWTZibkV5eXNWUjVVSkxxd0kxVEdqMlRFNEtlOEM3QV9UVlJSZnUyZkFkMFdhbUNYM292RVc0MjhjTFpldndidi0zaEppbkJFNnRzMA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-06-12T22:14:17Z",
-    "hash": "e28dd657fcabef775ca5163613e774df26be292afd612e5826d5c9c34645275e",
+    "published_at_utc": "2026-06-13T03:45:05Z",
+    "hash": "521b91e95f317e9e8048317d17c058610a6a0202e252a658df662f11b2b5b6f0",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "Is BYD Electronic (SEHK:285) Quietly Reframing Its Governance Story With New Independent Directors? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV2dfZW0waGVhcVhvY0F0UHVVQkJCWHA1ZElnMTJRRjItTEMzMHE4QVptMFJTXzFtejNIWk9xUkRNZXdPR3VSU2hEUFNZYU00ZVV1ZVFqa25uWlNFdXhkVzN2T0VqSFJZT2JOX3JleGtBNUlDS2pieGR3RkQxSWl5bWNEY2NQUXltc1VqUl9DdGE0OE5pckM2U05BMjE5eHZXSXRGREp1eHZ2aXNETkY2ODN4RGZpMEhqV0tYc2FJdzBlUHViLTVfcmtOQ1lwOUNQTHFQYVFkblJKUTlWeWo40gHkAUFVX3lxTE1EckdXUnNIMlY1ZDMtNzNDMzhEbUtMT3VuRmJWbkpJd2NMUFZRdmpub2lxeHM3OXVVMGloRFpnc3JQUjFiT25pSmNvTXFwei0ycGpwdlpCZlU5VVVPZUU1VDlzc0FmbS1lQnljYXNXNFJ4eS1xVHdYekRKcy1JS3ItUWpfY1ZXalZyNlYtYkRXU2VKbW9CQ0RTRnQ1V1pnYXF3VExWRWVvVDdpUG5BdHdBQ3BNNk1iUFBkanZicjE1RS1jUDMzUVE3aDJudFZoSkVRM2s2R1YyWk1vU01GSkhFb05zdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-06-13T02:49:01Z",
+    "hash": "d3a5ff298004c45c7cf755c09173801b3e40a8fd8fd20767af86192971d90382",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Google",
+    "title": "CoreWeave, Nebius vs. AWS, Azure, Google Cloud: AI Cloud Investment Analysis - News and Statistics - IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM1Y0WnVMelNoWUFhVGFYc3pjamRxMXRGMlR2cGJIUVJSNE8wOE9fMnRSazhUT1pvVnNGYlljQWd3NkdBWXFNZ1Z3RTdrdDZvd0ROcFVNSTJhcVlaSVFjeDY5bVljVGxES2R0S0F0WkZGTDRDU1dPTXRlNHdBbl9rZDBhNjBjZzJQZkp6NFpvcXQwdkw2ZkFHSjRJVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-06-13T02:31:00Z",
+    "hash": "3936c6f9099c3e07ed58492a34c007151430c76494958d295b283685da2ccfdd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase eyes financial super app in next phase of expansion - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FWjRUbzNrV2JwdVgyWVo0bXEzbHV0YWx3cURmb0kxNDVtclRJbE1POUUySjFsSm5USlFFRjZ1cDd6ZFl5UHI5dGIxRHRRMFhTbHpvNjRONA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-06-13T00:46:16Z",
+    "hash": "a6ec2ea88dffb9190f6c7274fe3afde1cca5569a84d8a41541a3095df8950b22",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "SpaceX’s $75B IPO shatters records as retail rush strains Robinhood - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSWY5ZTduWDNONk4zUTExSDVaZEVnZF9jZVlRaG9KeVpSeFNzeXN1cmFNSHZhV29WbnlJUVExOXpHLVEtaE9USlBPTVp1VmlMQkxnWmVSX1NUYXlUNmsxbWFkdENDZUVfQmpKUEhXb0I0dTJvLXViRkRERlBENFJwNmNNZ2FFR1A4dWtnTVFDLVd6QjlieGd1RzJ4WVdyOXdwVUtiS09TMFB3b01kR21rczlsYVlGdDEzTjd1WTFXQS1PRmNLQVhGeWltX3pOWm9SZ2NvN2ZsTVZxWEtrRWFJ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-06-13T00:20:33Z",
+    "hash": "296c744e86e02747d3ce9d7bb984aea10626cf52ef12a75eec401b389c4b2e85",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab Shares Drop After Nasdaq-100 Inclusion, SpaceX Listing Hits Sector Valuations - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1hLRlpGNzBaOHllT0k2Q2ZiYTN4eXdrcXVLWmVPeXhYMFRuMEI2SE9rVVUyRVlGN0ZYUFVUTnVhOXVVd2tBbnFJb0FPdWdZSmt3d3hTakNpMk0yT3k5ZU40dmVRVHZVWGJoSkVCNHdEeUo0WndRRHhLNGhjck5OODd6MkpNOVhzbF8zVDdzNkdVVlR4UmVIaHozdS1mTUh5YnhjN3hxS2pBWlFu?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-06-12T23:52:09Z",
+    "hash": "0ed53d2656c4754576fbd6acf02d5acfbcfc5b1945edd2e352155d0eb9f31f4e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Coinbase Sets June 16 Date For Next Phase of ‘Everything Exchange’ Vison, COIN Stock Gains - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBMX0ZrVjhUbWV2b0lNdURRc1lsTTFtMmFGQWFwWWlFRzhWVjBXQncyN0x2V0V3NzFuVTBISzdqZHdFbHZmcEVvNi1IZnIyLXFNUk1oZE9Cbw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-06-12T23:36:38Z",
+    "hash": "42e0dde9a611ee9c141a29a5eda3616561b34aae91ded726837fe0257ff63585",
     "source": "gnews"
   }
 ]
