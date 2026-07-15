@@ -2,271 +2,81 @@
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase CEO Brian Armstrong Warns UK Stablecoin Limits Could Compromise London’s Financial Competitiveness - NewsCord",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT3V2TlVUcG8zRmZUWWJpdEtaWUVTeFhLV2NxMG01RkFwM0J4MzFSOFN4YVhOdmFNbjM2LTdVeFJWa0h3WEhrNXRfbUpVdldPdHBscmhRQUI0X2Ric2tBZmhaREw0blRza05DdEpJVUJ5NHpOSEY2MjFGYXNjSDJzWU5zRUNGUmpVNHB1RXZVMHRPcGZiLUZpQnVMTlRyQUVPM3N2MFZUUkdYNWNxSjBya2tfdm9SRFpxVjJQdW1ZdDNTclE5anJVVGJVMlVGUmZZZkZZcEhzNXI5WFdxVTJJT25lU3BUZGx3a2c?oc=5",
+    "title": "US Moves $288M in Seized Crypto to Coinbase - Briefs Finance",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFR6UjhDUEVUSUdKQlI2RG9Eb2pNRFg5SnV3Tzh6QUxHWWlOLWxQbDFEWXZhaHl6NXVKUnNlQ2xZNE5qcmRqVHhWaWZtMnROaUREbTlzUGlDbXFhQjZ2WXdGb0NtYTdfdnZZZzcwM25NQ1JUVk84M0t2dS02TE1zUEdBT2g2YXpiOU9XM0Z5dHVFQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-07-14T22:49:34Z",
-    "hash": "f40743c692a8f469d137496811cd2defb51513244c9527fb9aeaa1e3da663c04",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "$500M USDC minted on Solana, boosting liquidity and institutional confidence - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjlobEZhRXZfVXNzTDQxaTRweE5HenNQRlhmdVh4ejdZZkQ3YlBycDJtWEpRVEd0THJqZzJtSV9XX3E4RzQ4ckN6MVRvVWs1ZXo2VTdDcU0zUWJPSG8tYnpkcFBqcV9jNmhESVJCNUhPQVBvek0wanVUaWRzNWZvQUlUZE9Mb2MzQXJucVV2MlJNcHROQjREdTVteHlydXhaU3BGeA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:35:57Z",
-    "hash": "81f9739b9b18e32d7c4977b5d706591c5ee8e6c0ebc173420f9a867c90c464dc",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Is FactSet’s AI Pact With Google Cloud and Buybacks Altering The Investment Case For FDS? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOXzVYRXM5Mk5VNUh1SzQzMV9SNU14YjRTVFhJcUp2ZHgtVFBXUUJPMFNvTUFqLVJTRW5kRmR5LUdOWC0zZTR6ZXFVNGxLX2kxandTVG8zVnlqNmJpX2x2d2w0YmluRlZZaFFFNnlpcFBlSFZuWnZibGVldW0wSW9BMUhIQ2Q4ZmhrM25PaEdjTXF2dXZGTm8yS1NTTXJoeExMRXdLWW5pakw1d1IwbTNxblR1dk9WRkRudFZpV0VLa3NCRlhtZ0VNZGo3MjJ3M2dMR1NnUHROcjE3SFVPLXBueXZ6bVcyRWZQ0gHuAUFVX3lxTFBuc0RkYWN2Q1hpTkVCcDg4Qkl5aG5xLU9DeG0tVUFRa25NcGItZDZpaDZRcm84ci1mbDZzT1o4Yzg4dTdHdFl4dHUxTzBjN244cUpMYk1uc0lEQ05zTHZXN3g1bkFHWVU2NEhYZTcwNlNTaGlweC1vU0p1cHFXcmVRQ1BvYks1TVpXZ3JWdXNrUUNqa1NNYWI5Smw4bkNjWjNNVVZ2VTN5Vnc0d1VEWlM1SWlXdWg5a1RLX2Q2alhhNEFLVllxMVJRZjlwX0FRazRQUWxKZGkxejhHbjFxeHlNSGdYREsyNnp2UlMyeFE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:35:45Z",
-    "hash": "fd4eb4503da5a16acecceec4b07b41bdde2af0b3e4e274bc9f971ea77b3e3cf5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Mining Declined In June - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVllxeTFCZDcyOFBpdkUwTlB2VGp2Y1lXVWZ0V2RjUXA0d1FMeWhtd0RyVUt3S1FLWEpFUjZkU3M4NGZ1YVBtXzN1d1NhOHBZVkJMemV4ejd5b3lGZmtXWjFhME9xXzhSX0FSbURjNlRTMjhWNklONFY3aGpCVVR6SVVGcEFydHEzZGFLRkZHOTY4Q2UyR2VEeA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:26:00Z",
-    "hash": "c90ffb5468a99e4dd70062b0deaac4bb6deffac1ee255c2321fc2aab264381d6",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP price at Jul 14, 2026 at 7pm EDT? Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlUwdzh4ODJjdFdUMXBKRGthal9SYU9wakVqeFNuaTdkenV4WVN6ZGdRUXNqNWFJcVJ0ajRhakxpZ2c4NXpqVzNHamY4aWwzMkUyeUwyLXJDZGdiM2syZ1c1ZmxnRHdRMTY1TTFsQmNPeU1TSWZBd1VUU3dTbGtRN3kxQzFaX19JV2FkNTRYeEt3THlTdEJjaEtZdkdkdUhzeUJaaVZRcGItdTFaUkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:20:31Z",
-    "hash": "47509d81f74ca9b9eb19d66d450c2061fc1bdd72d2dd239a0a2463ae484aa4a6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "XRP price at Jul 14, 2026 at 7pm EDT? Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlUwdzh4ODJjdFdUMXBKRGthal9SYU9wakVqeFNuaTdkenV4WVN6ZGdRUXNqNWFJcVJ0ajRhakxpZ2c4NXpqVzNHamY4aWwzMkUyeUwyLXJDZGdiM2syZ1c1ZmxnRHdRMTY1TTFsQmNPeU1TSWZBd1VUU3dTbGtRN3kxQzFaX19JV2FkNTRYeEt3THlTdEJjaEtZdkdkdUhzeUJaaVZRcGItdTFaUkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:20:31Z",
-    "hash": "47509d81f74ca9b9eb19d66d450c2061fc1bdd72d2dd239a0a2463ae484aa4a6",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Utility Debate Returns As Ripple Stablecoin Migration Plans Draw Attention - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUZCSlBzdFJxV3ZkOEF6ejFwaEFkaEpoUU5NSVFIcW5qSmF5bF94U2ltOHdfN2dmQWFqSnhCX2VTc09XZUFsdXUwVktDYXpkSnoyYUdtTzdEcVR4cUR2bFkycTZYY1FaT2R6TmhJUk5penZDM3RBM213MWRwWkJDR18zRW5HcDRYbzBrOXFVanp2cllkZWkxb1pFcEFNNEVIWjFtcVdZOFJsV0ltWnp2bnNFX0YyVW8?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:18:53Z",
-    "hash": "fbb7a1f4024a8086639f5110600841ac43c202b59dfc6c235f943c56c83da00c",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike Surged 12% on IBM's Collapse. This Is the Real Winner. - Money Morning",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlBDM0RrZE4zMlRGRm9oekhZMUlpbDdYSHBBUXNwMnd6cV9fZkpZLXlqMGFfTzNncnl1NVlnZTcyejcxaHJBS294X05kcjN1SGJQYmV5YzdFejVNRmxycUxrcXlnNGpkalVFMHktZTVyc1FOVTZtdnlBVW5nVXdqSmhoVXJoVU1VRVJwaVRydDloazh5QVR1a1F5cGJpZnM?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:17:10Z",
-    "hash": "29c3221209535bb4260bca2724c2baa5dd29f7e1e5187dcff66ce14bd378464d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer (PFE) Wins FDA Approval For First Platinum Free Bladder Cancer Regimen - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX0VfanBWa09RbVYxZkpqd1VLZGE5ellPdXB0YzYwYTNzcGpWTXhRbGhnYTlxVU9SLWNiUW00R3duVGw5QVU2TW9tSm1XaTVXMk5ZSWVjaFcxekpwdnduUWJPMW83TGJhTWJpZUdTRUx6WE5FRlpvYXhBRkdoekRubGxLUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:15:44Z",
-    "hash": "fa699f1de3ea33a0e80752ecf9f37fc16cffa92fabe2c3ce58dd709c76c63c27",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "CrowdStrike (CRWD) Stock Gets Fresh Attention After Russian Cyber Threat Warning - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUldwNnZnNVlhTEs4aktrNDh0Ml9iUzdlYk1manhsNUdUQ196QjcyQ3otakNiUFI5b3RsOEtZdHlfOTEweTRRXzlrbFE5Qm1xMWNWQzBYbU1IdkZMVnFEMjVfUm9RNUpMR1pKTF95MlF2SW5VRUloLXpRZDdHeWNkaGxLdzNMa2RCTXVRWVd2OG5nOGpXSWg1LUgzOVRJQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:14:55Z",
-    "hash": "623f73b35a324c76236cb677e612e59e61cc1eca0379cef201b3d7188d5b6129",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Blanch vs Tomic | Prediction Markets - Coinbase",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYmRIRFBmcmRRQ2lzRDQ5amdZRnZXSkhiUkZiVF9HTnN0bm1RRDNxbTJCVV9UQU5ISjN2X2ZTcWJfOFRfckZYcTBJNmJpSzl6TVJiMHZwMUxEd0d2Z0VLcmdlaDlfWC00YkFzcFQ4VUlPOW9YSEkzMUVFZnkzdEwyRkpTREJlMjh6QUFkb1FoSnFjS1BrTDdMY2h4ZmxBUWk2OEsxcmw1VU1WdXNSQ2p0Q210Mkt3dC14UUt3dGc2M1ZtSlRNQV9ZN291c0pjQ25VTlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:14:09Z",
-    "hash": "84af10866ececa1cb31b0072d75e8a0d554bf21831b4b661da50394e9cb889e8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "ETH price on Jul 14, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXdBVGVoMGVZMm15TDJzVXUwTjJObkZ3QWhUdzRpcGx6X1dIal9WV2tMVGxhSmtPQ2x6S2ZQTVhNLVB4eTBhVDJOLTFlZlE0QmxlSGFPRFNjNGtLVTBuOW55SWUxM3hxZHBFaUlhU0NGWkdNZTdPTi1fY2tXam1SNUliZ1VBLXNpUHVMZVlsSHU0c1MtM3ZJVXM4enVKQlJzOU5LZ2tzZVZ5a0dla2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:12:31Z",
-    "hash": "bef97aa633d9a370721733ef5e17ac747bf15b998c7db1bda4cc033f3c12dfd7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "BTC price on Jul 14, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVdteExVTWowX1lEemt2bmNfSWk4LWMyMExCM3pHa0I3Q05aeEJEc0oxU1ExMFI1dXktN2JmOUtxTnowMlg0aG91U21rSGw4WnFOQWdFcEpoQTRrWDNzWFVYTGRUZFgzTy1zSWwyQmE1Tl9BVDNrd1I0VXBRVzBKcDg2d1FleGRoVzhsdmdiaHpMblVaVXZhMDR2NzhJaGpUX0xQRmhVV3dKMzZfcmc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:12:31Z",
-    "hash": "616dcd83ab743edec86f9f2a0afa6a79640dcbfe4c2d4be16e97490fccb46606",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase enables Mainland China users to register with national ID and local address - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qQ0xWLVk3dU4wXzlZVllEQWJsMklSMVNJTnBjVnZWNVFnOG9VRnRzd3lldmloSFE2V2lWTl81UEFUOHp1c08xNFhBaGl1aUMxXzVpdElWRQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:12:15Z",
-    "hash": "88e620f97bfd00479cc85eb2790cf189aa05e66d960cb123837f3a897463fa93",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "Missed CRWD’s Rally? This ETF Paid 29% in the Same Six Months - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJbWJCbGlmajI1bjh2dTRlR0pTVVRlMjh4TVFUU2w4Nmh6cmZ5OXA0Ql9NUWk1QVp4QzlxT25KUmI1YkhMOXlaRDJyZmNBSERfbmJQOHBEYzVQeDNua1lvOU5Nek1mS1JRUGhyeGdTdGhiVElmVmoxMjR3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:10:58Z",
-    "hash": "f94b6efd2f6a78471c031a617937a22e20318bc25717ea6ed1991d75b7902b10",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Dogecoin price on Jul 14, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2gxMlNMeERjYnNhMjVwb3NCWElMNXBIbW01M2p5M0w3ZFdPcDNDTTdHS2M4cXd3VS01NXozT1Z5Smpjb3FfMmthMXlma2J4cy1fc3BpdTB4ckxhZDRVdldHZGl2dEkxSHJ5TjkwTnM2czAyaS1FOUZfUnhQN21NbVgxMVNlT0FhNUZfRThxeFJVUExaNjdMazRJWGgyLXFlQU11QjhKajZ6MHZ2RW1XbGNIZHA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:06:29Z",
-    "hash": "dab7aeb1d17351f2451a46adf98ca80b59ffd6c187238f1acc45bac28e0829ab",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "JPMorgan warns Hyperliquid deal could squeeze Circle and Coinbase - Crypto News",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMRlNtWjE0X00zVEFObTZUZEp0aEhsTDZvOHowdXdKZUEzaVFjUnNYeFhBMG9wX1JCQVBuQVFhaWpNcWNlbFl5bWtRNmMzNWFJNklOSmdubmN2RVl4MnhfaXRUOVlCZENXRFdMUjFpR25wcFBmU0FDS3gxN3JSdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T22:06:26Z",
-    "hash": "18e3266846a3b610f90358f0b09a97dfe30cabac3fe3bb06d0b3421af2656404",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "Missed CRWD’s Rally? This ETF Paid 29% in the Same Six Months - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZlZfZ001SW5uV2gweWRiNWdDVGFGTVFQcVQtVFdJcXFhTVY4NF9XQUw0b2c4T0Nya2ZjT0tkQzF6ZGJTME9ROUZrNFA0T0JLdWhfU3ZxWVhzYmJIRGlsVmJzcHFiZmo3cFpGLU9SUjRfaERUakN1SmpoTzZiVXpjRXR0YXpwa3QyaU5EcFNBSTQyTVpRVmNnaUFwV2RRa2tQNUlueDlaYjhndw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T21:53:12Z",
-    "hash": "23a61f05ac9b107cf42699a2b33e75b37d110704a7ea4af44e43d04dcfc9abea",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Taiwan Semiconductor Manufacturing Company Limited (TSM) Not at Risk of Losing Competitive Edge, CEO Says - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0RIV1hjMXpTYUJWTlRtRlozckpXZ2tUQ0ZkeVN2WHpLUzVIVkhQT2xUUUJWM2Nzams5Ylg5bGxhc3pMM1FaZ0p5MW9KOFhnYzkyeWxMaW16Z285VEYtWndwMXlBTUJPMGdFZ0J6N05OLTRnMlNpSmZBNzNydjVWX3ItTUctdVlxc0RtaHN5cWI2c2lISWJGalJsMHRIcnQ1?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T21:45:12Z",
-    "hash": "2e35a67908343b1245ad2116abd971b9b4cf1f0ffd51b7742492e29b8cf21adf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "SharpLink generates 499 Ethereum from staking rewards this week, total holdings near 888K ETH - Crypto Briefing",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rVG9TVkZjbHZBY3drZ2RaVEI2WGx2NXZ0a2QtcTdTbmdfUHlrZkFRTWhiZ0Y2UUpBRkl3cEFJemx5N0tfc0NWM0N3bTg1SEpMQ1pFOWZRWGpRakdJR1ktNGxHeUtYUHNSWW5xOUNBWVYtS1FVZGdUNTZNOA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T21:43:23Z",
-    "hash": "0ba776b6cfd632569a85c5a81f8789389493a3a50178e93930685088824a82a9",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA (NASDAQ:NVDA) Stock Price Up 4.1% - What's Next? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbnRCVU90STJ6cVI1ZjNtZ2NsOVUyRGw0NTJGVHlkeXlzSk50TlNZV00xVWRrMU9MR1BVXzNUQUNrVWtrNzBTNjYza3NNYmJHcFJtM0l5b1JhUFlQSzZqYU13MWxFMG1RTkYwUmxDY0hyYUlUZno4aWpMYTZIalU0TC1tY0tKdjVHLTdINDhTNEFldlNwbE5yekVqdjVsUlV2cGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T21:40:54Z",
-    "hash": "77d6162f10771370e2ee872cccd750a9722974ceb94b1232eafffbb05aac8f24",
+    "published_at_utc": "2026-07-15T00:00:08Z",
+    "hash": "932967f81b408c34511f929b9aeaad6ee44ec3d1fdd67e97e30e6cdd3c0ea47f",
     "source": "gnews"
   },
   {
     "asset": "Rocket Lab",
     "query": "Rocket Lab",
-    "title": "Rocket Lab (NASDAQ:RKLB) Trading Up 2.7% - What's Next? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0tveHVxTC1ZRGJzOVZvaU5fLWxTOENNRHYtNm50cUpOdmdyTHF3NV9TdlppTEtad1ZkbzZfNWdianZQSHBNR0I1Sng5MVR4R1dWWE5YcUNLeVlZV09YQ2xOOThHdmVSUlNuaDhpOVVVdmZnTE1QZWtrZ2RsWUV4UzFVSUZwNzFySkRFaDUtTGZncXV2bDB5Um1FTWdMbDd2UXc?oc=5",
+    "title": "SpaceX drops $39 billion, leaving gains at MDA, Rocket Lab, AST SpaceMobile in the dust - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd01HOEtVc0hiRE9HbXhkSEtjMkpYYk1rQ0ZKdzEtZVppeWpiREUwU0VMRUNJZDRKWERPTU1sNmYzbXpOblA5b2JXZG9adDB0MFFXT0tWWlZrX2p5dkNyNWFXTTM1ODl2LS14QWJORklHLU9wTndIcXRVM3ZMM0ozc3dkdXpSQkxSa3MyaXNDdGdWQ0FOSDZpV1Q2V2xyaV93X01SLUFSNA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-07-14T21:40:52Z",
-    "hash": "df9c3e01d728012cb639d00cb6f3fbd75609ffb37cdd6506612c136215784c23",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike Holdings, Inc.'s Stock Price Soars to $210.73, Marking a Stellar Increase of 12.14% - Smartkarma",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWnF0YXlFNGNhdkRBQXRoQkRlYkFuZWk5MUhyMHZPVld4ZkdIR1JuRFJMMm0yWk9Zd3VLTE9PdTh6NVZ4OVVjNEgyYkZmVDVUcXFtTGdmbWR1NlV4TDFMVXQxOVBEeEV6VGFrS0Zuc25LLVNHN3hROVBpYk1hYkVqdE1HVFl2UVZaQnR6MkVETVMxb2g1SncybklkRC00V0tScFlxZ3hJT2FOZzloSTJiVzhPV3JIQnBrTGROYmxZZlFDVE5xdFFYT01KVnFwNDNyaTdF?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T21:32:22Z",
-    "hash": "6e33e089379fd2073cc5a1befa7b082abb84c774711fae15d8d0b2de49537c99",
+    "published_at_utc": "2026-07-14T23:52:22Z",
+    "hash": "9d13c5df3c1674b95d099a51fa319d642fa4e2114e79c063bd69bbfcf9314fe2",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corp (NVDA) Stock Up 4.1% and Still Undervalued -- GF Sco - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmV5Y2lCbWcwWVFHV1JVT194ZVFLZWRfOXZ6aWNsem9QWFZINHlvVHBHZ2FWTEVXazZUSHJJNWNsVG93VnZNeER6ZHNCaDR0RWhRNTh4WFQ5VUJHVU9rOEMzbW52cWJBaDhHdEFLZDBaRFFSV0FxZjFCYTJLbWR3aTJqYThjMm5XSlVsdnJDVWVjODdadi1WTnVEWWR0YkZodWxPME5ORQ?oc=5",
+    "query": "NVIDIA",
+    "title": "Bank of America sees Nvidia’s next $20 billion business - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUJzVl8zSjdqS2V0RUNSRWlXTmxNVlROSlpQTUNicFVWcldXNjVOS2R6a3hBcFVBQ1FXNGoyUHRQeERyUmxCUXgxMHEtaHY2cTR4ejlpMXl0VUQtYzZWZk5SRW1KNVV4YXR1aWJxRGVYcHAzZmQwQ3ZvQ3pSdV9Wa193UnM5d3FlZHBWcVhta0VHZW4xZ1Zr?oc=5",
     "summary": "",
-    "published_at_utc": "2026-07-14T21:27:16Z",
-    "hash": "2aef15ba8eab300aa173535aaf9f7b4756a0c15d46e761f02a16d35be3273f46",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "Is CrowdStrike Holdings Inc (CRWD) Overvalued After 12.1% Rally? - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONlhGaXk2WUZSamdoa2ttcmlKNm5iRVEzSzlVN2psajUxUDRlaGdmeE9NWTdMUk5Xb3FRN2lBYU44YXF5am9oWUFqSFl3V1ZoQUQ4Zm9BY0FSaTVzMlRvbkFCQzFwQzJzS3ZFM1dUb1YyaXFodElzbjZEVC11Qk9iNDlQb2VVODFxRG0wT1laNEQza3FodS0xSjgtdDJwTW9xSXNiOFRqdHZJZW5OTXhUTXhjektua0dQRTR5NGJoVWk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T21:22:30Z",
-    "hash": "055a9b34241b532555054039d7524a7baffdad74e0540fde2810fc36646281a7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Artemis Warns Robinhood Chain’s Biggest Success May Also Be Its Greatest Risk - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lUjRWa3JpSGJMa25sQ1ZfU3FzbTZ5RXJRNXBzYnBrOTdCcThtV2M0R3Vaejlvdm4xYWhQaGxqckItYVowSFhxUGdaamVfQ3QtSmR2SFZjb3FjQi1jVlU1OVk5cHR6Q2xpampKNEJR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-14T21:19:00Z",
-    "hash": "72d55f7d8d50be91ecec17f43b7ddd9da0b5d9bc78a09cc01aa8b6544c944bb9",
+    "published_at_utc": "2026-07-14T23:47:00Z",
+    "hash": "b4bef7bde807c7e5c76855605a59926d3ce9da3d8aa58140e687342f20425e67",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Carlos Alcaraz to play in the US Open - Coinbase",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFMlMyem0xMTE5eWQ5YUlqdkYtalhlUU4tV2J1ZEp2NWh4OGJvRnZhTWVhLXhhZnNIUUtxTG16cEVLdzkzdW55YTVpUzUtWXVYeXI1cVpIVWNPcW5PNGI5N3h1TkxMajdrR2duOFZKclhIQQ?oc=5",
+    "title": "Esports World Cup 2026 draws 100 Thieves, HEROIC, and Fluxo as Coinbase and Bitget make crypto sponsorship history - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmxaWVdzeTFzZ1Nwbi1lR1VWanBPcTJaYmlHRnZLVUxjQUZxZkYxWFBlX1VzU3c1ajdlT01wbzNnMnZxeW5TeE9fOUlSbzFKQ0Y4Zkp6Y3dKbmhUaHJCaWZvUUd3MEg3dHl4Z3dQTDJhem0zYXJJS0Z5ZDNlUWVRcGxyVFNTRURPM3c?oc=5",
     "summary": "",
-    "published_at_utc": "2026-07-14T21:15:15Z",
-    "hash": "040b61ab7dac5e4955f0353a622e96487259880c0e06426650f393e4dd1a068c",
+    "published_at_utc": "2026-07-14T23:40:05Z",
+    "hash": "253dc62724d7c80f59927a1206d5d9d9499b312ba0336189e2dc9f654850d849",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "JPMorgan Says Circle, Coinbase Face Pressure on Stablecoin Revenue - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85UTVyWFZNVmpMcEZNM2JnWXBmaUxUNXpSR0NvTkIySWxpbURIb1oyY1R4OWxYWTFHZkZzczBiWUpKOWVKcFJUcWZVTl9rY1ZDYjROSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-07-14T23:34:52Z",
+    "hash": "8bbb8df918a3d4e8dad6591ffe3c0fb8f51643de08a120fa51b9d5c865a417d6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Just Launched a New Blockchain. Here's Why Investors Should Care. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbTB0dlVaQjYyYmpQV0JTLTBYbjVhNXdWMV9Pd3Z5bjJ5UVNCcGsxdGFEVXpTdHBlUmVQZGo5RklrOENoenBPS0lLYkNCbUlVamNMM3RsTWxWTTZXQkhaQjVfWXRXRGlmYjZSZzlFMUozQ0ZmcWRUXzVDbjlMQmJQWm0tTS1yMkN0Q2xj?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-07-14T23:34:42Z",
+    "hash": "4bc53b95dbe74fd2264265c8a736c3accf01df3364db1e805a0fee5d0c897ad5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "BTC price on Jul 14, 2026 at 8pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMGdIeTVwdlItdjNwQ2pYUTl0M29uekNNaEFHczJlUWpiZkhVSHVjUlZmVE50Z2pMcVhFVVkyUlBWR2tMUW03U24wTS1MWnRmWDlsMUVTQzc5d0VfeGRlRFJ4ZW9mbkpZQXdUU2M0RGNRRVRza05STU9IdUFXNTFGQUJZQXcwSHZkY2gyWnQzSU45TzFZT1E2amlSM09iQW5YdjFseVRDb19SWUdVZFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-07-14T23:12:45Z",
+    "hash": "70c5fd8a86b3a6ad11bb3f0ff6af37382f445cfcd3d6ea42c34a153a70dbe63f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "SOL price on Jul 14, 2026 at 8pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHd6ZE81SDJBamN5MGM0RzFzN014a1JLS1dPZElCU2ZCcU9sVUdXN0dkcHE0blhmLUFwQ2s3b3VqTlhvV2JmMUpuc00xaVM2Sm9ManBTbTQ3aHd3ckVGUktnMlNIR2RhMWxSQUZtS2tMM3d3UVV6a0FxU3ByVndJbFJ1ZFZDRFBja3JQWjVteFlqZWdfWlo0ZnBRQ3kzTkRLUnhPVTZyZGxMUTloZEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-07-14T23:10:46Z",
+    "hash": "0b7a00e92dc7c99fdf9cc45ad612c87469b0948aebfb3694539403357cca367c",
     "source": "gnews"
   }
 ]
