@@ -1,132 +1,52 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Analyst Says XRP Could Hit $15 - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWhPa2NQVlJ2ZlZwVVY1R1QzbFpFUC1taHZUa0VTNEdleWhsQzZJV2h5Vzg5RWNndk51eXJyZGtGUDFpTVp1OEU5dGZKaDcwUG9VVHVyOUIyeDNjNnZ2SkN4RzhnMEVWaGRiOEJKMnFfUVFCSVlyTjBaemRlSmE2R2R3bw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T20:53:43Z",
-    "hash": "b434abff6bd4a4c60878ea88551514cc8141de4879fedd83e0b8d838e6f426b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Analyst Says XRP Could Hit $15 - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWR5WGNIX2I1OEJWbWJRY3NCOHNBQU9IMDlUekpjSXl1RlFjS3VjdHFTSWdyZ256eUVSZmkyREhSSTE2ZmRvV29mWl8tTVJnbHpvZld1LWxFQkRveGx6TG1zWHJBUjMyczM1Y1pUNk55bUV2NGM5NVA1SnduVUxCUjdzZlBMbHA2Q0tMVW9jckFDNXJNX1RIZXFTdnFGVGs?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T20:44:50Z",
-    "hash": "9669bf69bf89f4330280552d749c44bc9d71bd83a14b729d9cee86f1ee844985",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Price Prediction: Analyst Says XRP Could Hit $15 - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFl5WmJkUml5Z2NrR3o4dlpuc2poal83cHFWNUhxVE9WOG9NbGNfdnRaeERQN2ZDaDg1RUZOTUFqVzZxbTlPS2hTVTk0R0hCRkpvcnVaQ3lPLXBBSzNQOWJQLTJaSXh4V0N1UDdJdmdtZERHc1VnSVBpcVBPUEM0Y3R1cVZQM21uWjZrZVgzN3VQeFdRa2JSVjBjSjBtbzhxYnplZGVTX3JwMlVRcWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T20:44:50Z",
-    "hash": "44c5d42eda13592c25ebedf3dd5c57094b00aa254d599f9cf0b5172498877d23",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall’s €500 Million Powder Plant Groundbreaking: Artillery Ambition Meets a Stock Still D - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlA1VklEUFdfUmpxZzAyZkNhVmFlb0hMUW1wVkFsODBpNWJwbnlRcTdMc2VzUmYtYlhDekZfYUFYd1hWSWNjQzlSdEVLbHRHSDkyQ3ZsRlVYS1ZmU3dVTTI1QzJ2OUJKaEYwQm55V2M1VmFzQ0hJWmRlbll0cHZRUDFGZU5qd3BMcFVTTjVjbXAyWEtxUDBXR0g3VDdtMFZpbDVsY09RcHAzRDRlY2E0UjJEVUs0UlJmQ0lfdjhSbw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T20:11:01Z",
-    "hash": "f0c3ce42ce79bd9ca265fefd816e7ca66d334e3c0501133a0f76b243d548cb66",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "ETHGas [GWEI] surges 38% after Coinbase listing slump – Is $0.064 next? - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdk1hbnFfNVRxbDBJaHZEbXFjRTFVaC14U3hEeVdhaWlwWWxVeW4zRHU3WHkyZV9mX2R6YVFxaktVVnR2dDhlQS0wWXdxNzN3TFpxZDFqQXdDYmViM1d2ZVpZVlV5SGdqQWZSdnQ3a24xZ2hOa0VqUG1wUzRtdTRNbXk2dkxqYkpGZm92TG5SRTY?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T20:00:31Z",
-    "hash": "f376d8c7aca7617e5e85e2c1abc339da1ce0df1919d512c16dec6c4976be832d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Crypto Trader Sells $2.5M In Ferraris To Buy More Bitcoin - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGhDbjhwYnZYUFFDcXg2cFhnamFmeXYzeDREV3ZUaDJlamw4b2FWY1JZeGZuNzBPRExTVExDcUQ5R2JNenlTTzQwMkVGTVZWcVVwRnpGSV9TZzFFY01kRzZIUHF6UnhFQ0sxSFVXZEMwb0VIcXZ2X2hBcE4zUG9yMHE1b2txZjZxTjMtQU50ZWFaejJRajkxd1U5TUxKRUR0b2lVd1F2S2dFci1nR0dxcXVGVjg1TUE4THc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T20:00:14Z",
-    "hash": "68c2b50a92fa7b328f1a55eafb10ed72859ae27b018e58f57028b159ada877c5",
-    "source": "gnews"
-  },
-  {
     "asset": "Robinhood",
     "query": "Robinhood Markets",
-    "title": "Crypto.com, Robinhood Reportedly in Prediction Market Talks - Casino.org",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTJjWi15Zk1UYlFoM3hDUlg1WnZHaHVGV1ZCQWpDRS1ZWk9aSW13Mm1GMTdYSlAxbGVDTXpTYmxsM1N5bU5lQkR3bExZWThiU2gySXQxcVppZlVzcW1wZU5rV0N4NVYxYVVuTVRQQVgwdndwVjVwekw0UFdyT19FUy1pcEkwOGwtRzdMb29PekY?oc=5",
+    "title": "SOL price on Jul 25, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzJldElBYWNYUHBoSzBQLWlJTHlnbUxDczBqMjEyYW1Udy1OajlDNmpnUUI0ekFIU2poc0ZRd0dyZnBQSkFtSy1UZWQyWkMzZ1ZjNFNWZ0x4ZG5wek9VOG1uT1dtckRQelE5cGhoOHY2WFlpbUR0VFgzMkh6dGc5Y0JEb0JoalJmWUVqNzdMZ0M5LVRacGo0VGNmcGJjV1RpYXpWUTNFNlBwZS1nRlE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-07-25T19:44:05Z",
-    "hash": "28d2198a3e98b7545d0be3ea3a51b98bf34324275c0c9be69a7f50b8fb0ee2d0",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Ledger Takes AI Payments to the Next Level Through Mastercard's Verifiable Intent - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsMU1xTDBNdTcybFk3UE13eWYtT3p0am1uay1sMHVwVHdtSEtDeHhIeXJMREpGWlVQUDRkLVlSWjJzUzVJRlBHV0NsMUg1VnNuN0FBZElxLWV1QQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T19:39:31Z",
-    "hash": "ac9636ca40b65b5437b34ec36113ea3f979fd2243d6bf78bbda4ac33a4478387",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Robinhood Stock And 2 Market Infrastructure Picks For Rising Trading Activity - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTVOUWxqbmZHQjZFc0h2ZXdfMVJHLUZZeFdUdHpFODNyQjBwUWVJZ1lraDl2b0E4NnZDNC04TnFEZ3BsbmRaejhpVFpLNzlSb0RiLWRjY19iT1JIdURZYjhEV01PTGp2d3A1NkM2Y3lyWmZHUUE0NnJFVjJaUTZEcV95cjdIRGRwTFhyX1dZOUYzaFNuUGVfZUtNNThBd0dZV29zSXVRejJmZlBXTkxSNmdNQ0RQMm90WHdldlNDem5xS0NUeWxHOTlkTzUyMExkbWJ2Mzk0aUN4cElka3U0Q2YxdzPSAeoBQVVfeXFMTUNUNElfdVJTTGJXTG9sQTUwWjNacTVIbm9aVXA3WjVMc1Q3RHFhN1BoeHZjVmEtUk8tU3FFYy1WR2hGYTVlMTByWG1UdVJxQW95SEZRTzE3OVZwY09Id0dPcHFVNnVKc1dQX3hmYkM1ZnB4MmlvUU53eEJ3X1U5Q3lpakYwMFdSazFvREZ1dl9OMDlVYWk5QlJXWVpPNW1LWTNUcnd6Wk03Z29PeXBORVNwRXVRQ2ZQUGlhZDlDNmotaGpONmpjOEd0ZlEtY0hDMDJuQ1UxUmlBa0h6MWlHSmRnRkl5R3J3Yk9R?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T19:33:59Z",
-    "hash": "214bdfc5820966f0faad435e5469e138ea146c4ebeb0864eeb46da76088da9b0",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "AI models predict XRP's 2026 year-end price bet... - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1pSdmZPNEp5eUd6YkhlbG5IUkd2YmtGTHktOWYwNnFibzlyWFpTcjVFem1PTGhMRlRHTjdSVjRScVZJSW1PVVo2MEhUVk1YR2FUdEJmWHdZU2s4TTY2NmpXQ29rVUozeE5mYmJ3aWt5a0NvczFULUVsaEtVOVhkZEI3NE5kZXpYSFZyVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T19:30:11Z",
-    "hash": "c21d816e9057a6ff087bcd2175fe28d09373865a236c71f0b56bd7231e9573b2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "$1.32 to $3.75: Nine Top AI Models Predict XRP's 2026 Finish, One Breaks Away - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81QkhYc1htMENwckdtT0pDRUJqSHl4OXBGejh0TjZnTERzVFhmcVZmQlBuY24tM25ldWMyY3l4WmJjZV9FWU1wZWkzRXMybDB2eS1ybldJNk5Ib0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-07-25T19:29:31Z",
-    "hash": "ed397bb7a244d5223ec66867dc1f4f71935e27f835d833713f52df0df4b65222",
+    "published_at_utc": "2026-07-25T22:04:07Z",
+    "hash": "bdb2cb9ea093fce66113f904e4755b2d55d5b99bb281b392b392f3874e24721f",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "Robinhood",
-    "title": "Phantom Drops Monad Support to Integrate Robinhood Chain - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12elZzdDdZV21YdU1YSTdKUHdrQTMxcTBQN2VPVzd6MVQycTVMejF6T1pzaGxpNU8zRFdvT0RoTzR1X3dQOXdKWktSSVhUWFhyQ1VoQUJ4OE1oUjY4?oc=5",
+    "title": "BTC price range on Jul 25, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDdIeVlVdXFTdmRhRlByU05YWkpwNFhmNmFidTNjWWEwNXpwaXNPNXc2eWktSkFPRzhEZHpwT01FdDNJZDRNY29pZGs2V0VBWW9kVlVYZ3JNZXpXZkw5NDZvT21kTTIxOFFIdGhMWkJ3YVJpMXBEa2Rtd2dVWEpDZG8tT3lHQWVLVFlUSnItaXVDbFNrWkhfNGNEcUNycXdoT2gyNHI0b0Z1Vy1EM2x0V0t2MXg2UQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-07-25T19:29:31Z",
-    "hash": "9d2b06b4c8dd239cff19287d0a23769191ae4e2b29446c215ed3609e4b913676",
+    "published_at_utc": "2026-07-25T22:04:06Z",
+    "hash": "f9b2fd1c4efb3357f2a3fc6b95d3da4a567acdcc03aae0e9af14315b21893899",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia vs. Planet Labs: Comparing Revenue Trends Between an Artificial Intelligence Giant and a Rising Star of the Space-Based Economy - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQODhOTnFBcjFGTVVTdnZSUTE0dFduSWFpWk9hVFk3bDZUa2ctZGJ2SnFsLWV4UnlNVERVV29pbjBfQlp3QnBmcHNfblE2RzE5aTZJVXpTc1RDZlk1dGxGOVhYanRZTEZGT3Y0VmVkRXhjNGhCYWFYVFVYdU5MdDFnR2xBR2ZHSXJZVF8xalZIcnJCUnlzX2ZieWg1c3FkM1JTNTZha1VDb0dSaW9BUW5Hc1JsSmVHb2N3Ui1aYlptajBrcnZRQzJIeUt2Ymh3ZUc0djk3TEF4OHVuQ2k0RkxZR3I0SW51ay1GQzRWTF9YMUQ0dmZvSF9EbnlBNF8yMzQ0eEZ2aDJ5OTJjNDlCeWRaX3JRSUdaQzJCcXlsMzhKcFBEQkNjRUZpNjNLaGFyTDB3X1FBbngyWVVWd3M0Y1E?oc=5",
+    "asset": "Alphabet",
+    "query": "GOOGL",
+    "title": "Tesla, Intel, Google All Dropped After Earnings - Will Microsoft, Amazon, Meta Follow? - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZW01cFRGTGctNmJIZHhuSkZDZUJVNFJ2LVB0OW5YMGc2c09LTGxMY0ROcGNNVlhVWGN5dFh0VWI4UGh1Ulo1cmJ2aW5pQWRTN0NRQ0UzMFBvMTdzODFRX29uM3BrNmJYdzBvbHIxMFFnMjZIWWZ3UUMwTXA1bzNLS3RQT21NVG1sM1dyYTQtLWVuZk1Od2pnV0FNekk0NVlOUE5WWkppY0c0X2VuZFktUVl5YUNvSlFEcUZ4MXlubWdGLVBrUktIdTJTZWI5ZGVQM3c?oc=5",
     "summary": "",
-    "published_at_utc": "2026-07-25T19:28:31Z",
-    "hash": "cc70cf6d656f384632d7c3df5abaad478c3ce075f9b2d02cecc41e684ac1f98b",
+    "published_at_utc": "2026-07-25T21:34:31Z",
+    "hash": "e3fd446fee3d307a4dc7a0500c971d67a990d1477401e27e0534f4b5b9f6bdfc",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price on Edge as ETF Inflows Head for Worst Performance Since April - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXM0SjJCSDAxeVJzaDN0Sjh0RTlFX05qRnJqQ0N5QWNJNG4yQTJWMUJ4LUVoWFFCYnF4d3lERVI0cU45RS1VTFQ2MktTb0lFeHVWREpkR2UxNUtnOF96VVlieUZZTG03SVhsdUptclZSOE5rQllYNnpPa0xjRTgyMVo0a3ZxbGJ0b0VvT2k1cTlzVzBEelFfZUxhN1lMSWN0eURqMndOckFuQTJ4c1JYV0JjYWltTUR0a1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-07-25T21:34:01Z",
+    "hash": "9873b4054cc5ca34df03dff93ea4eb1b2d27f5860825a1a33bf95a0563c9ced7",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "Taiwan Semiconductor",
+    "title": "Taiwan Semiconductor Manufacturing (TSM) Pours $100b Into The US On A Pricey Narrative - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd2ItdlBjejU4SHhYcklSS0RqMHhTVDBCd3o4QW1sd2I2a1JlMEo4bFEzNUhWNWpMWmZSMWczdk1OM1p1cmJna19yd19vU0RYNGt6bXFmemxWdlZxU0EwOGRmN0FUSklZZWlBaEVla3BSMmJHSlJyeFBNaGxxemhCeHVHSmRKRkZ3cWJjY0ZPMDRBLUNvcVZ6SXFMSFFac3p0Qk5GcmxRQnNZRjJlWFZqdFN0TlFQNnBXblhzenVlRXo2Umh2eGRRMkVueDF0d29YUlpGenl4ZEFMZWozLU5kWEF1Ynl3Vzc4M2xsctIB8gFBVV95cUxPRUhzTnFEeDZUUE1OcTY1YlhWenFmUTNGdldnYkJjNW1DZmM3WmNBQVVscG95cEphSG5MYmZCOGVHWU9zNXdaZDVjbWVXMzlfcGF1R28xeDJMUHBpN21McFNoUTdzaG84MFlXNnVfZENTd2ZHYUxHR3hwbUtUdUxNTEVHMmhQSXFNYkgxVkdxQlBVZUs5d1RRckN4ODExX3hja3BjQWI3YXJuQVItUktaWXRxV3RrcDB0WmFER0VfelRsM3laNXlrWWt5dTR6MENLenJVb1M3TkhGUURwdEZldkJobXVKbFRUbzAxZW10Vk9Fdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-07-25T21:33:27Z",
+    "hash": "e986b922c90e3491c859d66e57efa5f20466725fea8321f522e9a3abad735482",
     "source": "gnews"
   }
 ]
