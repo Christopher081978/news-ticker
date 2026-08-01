@@ -1,102 +1,72 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Why the Best May Be Yet to Come for NVIDIA, Micron, and SanDisk - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHM1Z29wU0pGb1NsNGFuRzJxREZ1WFZHaVVYRklVa21NMFMtOERrbmV0YnZfUmZBTXJoRnBOX3NOWUNhdEdtbDZPMWFEM1BkX3NIc05vZDcwYzVPNjBVYUN0MG83Q3M2QWhkalpDQ0Y4VzlXMzE3OFBfeXFfZHJ6MVpIRXB5MmJFQ1hDVHVnTUZoNFdQZWMtelN3cVZwWVFtM2NxS1JTWHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-01T15:00:13Z",
-    "hash": "763db3d0979a0ed4919972c6e66784f52113cc912eb4e24e6a80976447aa0d6c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Microsoft Just Announced Huge News for Nvidia Shareholders - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0s4WEFnakZ2WDF0NkpjQlppNm4yd2NTX2xpakhlVkM3RW9ZaGJqd05Ua21nODFxVXlCSHZ6NURGOW10LVBBTzRiTzMyOERjdjNjXzcwMXdBbnVjTE1GRF9XNUtTZjIwbU5VY0hvdk9KVy1aYXE1bVJBdzl0TUJUbEVVLWFoZ2ZpN2Z0dzRPcTNRYXhKS3c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-01T14:58:33Z",
-    "hash": "e786be7b73a6ad1c2f28897c59d19903df0605623682f21ea5328dc282a4d325",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall's €80 Billion Backlog Meets Its Moment of Reckoning - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2FTcUc3M2VNdFhZNjgzZE5SYjltNTdEd3RraWxVSGp6YUNBa3dyRDJ2NXpIUDI0NkNhNWVIbVVOdmdFUlJPYkc2djF1TUdSMng4Wms1cWExbU5ZaWZidnhudkFweERENGFXUUJ5cVZUOGoxXy1oa19xRlRWYW9WbDRvTmJSNjc5VktDRUhPRkQ5dXdTZTBCaExkVmVoZE4wZnplTHQxMGU0emg2azBjb3FHUWM5YzNQTVBnVU5KMHUxSG9HNktzZVJlX3FxczQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-01T14:11:43Z",
-    "hash": "642052f6f769117e5a0b82b2e3db83c935146ec67052f0a45fac6e48e3727563",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google traffic wobble sends major signal for sinking Reddit stock - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXMxWHBpSHVibUxzZ25NLTF1V3V5WThCcVpuUDJVdmR4MlJGelQ1YnhuNTdvRHNDamFIV09kanJkSUk3ZDdwTG9EaWJoU0ZmeXhfdUZTcHNXR0ZzNmpDTGptRFpsNUpJTHJsUmhmRzdRbVlwcGxZSUJuREJrWmJJUTkwajFRLTgxVVMzd2hzYTFMWGNHanhjSDc2Ni1Gdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-01T14:07:00Z",
-    "hash": "ddc6c3cc5df9902911bfb8df05cf736affae02309c17064af2e7f79e16f12846",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Falls As Strategy Plans $5bn BTC Sell To Fund Dividend - MarketForces Africa",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPak9uRW4tTmM3Qkd0RWpMTWlGTllFTWhvY19LcmstRWg4NUV6Tjc5RzFyb0QtMDN1ak9pZ3pBcUQyMjM2U3FsRWtWLWJ4dm9aSkh2SGhvVDB0enZCOU05VGN5bDYySDVOX0hlLV9KbWtBSFhNTWVfVnBqZUhBVTZEYk8zaC1RVGQxeGdLUjNBeGQ2U1BHTkJTS2dR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-01T14:02:30Z",
-    "hash": "bb561d7768cf99a54c30e0f088428a4aaccc1c982647514236095749ab1c1384",
-    "source": "gnews"
-  },
-  {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Coinbase Global (NASDAQ:COIN) shares fall after reporting Q2 loss, citing slower USDC growth due to declining rates - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFhMajdJNkl3VUdyc0t5QnBaVzdkVGJDUFJGbXduUHRpYzYxbDJWTHpEVHZGY2xEdF9nTXUxZ0JHbXBKQm1xazFRTk0yZF9OTWo2anBxeV9lS3dDbERsTnNqblNTS1I4enMyUjBvbmp3Mi1LUHdaNXRGbXlfUlRBc0t0ODB2MDFZT1ZMdDRDSGhDUE9qMFREamI3VV8xNFpFMnd2empYUVVLazFWUllQUWdZbHlYQW5HYXV5VlBVMmJaSEc2WUhnMkJDQWc?oc=5",
+    "title": "Coinbase CEO Brian Armstrong Says AI Agents Will Expand Crypto Adoption. Here's What That Means for Crypto Investors. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWs0azV4Qk1fRXRBZWpnSko3NElLbGFpOXNXU2tfVDM2VjhWOFRFd2FRa0lpSGViVzJGdHlRdEhRWWVsLXE0Z2RKUXdmUnI2WnBmQ3pVWjNoZ1ljTjRTR1U5OVk3eUo5S2pObnhLbGZhdDR5eFMyM3cxM1hJUGJWNmE1RlpxQWdyRXkwcTdqVzhQRnNabDQzOQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-01T14:02:12Z",
-    "hash": "09247fcbb5932c4ca8e4de99cc3125141ec20899f4f2d1c62871dbfc18952442",
+    "published_at_utc": "2026-08-01T16:44:27Z",
+    "hash": "040b064ee39634f73a4f9ac1539b123dc9a18eb8a91ba174212b4279b02e6acc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "The Highest-ROI Crypto Picks of Q3: BlockDAG, Solana, Hyperliquid & Super Stand Out! - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVHR1ZkdzTXJMUy1VMTBRd05nZHFUNkw4LUJuVWM0Z1Z5REx0M2RIVG9xMHlaUTN0S0tsVHlmcWgxWFBPMU1yZHNRTHRUU2NHeFZudTF3bEJncjFkcEVnUF9oSWNaZk1qRDN0VkVnejNXeW9aMUZMczU2RlhhREZxZVNzRk9kenRJczBTdUhyeXFoU2pkbk5kYUJCLUVjRUM3WElmaWJVSmtIZW1UN3poc1AyQ3VmSDNtWFFkaHBDdnhYMmhMWW9WSGhuOXR3VEZ6Ni1rajM3OXkwRzFTWFp2LUx2bW81VVFrNHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-01T16:17:36Z",
+    "hash": "7e4efaa3f3c34ff181dd459508dfeb372ff0b24014012f657024c6d07715de11",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "Rocket Lab",
+    "title": "Better Space Stock: Rocket Lab or Intuitive Machines? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYkxLNTlyYVBiOXNBclB3Z0VXbXl1cEM3RmVTcXk2Y1NGaWw1MFJtUXNiRE1zZmpnUjNzcWJCc3djd1NGR0d2ZE9tenF1dkdyMXp0X0tCcm1WUzMwV0NwZzkycDNiendWQU1FbU4xaFlsTTVyTU9BRWlOaFFWb05hWVFKX3p4Qk1VcTlaRE9MeTFpNmhBZHFscQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-01T15:51:33Z",
+    "hash": "1ff3aef842200f726ae655392d74b0547a7030da8b046c6d9570652e2218e199",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NASDAQ:NVDA) Regains Top Market-Cap Spot While Major Tech Spending Climbs to $140 Billion - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWU2RGJKNjctc21kNjFDWlRIYlMwT19EamstbDdxNkZzcVNUWmVZV3piRFNaczMyVUFZa2I1Sjh4R051MUp6S2ozZGJlTXFkc1JCbjdlWkY2WlIzTkJkLS1PSEUwblhNWkhPWjR3ZkFTWGwxTnlFeDBlTEd0RTlEUEJYZEp2dU1GcWY2LVpkSHA1aVZ0U0JFRWlkLVJlUmxISHVMR1dOeHlRc0hWcG14QjdBeHE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-01T15:34:24Z",
+    "hash": "20c2421f73208414e76cffa1f0821a7a87e193f29769359b43ece6d46f24e568",
     "source": "gnews"
   },
   {
     "asset": "XRP",
     "query": "XRP",
-    "title": "BlockDAG’s 72-Hour Price Offer Draws Crypto Whales’ Attention While XRP Slows Down & SOL Faces Key Resistance - streetinsider.com",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVU1ZUjZGcS1pY29wbVJEQ1FMNEl0TXl2enBMdzFrU3E2RFdQLVNBVjVJaWZ1U1EtaURiR3hHelAwQ0lObFV6UERfUHF0YnVKNkxJVDBydGpRY0JITzRoQzZZeWZJRG1oNEJaX0g5SkMxMURYUlJsVWEwU0szSFNCVkc4QU1RdHdTX3pCZDl6UmR2eHJlUHdicWZ0REZNVHZFT1FZZnJucnNqTkZjbm1TLWlCZUFwYVRROWl3Q0l1TU00Ml9Ra293R1RmYTF1LUw0STlmbGZkNWlObkYwTXVhWE9Rb09hbzlyMFhSdW5MZDVhWTlmV3V2aWZEZVJUUWdBRWJkR0hybWlidW14aXZYTk1JdXo0dw?oc=5",
+    "title": "XRP Climbs After SBI Holdings Valued Stake In Ripple At $41.2bn - MarketForces Africa",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeURkclNtV2ZTMEpWSFhCWHZmVU1kQmZ3bDhVbnNBd1VYX1JMWlBkaXo1MmY2Wkx4ZndPVDVoaUFxenlaMXlublJKUEhpdEk0SVJmQVZURk45dlFiM1pHT2VJT040Z2N2N0dlUEFMTExpeTJiTzBkRnlzZ19CRWdqVW5PM3lObFBGQVptZ1JWZXZUbG8?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-01T14:02:02Z",
-    "hash": "14f528d61de7a839a90bb303dfbc9f8b8333839f4a2e13e4941d5eccf505c87e",
+    "published_at_utc": "2026-08-01T15:28:25Z",
+    "hash": "868c73d54fbc29002ea55e20f69732699dc0e323ab00305c0fb68b25f3bce70b",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Solana Tests Support & XRP Consolidates, While BlockDAG Takes Center Stage Ahead of Exchange Launch - streetinsider.com",
-    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWG9KcUxhdlVsbUcySFczbTY3UHBFak1MNWRaTnItdGw5cDVOQVZfMWl6ZUJZcGRBc1pHcmRRN2V1SmI2UVV1MTZKaENlR1ZVU2M5TlZtQUdxZDNaNENCdkxYcTk2bGZDYTNDaVQyT3psQWg4V1dFLU1lM2JJeng3R3MybFk5YmJyVU5uQ1pBZHp6dnJoakhuMWFiRXRBX1kySmRwbjNvTEQ4bXUydDJyQkEwTEJRcGl1S3VfOVhJT2NHZFFKd0NfQWkzMXBQdXE1V2IxWEQ0LVYwWEU3Y3BEaW42WmFzd1B0cEQ0MzlDOUIxTldCQUFKdkZjYlJjQQ?oc=5",
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP (LSE:BP.) Stock Could Look Pricey After North Sea Sale Launch - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMFRzSnFTMGQteEhlNWRtemYxQkdwd3dJTVNTQmF2Qnl6RktPT0FYN3A1cTdESURvWmRkUzdjVTZPcGVQTGhrd25iS0pRNm5uNmdLWmNCRUNFZ2hxWURQV2tKalN5Slo5MlVUY3M2MkY2TzBtU05MczF0aTc2SHFsVktmd2VBa0h6UktfcUlNLUlpenFhclg0Zy10ajRwX3lpY2I1U3dDNDB1QjVKODFhbWRVOFZOZE9LOGxCQzQzQdIBxAFBVV95cUxNNC1DM0wtRzhac0J0ckFsUTd5M1l2bEdWVTE3d0lyOEIzS1JQRDg3SGo3X25NZjdCYU5LZDJ5SURJSG9qYWQtUGphaS1lZHQycUR5VUNhY05TczRjUnFEaDhYaGtzc3ZnOU4wWHEtMXhCZHlET3FmRkM0YUVhTXl5RFZlQzhIRDU3Yjd2OWxEQU0wMXk2YVdnTnlpUmYtbkFUTV9keW9vWlE1UFBYUGVLaEUxakhQSUFRdHE4eFlPcFBzbFhB?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-01T14:01:56Z",
-    "hash": "cb60f4706f830a5d015cf630cef53c7c223a0f8b0614c7c224ac4933e82f6965",
+    "published_at_utc": "2026-08-01T15:19:51Z",
+    "hash": "6eb4f7bccdbe61dae67a93c4e69291bde55c6816e4cef8db35e86de75667440a",
     "source": "gnews"
   },
   {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmJmR1A0TGlPYTFoZjBJRTZuWmVvRXVIaEh6cy1MR241UFVSa1RVYUpKWmd5MjU0QmxDSkUzYXl5NnN3amFrbHFXZXBkQkY3NFZfZERJNE8tTElOWUt1M0ZQSzRHSkxZMEJxcl81aW9xZG9JRzhOMUdWek5WYUJ4SzdzMVAyYmpha0ZiZmZjSEpSMk1NWm50ZkVOUkFXQlk5dXhNUm1mOHFLYmp1akZxMnhxOXh1b1hKUEsxcjdKMFVCdw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Microsoft Just Announced Huge News for Nvidia Shareholders - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbWVsazZrd21odVZQbzVJTmJkNm03ajM3d3VWcmRtSGk5eU9PNDhkdmx3Nmhaa0R2ZnFNY1Y2WjNjVDgtTGhGeldZUXpPaW5ia3RadnY0NWM4VzFkUlh0enVCSmQwVWxXeUJ0OFNiRkdLeHBhYl9ZdFRPVVduNFBpT2NxZkg?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-01T13:51:20Z",
-    "hash": "1c31bebde45be29348a9114371596060fb536704e39c978befbac8dd56cb2332",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Ledger upgrade could drive institutional demand, but limited effect on XRP supply expected - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWhkQmg5bG1zRThxTGxPWmMxTER5SEZ4dWdNMDRGc1Ita3VBNHlYWGs1NEFQNy1DV1VfRnRvbnlBNVNldzVwYWFUbGJRQ2tXTmtBcWpfS2d2c3pDeDJ4WHdtaXRNZXFiZDJrSXpIbDBpYUxndFBGY1BoTjZ5b3FkTlVzaVhpb1Z1TlZvdlZqWUZnZXhSRGRHVnl3cEltMmpWYWJUazd6OVcyUTY4cV8xNko1THQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-01T13:46:01Z",
-    "hash": "7f5bb979f1cd167986852e8b28569c5d2810ec5412af9fd0da19ae1bd6f166f3",
+    "published_at_utc": "2026-08-01T15:18:49Z",
+    "hash": "bfed6baa52661ada1ca097a6a866e886681ca4db3fef15e2db1846cf66ecb12c",
     "source": "gnews"
   }
 ]
