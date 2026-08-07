@@ -1,122 +1,22 @@
 [
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "$10,000 in XRP vs $10,000 in HYPE: Which Is Worth More by 2030? - AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTMDZJNUQyYURCZkQxY0pwTTE2TkZqM3huSDcxbWpqdTd5Y0RsV2pkd21jLU8zZ0M0WE0tZTJES3FMdkxXd1d4NndsYk80aWJaOE93ZWZBTDFka3hZRXR3ODA3elNLTGVVTmlnNQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:41:54Z",
-    "hash": "6e25c7435b96a0574fad23fcfc0d9f4437270d62794449e08b3f46c11b28424a",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP News: $418B IMC-Chicago Boosts Bullish Positions & Holdings in XRP ETFs - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsMnE3VDZaVks4VWp0QzZsaEdTdHllNFh4SUZDQ0NhOWpfblRwX0pReDhOT3NWZjNPbTBMa3lUd3RJRzhMcTZOd2pGZENnRVNLdzdwUElxbWlSUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:37:10Z",
-    "hash": "aaad5739b1c3dca6da596ab6c7b7e66bb97fda30965053159f341b9e61a8e6a2",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "$10,000 in XRP vs $10,000 in HYPE: Which Is Worth More by 2030? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0xKNFNNdmNOcVEwRDk1YVFnMXNiMVFfS0VZX0Z2eHZzOWppWXpSbnpwbTFqemN6Q0x0QXdmbHdvRWNfMXl2Ri1PQ2c4cTdYalNFTFprYzAtNWxWMW9yTVhaenlvWjZfLXBzck9FeTdoM19EVFlza0gxSlhVRzZZRWZ0YXU5T0RyX015Q1Bld2xpaG5GWWsyeE9nUlU0MzVBdUYta2J5WE5na1J0elZraDVvNmRJY2M?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:30:14Z",
-    "hash": "065a939396e256f086a6e75a5b7993daec20cf4bae7eb1a632dd447f8bd2dd3f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA (NASDAQ:NVDA) Trading 2.3% Higher - What's Next? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ1VRUXhHZHUtYTJ4VHY2YzZOYnNEaGpteTZtOUdOWnRaLWRqeUFkQ3phb2NkbW5rcl9fLWVFakhiZmgySzRZLUkzY2VQUnpxb0Fwc0hDWGFtX3A5UGI1enJPUkdJYzRWQ2pIYnd5MU4weFBnNHc1ZmItYmEwQ05aNE5lemNMWWtkVTV3dzJuRTFma0UzUG1ZTExDTG15MnFpRXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:22:29Z",
-    "hash": "5cfba14997f60c5ef6c6b1f94d270ad5f568d78229bded6a8001eb55495f8bed",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab (NASDAQ:RKLB) Trading 9.5% Higher - What's Next? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVVsTkJTekJmM1M1Q1Y5U2xDSEFvX1c0TFdQRmRfdDducXhOOWdMWUVjeUc3U2JHNElVWWlFWWtoYnhTREpXYlZsUHQxUTJkTkYxdlBaSUhDcjVCdk0zMlk0VlFLSmxhVjBOQWFpVklhbEFrdWJ6aTFGdzlrXzMtM2I3QlVQS0gxdDFrYXdKaDJwTVdyUEVlUlZIWjJNdEEta2hJdS15OA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:22:29Z",
-    "hash": "427d79c40a6f476bec843efc53c2574ce6e0ecc6f68c2062f8ff0aecf0693a52",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "Siemens",
-    "title": "Siemens Announces Over $200M in U.S. Manufacturing Investments, 1,500 Jobs - Manufacturing.net",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0lMQ2YxM2ZDdmV4aDZCVUthV0dfVE9CVzhYdE8wVmNrN3NOcVM0d2NlUWloY2hWSWNTeVRZM1ZURTN4LUZLQVFiUG9vUnVnaS0xTHN0S2pzMUpSN1lIVUFxcVI1Sk95a09jdXNxOUR4VTUyVkI0eG9iYUsyRHhQdF9IODBIMGFCYmpaZVZoakdrZzJlMEpYeXVOZXl6X0JYUkFSeHVWcVhnYVVjSk14dXdhalNJSUZiSWRZQ0U1UThCUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:21:46Z",
-    "hash": "396a319550c92d1394189948feb17ffd5372039accc6d99a035fa936335d4269",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Trump Media Pulls Back From Crypto Deals: Report - Bitcoin Magazine",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DVWlEcG5rbVpCLXY0OTR5NVdoMnF3cHMyRVhJTkdDS3gzWktFTmNxTG1QZm9MMldlODdtTXRRS2pNVjdPUUdSUFUyejY0UkkyTnZYdnJmcFRHb1FEcktTX2ZkejNTeVFaM05BYk93Z2VoN0F6Yi1OQ3djTDZsUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:15:05Z",
-    "hash": "5ae2f1eb978fff0f416a61bbf6573d5ce754ea4f9d15e60c3bd2f002cac9cc48",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "Trump crypto news: DJT scraps Crypto.com deals citing market condition, CRO token falls 5% - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHhjX3hYR0FzUl80Y3BCYWdHckNvWWROTWV6dE5WZThLb1lkb3BvMnBxbllsa1JxZmRBN2xoOFUzdVh5MWMzUlRjVXBaT3RncFQtS1J6TkM5T1R6Q3pwazEzN1FPNXRCTWl0dk40cExWQW5BZFdUZUhXamlpWG95amJSZl8zTEw1dExkMnZuWUlicTdaR2NZUk85TVE0SGhNc3lySmlFdjlfeWMtWXQwb3RucWVBZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:13:21Z",
-    "hash": "d313d448def597cc7ebd82166ec30e176e1f42caa7322d3c4c22b50dc2ec9125",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Why Rocket Lab Stock Just Jumped - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMklyaDRTNXNtOXdPbXhTcmVWYnp6eTB5QVE4VlhYV2VpcFJBeXk3V2NTWVF0YWxfVVNOX0I5X1lXekdRc3hqdkNqVWp4QThQQ2s1VGhGTVpEUndNSUZDN2RLZGtZWXlPR3FNVXp0NFFBQ2lablE3UjNoUGZIZWxtUWduZkdkWTJpakhJQjZlUDBrNHBZ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T21:10:54Z",
-    "hash": "1ac4c09c71afd3ec70db0369773f70045f7233d3d5014c8b4cb62893cd59710f",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia ends week up more than 10% as AI chip fears ease - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlUwSF90TElSOV8xOUlmTnRnNS16VWZRMGItMlk1UTA2NHplenJqalVFMVdtbnRZWk5mV0xrQ3QyNFNEa2hVNWNFWlFfd05Ub01wel9MUWpXSEZCcGRQdlgzeGhMbnd0RW91aDlOSHdlZzFXajV2SjgyY2VocWdPSUZaVjMzdkxiNHFkcXRZNmFlRENkUzhOWEV3VWgxalNMSDB6MkZHbUdiWnUtMkpGZWlucEs?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T20:57:51Z",
-    "hash": "dcb87dfd25988f4b3a5dba576ae7f1ea1105527e0c7af675280585fd215e7633",
-    "source": "gnews"
-  },
-  {
     "asset": "Solana",
     "query": "Solana",
-    "title": "Best Crypto To Buy Now: 7 Picks as Solana Whales Trigger a 1,200% Jump in SOL Burn Potential - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjRISE0xZ19YQzgtSU9BMXB5TUhpZTVxdEJ2V0I4aXpCZDFGLWVWZ2ZrdmxnQ244XzlMTFhtSFRGZUZ0dGRrcXYzTzZPY2ctT19jMThtWG9vMzc4NTlWMGFYbW41cHNfWW5SSWVwQWFObkJPd3F5RWE3MDJndUZITE1pLUlVcGRsUlVOQTlzamVqMl9oTXMxaTcyUFFqZ0ZuZ01PZnRrd3lKMGFMb01QbVlDaEtMa3NyX0NORWhmTHRQcURiQnpJeVpnS2wtZDlYOXppZjdQMzhGaUw3cGlpZjhVUnlrdWRBWlBaV2NOaw?oc=5",
+    "title": "Solana Price Prediction: SOL Holds $64, Eyes $82-$94 - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sZ3NCR2NNYjBSem9iSE1TUUFzaDc0bGZNb3E4WHNYU01vejBheHJ2bmFzVU5USUh6ZHlGTHd2RGZoTHZaOHBWX0Y5MC1uODlPY2tfanZvR1FacVE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-07T20:57:28Z",
-    "hash": "83a404e95668cb860b0d5481dbc24bd4ddb77a32f4890c268269377c5198609f",
+    "published_at_utc": "2026-08-07T22:01:49Z",
+    "hash": "2aed38f29c1b69a3934a3e875859d3bc6e9ce6ec489af6c3631beb178b849f76",
     "source": "gnews"
   },
   {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum price today: August 7, 2026 - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3VtVFV6Nkt3QXVfeXZxZzRKQXRwNkpGS1FfYjUtM1dBWS1qTTllbmhPdTlWcnJNV2RHd2xFajVWekVlV0pPRmlYWkl1LU50Slo5M0dvVm5ubGdlUTRNMUxvdFQ3ZU50bzdyRlVORzVNRjdxNDlTdnZKNnlQZmgtMDhxZw?oc=5",
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Prediction: Whales Add $1.2B in BTC as AlphaPepe Builds the Smaller-Cap 100x Watchlist Case - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRXlIVFJ0cjdiRkJVX0R6MUROWUN4T01wbU45a1NMbjRrSEFmaUwwSk9uTVQ4SUdBS1ZMX3FaU3dZTE9kVjB6RXZtdzByQXc2dGhHY1ZYakRvZ2gtOHJlWGFBZHJzYWl0ZWFHeTYyTVduaVhsQjJ0SzFVMTNVNDNWZmtHUUZQM1lpTC1mYWlhZ1kwS2VWZzM4ZnJ4enZVVldNQzlTN0NhNkVueDBsTFJmOTNPQXJjdnJnZTRVbDNjMDY0UF9HMzVINFVFOFdnQ3RKVnFkVm5OOURYVnBCNTVSTk90aFlERlFxenZjQ1I1SVdxQTBqSFNybllld25mdw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-07T20:57:27Z",
-    "hash": "baab084f47c845d280f35656fee18cd50974237313fdd25dd52b35986b6229ec",
+    "published_at_utc": "2026-08-07T21:57:42Z",
+    "hash": "71fa4272f9376e2b83c1b0f2badebe48f6b5d3902ea6eb13ebf94ca236267b5d",
     "source": "gnews"
   }
 ]
