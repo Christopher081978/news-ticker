@@ -1,122 +1,102 @@
 [
   {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall's Hiring Surge and Record Backlog Paint a Picture of a Defence Giant in Transition - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdEhMYko3V1dHQkZmNW0xUjE1Z1dzOVhMaDBJMURKUkY5MVZKNGhmd3Z2cVppR0FxY1U1SGlEcVMxQVlGMzRBYkJmbm9oSE5WSzJoVWpMMlhpYk5SdTQyWXV1TWVLcEJSQVZkWVpGbVBLai0wMVF5eTFCZXZOWXBRRnA0MWtyVlJzb1JUVl9EUExLREUzM0NCcDByemVoVmpHUWZxa2RRbmpQZVRWWEF4SnROU09yVDdBaEI5S25sbVluSnlRb1R4VEZaTzNjanM0S2ZQODVuajd4Z2hLa1pB?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:31:35Z",
-    "hash": "263ac5f7b6111d9199fbd03a61471aba1e2e2aaa0b22009554af4ed91a9cb5ec",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum holds above $1,900 as US spot ETH ETFs... - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWklvSmNQZktkekg5TGNkblJPenlTSjFhOWRQbE1yZ216RHBmVnVsQm40Zi01LTJ3dzNWQ09UeFNWYTYtUEtZdW0tZTFkZmRCNFhva19qU0hQZG9HMUp0SlhDSWNBZHZUMFhLQ0tqeWF5RmY0RlIyb21hWXBBTTRYVjNXc1U1Y2FzcGt0RGRGUkw0VnJfU3pMZEhrdVNIX1k?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:26:31Z",
-    "hash": "ffb228ebed2c236ee02c8bbd7d6c5a788e64c97d8251b53e92f834fd59275e71",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "3,856 Shares in NVIDIA Corporation $NVDA Purchased by Steelhead Wealth Management LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblBCT0dQdXNvOFNTZUxoRlF2RHV6WUJGUTFnRldtbHVJTWlzekdrZTF0RjZfQ0puektkYkFSOW1PUnlNdlJ6aUJHOUlvY3M5SjRUMTcxYWp5WGt4OHdOYkpsaFdWakhHemxUX0tpZ0tjcTNHM1BkdnFKR2UtSVEwM05uM2RKd005M3RrRks2RVNJRmVYZjhWLTJUYkx6RWdYMUd4LXpxNW82T3ZpcEUwTTQ0TGo3YXdzWnExNlBPYld3UFcxbUk3RE80RmNmSjYtZVVJU3Y1SHNadzZf?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:25:37Z",
-    "hash": "be7fb20eb1b26960e26b1dea702f4249b75f3eb3f5f7ecfbb85b3f5ba531a71e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Machine learning algorithm sets Nvidia stock price for August 31, 2026 - Finbold",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObFIwT1NfclJ3NldKUzhzYzBkVzZtV0NtcS1WZ2NjajJqaDdNTm9OS0VWLXB3TFBiNnFvZEZNNEtJUVB0NHV3ZU85d1VSTVNPZXo4RDNHbFliREVlR2dka1dhWWw2YWp3cXN4NVdPOW1MWFNuTFZwRVFTZk1tSkV2ZXVCNVdKTEF0LUVTQmEySTQzVENk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:24:05Z",
-    "hash": "58755cedc53f8398f96df7074a59f0e1c8fd0b2f792fc3ac37752fe7a2dd2299",
-    "source": "gnews"
-  },
-  {
     "asset": "XRP",
     "query": "XRP",
-    "title": "Bitcoin, Ethereum and XRP Face a CLARITY Act Shock — 4 AI Models Predict the Winners and Losers - CCN.com",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFpUV1hwMGt4aGhtUWo0MG9SUlFoellIeHpnX0hHOTVqcFJlN2lxeFJvZ25SbFQtcURHbFl2Q291eTlaMFNqbUk0MF9VbXRPaTg4YTFhaXJ4UXdOMDhNT2JtMXotUm05RmM0R3JBSmc3SDVtcnlOaE0zUDZPSFZoOGZuc0JwUHM?oc=5",
+    "title": "Bitcoin, Ethereum and XRP price outlook after CLARITY Act vote delay - AltcoinBuzz",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0pLVHdfTHFISHJ1UUg1SllDZDJNUHFJazZubjZPX09ZRlA0TF90WGotTnp3QUw0MG5hWE5kaEdLamlWcnVfMzRqWnZTOXpMcE9WemNlak5xYTRTRWhQbW5RSkFvcTQ1UGJZWkI1OHM4elJwdmVyUlRfdUh2MGo5VDdGN0VRZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-08T09:21:20Z",
-    "hash": "e9f46ee37b2c9fb2bf3ad2dc0d58206a2760aedaf6b1db014dbc4dc5814e67d3",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "NewEdge Advisors LLC Decreases Position in UnitedHealth Group Incorporated $UNH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRjJleTRZd0x0eVB6Z0pUTG5NenZIZVhneThNMlpPd1AtbFlCTi1tM1FkZUlqVlZKV2pUekxRRERONlFkcWYxUDEtTW1DOU1uTnJ2elJjUE1MTEJWX1hNeFFwMUdOSWhablg5X2ZhQ2Uzc2I4R2FEOXdIYnBfUFhjTkl4d3N5Z2tHdVVpVm5Ya2VOMGxRc1FkWktlYkpSLWsxQ2NyRGNyWUpkME9LSXlhbDNlTDFKMU1GT2VyQ1VSUFZhUXhwVEpVZ3NqcXo5RXdmWlJfblZB?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:11:27Z",
-    "hash": "e4b9f004b4a96d17f5d35cd5d169acb17c3c1014cd91834da0934e2b81358cca",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "SOL price on Aug 8, 2026 at 6am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVndaWGR3UTYwb3RCRlNzRmxRalJjMmZoN2VCSGN1YWpNS1JPTURPcnhaVk1IZ2dLSFdNQ1RWT1FwTGl3azVCSlNpTE1LTGNHdTAyMDkxZGtlN0I3MWtsZkhNMlR2bnVDcDFaUWg2OWFlQk01d2RTNXB1VWRFSnkxY2tBd2FVa1BON2s3bVNBRmozc19tT0VYWkgyTnV1b1lWWDladm40bG13NFEy?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:07:56Z",
-    "hash": "44c263e965f968af18afba5c2c0a93705b24371f8f7f595d868b9d817b29bfbf",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXN4aXZRSUFpVWpxRVFqMk0tZC1QT2hjT3RYZS16akFiRlpScGNRLVpjUHBNeU11VHl0alJJOC1aWTJSUWxTV0pSaGxjRlNqaWg1QmZGd0VCQkFnUi1SdFc5b2lUaU9yeFlqbU81LVh6SUxDZUZNY1lZRHB6RDRLb292N0VzeWJWSkFBbWdZRWhyNWFxRmpNOEtJajZtUExPNVdfLW9uX215SjBTMUN3ZWZoZXhDdTJScmx0bFJvQ19RTkQwSFBsRTcxWUpidw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:07:24Z",
-    "hash": "82fbe0cc80520f4996af7ce7cd415d0af842a49ae49bc7081f03ce8561918d9b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "ETH price on Aug 8, 2026 at 6am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeTQ2TmVIZTcza0RWRk90eWVzYTQ0S1FOS3N0VDgwcjR3S0xQVUp3OWRSN2FVR25QWUQ2dmJJSUlfLUlwUWFqRlZILVBXakxBYzZlWnVLM2FwMzF6RzYyb242WTZHNC1SQVV6cEZvMWJvb1BJdl92Sk8xVUotTUZ6TjZBTnB5S3F6aGZ4UmNlVUVmWWhVZnVXUzhsNkE3QlRUMnMzNlhHRklvZkwx?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:07:05Z",
-    "hash": "ddb2e2f627e3ba5a7360f39ba72ccba9fb51cdf413002d01fb992f20f6fef657",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUtFUW9rU1FBQkFsdEx1LWhHeEpNVnVXV2dsNlNfOWFPNUpDaHhZaU5zQmQxWE5PNjJwLUFSWk1XeElfb3hFb3ZfM3N2TzllbHBvZTRjTjBrcFlIQXBfNDJaWmlNZ3pGbUpGU0dzVll2MC1KeEZFeVo3SnJDVWl0bWVJSTcwUVJ5VmpQRTMwQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-08T09:04:00Z",
-    "hash": "c46e835a875f9d9fb1386e5f0a3adab29b6e509a0e4def6e50912ccaf2aeeee7",
+    "published_at_utc": "2026-08-08T10:25:15Z",
+    "hash": "15dfdb26906de78815bd9c284c78d3f01819cbab21a72ef443d729d06dd26d94",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "Bitcoin Price Prediction: BTC Is Sitting On The Line That Decides The Next Big Move - CryptoTicker",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkxmRjZSbGFSMGUycGdQWURIVXlYdnd6VEJ3YjBCalJVc2NJR2pJUTFlbXlCemVfUDJoU3poTEF6Yk5yMWxmbUVJNXZpZDJSMGtIbHctQjlqdGFjcnB5Vmo4YUlES19sRHhwaHJPQUhXVHZUME92VmJaVkVBLVNhQ2hn?oc=5",
+    "title": "Pi Network’s PI Reclaims Key Support, Bitcoin (BTC) Fights for $65K: Weekend Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZk0wQUdSZnhTdGVtbGhITXhaQWsycURsVGpRU0pCU0NOUDJlRFhWdlJPaUhLQjBjVWJ5QWFuTkxpMnkzM2R3UTY2VUd5OERub0Q3OUlzNmJmLUtqWlNuNXRhUVkwQWh1Wi16NVN0T0ZQbzNYZVBhS2RUZmxPeU9jMmlheG9HdGF6VzdWOFF0VWg4amZ5bUhwWWdhMDE0dzVvOUl6Vg?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-08T09:00:49Z",
-    "hash": "13cca57fde3195be3ca1b2daca444aee50fb0e002e31868ebd8f2ff5aea03ea0",
+    "published_at_utc": "2026-08-08T10:24:00Z",
+    "hash": "cce8f7de1332d6ce31df72e55a57097e45007ebbf13ab433417dd602d4b220f1",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase CEO says CLARITY delay will not slow crypto adoption - Crypto News",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyTzktQWNUT0FMMVVlUEVudmQtY0ZCN0w2em1HZl8teFBvUnNnc3BITTNuSHVHRGZRWFgtc1R1dnhYejE0eEs5R1NzVm5tSllhbXlvbUd0TjNVdENVSVYybDg0U1lrZDBMTnJmRFdVVkhuckItSmE1OE15QjRRQQ?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Stock Pullback but Outlook Remains Positive - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjlUVkc2cDNhbng3Ym5xZFNvcFY0MFNMbTZWRzJpV1BibXFCQ3JfR1JZMzZXME5Zd254MTVtOGw0ZTJlb0t4aDNHS29GdGVHeDhvOHMyRFdwMDZCSXVMRTVPS3hnOERhSHE1OXV5a3FDemRCTC12TS1KUlRRT014Ykt5OVp6WnV1MjQ0Zw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-08T09:00:18Z",
-    "hash": "8d9facb635870c1cdbd78d3800cdc7969bfdcb6b633b3fca9140db7e1964aab9",
+    "published_at_utc": "2026-08-08T10:08:29Z",
+    "hash": "10b7a03e057cc3a0e384c4fa1ca7189c1a794a4fc0a52641ea29a8ddd9c1b898",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Elon Musk Grok AI Predicts XRP is Gearing Up for Something Big - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYTVMdUZyRE1DTFVXZU53aHB3THhidHZhQXVlQ0ZyYkRoN2lLSmhpWVFWbG4tOUdvZ2hBeWc3MUhrYWJiTWUzWS14QUp3amFvRGwzZ3VRLVRfUzFKdENsRG5iSk1Yck5JSEIxNy14TWpxQnV6Sk8tQlpFcDZHNTl1aXNaOWZZQV9VekdpRHRPYTBqUmJxRmdVdA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T10:08:00Z",
+    "hash": "4ef3d1942bb4a737614bf36b85ef3f228ac0cc922fbcc43adaac0935e6da2458",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Analysis: ETH Consolidates as Key Levels Tested - Cryptonews",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbXVEN0VrOERVSGV1dmpXV0JyNWRDVHVlbWp3NGVmVmxZX3NiUndkTG41T19iNTFJT0FrYkljZGRfSkxBSlZfOFhMYXdYTVVMZ2xRQVVlY0lJUGU0ZkFTOHZlUkw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T10:06:00Z",
+    "hash": "b181b02f663334a25015ddaba5bdc50261246465c175c5a2b518951abc65974b",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia stock forecast to rise 4.58% to $230 by August 31, 2026, driven by AI demand and strong earnings outlook. - Pluang",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHhJRW1aVlA0WUliTGNiTUdiVDBXNENtcjgxRWI1TDJHZHRMckJSQmJZSllxOXdBUldWYlBvUXEyTUdSU0Y5X21kS3p5dUJqYUNlcmVaU1FuVTZpMFZVT0pONGpPNDh2Q0FHSUNHem9iZEM1ZTVlODF5UWRFa0FPWFI5b05PMERxSTh5SzJoMTNWdWhjSGJMNkluSG9OSkpHTmJCeGZqMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T10:04:39Z",
+    "hash": "d29a42c6f7d2edad4e9eaf43368ffc43066ae7d395e0203eb02e85f98040d529",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer grapples with ‘a world of hurt’ after Covid triumph - Financial Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTlEUjMwRTRScVJIck5VUnpJYmc5RE8ySnB2VHVsbURUSHJQMTdDNmoxTC1lSHQ0eG0wXzI0Y0VMa2VUUC1DNUp3c29xUzlBLVNKY01qZWZseDYwNDllelRkTWJqaXRBU1pGaThySVNLLXJfN1NKTnE3ME9ZczgxaXdaSF8?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T10:00:03Z",
+    "hash": "9092362357a98a13030c924e92762cc0a08ba1657a44e10bd02db738ff55c082",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "GlobalFeed",
+    "title": "Bitcoin: Nach dem digitalen Goldrausch – warum Bitcoin-Miner auf KI setzen",
+    "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/bitcoin-nach-dem-digitalen-goldrausch-warum-bitcoin-miner-auf-ki-setzen/100241686.html",
+    "summary": "Das Geschäftsmodell der Bitcoin-Schürfer gerät unter Druck. Immer mehr von ihnen entdecken KI als lukrativere Einnahmequelle – mit dramatischen Folgen für die wichtigste Kryptowährung.",
+    "published_at_utc": "2026-08-08T10:00:00Z",
+    "hash": "d0785166cce7777917dad07ae065197aa0e108bd221b73ff0d5d5e85eb9ab16b",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia invests $2 billion in power developer Lancium - report By Investing.com - investing.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1BMZ3QxRWhYa3JPSWZTTEVtbk1EUmZ1MUhGWWdTUjJlSlJaM29jbUdhUW4xS2RQNnBqbFg1NzRVX1RuWnRqTS1UQklzNGRERzMtcGtRNm9tVlU1YjlNVUYzdkp4bzZlczNuUmduNi1rTGtNX3Nma29VVVFaYUJIMjNrZTQ1UkNPN2p5THJuQ2JVNlpfQnJQWVFSRURrVFVVNUNtTTdxSTVrRUhiY0dJdi0zMDVidDg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T09:54:01Z",
+    "hash": "df64eff85a08c8aa12106b99f712196c057f9ebd857d61641ea4cdc52b64ae73",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "What's Next for XRP Ledger? Ripple's Engineering Chief to Break It Down at XRP Event - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRDJ3R3lGSEQtdWdXUUdxSkhfUUoyNDJGT3E5SVBoYUc4UlBVblo4eTctbVZMcVRXcU0xbDVyQ0N5eXhSYmhvNm1uOEl0VlBOMjRFUUxTQWNNUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T09:52:19Z",
+    "hash": "fe2917f3187b57166eba324a2d7c47ea6f1cc2afcaa1238601f01181c7c2d3ea",
     "source": "gnews"
   }
 ]
