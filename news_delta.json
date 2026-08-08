@@ -1,52 +1,102 @@
 [
   {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Perp DEX Flash Trade to Wind Down Unless It Finds a Buyer - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tc1VxanJPWC1JYTZtX2FOLWN1dkRDUnF2TUk4TFNjOTU5UlZKUG93Z3ZpT1ZRMWthb3dNT3JMajVQNWNvdjR3aWg2ay04R3Z1RkdaUjFudw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Elon Musk Delivers Fantastic News for Nvidia Stock Investors! - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWF9LWldhemkyWVdIQlQ5N183dmxqLVhTUGFYaTZPTWxRbTlZUzBBY2U2ak5MWk1FUFk0OXJic3FZYU9yQ2pDSWhReWVfTm5Vak5uMF9rby1sZ2FDUGtVeUxJWFpkRWVWYzdKb3FYNWtqYnRwUHI3bkNmaENBNjRfZ20zajlIbDVGN3ZxdlhDZ1JwVlJZWWJOZw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-07T23:37:21Z",
-    "hash": "0a369e6497765f7261eb5c95ee36c57923793fd3be9ff151108cbfc589e04528",
+    "published_at_utc": "2026-08-08T01:36:13Z",
+    "hash": "e0673c1bd48523bc543745a8ab9a921df808cfa06e85a201d8415a6055ce078f",
+    "source": "gnews"
+  },
+  {
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD's Balancing Act: Record Overseas Shipments, Delayed Factories, and a Home Market That Won't Coop - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYXlUT0ExMzVmXzlTYW5mUkl3R1JOVHBsUWpLWGpHVk1sMUh3NnJWN01IV0hKN2hGSUpnY2c3M1RFUnIwd2p1NGpVcjIwVDI4TE81bFZlbk9zbzdhUjdyU1c3Zi1ORDJNRktiMEdyQXNPZWhRYzB5aDlZbW1DUjV1N0V2dDFYWjFwQ3JReWNSV29XRmtBRGRFQzJ0b0oyR0hLZV9sNDJ1S0VlNF9VTEhNdmdhR1lVdXhnZVJTZng0RG90aTd5WGE3WU5kcFh2ZlZjR0lSMVFIdi0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T01:32:12Z",
+    "hash": "a5bcb2d2104ce4890d45100b99f5fc42113e8ef63c4060dad160a2c372d869d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia to Invest Up to $3 Billion in Blackstone-Backed Power Firm Behind Stargate - The Information",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9KQi0yZ29oaWZQTUtaRGdJT2NFYUpuVWU1V1BUVk5iVFBsNXNiT280cGRKRGwzTzc1c2dRUm9GeTdkaDJJZjFuQ3gzaEs2U3Y5MkRsQTRaajB6N0EySzZmRGE3WU9wWWZoRkVFTGk1M1U1aktOdFF2dkM4a0kxZWVFQ1E1S2lLSjZIV3VxanRhOUp1elprcU1uWVgyV3V4eXVTLXFfcll0dzhl?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T01:23:00Z",
+    "hash": "59b605f41973f0a471d4bcb8ae0b7b8e614893e6d95d2d3e40057d899f94bdc8",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Green day on Friday for NVIDIA - StockInvest.us",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQam1lTHQzcllWRnRIcThZaUE2bi1WUXlvUkZJZl9MajJuSnM4aDJIS0gyaXh2ZHhoeVlfbEhzN1NndG12VEJiNDlEQmhNYlZTRkp1al9mdllmSDZoSVBBcjBFOEFDdlc1SnRpUFU5b1dpLXNUYmRhMzdmQUh2d0hhOQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T01:01:56Z",
+    "hash": "020d2983ff16198d989d1cb2d943f2c548c087b95d8d682679abf691c8d922ce",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Why Is Rocket Lab (RKLB) In Focus After New Commercial Space Signals? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVpOWWFoSC1fMkpxaDd6OGo3RUNaV2NIRnc0SjB4VGRmNlFwRmlRU3lYUVN5SXpsYVdtTTc2c3hudHdIUUhxQW94X1JUNHdxVElpQTJXaXdSV1J3WUtucGtkZjhQZEthaVhUbXkyZkNhd1dpY1JWbWpjOXRDOFZxMG1rNm1FSUF2RUE2VWp3X0xnUDdJNy1GWDlrakpESDBaTVAzQ1FjS0o0Q1d3VW9JektTd1lPT3dGb3R3Wk9YVHZleW5PcHBsTUFqSzlMd2fSAdQBQVVfeXFMTVNXclBmUU1HUXRaZGRHakFyYlVZRHNITDRKNFQ5bHM5N19hblpYeGJWWTJKb25kSXFpaE5uMUJoakxqNmd3M2xiM0V0MzJsMkVCQWlHUEJLdGNkYWpDbzRWbGtWR2NUZU05aGFjY2doRWlPbVdBa2JZRUpUTnVRRmZVRjJ0MTVucjdUZlJUX0toMjR0QnRYbUFqV0NlbXRidjNTU1JoX0FvSXoxX3AyTU5GUmM2V1N4am13aWRCRG1FSlNPUDFkNTNETGViWDZTemlCN3U?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T00:54:45Z",
+    "hash": "fe4260d57fa063b8cad8ff50d6c26a787de39c853452dafec5e17a968881bb14",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News: Pepeto Closes In on Its Binance Listing While XRP Price Targets $3.5 Soon - manilatimes.net",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTTU3c0RyaUFBYjhUTXdQOWJyR2pWdFFwbS1LRlcwdEx4bDRxZXpzUk02TFVNWUphT1E5U2t2Y0xfVGNFWjMxQjFlNzBnXzhKdm02Y2Zzb2d1Qy00R21ZaDY5aWgxdG5JSDlpZlhncWIxNnFaUzRsX3B6b3BVZ0Y3dlROcXN5RUVNdDN5amZ1Vm5ZY3BDT0o1TThUcGx4OWVpaVRxYy1CQmxvaldWVmQtVXNjaXpVU1dSRVBhQzFBbXh5Q0YtcGpxc2NIX0Z4Ti1rYk1aWE1PSjJVNVVwT0RYTGxQZzBuUUlUVnFxZldB0gHzAUFVX3lxTE11bEI5OUtKX2VuS1FRZmVqQXlycEw3bzhBVDNfZGZQbzJxWXF0ZEVTSkJtdjM5RGtZa0JabnJPcVdsSlZOVG44TDdOcVRTSzZJaERpM2VyZW54a19PS2pJYjZjZnhrTTJZNWxYWVJYQXRVajZrXzhoRGVuSW0zenA2V0FSdkdzUnh2el9NdlRRZ0NBN0tRMEd1UHFNQnByZ0xxNTQwUmtjOW9jVmZhRG9idWNwZk5vNjFOUGtnb3lJR0Mxd3lRQlppSWZ0TlU3QTF1bVBEb2VyM3l1Y1h0TTZITGVVNlFKR2UxTW4zZUEzbmVkYw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T00:47:46Z",
+    "hash": "7b8ca66b51773981fbd8cf96d8d1baffa3bc79270d3ebe59ac980867c24b33f2",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Crypto Analysis: Bearish Trend Holds at $1.02 on August 2026 - The Cryptonomist",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zcUI5Q1dnWXdCSjJnRjU0Q2ZVbWcyZDlVc0xvYS14bDc4RlM2RzhtRUlnbDE0NzdEUmtZWDNseHZ5TEZZRUxBaHNta2hBYkMwVVNmbU15WVVtV0RnS3p3TXk2RWdWWFRjX21qUFZqa3llRklvUWNjdGVsVl9TNWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T00:44:59Z",
+    "hash": "53554b193d72183f4966f17d312bfd70bab8eac1b8b1b7df30ccbcb880a44db2",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "A Look at D-Wave Quantum Inc (QBTS) After 7.0% Gain -- GF Value $2.94 vs Price $20.76 - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclAzRmFiUzU3QUM1YTRiWElKUUZ6RE1iNEJnT1M0RTUxUVBmTXlqNGJMNUhoM3ZGUXRBV3BfVURMSUt0a0p2a0JCVGJOdGVoMlZIeXk3UnBJMi04cTA4S0JZWlppZms0NGRWUlpRbXMzQ3lER2pwWkRIWkRKcU1rN3lxdjJFRUc4OWZLUllBT1hsVUQtYVhTZ05GTEtnOGhFbkt1ZkxZbTJpcnA2U29wdkxB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T00:34:18Z",
+    "hash": "31748570cc9d51bfb427c263cf75f7ac98486a8c9d485dd958f3ee197e72090e",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Crypto News: Pepeto Closes In on Its Binance Listing While XRP Price Targets $3.5 Soon - lincolnjournal.com",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPejBWSTNvNHY5MVZCeXNVV0JlMWJ1ZElZNVAtbTYycEhmVzJkUjJpZzZBYkFOWUNKYmZnLTRnVUtiTnRQc2owOGdENlhjUXJTd3BxMDZ4UGFsd1VIMEpBaXdhLUV6bjQwSzZmNlBidS1yTUl0YUpzelFTc0I4OEg1bFBBWWhIa2JRTjVKVjU4d2FveFg5Zkd6eUdyeG9QUFEycm9oX1IyVWtGV0NKWmNRUkQ5bmJiaFo1ekpSVWdVVFZtSUFONTNzcXNsdUtEcXdGTTkwVU5ld01jTnBqT3gxMU9YeFJHYXUyYUtkWjFmSmZtbWVNeVpCbXlDRWpWNDJ0cDk0Ml9jZzJONml1Wllsb3lXU3V0RTNZeEdr?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-08T00:32:00Z",
+    "hash": "a303a4187cc9d8a5603d203f2d71b07c8ac7b7984006504da7e47f2a0b399a64",
     "source": "gnews"
   },
   {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "SharpLink Opposes Ethereum Proposal to Burn a Growing Share of Validator Rewards - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwZ3FPaV9HQXRublBaakpfanJmUThqS2MxX2RDYUg2elVnd0hfNnphLVhET1JNY0hjZ2xDbjVTbzFjTXBwRGVJY1dodm1Oek5tek5XeVN5S3FqQQ?oc=5",
+    "title": "Ethereum Price Prediction: ETH Reclaims $1,900 as $60M ETF Inflows Meet AlphaPepe’s Smaller-Cap 100x Watchlist Case - streetinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbDUwRk5pa0ZpYmlER24yLXRmM0VMbUZEUUVjNThPOXhjV0ZKZVItcllnckVPZTJyMmxoc0g2Z1ZZX0NuTUc3bjdkUVo5V2JfLXhEQlhwa1JSaGNuMzg1US1EOGFzenlnNDNpYlZZNDgzOWdRX0JSQW93QkwwMms3VFBfOU1VQ2ZGWE9aWUlzbkI5ZEJuTjdtMU4wMjBGUVpXMHFUT04xSGdhRUw0U2h1LU95THdNWmg5YVBBT1VEaF9rejVOdTJBbXhrRjlQZlBUYjlGX2NYMzFuRGpnT1FjWUFUQnBZT0FGaVY5bUo0VERQSzRvYWJrWk5CWGpuRURVTmFHVjlCY3dtaGhTb25wRTNTVWxLVmhtQmxr?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-07T23:28:04Z",
-    "hash": "7ddaa59da66a5e2a170b24ee5ff8ff8aa5fde08f0b1eb8756a23693d1736d775",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Techunternehmen: Umfrage: Mehrheit hält US-Techkonzerne für zu einflussreich",
-    "url": "https://www.handelsblatt.com/technik/it-internet/techunternehmen-umfrage-mehrheit-haelt-us-techkonzerne-fuer-zu-einflussreich/100245888.html",
-    "summary": "Amazon, Google, Meta und Apple: Deutsche Verbrauchen schauen skeptisch auf den Einfluss der größten Tech-Unternehmen.",
-    "published_at_utc": "2026-08-07T23:00:05Z",
-    "hash": "93ef3d3dd1f0750c3b9825f83240207a28c0251a5347e7154f9100efb6b335fd",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Eli Lilly's Timing of the FDA Filing of Its Next Weight-Loss Drug Is Now Official -- and Novo Nordisk Has a Problem - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV0lVTzV1UFlBTUptT3NHRFFPTy1oeHBhdFpKSVp2ZmJMMlRHUHBuX2xGRDZuQnZfWXI4d2lFbFF2NVE2WlI4Y0NsS2lJdlFrcVJPVVlRbDNnLWJBUnhXcGpKSjdUNWxjbkY4azhzX3FtVW1SZW5CblFZamZuamhteDJyRE1XYWZrZURvZE91RWlqcGFOZVhZSg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T22:58:50Z",
-    "hash": "810f5d50a74067fac5c505ef0f4cd9ba98b63cf929f8c5f8c9b0a170b5b62e39",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum Price Prediction: Is a $3,000 Breakout Finally Around the Corner? - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VkFpSFZ3MkVqVHIxOTg1R3Z5dGExdHJoNnVmR1hrUjUyY0QtemtfNzE2OHNGSWdyYloyWm1mb1J1U1hpc3ZudDBRdXA2VnVhNHVUY3g5QTZpUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-07T22:56:49Z",
-    "hash": "d42fbc612739d137609c205527ee389e798396b1e733130437e2e426b0bbcf82",
+    "published_at_utc": "2026-08-07T23:55:48Z",
+    "hash": "d976b2bda94503062cd020bdde2c97fa48d98b11141efdca5164c44e683acef1",
     "source": "gnews"
   }
 ]
