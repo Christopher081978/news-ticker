@@ -1,182 +1,132 @@
 [
   {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Company reports $30.3M Q2 loss despite $2.5M revenue mainly from staking SOL tokens. - Pluang",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMEVjYUN1NGx4ZmIwYlZGZkhGZElkU1VtTTdkUk8xUVpOeW0tbHg0RWNJOWJXT2JrU25jdlI2aHdEWl9KRTh5OHBlemNuYVNNSTJSRnpEMTNxeGNPLUpUUmlMb05EdGxwUV9GUUw3c1NETHZxV0h5eXV2d0hLa2U4UVdOUERRdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T11:27:32Z",
+    "hash": "686ec36503336f869fb1cb10fdb573cfbac20e62775e4f327ff8a0610d6881dd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Inc",
+    "title": "Alphabet Faces Financial Risks with First Negative Free Cash Flow Report - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOF9qc0pYaVN0QlJnYlFjRENXYTFFT1RkOU4yV1VMcDluWkZvdHFwMDJzRVVyNFB1b2RETjEtb3BvNUs4QXNEWlBVVUYxTVpSUUxnanU0dnVSTi1iZVZ0ZTdNaGRwbHp2ZUNUTjRqeVl1a1FtTlkxakl6aDUwSG5YVVZvZmwyU3EycmlYY1JtM1k4WEdUZTBqSS05d3BaYVJvc2F2UFk5a21HQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T11:10:51Z",
+    "hash": "e651d254f76eba9621a159c82b09233517c258dcdbe4f10c506b61a740824542",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "HYPE price on Aug 15, 2026 at 8am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVld3bWxVX0d6ZjJ6MTRtTElwYlMzMVdSZU5uNXhJaGpPdm1JblpuQzNSS0E4OG1MZmowakhlOXhCRS1mTmdYd2V4Qi1VWjFGX0FSS000RWs2MGZNVlc4VlQyR2Q2blo2bGs1WW5TSjhYT2xyak1ndDlWcEZLd2NqQmVibEpOazI1ZVJOd09VSFE0M3Nsd0dWNV95UzRyTlBJQ0F4MjlubHdJU0diVkNB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T11:07:29Z",
+    "hash": "d848bafe2b4ec5e32ef0273fd630027e5adcb560adf92bfca4d79c7c78673908",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "ETH price on Aug 15, 2026 at 8am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa05PdkEtX3haVWR4RnRtVGN2cVlaZXNVYjNCTkZ6R1Nsa1RPWlp5Nko3MjRwWjUwaEN4bHZGc3ZlRE42MmhGTF9pNG5ObFE0M2Ztc19xNVVTeXNIT2otN0ZZMlpudGdaampmRWc5VVVXZnllM1hoVEFZVk1Xc0t5VzJFbHZpTTRtSklmYWl3NG9Jc2VRMGY2cHA0NTctYjkzTnJfa0JQRDlwcWd1bnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T11:07:18Z",
+    "hash": "193c6f95a7fe1a5c1dc20b351e385a58071b37aa9d50c8c73695a9069ef337e4",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "XRP price at Aug 15, 2026 at 8am EDT? Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUJYbVJxdzR1aG5jalBGRUt2d2JfTllRck1wSHFCTG9JeW5ueEJOeUdRcWc1amR5MEtmMEdNZ0xKY1diVkRFN3VMY2MxSFp4cThSdUZhYjRmVFZSTi0zYk8zWnJMM1loZ2xfaFJoTjl1Wmwtdkp2MkE1TFVHXzNJbkloYnZ3RmZsTEZUWi1CcW5YaVhKRGRIU3lPSEpLeTZmNGhqVmh6RWIxY3ZjOEE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T11:06:07Z",
+    "hash": "3338ee83df30588b894c97b94f832cc520844f3a64db0df3820c0e0c50912896",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Company posts $30.3M Q2 loss despite staking gains - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xRURISnpDbnlGYlJTMUZoWTRpY2lUWmc5eFBMbi03eU9CM1ZhNkFxdVRxdXYtOVlaM29qYU0zb0pFSmNyRVozMjRRMk5IYklmMFJOM2ZJNTlhdFI5c0hXZkRlWmFwenZSR0VwX3pXRUg4bDZiXzdTRkpRZ3VzLXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T11:04:38Z",
+    "hash": "bf804c5757ebe1d949ff4ad4780d8ce1662bd5c93ed3d2cb3fa5c72b470df67f",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy's August Boardroom Showdown Looms Over a Record-Breaking Quarter - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQazFLZ3RSaXhDY2FmTlE4QUxRRzdEOGlVYUthR2ZsT25UNjVvak1QMHpQNDBVSTdhY3Fqel9WMlJad0dwVF9LVVJtRDVwd2J6cktMMHpzSFZxRXFWLUJ5OFlGd0Z5RTBqTlo2bEM3YjJYRmpaVmU3UlhONmtZOUlTNmNXRUdCNkxLVFRpUGJxV2hZbG1xZVB5djF4cmRXT3VhOWhzZ1J5MXJMdTRuYUt2OF91UkRhZ19odGp5UUdRR2l2UUk2ek10TDFGdjVfZjZnNzBlM28zaVp1VVU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T11:02:04Z",
+    "hash": "4e4b72b9b7edb2dbec75ba56083052edf1a2bd65a48811b124a28f81b8b9dfc8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Jennison Associates LLC Has $510,000 Position in Unilever PLC $UL - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdVZkbF9XQ09TZXZfTF9oRVZ0MTNmSmR2c01HVUxfR0E0UjZfdkVvU241OGRjNU4zSTFBMmNvVFo0UEFmV21falNFb1NfRVE5Mk55ellvSjVkY3VtMGFnVTRucGpfUklXajFsLUNfLXJKODVqQkFtOXg2NmpiMENzLUxNZW8zQUxjel9TNG5SMm16WGtWVUZhWktNb1JQZHNFWlJHQnJzZE83ZlMzVzRKdXdqMlotRGd2NzJLdHJtcXI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T10:55:30Z",
+    "hash": "f3e5753fc8f4fc2c7ec40c35356c240604404abee234e73754e1b106b03703e6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Jennison Associates LLC Has $4.95 Billion Stock Position in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOWNpTmllcGlUNUtCY2V2WVdFMnVUOXdwc3NabFVzcDU2WmxUWU5uOUVVUDE2LWZIR0JnYmVqZ19hUnhkWmgtcVROelFxcDhSQURVdVlFTjQ1d2JGZ2pxR3ZkLVNkelFMdURkY2V0YWlnWU1aX2J2TmJOVENDYkljMWpKZW0xU1pFMlZEUm1tQ3V3Y0dRcUJ0YVBjUGNpZkdfaGJkTTJ1aFBjZVdxNjgwU2J5UlZydDc1SDFiWjQ5eXhpcEdPQlhMSWdqMTdlMTNvMWc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T10:54:43Z",
+    "hash": "4604978914f7bb794068ec6807a5528d2be904e2cf0e4d7103cb9ee3e0ef9ee8",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP price holds $1 as whale inflows hit 2021 low, is a rebound coming? - crypto.news",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaRFdHdU1jNnRYclNUYlFUcWxXZHhDNGd2NU9PaTNrN054QXZQajlDVGs4MHBkS0VLV3dGZDdKQjc2Y0dvZFpad3dWZWJOQktyS1N1eHpNTFJOd1dGZ2tJQ3h3UW1IbEpadFhQVDNhZFA0cHNNUFhB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T10:46:25Z",
+    "hash": "d80205896d88e86f97a9fd962d48379a6ad2a5ab53163e4671a8f676f3fbe7f5",
+    "source": "gnews"
+  },
+  {
     "asset": "Ethereum",
     "query": "ETH Ethereum",
-    "title": "Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUdmeS1sY3UwZTEwVFJoY2tEd2s0LWlXeDhqbzlPeFJGN3h0aXNiVXg3X1kxUTVwUGdMN0RrS0V5ODk4SFpVYjlwOXYwMmV0OUx4LVJHa1picHhqd3k0MVhYX0ZSSjJ5b0hNcjF0aGFhcW96eG1FclNWR0hlYU8tLWRRU1lMUE1zU2U2WHZWa1UtZTBHOTU5Zw?oc=5",
+    "title": "Tom Lee's Bitmine Continues to Buy Ethereum, Now Holds 4.8% of Its Total Supply. Should Investors Follow His Lead and Buy ETH? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaDZLOUNTT3pET0NGa3lzM0JScmlSTlBEWkxJeDBxNzNmM1dmVkJaem4xMURqR3psaVoyWTdkemY1Wk1ZVlBSOWhfbmJEeXFZSDJLcmIyOWwweEowQ25fWFc4Z0hvemdMN1J4QUc5VWFvZk9vVm9hRE82OHNyaVpjcVVWVUdkMVV5Sm5MVnQxb1lxTUlLcVpHNFRYOGxDU09RamVEbkJoVjhkallnX2Y5TzV5TFhYMHMxQjBUZEV1WE9GbElqLXQtOUlMQ2RmUnNVbGdMX1FNM2JrR29WSzNyVmJCR2xkZWVQekw5NVRIWUNKYXFIQ3gxR2ZhQzk1YXl3Y19DUXBoMVJDelFYaXV3MnZKWXltdWx5UW5MYzNwWFJ0d3d0V2syeXZfQXh1Xzg1aHc?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-15T10:30:41Z",
-    "hash": "050a2852affe0948899bb5cdc4387d5b3f37b983d4089d99c173057b5059ffca",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Alphabet Inc. $GOOG Shares Bought by Massachusetts Financial Services Co. MA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlN5MlFaZWxMNmZCRVdwWVdxbFBnN0JKQkJKTUMwcFRVWjJPLVVPNUtMX09uWDctUmtIeXhZXzNyVURKdHhmX3lVVnNDS2F6S20xbXRHeEhqSnR3TDFMRll5VzlHRFA2b1V2SW8wb29OUFMybFRVQVRDU2QwdnN4bGExYXhHeTRwSmp6a2pnaks3NERPM21fcHd3ajZyMEZ3MHlncXJsZmNUU0oyMVRHSlF5MGYzQ01LY2NadloxTW56X2xzTE55VUZxZ215bEk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:28:33Z",
-    "hash": "da252607906b5774f4cef5a158854ee76c6fee5ab3e44c74b162ff9d404be923",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "The Evolving Dynamics of XRP Investment - OneSafe.io",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1VOYW9QOXh5R1FNLUI4bkVRZFhrTzF6cUg4RVhBU1M3eGFWbGtacEJFenc1WDV3QmhCYW1pUGFQdGlrdGl3MlMwQlVmUGhGb2FadHF4YndjSi1zUGFEZWg1cmdJRDRzeEx1TnpuZXN1VkNKR0xyTEMyY18yUXE4ekd4V2RLWWxlcWhKRlpMdkdJSFk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:27:31Z",
-    "hash": "ad401f4c2715892b6f193b2628ed36e823e47a87b9050200a0519a4bbeed6d63",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP whale inflows to Binance hit lowest since 2... - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajhJblY4VXdCZkN6VTdDR1FGWk9YLUg1RUg5LS1mT2JzVWhXb0VNR3VORjV1UHhTT1Q2ZlBiUmp0TEVhT2NQQXh1UXZtSndINGtPX3dkOXhodThpTE11VG5GLUtnQ3l2T0p5VktxY1RXZTQ1UFpEdFd0cUdTc3k3QnVaV0piY0tsVlR4LUdFTXMtX3FMOFNpQzgtU1paLVBxREg3MnZNYkZJV1FFdFVqSg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:20:07Z",
-    "hash": "b22e98ce9ff7ed5c19ba643e0e476e883a16247038ea25b14aa3178dc1668836",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Trust Point Inc. Purchases 3,001 Shares of Alphabet Inc. $GOOGL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaE4ydzI1TExsS3J6SlpEQzVXVjlvSmJQbHlpanJwQ1VRTjlSOHYzUDhWeVZ5UVdaUUkyT2htcWJ2T1ZuWF9MUWNfWnRad05wM1UwY1QwM3lqQV9CYlEtZUgybXRGTVUtMDVzX2Zsak02UXE5Q3ZESkJfVHVnQmktZDVmdmVMN1h2WC1zcG9Eem1hSnhfMmdPb0V6dndCODJPLVJEdE4yeks2ODhKV3FLSEkyVDJ1RmM5RUdaMg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:08:30Z",
-    "hash": "8fbc2ef132beedfe7c5c0593cfd59556ad5fc48e5303560738dbc52a7a625efb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Inc",
-    "title": "Puff Wealth Management LLC Invests $1.36 Million in Alphabet Inc. $GOOGL - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSXJFYjZPVWlEYTRJbk04ZHNobjR0eWlIRmJlQ2VUeXh2MmVNVWppUWUyeGRNYnE3ZzUwdmR4M3kta1FtWDl4dFRkdVd4cTBBTmRsbHM4b2ktM25fNW9WY3ItLXJKV2NNb2h6QVFTOG1KOXdGLUJSb1ROOHhmMjBBN0J1aXdUNDdDQkxyOVo5RC0tdmprdEdBX0VIVE4wSF9jYS16cnlFLXhFa0tCbWNfekdWTzlNWDVva1FCeUhxS2xpVjBTTkJaWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:08:30Z",
-    "hash": "d3fa7c2a938c8929d9f34e9114756ef4c055a3b60fd49c5a819dd4d60b3f4543",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "HYPE price on Aug 15, 2026 at 7am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1A3eDE3Wi1JaWFsQlc3Z29laE9XeUZaV29hSFpiYW5uVDNUWEZKS1pEcmZWMTRuc3E1bjA0Y0J4cTc0TzhudTJjNThCaDJ2VUJxaldVVHRJU3dnSVpIeEZRWTVIWWpRaDI0OFlFMG9lN1M5cmNrWExya0JDVVdfbkdZNm9uVlZpNXp0dm1COW5HNmM3azZLaHJVR3lRWTY3dDM5emU4d211eUlMVUE4?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:05:50Z",
-    "hash": "2c1dbd0c1e2c87c4cc2b82629a0380f7f9eb36ca101a3ca750b30cea447ea965",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "ETH price range on Aug 15, 2026 at 7am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFdpSGIwUUNBN0JPZTF3S1JXQTJ6bEszU0FzWXJwRUFocm43SUlCYUJPLWZJdDRiM0RZT0pYOElWdERqTm85aG5TdFJTd1RGV29tREI0NnBORERsM2dGdUduZ1J3UWM0cG1oR3hDQ1kwU3NhLU5fYzI4UlNWLXNBV2RlZXhJU1dsZElKdGx2czlJNkFKYVVpWDVVQVk2VEZMMmE5V2YzYm1BbzJFYmZjQXlsTTl6dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:05:50Z",
-    "hash": "050ba0dbdd3e22a3b74eebee899e5a5d74c29678d44f5e135573b59ca272f7e6",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "ETH price on Aug 15, 2026 at 7am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzZvYzlueUpMUE1BZEtXUThZMUdKeHZJMXZMMktQN201SEhVUmpxQ0YtaHhsaUVPUWRJWXcwTUs3UW9fSF80cTU3ZVMtZUIwUHVqLXB2Q2owQ2dmejZNSEFVbU5VNHpjWmtOZndFMzRTa2pVWmhKTnY5S0xwOVVSVDA2dGJrLWI0NUxGMWViRHcyNmdkVU5ueTFnei1uUlBRYnVkTEVnTHJic0lzZVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:05:25Z",
-    "hash": "aea42b96666fea3ab6a96bb21d12ce6299acacc25d0c0afa09f40d1ab5562d53",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "XRP price at Aug 15, 2026 at 7am EDT? Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUp3cUlKRkdRYTVsaGc0YjlZU202OHpYY0FTR3dva0RvQVIyLWdDMllla2RWV1BQSWJOYmdxTUZreXhrb1pLcTNZNy1hN1dkdVNKdURaUTQtcmZXWEtBaENrRE5FOEFwNTduY3R5U0NDQzgzVGZUWVdSdGxsUnpsOU5XanRmc19rNHhURTl1dHo4NFpYeUZEc0Zsb21xSVBGMm9Nc2VBd1BsaFFwNlE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:05:13Z",
-    "hash": "950c90ba6d57c5a949e613f085a5f095781825966d014eecbe45c0d91b094daa",
-    "source": "gnews"
-  },
-  {
-    "asset": "TSMC",
-    "query": "Taiwan Semiconductor",
-    "title": "Wealth Enhancement Advisory Services LLC Purchases 28,986 Shares of Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVzdvSGRGU3dmN0tCRC1wVWhMVnZIYi1NdWdRM0M1X1NiTFB1LWVuQ3ZKa0UxRHYzS2poV2FiQnNWZFpkQnNtTGEzcW9iOXpxQTI2UnpyLU9XSERucGZqMGJnTlhETzRDN19oQ0NjTl9Pc2FxQV9Td3VneERSRVlFTElTYThCZm45eVREekpTWTJrQnVlVVJ6RDZQZl9PMGRkVVRrd243WTRWanBscW13S2hZc0hvQmpSTWF5RG5RU1V1b01MLWZ3dk4xdXJubm1FR2hJeDRnSXBHdW5INmhnMGFZOTV0Q2FCX19KUG9Jdk1lQmwtQnoxa253b1lERGxKSXVkZi05XzF6QQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T10:02:44Z",
-    "hash": "e1a892fc6d573744bf8b4bd1b6c69be85bb837e6ac8db1002fcb2bc5aa954bf4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Pine Valley Investments Ltd Liability Co Invests $2.32 Million in Novo Nordisk A/S $NVO - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVVVfSjhJbkdwRlQ4b0JiQW5qbUJGUk13YjdwRTFONko3QXlaUjZtMktoY3pSTmdzZ0VWdUptTUNmZ1ZmS0Ftc055X3UwdVBzVGd1UUhLSTl4ZGhlbTRCaFlWMVBkcmxKb0U0QjlKd1k2YnpidmxrcVJHM2hlYUFwYU5rQ2ZrZTV3cDFDQWNReks4VENzRzJvWFZiaFAzcDAxeXlOWjZqZ0xUSDBJazlHTXJyYy15aURKd2Zkb0MwM2F6S3ZHZFVaMEthSk9Fc1M0YkZfMS1kYnVLajRs?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T09:56:31Z",
-    "hash": "6889616602f5cec5980870f1b8e2353c6bd3b8e6e819f8f644fd6a4a66999b37",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GOOGL",
-    "title": "Alphabet Inc. $GOOGL is Renaissance Investment Group LLC's 2nd Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnY0RmpZaHhoU3p2Wmp6VmljNnJqMC1NYTA4NXdFelZoaDhiMGc5WUI3X3JmYzRZMW0zZVgxd09CSkRuVTIyUjdZRklDV2dNV3ZZS3haQ2JxbnlGSlpKMEFlMHpqVjV6R1ZpdVE5c0dEdjZXalBLeXoySE40bmxkR1huUjlDelBKUi1wdlpId0c5UE5OR09OQ0g3N0RZMzd0bDVmNWJUUW9IN3UxUzluSXZlNTVLdExkdTRHbllhcjNfOFRQME1YYm82M3UtTThSMnJR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T09:55:33Z",
-    "hash": "23ef72bded1849f25bfc19c9218b3ea8f3ef01db9d3b5ad5d9580ba5a20c707b",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA Position Raised by Pacific Excel Wealth Advisors Inc. - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ241TGZtQzFlZjV1X195dExaU3piX1p5bnFIVlV2dzBDZDcxX29MS2o3VFFrQkYyY2ZSYVgwR3kxblBmMTlzTEdQcmJPS1lKWlBNdVZMb1VJTEhvWE12ZzgwWlprTGFickpqcFF1NnRZZVFmc2tCU01WN0kzanZad2VXaE5WWnNjZEJNQ1pRZ0hSRXViLUlJM01XdVBxcDRwRURNZWQ3NlZlWWxQVEJkVmM5S3JBOWVGem5Oa0xBTnQ3QW01U1M1a2RLWjlld0lVMFA4?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T09:55:12Z",
-    "hash": "5ef606ca0e7b74ad83a45a85313a717a422c6435be404d21f82cef971440db55",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA Shares Sold by Moody National Bank Trust Division - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1QtZE9kYlQ0am03cHNzUzhWTFdvVkVvNTFSbHdQZnhzTTFqbWZFcXFHOXczTmNrTXFJSHFHX1pocHhLaTdRWFVpZkRQQU9UWURQNWFYWUhQUnktRkJvd1N4SEp4MkFfQ09lNDFfS0dLcnFWZy14RXlPdDRoV0VZZG5SYjBkcTdzUnpLaHdyUnBMWEY2Y0ZVVzNTbU5EVkJyM3lNS0FJVm5WSjZCSWUzUG5CWTl5dmhJU0NvcEQyaURlR29Oc0paaTdBUWJrdE0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T09:55:12Z",
-    "hash": "37b8fb9d5a6e467efb790097a74c89dfd88abf8d4f21f4f1173f914d8d694a08",
+    "published_at_utc": "2026-08-15T10:40:57Z",
+    "hash": "05baad7f56c9fbda5fb4b26bc68446cf2817056d75d4d34a1c98b1bb0ef3dcce",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
     "query": "Alphabet Google",
-    "title": "Alphabet (NASDAQ:GOOG) Stands Out as a Quality Investing Pick - ChartMill",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHJzZlZmd21Ib1ZrM3VQLWEyakp1bGNZMmdZMW5nVkpIVHc5VmRoN2t4V1FxQ0szVzRXMVU2LXh1SHFaaGIzOW1mdTlValUweU4zSFk5MjFYUEpzRDBmTDNqTEFmczhYOTlFVEVsazRvZDNmdlA2UVdoNE01Y0ZWV2hWc1l4TnU5ODlObHY3SVBoZDFXN1lHX3NtZi1CWnpkd2VFU21UbktkLXFwR2ZV?oc=5",
+    "title": "Lowe Brockenbrough & Co. Inc. Has $54.46 Million Stock Position in Alphabet Inc. $GOOG - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcGkzSHFHb25wY1hfdEdRTU1jUFpNa3NEZTBKc0RSbTJ2OFVTaENSOWY0SVJqVFhqcm03Vjh0UzR3aUphdVQ4d3NPZjBYU0haTmdLSzJvX3hMRHNTdVFzYjVDcXQ3dmtqRUFKcktHZDloZzZUZGhxNjJVRExGT2lhRmFVQjl1TEgza1JNcjFlbVlaVFlaX1U1ckNITmNaTWphcXFDV1FDaTFKTXV0aXhRLVhaSHdEY1UxcGRwNUltU0Y1U2hpeG8yd1U0aWE4d3ctck1JM2lR?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-15T09:50:56Z",
-    "hash": "39dbd74751405325e0018ccf09b1794bf67d98ad84d074144a797114c978faa9",
+    "published_at_utc": "2026-08-15T10:40:46Z",
+    "hash": "008ee02514a33db551c4c4bb4dc592517606472058309340ace4592393f77188",
     "source": "gnews"
   },
   {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "Pfizer Inc. $PFE Stock Position Lifted by Park National Corp OH - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOby1VYUQ1cjhyR1lzZzk3TF96eDF0VGcwamZxU2NQZjRIYWFIcW5PUFBiUko4NUljZnI5THdVMVE4UWZWcTNMTWlETEI1aGdfdkJVYWN2eFBXRmFxNm93MEYwNkZOSDd6N2hLa3VyRWtwYVJxNUpnVUdhWTJLM2pJNjMxY29CblBsNjRNWk01Z0ZzYXFzZ3htbU1VaGpfUm84cVo5R1pIZmxHUGJzM1hUTzBLUEJSVm8zM3ZvU0hQYw?oc=5",
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth Group",
+    "title": "Oppenheimer & Co. Inc. Reduces Holdings in UnitedHealth Group Incorporated $UNH - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSXRiMlpneVcwTENnTktRRklDVjZxdF9FUnAyN3Y1aXFndDJsLWZPaERHcjVWTmEtMzlzOW9vd0F0cThPSmdSa0JrMFN5S0hEejZuazFnTERSaE12dWdvVnZLN0E0SFltc1VEamJ4cldNektnbFpPS2ZHVEVlU3RoSVN2bTZ2bndocWhBbzlLT3JtXzYtRVBHOFp2S29nWVhNOFdyZjh3WlRXd2xTUHUxYjljZDV5OE11VWh1ZlVUNWNGRmRjNHlySGtzSFZCSWNR?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-15T09:42:21Z",
-    "hash": "ab7688fa0fea337e75efeebfcff906b940c05a7a781679889801581fe5ee361c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "Pfizer",
-    "title": "Pfizer Inc. $PFE Holdings Lifted by QSM Asset Management Ltd - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVlJvLTc1bklyaGhCQ3YtMERMMU1wZjdGTGlpYk1BVlBlekNXZkhTblpJSUNwTUdRdXhtSlZ3Y2NqckVlcThqc0FIREVtamtheEFwUlJEajRSNHZ2VV9oSHcyV1lRRktCN090SHg5MklPczNISXBhZ09CS0tiTW9aS3hIUENZdjI5QnhfV0x5aEpWQjY0Q25DLVR3c1ptR0JZWVpCTTU3V1RUby1uM2diby1OSl9SdU8tbUhj?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T09:42:20Z",
-    "hash": "c5abf1bb615d0fc7784471ffd934bfba0781867f6b85d38a0762d0a57f4a18da",
+    "published_at_utc": "2026-08-15T10:40:41Z",
+    "hash": "b9d536b7d119a9a6f89b00b9dcecf5f72220986421e25126252a2b688f1e6ddf",
     "source": "gnews"
   }
 ]
