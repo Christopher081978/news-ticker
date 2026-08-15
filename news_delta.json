@@ -1,92 +1,122 @@
 [
   {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab (NASDAQ:RKLB) Downgraded by Wall Street Zen to \"Sell\" - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUtzRGNxWVc0cjN5RHNQbkpNWHU1OVlYZFhmVVNEQXRmY1ltamxpcXFncF9RcnFzbkNCR2tJZ29hb01SNFBEcnM0YVExV0tIU1pPVkFEbFNaRlVJdjhTdVdISWVpMEk3QU92SWt0bGhSNG9MU1ZEeTY1SlhlaWRDNFhEV3dYVC1ZZml5X0V5WVNqQXNrV2k2UVpLVnFtRG9yUmd3ZGNxbXROSWZmQk92d2ljWQ?oc=5",
+    "asset": "BYD",
+    "query": "BYD",
+    "title": "BYD's August Product Onslaught Puts the Spotlight on a Crucial Board Meeting - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS2R2emJIa1Nic3BkT0JBbk8zblNnQWdva00yYkZYSTNZeUpUTmdVVldUeUxZSjZUc3lNdGsyeEdTbkZkbzFHMHE3N2J4Rkg1M0RpV0t4X1pfbVM1STFTZVN5SE1xRFBwUEYzTEVsUEFpTW1ZU19PLWRPenhLN1hNMEI3c2xFMnJaN2JZQlJNb21VZnBNdUtFMHJBMDRBWmhaYmRyZUNzWWhrYjJwaHk2ZG5NdDlZNmdnOE1vNTRtUmxfcEtPdTY4N2N4TkFEeDVXNElYOHd6OA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-15T06:47:15Z",
-    "hash": "a65dab394d24f79ac39876a20182eeb6e118c13de79b27d5a333b8ece01ee94f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab raises price target to $209 after Q2 revenue hits record $234.1M with strong launch backlog. - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYkNvMGRaMUZFZjZMV2RqNlBTVnMtc1lQYXNNQ2M0UFJFSFBseUJKcmw4VXpscnFTOTZhRjRlaThNU2h3Wkx3ZzNLNzN6bWF5QkMtT1VpZEZKaWlHQV84UHVib1NWQlFkVXpMazc1X1E4Rk04MTZkZ3k3Vmd0cnpVS01lQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T06:22:15Z",
-    "hash": "23af2e14a80c902b5fff83934deeee2607046dfb685384c416c1c400c2dcef60",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "XRP price at Aug 15, 2026 at 3am EDT? Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMTlTZHFBR1lCLWNVOUJjdkltTW9tb1ZxcDJBNkVFcEhqclU3T01nVTl0SldJbjVleXp4ekhhdi1valRrclNHZnpVXzBrUEV2a2xhNldsd0dRa1BxY3AyTUNjbFpHWHBoYTdWNG14RmdTdVh3U2RXczFzQUc1ajhwQTcyWVdMSzNrbXFTb1FrQWpfVDJkcVZxLW1DTlVqYldrQzRGVk5HNmcyOGZ1aVE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T06:21:09Z",
-    "hash": "52d60647b3ef05b6c2b7939d1dd89fb1cf971c9d6e14cd54b0528a3f4d68c594",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "XRP Paradox: Why Ripple's 'North Star' Sinks Against USD but Prepares to Beat Bitcoin - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zRE9SaUFiZ2UyZ1dHRjVTRGNSTVhMNldHVkJBYmFTWWtKVzRNeHNDd1dHTlJDVDZuMzJfVVhGNnRQSFZtS3RUN2RPWFJKUUpad2M5MlN6UGU?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T06:17:55Z",
-    "hash": "dec83772ce99703a67113e7f7ecb9faf724ecbec87083f8ca423d21ac9b7f03c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Dogecoin price on Aug 15, 2026 at 3am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzFmUno4N29RSkRIUVVQekxHd3NWUFBfZW94SzJWOU03R0kyUXduZ3h2aW9vcVFMUzhlOFAyNmpfNHZ0Wnl6WG9WODVaRDNzaVBxY295MHFRR2o2V0ZmNTRYX25ZYWZVX1NrdGk3ZVJCV0ZTUkN5UU9IM2k0b0llOXZ3a2huR1QwU1F0V1JCNWpnRVNzS1JlemxVejBhM2xfVjdNdzBPM2RKUU1hczd0bzJwN2U?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T06:16:14Z",
-    "hash": "0523242dfed882bba891dfe723a53d694ca3b8743bae4e678b8df21cf650bc08",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "ETH price on Aug 15, 2026 at 3am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2F4Njl4QVJMRUZXdS0tNUJoWElfQ0thbFNlRlhsTFRxeDZJU2ZhaUNpR1VoV25DMlUxVkhUZGVXejNDNTNzelo4dWUxY21LN0xBZW5sb29FQzAzNkMxcHpINDZUcTlZR19Faml3cnpqN0k2WV9JTDQyMjlkN2d1ZnNHSHNFT2ptZVNyNlRxa2xwT1V4ck9WLTdmY2txREdXRHpkSkU5VHhidUJPWHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-15T06:11:35Z",
-    "hash": "1e9d94b77c673fc54e865f049ded7d8b29cb4a8ab2cef9bfc8d7e7c4e35be4e0",
+    "published_at_utc": "2026-08-15T07:30:57Z",
+    "hash": "6f7916bf45ac0e3ca8d15eff79bb5dff2853e2353adda5062681a6b9fd7dded4",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "NVIDIA Stock’s 12% August Gain Faces a 1% Earnings-Guidance Gap - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHZ0d3p5aVd1a1BTNXRkR3lVYTlLVDcwOEdGaWN2X3BqampLQ2tiUEY4aEZFZ0hXX1ZDNnR2aHVNNmE3ZEwybmNEQklwbmJFd3N0VUUzZVpzNUxRc2VndHlRMVNWSkNDSnJYMjdScC02RDA2a192WDhEMkhFYzlTSXhaSHhudUxl?oc=5",
+    "title": "Key facts: NVIDIA ramps Feynman; OpenAI Ohio cut to ~5GW; $21B SpaceX - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkNIQ09sN0tHUTdTakdXNDg1WjhjcE80RTdWeC03T3UxbC1lNXFJUG1ZMmhJQkppNEt5SUp6MS15UFN0ellnVW0xSGd6dDFENFV1TVYzZGpFeGUxSmVhYUQyX2hsWHMwUi1GNDBEZlJONm1qV2lNcW51YUk4dERXX0ZhZWNGdG1aWF9keld4WUVYdlc1eElnd0Rjbm83Z0x6TG9TelRqbVZ3NE9NODBHWVNvQ0VFamU1RGlpOFRaWnltYjNq?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-15T06:10:00Z",
-    "hash": "f88487a7296c12d51e3ac4c53304847257a2cbadbb68944bbf9a55ddcc13723c",
+    "published_at_utc": "2026-08-15T07:13:54Z",
+    "hash": "2e0dc282c489a70d6481e38227d8a4f5b59ab8c727b110f881f5bdb23ec3c0ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GOOG",
+    "title": "Key facts: GOOG investment gains; Gemini 950M users; Waymo expands - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1ZIU0hiQ1RsRHhEdGJKOGF0ZXM4dEFUbTdxR3ZuZWRZWUZ2RGZ6RVJBWV9SYUppcnhIX3R1YmN6NUdxb2ctc2pBQWVKWjFSS1ViYW5ITWJiNkp6dE5WSUkxenJkVVVDM2pHVFNMQlVqc015Ujg5eU0xcEU2eHpoMzRvbGQwLUlMYTZhQTB4YlMxb3F6bjh0THNoN1ZxQ25RV2Ewd1VlSTg4V0dGeG0xWDFqc0xYNG05enBvWFZGbjdCM1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T07:13:53Z",
+    "hash": "08a60c6a3cc0dc1f41f521847a1d0bdd51655914f62563dc5790ccb4bb6c3846",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - صحيفة مال",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wb3FTTzNHUDhvVklUS1B4MmcyUnNRanhUYXdJQ1pFV19uMTFSa1NBVkw1R09tYlVVLTEzSEpFaHAtVS11OHRfLXNKYlhEeWpIU2pSUWs4b3V6ME5WXzBCYVhTdlpxM29uZGtVWg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T07:11:10Z",
+    "hash": "e74dcaa09c5f9f14e616592b4a7510c604bd650464dbae438067749505575290",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
     "query": "Robinhood Markets",
-    "title": "HYPE price on Aug 15, 2026 at 3am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3hCQUVpV0lESmtseUF5TUxsSF9FaVNXLTJyRkdqZ2RSelYzZEVaRkd5b1FRb0VERlRYNVl2RUlwQ1FTd1JOYmQ4QV9DSVFMM21vM1ItcVVlTEw4dWlGTTJncnAtMVJlbWRaRGJoaUZxZVdTWUhKUUJFLXNHb3NwRjlubmVJU19GeUNiWUpsZFNJaFZQQXJwWmJ0eVVjR2JZWE5rNXhhSnJtSXE4T2Rz?oc=5",
+    "title": "SOL price on Aug 15, 2026 at 4am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZIbHUzSTBVbU1zdlJyU0hzZThqeUVoaXJrRVplanA3amU5UTIwWVJGODF3U0dxbzhSVTA2aHhBV1VfT29DLWpSV2Rwak5pazhSRDhKXzVDWUQ4Z3VhUTZ0ZDZNMWp4anlXeDY5Zy1qTWI5MUZjRFB4N1I1Vnhmb1AwQ1Y1VjVsRmxNbHRZcHJxa2pTekxBclhnWDVUanNBTkZQeVJOdlIzOFRUUFE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-15T06:09:41Z",
-    "hash": "606ad6b863bd3eff8ce3baf7fc552a40b47f890029c69a85a66868b53943aa6e",
+    "published_at_utc": "2026-08-15T07:07:45Z",
+    "hash": "589c06291cf039fefd3a07192d344bdf1772e5288b517b276822bb765abab9ac",
     "source": "gnews"
   },
   {
-    "asset": "Rocket Lab",
-    "query": "RKLB",
-    "title": "Rocket Lab Stock: Neutron Is Becoming A Real Growth Driver (NASDAQ:RKLB) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSTJLYmpoY0VfNm5OVlRZR0RjdmRmX04wUi1CS21lS1dRMW5heDh4OTNrNF83UXk1eEJvUEdfRVBsVVN5QnpyMzR2R19NTnVkRmNnamNycFhESUo5OXJITlQzczMxTmpqZE9fV0JUMHhBcUd6UDJaQjRCbWJEMVdUWDB2emtUd3ljcWhOaTRYU2FLNGxtdmxR?oc=5",
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "XRP price at Aug 15, 2026 at 4am EDT? Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQek9JUzJGczNzREl1STQ4YnJBb0lQTVZfNHdibnJMT0lJRU5icy1NY0w1T3FvRTRpMWlXR2gyRnJTVFpiVVVobTdpRHhTaTNTQl9FVjN0VGJ3N3p5QjAzYWYtYXVXWGtTdUpXRWlZLVd2VDRqMERHcURpa05kQjQyV0FRdTdDSC1XNXQzU1pGbEhyT0JIcUxYQ2I1Uy1fa1VId3k1MGtHUzdfZjFKVlE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-15T05:44:38Z",
-    "hash": "c7c69ef96aa583730fad4567cbb9d9f033a579803b4e792c853ede0e97ae984e",
+    "published_at_utc": "2026-08-15T07:07:43Z",
+    "hash": "e853848f7ec6c843463e74e7a8f4f18652fcb55a597a5d9eed3d5011475c660c",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Altrafin AG Has $228,000 Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ3g5ZG9iWmw0NkRVTTZ2U2lvdUlhRU9kanItT1lxdk1iWGhmRDJCRHpFVEJiTjVtci1UMGxselRIWnR1eW5ORHlDU0c3d19qZHdXdEtyUmNrcGgxSkpETnpONldiUUd4T25IdkFZdmdRYUlWX3d3V09DcUlLRERaYkxNNkhRb1U1VDRlZ1BCR1ZrX3RvSU93RnBVUWpnT21UMDFtakR6YWwzX09rVFBNX2Q2QlVCc1A5a2FnQmdpQWpFQjBkalpxTHpfWkpRUktQN1pRc09CcWQ4bUwwdWRIdXIzNnZSd1E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T07:07:32Z",
+    "hash": "54e52c6734ccd04eab3eb8df98d9b6a7626a446231659bf10ea563fdb7d9105a",
+    "source": "gnews"
+  },
+  {
+    "asset": "TSMC",
+    "query": "TSM",
+    "title": "Addenda Capital Inc. Trims Stock Holdings in Taiwan Semiconductor Manufacturing Company Ltd. $TSM - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNam1LWkM0eHh3SS1QUDNJSzdMMTlZVDN0Sjk2ekVKdEFRR0FyWkpmRzh3eVE0OWFuc1JwRVN1UEczYVRTVVVUUS1vdGFRZW5YUEQyZHVfdlk0ZjZ3ZUs2WkZwcmNxMGhqbUJoQlFINlVHVXZFeFJpS2t2bDFLX2tkNmI4X0hjMzgzdGpBU3A2MHJ2LXdITl9pTGVxeC1ULVlScVJfQW96S0hnMWlLS3kzUGpTVVcxUXhVeDZ4bDI4V3NZekkyNDVUXzdYUnpMZkRYRk9VTDU2cFVRZGk2bERkNWNLcnI0bzY1Umc0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T07:07:32Z",
+    "hash": "b3dce2077dfc800e54b58c626f75339732e478c667d838902d73d46fc7bdbec6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "BTC price range on Aug 15, 2026 at 4am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc29waUszZUNFWGFsRzYwNlZVZUgtQjJ6cnA5QTlZekFWZ0cyX0ItLThKWDYwaGdBT24zbUhva2lnallYcDI5akVqSERBQkFDc29hYmxzYWNMdTFqRF9naTEtZkRiLXM0UEFURjAxeWkwMW5JcVBJaERuS1BWRmwtMzZsU3JhQTNIWDVzdlBfd3lYRXVhRDhLSnpWM2JhYkNoZHk4Q2ZYQXA0OHZsaS1MbkpfN2J5UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T07:05:09Z",
+    "hash": "736baee70d1e36fed23350ca8ce8ae89a600a57a9ef30725345b1a01a89c4295",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC-USD",
+    "title": "Whale's Insight: Bitcoin Spot Volume Hits A 7-Year Low, A Late-Stage Bear? (BTC-USD) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMzQzUERFZTJVdWt6c1pNZ1gwRTNpWnFrMUZtVjdEaDJJWm1RVzl3VWZPQ2NoQUM1RURIODBLZUoyX29uUWZGc19sZE41VUR2d29JQnY4V2UtVDVYcl96dkl3QkJ6dlZrblpudEVWRkF2cXRxdlowRW1TQUI4Z2EtOTY3NzFEaExyeTZpeW5taDZxQ3ZJOVNHRVdabVZoOTgwcFNXR1ZQaWlTODNZR0xyMGNYYTJ2X2hmWi11OEdxVFpCcnc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T07:05:00Z",
+    "hash": "9691af9c87228b0a9d0dbc22fcec0e18aabad5832af9442580ce4945ba90dcfd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets (NASDAQ:HOOD): What’s Behind the Slide? - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhnUlZNdU9LSExCSEl2Q09lSkFZZFA5NUlablJNYXVCQ3NIeWZscDYwZFJqcF8wVFpZdVdEVk80RnNMNGhOdUxkQWdjbEJvbWpDUzdwbFhHWWZtTi1vZTg2TkxJd0pfak91Z3lKM2NzdS0xSW5DT19mRGZpZVlJYU1KRjlkaW8teGtQSmlTVHNqeEwwV2hqR3F2a1Q?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T07:00:00Z",
+    "hash": "6ef0e565d7d79fe988a3a18967ae865eae1a787c03914e5eede16d846f6184e1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Bitwise explores tokenizing Solana staking ETF with Superstate - Altcoin Buzz",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpZEQ2YTRKdU1HWFBud2RXSWxwbUZ3Q3VRcEt6MkNFNS1VVnZQRDlEa0hKV2FPbUd1RXB6VG5pai10WDFQNXVCd3V6NGNVLTROYXRtTG9QQWo1c29WZ3JHWk5kSHIyR1h4U0dYaHJ2SWh1VXlNNVhmNUR3MWJWUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-15T06:59:00Z",
+    "hash": "8865b64820b1a30ba64cb1fc41c9c08eebdfe2adbd0dbc586e53279799520d0e",
     "source": "gnews"
   }
 ]
