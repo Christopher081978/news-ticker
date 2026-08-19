@@ -1,102 +1,82 @@
 [
   {
-    "asset": "UnitedHealth",
-    "query": "UnitedHealth",
-    "title": "Better Buy: CVS Stock or UnitedHealth Stock? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0lrMGVjQlhwcGUzTUlfcWgyWkFhUXNYY1BrZ0lCMnI3NmFqMDdLWTJOSVRVZlNVTDRnYmJwSjJqOHN2Qnd2dEsycW95LU0zT2RHWU0wZUY5cFJPcDV2clJLdkpvb0xIUlZuVUVwSWwzeTcxYWc3Z0NVeWMyQXVOV1Jsd190OUtIbGtpaHBn?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Why Is Nvidia Stock So Cheap? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNlA0dlJJa1pRVmpFdlNYblVpR3VQNlZ5M3ZZNXpsblF2Mmc1N2lPbWY1Nm1BQXhhQjRXOVY3SVRFc1J6bUw2ZFI0ajZVS1NnVjZ5UGhwcHJXUFVyLVZ3THUyWFFFUkhna09JdnQzQ2c5OGNyRllRUkdsWUNZbWNiUGI3UEJhZHlKMmlWSDdlOVBDV0I0R0V6R3BNQnBzbnZJNjJodmR0SkFuUjVWUEhDZzBVeVR0Zw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-19T03:54:25Z",
-    "hash": "5b0e0afff6ad93f6c568b1adfdb5349b02b4a2347cb63ce86f36832b7095e4a4",
+    "published_at_utc": "2026-08-19T04:44:21Z",
+    "hash": "39423c29538b362ceda2ea308a337a686216370e00f3f8454aca69cc1e352414",
     "source": "gnews"
   },
   {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Why Is Nvidia Stock So Cheap? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BOFRrQktSRkNDMWo2ZzQ1SzBjTlVpRlp5NG9xdUZGU3lGQWR2TFIxSzdOTUJrRjFhWmlCYWpsemlNaXlMaHF0UjJBdmNMV05tVmRDU0t4eW9XWVRTeTh2VENpcFZabDRlTEdBb2NWa29OQlM4T0hpVlNYRQ?oc=5",
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens Energy's Wind-Turnaround Milestone Gets Lost in a Sector-Wide Noise - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUTFiUnJqSmZvTjRaTFc3bnZCYV9EalRxX1dHX3M5NG5aMjhJVVlSdGFOZ0dPVmhuMzNXMjZVa1drNEVQU1BVbUQtaFVXUFk0b01ndzJuVmtOLXJac3ZWa2JrT1dpMDRLbXdRTm9fc0l4c2Exei1aOTFKcGw1UFV5SVQzcF9mUTJPWFlVSVJMLWh1VEtXdFVQbWwwX1JlOGV3YmhuUDhyYktUQUJ0ajBqRGx2a1hOTndVZGloLTVBOS1KSXVna1RWSlFZRlRvODNhNHQweWpkU2Q?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-19T03:48:24Z",
-    "hash": "d77ab1bc5b5054f8ade37591dd78bdda833f7680713034ec7d0753890cb08730",
+    "published_at_utc": "2026-08-19T04:40:35Z",
+    "hash": "2a04de553e614ef6bb419e1ec3106edf7f3a316230285720caf76492732ea983",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "Siemens",
+    "title": "Siemens stock holds firm as India listing trades below recent high - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR3dwc3V0Umd4ZDFuMFNuWDBqemgzV0E0WGlGTGNaS1pocFg4QmZhV3Y5WmItR1hWNzVabFEtc3hKYUZob3lyWHh4cFJZV0NtSVR4NnlMZWpvamxVZlNOX3ZQLUdlVmExUlFRdmRacWJQQ3hPcFVfUVBYbndGQmJQR0FKcENuZHpZdXN0emlTbTN3d2o3R1paTlhwSmZDRVNpeEVlTXRqbHEwMzlaN1F5OHZqaHZ1dm1tM0M3NzRpS0Y0UWJCS2EtZw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-19T04:38:48Z",
+    "hash": "75df3fb1262627248e1f9f41a9b800e8b85b47237ec0ed888e9c44a7834e55ec",
     "source": "gnews"
   },
   {
     "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Robinhood Chain Investment Thesis: Finding Hidden Gems Before the Ecosystem Takes Off - MEXC",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTVGb0NXRWZ3cHNUNVExQUllc09fdDQwODFTY3JFUE4xeDZscHktOVAtRGR3RUdNMW9QV0lDQ0ZUbEU0al9tTnVBYXQtQVVhcDh3WnFnLUVZNWpyb0Zqd2x3Vm40TVc0N1dGaWc1RloxZC02b0J2eGVvaFBPcmUtOWRJcUNWX2l2TkE?oc=5",
+    "query": "Robinhood",
+    "title": "Robinhood CEO Vlad Tenev Says ‘Tokenization Supercycle’ Is Just Beginning – Here’s What It Could Mean For US Stocks - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQejgtdnV3UGVxQzJLMmpad2tqZktEdE9mQWVPSlVIZzBlV1pQVnF2Tjl6dGVYTXBMNkFhSGtzUkFvYThscmxRV09WeW9XVEtYcjNZN003X3FIMThaSVEwVFc3YndWWloxaXIyaEN2LUtlNXVFLXZiT0djaW1yemZPVFpFQlBKZjFIbGpocU14S3p2Mm5XaW53S0lVTEFtaENzdFhnYXdNWGJyYzJjc1d2Wm8tOW8wMmtxQy1tNkRqMV8xODRHdHFCelRqT1hWS21STHQ5Z3MtbUVYcTdXVl9waVJLVHd5MzZOanh0dG5zMVFac3JGMVZCU2tWR1ZkZXZpTEE5WkRLbDQwY05zcVF4d2tsSENvX2FFdTVOeUl0dkM5Rnpm?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-19T03:45:23Z",
-    "hash": "be13d5ba488b76d36e69a20da84085b453b4c25199e4ec0f696302569f2e6b7e",
+    "published_at_utc": "2026-08-19T04:37:34Z",
+    "hash": "5bef36cfefb838a7d5cb03ada996f3e42b618dd59601e25748b6fb10016635a3",
+    "source": "gnews"
+  },
+  {
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "BASF stock holds firm as Europe digests oil and logistics risks - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2JNTEZVdUY1cWpkb2pIbWEtNzZtenQ2M0JLc29sWDQ0Z3l0ZjNFZC1jdFNqTTZFWERMMGFLODdoNk9QTzliS01aQ2g5TWFzcmtMTHVrOFhGdUhhVnI5NWJlYU4ya2czX0VDd1NFQzkweTQxeXY4Vk04dEYwekxRYjUzS0NvaEVtMEZLdUUxeWNTQ0JlSUhOSWNvb20tb2diSGVzRjNjN2NVMlZ1WE1YMmFoYUs3bGRhcklGVE8tNVZkb0xI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-19T04:31:56Z",
+    "hash": "9461ac807223eaf0053b241403923c0982f9bca5e2561ae543fe3ff7ea08ba55",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "BTC, ETH, SOL price: Solana leads bitcoin and ether higher while Korean chip stocks slide 7% - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTZpRUIxbFpIeTlxMnR0UXpTODBNcWVHV2ZuMGVsZ3NoRWd1ZEpHWDY2R3pSNHBZcHZ4WE5raUJ1aHh5MGVaMmIzNlhQQ3dRU0pjNzJiR0ltUUhhZUM2OHc0ZEVuNWozS3Z4eExob0VzTTdLaWNSbU5tbWFFdEx6X200N3RRNVh0cnBUaXNRcXFfbjZQMjFmZmZhX2JxQkdEeG5maWVnQ3RYRFZoZEpqQmNCdkI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-19T04:25:42Z",
+    "hash": "8c157c3c535fe3d6337b1545737b9e544d89c571c9f097257d20cd19910fb37c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "BTC, ETH, SOL price: Solana leads bitcoin and ether higher while Korean chip stocks slide 7% - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTZpRUIxbFpIeTlxMnR0UXpTODBNcWVHV2ZuMGVsZ3NoRWd1ZEpHWDY2R3pSNHBZcHZ4WE5raUJ1aHh5MGVaMmIzNlhQQ3dRU0pjNzJiR0ltUUhhZUM2OHc0ZEVuNWozS3Z4eExob0VzTTdLaWNSbU5tbWFFdEx6X200N3RRNVh0cnBUaXNRcXFfbjZQMjFmZmZhX2JxQkdEeG5maWVnQ3RYRFZoZEpqQmNCdkI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-19T04:25:42Z",
+    "hash": "8c157c3c535fe3d6337b1545737b9e544d89c571c9f097257d20cd19910fb37c",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
     "query": "NVIDIA",
-    "title": "Elon Musk Warns Nvidia-Backed $105 Billion Ohio Data Center for OpenAI Will Take ‘Much Longer’ to Come On - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMzR4cml0YzExZlZRVGszdzVLdm5WNDlhWlN3T1c1Q1NuWG9FbEVvdEZNMm05a2pkOUk0eUJiTndWZjN4a0lRRTJxcTdfRUUwSy1vY2xfQzA0RkZWZWZUalNTWE5hSW56TTNheUpHUTZSblU2cEM3MzIwMWVtTGZWYU9ySUU1RUx0SHNsbHNfR0ZwVU9IZUZmallENmp3SlZfZTVXVG9DZVdCYURTQjlRSg?oc=5",
+    "title": "NVIDIA Q2 Earnings Preview: AI Chip Leader August 2026 Analysis - Intellectia AI",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UQTFZVW5IVFVoQTRRcVFGbUdaVjJrOFZQQTZuWXZVTTJWdnp4MnQ3UlhkYWJDYVNiYlJoWUx5cGRLcl9rN0Zod05TVGpIVld0dDdfYkVMU1FtZUlwZk9ZMVgyUjRYdExVVzNvaHY1aGhjU3FDbVRIRg?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-19T03:29:23Z",
-    "hash": "8e8f6274142512da4969eed867101a86a74b2de303a3da94a56837f48d9fd7b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Wallet Moves 8.54 BTC After 15 Years, Showing A 461,981% Gain - Yellow.com",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzb2FKSjNISWtCLVhzbFdXbXphb1A0UTVhV05qSlVXODhZZUlwRFVWdzYxS1M5ak5rekNZbGkwQzZLQmdTTVhRcENQRzVjR0JJVUczRnJGNjRMZnUtaFdwWmlrWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-19T03:23:31Z",
-    "hash": "4f443c52c67f2c2ef99d829b1bbe0a387ac07f0617401afc757d0d152d82e3b3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "Novo Nordisk",
-    "title": "Novo Nordisk's Multi-Pronged Defense: A Pill Approval, a Buyback, and a Cloud Alliance - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcWFwOTB6Nkk4WHgzTTVpSzliWkNDN0EtR05XT3Y1TEN3ajNJaVVPYVVkOHd1UThtekQ4Y3I2QUk2c2pEcW1ZZEs1dFByVWdVemhxb2IycW95cmx1cHIzbkxfajV1aGlodkpMZVJOSERjMEhKTlJ3ZFRBS1VVR09vSmJTQ0tJcVlRUEJ6WU1yQUJtTEY0QTVsYVBZaVNiNThHUjRtOFJDajRaODNtRGdVNnJpWWNMTi1wOTZENzZ3dG1kZWQydHpKcXN3NnhmY3N5V3R2QzRoaw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-19T03:14:04Z",
-    "hash": "ccf79da5d0fe4541f64fae14b169bb892cdb45c1ac020dda599c5ab5f76eb0cb",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Tom Lee Uses BlackRock’s Bitcoin Report to Pitch Ethereum as AI’s Verification Layer - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oVHd0ZGpGak16bGJzRWRUaDItTGJsM3g5YTJIcmtXclJHZS1HSnFNV2dqYUhJaXBNTU5HZVprQlUtVFUwMTUtVlJFQTVmVVpGTGVueTAtUDd2R1lwVjk5a25MTDRGTUE2ZWhwUFlnb01RT3hm?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-19T03:14:00Z",
-    "hash": "be6a9159b423f3da87b16442e335dbc082c2e9fd8907752c442580a5d6824f33",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC breaks 50-day EMA, ETH near critical resistance, XRP hints mild recovery - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObVNDc0oxN2YwaE1XUTJoc3FNOXlPaDR0YVJqUWRwVmdzZFpyTU41c2pISWRBNFE0VHRPaWtqZllMYzZpbnpGWDRBeXBzdjlZZncxaVFJU29xVl9fZEZ4cEo4SkxYX2Y1ZUw0YlpzVGtlU011dktRTEtMZE03dUlmcndRbVktOWRQYWNSY3dGS3RjeTBxODBUTVBOdUxON0c0b2YzNW1GTFN4NmkwTkxSRUFYd1FLWG5kYXFuWkZic2JNX2hxcWwxeUF3aUk0cXdiR2J5a0ZwRDQteVZzM2FfeTlpWVlLaGZHamtVWWVvb29TdlpfaGtfZW9RNjFrcWlvWjU2dzBEVFJod3RUUXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-19T03:13:22Z",
-    "hash": "6f5b34f0d849d0638c2521422b35605115ebe577ef5622775d9030dee18269dd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC breaks 50-day EMA, ETH near critical resistance, XRP hints mild recovery - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObVNDc0oxN2YwaE1XUTJoc3FNOXlPaDR0YVJqUWRwVmdzZFpyTU41c2pISWRBNFE0VHRPaWtqZllMYzZpbnpGWDRBeXBzdjlZZncxaVFJU29xVl9fZEZ4cEo4SkxYX2Y1ZUw0YlpzVGtlU011dktRTEtMZE03dUlmcndRbVktOWRQYWNSY3dGS3RjeTBxODBUTVBOdUxON0c0b2YzNW1GTFN4NmkwTkxSRUFYd1FLWG5kYXFuWkZic2JNX2hxcWwxeUF3aUk0cXdiR2J5a0ZwRDQteVZzM2FfeTlpWVlLaGZHamtVWWVvb29TdlpfaGtfZW9RNjFrcWlvWjU2dzBEVFJod3RUUXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-19T03:13:22Z",
-    "hash": "6f5b34f0d849d0638c2521422b35605115ebe577ef5622775d9030dee18269dd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC breaks 50-day EMA, ETH near critical resistance, XRP hints mild recovery - FXStreet",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObVNDc0oxN2YwaE1XUTJoc3FNOXlPaDR0YVJqUWRwVmdzZFpyTU41c2pISWRBNFE0VHRPaWtqZllMYzZpbnpGWDRBeXBzdjlZZncxaVFJU29xVl9fZEZ4cEo4SkxYX2Y1ZUw0YlpzVGtlU011dktRTEtMZE03dUlmcndRbVktOWRQYWNSY3dGS3RjeTBxODBUTVBOdUxON0c0b2YzNW1GTFN4NmkwTkxSRUFYd1FLWG5kYXFuWkZic2JNX2hxcWwxeUF3aUk0cXdiR2J5a0ZwRDQteVZzM2FfeTlpWVlLaGZHamtVWWVvb29TdlpfaGtfZW9RNjFrcWlvWjU2dzBEVFJod3RUUXc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-19T03:13:22Z",
-    "hash": "6f5b34f0d849d0638c2521422b35605115ebe577ef5622775d9030dee18269dd",
+    "published_at_utc": "2026-08-19T04:10:35Z",
+    "hash": "e269471939c430f15aec30e86c938e60c94cb6f128b43de4e4897f9e30bcda1f",
     "source": "gnews"
   }
 ]
