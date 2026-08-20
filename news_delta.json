@@ -1,112 +1,162 @@
 [
   {
-    "asset": "BP",
-    "query": "BP PLC",
-    "title": "A Look at BP PLC (BP) After 3.2% Gain -- GF Value $40.86 vs Pric - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTJheE0yUDVteTl5cGVMN2xrUXRJbU5IV1R3QlFCVF82OEVjVmVUc0pLQ3dsMUI5YlMwMzdFNml2TkpsNXROc1hlNFZ3M2pyV1REUU5MMFIwd0hkVjlVX2JSZlVqeC14czVIZDQwS1lXdGQyMzVqd0NsQmNOcTdibEtiQVNtdWhRQmRQLXRmRXBReVZtN3dReGg0TVJWczdPcEE?oc=5",
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Bitcoin Surges Past $72,000: Why Coinbase and Strategy Stocks Are Soaring Today - Stocks Down Under",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQTkNrQzBlYmZFYWE1cEZOd1NZaVhKSG9tcF9vc2FEZTUxWC04YUJKSHpDR1R6Wmh2aEFqbk1SbnI0c1NhY09KcUdMbEoyQXBicVQ5aS1VaVdIWWR2WVNvaGZQTC1oSFlHTFdNZGV3OTMxcEVjazlr?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-20T21:37:09Z",
-    "hash": "d1863308037836e44aed9ff0bbf5f07d37105e200167ac353e930bc41c3027b7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana hits 112M transactions, SOL races toward $88 — What’s next? - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnlrWThpT2g3UFdmbnVYUmplTkNIOTVVT3ZUY2o0YjZyanZ3UTJLaENkTnl4ODNxSmUxM3F0cEsyRTdIbGVvSGMtMjZ6VDZnbng4VTNVWWhOMVA0UFQ0NUQ3T21oMENRbmJXT19sTllXNmNDajM4VlNvZ2laVUtxVTE1Y2ZyZWRNMkhF?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-20T21:30:39Z",
-    "hash": "0283db6096e04109af83190f22e69b0180674b996ae58454a84c754059e18157",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "SOL price on Aug 20, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb3lzMXd2eXoxZDNSU01JQ3pvVkpnUkNtLVREZGpGZmZnc0J0REFua0xaT1NwRFJGWDdrbHJBZjdBQ1VMZFltV3BOaFJZUWVuS0o3R3IySENtbGJVLTM3UUItcnB4VGk0V3ctT3R0VkRod2Y0S2RjYlZvNDF2ZHgxUjdoOXFMTHhpN05xM1ZFVC1YZW5jZ0dsb3lPY1RmYmg0eTBlUTU4UUdqYjhDMEE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-20T21:15:12Z",
-    "hash": "45a6bc82029db6e5837c993ecc7a4fc7d4f1e3e5b3f4651adb9a16334bbdc1c9",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "Dow Jones Futures: Market Triggers Bearish Signal As Walmart, SpaceX, CrowdStrike Tumble - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTE82UjI2b0NfeUZEalU4LVdDWWNvNW1oVjd6Ri0zMm5iU3JsMzJFODNGc0phMG1tcEphYkpCTE9xc2VQQkV3WGZZM0tsWmlZbW9aVV83a2JQa0ZOU0w5dUJfdHo4U0UteHhpdmw1RmlGNGhFSzVyWVRFck84bVdsS2Jlek9Ta2hFQnhHLVNqMEg3M1Jwb2RyekFadkpLWW40bnJSbXQycG8xbUI0a0Z2aVM2VjN3b2FHOWRZeWQ4Wnl0NEM3X3F0SG9nUlY1Rkk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-20T21:12:00Z",
-    "hash": "faec621c2a2a39aed4b17d74adef9552a7d0412bec650edd496d40cf36225f9e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Dogecoin price on Aug 20, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWm5ZVEF0NngxUGpVNkthVW1FazV2ckxidlhsMUY5U1F6bnYySGlXUnM3djdUMENhNTgzcF9PeUdLMkZJUzB2WW5TNkJuY2ZMdjJEYU9reHRiTkMyVVhhN2piMm1jeVFWU0N6R2FOTWVvOTN6OGF5NUFyWEpWWlJOQXl0YTdsaWlscU1NZzhIem1kRjJ3M2QwMU5NTTluNHJDNEUxUEw5bVhRU3hET3UtQW5mTEk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-20T21:03:09Z",
-    "hash": "df9333371c029e1c5fff94cbd316e5e1d677a01b2d5c50efe4baab2c1913fcc3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana’s 50,000 SOL security contest did not cover a clock attack disclosed months earlier - CryptoSlate",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWJKbkRnX1o3cGxxUl9MbTh6TjFYVmxTYnU1TWtkendCY0ljVG45TldCcElOXzhtYjNoVzU0WUlJSVp0bkM4dXZxOUJib2lSOXd0OW5FV0RfRjFONDNPSXRpRWl5cEc0MWhINHlMSldiVVFqZktiS1lNRUZCeEdmY2xsaUFSSnhpREp1SkJFanZaMWhHTkxwcUFOb0NfOTVQUW9WZHFyNU5jWVVSdkkwcmgyVQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-20T21:00:37Z",
-    "hash": "7ed6a7ed233fd42c347f2de9eaa56e59adfb7b76723a60e4df0bed1851cb4e52",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin shorts lose $431M as BTC clears $70K – Can fresh demand take over? - AMBCrypto",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWNfdjFncno1NWZCQUk0Y2tIM1A1ZkpiUlpWOXBaSjNnU3VaTzRsQnJkX1ZfdDZPa18yekFKZjNTcXNGR05wM0ZPMUVfSEhKTW5adHh4UDlFWk42amk4SGJZWGdpeWszcnNvaGNQdUhqMTlGTmNsUlNGcGswWUlOaGdFOFZobFVKME5qOGNNM281WXk2RklB?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-20T21:00:11Z",
-    "hash": "7c941b95991cbc2b7621c8e07b5df83f810efab2a2cb92c429e95724a27e6c54",
+    "published_at_utc": "2026-08-20T22:33:22Z",
+    "hash": "71eb444313bc1579dd6d75407b31aa5d51f697241a9a2ab3544ecbbebc9bf309",
     "source": "gnews"
   },
   {
     "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Hut 8 Stock Draws Bullish Wall Street Targets On Nvidia AI Deal - StocksToTrade",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RVlVHeEhhUzJ3V09vaXFKNkZnX2dxZzJzQ0pmRV9TcmlWZWpJRzhLZ0dZR3UwNnRQUUpob0d5ZTFsblpBeW1CTVU1M0J3VldYbmt2SkVCUGZIS1NPUkxxTG9FOTl1VDhqQ25QbEw0S3NQUQ?oc=5",
+    "query": "NVDA",
+    "title": "NVDA Looks 43.7% Undervalued on GF Value™ - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWDlyU1pxMDVrRzl4WTRPSGlKRnJKR2FHeEozTnRtZlgxNEI2V1dEcFFYeEFMOGx3OXZPbFNxSDQxYVVKYXVnTGpBLWNzYzZzdXlyMmZPeWxpN0FEMllvbWs4YXY2cWFJZjQ5NUJzWHRkLWlVdnphR2RlcVJ6Z2JfZUJkdw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-20T20:49:00Z",
-    "hash": "30eeb383ed657aa2c63b1735210462ee59f5c0b8b58a368fcbefaad4eae3b7fe",
+    "published_at_utc": "2026-08-20T22:25:37Z",
+    "hash": "7f2a61a0da99a7297f995a302dc55a5c2aedb702b2d2644f84a6680905b4ab9c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "XRP price at Aug 20, 2026 at 7pm EDT? Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUzZUYTNNVnRLNG9NYkYzLVF4d19fU1BYMUVTNzFObWR4WlRlYUNNZmxxTFB3WVBLdWRDSEVOQnhYc0MxeWdmUWgzMDJJUldkN2pXMVppaGE5M1RSSWEzMGRQSXozNDFRcGRJaWxuNTZrQnZyWmpVbGdvbVplNnNLUVFVczRzM1RFa082dGVhQzc4UmZCVzVHYjBQTFh3UDctUWdwaF9MbVAxYzJsWmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T22:13:27Z",
+    "hash": "02eb7c69ec406cb2c3d125d8c5468947b9fd653ffca6324206284722447adf6d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "BTC price range on Aug 20, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMVA4YnJJWEtkT0c4VzJNVGYxUUxNM2drTXhZWXhzTGlSS25UTG03QUR1TW5MdWpkQTZrUkxnQU8xN1FvRmtkeklmZUlzSWRBQlpCdFNCUDhGaHhMTmJXMVQ0cFJYNGtCRnhWZlRRRG1qeDRSMGo3NnVRODNmR2NfMks2WDJwV3dFRW55anVWM3lpY3Y5MzNoZDFWRnZxSW01ZHVRY3FaYXp2aW8tRGhCMGRVdHRzdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T22:13:27Z",
+    "hash": "bf9fb70cdc145f5c618864fde4094e751d5c8084d6927039e80656c707cf8b20",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "HYPE price on Aug 20, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNngwcW5USWFuQktsRlhFbnZNbkFjcm9XLXprbkktWWphdW5lX2ZNbnQ5TktyZzVJZld3RVl2dmhtcllaTWU0cjhBSV9WbllBN2NRTF8tWm03N3A0eHVEbTF5TUdZSHp1U2hMcDU5QXlPZmVWdDZNRklyUV94OUVOTUMxNm5BT082UmV1QUJLRjVEYzVJeGtGNnlBODhrTFZRMlV6NVUxMWFwaEs2Zk5z?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T22:13:26Z",
+    "hash": "67f824cd92085a7e412f7c0d9640ede65bf4c3e8c4e39af3242a246b795a79f8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Dogecoin price on Aug 20, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0F0d3pBc3dJODlFb1hONUg4R2xQajlNX21TYUUwQlhtQmFlb0hFWFlqWVhFV3JIVFQxQ1lJRnlqNXdKZXVobFl0LXN4Z2Y1Q2lhb01nbkJEVzNHdkVBTUlvUno1dnRRWnhVLXdLLW42enMzcHFNOUlCRF9CYUZCaHZQbUdOVXdUNXhfRDViNmdJV2N6NnNVcDZDSHdoZWJpbXdxa1JJeHp0bzh6akdMVXBnd3Q?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T22:11:31Z",
+    "hash": "b7a2a18f4ea49a068b1b65dcd38fe87202f486b20093515c47c07e14df6623e0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "ETH price on Aug 20, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdV9KMlZuX21xMVNzRThlRGJsWWVLVzBYTjg1R2E3d2FDZHEta015Y25QMjNVLW5xVHdQdUVvUDFyYzk1Y2xIMUZsR2p1UzVvaGc0MEYxWjJZQlNSTnhDWW1CSG1tb3RNS3BJUkdzNVdNN2NsVG01bEI3ZHhOQmtzdFlBZ2ZJTGt6RFJfemJRWEdpN3hWZlFWa1JBVk1rTVZ3UzI0c3gzSldPd0tjaUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T22:11:31Z",
+    "hash": "ae8547ce46845d85c8fe29c9e189e385c2412b0d64149d714d55115ac1b9c571",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum ETF inflows hit $189M – Will ETH price reach $2,500? - AMBCrypto",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmQ0aENiOGpEeDFCb3Y0dWpFak1ZalpIODlTcXdJTzBfaThjNzh4R0JPTUhOQlMwMVVEd0VEZTcwVldhRUJ3QmlFaEI0ODhpeHQzWGJEQ2U0WkdIeDVESWZLZHdVeVN2QjB2dlVaZk1BMzZPU0JRZUtXRVhRTWQ4cW16cGk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T22:00:32Z",
+    "hash": "a07b225491d02a081ddb98b233fa5ae3308d9e113e21744a471e5ff847a424f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum gets BMO's 'Outperform' rating a... - Pluang",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWozM3B2RjhTQTJFbmhwOVFJZkdJV3ZmOVllWlJuY0hIM0NIUGRHck1HbHhVNktkWGs2VFB4Q1JfM3ctQmQ1bjduZnNvZHZyMlc3VVNBTnVXUkkzQkVQUXY0bUtraFJSbVphbmtLVmdQRkJraENyYXBBb2VfZEltSFo5dkstTUpsbW5UYUt2ODQ5U25oMXpqUG5hYXoxZFZ2?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T21:54:11Z",
+    "hash": "9c2e87aa50cecda105839dd5482ca8eb6ed6cb2615115a317baf33902dac9615",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana’s 50,000 SOL security contest did not cover a clock attack disclosed months earlier - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkdUdWdEhtbDNpNWlaQU9vT21MeXU0R2I3UXZZakhWYk5NWHFLdG1vSWJoYTRZSGdQTUQ2bFVZekJoTl9vc0ZrTjVnVFpQUnRNT0ZqZ29kX1NNdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T21:51:34Z",
+    "hash": "65e3050acc9a46886b17d3c561e7943ac03872045c3e077f835149625b074995",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Pump.fun Sells Another $12.5M in SOL as Solana Rally Continues - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wd3VqNTlmMzNHM3FDeUJwSF8zVWxXQTFkdW1FRDJ5VE1vd1FDNU1zQ0M4aDA1YTVYaVN0UF80d0RZVEZoSWxuNElfb3EwaTZXLVl3RnZnOUdMUQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T21:51:24Z",
+    "hash": "3e5f4c7595333424f2d1d6652f2ffcbbda1394b514eb1a00a8d84af3e6415efb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Pfizer",
+    "query": "Pfizer",
+    "title": "Pfizer (NYSE:PFE) Shares Down 1.5% - Should You Sell? - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjNZdEtkc1FnME9qV05obVBXLWpWTWFVbnkwTkJMQWJpejhzcU9tVlJ4dVo4ZzVDSVZYNkxES0VaR1dFMmw2RzRCell1d195RUdZbXFGRkZFaUhFQzM1TFdjV01ndGZ4TGJzMG5WWVN0Q3ZsaTlra2swSkZ3LUZVX3JDV2tRSTBqRGtyN1VKdTk4TmtTdWRlTVpBZmU0S2VL?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T21:51:16Z",
+    "hash": "b0062a928437c631bfc9d3bd30d03fca5071006c1d13237af9d95f48af505dd9",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum (NASDAQ:QBTS) Trading Down 2.7% - Here's What Happened - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3ozMXZ4NlhteV91VEpqRlM3aEFCcU9qQWhzUEZ0VmhjNUJoTTJzWEM0OGg4YlFtMFpPSnNlSFBWVmVXaXBqQ2o0T2Y2ZXBHUUFNbHVSLWh6dnBxaTQ4d19sRmpiQi10YXloMlQ4dHo5UzBBdFVVOHhiQVZPZXpYTGlCd3MxSzlZRHZsTFdwcTFGOGVvbE1RbFNQVkFVOHhfSDZPY2FtdXpBRXZaNm84TEFiblZ6Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T21:51:15Z",
+    "hash": "a00c00bde59daa6a54e376b51862d4164b207625f1e73046dda68127f0dbe313",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana hits 112M transactions, SOL races toward $88 — What’s next? - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OQmpHMXBxRE5rY3RHZC1NbXB0UWJUMEdRQ2c5YUUxQTEwbE53dlBnQWlNaEV3eTBQUS15RDJ6TEw1YjlaOHRTdmg3dG11dm40Y0trS25zMWlxTWs?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-20T21:51:08Z",
+    "hash": "353523a1abab4108ffdb731bebf3b91a5bffc59b075742f40ab3b972c62d55bd",
     "source": "gnews"
   },
   {
     "asset": "Rocket Lab",
     "query": "Rocket Lab",
-    "title": "Curtiss-Wright, Redwire, Rocket Lab, Astronics, and Woodward Shares Are Falling, What You Need To Know - StockStory",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZzZWd2duT29HaEtlVnA3VWNYQm9mc00zU0xhakRwS3NEeTdsUnFvSkNKOWkxLXZ5OXNZRlRwTkhuWFVpcEZBS2RrVFlMSTVEV20zdVRVMDdZRXNZclYwN2twVTRNNmlrXzBEUlVPRVI1M2FvcFY4bmkwNDctZGozS3c0cHdFQktDU2pBVy1hVWc4WGRidEl1dmlMdm1JaDk1MHh2clhZYXBOVUdLMmFETjlGVkU4Ymk0ZzE3ZjZFZ1Z6MXpTX1VnWkVBRExQX0dtWDI1eFBVcnNZTnVZcm9DOXNWYncxQnVlV21r?oc=5",
+    "title": "Rocket Lab (NASDAQ:RKLB) Shares Down 3.8% - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVTNBSWUxSVBOTGlmWlJ1NEwtXzhFakNhVllvQ19EZ2xDdHpxQzJpZk9NM2VIbGlsa2VnRFRFcEZkRE9nM1lfSktYOWRyTjVJalVJcGl0NmRLM2dwSGh1dzNCMEpHR3NYOGxUQXhyZ2JneXg3UlFqZ21oR3AtUXgxc1cwV0l6RXBEYXVBeE9GT1RJa28wVUJaeGFfNXppT1JFWkE?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-20T20:44:16Z",
-    "hash": "eb7a1b78f97959fa102d709b322e18be1801fd726b573098244733628ee67d18",
+    "published_at_utc": "2026-08-20T21:46:01Z",
+    "hash": "6d794b2b25fe5adbc239ae95cd3900c07595ad0568917cbfce2ce6ee52a642ff",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Coinbase Wrapped XRP Surges 15.4% On Regulatory Hope, Leverage Flush - MarketForces Africa",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW1sMDJZNFBEdUpNWW1OWUEwRTNURVdxMzhueWluWTNCOWZ6SmNVMldDaHNlMjNBVEphTG80bGEzeGYwV2pBcW81TVV2VDNSN0hmZHBQNG13UUREc2dBVFotYkR5ckJfa0IwTEUtdklOc1N3OEYyWndYVUhfRFY3aDdjc0dLams4Q1RnWk5SbjFhM2dYMWFYdw?oc=5",
+    "asset": "BASF",
+    "query": "BASF",
+    "title": "BASF's Twin Engines: Price Discipline in Specialty Chemicals Meets the Agribusiness Carve-Out Clock - Ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOC1tY3Bma2lZdlhyM2dVUkZsSERGbXhnVUl0TndfSHhHMTlnbFo2bEFOcndqMG5WR1RMWWJaZThvZHpRRTFTYkhYOHUxVVdVd01jdWFoRDlPbnZfLVVYQXEwZDY3R2NFbzhDRWRQTC1ONWdiRmhjWnVHYUZpV010SHoyd2JSZXJxa3Y2dWZ6OXNfdWg3akZFMjM2aEFnWUxlQVRwVFFkVWlJSDVhbzdvOW1RUUh6TFVsRXpqeTYtUEhadHVrakJYM2RaSllteFFOQUtRUWZIVmU?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-20T20:43:35Z",
-    "hash": "68ce5da3b919cdcaa1cdbdc2b49db46c159a846cec70be9f65ac83ad279e32ea",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "Coinbase Wrapped XRP Surges 15.4% On Regulatory Hope, Leverage Flush - MarketForces Africa",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOW1sMDJZNFBEdUpNWW1OWUEwRTNURVdxMzhueWluWTNCOWZ6SmNVMldDaHNlMjNBVEphTG80bGEzeGYwV2pBcW81TVV2VDNSN0hmZHBQNG13UUREc2dBVFotYkR5ckJfa0IwTEUtdklOc1N3OEYyWndYVUhfRFY3aDdjc0dLams4Q1RnWk5SbjFhM2dYMWFYdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-20T20:43:35Z",
-    "hash": "68ce5da3b919cdcaa1cdbdc2b49db46c159a846cec70be9f65ac83ad279e32ea",
+    "published_at_utc": "2026-08-20T21:41:09Z",
+    "hash": "6568df1bc72090f3d2de090957585bec11d31ec689242fe00c0f01b0323525c2",
     "source": "gnews"
   }
 ]
