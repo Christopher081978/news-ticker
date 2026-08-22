@@ -1,82 +1,32 @@
 [
   {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin Whale Dumps 7,700 Coins as BTC Targets to Break $80K Wall - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91VEs3RGh0N2ZCRk1ibU9CdE9uaG0yRWNIazZjcm1LSW50eG16Z3ZHazJXa0hva2dEZ3ZkM1IwYy1xM042dWR5bjFYVGE1RlB4YmNzRHA2ckg?oc=5",
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP's Market Pulse and Future Prospects - OneSafe.io",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByWmFwNjFKbkxhTk01NnROR19KZ3B0WmN3Y1VYVlpyOGVGc2NsNG94bW9KQkFQVFlVNm12TVFQb0pMSlBTRWdyR3F0SG9abzNDMVFmRm5naExKS3ZqdE94NHBDdlUzNnJFV1I2ZDhn?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-22T22:32:05Z",
-    "hash": "678c69d72e54ad57cbd50373bec5f63159d9b64ee92f94e85d60f0c487e02394",
+    "published_at_utc": "2026-08-22T23:24:17Z",
+    "hash": "b10815b45b74a497c82ab4050aca627a88643098f3d4c7441e0e8be93bc10b70",
     "source": "gnews"
   },
   {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "A $1 billion meme coin purchase puts a huge 167% share dilution down to a single vote for ZeroStack - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11cFdVRmpvWHRhNWxxM19ZMkw0bVdId3NvaVVMSXVSRlMzSmJXTjA0bGlnVFdjZnYtS3VUY0E4REZMNWw5azY5OGsyQ0hnWmdPSHJld0xQM3U?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia’s Up Next: The AI Kingpin’s Earnings, And The Investing Week Ahead - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaG94Nk0wU0xwc3h3dlZrUWE5ZVZUZkc0WUhucWZkM2c3ZllsR1BvVlJFRENPbW90OGVFM1JfMVVjeWJzZW5HZ2hXNG0wZkJRNmhsZl9remNZODlmNGxySGU3MC1uYU9GZEZZTURVWjU5bHdtcDFxZjRtV1ctWm1HRzhIbjJFdm0zV0ljdGJURkVrNVB5TVhkSWhNdTYtZWs?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-22T22:30:29Z",
-    "hash": "0a2dfa410280c47b5c958a09dec978f27e4366b9248f9824ff1fddacb358ecfd",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "ETH price on Aug 22, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWktkdVZnbno4N2NBREtiNEczNDNIbW9UNU83anhiRVdMQXZWQnNCS1RteHdJZ2k2N0FCbjZQZVMydVR6V1o2RzdXTl9vOFFBQVhZUWFMaVZNOWZmdmZOYzhoRFItc0pLQXhVVXlkaFpRM092RE9Na3lLQWxTZXVVc2ZXM2N3VC1DREF3VnJDZllBWkgtQ3FSQTZSb0tLWDN2MVVVXzd2SE5lMlNEQWc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T22:14:55Z",
-    "hash": "9f6761c67bfb3fac474e62560649539ecc9994a9c1acba0f26846de1f9c84329",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "HYPE price on Aug 22, 2026 at 7pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDRFQ1N1RlgzbU80aWhzY2NoYXQ1N3I0VGRybWt6VW51R0d4WTBJMDBKLWxFZDNvTzEwX1lkVE11dEp4XzR6aVFiY0RKVFRzQVRkRnRLTWI5a202LUs0Z3VuMHlEN2xaZXJVcU1FUnc2b1lNbFJwaFhtTktUaDJ4NkgwbWhmcXBTLUhoUmRSSE4zWkhCYUg3SlNZN3VtTW11WWtKWWNjR3EwSjZ0QVM0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T22:14:54Z",
-    "hash": "9445613755d59a7ce12cb15682b4bc51c4bdbd637e694dc4a0199d478c8b9649",
-    "source": "gnews"
-  },
-  {
-    "asset": "Pfizer",
-    "query": "PFE",
-    "title": "SA Asks: What are the most promising oncology companies right now? (PFE:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRFM4dzdQaVFoazVhZUNVLXdfZEwtSERKYjdqaExpRmstMWVoWldvVTFSX0V1cXV2NnhlbGpPVFVDYzc1a0hGdlFrMW9iV1V0QzV1RWFsbE43aVlzTjBsTndjUVNsX1hZaHZreEQ3WW5RLWE3UXFBSFRzbkdxT2xfRlBCTjFTUDlCN1N0LTJMMmkyOGg2d0tHb3AwbGNGZllOUHJsaGhObmJmRFRaQXFIb05WRGx3RXI2VnpNNG1VeUxkdHh2NG82S2FxeVVnLXBNT0dCa2wzX2V2c0VMM3I5eWNuY2VHNHI2dFBkcFRHRDhZYXFNNzFYd0FzQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T21:57:57Z",
-    "hash": "fc282819e7d89b70eac044e2bb154c1c7b8c6698368a262eeeeb4cc02920c4b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "Coinbase",
-    "title": "eBay aStock Price, AEBAY Price, Live Charts, and Marketcap - Coinbase Brazil - Coinbase",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51NWtzeWVOVmFXUDBUWVlRVmZaWU14WDBGZjFDeVpuZ3BQTWhTOXlBVGRqZkJ3Ul9peHdwNEdvTlB0TGdzR1VSd3ZjY3pDSzlxTWJ4TzFMYkstUEU4?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T21:55:46Z",
-    "hash": "2f7577e3fffb23b1462c4790b56834538710f0c673fac4aa4c3ef53f2fc338ab",
+    "published_at_utc": "2026-08-22T23:19:51Z",
+    "hash": "3fbe483fc4e8a82235ea77be6cddfc86e157c9f5e2e867631d776571228ce345",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Buffett Calls Missing Early Alphabet Stake a 'Mistake' as AI Bets Reshape the Search Giant - finance.biggo.com",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNU5XUVBBNG5Mejd0VXpFRGJDS0VybzRxMnlFYlhsaXd6ZVc3U1Z4M3RBSFVGZUZ6QmR0TXo3Q2FMclphTmNwczFHOXhPdlhVSk1ZV3p2Q1J6RVp0eV95VlF3TkltMTRicTc3S3lJZnV2dXp6VEE?oc=5",
+    "query": "Google",
+    "title": "Google’s A2A Protocol Joins AAIF, Consolidating the Agent Economy’s Protocol Layer Under One Roof - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObHFUeXptTWxtRkZ4SVNveXJOTjlocExkclp6bGZuZ0oxS1QzNXd4UDJ1MFdKOVB2dXplZi1KQzNDOWxIU19uN1dLRUxJb1ZaUUluOUxJQ09XTWRxc2t4c2hNVGdhaGxBR2dJc0lneEQ1TVVtUGV1Qnp2R0dMRXZzNEdXaWZOUGJGY1g4cl9IZFY2ZzRLWUQ2UVJ0d3B3MllDMWdKbFpsdDh6ckg2eTJ3TnN2bjZVSmNNaEJsU0VsS2xCZUpSTnVoM1owSGs?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-22T21:55:00Z",
-    "hash": "7bf0f5fca3127e441749a426f0d8601862ed182de8ff0fcf59b5e02b1d25f535",
-    "source": "gnews"
-  },
-  {
-    "asset": "UnitedHealth",
-    "query": "UNH",
-    "title": "UnitedHealth Group (UNH) Joins Zacks Strong Buy List As Undervalued Narrative Builds - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkI5d0dkTmRmZXRicTJmSWdVdV9IRDNicnkzTDBicEJIYkJNYUFrMnJIb1JTbXc2TkRkQ1BqSkY0WmhISTJOWGlJSkZEc1lGRkcwV1FtM21Ydl9reFJ6d1ZzNFJGeXMwREVLUm9Id1BSNW1KSE03YVpMVzFEeEdiRkFjamJseWR5QWRWN2d0RWlXZy1TdzRCQmpLektyQlRtWTdreERBSXJRel9hS0xRbk5meG5LdEV6bTlPbUo1UzlCcHlIWjRQeGhGZ21QWlpVWGfSAdcBQVVfeXFMTmhBcUxVMEVTWjZHMkNRRlVlVzBLVVJ2aDZoTnUyRl9qTXdFUjdvd1haOXg2QkxaTU1XTVFiNExJb2l2S0pXSFRuaWFnMDVXUUphVU14Z1lBS2JUa1ZkYWJnMDdqU05BcXh0VEE4aHdXSDkyN3huT1QweDRPUmVrNkVyZHZWbjU3UWZrM1M4TWFjTGJWXzBCM1VZMmF6Q2VEV2RvYmE1SVF6Rk13QkFFV2t4SVNkUE5kZW1ibVlkTkx3ZmhLMlR5S1A0T0RIOG1FRVlmS2JIWDA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T21:41:46Z",
-    "hash": "d7f1e5fbfdf599976a0b754aee6259404ce3f01c169466ed971db38eef90219d",
+    "published_at_utc": "2026-08-22T23:09:46Z",
+    "hash": "6592da3f5ee8271393e7bfa331ff9e9605c91838301552ebc3d1c1851dff2e1a",
     "source": "gnews"
   }
 ]
