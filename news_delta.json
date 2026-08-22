@@ -1,62 +1,142 @@
 [
   {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Why Robinhood Markets Stock Popped Today - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSm90TlJtalZaMnN4LU83aWw1Y2RsOUJKZmNibVR1QlZpRXc4T1YtbWJwWnpnaG8xS1Z4YzQ4d01HejZDS0JDajFBWEdsNEpKenlpd000Vm5sMGNkY1ZpQ1FJRFNBclhoNThrYmJQQzNrZjJaS05pWTN3bnFFOFlzUk41bE1rY19SblQw?oc=5",
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia (NVDA) Partners with Cloverleaf Infrastructure for AI Gro - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZDdtNEhPdmwyVW9kVmVMUWdXY3VPQkttY3QzWDFTTjFDZ0ZwcFFGXy1rU2M3WHR3OVh0dllBUGJPRHNRRkJ6ZzJRTWFWb1BrU25oNnE0amgzMW5HYWY2anhvRnU4WTJwc1dwQ0dRRHNGREgxOW5ZaFpkazA3MmdNOWNqd3pkeC1xZEJfSXlXdktoclhLQzRvT3RndzA3UWRwNE1JUE1KMA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-22T03:40:04Z",
-    "hash": "bb9098e89cb6bb7d942c2cf8e1824fa002b4e430e8267c271ded501a54baaa23",
+    "published_at_utc": "2026-08-22T04:41:00Z",
+    "hash": "ff9d086fcb449242796dc6af48e460376388f180328dd54b15bbef100c794be9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Air Liquide",
+    "query": "Air Liquide",
+    "title": "Air Liquide stock consolidates as investors weigh latest industrial gas demand - Ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWm8tMVVnQXREWWRzeWlUZXZIMEJmM0VOSDFadGVHOVREVDFWaVlDLUdTazI3LUdNbEtDUklSdFdOajlNVmd5c3k3NmVwc0ppdXRsSWJSM09nV0hWWDV2b3ZkaVFSVENtR3FTR2RfTG1UOExQVkhNUVBIcE1LemFlOHdlVjItNWNKX3RZQmpuSmxsSk9CRktQdDdoWW53Y3kyNkE5dXl5WjZuV0g1dmVvZUQ1Y2l3S0taTnlKSFR1b1BjNDl0UGRDeHhGaWJmRFk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:39:15Z",
+    "hash": "fd1c7b4e3ea031f6f965245bac4c44a138c7537917f1721b0d833addcb376d42",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana (SOL) Price Breaks Above $90 — Can Bulls Push the Rally Toward $100? - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWZBdi1lZzFWVWRrLUpCTzRrd2FxSVBhSGdaODBUdnZyWExkY0hwUUppMXgwVUQwc0N5a3ZYNGoxRTIxenhQaGJfaWxObE45ZV9OMDRwWGJ2S2xRNjhqd1B6YVVIUkJqNlBVZklPaVFneVNONFpfNGplcnU1QzBfUk9kU0M3c0FhZW1BcUtpeFNpUnZ5V3pMbkc4V19sWEtxVmk3TjZvRzk2Zw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:23:31Z",
+    "hash": "7d51e84dcfaf02850f64fae3c3f938ed5adc91cfc8eeb6003f95fb698e2f4f0a",
+    "source": "gnews"
+  },
+  {
+    "asset": "BP",
+    "query": "BP",
+    "title": "BP Shares Rise Ahead of Rivals as Brent Surge Fuels Debt Recovery - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUjlRRXZiSVBBWTFOaWlwWHhZN3FmM1lST2JnY1FYTnp4cGhkc1g1WkZzbkxEN2J4M1owOFlHX2E3bVBiYjBHdlEwUy05TlQzd05ob1B0cGtQM1RlbUVpZ2x0ck9DeW5JVkZzR1Z4MTREZkp2bmdZb3FmZDZ3ektLUTNxaFVZakxOM2dqUHFjS2k?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:20:54Z",
+    "hash": "b0f656ea372c8d7eb171f4812412cda12078a110e2b31cd25fe584f89b622241",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH-USD",
+    "title": "Ethereum (ETHUSD) Is up 3.23% on Aug 22: What Are the Risk Factors? - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOWladkk0WkY1NGtTd1JaOGZ2ZzdpU2NUVE9iWFVOUUlpU1RnZDJzUGhvRDhFQjlhZkJ1V3BZNVdWdWR3WE55T0VGUXpUbVRSRlppQmNzeGhwQzNPR0ZMY3l2MElEM25EVzlxeW5xVnNRU3FjX1hsVXlUTTh5R2x1eXBwVGgzQUt5Q3FrckJB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:15:20Z",
+    "hash": "c0121525cc07ec6c4fa1f73ccc29ec7220d89fd394980376f3e315c269fa72f5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "SOL-USD",
+    "title": "Solana (SOLUSD) Volatility Intensified on Aug 22: What You Should Know - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVkxR0xDaXRvdEROR21PM0JWWmlDM1ZadHRFWmJjZmkwU2RhTXZLLVJqNzJuV1huQmM4Q0JDTkRsc0V3STdPT3BUYmN4ZDRDeUJzLUFpQVhfZ0FoRmY3UzRvR3hkTUltZV9oOWtsa3V3aDJXWVc4SHI4ME1vSnl2TXJwd193S0EyQjVGd3NR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:10:20Z",
+    "hash": "9cb5a5a689ce87f6ef6edc3d034a7b9fe48502b7145a0cb4f83b0642ac4047f6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase CEO Brian Armstrong Sees Crypto Bull Market Starting Soon - BeInCrypto",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IaU5mVmdwNlU5c3pVblpHZ1FZS3NvUzNoelZWSFFQZ1BTRjY0Z3R3dlJZb05ubGdoTTBlZXJTVVVlcUVnMzNhUENOUEtkSHdTMjFlWm13M295Qlk3UTBMMTNqNGE1dw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:10:00Z",
+    "hash": "c99bf7f425b964a66235507cb0a3299b3a2166ab3641fbc96a8fcc3505bb8e9c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "BTC price on Aug 22, 2026 at 1am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3NEOGtDZFFwa2xVY1R2RnphNVlaeThrZWNhQlhkYWpfTEpGVW9yTmJFbmFZWEJwUVh2RTlvd1JlZjhXX01TaDdxbThmM0NBR3h1OGt2bXV6clVycU55dHBmVTRQVkhQYXpxbnFpd3E3dmxUQnJiMGlaQUpHY1kzTjBrTmtuakl5VXliQmhzN0ZkNzUtd1BfeDlVX28zUUFRM0JlRGJGZFpZREdBdmc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:08:19Z",
+    "hash": "97557512499b26de736336345a85aff7563615d0768e6a60d50da78b478ba201",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Flowra Launches Open Orderflow Auction, Bringing Ethereum's Block-Building Market to Solana - HackerNoon",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk9RTzBoOW5LNFVfMzJHbFlIVjM0eEtBQll1STd0TDhPY29DUDhVa3hHR3NqbVRRdkMtN0VjcFUwTzFqVnUtN3k1bmotakdNVkFESlczN0lmOXh4dVljOXF4TkhoYVlKbTVGYVIxTWNGTDU1N2FhQmZaQkh3UndaRmFEcEd2NF9HUHhjdW1DMV9hTXEwcWFzYkRyeVZqcEFsSGFqNEowUGxVU3NaOTZyM3dB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:06:40Z",
+    "hash": "32c2e6f7d7dde897708cfd0125f2fb37050644c4feb6a20d4b99d09ae012612d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "HYPE price on Aug 22, 2026 at 1am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNmJOTmN0V0ctYnVTSjQ4M19EQ3pyZEhWTENZWnRmMklEbDNhWVlZaWJhcDBicjl5TkF5LWxlRGhjY2lveDdXcjlTMmNjUTJKTUp6RHpCYjN6MjQ5ejFCTndKWGhCSTI2bFlJeGRsRDBIVFRXbHlIcEFpX2ZhekQ4R21vREhvQW0yNkJ5NjZIMlBSVnRKTGpTREwtTTA2WXZaUHNDYnhFSmhwcGpFS2FF?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:06:15Z",
+    "hash": "84a3ca685ea7647765ebc50fb8696d8626d0bbe5fb58fb62e63619b45e4b075c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Dogecoin price on Aug 22, 2026 at 1am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUFNLWnZNZGdfOUpEZ2VsbnFSeXRDWkhOUkVueDJubWo3aHREbnVodHBVS2YyaGlud1ZJR0x0NWNmV1NaSDBZS0hEc2xMWFRLaXdmZlQyM29xUFZJYjdNVkl3VWV4MWR0WEFReWxOWW9QYlVGaUtYT0NLNlEzMHVqSHpmT3VHcnp6VmM2ZVVVa1lVU0lnSnEya3BnRC0wLUs4UjA0cGdvQURmSEFHWmo5UDFDOXA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:04:09Z",
+    "hash": "78a7aae6649c81b6e32c2452643e0d58c486fa5e7132611f718f287bedb0a5a2",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rheinmetall",
+    "query": "Rheinmetall",
+    "title": "Rheinmetall's Two Fronts: A Procurement Dispute Tests Whether Order Flow Can Outweigh Delivery Doubt - Ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN2tBdkpVb3I0LThxcVZhVGh4QkdQbTlNSV83TnZhQWJBXzl3TW5aWVZVWFZfaHZZOU42bnV0dERJcEp6VkxZQjRSenB5LUxXX3V6d0JwN3lvc2VBdjAxYnhQNG83bU42VEpSbl8teGpFQlhmYWhtT0Q1a0FsdjZ3MEhyZU4zWDZlZ2hzYjNpM2s2dDExTzBZMmpYaU93YzdHYUlnTTFUSkJHTFBXVTVWdVk5enVYTWR2Y2ZnQjNXWGM4TldoRFZWUXBMS3l5Z2lkOFJKRzZJUDFEU0E?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:01:28Z",
+    "hash": "0c9bc2e9d2f44f21518737c72489c2d13a7307bcf121509552f2ddcdcb72d6a4",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP-USD",
+    "title": "XRP (XRPUSD) Is up 13.81% on Aug 22: Here Is Why - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0RsMllaTXRWTVNsNXhYNU1MazNJNUFFbXk5aDV3UWNMS3BUcFRBS3RuQVBUNzhKd0hDQ3VGblgwVWttUTNTamFSc1dVNUhFTHZPblFKVjV0ZDg0Yk9HNF9IcnNpNXhlbS1RR2JHTVowclJKSTU0TWppSVZOYXNDdll6NUlESlRycUd6SHVR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-22T04:00:28Z",
+    "hash": "30dcec30efe940ca7d80fad11e5515cee1a39a0adf575ae1bc75780a40e0add0",
     "source": "gnews"
   },
   {
     "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDFlZVdUazYxOTdKMTFjWi1adWUwaF9JRUczbXZVSXRoMHg1dnRiQzBqc1hBM3NtOXN2emZOSjdRT09DckRZZS02SDY4SmFlNG1YQWZaUzFtWVpIQUhIUHQxRDJxeHVKb3JoLWg3MzExQlpRQktUMVh3ZnlKdUxselZyV2NuZG5vTnJLWjBRZ2pHQ0kzTVR6ZWlCMnNkR3lGSkQ3QkpPaW9SUGN2YkctR2F4YWFRRllwZ0E?oc=5",
+    "query": "Google",
+    "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlZDSkhVczFPaV9XR3IyQjBNcTgwRmFmWW5SeXcxYnR5Rklyc1NkRDliRGd6dDczNHRJZ29PWm05S3F5ZkI1QnJyRlpDdmE3TFM3T1VaN1YtWTVyX0F6R2dhTE10Qkh0Q1E0TDFkNzkzXzFSXzFPdzl6V0pDMi15aVZRQQ?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-22T03:33:59Z",
-    "hash": "4bf6e4344a4baeb6706189bcf7f12e975f313170279b93d6a3f21ffcff4d16c8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "HOOD",
-    "title": "Why Robinhood Markets Stock Popped Today - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDlVRmQ1SkJmYzRGcjg4WW5ZNFM2dzk0X1M4QU51VFF1TkNWcF9fcWZLY0hVS09CQy1oMUI4bEh4bWpOaGFYVEtaa1hfQzh3LWRfWF9aZnlrSVc3MzJCY1E3aVdMQjNTRE9sSUFMNWJOc2NKdHFtOXNiMmFWWWZ6Q1dIMlpOX1VPUGhIdTJQU0QzOUdtYkpfTUNGdDJDY1VK?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T03:25:00Z",
-    "hash": "1c02158a40501e5ca0881a9f7b52c799dd0233b1396e70414a8304cd2ac49de6",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "Crowdstrike CEO George Kurtz sells $1.93m in company stock - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzEyTDFMOGltTWJOMC1zUkNpYnZZNTFWVFJZRW03a1RjMnZBVHFCbHhkZ2hHT21PZEpyZUJfVGVNVEFvRms1YmhMVWZCNzB0LUxULUtab2RhMzBHNVoxMVlrLU43MnBtLTBVenNpOTV2Y0FKcUFXMDRvUXZ3MEs3Z1JmY3B4RVN4VFFwRnJRNnZIYXZIY1NxVFJIRk11WDVMaXJNZEM1T0xUZEZVVkMwcnAxQ1U0N2REcnhWc0tB?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T03:19:25Z",
-    "hash": "1f4f0b08bd765f12e566cb133a2609889e2ba958893ba9e4c39a044d54f3811b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Institutional Appetite Ignites Interest in Solana Staking ETF - OneSafe.io",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZE16YWxHVHFzdWg0c1FzaF9nRjMtZWdidzlwbDliYklqM2lpNWRTZVJ4MFNOVzI4Yk8yTUgxN29NT1RvNUNaQTJZTUN1YkFNTUpzT0lnSHpDRUZEN01RbXF0V2hyMGtrZE9ZZktiamdCSzNuVHc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T03:17:12Z",
-    "hash": "01d8620176e16cb99d12afacd1015d483727ecbac3a3f61c61f97839a37d5ffa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Begins Four-Phase Upgrade to Halve Block Production Time to 200ms - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmE2TE1nQVEtWmptTG10TUVyVU1MY0NlMGhjLTFhRVN3b1VHb2w1bFd5b2pWb3NnV2l2bE1FVGZGa3I0VVotOWZZV0Y0cFBwVzdXSlFsdnpPQWQ2ZWVNV01ZZVRLdE5ZeG9kVWdNUHlEb0ZWVDh1bnF6MHZtVXdSLVE4Y3Axd2s?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-22T03:14:32Z",
-    "hash": "bd79f7d6399f66e9edc9a9f351b2d24396a9fe30d12ac872cc3fc94ff577838d",
+    "published_at_utc": "2026-08-22T03:58:28Z",
+    "hash": "6014931706c7938bdadb33dc471cd3b9b40c220354d63046e1a92921ce3d95d0",
     "source": "gnews"
   }
 ]
