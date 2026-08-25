@@ -1,252 +1,242 @@
 [
   {
-    "asset": "Solana",
-    "query": "SOL-USD",
-    "title": "Solana Price Forecast — SOL-USD ($100) Clears $100 on Record $166M ETF Volume — $120 Target - TradingNEWS",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYmJRdl9jN0dXZlJ5QUNuNDlhVm5PdTZObW8zWnprM0duZ1R1T2ItZ09rZjlvSHMxa19MZlhXWlRlSVgtZlMwMklHWml0OXI4S2xSajIzYjNpeElobFQySWdCbnhydHR1dWYwakl2VEc3WWltWEdBRkZkaVFGaGhBcUFEcVMwX2xoU1FQeURvZ2F6bjcxVVRFcWhNMG10aWxCTVR1OFROaFFMNFp4TmJwc25hSHM?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:38:03Z",
-    "hash": "b3bfe277f672638b4d8b9f43e796aa87beda81e176f9692b59b090719b0e6201",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH Ethereum",
-    "title": "Ethereum price rally overheats below $2,550 resistance - Crypto News",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40WEZaa3AtZkVmU0l5bWd3UU1tN3h4VnBhaERmR0hHcTFGbDluRVlSZ3k0U2RRdE5JdU12d19tcEd3anA5SnRwZjh4Yk8wWDc1eG9jZWh3cERJbVVkUkNCZVUxSjRqaGFuOVZCNm1MSnBWOHplWUx6Y1V1bzNZZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:35:00Z",
-    "hash": "7e6c9989c29ffda9d41aed8baf86625baf610a21434e77f61f37bd82ebbe4975",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia revenue, return on investment key, says portfolio manager - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByUG13Zkp6Y1BNM2RIX2twbkZHd3k4VjBYX0Q2LVVTN1NtNWdqTEt1X256aU1wTFBzaWlBak56RjJobFdpMURFU1FieEh4RjJYUTZCT2Rnb252LThYNnA0Wm1BT0J3M3kzT0tMdDVWeDM4MFl1RFlMRg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:28:36Z",
-    "hash": "930af267dc2fd98608bf7500aadba7982098bfe3738b8721f9404bf4fa283b09",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "History Says Nvidia Is Likely To Fall on Wednesday. Here's Why That's Not Bad News - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3cyUGlVclJjcXNLLVBNUUdleTRnY1dhNmd5WVdSNE9FQ2FGQjVaYUtYZEllMTlTSGNVOFJfT1pkN3pPX2hZYnZVQ0p1azJxQmVKUm5yWmpINkpGYlE0RmhkQ1ZKbFBqSXhtQUdBbHJPSDZvald2X0JmNk16Q21XWFRaRFk2NXBBZ05rX01PaFA5YXZCTXo2Yw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:25:17Z",
-    "hash": "bdca8c3c1fe33e0a8c957eb8d234e730986c63a53ff2180bb075dcbfff526666",
-    "source": "gnews"
-  },
-  {
-    "asset": "D-Wave Quantum",
-    "query": "QBTS",
-    "title": "Rigetti RGTI and QBTS Stock Rebounds, but $20 Resistance Remains a Major Barrier - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVBoZFZLckltYmR3ZkdRdWxvVTlkclZqc0wzanlGXzFvOFVMMm9zTDBOZlNXVHNWTEg2R1ptM0o0QTVxUlpsREt6ckpkSFd5dE1sM2ZpMXBaaUE2VHlKbEtjRzY5SzFHc3lFaXlYeXRrODRCbHNLTGJUZHJQajVWRGVBenFMaTdBZzM4cTRSdUpzX0NPN3NqUE9fR2RiRTdIYUs4Y21fQUlrQVZtRExocGNfSFVTT202eVF5WVB3?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:23:20Z",
-    "hash": "66a05716df28ef977ff985a3ed13c4957f756d0b110881d91169cd5bfd8a5756",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "XRP price at Aug 26, 2026 at 5pm EDT? Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUZ4YXFfN19LMVJjTWtuQjJGMjFiejZweTVSTzUzWUNGWkh4MzJvRU1jZVdsa0d5ZTRCLXZScnB6NHBpd0pjd1NCbkVWOWFBajU2dGJUa01YbmdPbHEtQTkyMEExcEJmY3BrM3U3dHhNYUpIQlFOeXVQeDB4ZEhtMkhxTFlvQXhfSkhuZFhVN3NhaEZlbjh2b1FVN0l0eTdKQTRoQmh6b3k1MU9HalE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:18:28Z",
-    "hash": "8e594328d044b60ad7a331541f392b397d8741636c31da1d6f8534acddaa9f46",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "ETH price on Aug 26, 2026 at 5pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXhKU3VuQWs5RjIxODc4YVRmRUpBbGhNVWJxRnQxeFVzWXJDeDRTa1NYMTJxZmJXRzlxVmdiSXJQdl85UVA4aW0xb2dQS0FxQnRpTlI2MHRsTTJyNE9vempDLThtdTh1ZWJFN0ZXMnFLS2NYRGNNWktrc0gxVVNJMWVTNmZMQUJTcmJLWmdLZXBLR3FKZGxrLUM3T2pYTlFONFJIS2RMQTdUWXA3QkE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:18:27Z",
-    "hash": "0f6be3a55ef99276bf6cd2bff4fe95e211a97da5cc1ff27cac0615a695e4fa11",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "BTC Price Today Nears $81K, XRP Pulls Back and Apeing’s Upcoming Launch Eyes the Next 100x Crypto This Bull Run - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOclVfVnFYd3BsS3hJWTlTZndPX1E0SE1IbG90ZkJUS2hfWlVnMjNnc1hqMHlnUkhUcE04MnB4SnpZT2t2U3NMd2hnUTJDT2R3amtDTFN6VU5IbnFXQUF2bXh2NkFMU21sR2Y1R1NHWnRxLXJaWmxXcExzUmlHLVM1djJfY0VULUlaa3FTZmJCdHdSVWM2ZklGQ19zTjNSR0VYTzBCNnBpTG5ZYmNBaV8tRUVTTVBWODQyczZsWElWaXFzRHF5ZVQ2dlRTb3BGdk1sOVdUVmJQaXptZjBsSmljMHVPYTVPc2dFTkpKTkU2eHJ1NnoyYWxrQXVJLU1oQ2pjeVpweGNkZFZIX3dIeFhPUFltT2Y1NF9S?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:17:26Z",
-    "hash": "31a9b90b951479d6d3a1d453ddceb2f125301fa88fc6aaf79dd3b2b5d28bcd7e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Morgan Stanley Solana Trust (NYSE Arca: MSOL) flags sponsor board resignation - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS2g3QndpTkVJeUZnSjZqdmYyNmFQVmROekN6UENIX21vV0VHVUZ4RXNwNGl4YUxNTUU0a1c5bEJrdFdhX1drd2ZINmZOb1BQemFwS19CRVdTZUx0TjNCZi1xWWxjNTBxV3BXR0lGdUVDY1p1M2NYVmpXZ3lfcmFZM1I5TWxESm9YQnBJNVJ2MTItRTFkeVFUSXpoMkRMMTlHdTQ2LWhtTWkyUXlUMmpjX1p0NDVYa1k?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:16:31Z",
-    "hash": "c9a4278dce309cf14723337991336667c09ffb0496d327ab06cf1d39c2c909c8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "ETH price range on Aug 26, 2026 at 5pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVdGcEwwR1o0RkdBMm01MkgxdzlBS3FtazhLTFZSZjNjSklWYkZqRk42WVUxWlk5M0JzZS1PdHJKc2g1akZMenpfN04wX00tZkJfdlpxZFdVMERpZHhTelJVc01xTFlpNUZENEpBMWxYaEp6cDR6cl91ckRhR215WWVlVGJrNGwyNkJsVWRBTE0xT0p5ck9aQk95ZnpjOG1TOFV1V2haT0NYZ3FjR1dMSmFWS2tiUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:16:24Z",
-    "hash": "a39ce47e8e011693a647edc67273543f4290a9a136e8296ecd7288b5faa05d9b",
-    "source": "gnews"
-  },
-  {
-    "asset": "Novo Nordisk",
-    "query": "NVO",
-    "title": "Novo Nordisk A/S Stock (NVO) Closed Up by 3.71% on Aug 25: A Full Analysis - TradingKey",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdzZVVmpERGF5ZGRVTC1WaTBleWVHZzRGcVg1c2s2YjV0ZXloVlE4ZUdZQkdBRVpYXzhnM3N1YWQ2SWgwSlk3QVhfZ2VFRUdyYTExWjNtTnR3dVZqWl91a01hMWFBem50Zm5IcjVOQTZnajZiQTZLOGlJODdlb2V2elRQVlBUa0lqR0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:15:27Z",
-    "hash": "1a19b1318dfcba475b3d325bc48920c3d4c337ab560162ce5f7adb670ec863ed",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "SOL price on Aug 26, 2026 at 5pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2pDeVBFTmdod1FqdW1iam9RY0RkQ19VQUFISUF4UmpRaTFIN2tneFN4THY5Zm9pZ0xuUzI0Z2g5ZGFsUEhjQlo3ZVlGeFNyQ3RtaGlCelBkV1o5V2NHZlVtVmRrZm5NUEE3aVdvUzdsQlplSkJqSEJPbEZLYWFQZC1nVUR6VV9mTVFHVXFuemx0SDFhTnpvR2ZFRlpxdktxdjJEVzhpYnhVWUpJemc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:14:24Z",
-    "hash": "9b8726f2c0a35566b9ae6f51342d887dcc57c03422a205e10b4f8fda8f3c3c26",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Stocks Rise as Nvidia Ends Losing Streak: Stock Market Today - Kiplinger",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUhPOUFMSkJUemlBalF6dDk3c1AwVzNweUtJZi1ZU184d2ktNDRXNUkwVXl4bDc5enUtTzZxNjdVUkN3X1VEbUVUTWJYd2h2SVRMRlZCcmk5NXlLNm1Odjk4dXQtOU9pcHY5MXR0REZHTE9qdTYzQm5fSEVBQ2dRZmZRMjR3UGNJamp6bmdfZjJCOUpCUC01Q1h1ZFJ5UTZVeXZaTw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:11:45Z",
-    "hash": "19e2b7aea947b1446eab4c69616342a79b5b705b171a1f6da701451fd6727285",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "BTC price on Aug 26, 2026 at 5pm EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS1B6N0E5T3ZBU29rWGJEM2Rra1V0d0N4NjJ3alF4ME9EX2tHZDF1bGNsLWV0RjZ5Nzg2WmpURU1XOFRTdjNQa2lyaHRFVlh6V2QwMlFQRTlwR2oxRlg5XzFDNzk3SUZjWG56aWgyVmZxaVlJVWZGcDRyN1AyMlktR0JYcFc1WGFEVG5WSzhXbjNmMzBzYjNLdzNIdEVrSDlONHB6V2ZSek51cVgtY2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:09:53Z",
-    "hash": "af35e2e95e82f69b3350279d521fd4d00bbab30398d61d12818ede49b73cdab2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls. - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQ25SbHVEYzJrLWpmdHBSTFBTOXd5NklBcFhrZEkwQndEeUdnUlNGZElFNmw2Qm80dTZHLVIwX1liM05ONldGMmh3VjdJb1RsaUJYZFcxckJlSVdKcl8yTlRrdkdYUWw2T3RHQTc2SU9Tc3J4TjU0M2VTeHVnVlRLMWtrOFBPOVliT2M0dGJYcG1MVE5nSVhmb1ZqTGdzTEFwVDU3TXh2a2hqREhUUHhaN1ROTVRidXdpdnFwQ0RVenFTWHpUcEJET2RLYzJUSEFaV19EWXpfYnpFdHFONGstUTliUWFrVGgybW4xeFVsS0xuZw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:07:00Z",
-    "hash": "ea9cf818e025c84b4361fbb7ff0fccba517d91c71f74f6968dd1c51116350de0",
-    "source": "gnews"
-  },
-  {
     "asset": "Robinhood",
     "query": "HOOD",
-    "title": "Why Is Robinhood (HOOD) Stock Rocketing Higher Today - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFBRMzlzRDVzT2N4OWpiVm1JdHQzTzAtcm1HT3hOemxYRGNDUm8tNmxRamMzbjR4UXhYSFl0QTV0XzhsRHBjcmNlQXFyZ1F1eHdOeVhJeGRkMEJMR09DRGpQMm9aX3duQ2pndkFoRHp2bFYzdk9SYmlrYXhwamp1WU1KaDl2Z2gtYnJTUms3SGtQNHM2S3RzM0xsdjlpRzVZ?oc=5",
+    "title": "Robinhood Markets Inc (HOOD) Stock Up 8.2% but GF Value Says Ove - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFZ6TXFYU0JjRVlvOUpCaE1KRnc3QUU5RV95MVVPVzQwRHJZMU9ZSmV5UEhUSlBrMHJpSTNlRVRCWkZ6S0NvS3NodEZ3LTM4eWhka3ZkQzQ1U1k0TlBnYzh6cWZqMERzZUhyc255R2xhUUdKc2wxM3I5WU9BZVNVOVhCNzhoSFVlUU5Vd0I1UUdNOWlTRWZNYnkxVDc2T0ZWc3k2T0Z0SVZVaGVYMG8ycUxKeGZrWGRZTWRBenZn?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-25T20:06:44Z",
-    "hash": "3f29402d529769e6eb5b4f12356df92a47877f18a39ba5a0d7754b37fdc0ed6f",
+    "published_at_utc": "2026-08-25T21:33:06Z",
+    "hash": "9e104e02f2a99cbeffe1b137ef98eff87f36c483d219af9b3820e5c5b01ff720",
     "source": "gnews"
   },
   {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Wintermute: Bitcoin, XRP, Gold Benefited From 'Debasement Board' Last Week - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQl9GU3ZzTWRDUWhNaEhjbnYyLUZza0tFVlhpUmFGLWJ0bXoteGJWQzJqeXF3WF9iOHhtRnM2R2tNWjdjX3FLQU5uSmRwem95WEVDQVp0WmpXQ19TSXlHdzNnaXdNVENFdkFmdkFlQXdXbkM0THY3VEduWHBXRVp6cldaOGVKcmRKQXRCSXRERElWMTg3YjlGanFHSFp1ZzZiaF91VUhHNWhmdmllSFRKVnk2aXA3WnhjZHJGZjVSOFRmRUpvNXJjYlpaVQ?oc=5",
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "Rocket Lab (NASDAQ:RKLB) Stock Price Down 2% - Here's Why - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUNraFp1RW9fVHRCeEJsaHdUTU1kX2hpcFUwWGx0UjdYZ1lHVGw4VmIxNmtVZDctckp5YUhOMXNvVmtsTDFsQllHSERSdXBQODV3Z1JsTE5rT0Fkc3M1YjVtSXZDbVVXT0FfT1ZaaG1OVWhGRHVEam52c2xtYkFCeWZ5R0lRTmVjSUx2WnhMNzBjd0ZrTTMwUFhDTGVKb0Q1dXVmV2o1dmhzSUFad0s4dA?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-25T20:06:22Z",
-    "hash": "ae23d151d856b2869f501cd942e227cf991ef3b287c26dd6ceda9ef5768a01c2",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Could Grow Revenue 97% and Still Disappoint Wall Street on Aug. 26 - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYVFSM0U5Xy1uNHljb2pIVURpWjMyTUE0UGhFd2ljUkhnRERSTVlmbzF5Q1lUNlAtRFBIcHpRMTdQczVicHR2b05VVzNTTUxKRUFTMXZRRkNnUU1VdDdoWXpaUjhJQzR5ZjFmWnd5ZUE0X1ltbExWekdQX2ZOYVBZcmhPcUZCZWdLc3hoV0JFSURBS0ctM3g0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:05:52Z",
-    "hash": "a113cea7a4382b7a95a8799dd0d76411482c687f690cf3859a177132e5b976e7",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "History Says Nvidia Is Likely To Fall on Wednesday. Here's Why That's Not Bad News - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUw2Sktlb0NtM2NIRUdBRHB3SS0tS3haYzJCS2lrMWxBV2xzSE0zX2h0Z0NWN2l4MThVUVRObkhJTzlLbnJHUGdFOFM2WFAta3pOR25HYjFWbWJrSmlUakRwam9ORnlsaE80WlZvRllMbDJqTnFxazJacTg2RHVPZWZxMkp1NXM3S1ZicXhsSFNyOFFnUXdoMFBJWVM?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:05:00Z",
-    "hash": "4d2370c602f2fecd968e6d812a3bb67c1d134f7f8aa33768c1f1d1a82ef59581",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Wall Street ended higher ahead of Nvidia earnings and key inflation data - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0dlb2tNSktfRHNfbi02SXd3R09oRm1RYVV3Z3h3aFVsaG9EazNGWEdudS1lVm4zWGJtUXhBNTlWa1RSRlpsVElySWJEei1FTHlYeHNDajNxT2JYdHlwMHdxMkREWVVQc2Rla210STJYWjNKTXhucWRwUUkzem1mUUswZ0t4M2pCRjU3MTYxVHdWdGJKemlqWnBrc1AxU0RyOGNkSUc5dw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:04:00Z",
-    "hash": "dc30f79606e93984d43f7abbbb5d70037672da382652444a0ffe0bea5e18f43e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Alphabet Google",
-    "title": "Alphabet's stock rises 10% in 2026 with strong growth in cloud, search, and YouTube revenue. - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUViU0VFckl0a0tqQXVCcHBQcEtkeUJCczhtQ3gzWXpkRjF3Y1R1a05JX0JjNEhIMGpiY2dCcndCY3EySGJvVVBEa01yYzVlWEJMbFpXSnlKWnRSX25PWlJDdjV3aEhWRHRZV0tiaWN2WEZKV2o0cUs0NFdmaHRRYlBsbktXQXUxd011UGlCdVZLbDhvcEVfQjd5OUpISHFzbDVNUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:01:06Z",
-    "hash": "facdeff7761316ade032339634abfeae56d6f96efe1af1a5b3b265bd8f59a718",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Could Grow Revenue 97% and Still Disappoint Wall Street on Aug. 26 - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdk41MzlJdjlmano3WVQ4dUdCNmt6VzFCenVlZnpmVV9UanJFQkdpWlBNSnFPbUJUX2Nab2JpUXhIN29ndTRJYmdFWFc4RVh3T3Vwclh6TkVPMkVTTmhDVmVHS3ZfVXhxU3BqQnd4eXRlRHhwMFdUV3NocHFKQkZuZFg0WmRoV1JfNVZVNFRneHB3cDZSSy1NZQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T20:00:07Z",
-    "hash": "c2ae5133165dbac0f818dc191a72c7262963c37ed534bce66a0bfbcb82485018",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia Stock Climbs -- BMO Sets $340 Target Ahead of Earnings - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUhWSUlOS0tYeFNLQmUwQVVkWGJ0TU5naU85SVlOb2piREh6YW1QZzR2MFdQMEJVeWVRVzlGZHBMdkRYam5hQUJrWVhuMHY5MVNIbl9CeXk4aHdCMWZUZXhZSnppNTMzQnA2bGF1ZkM1dkJPR3FrS2RocVFaSlYtaDN2LTBKZlhTREMyUnJJd2VHTFNtMHZvblo2NWpqdnZtS1dwMEIwd2JSQkVWM1cyX2VsTHh6N3NT?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T19:58:41Z",
-    "hash": "868285abdc42f1e962e66af149112145fcdcba7e192a798e5565d186bc93ad5d",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "TSMC Jumps Before Nvidia Tests Its Capacity Bet - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWi1qcURaUFk0Sng1M3pCMDBISmt5aDNxeXc1WDZvcGJNMXpqUEJPQnFrUGw0M1MxT2tBeTd1Yjctd3lkWkJvNkpLV1p1UmhoTjdCbUJ3WFgyQzVGQS1Bc055WUY1cVk5MnFrWkRDYmFodG9oSWs0dWVvMWhHMGtYblJJanZ4MUxF?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-08-25T19:58:25Z",
-    "hash": "7e979657aab05b698e5ddef65f2917a45e054f394a31d5386d30751961072998",
+    "published_at_utc": "2026-08-25T21:27:31Z",
+    "hash": "69acd5f3c4a89376c65e03904694d86e580fe7d67085dab91134dd5878f1b63e",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
-    "title": "BTC Rallies 28% in August as Bitcoin Price Prediction Heats Up and AlphaPepe Tier-1 Listing Rumours Build Before Aug 31 - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOR3VMSUxpTkEySV95UUhVUWY5c0pmZGVsd1B3Z3JZLXUtc0JyTkV0THI5TnFLMEs1TDQ0Uy15Q000TmxCemJob3VBY2pqN3pPejNEVmt1eDNNMTdicWFZZVFTcHN2R3lIWWdHYkItMlZxOHUwZXFJcU1pUjRMdVM5NXdRSDdZQVh5dzNHUE41OTA4c3Z0YlYxcGhRRUlpOExEY2ZmZ3NYalY4NlZZNEFRa3NOa2NFZHQ1aEZ0cnVYUmJqampuYmtQWWxPT0ZDOHM0UmNuX3JNaVZabGdfcEQwV1BKWVJSZUw4ZDYwQU5zSW1SLXNVajlBNVRzZFhtZjNVeEdmcTIxb3QyWTdzNFE?oc=5",
+    "title": "Crypto Market Today, Aug. 25: Bitcoins Rebound Above $80,000 -- Has it Finally Bottomed? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR3MyZUo0cEFaZG5xYUtNTWZLOXZxM1ZDVjYzQTczTHZBZDN1bzR4NFRfNkc5SGhZbWtRbi1BSnV1SC1YendfLVFVTkg4UkM4MXJleFhmRkYzVmhlWGFpYmRkRFZFajF0cFRmWnBrT0pfQTFwZXpsS3c2ak96dHdjOU1tdHAxOHV1ZVMtTjgxMW1mNHRpVXRXRnNPcjQ5b2ZkWmV4VTlsMnN0VGtEZEY2X04tYUsyZ3RCVlVNZWxvR3VPV0phdUNFMGlRT2hmWWZiRHM0VEt5QUFEdFV3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-08-25T19:57:04Z",
-    "hash": "a9e61d8e5db628f0ee333310e6b336968008b3fcd9639c7aec1395e981f9e4c7",
+    "published_at_utc": "2026-08-25T21:19:14Z",
+    "hash": "de5244823e35e16d1532c2b9a436fe5880c0ed4cb187abb9b5a343e2fad4aee0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Novo Nordisk",
+    "query": "NVO",
+    "title": "Is It Too Late to Buy Novo Nordisk AS (NVO) After 3.7% Rally? GF Value Says Undervalued - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1FuVm9OVkNCQnNSZEZrcV9CLXl2QlFqTFgtUVNWMXdPakpldkdncnJLRjZTZTZoMmxTMWw2MXFXWVdEZDlHTkF3dWV6Szg5c3Z5MWhUVnh3czFOT3JJRmpXNTRkbnFmYjRWSjNwRkVqRnVmSUgyS0hjRlcxOHp4cWliYi13UGFJV0FYcllIdk9JWUhBQ2RPXzRPNWNiZ2hEY0tRUjJvTlNra0xOeG4wdm1YWmNnbmZzcG9XWkpB?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:18:40Z",
+    "hash": "d7c61aeaea7341a9d43415257d87841f555166dd28d7f038ac3051408297d0a5",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia Reports Earnings Wednesday—Here Are 5 Things Wall Street Analysts Will Be Watching - Investopedia",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHJXbzVUZEJUX29VNF9mS2h3R2dDc0ZTYnZKeE5FbktnU0YwVWtxYlJ3cXpqSGU0VGNPNE1xWWxrUEdJZjFyeHdab1Nna0tnZ2xIQUMwc183MTFDY2tSbzkwLUkxNWJlTFluaGM5alQ0QUlndlZtZjdpaWFzOExKTHBRZjhNUjFEd0Y3ajN2bU5CeFdiS0JYY2lrTHVuV2VldmFFcEFRZ3p3X3QtUXJlWWpBVXhqZlJTNzdMcENxWE1FNVFYeVd0NjFFWFE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:17:37Z",
+    "hash": "05dc94dbb64c336a67f28ed75ee01547c7def6aab5504be9bba767ee528da817",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "XRP price at Aug 25, 2026 at 6pm EDT? Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNG9WNXJJVF9ldnJfOVFaTmZXR2d0Nk1sWDR6bHNibW55OTdtUHd4X3pHU3RwcUREcjlSZ2xZYTVQOUUwTUpzT0FOY0h1dWVPNG03VEpncHRpd3VEOWx3a3k3c3BhaXBNTHJTZlJyU0ZyU1hBV2JHTEhUaU9YU2tTSnZCRW5ZUWtKZnVwWm9SWkZFdzR2bkg4T0pZYmpNOEhORG10UTcxcVViSzBDWUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:16:52Z",
+    "hash": "11433a95f4f1afcbf4e78309a5d0c81e059b516b3fd5a787f005579f3ca68e4d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "SOL price on Aug 25, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnNMMUFvYnhEczllaGxqdDJkQ3JIbWMzSzhGQWVQY01Cdi15TFU0QWRvbUUwOF9nRUQ5TWNTT3JLNTlqN18zbU5sS1NobE9XOGRYVm5tczM2aUxud1l2T0FCZTVkSzQ1NS1TMjUzR1B0Y0ZxVzYwb0R6UWxocTYza0R6aHgwMkZXZC1keUthbWZlU1A3OUxBU0VZdGZ2enoxX2xtM0JzN2lDdDl3RHc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:15:49Z",
+    "hash": "f7f0e097e74cdc369a7bbe366f64e9e36cae8851c991e7db938fc1b081014ca3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "BTC price on Aug 25, 2026 at 6pm EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3NFYnF1VmdGZjBEaG41WWd6SFVXeXk1T29uN1d1MExwV0RTVktETWY2Wmctc3hxdE5DZ3loX2hjX3pOZ1czcTFrZS1fcmFiZERhLWs5WjVWazJwcDlnLTN4Vk82a05VVUNZODlVRlVpbURCTmR4dmtkdTFDZnY3blpmdFVGVEZBZHpoa2F0cWFnbGdnXzBwSVFHdGsyZmRmYVFlVHZwSVBOZTdvM3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:14:11Z",
+    "hash": "c14adadf351011ef209a7ce5b257ef8101f4c2d0a13e34d329b802e39c9b581d",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVDA Looks 45.1% Undervalued on GF Value™ as Investors Eye Upcoming Earnings - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVFQN0g3UnplQ0pVd2tlbEphRjk1Wlh6V2pHT1dRbFc2ckUydVUtd0ExLXE1SWNUeGtCcXREYkpwVlM4V09haU5ISDJ2ZmtRNkE1eElJTVVRSmZBTW1kaHlGWmJWd0taaXkyNjdDcWcwNTRQSkE5VEZjN01PeWNhNHhjeXdFNjhqcUZBcGJPS2ZoZXVvbkRSeE4zeGxxZmJ4U1dDZUNhSThuSzluQlluWWxn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:12:38Z",
+    "hash": "0adc7124bb7178901fd8f430f293ab74c4ba45d6620b29a6d80a7c91264053c5",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum stock slips as CFO announces retirement - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb2V6dEM0NXZxelBrY3UwenZPZ2FsNmNnanpFc0tvaTg1SG5oRWhZamhvM1FteE1EanZxV3FpVmR4UVhHMGxMMXZXdUp1OGVWSS1VTHdXOGYtbU1rTjVMV2FuYzJVMkFjNU12RnB3SFVOZXQtSXZzaXM4WVhUVzRqSV80c3Y4OEZVRTBsQms0TC10Mm94N2lrbVJQckFQOGdEWGl2UmllRUh1M18wNDd6akpkSkpOQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:11:38Z",
+    "hash": "4b76704069113ae99836422e61eb559b41c29d280b5e2bcd75279ffa0fd9d9ff",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum names Greg Golkov acting CFO as Markovich retires - Investing.com India",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVJqTk56c004a3NUWlk3SVdOb2NRbFFzbXd1cjZyblhVVnN4Q2d3T0tXazF0V0laRmpaOWNabVdQVnh5ZkZkczFKVWVTcUdKX3lNalRobU8yMVRRQVd2dVIxZHVKTEctT1cyTnVSRWt0dnNnM0JJdnU2VEI2U0RLNEppajBDZXRpci1ESGUya3BFenZPOU10Z0tCNW52R0phc2N6ejJwbzRtTlVKLUZFemV4dlpQLWU3Ylo4WkV6dFN3UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:07:45Z",
+    "hash": "88ec01f98f8fbb636cf62348ea235fae0487e51d9c9f3dc032c397706bd2e218",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA (NASDAQ:NVDA) Stock Price Up 2.2% on Analyst Upgrade - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZC1aV3NqME5uaXRrYXc5NHZPT2pvcUxQNUFfcHBpbS0tZjJEZ3lZTzFVZnVpaE1tWGw3NzhvaGh1b2pFLWhwRmtkamZqcHFEekxLSDduQUZLTUxJUlJCaTdkTER2RlhYWllPdllHNjR3R0pHdlZoZjFYdW0zU1Vmc1Z1LTFmMjFwUVE3bEtCTkxqWDhrWDBiLWhvQWNoV2F1eE5yR3lQSGxONUl1RWdFWHU2RU5SQQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:07:17Z",
+    "hash": "02e00f7f9a09e620db2e2895a05316f0b201535fcf67422429fcc0a2f26c9002",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UnitedHealth",
+    "title": "Optum CEO Conway sells $455,910 in UnitedHealth Group stock - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZk9yenVLd2tnWEJCdzVQaWJNbW5SdV82dzNGVGpLTk5tUzdvVUp5NER6YV84YUN3LUVUdXlhS3NqWWFrTGtvN2xsWi1zdmdaZFpycnk0RnZSNW9XQ3lVUDJjNm9nWGRMajJ5MXc4bTE2UXJXMGJPQXNRVWNOVUhIRl85UmxyQ1NzQ0J0OXoyVm1mOVk5TERyLXZxeFh2VnY3TzB1R2NMZWVvWF9zaXlyWFlxZGlXajI5SVFiN1h4QQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:06:34Z",
+    "hash": "faf1da3fc61844eed6582ca17a76d3fe2748ba53f7bc2dea278bac134bc852da",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "D-Wave Quantum",
+    "title": "D-Wave Quantum Announces the Resignation of Chief Financial Officer - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlg5VkV3am80TDFfRElPTVJkbmZjOU52dkhVM2g0Z0tORUFzSnJNWWpIbjBmdGtkSWhmd1BIcm9EdnpSblk0SHlGZ2VoRWdlRnllSHJiMkU2MzE1dXZOcWVyYUJIMUdPZ1c4NnBqT2E4bGNmWlhxTTVNNHhRMmhvVkhQQU9MenR6TmhSVzhPVmJ0dzA4Rk44VUd2MGR4ZVdSYWgybWtsRmV2ZDRQcVFIRzNEQ3ZVYlZOaTVycw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:00:07Z",
+    "hash": "e6892de6f26de76775dba87d4163b8e3a8cdcf374a9e8382598fc1c84b6b1f16",
+    "source": "gnews"
+  },
+  {
+    "asset": "D-Wave Quantum",
+    "query": "QBTS",
+    "title": "D-Wave Quantum's chief financial officer will retire Sept. 2; finance chief takes acting role - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVdRSXk4dk8xYmRBMXVONVNtVXdVTEc0OFo4R1hCX0dxNFNuZHNmbW1qTXBONTJUZzdvdjNnNnRLUGg0aUw2UWF5Z2tFMTByWV9FaUdSbVdyMmw2WjUyQ0FLdHdvLTkxb0ppRm84djJFSk0yS2c1dkxsNW5KTGxBTXdxRlhMcmdlclJvcjROcmNXNmpsaFl4aHlRT1ZZamtDMjFhY0p6RE1vanlHQ1ByYXpJMnk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T21:00:00Z",
+    "hash": "ebd7838b3e79d81de6294239ec52ee5c1f411cd004b38c46a1a81a01b603dbe1",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "Forex Signals August 26: NVIDIA (NVDA), CRWD, Synopsys and Veeva Earnings Preview Wednesday - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDR5SGRtUTZMVmdzM3l0NXJfOVREU2tvR2ppRkpLc0l0ZTE3cTM4NTVoRWJDekl5V2NubVRrVHdNOEFIRWUzTjVTSXUzb2tOaDNDR3BHY1Q1SjkxZXp0d1dvM2VaTXlwN2wteUJxSklyelp5ZDJhTFFKR0taUGl3RzNPNDhoY2FfemRjNE1tdnpKOF9SQ3BPUnlMSU1xaTctMmtJaEx1OEczQ3Fxb0h6cG9VVF9PTzBNcnpQM0t0eWd0dWtfeVRxRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:58:02Z",
+    "hash": "183dd4483ac720397d3f954aabc7864144811116a387457a4b914da8f6f9a235",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Forex Signals August 26: NVIDIA (NVDA), CRWD, Synopsys and Veeva Earnings Preview Wednesday - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNDR5SGRtUTZMVmdzM3l0NXJfOVREU2tvR2ppRkpLc0l0ZTE3cTM4NTVoRWJDekl5V2NubVRrVHdNOEFIRWUzTjVTSXUzb2tOaDNDR3BHY1Q1SjkxZXp0d1dvM2VaTXlwN2wteUJxSklyelp5ZDJhTFFKR0taUGl3RzNPNDhoY2FfemRjNE1tdnpKOF9SQ3BPUnlMSU1xaTctMmtJaEx1OEczQ3Fxb0h6cG9VVF9PTzBNcnpQM0t0eWd0dWtfeVRxRQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:58:02Z",
+    "hash": "183dd4483ac720397d3f954aabc7864144811116a387457a4b914da8f6f9a235",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana transactions hit record 4.2B as SOL rallies 40% - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zc1Y3d21wcnhzWTd2a0UtMzdtcTVjU3pucGdZQzFxRC00T21VTHQ4T2NUTlBZSEl5VVVvdzFNUDBPdGM5b1ctYTRGY0o0cnJTLUE4VXFRbGw0UQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:56:04Z",
+    "hash": "2a3f0db360578871de2ece70a64f33643ed2f7d8e43e9ee6a2467a3913cfc8cb",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "NVIDIA edges higher by 2% ahead of earnings, breaking recent losing streak (NVDA:NASDAQ) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmlXa01IUjZPZzl5Nmo4Q1Q0Y3BnSFJFdF9PYW1FUVVYV0lrNTcyUlVuQXNuYmZXQlE5c05CMjlmX0NVRElCdFZjVlRBYXdtcWFXdjREWmVQenNud0ZLdVB2Q3hIUTBkSl9DYnd0ODAyVXJuRnBwNTZJTm5EM2xEVkpuRlktQWNIRGlTaEVQSGNINzQ2aHUxY3FHc00zelBxRE11YWJoTFI5RDdEQkNn?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:54:03Z",
+    "hash": "1833f3207436c00be63ad82e4dccd81ce0c07fd9c9b1229d1eb30f615d93ad96",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "Unilever",
+    "title": "Unilever stock holds steady as portfolio reshaping continues - Ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjlkVkc0Z1dEZVNTdlVuQVREYjJMci11SWNSelNwc3ZSU2d6eEtjQzVfYkd4T2NGdnhCaWgwSEcyS01zZTc2TzBCOVBxQjlwNHVib3QwRkNkTDF2YllwMU5OWHNCYksxcVEzZmpETUhjclFaTlBhaF9udFBIN25ONlU4cmZiOGwzb0dMd1M4RzZ3allaam1uM1dUMzZqaU02QnhEc0xwbVppUTRLZkVqUzgyY1U2NWI4MGt4NEh2U1o?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:48:48Z",
+    "hash": "3d7426129545273f098b1ed58a1c7cc59b5a9731e81cd1880a067e934ba95295",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Futures: Inflation Data, Nvidia Due; Stocks Rise As Oil, Yields Fall - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1g0Zi1LVEZtRElWZlduNnhGaEltUXdNSWxHR1VaOWVxNzZ6MjA3eTNLU0hQdUxMUldYNHNiY0QyWk1uaHJmUWcwN09mZFBGOTRvcDR0VWpWTzlTZkVfWno5MUtuVHRzMlYxTGg5MkRuQ2E3eUNVb3RBMkpBNUx1VnlYQzFYY1hpb19hQkhIanVDQUo1OUhGLWV2Q2NpSjNrWVlNYVFNYjY1SS1ZNndWOUdyRXVncm1EMGxZMVk5dHVMVlBKcE95S0xuZG0zaXd3ZDhjamZ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:48:00Z",
+    "hash": "28e6469bbeb3fed605f7e03f4f2908453ad0a7de66e10cc8fd7e2116ebddb06d",
+    "source": "gnews"
+  },
+  {
+    "asset": "UnitedHealth",
+    "query": "UNH",
+    "title": "$100 Invested In UnitedHealth Group 15 Years Ago Would Be Worth This Much Today - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeG5vZC05UkpTVzdySUc5dzRoMmVqdFEtQWVNY24wN1FnTm5kQVB2aGozaS05Y09JUGNOZU95TnVNaVhjNGNMRjVaaTFTTlE5cXByZDJVcXZKdGRDQXJVMjJDTXpVU2l2RGxkeGNiZkNOc1FueU56MC1PR3hhY01XUWFnS1BZZldwOW5JcU1VRlZoQTU4ZktveGt2ekhlODJ3ZUtNa2xlSmpCQmU0LVRXdHozLXBBdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:45:43Z",
+    "hash": "e5150d5d0426b0f45773ff6b060c240d4ad4a55790cad464914c9e43b981178a",
+    "source": "gnews"
+  },
+  {
+    "asset": "CrowdStrike",
+    "query": "CRWD",
+    "title": "CrowdStrike (NASDAQ: CRWD) CEO sells shares near $195 - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkNNUWZyXzRUWEtGdlIzSDBHZkowRUhCVFpRUHpHdXFWejlzaFozbUlvNDZkcGJyOHRpam9mZkxIeXBDMHJ2c2lBZ2pnVDZtYVA1Y0dBZGsyaHBBc2prZk94ZDN3cFVSX3U3SHI3QVlRWEFaWGszOVg1NEJNdWRsYnNLVE1HbWJTMVdCcHdYcndYVTJHcjJCbHQtRmZDbXdzUzAxNzJBRWNsakRwQWRQeTFLWlk5ZmNNRklR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:44:40Z",
+    "hash": "6619e32fcbf007ab51a625a79103f405e61ad1adaaaa0839439b7b334852ad3e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Hood Stock Jumps but Faces Key $120 Test as Analysts Raise Robinhood Markets Inc. Price Targets - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdVI1R2dmM2wwMWFUcHRYSVRrN0FoOWtoLUJTREtsWThDNUxOdGkxSFk2eEEzcjBJNDhWMWFDOVRESldhZ1lqY0R1QkJ6dktpYTdxWUxDc2NqcWc0ZDhwT19jYlBjMVFQVDR6cXBiQ3pLZ3JiTVpkMzc3MFh5alktLU1PS21xN3lNTncyWXhaRXE2TnpMdlloWUQ4WDZWblBJSVk0V29xUDc3cGMxQUdMd1ItZjlKOW9BX2xmWHpUbmgzYUs0dHV0TGxzc1ZKNW0yT3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-08-25T20:43:02Z",
+    "hash": "df479fe90eea1fb8664e6136eab16bb0dbae582a1c401889696b3621e19a48ca",
     "source": "gnews"
   }
 ]
