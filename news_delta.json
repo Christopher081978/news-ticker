@@ -1,402 +1,502 @@
 [
   {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA Stake Lifted by Sowell Financial Services LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHVORjVuUUZmTmQ2UWJ0bEM4aU1YTk9YZnd5dDNQZnlIczNXWEdwUUk3a2tDd1ZCUVZjYXRNVTlUSHo5bUtESVhUZzhRTEpsRFRVV1V1UV9BN21uQUNjWTk1QzNsN0xIbHBsUHB3Ym9JMUNGMGxzUnRFWW1GbUpyY2Z6bno4b0ROek8wWWthWkxKWUIzeFcyNFZEdFBZWTBNZ2F3b3JMU042NlpudEc0elBYUVlYckdVZlFTZnVVQk1XeHdScTUtZUVR?oc=5",
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana’s weekly ETF inflows fell 97% while CME funds became less net short - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWpOcE9EOEVGZXlEWXJSNjF4QUdxLUE2OS1CSXphU3Z0bkl2S3NlSTNxT3NZMk1hODdJQ3hIVHY2SjRzOVMyYzlDTXdJbkJCU1d6OGY0WHpENXN1M2lxU2JjbEJMWmljWVl6bF9ablAtS2NjbGx1cHdzS2lBYTFOSjJ2UjE5MlZSQU5Za2JubWY4Z2FpTFdjVlN6LXN3Zw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-09-06T08:30:27Z",
-    "hash": "d564cfbcdb33bcd9173956d9aa6b0573dec29bada9d0c1d4e150d14d24757dc4",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Prevail Innovative Wealth Advisors LLC Decreases Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN0hVUnFqTFY4dVVRcW81dDhxelVGYThYbk1NUkVsQ2RqenFoWGllSF8yN0c3dTBnQ1B5X2x3NktBWXZTUWRQRDdNWUpsc0M0Z0dDekYtdnV2Y1o2MWJSbDRpNkl1enptQm45bGdlcHA1Y21pSkRlWV9VenFtdk52REVIQ25CZFZleVpRRld6Tjk5aFI2aEI0eG81WkdjN2tHSzhBZkdYalRJdDlLRmRxSUNEYUpkb2VaNTF6SE9iMmEwSjd5M0lXcTd5MEpkYVBwMHFDVzlRbGw5bmlMRGc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T08:30:27Z",
-    "hash": "320dbfb415a07e9648fae16cc03ab593463f46152cb565f116c1ade57cad3f9e",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA Shares Sold by WD Rutherford LLC - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1pOam9hcERtekNUZFVJbEhUY0VsVmxROURDQUFBSXF0MS03elhyakhIc3dZNkRPNHBCZkxxOFM3amRQZkFaZ0dic0lnZGZ0eWZQeHo1TTZYeXg3MjhyN0RhdlFpZnhzX3dBSmYwWnNTM3JUSFpoMW51TGdUeHNnRzk4QUpfc0JYQWxhSHhyb0VRcHlBUXhzUnVfSE9BZjYzRmRvZ1ljU3phaEZ4NFBDTWF0TU83UUQ2?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T08:30:26Z",
-    "hash": "e2cc328628e08f15fd57b1d4f358e40f3554c0047a89b123fcf927857b102e1f",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Robinhood keeps 90% of net revenue by building its blockchain on Arbitrum, not Solana. - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0h2SG4wLWg1bkhqWDlLaXNrYmJtbXBZamxvRzRFY2dXVzY1THhSc3RHX0hwcU95Rlp4T0g4eFZkeTI1TndHamNrR2tSN1ZnZU02SFBpWTJRQThVQVRLOUo0SS1vUGdsVFFNNWFNU01RNWtnVnoxWnlnX3kzdnNVUmdhQXEyQ3hORWtkTUkzcVg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T08:17:02Z",
-    "hash": "54c6765ba46cd15d921c0bdfa5733595b0268a7bbaf6b3f62de883541670608a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "GlobalFeed",
-    "title": "Kolumne „Inside America“: Wie die Robotaxi-Revolution von Waymo San Francisco verändert",
-    "url": "https://www.handelsblatt.com/meinung/kolumnen/kolumne-inside-america-wie-die-robotaxi-revolution-von-waymo-san-francisco-veraendert/100251614.html",
-    "summary": "Die vielen futuristischen Fahrzeuge auf den Straßen der Stadt gehören oft zu den ersten Besonderheiten, die Besucher bemerken. Ist Deutschland darauf vorbereitet?",
-    "published_at_utc": "2026-09-06T08:16:26Z",
-    "hash": "f4eb83828c75f0ddd9bc21ae6aaf8859a086ee4d78d5787c541386a87c79e9c4",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "BTC price range on Sep 6, 2026 at 5am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1otTlNVOWxVNzIwU2JMTm9oeWRfY1lmQzFJaFN2Wm5VTUVJbVQ0cUpsVGdnbDNISlo1OUFNV1lmUjRfU0tuWHZMVTZ1bkhoOHZ3eE51OUVkSzZUN1Nac2Q4Z1duN0RKeWJzVFJMY0ZoRE0taWVseE5BRnRKaEE2WXhnWVNOUjZFcTNQeVFMeDkzR3hxTjNMTjlNQlBTNG4tOTNjRGFQekprMXUta2VfXzRvYmY?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T08:05:05Z",
-    "hash": "ecdec43e6d584a2e692dad3df3e7c1cdd15d1080086b1661a96940526fb5069d",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "XRP price at Sep 6, 2026 at 5am EDT Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM1IwR2p1cTlKMVdHbHVHWXN2VG5DTUNGaWkydmlVRkJCQ3BxWWExUFFjRURIbEJRTG5IbFphWjhQTXNxRVc0VVdaMG1uU0c1QlhfNkhseTNyRlJBLWJrREV3emVKc1dyZ2RfRE9ZV0RnMHNDWmlzb3F3dW1VWGYwQ3ZFWVo0ZnJqU3VCRG5pZDNuai0xS0E1SjlBd250d3N0Mmk4bTE4QS1XREVL?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T08:03:04Z",
-    "hash": "d4385cdaa60efccdfcc0dc513fb25648dc9c854cf01079cf2aa15b572fc7ec04",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "BTC price on Sep 6, 2026 at 5am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTk5aRHFIRkUtNTQ5LVBoTE5vMFh6S2xJTE9MU0pITDhUV2ZwSGFYTWR5VDBOMkd3blZQUE54b1ZiVWlReGZZOGlDeGt0YjBKbHlrVFR1ZUN5UFhPYVJnb0VUaEJMREd2eDNjWVczdkhRSTZUaHAtQkNucXVGRmlFZXpzWWdPc2hKdE9lbUhCN191WllCSFZobjZpTUpoSUNUdUgtemZpeVpPd3dl?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T08:03:02Z",
-    "hash": "bf0da9c7b4ac7414e318773efbfe06edf5bad1814905c8980f0a1182f9d9a7de",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin at $80K Is Stronger Than It Looks: BTC Is Surviving a Perfect Storm of Bearish News - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDRGYXFjWDJaTTFIazItb2czczVhX2FKUkZxazBHSW1udy1YYXgxNFpNS0NERVFFRThvR1R5aDB2UTJleGJvNUxRYjdVWlhRVnZRclk2WFl0SndrdFViOHNRQ21JZ3FtaEUxMmNZTG12bTg3NC1PMkR4SzFTVkVEOHBWTmJtZ1pfeU50R2ItTDhtcmtGT05yNDg0R18zQkQtelNpaTNHVS1Sbmc4LWg4djRDWnpWQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T08:00:00Z",
-    "hash": "13a5ab2977e561d1b4f89320d29ce2f596693eeabc0cd61a89d58ad1d8cf4d46",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Arbitrum co-founder defends Robinhood’s 90% fee share - Crypto News",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKWUJ2RDRwZ2FIak5ta3VaUjRTeVhpZGtMVENwYTE1MlFlN2ZuNU9sS3NzR1NRdElpQTRQZFMyX3FEYkZNYjlGRFl1eVBOUWlUNTRTdnpRWnBxa2YzRm9XUFh5ZXlSb1hJLW4tdnZXdng4UU9pTzVuVGM1dVI?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:56:39Z",
-    "hash": "6bb9ca260c1e6887b2c7720c58ea1405535d1b6a98e2cbfcd2551b6666378cc4",
-    "source": "gnews"
-  },
-  {
-    "asset": "Coinbase",
-    "query": "COIN",
-    "title": "New Meme Coin Picks 2026: Top 10 Tokens Featuring Apeing’s Upcoming Crypto Presale as the #1 Choice - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTjdzNVBBYnlmZTZ4dXJ3cnUyTmdiNG95eFhlRGhDMFVWMnBtUXB3MWRLYVZkMFFDZFpzaEVocl80MmpaTF9qYUhkaEpzSmdGWFBuZTktcXlDLWhTUHRQeHhPbkF6ZlZHVzExbGlKcFgtcnZTd1ZLR18zU3RWWGRWR0FqdTNzd3E1c3BVU1pMckxsVkxRN3NsbjVCT1pPNU9MVENmRVM2QUJfRlp4Sml4MFBSTzNrUzlHSG9rOXpIN1h2OE1ROHpHTFJKODVpeDE4VDNzT2xPbUtpOGF5dHlTeVFCNFRuMzVqYWhzNE80UURSRVBJM19HTF9xOTBnaldwZi01N3cyMDc?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:35:43Z",
-    "hash": "f1c17e0a7962b285bfd6d1577b4a4904e7b4228f173724d4e7e2b557559a0392",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "FSA Investment Group LLC Buys 3,299 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWdpYWlfd1FJSnA4TTgzTjFSRDRfY0k0T2FMaVlvN0xLVDN4TXpTd0NmQWV0VkdFeHdsZlZnZDdlN2tYLUQyQmNFRHRQaENTYmt5cVg0cnhuYk53cDh3eUdNazRHeE5NdXMwNDRqeTVRTlBvN1Z6cUdFS3RUWml6UzliSGhBRDZ3NVg1ajVnamF6dFpVdngxSklTeWs1RjkweTc5QnN4Z0lXV090Sjl2VUZsX0JGRnVfRWNtU2lzSHRzQTMtaHJNWg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:32:10Z",
-    "hash": "1c6cae26b2fd3bc7b53030a087e38da5d4e2d7bf4193f8102b7e9e866d344ba8",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "NVIDIA Corporation $NVDA is Blackhawk Capital Partners LLC's 7th Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHJCTGFmNWU0R1pSZVdobEpwVVp4RHFfZks0c2tHdEpiR0FUTlJpcFpyTGRxWDVCLVVCdEdTYjZ3X1k4Y3RnX3VFUlB5WkRBVjhMS2lSUnRMaHBlYUJmeExyRFVpcnlLVDdqSUIxMUxPNkZjSS1kaEVZdE5MSURtR0Y1Qi1WQzBzS19lcVptNnpBYW94ekc4aGdSdkw1Q2g0YkU5R0wwdExxb1lEUDU4UDVlWlAzN21MTFgtMUFTMjh1NllqSmpWMkZoWC1sOExVS2lldFN4SQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:32:10Z",
-    "hash": "7b36b6343562c636e7120079690468c0ff3952aba056f5b5b7a6f9471a02bb4c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Graphene Investments SAS Boosts Stock Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUxuRThDUWM5M3RIN3ZrekdSZXI5NU9HVUlpVWY2ZURwRDVGazZRb2tpYXV3Si0zMkpfRlo1S1pBUGVTdS1MUE83N2pYdkJLN0pqTmJaZGt1ajY4LXBfb29wMnRvTGRwQnJTUTRFbnVBazhrTlUzM0EySGhmOGFjTmh4d3p2ZTdnYkFOUEt2bjNQWVlHTUhKdjZoVlF6eEJqTTFnZWVlUFh6WExkQzZxR2VJYXRkM1cwWjg2cG1jMHZwTlNCbVQyRVU0ckRsR0E?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:32:09Z",
-    "hash": "de3da7bdfe697d36f7feff98ed9624cc3e9d3066809275bf7a958447203c3dfe",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "NVIDIA Corporation $NVDA is Clearwave Capital LLC's 7th Largest Position - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnE1cWM2RnczbmRINlh3T0ZiOFBBTTByb0hZX1R2VWlCNWF4T2JkRUE1aWdSVTFQX2pqVnJRVW1Bc0x3bkxqeUpieWJpYkw1ZE5HTllqMTRJdGwwWDhqcHJLT3o5ZWI3bjZId1pUVC13eVNzX3dHUzJNRVgxYnk3NWs4cFJuZFRuQUFDSnBvU0xUWmRTZjZzeGJZXzBxTmRUVUNyaXZJbUY0R0F6MmxDWEdWUzdWeU9NWGJHbEZqWThyZDJyX3p4bTJaWQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:32:09Z",
-    "hash": "b114e5aeed8bb7a5c01c7781d4e8d3ad932d6525bb9a272bce41008aeb26d67a",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVDA",
-    "title": "Forbes J M & Co. LLP Has $82.50 Million Holdings in NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPblA5ZmM5S1BobU1aTTdOcm1LcnAwSmJUdExLMXoxX01UWTZLb2QtUzdYLW5YanQxZHNzRkozMDBrWUZqaEtiRGFDdlVQS3JOQ3Byb3pmeXlTVHh2SWJsZGs2UmFDWFJnS2ZCbmxRU0ZCNnZHelJfd3h2NU00SGlhNXlYdGt3S01YTWt2RUNQZncycnhsQUhpV3dhRjNDUmFaRnpScGk3NU56RnJITWRjcUlWSFlWWW9PU2hEV2dUb2FTTVFqUHREMWYyYw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:32:08Z",
-    "hash": "c55b23e0c76e386d41015a570acb5cc1af1711e6a5df3e318432a51ad2affd0c",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "Nvidia's $13B Hugging Face Deal Locks Out Rivals - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRjRkWDBreEFQZmtaV2w0a1hheUdkRWZSNEtVTnpPYXFaTGRXdl92RDdrVWxGYV9TVWpDR0cyMEpwVkRqVXIxYi1SdUYtUWZsOUtsNUJpTTZkZXVTbnN3aEhlSU5ibktSVzJrZ05hbmVycV9tME5sdXJNNGNnTnZEdw?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:10:23Z",
-    "hash": "0f6b958bb85c3f8df2ac69c17f4b678571b4ac79ffe04eb96c4fffe92db2536c",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CrowdStrike",
-    "title": "CrowdStrike stock gains on AI security momentum and fresh guidance - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUtRa3dEM2dseW5jYWdZX2YyWEhmSFQybDR4QWF2dk9tN3dPdHUyaW0yS3VzU1E5RGlxOXRQNEFsUjNZZ3FycHFRSmxCbEpKWk93NVRnMWNUc2JobHlrRExsSWZrUFNJZWRnTFJRcHI0TnR5ZWg0MGZxT3J1RXdjSHRPWF90NV8ydUxEQzdoVjlvS1ZpbmsxTlg3RXBTSG5SZ2g1bDRybS12VlBnd3R6cnlVTU9ZdDBYeWRXSXl2WFJSelJIMzdBTg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:07:29Z",
-    "hash": "86e57a29b0fbf7c7f6635a8b33e4bc7f5a2e613a9464de6faf6db931513c08b5",
-    "source": "gnews"
-  },
-  {
-    "asset": "NVIDIA",
-    "query": "NVIDIA",
-    "title": "AA Financial Advisors LLC Acquires 2,173 Shares of NVIDIA Corporation $NVDA - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOTN5X1dUOU1RdlQ0dWpxXzQyV2NpVjhWRE5jOGhsQ2lld0RPRUt0eUJzdHZ6dlB0WHUtQVU4cVBHZ0ZMWWlwOFo2RUdPUTNjbHM4cEFpWmxkbkI3d3g3bDJYUm9yWjIxNXZHaTc0R3AtNkhQMm1WdTVBVzh2MFExdnoyejRJaFR1Q1JrT2VEYnBEYnpLdnZpdmswR012NHJuNV9JMS0td1psbkFkUVlqZnViMnpUcFpZTWJGcTlkektXZkhIeTlQcW1vb3lzejg?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:06:36Z",
-    "hash": "da90c1b498166731600a3cdda3eec5af395ed9f20b34c08c8ebfa95edc51fce3",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "SOL price on Sep 6, 2026 at 4am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVVaSnEwSVUwcmtJek5iVTdPVGVJbHJMa0FSOEJPenJWdmRqb1dwamV2R2ExQWl4cGpET3J4a1lyLUV6eS1INHA4LWJjbzJMMWY1dmhORlkyXzRqVUxHU2J4YW53aFZHc0RvNWZKRGJOc2pTcmYzMXpnNTNWMFJ1enBKZ1pMeW9qWF9XSzMzdTBUaEpKcE5RYWFnU2o1a2F4V1c3SllCYzJaaUFY?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T07:04:51Z",
-    "hash": "3fba885487d878cc788b1424711e8e2945a6077c9a9e4651c09a8a1529a985f5",
+    "published_at_utc": "2026-09-06T12:30:38Z",
+    "hash": "0a3e0dca21c085b7a9c813bcc441a8276e920165e45225c26208917b81b2c7d1",
     "source": "gnews"
   },
   {
     "asset": "Coinbase",
     "query": "Coinbase",
-    "title": "Vasalunds vs Enkopings SK: Total Goals - Coinbase",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFBwbHVhOFdoRzlCMjBzZVp4eDM0VkU4NEJLTjFTMk1iUnRiMXM4OUhXSmk3eVJPZnlRYlJuRjhkdHZsZ2FyTkVNdWJGQm5raHh0ci14d3RSYzZoa1dGRmdpVkx4NExxTm1Ya1lGb0xqcEZzUjVEMHJnMVZqSUlqXw?oc=5",
+    "title": "BTC 15 min · $80,002.96 target | Prediction Markets - Coinbase",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82ZjFqUkk2UGJGbFc0cHFmdktVMnVfeXZmQXdiaVMwMGZxeG9taHh2QkNUakcxNkwtTmw4Z0pfYzFNaDZrYjRJcG15ZUMwb2w4MEJSOTZEd3J2Z2Jwa201bXNSUGVfaUZFWjRCLVpVa0dRTDZqT1hubw?oc=5",
     "summary": "",
-    "published_at_utc": "2026-09-06T07:04:09Z",
-    "hash": "513a205a23895656f2b9cfea08dab092a58eb5960eb08c4021337dcf964c1604",
+    "published_at_utc": "2026-09-06T12:21:48Z",
+    "hash": "c4094c8a992c76f0266b8536c8c7e1125ef2d33876b3717c6d4fc072e2bfdaeb",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "AI Agents Initiate 66.3M Stablecoin Transfers, Solana Plays - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHWmZfZi1OSHRvTU42ejN6aVRrWTBybmtaOWk5U2NtX1pPRGVXQUpaT1dkYlFBZzVGVHkyU0NET3JEYkp3MklsY3lMLTc1emxwUW9JdzVYSzRTb3hF?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T12:20:05Z",
+    "hash": "89ac474b56ed3216055b13199935abdc34983ceb33dfdb57ab3c0ffa7d70d9ab",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Now Makes 21% More From Predictions Than Stock Trading - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3hmeUdEblktdXpZZFRkWmdJNkh5dXJYbTRObFdydjJxSEpqbGJBY2lELUdUMk05TmNnWXdibnZHYkRkNUZSUFEyYnBNVERtcmgwaVRNcXZqZVRVNEpzeGdGZTZVNTNJbzM4QkhhZFZmZFphLVotMVdaY1NhYmUybWpkT28wUlNRWEduMTBOdnJfTGNrWjVCN0Q1eEhqanR2U1pj?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T12:19:37Z",
+    "hash": "a15e181aba01f993ff1bb1d77c052b099d238a9c110d0f8cc32596ac561eb6cc",
+    "source": "gnews"
+  },
+  {
+    "asset": "Ethereum",
+    "query": "ETH Ethereum",
+    "title": "Ethereum Price Teases Breakout as Bulls Eye a Violent Move - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtYUVmekRWdWJBdVp6U2JjcnVFR2JHeDhHalNOWThNVzNlaUVZUEpOSnFVaGo0QkxjM1dXSUhpbkJzOG5CdkZvUVRuU2VDMzNoNTl0Rm0zUFpLdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T12:19:17Z",
+    "hash": "7c6b734439ae4ee305cc14055dbda3af581c72d37926ba887cb0d0a0d98c037e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana leads RWA networks with $348m monthly inflows - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uYS13T2QwWjMwUlI0Mm1pWE4tT3A4Sm1yMjJfN0F1aEJXZDg1bkRPZzJqazNQWTl5Zno0YkhfMmQ5Rzl0TnhnZzRjWTRnZkphbHM4OTZGaWhmNWVnYlJ6dDkyMjJNcFVhRHVhMXZFT0tEZ2puTEV2YUEzSDU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T12:08:35Z",
+    "hash": "6aa69ff834beacb39c979db07f489e44ceb81afa170b89f1ae564cff7be765b1",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "$73.1M: Robinhood’s Tokenized Stocks Lead DeFi Deposits - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBILWh6enZuT2pfeFk4NWw1aTAtRXJEeW9mb2hXclZkN1I1bjR5ekVrWWlvazdTOHFJcjJvSHhqOXpncEdPQjdPNjNpdEFTckFrbWFLSQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T12:04:59Z",
+    "hash": "ab894359d49a612f3af713dd3a5adf25b099eb2351475deb5b647f4575386af8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "BTC price on Sep 6, 2026 at 9am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVzFoYkpxY2hMeENsQW1BQ0l0cUxObEQ4cFFjSVhkNUhrc2FadHVYeTF3TGd1ZE4zR1RyRGxJTGxrUVVJbTNKbWhWdmxQV21Ha1Y2OUJIY2tfWGNUS3g5UVR3UEpoZzBoQTlQRFZ0UHFQYlY2c0VYU05hMkpHbGt4QWp6ZF9xOHdKM0RzZDlKclUyQkd2ZXptUkdlSlNNRWR4UlhGaGhYY0FIQmFa?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T12:04:00Z",
+    "hash": "18f72eac86e7a8de7723ff2a6eb8e2de235eb7353be64d8cc38ac881638e12b3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "HYPE price on Sep 6, 2026 at 9am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVA1ckJJZ2lmT09mUlJKWjVENGctdmpGaFdSSEZ2UVBqR3VISEVLaS1McWtsQnlJR2dWeHA5SHBuUjg4OFJQeGYwdXc2cVMtMkdHV3p2S1R5REs0SEZXUlNqZlc0TmVvUFQtaDBDbUxDU2MzclV1LTlDMEZKSXBzVjhMNUZjS2ZTdmNUMktjOW1DUC16THk0dDB0TXc1T0lqSHNBM1ZFemhQRDA3Z3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T12:04:00Z",
+    "hash": "0d8f793db7fcae0ede1cfce75e53d731bdecfa5db165ad37945c93996dbeb337",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Nvidia’s $12.9B Hugging Face Bet Hedges Broadcom [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hYlpKSFdBU1ZaZ3BxY1hVMTM5eWdSbHVhR1VDQWx6T05NRjljekZNWFZtY0hGWjZUSW42bTdod25LNHV2b3BWenJ0UFprN08wbDViaGlSeHEwTmp1NFBuNUVXLTdZVHlRajdLWkl3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:45:29Z",
+    "hash": "da3e494c74efefde08ff65f7f715d7fa069c9facbdb85221df957654f7cf406c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Landtagswahl in Sachsen-Anhalt: 54 Prozent bis 14 Uhr: Deutlich höhere Wahlbeteiligung in Sachsen-Anhalt",
+    "url": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-deutlich-hoehere-wahlbeteiligung-in-sachsen-anhalt-als-2021/100252039.html",
+    "summary": "AfD-Kandidat Siegmund wählt in Tangermünde, CDU-Ministerpräsident Schulze in Magdeburg +++ Chef von Siemens Energy warnt vor Folgen der AfD-Politik +++ Der Newsblog.",
+    "published_at_utc": "2026-09-06T11:45:00Z",
+    "hash": "050569a572c6259155602d81ac65d7cfdd2ed941be89c4878fb1d55aebaddb89",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Solana",
+    "query": "Solana",
+    "title": "Solana Price Prediction 2030, 2040, 2050: Is $200 Next for SOL as Apeing Launch Fuels the Search for the Next Crypto to Watch? - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNTU05VVAtWUtIcFU0VVZlZUo1b3A3aFUxRUlwX2NWUmpvSGxiTmc2MmIxcmlXeWNrVGhzdGhxVFNuMkFRVHlzUUFUT3JoeVRjSjBpbGtYWWpfUVZfenlYNGhZdVQxQmFlNDZXY3pjeVJKMENvT3JwMmFkbkxEdVVwTXo3QkQ0SzV2Q2ZwX3BRLU01T1hIVjdnNThVMUhvQVdYdVhxVFJESzBWaHNzdTA1Sy1mZG8wZFFyY3JMLVJhTWJsaGZ2bFVQRXp6TXNoa0g0VFJSZGNOcXBGUU1XOGxDd3dvQ3ljeXNYd2ZxQjBxZ1RseWV3UlIxWjRyNXNCZlUzeVdKWG1vSmc1MWZiOHdjR0hLQ19rdFB3dEttNVVGU3gwZXVGYXc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:42:20Z",
+    "hash": "40b1896ee18df8ec4ca3a9ad225a5e2d2a6836be4b8479291f07669f4c74db19",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP could hit $60 by 2026 if it breaks $3.66 fi... - pluang.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXUxQXpzVHRuTzZZZFVpN1FzTVhpVkI1eHNPeGRFbG9JYVhISUV0dHNDU2Y0Y1F4dnFsVXE4eTFpVkM1clZnOVY3Z2pmZmlWcjdHSFE3QnRUbkpxNVl1MkxfcXVCZ1I2RTNrS3Y0Nk1KdEFtSnh0RXMzVmQ2Z0ROX2lBTkZXNV9ISWxsWDlCcU9lemVLMHZhMF9DNk4xcEhCam1MTWdR?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:41:50Z",
+    "hash": "df0b7c184e580820bc7ac5e1730899507ef4a9989b61bd78a7aa5df0f90106ee",
+    "source": "gnews"
+  },
+  {
+    "asset": "Siemens",
+    "query": "GlobalFeed",
+    "title": "Wahl in Sachsen-Anhalt: Sorge um Fachkräfte und Investitionen bei AfD-Wahlsieg",
+    "url": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-sorge-um-fachkraefte-und-investitionen-bei-afd-wahlsieg/100252326.html",
+    "summary": "Was droht Sachsen-Anhalt, wenn die AfD regiert? Siemens Energy warnt vor sinkender Attraktivität für Fachkräfte und Investoren. Und steht damit nicht allein.",
+    "published_at_utc": "2026-09-06T11:41:38Z",
+    "hash": "711a10bbbadd994ec8b336e79422d7b46c965f7751a797260d2596cac085546e",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: Nvidia Will Join the Vanguard Russell 1000 Value ETF Before the End of the Year. Here's Why the ETF Is an Excellent Buy Now. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVU53QmhWN3BVOV94Y1hMSHNfS0pKaU9CZVNnRVV6aTlpNkFVM3liZ1ZJVFF5MUMxeHpjakczeXFsbWVRaHR0bUFDdkU1TkRyck5adUV2RUtlb2Ztck1LeE02T1pLVEk4UWR1NlpZSF9kdHF4S0EycnU0azlWa0RjTjhreU5tNUpqZmdiQ3F2UTdMU051ZVhuWg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:40:38Z",
+    "hash": "39380d9c487b7c3a453c95d4e7f5c4a9729c847d4636938557adee95c6789fb0",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Robinhood Stock Fell 2% Despite Cathie Wood’s $3.6M Purchase - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2ljMUV1Y2NncklrblU3UkxGRGZKanQ3UjVKTEJJbGhCSko1Z1BhUUtWbFFBZEIwUFNiOHdDaEdHbFhKWUs3OTVpcFo4OVJoNlFLV2dENUphMk85MHg5cV9JTWZwZmJqSmRvZ09qOXdpQWZTRlpxTFFMdFRBMjN2XzdzOG5EVVhReFd1MUw2TU9CZ3cxYnR1X0NyMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:33:29Z",
+    "hash": "e1fe0dee71fb765f6de494a457432a8b0c6aa4c3b423e106c1fb40e435c2fe53",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Stock Fell 2% Despite Cathie Wood’s $3.6M Purchase - The Coin Republic",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWNuV2tFQzY5SjlEMVYyYU54aWdhNTZzLXJnbF9pS0Nzemp5dXpiWHVuQ01WWm45dTN3ZmRDU05CbW4ySlNxUHFyNE12VkQ5REJtMFcyVnZUa2pyTkFsWk5KZlFSZWFDcjgtTHJHMmQ2eldZQnlUYW9HUXAzalZnWTFYTmtPRjVRaTZMX3c2TS1LTWlCR0xQMzFxQXN0cUxvazhR0gGoAUFVX3lxTE9NdkxDdUdGcS14VGpRVm5xeWg5bk0tZ3dZeW9SR0RTbVM3X3BIRUdVQjJGeEJQYTNJckgwNm04MkFGb2R1bWhsQjlzc1BpTGVWaUQwNXVDeVo2MDRaYTBwZGpJRkc5STRiRXplU3Y2bVJ2dE1aNHFuQmstYVlPNUdOYU82cS16TE1yVFhzeFZvZ3hXeWVwUm1VZWVKbUtGQjQ3dGthWGlRRw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:30:00Z",
+    "hash": "57673b160483dc1ed24e699fbe175a4220d9072794fae7477614f4dc1f96f2db",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: Nvidia Will Join the Vanguard Russell 1000 Value ETF Before the End of the Year. Here's Why the ETF Is an Excellent Buy Now. - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzBoeTB3Vi1nZnZNNzQ2blVqT1hIYWhSS05DS3BvemlLY0ljUDJpZzVoQ29TRnM3aV9PNjQ1VDZURzFydC1ST1BxX1EzaWVnNlhNeXpBUkdJWi03Zm9OX3FzUjdxU2ZDU2hhQkt4Z1AxMjNTWTcwSzc5VlBtc2ZlbFprcmFGWjFzQlU0?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:27:00Z",
+    "hash": "1b4b53070ce4f183d7de3a374068f1c3a605c75612f7f2025265bb6f4a6b0c69",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Is Down 24% This Year and Chainlink Is Down 4%. Is Adoption the Reason for the Gap? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVFgzdzZCXzRIdFI4bDhGNlBHSV83aURfTjZNWmJCeFZJNmxCU2hkWXJ0UHhXbjVHN1pCajBfY2RHaU8tX0RHZTEwZUdrMGJWZkdqeFlzajcyTDhvdUM2eW5CTnoyZmFaUzVHeW1kNFNRcFJ0R1lBUDRodG9rNU44VjdMbk9pbUtBS1gzQjRneHNNYnNtcGc?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:15:48Z",
+    "hash": "3791572def0d4f673e4d8d656ffee13a9f73b907e3c56832fffd158fa8e7c9d5",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Is Down 24% This Year and Chainlink Is Down 4%. Is Adoption the Reason for the Gap? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb2xmempYemxHeHhTcnVKR2h3T1Z1cTFWN1loLTdhYktuRF9sZmI0LVprMUUzS0NycHBNRXFLNjdiSHJQRVA0amNpSFVQbTl3OVN3TFU5aWh3d09IN1VNWWF5SmJjVW5aUlRUTU9CY042c2VHVGdocFkwWV9Edkg4bWRzS2RtRTE4N2VXTGtaYUljZ2JTby1peXloS0gxdDBJUEkxMnhqS2hRNEtKbkRPbjI3bXNiQ2xxcHdzanpwLTNIOXR4VzIyc3lxbHNRTWRJQjNYbkI1a1Vldw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:15:00Z",
+    "hash": "6835cbd48f47d7054d8a115b4b9660063673821d14f11e61eaddf57c84168451",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "Alex Jones warns governments might seize XRP in crisis, but FDIC rules say otherwise. - pluang.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTzBFaGZSX1l0RmFfX0hlZWtUanR6blBGaV81Tm9fbXQ4dzhtM0U0ck9Od1lMclB4RDFlV2lpcEg1bDhlc3RzcTZJMTQyZmkzTzRHT00yUHM0ckFwTkxuTXBGVGJOM1J4bDUzWjg1c0xONzhMZld3bFlPUm1WekFsYUdZdHRzbHFja01wZXZZUnBmbjA2NDlQVDgzUlV4aHJtRGkzdGVKRWVpSms?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:07:42Z",
+    "hash": "b37a6ccb57ccd55f494792ba52f9fa234591d1b08dda00e713f5688668259408",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Price as CLARITY Act Faces Another Senate Delay - CoinGape",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHM0NGpJUkxYbUVwLUdYSkd4OTRrRnZkbGo3WVM5LXJpOGl4Z084amxNUVQwX3dTWlc5QXdES3F4VU5pOUJFUGN4R2JqbE95VmltMWlURDdqUUlKSC1hdk5obGZuODc4ZERhanM0WmtVczhFOFI2cHpiWS1mLU05X2Nybzk3UDJx?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T11:05:04Z",
+    "hash": "00f561c4e241c5c9f49681322b3ea17417f35fcacc7a8644de5a0c5bfa84e0d5",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "iCoin Price (ICOIN) - Coinbase",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoUXFrN1V3eGk0Z2lzV1hwYkczQlhidHlLZmVoTEZfT3dMN091cDZwdHJsWFlQaW1mU0l3Qm80R0Z0enBWc1cweEhVT1Y3OFBYQ2s2Y3lHNA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:51:12Z",
+    "hash": "44c459f2d08373bcaa88f7ee0347aebde984e301a3efe14eb5e4fafa6079110d",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Arbitrum (ARB) Rockets by 42% Daily, Bitcoin (BTC) Fights for $80K: Weekend Watch - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNmZ4UFpBTjJNOGtkeFJaN2ZMdXV1VlljckkzSnFVYlF2ZjRZMkFlUGItRWM4SXFfaldoVmRPVERLVlJVQ1dtQlJ5Vk9FS2xiR21rMHMyZTNscEp6akFyRFRaaFNhZmExaWx4VWpZbXRQT3ZsSUhHNlhMUFc2MUF2MEpFM2FDOUJZTnJETWdXNFJ3SVpWdjBnaVRXeTVjYUNDVlNydENCaXNLSmxMeGwxNQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:45:06Z",
+    "hash": "0c39e9535624d10a955adbef1ee3e268be396fb27b7b9da400135e5392223700",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Arbitrum (ARB) Rockets by 42% Daily, Bitcoin (BTC) Fights for $80K: Weekend Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3hTOUl1ZVl4aTctd25RVkFJWDFnUmJlUzhlN2U3R2ZVTWdUaVdPMTBPbTEyaDJwYzNPdjB3MTB3Y0l1VnJSQ3Z3VnVzZzRhbFdBcUFEUWFVVnVFNU5KUTdhcEJlYm0wWkdWMFFUS3d0U0ZSSXBjUHl6dm9VNVBYY1QxRGpTM3dvM182MmpXcjE0ZXFiZERDQ0YyemZCZGhX?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:35:00Z",
+    "hash": "04df073b308fb1e4dc998ba401e24a550a66fc34290d610880da0e95c1ab3ad1",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVDA",
+    "title": "Nvidia's $279 Billion Bet Changes Everything (NASDAQ:NVDA) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQnJDc2g5WHpFTWFSbUNJRVZ4TFJQb1Jhc3lncmhwQk5CaDdwd2ppaHZybkxmSU5tLW43WFlVQnJBd1dtck9PaXdGalB5Nm1Qelh6TTVTTmlrVnZScjN3Uy1nN09qbEI4a0pIbjNlbUd2ZmJ4WHNmTGFRTXNsRWhud1E4SFJCN0daUjRV?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:34:22Z",
+    "hash": "228c9a55528ffa40b7efacec4edf248af797cbb97d4dc86026bebfd9426ac825",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: Nvidia Stock Will Double in Under a Year - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkZsVzdBd09qOFlsR0NLMDducVNtRWc4VGFHcy1QSnZqU2xqVHZ0dXBpN2hobnN1cGl5alVYT2dHM1k4b040WFhOWko1OG9vZXhvTS1Udk5kSVBPVlpYS0VMMGxSeldScEhZV0UweUJGUXptbU9ZYnh6T2ZrQWNVMUNGQ0JzOWNOM192aGZCVFJ1bEdETGF2TA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:31:48Z",
+    "hash": "abf40979a9357d8087c6394e8d6bba5ff0cbbb796293a820ac4a72531c453428",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Should You Forget Robinhood and Buy Webull Instead? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMUhyTFJoWjlHd2hoYk1BWjlCOGU0dXN1OE9WZ19MY2RFbnB5dTJTVzRnZXpaSW9FU0NGZktZQlk4N3YxeHEtbUxuVlZEZUVXcUgyRktWZnZhaGE4bm9mZDNZeGxMTXdIWWRmQTFxel9SLTh1VDhOZmljd0tsc2RTQTNuWTRkazF0N2NQWFV5bEVZTU1YN0pUZg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:31:48Z",
+    "hash": "473a2ed34739dccc859c31dd65e763121f5f17ebbfe25011039ce5c0faf412b9",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Prediction: Nvidia Stock Will Double in Under a Year - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW43VXNEY2E3eEktZnRmQVgyNlplS0txU3QyeDFOR3NXRVNnSGJ0S2k5Ui1FVWg0NmtnRTZaMFIwVFE3YndxWVJfNmV4ZjZkd1VQMUdJdVAxc1UxcE5DcWNKUENURWlWNkxWVnY0U2tYNHVUREtuaktTcHBwY25CNUJDdVRNejVkeTlYLWpBVTYxYjhxRXhuSk8xR2ViNFFScGxv?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:25:00Z",
+    "hash": "acca316d5942d0d0d9c7c99dc38c3131850e348b9cedcbc0433a7556942d132b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Should You Forget Robinhood and Buy Webull Instead? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDdjeWdtcjVDaVExMHNyUmJEQnlCNWVadGpGQ0JjRk9DQU9FejVHU1Joakg1U0JmUDBXdk9VWXBCaFItYlRZMk9DWGhFc2pfN2NSOVpWZlpWd2p2TFZjeFVkRzU0QW9vZFBqTkhYcjk1eVRUR3FuLXpWZFFtQWFCSUQyT01ZcmJEMUZRNFpCZmxTczIxN09paW9CWG84QTQ5Q3c?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:20:00Z",
+    "hash": "08c40bcb4f4d48c4fa5bac2aa0804151d77c9d64b235639017c87e27d2e1d9bb",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP to reclaim $2 on this date, according to crypto markets - Finbold",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1lVdTVTbGVXelJ2RkxNSEppYno1bUxOREVCRTgtbXlmSDRyZ25ISk13VzNTdDctWTZLZHFFdW1QV3NRaXhFVUxfX3E4N0lRd2Y2cjRqTG5YZFZvZXpRQmN2UlVGU2gwWXo0MkNSeUdpTExjZEE4MmthbUNkWGNPRy1pNnU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:19:53Z",
+    "hash": "41bf448f468987c54ca49ef9ee1e0f07799e32470611c1ff10235c10ee74eab6",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "GlobalFeed",
+    "title": "Doug Burger: Chef von Microsoft Research: „Es ist unser Job, Risiken einzugehen, die sich sonst niemand zutraut“",
+    "url": "https://www.handelsblatt.com/technik/it-internet/microsoft-risiken-eingehen-die-sich-sonst-niemand-zutraut/100248913.html",
+    "summary": "Der US-Konzern will unabhängiger werden von OpenAI – und entwickelt eigene Modelle. Aber die Forschungsabteilung im Haus macht nicht mit beim KI-Wettrennen. Der Research-Chef erklärt, warum.",
+    "published_at_utc": "2026-09-06T10:19:51Z",
+    "hash": "fdfb9c0bcc2dd203bcbb45dffb1d0c9991efb1797a8c95ed78b0e72beba28d79",
+    "source": "rss:handelsblatt.com"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin Price Today: BTC Holds $80,000 Before The Biggest Week Of The Month - CryptoTicker",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvSjV1ekpPTFI0X3JuZTNDOENFQ20wdGlmbVY2WVVRTVAyM1FpeHl0dUluclJISVlYS3FiTVBfRThrVE4xblpRMlZ1LXJBMGRYUzhmanpUTDdGanJQbWtiUFpvT2RPNnlLbUo4dQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:19:39Z",
+    "hash": "73f2875ba49cd0557739f04d2953b73bcab43bbc05fd22cd69e81cf8eaf6bf2b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "300,000 Shares in Robinhood Markets, Inc. $HOOD Bought by Styrax Capital LP - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRDJYNUNvWXBLNWV3UF9MdG42SDRmaU5IU1dHOWl1TFRRUl8ycWM3RDRjcDlZMDZmQ3BtR1FuQXdXbzRHbFpBYzhEQ2RyeUx4eE16NnBDMFpqLWdCVHZkeFRkb0h6Z2E4RHozbFdEMnJraXE5Vm9qcE4zTVE5TGRWb1pNQ0pPZWpBU29GR2YtTUstM3FoNFAyaEI4VGhRVzF5dFV4QlF2SEtQU3lvWEh1dldNSmRTSWpGUGw1QVc3R3VIcTE4ajhCMnJvXzU?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:18:48Z",
+    "hash": "ebb9019e039e1870a9baddeca262b41fa9dd952ac91f4fb4ffdec2533d9a79f9",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Coinbase Says Crypto's Next Wave of Growth Will Come From AI Agents. Here's What Crypto Investors Need to Know. - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUNtRXF6VWxJazhBVTVIZUlFdWRVTjMxWkEtbEhTaHFvdkRqRHpfOWsyT0NDclJ4WVhMOWZlWkRBbEdvQjlUOFc4Z21UeFNCbVlna2JfOWZhUDBVMlBzYzF3bFJwYjVqZ2NGR0lnQnE5YlA1d29FUVZtZy1WX0lMemJTYU84MkVWT0pDeHQ0Z2F3WEZCc1VPVQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:11:18Z",
+    "hash": "29d62fb86804384ba085a807991d19e0931e31389fe4ec81e3d01303441f5d5e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "COIN",
+    "title": "Coinbase Says Crypto's Next Wave of Growth Will Come From AI Agents. Here's What Crypto Investors Need to Know. - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGpyV2hER1VPMEM0ZDBxUlJCWmhXelBKTWNKRURUSS15ZHBKZWxWcHpONlhvNHppUFFocWQxYVhQcEg0OHpURnBleF9QUzM0ancwYi1XS3dLYmdYYmxYa1pZNF9BNG5ETUFFTlR4NVZMTW90MmE2bnZVdi02YUdEcmJRRmExMU9pQzJMM0tobnY5djgxZ2VERGtSYkk?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:09:00Z",
+    "hash": "12b169f1318cbbf64c9d74c08d25bb52912ba707aedf013828ef8f3c8b71d9ac",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "XRP price at Sep 6, 2026 at 7am EDT Crypto Prediction Market - Robinhood",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUtGcDNtSkdhV2FkZHhkdi1pcko1Z0xsU0NaXzNZZFdMd3F1X0pSQlF5T3hPVTk0RkxMSGFqNmlYaHZOa2RDSkRVOGRDOGtDQjlDTlZqMk01R1pGSTdKckwzMjNaNXBMVk1NZHYybXZYWGM3ZFRmbWQ3R3YzWG9IV1Z0c0hsSFFhZnlDajRWTk45NTkwNDd2ME9qNjNGWVd1YmROeFgzWGk3YUJ3?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:07:23Z",
+    "hash": "9faec8ddd34ecf95314f1078a1abb1adf4f6c0d383128fdaefa55ff7aa0d3288",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "BIS Tests XRP Ledger to Anchor Official Statistics On-Chain - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY1hJM0F4aUtTVzZwQk9OWjRMRWVRODNpYy1FX3l6SXhzN2pqNGJzVVpvRm02SGp3Ym5iNktlbWVjTlNJVFc2cVR0UGt4TjExUGlseU1MMG1DRGhBVm9CTTJvM3lybmVWSFQ0ZDNuOUtPZVdCWFVYUnlIaWpHSkQ2ZU5NcUE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:02:50Z",
+    "hash": "be40e639210d8bbc52f5236c3fa354d570a6ed60f5735e852c7d5e17469344d3",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood Markets",
+    "title": "Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto - CryptoSlate",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWWVNcFQ2WnFlemFaUjBBVUJPdU80SGJFei1paTRJSENNMDBVX0FfZmdNZ2p6UU92bjdfejRLUzNvT0hTN2RGX0VUMEVJbWRFRkJfUWsxdzlNelhqQlFNN3kyXy10ckh1NVBQYzlQeFZGNVZiZ3djS0w4enF5LWtzc3EwMzFHRFBSSXg0bjVmSjR6TllzZVJ1aHY5bmdaODhMMk5Lc3A4SUpiR19MOXRXUU9aaTI?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T10:00:43Z",
+    "hash": "040b72403d7f18ddec2351f92f464f7a55283016ae39f416c952e22723da4d0a",
+    "source": "gnews"
+  },
+  {
+    "asset": "XRP",
+    "query": "XRP",
+    "title": "XRP Ticks Up On Regulatory Clarity, Robust ETF Inflows - MarketForces Africa",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObWp1aFExQUxPWUgyMVg5Zm1DcDJ5TDhlM054Y0gyZXlIODAyWFJ4VUR3VzJ4SzNfOWM2Q3dJSG5IYUs3YW50aVIydzdYRUlXeU94d3NXODU1WXh6cWFONGgyMmpxYi1xMWRzaVhObmRDYmRZR19BLWU3MzF6dktoc0hyQmlJSHM?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:55:22Z",
+    "hash": "6e8f39ca59b2ca6efb85a48b8ff7a6709f8c28ef31d451168a753e65c835352e",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Meet the Nvidia-Backed Stock That's Growing at a 454% Pace (It's a Screaming Buy Right Now) - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXRNWk02RXZnZlhpbS1QdjdUbkRUdDRhVTh5VFk1aDV2MnFqeHViYVc4b2VhMWROTHJjM1NzYWdJeDdtS0RMR3dUdFdocG1mMDg1bWFLQkI2Rlk2bXhqRGI4cVZnTm1UVnl2LWpzRXQ0bmdSX2xpMGlNc3JhVmszQnhieEpzZWsxUVdN?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:50:00Z",
+    "hash": "1ade5d9b80e84b6c0a372ccb36b5a19c28fa97f9e5798bd228696822aa01e7b8",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "Robinhood",
+    "title": "Constellation Energy Corporation • Robinhood Token - CEG - Stock Price & News - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CTlA0UjNPU1BuOWFDY2s4Y2dFTy1xSk9xcGVQSXZBcnozaHppU05QeUt3YzBDOGNhamxpSjZPdEV2QmVYeXF6SlY1V1hxbm8?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:33:12Z",
+    "hash": "8b3ec69aec138b9b4f931923953e711b2df7f02f9158eda35c5451ad753d04bd",
+    "source": "gnews"
+  },
+  {
+    "asset": "Unilever",
+    "query": "UL",
+    "title": "Public Employees Retirement System of Ohio Buys New Shares in UL Solutions Inc. $ULS - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUN6ejlsOUlNSmFQUnhPSVlsc0pFZ2RoX3VhbVFWRTQ0QkoyZGtaMkgtbE56Xzh0YzhfUUF2S2hhbGlsZ3RTc25DZGh3QUhIRHgwR0ZNaWRrZGx6ejdBdGN6TnMtSE9VTjJfN1dqcWhXM0FWNjJmeVplNFRnOFZyT3V2OXhpUlBKNDdINDctQ1laQWkwZVp4MG1LY1JibHBzRUpvWHZYUGQyYkVsQmsyT2EzajI1U2hYY21iUVBwWnRTYkxGa1FRXzllcDc4ekY4ckFpUER3TDBEaGs?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:18:43Z",
+    "hash": "9dda1ee6abedd337a695f0a8b214f2c42250388ddb11284dc7d4f134545ada6a",
+    "source": "gnews"
+  },
+  {
+    "asset": "Coinbase",
+    "query": "Coinbase",
+    "title": "Cheapchandej vs Shimizu | Prediction Markets - Coinbase",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qNWVhU1h2cXBLcnNjOTNLbU0xMUZIUng4Q2lkTVJoOTd2bmRHY21OY2twb2VPSGMxRmo0bUEzT2owYVIyN01PeS1VRjZwb1ZQRDBOYW9XUlBkYUN4WlROVWRBT1QzMlJ3T1lUWmhZaURURTR0OUhfX0ZlMA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:14:49Z",
+    "hash": "eda10b51619d580c1873a2e5b145ff138845fd0cbd6ee011ffbae1892fef7b11",
+    "source": "gnews"
+  },
+  {
+    "asset": "Rocket Lab",
+    "query": "RKLB",
+    "title": "RKLB Stock Snaps 3-Day Slide: Investors Shrug Off CFO’s $8.8M Sale As Rocket Lab Scores 94th Launch Win - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT29yN0c2U3BYdDlqUW5fTllfbU1fVUNnU0NsVEpWbmFPV2dkTlREaWNvek5mczRqaFpxMHlfM0c4MXkzaTF5Y1ctc1hhbVZFb1J4VVJxOW41NzRfY0daR1FsSm13bWNKa1ZZelBfcXF4QmRnZE1rT2tNX19LbWhDN0ViM0FUU2xjYUktWndtcE1oZXRTeXZvUzA2MDBvRGpLS3lPVG9WbzJJX0p4Nk9pdw?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:11:14Z",
+    "hash": "c99147736180869c9ad25b6f3159ef9737756550ec7f1cddfc555d02f96ef822",
+    "source": "gnews"
+  },
+  {
+    "asset": "NVIDIA",
+    "query": "NVIDIA",
+    "title": "Meet the Nvidia-Backed Stock That's Growing at a 454% Pace (It's a Screaming Buy Right Now) - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcm9LOFdOSVJFQ1Y1aFJNRDctNmliekV4Y2RfT1ozc3Q2THR1QXRoUV9pRnBuTUZTMnoydF9DUTc3MWVmaVhLZFFxeUc1dkJRNXc1MUZTbUdMR0c1eHB2TEpmTFVWVVNHU3E2cUpGMEc0czZTbEtYMjJGZ0M5VzZzT29xLVFDS0xWT2k5YUh6SDU3d0tsQVdid2Q1NA?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:10:00Z",
+    "hash": "59740e3589d54f8975069a5083f5ccc82262daa01cc6366c9af216ca4a2f273e",
+    "source": "gnews"
+  },
+  {
+    "asset": "Alphabet",
+    "query": "Alphabet Google",
+    "title": "Berkshire’s $10 Billion Alphabet Block Is Down $375 Million Despite Its 6.5% Discount - TechStock²",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGRHZ3o3RUJralpaZ3ZEN1RvR3MxcUd0QW4zQWxjRm81SExtVldQVkc3bExfaDl3a01SX3IzQWJCT3VndDhrS29BTVhhT200UnZoV19jaWh2NVozWWVsRGYxYUNiT3JVQ3JRYXNWRTlwVWRpRUZWdGE3R3dGbHNmNmJJbHBRWmlJTlA2OFRGS29wekMySnQtcG9tOW1lMUpORkxLbQ?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:02:06Z",
+    "hash": "35e6ce79ebefd78e99782d845b0da03896a41e9f949529a4e7040a8e5870304c",
+    "source": "gnews"
+  },
+  {
+    "asset": "Robinhood",
+    "query": "HOOD",
+    "title": "Robinhood Markets, Inc. $HOOD Shares Purchased by NEOS Investment Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX3dycEk0UE5YRW44VTJfS1FFeFhiVTVqTV9kSjE3c2lyQUR4eGhxalhSR0dQZE80R2dVaF8wU3NNNHZXT2ZYT3BERVhMSHV4UmVOX0ZDWVRDWUljOFpUcnZJSlVFMG9pbEF3ZXFIRG8xaGItRHl4LXNNblpqVEt5WGY2WFM0X1lRaGJkRlI1d3YzX19BYzdUMW51allMZXpSWmtSZk51UFViajVudmlNRVgwdUVvSUs4NXhXRU95TTRvdUtzekJQTzBVUUJkanEySzRXcg?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T09:00:35Z",
+    "hash": "e791c0c8bf11c639bfeecf1ab4c11a721da537f296fb6a9a375540e70fb6550b",
+    "source": "gnews"
+  },
+  {
+    "asset": "Bitcoin",
+    "query": "BTC Bitcoin",
+    "title": "Bitcoin at $80K Is Stronger Than It Looks: BTC Is Surviving a Perfect Storm of Bearish News - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmFqaEdhQlJsaHZPTmlaUWRIbUhZX3hnYk1RUHJKWmpjVlRwa3p1NE5remxMX1V6ZFVobFJoQnlieEgwWWs1TUhXYkpfWGhCWWlnOV9iY2JoeXppUk83RVVWR2FvMFJlbkVkSVZKaGhGZzQyRWF6OGNWU2pES3dVSWM5a2JsQ3lveHIxUDEzejZqcUF5TmxsbV9LTU1NQXlEUVZXOWxLY0o4RXZ6Ymhsb0JPTEJDWHFDRDZiZ3pabzRlUjF0WVE?oc=5",
+    "summary": "",
+    "published_at_utc": "2026-09-06T08:49:56Z",
+    "hash": "71aa35479edf8e1868d0e60ff2939d9d27821cb996ce09a3ebafcd8ee14e372d",
     "source": "gnews"
   },
   {
     "asset": "Bitcoin",
     "query": "BTC Bitcoin",
     "title": "Bitcoin price today - OKX",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nV3VvMi1mcVVILXA3VVN2b0ptSjNoYkhnTFhVN2dfajI3Rkk1LTlQZmR6V056STNLR2ZjRktpNWdRb0lYbFJfSklfZTlhWUdmeFZOUm9RakdRUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EalVrMXA3QV9lcVpYNG9sY1B3NXItbmExTDRTREduTEoxRlFhdl9ORndSNDcydzNfbkNkemxTaUVaVVNUZmp5bTRJT1VyMG5vZnlFVjFvQmZpS0R3?oc=5",
     "summary": "",
-    "published_at_utc": "2026-09-06T06:46:01Z",
-    "hash": "28cb4ff2cbde63dafe2cd29b13b41b1dd870d2ce784fe2c447e2df2a64413248",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Videotex Gets Google TV ODM Certification, Targets ₹800 Cr Revenue - Rediff MoneyWiz",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGRTdzhKOWMydlFHNDhUdV9pckxrTFlaR0FLTzU5NHIyNVc5UXJkam14U3pmNFV1MkJ6c3RhQUFvT2lSUUdOUlZUUFlXYU50TUtiWVdxN1A1a0lwS0ZoQktWRkt3aUUzVUxBZXBMTTVuUHpHWjVWd3g1b0FXS2dJNXViS2g4QldaVkJjVl9xX0RMZUdhdWUxQXEzMnVFUEF5U01sOE1kbXZhN2RoYllUSlNnWGdvNFXSAbwBQVVfeXFMTl9WYXN4MEJNb0Y2ODQ4MHFCVjRFUVMxc3VFRktFUDkyU0JDLWtpallxMXJ5cDJaSE1XVVhXcTlSWlpPdnBGV0g5UU04VUliTXdrTTJhTWdOc0JTQ0JaNXd2WFhWSXVlOFRrRFRYWV9Sb2ZWNmtUelVXNmFZSE4tOW9KVTZ1MUF5R1o1Q0E2WXdKNUEtY1l2MUFsLVdTaTFoUjV1aXBJTzZrWWp2dFNUcTM5U0xsSWNnSS1lYWk?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:55:55Z",
-    "hash": "eb23fb9caf4de8797e601b9a588934193f3540810bc6e07f4cec55a3fb97a3aa",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rheinmetall",
-    "query": "Rheinmetall",
-    "title": "Rheinmetall expects €12.4 billion from Germany’s Arminius plan for up to 5,500 Boxers, with potential value reaching €77 billion - Defence Industry Europe",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbEk1aTllUFlvVTdpSTRudWhsNFFUNHVfZWdJcTNNcVExQUJIcWI2VzNsbER6bU5sMXgtdzFzRmt1S3FTc205U3ptNGg2MHUtb0Z5ZzdsM2YyYVVNZGlISktpeGJVcW5OU1RZQ0tkWG9EMzFoRWtXR3ZHYkU1WW05SExwUEtwcUpUNEVuQnZEVEJiTGNVXzQ2aTZBLXB5S084dEVvc2JQb2RhWEZxZFA1bWktTzdncUh0aEJmTGp3VnBNR3dJNk9XVWZJLXUxVG55a0xkLTg5UENIc09rM2xPVnExZENrUGd3X2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:48:51Z",
-    "hash": "80eee2c68fd6c3e00fe7825a9d8110dcfe7e6c9c520995efe0340d44fbf94c27",
-    "source": "gnews"
-  },
-  {
-    "asset": "Rocket Lab",
-    "query": "Rocket Lab",
-    "title": "Rocket Lab CFO Dumps Over 140,000 Company Shares Worth $8.8 Million Amid a 28% One-Year Return - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOV9SeGdoSUpYZEZHemlsMEZuand2d25HLWNFT3F4M2wwWmxWclVGaWFpdkhnTXg4bjh5SGtZcDJjeTVGZmxfQWt6a1VBWG84UTlxa1F2dEZLb05SdkNfeVdyQng0UFBRamFieVM0VWRWM1pwei1UTDA0SzQtWEdBREducGRFTm1MUHJFbThreVBvNmdOVy1SbnZYLUJpY2duOEdRRUZFeUlkUEkxcUNXdzNsSS1pajMyVWdTbUZiVVFJTFc3dlVtbXo5dUhhWENYUFJxcG1QWEFGZklaZUE?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:46:51Z",
-    "hash": "0c2f0742bcf8314f13318c07268917b1e7ddb84d353bb8d8ee18b16d303b9c5c",
-    "source": "gnews"
-  },
-  {
-    "asset": "Alphabet",
-    "query": "Google",
-    "title": "Google Gemini Spark gets Google Photos access, can edit, organise and share photos - Storyboard18",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVkFHRTdYVnFyY3I3ZlJlZDVqUEczNkFKRUNEUUd2dmdaeDJlbkRZa1dmUXZzbTZvRUhtQW91dnBVQUs5MjF1czZ5X1k0T0hob2tGWlJBMnRjMFdWY2l2Y0hpQ3pnWmsxeHpROW0tbm5fQTlxLVhFSDFHUXNwSkpfVDdqZU5KX3lsN3JZS0JCMEZIM1lOUU0xbVRNYWVPV0xQUlF2ZDRtYlFTcXJaN3lWN3dNdHh1ZHRjclNuYjZhUjFiOHc0SHdJ0gHMAUFVX3lxTE15dF83SGxLdTRqTE5ydnZTWW55NVUtbzhMajFKTGYzVU5fQlBHUzlOdmdTdE5TNkhfUzhxX0xvRDNKeHd3VU9IUFFhY0ZuNVRRbmVENDJkZEtlU2ZlaENEblAwbER5UkFpX0hnWmJucFNJMWxVdHFsTnVwQ0p3TFozMVhwN1g5VlhPVGlHWkkzQjB3UzdDRTBkMVFKdHpqcVNxYmdlbmNxeThkOTBHdE1VQTdXUERBX19vdXE2UXQ1ci1MSHd3d1Vxb1hkQQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:46:01Z",
-    "hash": "e8812cdfd14f86f56cd8edc0016254dc953bb458a5c3f4ee8916bc5eda0eb367",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Co-Founder Calls Robinhood Chain's Fee Model Brain Dead - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWRfdmZXNHlOdUgxX1NnY1dvZEFVVWQ3WTNfcTBQbnBrRE11OHBNSDY0MjFORzV6X2ZJZFFwekRSSURiWWhuek9uSUFHcDU1N3doYzNTZ2NWLXE2R0t6NVJRZ0ZwdGdyOHlQckJPcDhxUGtoU3NIUWI2ejVTMGZ0SERSMjJzb2FNNmVxSl9YOGdYQ2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:45:21Z",
-    "hash": "817dfd66d49f03b3b6ce8a091c3840f77e25f9777039fd68f7cd79051df3f246",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Solana Co-Founder Calls Robinhood Chain's Fee Model Brain Dead - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWRfdmZXNHlOdUgxX1NnY1dvZEFVVWQ3WTNfcTBQbnBrRE11OHBNSDY0MjFORzV6X2ZJZFFwekRSSURiWWhuek9uSUFHcDU1N3doYzNTZ2NWLXE2R0t6NVJRZ0ZwdGdyOHlQckJPcDhxUGtoU3NIUWI2ejVTMGZ0SERSMjJzb2FNNmVxSl9YOGdYQ2c?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:45:21Z",
-    "hash": "817dfd66d49f03b3b6ce8a091c3840f77e25f9777039fd68f7cd79051df3f246",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin’s Link to Gold Hits a 6-Year High as Tech Correlation Fades: Why It Matters - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkFoV0pham9zVlFna01VUzRoZU5LM2lfdFNobjZjaHdBVVhYUDZsOGxIbWkxTmpmdWpOMVc5NHhKeGxhdkFPeTM2ZTB5RTN6ck1KSTkxX2prX2VUYnFBTFZuTXp4Z1hHWUNtNk1ZaHVualludU9ybDA3OER3alBCZkxJd1czcDVBdHNzX1g2ZlM5MmhyTnZUVjE2eU1FcU1KSERnR2dzOG1BUU0?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:45:00Z",
-    "hash": "f2411b396575ef11e6ed81ae8d5ed2cee2eeef0e38b853f232d84ad16df3cb1a",
-    "source": "gnews"
-  },
-  {
-    "asset": "Siemens",
-    "query": "GlobalFeed",
-    "title": "Landtagswahl in Sachsen-Anhalt: Chef von Siemens Energy: AfD hat „dramatisch falsche Botschaft“",
-    "url": "https://www.handelsblatt.com/politik/deutschland/wahl-in-sachsen-anhalt-chef-von-siemens-energy-afd-hat-dramatisch-falsche-botschaft/100252039.html",
-    "summary": "Wahllokale sind geöffnet +++ Tausende demonstrieren für Demokratie in Sachsen-Anhalt +++ Merz: Lassen uns von AfD das Land nicht kaputtreden +++ Der Newsblog.",
-    "published_at_utc": "2026-09-06T05:19:04Z",
-    "hash": "75d1eda58bb2010eed0b1431f6040488e9f5015ddf199cf6c911b70581488141",
-    "source": "rss:handelsblatt.com"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "Dogecoin price on Sep 6, 2026 at 2am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTBJSUhLSE1hekViRk5TWlpzeGp1QjE3c190VW5IWGYtLUV4OEVRcmZtaE5SZ1BfNVRvOWhFdHZmNG5jc0Q4WncyaENvb1lhLUxxZVFmTVpjbE1ieHdRQThVbTZyUW1pNWlHZ1AwV19FV0NEOVEtM2JQOGQ0b013RkE5ZC1VX0ltZjBHaFZONHljTkMyMEJ2akJ2SUIwNWwyT0JsYXdJSkxrQ0I4VXFZNC1uNA?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T05:05:45Z",
-    "hash": "49c4b44f94fa728e91124a25a696877e0fc8b27f6251cbf5659577c78a19302e",
-    "source": "gnews"
-  },
-  {
-    "asset": "XRP",
-    "query": "XRP",
-    "title": "Fed Rate Hike Could Hit XRP Hard: ChatGPT Reveals How Low Ripple’s Price Could Go - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2dOVEhDaHBiMlhlcWpuVmwtTGdTZzhPV0JiYTlsS2lKRHNldGUtRFR2MDBhd2RwOFJCanBIMEQ3cXh1RXhKc3ZKWjBFX1RkZzd6QmJ2VFpOSTEwWUlfQzVVSGdtZTVkZTNzN21tb240cnBHWGMwTEZQNVR2WHdrVVIxUmpLTi1GeTFoX0RhY1U3TlR0XzZzOFY4ZnRQOGJHQ0hqSzdJNHRITFpGejY3NDZvSG1NUlIz?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:57:16Z",
-    "hash": "b5ba3c7f0b8b97ef249ec2101ea1ab459c978dad85e163b31a1eba6277e52a78",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood",
-    "title": "Debate erupts over Robinhood Chain fees: who tr... - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMm84SWZVbE53YWp5M096SnBXWEN2V3R1amRYTDk1NVdGS3p6ajhoY3pvSDBkbVpUWll5bnhPVlJ0Z2J4Ny1GZHlpbzZCUXlsZDVGbk93V1pwdGdveWcwZnJONHNLdlpia3V4eEF1TXZoUEU0cDJlZWlVX01LYW1ENTlPcjlLUWU2OFJyRGFHcTBSdGhtVVhUUldWaGtoR0dQZzRRUGg5VEdqUQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:50:36Z",
-    "hash": "de815ac513b8f6848e6ea45b8613ae4a1c990d0c20c82c9f561e90bc90420095",
-    "source": "gnews"
-  },
-  {
-    "asset": "BYD",
-    "query": "BYD",
-    "title": "Is Boyd Gaming (BYD) Undervalued As Expansion Plans Meet Recent Share Price Pressure? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdzdFWTNCWWFfYXcxenJBWjh0NHdqTHRsNzU3bVAtUWt2cGpsYndKSjFqeUN0ZEQxTUV4MzF6NkxHVE5lamtHd0Y4SlhLbEU3SGtaTFBPM1p4U20zTW5JME5RSWhzNk5WRm1uREtiRDhILXpvSTlicExHNTZ3VGRsb0VLVmt0NkZmYXFUY1hicW1UUlVvNkN2UjVRRmlKSkJFSHVhWnJPNHdIeE9lZ0IwclNIaEVfdnlFMGxrMjk2QmxmQTZlSExuN1R6cl9uaVhlZFHSAdcBQVVfeXFMTXNVM01GREMtNmc0THktQ3pGQWxzb3BobTRyQmhDOUVYNmJCM0RiV3ZKaU9SQXhlNUhnTmxZZzRJUThZSDk0Y0JPUmhOY1JyZGlDVVZ5ZXVWV0NFZjk2Smg0c2FPTmM4ZzVmV2wzNW9nR0JxVW13eVBLczJHZktQZms0UGQzWkI3V21HVVM3SFIxQjkyRkl4cllDYXZYVzNCNk10N1ZCekFjXzFXWnQ1VUpJaTdRZnlrXy1qMFc2dW9DekxDNy1sZ2MxdDROMjVraUpuckFvT00?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:36:47Z",
-    "hash": "e4f80b4bdc3843561ba1d68693377506b4eb56912e3158e8673abc23dacdd1bb",
-    "source": "gnews"
-  },
-  {
-    "asset": "CrowdStrike",
-    "query": "CRWD",
-    "title": "Will CrowdStrike’s (CRWD) New AI Security Suite and Partnerships Change Its Core Growth Narrative? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWXM1TWZJTGpJSXhYUlBuRTFqR0t2T2Q3TVhoQ3NaajV6YnBXdDkySVVYUXA0Q2R0REVZRGozWHJKR2t2bVp5b3UzOGFiQnd6azdyaHJGejhBbmFRSjJPTVh0WFpSZVZrTVhOU2l5aVlpb1huNmplcnBOZHhPc1F3bm4tVF9YOWk4YWg5MUVnRi1OZ1FvRXM3WmNPaG1VNm9Oal92eEdTMkx2U0tZX0JzMERsQXBuS2hsQzczX3lLSXhqeGZsbnFnSWdPNlBscklZNFp2OXR30gHbAUFVX3lxTE9oeXVaNmt0clZhcnJycV9uUFYtdUZJUHV6aFQzVUNVVmd1WVl0c2FZeVlGS0RyR1pOenpIRlhMM0dPTjVRRm03VTlmZ1RQMHppU0p3akczOURfdHh2RFFGOVdJY2FkQWgtcFpqaWFPOFVJaU5GYVItdTJ1aEVGWUQ5SzVyRUxvVUNuY0NPa1NiaXpWZ0Rxd3dHLV9KTmo2LVdBSkoxY2cwOXRSVWN0RURKVVJ2UWFDVVNPMzlyNUFRcDhNWnhqRERvejRqQlR3WUZLdElOV3FwR3M5RQ?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:30:44Z",
-    "hash": "17c25c36015d78b5e74373470618b6e7e0d9864b7068fe3097ad983c44e09e66",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana Price Rises 4.3% While U.S. ETFs Post $5.2 Million Outflow - TechStock²",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHZERk03SGJmTERvcm5xaVczWkRLenVFY2NZaGtDb2F6cjRhV3VzZWQzN3RaUWxtRF9vaGp5ZmU0UU8zVDlwYTNway1rUWRqRnRDMmtCSE83UDN5M3BTRXRFb2J3blFCeGpWNG1XMEQyclc3S193UlZSOUNacnVIWXhPZ09hRXotSzFr?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:23:04Z",
-    "hash": "59022f8d21d7d29e29b4896e363f7f889c2f32ec573f39c417a78a532db16df7",
-    "source": "gnews"
-  },
-  {
-    "asset": "Robinhood",
-    "query": "Robinhood Markets",
-    "title": "XRP price at Sep 6, 2026 at 1am EDT Crypto Prediction Market - Robinhood",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdTV6enlBQmJoWS1ROGs3WkNDN2twUmxmVkxmWExsWHpmd0dWYk44NDl4aGFkYTNicVFSdU5HN3RGNU9DU0xHRTh0NXpsb0dCbEt5OGNFTFhjVTdTT0E5bWRXdS1hSnB1aVB4RmhnZUZRLWN2N0YzTC1yUGdKTnpmblcwdk0zUlRRTGlxTW9uVThwbzRqbzFhc2Fpdi1Gc1dkM2tYWWtTX2dPRDJu?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:07:32Z",
-    "hash": "2513ea69bf520641b80682cdcf86482fe209d1f20feb160a00193a52a84a600e",
-    "source": "gnews"
-  },
-  {
-    "asset": "Ethereum",
-    "query": "ETH-USD",
-    "title": "Ethereum (ETHUSD) Is up 1.28% on Sep 6: Key Drivers to Watch - TradingKey",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmJscmNYeEZxdVhDRzEtRWU1OWlvMnNueU1Xd2RoOXVYaE1zRlk1MTZhT2Y3RmwwYk5tOGF4c2t2djBMeXFUeWRsdzFBZl96cldoWGxaaHYteXd5QThSOVg0cW9kRGdRSHBBamptRXJfZ043bDQ5Z1VvTWZrV2Z3YjZHbHRuOG9hei1FbXJB?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:05:16Z",
-    "hash": "7cd85ee3fba764ba3667b86b14a80fd1da19081471db4c6a22b4897249318c12",
-    "source": "gnews"
-  },
-  {
-    "asset": "Solana",
-    "query": "Solana",
-    "title": "Solana (SOLUSD) Is up 2.66% on Sep 6: What Are the Risk Factors? - TradingKey",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2NFQU1GTG1Pb251SWhaZ2t6aWZ6N19lTHZvbm1ZTlZ1dkkxR25WWXYydmtLdHN1eVlDcjJzbkMweG5jVkRPSTlXdHBEajFTeS1EQW9mLWdZb3lkOTZ2dFdoaFlKVG83UWZnZjg3bDFYY0pLckVBQlB3R3ZKcFJ1b0dKUmY2QTVyczJMMVFR?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T04:00:17Z",
-    "hash": "4e3a3304446bbbca8e92bb5ae169ab6fab9cde2d249aa3088dfb29d023f625d8",
-    "source": "gnews"
-  },
-  {
-    "asset": "Bitcoin",
-    "query": "BTC Bitcoin",
-    "title": "Bitcoin ETFs Score $730.8M Day While Bitcoin Falls Below $80K - yellow.com",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KMS00R05JR1JqSkFkYU16RGdSa1RUU2J3REZRMUVPTDlUNXlMbE9KcF9kejFZd3VEZGk0eDU5SWVkOFR3VVV4b3pIVElnZnF1MndqZkVIVzhUOHFKdnY3RFpYYnFUUXd6dFJF?oc=5",
-    "summary": "",
-    "published_at_utc": "2026-09-06T03:57:03Z",
-    "hash": "1d4c0f5482f9b2e03f4b003f8768f0a1c5e5caae62c75b9b64f21cea97d5be42",
+    "published_at_utc": "2026-09-06T08:48:37Z",
+    "hash": "8165559bb1f7e74f87a16a1fb933eebf3ee0d558b4c073bc2194c3ee624702da",
     "source": "gnews"
   }
 ]
